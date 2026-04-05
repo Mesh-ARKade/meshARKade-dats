@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microsoft Xbox One - Magazines - Official XBOX Magazine (AU)</name>
+		<description>Microsoft Xbox One - Magazines - Official XBOX Magazine (AU) (TOSEC-v2024-03-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-03-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Essential Guide to Kinect - Special Edition 23 (2013-12)(Future Publishing)(GB)">
+		<description>Essential Guide to Kinect - Special Edition 23 (2013-12)(Future Publishing)(GB)</description>
+		<rom name="Essential Guide to Kinect - Special Edition 23 (2013-12)(Future Publishing)(GB).pdf" size="39057328" crc="d75506ee" md5="0b5e1274b01fb8776ba4a8b0fb2500e0" sha1="dc363aae59a4eeb09bf08e972f997b3d09765274"/>
+	</game>
+	<game name="Halo Series Companion (2010)(Future Publishing)(AU)">
+		<description>Halo Series Companion (2010)(Future Publishing)(AU)</description>
+		<rom name="Halo Series Companion (2010)(Future Publishing)(AU).pdf" size="51374573" crc="dc6b3ae0" md5="fa29ef5b360710bd266260a7caacd65d" sha1="334db42310f7b4144bb0f20c889cb1b818ef94ce"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 015 (2007-05)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 015 (2007-05)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 015 (2007-05)(Derwent Howard)(AU).pdf" size="220515075" crc="978b61f6" md5="2087e476b7658394792bdc75265cea30" sha1="eb170bf4a957b58ffea15b243abbf5f9b1728111"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 016 (2007-06)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 016 (2007-06)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 016 (2007-06)(Derwent Howard)(AU).pdf" size="339078824" crc="4314f682" md5="08aa9b0760e17e0adbab3ed5c7c44e3c" sha1="1620b3b5f0b3badeab62baa22fe79d6bace2a595"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 017 (2007-07)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 017 (2007-07)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 017 (2007-07)(Derwent Howard)(AU).pdf" size="338134093" crc="e7ecabf8" md5="8e885505d797bfcf27a41ccdf83bc182" sha1="2240667c34f0dba2a5775f279598e7fd58fdb820"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 018 (2007-08)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 018 (2007-08)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 018 (2007-08)(Derwent Howard)(AU).pdf" size="381295233" crc="fde3f3d0" md5="da06384a72418d0aece7c4082c376c99" sha1="7e142a12f533b01ddc74ccf955db0746d07cf20a"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 019 (2007-09)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 019 (2007-09)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 019 (2007-09)(Derwent Howard)(AU).pdf" size="396470831" crc="ba8ea6f9" md5="d8ed919af5ca43a9063801e5aa642c6d" sha1="fefbfe79f30bd9469d4b652b8ef6a83aab3de300"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 020 (2007-10)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 020 (2007-10)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 020 (2007-10)(Derwent Howard)(AU).pdf" size="335503918" crc="402a396e" md5="27bca950196a63b431ac3e38094fc9e9" sha1="934ec5eecf05975ff7180d7d5086e63149088dbe"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 024 (2008-01)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 024 (2008-01)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 024 (2008-01)(Derwent Howard)(AU).pdf" size="324698590" crc="c344166d" md5="f0262eb35f4feb17960ac114b2084676" sha1="ad2e348a1eb9ad60eba184720942a05be4e93869"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 025 (2008-02)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 025 (2008-02)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 025 (2008-02)(Derwent Howard)(AU).pdf" size="323198490" crc="0511e5a5" md5="9cbcf2d6a0be07fca55f771e3788daa2" sha1="c5d290e699086338b2a74066e941c8970c3e345e"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 026 (2008-03)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 026 (2008-03)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 026 (2008-03)(Derwent Howard)(AU).pdf" size="245893605" crc="39979655" md5="8ef571d34d11a2663bd2cc153ad0c8e5" sha1="2d4202e6fd594de28c80c6b661c107e50e6df698"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 027 (2008-04)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 027 (2008-04)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 027 (2008-04)(Derwent Howard)(AU).pdf" size="317194486" crc="8fb3242e" md5="aec94584fd7ff6cae134e6c37df5a84b" sha1="a265a83da945c2758730b4ddde59b710bd9f7e1d"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 028 (2008-05)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 028 (2008-05)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 028 (2008-05)(Derwent Howard)(AU).pdf" size="326396865" crc="71468718" md5="c0f6f5ebae3db508cb84984c889966c6" sha1="5c794da4620c17aca2fa3ed54902c2dd85d0efaa"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 032 (2008-08)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 032 (2008-08)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 032 (2008-08)(Future Publishing)(AU).pdf" size="316364775" crc="7752b4f7" md5="a6d9a48442afdad45471628db0e0c7e9" sha1="7955aa16f68743a88f2b9893d4f0b014cbb6a7ac"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 033 (2008-09)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 033 (2008-09)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 033 (2008-09)(Future Publishing)(AU).pdf" size="190181170" crc="825155b7" md5="b496796dcc8c287ff870b48340e7555e" sha1="304103c98f7d94cb39f400f03554d0d39a72b899"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 036 (2008-12)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 036 (2008-12)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 036 (2008-12)(Future Publishing)(AU).pdf" size="304745768" crc="b029ea56" md5="95cfeb2cc23a4421289675ee3bf264fe" sha1="bb9becf8b2edfe63486d446a48dbb14e5a29c788"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 037 (2009-01)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 037 (2009-01)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 037 (2009-01)(Future Publishing)(AU).pdf" size="306225980" crc="ade776b1" md5="5376dc4b971b34e1c3e246bfd5fd6558" sha1="a1f128e25aee37da9dddc57cf78b1e870baec01f"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 038 (2009-02)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 038 (2009-02)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 038 (2009-02)(Future Publishing)(AU).pdf" size="198956681" crc="73d8cbfe" md5="66d4eea8020dc7c306cff4f44095614c" sha1="881a6882d45907a957622ca73ca959c4cca329cb"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 039 (2009-03)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 039 (2009-03)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 039 (2009-03)(Future Publishing)(AU).pdf" size="208869800" crc="e2b3eab4" md5="5c29e3617c7fa53db2e1e3666be7db5d" sha1="cee274bca1882602a3721b8d4a4254878d64af50"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 040 (2009-04)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 040 (2009-04)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 040 (2009-04)(Future Publishing)(AU).pdf" size="443974222" crc="7f690852" md5="ed4b0194aa888d85e4de656b51db5a22" sha1="3f5e1dd29e8d110ae8912e97bf65fa65a65a25da"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 042 (2009-06)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 042 (2009-06)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 042 (2009-06)(Future Publishing)(AU).pdf" size="192311949" crc="f24a16de" md5="67fa59faf1a6f851dbe842e70e840ad8" sha1="879d460ea16ce7a19f37567a80b389f5c98e65a1"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 047 (2009-10)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 047 (2009-10)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 047 (2009-10)(Future Publishing)(AU).pdf" size="201994654" crc="0f05f48a" md5="7573d29eb5baf39797f38337ace0cc4d" sha1="952d96bfe997bec3b0e2fdc85cbc924ca963448a"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 048 (2009-11)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 048 (2009-11)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 048 (2009-11)(Future Publishing)(AU).pdf" size="260768721" crc="32abb908" md5="179a3746475a975b971648d8b4d06f08" sha1="27eee96067b305eaf90ca7891b70447e3bf7f001"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 049 (2009-12)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 049 (2009-12)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 049 (2009-12)(Future Publishing)(AU).pdf" size="378962057" crc="7e29e526" md5="7c68d868d4a5f12478fea72af5a070d8" sha1="64ea4e1e33c3e47e28a56de7de4e8e3691521ad5"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 051 (2010-02)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 051 (2010-02)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 051 (2010-02)(Future Publishing)(AU).pdf" size="244860790" crc="ad307741" md5="42ec0762d46cd6f0d4ce1d25484d687f" sha1="996a41dbb81377c6825db5e107ae15a846d40e77"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 052 (2010-03)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 052 (2010-03)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 052 (2010-03)(Future Publishing)(AU).pdf" size="190386880" crc="7d8c1beb" md5="f9d15c3600c79d822b0486cfa73312ea" sha1="150f6b3377118866ea82e5b5c93064f76dac2cac"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 053 (2010-04)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 053 (2010-04)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 053 (2010-04)(Future Publishing)(AU).pdf" size="256904072" crc="1a7b87e8" md5="878eb0f23d1dcb58bdc7768f655cd096" sha1="d81754ad59240094b510971ec3deaa362ad6748b"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 054 (2010-05)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 054 (2010-05)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 054 (2010-05)(Future Publishing)(AU).pdf" size="248226356" crc="bcc29173" md5="d79eab81a7a75625e3a0a41fdaf621d8" sha1="0d7b8faecacbd3698d84ed788fb28651d7dd8d23"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 055 (2010-06)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 055 (2010-06)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 055 (2010-06)(Future Publishing)(AU).pdf" size="249900172" crc="1f13f29f" md5="d41665ccf44bf0bc67b35bf57eb03b18" sha1="d9c6a7d3468710c489491a73beb619bb56b9e3b9"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 056 (2010-07)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 056 (2010-07)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 056 (2010-07)(Future Publishing)(AU).pdf" size="240230864" crc="ba6030c0" md5="402aa48f06c6147be03f8a4f5a6dc801" sha1="842fc66e012494dcfae2c8e4df9b8bebf3ae1a77"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 057 (2010-08)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 057 (2010-08)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 057 (2010-08)(Future Publishing)(AU).pdf" size="238979646" crc="e67a8960" md5="e964b229c1c47f410c7024e0ee3d2f36" sha1="d71d9bf40139b9bc61f7787f3906932067c0d3c3"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 058 (2010-09)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 058 (2010-09)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 058 (2010-09)(Future Publishing)(AU).pdf" size="247045739" crc="748f0abe" md5="e688e2f4e087dea3c33c0afb074711f7" sha1="d1371405348e515284d7e47406647cd2ab9a0b04"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 059 (2010-10)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 059 (2010-10)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 059 (2010-10)(Future Publishing)(AU).pdf" size="247459546" crc="f0964b72" md5="fa1340f740b352d5b18d2d01ca58fd27" sha1="1785af5344e69cc4d97c66ecb27e29dfc995523d"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 060 (2010-10)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 060 (2010-10)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 060 (2010-10)(Future Publishing)(AU).pdf" size="257332961" crc="4a7b7ef7" md5="4d9e1cc062efc5f1f1bc17d4aaaf25ab" sha1="53caa18d02f048208890b76782ae1e1d35b5c7a5"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 061 (2010-11)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 061 (2010-11)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 061 (2010-11)(Future Publishing)(AU).pdf" size="254358231" crc="a3e1b91a" md5="6358b6ccdd24b9bda6425aaeb4b6bcc7" sha1="a3434961dd0e84913c78c628239408bdfbcc8ee9"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 062 (2010-12)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 062 (2010-12)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 062 (2010-12)(Future Publishing)(AU).pdf" size="256006407" crc="1f2813e9" md5="9d4feb4f3030d1153ced20f9d0da1ae3" sha1="4820b9682d31f3d246e18e91683afd13937ed556"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 066 (2011-04)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 066 (2011-04)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 066 (2011-04)(Future Publishing)(AU).pdf" size="250563815" crc="0dfb487d" md5="d6f402670e7fd3dc9bc8534172248ba3" sha1="f1155af3e09b501a331325c32a5eb75a7f207678"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 073 (2011-11)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 073 (2011-11)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 073 (2011-11)(Future Publishing)(AU).pdf" size="377756456" crc="53506df1" md5="84525e4f0be6688b494d275e5020b883" sha1="682d4dd641bb74d8bf5322f12432444c508a2355"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 074 (2011-12)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 074 (2011-12)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 074 (2011-12)(Future Publishing)(AU).pdf" size="210203996" crc="515b170f" md5="3ae025f72623b1379d22419f1931fdf6" sha1="a11b9045b326e00c8770f5a26cf371fba2212a5d"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 075 (2012-01)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 075 (2012-01)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 075 (2012-01)(Future Publishing)(AU).pdf" size="206776985" crc="a7719372" md5="722dc8fc917069737281b2378829ca29" sha1="08a6f4407c94c41d825e1b965c75ff37743f2299"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 078 (2012-04)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 078 (2012-04)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 078 (2012-04)(Future Publishing)(AU).pdf" size="203208816" crc="95701962" md5="988486d5b6347a2a91e881d26396aefb" sha1="f208e993052a2f1d96f2f5319c99b316d8be3569"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 079 (2012-05)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 079 (2012-05)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 079 (2012-05)(Future Publishing)(AU).pdf" size="203655324" crc="1086392e" md5="f2311c746c2b606b57314c5047d0de0a" sha1="52e920fff439ababeb5b47f03157e2eca1f32e9c"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 080 (2012-06)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 080 (2012-06)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 080 (2012-06)(Future Publishing)(AU).pdf" size="212633194" crc="483e861e" md5="23f20422c83622d06f5fdbb00ad1bcee" sha1="af834c14a8a31eb8c65bd7d75bcdfd13eae074ad"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 081 (2012-07)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 081 (2012-07)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 081 (2012-07)(Future Publishing)(AU).pdf" size="201645234" crc="529ad622" md5="9e0c951235ce68fed229d5c626165016" sha1="c8265d95ad2ca98e5a631a8db4a4478dc0399516"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 082 (2012-08)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 082 (2012-08)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 082 (2012-08)(Future Publishing)(AU).pdf" size="200532560" crc="d6db44eb" md5="006ecd5dcf67c367fef08a0b86549015" sha1="5e7e5d83e8de907e4bd0ce877fd88d1f8e7cdf0b"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 083 (2012-09)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 083 (2012-09)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 083 (2012-09)(Future Publishing)(AU).pdf" size="203918899" crc="5b8dee66" md5="cf626f66ae05a00b2f94cd5b171e86e0" sha1="7ea4539103955b312e882faed42f1955c7b6cba4"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 084 (2012-10)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 084 (2012-10)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 084 (2012-10)(Future Publishing)(AU).pdf" size="363262629" crc="76194e11" md5="02e44d6872472db1809cda07e40a3d63" sha1="4ced83051cddae3d763871bb80d6ccda88e9807a"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 086 (2012-12)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 086 (2012-12)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 086 (2012-12)(Future Publishing)(AU).pdf" size="205435409" crc="b6995deb" md5="e13c773ce3c1a51306e6f9459a7d229c" sha1="a80313d72bfa5d562913e25aae0773cbd5134f30"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 090 (2013-01)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 090 (2013-01)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 090 (2013-01)(Future Publishing)(AU).pdf" size="355422348" crc="d5a1b0a5" md5="165d428f620caf5f0f6011db1580810e" sha1="44dca5ba1eb5614c526cf80b252b274ba4f1ea6a"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 091 (2013-02)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 091 (2013-02)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 091 (2013-02)(Future Publishing)(AU).pdf" size="188984955" crc="bc751f1b" md5="b621926e774fc11b4ddd7de6051de75a" sha1="0ad6846f99e97105244c1eda87fb87a0b1105ab6"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 092 (2013-03)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 092 (2013-03)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 092 (2013-03)(Future Publishing)(AU).pdf" size="359449814" crc="73b1291c" md5="6f002a2287e89b1b4862134736b2409c" sha1="19f2145050e26044dc401c68b59998b277a8cb12"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 093 (2013-04)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 093 (2013-04)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 093 (2013-04)(Future Publishing)(AU).pdf" size="343837966" crc="6b95bb8c" md5="41f18f965ad0f0cb750cc3ab38835255" sha1="8b3513dfc03145a4384d41515c5076ce9ae894a1"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 094 (2013-05)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 094 (2013-05)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 094 (2013-05)(Future Publishing)(AU).pdf" size="335635502" crc="268a87d2" md5="2963883a041b39ce19265882ea14bd33" sha1="b1720f25e7030ade438a7a8b320d335bae64643f"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 095 (2013-07)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 095 (2013-07)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 095 (2013-07)(Future Publishing)(AU).pdf" size="348637975" crc="6db76bdc" md5="5e2c1facc040ca609ff9327d25558d28" sha1="51137a8379765eef3dacbcee80acdc78c0ade315"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 096 (2013-08)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 096 (2013-08)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 096 (2013-08)(Future Publishing)(AU).pdf" size="388306506" crc="2b44a7e4" md5="ab4a8d423dff7403b5c33f9b7ad1399d" sha1="4daf329ccd756c8ec8b12d18800d1fdc489b9958"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 097 (2013-09)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 097 (2013-09)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 097 (2013-09)(Future Publishing)(AU).pdf" size="365046409" crc="c658dfc3" md5="930371c709a72d3f111e00262c7959ef" sha1="3ae314adc2c3b22fea9964f3ebd109d33b5ed3d2"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 098 (2013-10)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 098 (2013-10)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 098 (2013-10)(Future Publishing)(AU).pdf" size="351303719" crc="ac2ecbbc" md5="a83f0f7971aa19bb0c7069008860eb53" sha1="79e4890b9276967567d20a6b5a473dbeec493788"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 099 (2013-11)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 099 (2013-11)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 099 (2013-11)(Future Publishing)(AU).pdf" size="352613573" crc="cfa3632f" md5="7448ff26ada8bbc339fa81916059876a" sha1="c3048c767e43c3e952625d6093f1c3d70ba8d2b0"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 100 (2013-12)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 100 (2013-12)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 100 (2013-12)(Future Publishing)(AU).pdf" size="340667569" crc="6acb24c8" md5="db896bde4a862503c0cc2d990bab1e69" sha1="df294780066406a51cf346bc977db9e4327374ee"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 101 (2013)(Future Publishing)(AU)[christmas edition]">
+		<description>Official XBOX Magazine - Issue 101 (2013)(Future Publishing)(AU)[christmas edition]</description>
+		<rom name="Official XBOX Magazine - Issue 101 (2013)(Future Publishing)(AU)[christmas edition].pdf" size="157332040" crc="ed95de65" md5="fa76c74aebcfcc65d6619fec955698f8" sha1="c35a2f9fd6e6ac826c40b5fc920f70005ac5890d"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 102 (2014-01)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 102 (2014-01)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 102 (2014-01)(Future Publishing)(AU).pdf" size="168464517" crc="8852b796" md5="de03da1b5715c42a7c9fe270565b29c8" sha1="6f19ea204217caa9fdc7782dd9c43d471d0fe478"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 103 (2014-02)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 103 (2014-02)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 103 (2014-02)(Future Publishing)(AU).pdf" size="341726039" crc="5c4d1799" md5="da501f57a07fc1a2520abbf1fc110d2c" sha1="9dd76af59cd4e3357fe0dcb8c485993d56425d6b"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 104 (2014-03)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 104 (2014-03)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 104 (2014-03)(Future Publishing)(AU).pdf" size="340952665" crc="4a01a03f" md5="aef0233738dbcfe0babd30cd8285d6b9" sha1="d0775c1a867f3aa70178f9b99f7e44642e265bfa"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 105 (2014-04)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 105 (2014-04)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 105 (2014-04)(Future Publishing)(AU).pdf" size="347221653" crc="3bb904ba" md5="c1ca2904f1adfac943b1e893b5743058" sha1="e648d676f01755432f1116b8e95c71e3337645f1"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 106 (2014-05)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 106 (2014-05)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 106 (2014-05)(Future Publishing)(AU).pdf" size="353986079" crc="e590f067" md5="744bdd401ad3a9a30129b622af7cfddc" sha1="954dcc33d0c58b59a4146bf0f207fa0d5bb8d7ff"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 107 (2014-06)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 107 (2014-06)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 107 (2014-06)(Future Publishing)(AU).pdf" size="342453221" crc="a057ff0a" md5="6330dba5cf58aa99a54031c6922750cb" sha1="c8fad03bd549d8da7cd22d115cea08d55a178120"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 108 (2014-07)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 108 (2014-07)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 108 (2014-07)(Future Publishing)(AU).pdf" size="347657618" crc="09d5f32d" md5="1a779d73300bdc595615bb74b49d76ca" sha1="d5dd092ccc723044e53bc9e1751b4e1561c73767"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 109 (2014-08)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 109 (2014-08)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 109 (2014-08)(Future Publishing)(AU).pdf" size="343923793" crc="1499e31a" md5="06984fcb2de6255828ef15636575e850" sha1="210e2be779ec213f115cfb9b848783caee3357a2"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 110 (2014-09)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 110 (2014-09)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 110 (2014-09)(Future Publishing)(AU).pdf" size="357783477" crc="8e2c6046" md5="37a6b83f083093c97f569b4840f7d738" sha1="1425257abfd94d26a8ba98713ebfe6181d90fa19"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 112 (2014-10)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 112 (2014-10)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 112 (2014-10)(Future Publishing)(AU).pdf" size="354311139" crc="39e2bc9f" md5="169d45fd4f5e80dae521e131adb24c01" sha1="1b1d9426387e489982b16844960b714d4c561eb0"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 114 (2014-12)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 114 (2014-12)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 114 (2014-12)(Future Publishing)(AU).pdf" size="353048155" crc="1a7e24d6" md5="6fdb7d96acff6a4ab0d544bbcbb70202" sha1="e3afdeb2b5b26980bdcead6cb9a95504ae91ed76"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 120 (2015-06)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 120 (2015-06)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 120 (2015-06)(Future Publishing)(AU).pdf" size="340708970" crc="8afb0c06" md5="9eef088e2a4b78f3e49f7e463471606a" sha1="49c8cffcbc9f2e46988a7543f8c65efe069e282a"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 125 (2015-10)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 125 (2015-10)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 125 (2015-10)(Future Publishing)(AU).pdf" size="353641967" crc="aa413015" md5="5fbb7b30a52784d145f23bf42c9dd8e8" sha1="32f4fcfef00bfd8bdbc0c88aa3d0402e49c6f469"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 127 (2015-12)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine - Issue 127 (2015-12)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 127 (2015-12)(Future Publishing)(AU).pdf" size="184005883" crc="9ed73e9a" md5="c4b3cb231d86205fc609ad7c62206bdd" sha1="ce1ad9246f47c1914b259cfbe7dea4a1dddc34ef"/>
+	</game>
+	<game name="Official XBOX Magazine Presents Halo (2014)(Future Publishing)(AU)">
+		<description>Official XBOX Magazine Presents Halo (2014)(Future Publishing)(AU)</description>
+		<rom name="Official XBOX Magazine Presents Halo (2014)(Future Publishing)(AU).pdf" size="218781486" crc="d8a748b8" md5="10525ded6a3c00cbbea1f485bf0e2161" sha1="dede68fb56ebad8c31534daad0f2a80f3748e9d0"/>
+	</game>
+</datafile>

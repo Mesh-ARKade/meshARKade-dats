@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Games-X (GB)</name>
+		<description>Multi-format - Magazines - Games-X (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Games-X - Issue 01 (1991-05-03)(Europress International)(GB)">
+		<description>Games-X - Issue 01 (1991-05-03)(Europress International)(GB)</description>
+		<rom name="Games-X - Issue 01 (1991-05-03)(Europress International)(GB).pdf" size="117588763" crc="6ec3d2d2" md5="67da6643f62d2e653f29d4e2b3b92842" sha1="c66cba9b17bd8d8df7aa7c6cd8b165fe09617069"/>
+	</game>
+</datafile>

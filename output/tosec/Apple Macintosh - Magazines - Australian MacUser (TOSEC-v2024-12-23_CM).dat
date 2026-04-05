@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Magazines - Australian MacUser</name>
+		<description>Apple Macintosh - Magazines - Australian MacUser (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Australian MacUser (1992-04)(Computer Publications)(AU)">
+		<description>Australian MacUser (1992-04)(Computer Publications)(AU)</description>
+		<rom name="Australian MacUser (1992-04)(Computer Publications)(AU).pdf" size="185332202" crc="df3ae339" md5="13e786685fe437b151fceb06bad7cd26" sha1="72f3bac3aac4f9914ed3bf9386e554d76fe0c071"/>
+	</game>
+	<game name="Australian MacUser - Issue No 30 (1995-04)(Niche Media)(AU)">
+		<description>Australian MacUser - Issue No 30 (1995-04)(Niche Media)(AU)</description>
+		<rom name="Australian MacUser - Issue No 30 (1995-04)(Niche Media)(AU).pdf" size="129215477" crc="2899b5b3" md5="2fe397ac0e10e7b211210422137f07c6" sha1="e6ac554d787cac568945bf9ae4281511b04f8513"/>
+	</game>
+	<game name="Australian MacUser - Issue No 41 (1996-04)(Niche Media)(AU)">
+		<description>Australian MacUser - Issue No 41 (1996-04)(Niche Media)(AU)</description>
+		<rom name="Australian MacUser - Issue No 41 (1996-04)(Niche Media)(AU).pdf" size="152112333" crc="143d56f0" md5="120c4128ae15a77e434bbf98c1ec75ed" sha1="38b943759ec4fb59b47bc453e66ae56f2af50d82"/>
+	</game>
+	<game name="Australian MacUser - Issue No 45 (1996-08)(Niche Media)(AU)">
+		<description>Australian MacUser - Issue No 45 (1996-08)(Niche Media)(AU)</description>
+		<rom name="Australian MacUser - Issue No 45 (1996-08)(Niche Media)(AU).pdf" size="40069210" crc="8d9976cf" md5="bab05ca6109859c83331420782691693" sha1="a61ec23b30fb3041b8c9e10308d9c7dfd477d456"/>
+	</game>
+	<game name="Australian MacUser - Issue No 50 (1997-02)(Niche Media)(AU)">
+		<description>Australian MacUser - Issue No 50 (1997-02)(Niche Media)(AU)</description>
+		<rom name="Australian MacUser - Issue No 50 (1997-02)(Niche Media)(AU).pdf" size="224270812" crc="3c4f59d1" md5="a4ccbad0543d220f5709819d4fa9fd9b" sha1="00f9cde2f887661d9fccb60b73a3d4e593bf008b"/>
+	</game>
+	<game name="Australian MacUser - Issue No 51 (1997-03)(Niche Media)(AU)">
+		<description>Australian MacUser - Issue No 51 (1997-03)(Niche Media)(AU)</description>
+		<rom name="Australian MacUser - Issue No 51 (1997-03)(Niche Media)(AU).pdf" size="108991911" crc="7a13a609" md5="4bb3cf919d8e61ea0866b6427148f87d" sha1="f286162d2aab7d991b0a8c91f62f1027c16a1745"/>
+	</game>
+	<game name="Australian MacUser - Issue No 60 (1997-12)(Niche Media)(AU)">
+		<description>Australian MacUser - Issue No 60 (1997-12)(Niche Media)(AU)</description>
+		<rom name="Australian MacUser - Issue No 60 (1997-12)(Niche Media)(AU).pdf" size="211906580" crc="23e16048" md5="7d8c8c42df885c2d556a1cd8ccca84d7" sha1="f2093897e63ec6e033ca842f480966c63a0595b6"/>
+	</game>
+</datafile>

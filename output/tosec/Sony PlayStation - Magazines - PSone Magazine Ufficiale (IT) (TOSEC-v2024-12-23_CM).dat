@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PSone Magazine Ufficiale (IT)</name>
+		<description>Sony PlayStation - Magazines - PSone Magazine Ufficiale (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PSone Magazine Ufficiale - N.01 (2002-12)(PlayPress)(IT)">
+		<description>PSone Magazine Ufficiale - N.01 (2002-12)(PlayPress)(IT)</description>
+		<rom name="PSone Magazine Ufficiale - N.01 (2002-12)(PlayPress)(IT).pdf" size="288865061" crc="cf4baf23" md5="15d8320e562ce5783c1f997483ef2038" sha1="9256a14e836d6aade1c032d21c5abe77678bf5a8"/>
+	</game>
+</datafile>

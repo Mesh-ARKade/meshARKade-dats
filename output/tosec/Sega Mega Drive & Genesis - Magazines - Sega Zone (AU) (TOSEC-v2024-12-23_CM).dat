@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega Drive &amp; Genesis - Magazines - Sega Zone (AU)</name>
+		<description>Sega Mega Drive &amp; Genesis - Magazines - Sega Zone (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Zone - Issue 05 (1993)(Sega-Ozisoft)(AU)">
+		<description>Sega Zone - Issue 05 (1993)(Sega-Ozisoft)(AU)</description>
+		<rom name="Sega Zone - Issue 05 (1993)(Sega-Ozisoft)(AU).pdf" size="31366646" crc="9dbb62d4" md5="9e5e1023f8e3b00b338a0253b9f4cacd" sha1="74d02552f0554f516125f7559d120401d9c2337a"/>
+	</game>
+	<game name="Sega Zone - Issue 06 (1993)(Sega-Ozisoft)(AU)">
+		<description>Sega Zone - Issue 06 (1993)(Sega-Ozisoft)(AU)</description>
+		<rom name="Sega Zone - Issue 06 (1993)(Sega-Ozisoft)(AU).pdf" size="35439957" crc="9004dce7" md5="24988a07d770ffb805038fc2f10cd19a" sha1="70ad54928e3681f2f2475ea9e0e03ee152aa89bb"/>
+	</game>
+	<game name="Sega Zone - Issue 07 (1993)(Sega-Ozisoft)(AU)">
+		<description>Sega Zone - Issue 07 (1993)(Sega-Ozisoft)(AU)</description>
+		<rom name="Sega Zone - Issue 07 (1993)(Sega-Ozisoft)(AU).pdf" size="62073733" crc="9e039c8c" md5="c1576e7f1678b71e042e66537e6c10e5" sha1="ad4da67b8d920263be33971c1b00da9258ef26d2"/>
+	</game>
+	<game name="Sega Zone - Issue 08 (1993)(Sega-Ozisoft)(AU)">
+		<description>Sega Zone - Issue 08 (1993)(Sega-Ozisoft)(AU)</description>
+		<rom name="Sega Zone - Issue 08 (1993)(Sega-Ozisoft)(AU).pdf" size="66081636" crc="75ea8e79" md5="e6d62da890a227a636dd1d673ef740b2" sha1="a1a3d908e1e2f211c9501e7ec93f795dbef10d7e"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Strategy Plus (GB)</name>
+		<description>Multi-format - Magazines - Strategy Plus (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Strategy Plus - Issue 05 (1991-02)(Foxray)(GB)">
+		<description>Strategy Plus - Issue 05 (1991-02)(Foxray)(GB)</description>
+		<rom name="Strategy Plus - Issue 05 (1991-02)(Foxray)(GB).pdf" size="8062645" crc="c7abd6cd" md5="2c21bbaa03d5bbae329ffefe5929f4b1" sha1="ba2b242c20f62456f30ea0358e9c0f4b1958068b"/>
+	</game>
+</datafile>

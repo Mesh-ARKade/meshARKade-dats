@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Player Station (FR)</name>
+		<description>Sony PlayStation - Magazines - Player Station (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Player Station - N.01 (1998-05)(Media Systeme Edition)(FR)">
+		<description>Player Station - N.01 (1998-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Station - N.01 (1998-05)(Media Systeme Edition)(FR).pdf" size="82063934" crc="1a4f5087" md5="720549103a8f299711d78ce4f6d45e79" sha1="b481430a00435bab7acf82883fad4386cdfcc720"/>
+	</game>
+	<game name="Player Station Hors-Serie N.1 Spyro the Dragon - Les Plans Complets en 3D (1998)(Media Systeme Edition)(FR)">
+		<description>Player Station Hors-Serie N.1 Spyro the Dragon - Les Plans Complets en 3D (1998)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Station Hors-Serie N.1 Spyro the Dragon - Les Plans Complets en 3D (1998)(Media Systeme Edition)(FR).pdf" size="56278674" crc="b97c1d9c" md5="25c9cf6922a25ac291f5bcba81fa6f2d" sha1="c8492e21a8b8976f9fd079c89e0a520f0c14e0c5"/>
+	</game>
+	<game name="Player Station Hors-Serie N.4 L'Exode d'Abe - La Soluce Complete (1998)(Media Systeme Edition)(FR)">
+		<description>Player Station Hors-Serie N.4 L'Exode d'Abe - La Soluce Complete (1998)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Station Hors-Serie N.4 L'Exode d'Abe - La Soluce Complete (1998)(Media Systeme Edition)(FR).pdf" size="131110954" crc="a525c9e3" md5="7509a35e976a430c972794556be2b858" sha1="5bf646f77728a5e4b390e27744e24b3b6ab54645"/>
+	</game>
+	<game name="Player Station Hors-Serie N.5 Solution Complete de Tomb Raider III (1998)(Media Systeme Edition)(FR)">
+		<description>Player Station Hors-Serie N.5 Solution Complete de Tomb Raider III (1998)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Station Hors-Serie N.5 Solution Complete de Tomb Raider III (1998)(Media Systeme Edition)(FR).pdf" size="172934958" crc="3bcd0bcd" md5="f7bc312ee990f9330288f5202ab12171" sha1="2dc040581334886c21789b8d6279494da459c683"/>
+	</game>
+</datafile>

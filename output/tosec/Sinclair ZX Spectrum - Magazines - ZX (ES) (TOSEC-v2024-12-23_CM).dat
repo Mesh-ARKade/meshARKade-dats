@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - ZX (ES)</name>
+		<description>Sinclair ZX Spectrum - Magazines - ZX (ES) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ZX - Ano 1 N.01 (1983-12)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.01 (1983-12)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.01 (1983-12)(Publinformatica)(ES).pdf" size="12007935" crc="f5b2ea01" md5="d850745c31fbc770d0091ac35f55b32d" sha1="a8426a9e2dc869057582184be6d847ea61591b70"/>
+	</game>
+	<game name="ZX - Ano 1 N.02 (1984-01)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.02 (1984-01)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.02 (1984-01)(Publinformatica)(ES).pdf" size="12942406" crc="a7f36450" md5="71aba39630b8baf95e6538af7ff730c6" sha1="7145e195794b338f696912abeb54a8f1a38c13dd"/>
+	</game>
+	<game name="ZX - Ano 1 N.03 (1984-02)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.03 (1984-02)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.03 (1984-02)(Publinformatica)(ES).pdf" size="13668952" crc="893cd016" md5="f4be854e1ae242f8edbab5f62cd16927" sha1="3a542709fe0cfd24b632d4a56b38b0a776c286e2"/>
+	</game>
+	<game name="ZX - Ano 1 N.04 (1984-03)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.04 (1984-03)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.04 (1984-03)(Publinformatica)(ES).pdf" size="15404620" crc="67bbce48" md5="1fba4f522e6070d3af3d557da63b8d17" sha1="d12e39a1ee40773fb95e13755c4375a41e2417c1"/>
+	</game>
+	<game name="ZX - Ano 1 N.05 (1984-04)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.05 (1984-04)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.05 (1984-04)(Publinformatica)(ES).pdf" size="11652761" crc="ab004375" md5="1c64fa0d1e6ea7894b55ce372e5ff5b9" sha1="fde02d3410177a6788bfd07faff3eeb1aa9f09e7"/>
+	</game>
+	<game name="ZX - Ano 1 N.05 (1984-04)(Publinformatica)(ES)[suplemento]">
+		<description>ZX - Ano 1 N.05 (1984-04)(Publinformatica)(ES)[suplemento]</description>
+		<rom name="ZX - Ano 1 N.05 (1984-04)(Publinformatica)(ES)[suplemento].pdf" size="429173" crc="248115b2" md5="626dd897b20900b7f1e25640f3af3a58" sha1="4c448d29bdbb877be2cb6e0ed0cc03cf86af89ea"/>
+	</game>
+	<game name="ZX - Ano 1 N.06 (1984-05)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.06 (1984-05)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.06 (1984-05)(Publinformatica)(ES).pdf" size="11026967" crc="272cf6c8" md5="9f34d3161a0fb24bab067388b0d3085b" sha1="4296dcca187ddcec7b20d8411c09d5326d48c9c5"/>
+	</game>
+	<game name="ZX - Ano 1 N.07 (1984-06)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.07 (1984-06)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.07 (1984-06)(Publinformatica)(ES).pdf" size="16076526" crc="b4e6792d" md5="1447c8b85001cedc07c1535db786bffb" sha1="d9bdea055038d87cea525d01590fa8d1a24442aa"/>
+	</game>
+	<game name="ZX - Ano 1 N.08 (1984-07)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.08 (1984-07)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.08 (1984-07)(Publinformatica)(ES).pdf" size="11114573" crc="ede7e7f3" md5="6791b33c1dc0ae6608ce39365a3cd78d" sha1="ced6d4c35a375366449e52497a6d2f9caf5d4533"/>
+	</game>
+	<game name="ZX - Ano 1 N.09 (1984-08)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.09 (1984-08)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.09 (1984-08)(Publinformatica)(ES).pdf" size="11506854" crc="b324d5ee" md5="fbba4e445bdea81d1007366ea3e6ce6a" sha1="24f0319bb8e821142321f4cd19b3795b6388fc71"/>
+	</game>
+	<game name="ZX - Ano 1 N.10 (1984-09)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.10 (1984-09)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.10 (1984-09)(Publinformatica)(ES).pdf" size="11177430" crc="4541789d" md5="8a7561def20fad4dd87211c4ae152e94" sha1="fba4ddd7a0ef8a81be1e0a4a96691b4c8b7844c3"/>
+	</game>
+	<game name="ZX - Ano 1 N.11 (1984-10)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.11 (1984-10)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.11 (1984-10)(Publinformatica)(ES).pdf" size="21533092" crc="d6738f77" md5="76151864347f2c59963f6a2ccd7dc178" sha1="2421a0af6c38f91a731bdaf67107475d121db4b1"/>
+	</game>
+	<game name="ZX - Ano 1 N.12 (1984-11)(Publinformatica)(ES)">
+		<description>ZX - Ano 1 N.12 (1984-11)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 1 N.12 (1984-11)(Publinformatica)(ES).pdf" size="24102498" crc="38c8ac65" md5="04c5df7f5449e6155117d209b934b350" sha1="02e4bb19d7b1b4966010281df28af970c7a35618"/>
+	</game>
+	<game name="ZX - Ano 2 N.13 (1984-12)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.13 (1984-12)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.13 (1984-12)(Publinformatica)(ES).pdf" size="33639985" crc="f3ddad2f" md5="384fad6c70c5585ca771977a2b4c78c1" sha1="09b7eb4c2589d1853ae44c92a7e9b87d6b807621"/>
+	</game>
+	<game name="ZX - Ano 2 N.14 (1985-01)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.14 (1985-01)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.14 (1985-01)(Publinformatica)(ES).pdf" size="26967667" crc="2c37097c" md5="7f736c3aff9d008b036ae0c3fd049905" sha1="2a5079509e3476b39526984431f36f5f72c9ead9"/>
+	</game>
+	<game name="ZX - Ano 2 N.15 (1985-02)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.15 (1985-02)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.15 (1985-02)(Publinformatica)(ES).pdf" size="23201955" crc="427615fd" md5="b61e4248af608c7d60519116bd6d15b9" sha1="d7f9bd73c355e9c07727bbb46200f607043c5203"/>
+	</game>
+	<game name="ZX - Ano 2 N.16 (1985-03)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.16 (1985-03)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.16 (1985-03)(Publinformatica)(ES).pdf" size="17811926" crc="92c0bcea" md5="661d9c10a847f993091a0e57d614638f" sha1="a53e3592aacf0011111f0e471930db07064fa1a9"/>
+	</game>
+	<game name="ZX - Ano 2 N.17 (1985-04)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.17 (1985-04)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.17 (1985-04)(Publinformatica)(ES).pdf" size="19077550" crc="4da3f5c0" md5="61231b244cb1beeba447950317f1d1a0" sha1="3d36caa1c57edee30cebf9994000ae0e04999a0e"/>
+	</game>
+	<game name="ZX - Ano 2 N.18 (1985-05)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.18 (1985-05)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.18 (1985-05)(Publinformatica)(ES).pdf" size="17226380" crc="e69451e5" md5="7ed597c2e7eaefb9b1785214c707d92b" sha1="213db9fbe27458bc40a50a0f0460f0c86b296f26"/>
+	</game>
+	<game name="ZX - Ano 2 N.19 (1985-06)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.19 (1985-06)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.19 (1985-06)(Publinformatica)(ES).pdf" size="18765571" crc="3f1d55f3" md5="568ee65aacb04535fe3112b4ffdbea54" sha1="0a81ac11dee1d28c16b53f5e2eb6720b8cfcd0f0"/>
+	</game>
+	<game name="ZX - Ano 2 N.20 (1985-07)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.20 (1985-07)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.20 (1985-07)(Publinformatica)(ES).pdf" size="16763279" crc="e7ad06f6" md5="f7bf5327abf25243f0e2b3152f369cc2" sha1="12c19a3bef6673ffc924f88a39249bbb76b83d2c"/>
+	</game>
+	<game name="ZX - Ano 2 N.21 (1985-08)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.21 (1985-08)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.21 (1985-08)(Publinformatica)(ES).pdf" size="17645963" crc="ebfd2fb1" md5="a5853285b1627cbd98e664d9db8ea92a" sha1="0dc53eab37a1d1da11084fc8bf60207432f26605"/>
+	</game>
+	<game name="ZX - Ano 2 N.22 (1985-09)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.22 (1985-09)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.22 (1985-09)(Publinformatica)(ES).pdf" size="16889641" crc="4b783b9c" md5="a13e27bc3335a361da52bd944def7655" sha1="d862553a4af4116d989bc93434f2ced237f0b2ee"/>
+	</game>
+	<game name="ZX - Ano 2 N.23 (1985-10)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.23 (1985-10)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.23 (1985-10)(Publinformatica)(ES).pdf" size="17559848" crc="f3b345bf" md5="f0775928a8539c7e600a36510a387300" sha1="950a92da4623135e2331013d3136cb4e46dd7e28"/>
+	</game>
+	<game name="ZX - Ano 2 N.24 (1985-11)(Publinformatica)(ES)">
+		<description>ZX - Ano 2 N.24 (1985-11)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 2 N.24 (1985-11)(Publinformatica)(ES).pdf" size="17365910" crc="aa263411" md5="ade1894e9b3da2710601516379a8a1b3" sha1="e4b97aff866dab363887023b64199a05d51163d6"/>
+	</game>
+	<game name="ZX - Ano 3 N.25 (1985-12)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.25 (1985-12)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.25 (1985-12)(Publinformatica)(ES).pdf" size="17402156" crc="df6a3fe9" md5="b042159923655632ed03455dfc30fdce" sha1="64c5c5e5448a957943c4ee6a5e953f370749ed7d"/>
+	</game>
+	<game name="ZX - Ano 3 N.26 (1986-01)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.26 (1986-01)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.26 (1986-01)(Publinformatica)(ES).pdf" size="15472253" crc="2febdaa1" md5="322b43a73097567a499387b1915ccc42" sha1="9cf1704a33c0ee3302c63f17c214f743f677ffb6"/>
+	</game>
+	<game name="ZX - Ano 3 N.27 (1986-02)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.27 (1986-02)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.27 (1986-02)(Publinformatica)(ES).pdf" size="15926789" crc="7bcfea3e" md5="c9d435294b6883213e05afe5e7513005" sha1="f669c04eef5c15c20a1df8b319788afdc3d27366"/>
+	</game>
+	<game name="ZX - Ano 3 N.28 (1986-03)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.28 (1986-03)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.28 (1986-03)(Publinformatica)(ES).pdf" size="14564230" crc="0ba33062" md5="2aac580656efc542e24f3284a84b415f" sha1="5dc2cc7400f363ae798e4663693fde0cf1255990"/>
+	</game>
+	<game name="ZX - Ano 3 N.29 (1986-04)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.29 (1986-04)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.29 (1986-04)(Publinformatica)(ES).pdf" size="15594622" crc="f239e3ae" md5="e473855a2cd0c1394830891b88c992c8" sha1="ed11ada7efaeb36a6e6a646e008300d8c71f1684"/>
+	</game>
+	<game name="ZX - Ano 3 N.30 (1986-05)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.30 (1986-05)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.30 (1986-05)(Publinformatica)(ES).pdf" size="14673208" crc="7c3b6c7c" md5="a6f98b55e5a5c0665a946622a0185273" sha1="571f1ec7b78c2089e41b6bfdf8c68880fca6eb55"/>
+	</game>
+	<game name="ZX - Ano 3 N.31 (1986-06)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.31 (1986-06)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.31 (1986-06)(Publinformatica)(ES).pdf" size="15021082" crc="b55c0213" md5="f5180759e7557ce173ba094978a5afd8" sha1="ae8adcfeb5615ba931948d518bd7d586326babc8"/>
+	</game>
+	<game name="ZX - Ano 3 N.32 (1986-07)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.32 (1986-07)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.32 (1986-07)(Publinformatica)(ES).pdf" size="14360426" crc="67c77501" md5="c318478fcc9a6fa112dbeed8e386fb66" sha1="cc39c9724d74abd7ec6c9122157330cf2ef9b197"/>
+	</game>
+	<game name="ZX - Ano 3 N.33 (1986-09)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.33 (1986-09)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.33 (1986-09)(Publinformatica)(ES).pdf" size="14635068" crc="4bfae024" md5="74698c350f8d6072a0dfb318aff24b1d" sha1="5755ee70092f3a1e53675a2f14fc2883ab6b8eb3"/>
+	</game>
+	<game name="ZX - Ano 3 N.34 (1986-10)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.34 (1986-10)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.34 (1986-10)(Publinformatica)(ES).pdf" size="15069654" crc="c5f1daa8" md5="31d4aed3a95e402bf5fb5ad3d59cd0e8" sha1="370da9d49f29cc5381c207097a980909d2f650af"/>
+	</game>
+	<game name="ZX - Ano 3 N.35 (1986-11)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.35 (1986-11)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.35 (1986-11)(Publinformatica)(ES).pdf" size="16053689" crc="306489f8" md5="67b3ca6641895e8bf10490145002d3cc" sha1="f5c9c4b184323f22e00bbc74fd571f46d085fb99"/>
+	</game>
+	<game name="ZX - Ano 3 N.36 (1986-12)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.36 (1986-12)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.36 (1986-12)(Publinformatica)(ES).pdf" size="15684991" crc="96b36213" md5="a113d5dd36de52f2d16e0f1096ffa555" sha1="627f85117793c3dddd023d63a59feb91f0a1d015"/>
+	</game>
+	<game name="ZX - Ano 3 N.37 (1987-01)(Publinformatica)(ES)">
+		<description>ZX - Ano 3 N.37 (1987-01)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 3 N.37 (1987-01)(Publinformatica)(ES).pdf" size="15228679" crc="ad3e5e8a" md5="20b4c4a122bb0f6680d88939676f3fef" sha1="b972a9699159731233724f0aa8b19c127479a440"/>
+	</game>
+	<game name="ZX - Ano 4 N.38 (1987-02)(Publinformatica)(ES)">
+		<description>ZX - Ano 4 N.38 (1987-02)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 4 N.38 (1987-02)(Publinformatica)(ES).pdf" size="15601998" crc="2ef19810" md5="c2ad3c195f39f0c455080aaedc007637" sha1="39bee734ba9c6a8976f90a84bb89f0c0f8cff016"/>
+	</game>
+	<game name="ZX - Ano 4 N.39 (1987-03)(Publinformatica)(ES)">
+		<description>ZX - Ano 4 N.39 (1987-03)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 4 N.39 (1987-03)(Publinformatica)(ES).pdf" size="11153898" crc="927e28b6" md5="10770a01eef1e3985d9a2ea5936b7a30" sha1="dc4d645047ee3bd8f297b6b5190f51798732796d"/>
+	</game>
+	<game name="ZX - Ano 4 N.40 (1987-04)(Publinformatica)(ES)">
+		<description>ZX - Ano 4 N.40 (1987-04)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 4 N.40 (1987-04)(Publinformatica)(ES).pdf" size="12124951" crc="467fbc96" md5="0752861828c0ef85eac71148d7965c92" sha1="0338775755785ccf21da26842bdebf6ec1e3bdfc"/>
+	</game>
+	<game name="ZX - Ano 4 N.41 (1987-05)(Publinformatica)(ES)">
+		<description>ZX - Ano 4 N.41 (1987-05)(Publinformatica)(ES)</description>
+		<rom name="ZX - Ano 4 N.41 (1987-05)(Publinformatica)(ES).pdf" size="11118162" crc="99c7a8dc" md5="88886994de65254ea4740ebab7508c87" sha1="5ba7fb4c6d109070760ed7a0e6a75fb0ff3af2e6"/>
+	</game>
+</datafile>

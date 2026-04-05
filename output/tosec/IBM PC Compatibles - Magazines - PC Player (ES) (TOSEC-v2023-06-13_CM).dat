@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - PC Player (ES)</name>
+		<description>IBM PC Compatibles - Magazines - PC Player (ES) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC Player - Ano 1 N.01 (1995-07)(Tower Communications)(ES)">
+		<description>PC Player - Ano 1 N.01 (1995-07)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 1 N.01 (1995-07)(Tower Communications)(ES).pdf" size="28237232" crc="dd4918e8" md5="837b6bfd5de223e99011c46be371f441" sha1="184edc748d55f89bb9e2c9d0f7636dd406732e86"/>
+	</game>
+	<game name="PC Player - Ano 1 N.02 (1995-08)(Tower Communications)(ES)">
+		<description>PC Player - Ano 1 N.02 (1995-08)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 1 N.02 (1995-08)(Tower Communications)(ES).pdf" size="52540550" crc="32eb1106" md5="d20e1045f506a7443766051760a319c0" sha1="dd022807b216b45853f09e3632dc77b47da9b27d"/>
+	</game>
+	<game name="PC Player - Ano 1 N.03 (1995-09)(Tower Communications)(ES)">
+		<description>PC Player - Ano 1 N.03 (1995-09)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 1 N.03 (1995-09)(Tower Communications)(ES).pdf" size="52651551" crc="fd224616" md5="6aed5cfad133784472c7a68b5fa33325" sha1="f87b0d439bec9d3969a004ca1d29d427ea02f4b4"/>
+	</game>
+	<game name="PC Player - Ano 1 N.04 (1995-10)(Tower Communications)(ES)">
+		<description>PC Player - Ano 1 N.04 (1995-10)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 1 N.04 (1995-10)(Tower Communications)(ES).pdf" size="52324562" crc="30c0bced" md5="8adb3ac97d7f57229256b6e4ee4bac5b" sha1="df95c2ff6c9618c7d413b8bd025c6eb9579e8051"/>
+	</game>
+	<game name="PC Player - Ano 1 N.05 (1995-11)(Tower Communications)(ES)">
+		<description>PC Player - Ano 1 N.05 (1995-11)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 1 N.05 (1995-11)(Tower Communications)(ES).pdf" size="28618623" crc="dfa2224f" md5="4243fe0d9b3e89aa63b00076cd4d92a8" sha1="7ed3b432cc8e5cb8b3bf59a8e5ecc18ed2f0847e"/>
+	</game>
+	<game name="PC Player - Ano 1 N.06 (1995-12)(Tower Communications)(ES)">
+		<description>PC Player - Ano 1 N.06 (1995-12)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 1 N.06 (1995-12)(Tower Communications)(ES).pdf" size="48708363" crc="5fd5c36c" md5="dbfe7249fba63d5b8d7884f7dcce09fc" sha1="565e54c324ed9ff6382b997c723ac04a8267ee15"/>
+	</game>
+	<game name="PC Player - Ano 2 N.07 (1996-01)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.07 (1996-01)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.07 (1996-01)(Tower Communications)(ES).pdf" size="56779019" crc="7298530b" md5="79a23711bb60f94f04417cc11492278a" sha1="6abc545c32676d202a2735f50200f060f3595fc2"/>
+	</game>
+	<game name="PC Player - Ano 2 N.07 (1996-01)(Tower Communications)(ES)[supplement Quake]">
+		<description>PC Player - Ano 2 N.07 (1996-01)(Tower Communications)(ES)[supplement Quake]</description>
+		<rom name="PC Player - Ano 2 N.07 (1996-01)(Tower Communications)(ES)[supplement Quake].pdf" size="6426019" crc="f05fe035" md5="b9a571ff7b344d55e44002c61d914b99" sha1="96ae3585f886202d48d891485bdb767a38c95fed"/>
+	</game>
+	<game name="PC Player - Ano 2 N.08 (1996-02)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.08 (1996-02)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.08 (1996-02)(Tower Communications)(ES).pdf" size="60530150" crc="26c112e0" md5="4be11083dacde329dbb991e111863ea9" sha1="dae660a4605839ebae519beac9e56a7035579132"/>
+	</game>
+	<game name="PC Player - Ano 2 N.09 (1996-03)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.09 (1996-03)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.09 (1996-03)(Tower Communications)(ES).pdf" size="60881635" crc="e5ef250b" md5="e685319d7b3d3e83039102d0929fd014" sha1="14cdc8d27fdac7c8b7b9b04a007aead17743b9c2"/>
+	</game>
+	<game name="PC Player - Ano 2 N.10 (1996-04)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.10 (1996-04)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.10 (1996-04)(Tower Communications)(ES).pdf" size="59724280" crc="58492316" md5="574a313cde97c4623a35d864a2b4a247" sha1="8a7051156c134ad24db17c15b7997054f175f82f"/>
+	</game>
+	<game name="PC Player - Ano 2 N.11 (1996-05)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.11 (1996-05)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.11 (1996-05)(Tower Communications)(ES).pdf" size="62056741" crc="d89feec2" md5="1ec6f946ee87abab28989dbcf4801423" sha1="e547b00d4bcccdae9f7b3457bb8a548c74a24610"/>
+	</game>
+	<game name="PC Player - Ano 2 N.12 (1996-06)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.12 (1996-06)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.12 (1996-06)(Tower Communications)(ES).pdf" size="61256285" crc="edf6a603" md5="b3c014e0fbb1b7945fe3b92b6596d0b7" sha1="c2f542ed510c3d112eb3485ceb965d04bdee8d4f"/>
+	</game>
+	<game name="PC Player - Ano 2 N.13 (1996-07)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.13 (1996-07)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.13 (1996-07)(Tower Communications)(ES).pdf" size="59742055" crc="cab474ea" md5="7666675529fe02435b2aed6758adc2d1" sha1="6a7fe96f14ce4dca50605f439ad2833a059fca20"/>
+	</game>
+	<game name="PC Player - Ano 2 N.14 (1996-08)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.14 (1996-08)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.14 (1996-08)(Tower Communications)(ES).pdf" size="59233963" crc="72187a2f" md5="4c9e19537e99965124e7b122afda3f2e" sha1="c0d17072de83b788124f6896427709ab12d7e20b"/>
+	</game>
+	<game name="PC Player - Ano 2 N.15 (1996-09)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.15 (1996-09)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.15 (1996-09)(Tower Communications)(ES).pdf" size="56984449" crc="2c56d5b3" md5="feb0c1106306816fa66fb26780f82345" sha1="7011a13a81924b3ed516dae59822fe40736f9188"/>
+	</game>
+	<game name="PC Player - Ano 2 N.16 (1996-10)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.16 (1996-10)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.16 (1996-10)(Tower Communications)(ES).pdf" size="59694238" crc="a0ebcec3" md5="01a01b1da115c14f613a963b3dfcf446" sha1="047be2b37f1ff2e72f1b7ac05444dc43ec45d129"/>
+	</game>
+	<game name="PC Player - Ano 2 N.17 (1996-11)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.17 (1996-11)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.17 (1996-11)(Tower Communications)(ES).pdf" size="63748461" crc="5b03a0f1" md5="1d95ac790a208f71fc51e67718f6a56d" sha1="3dce8f6ca4d9d079484de8ce6b57a4e01fddd384"/>
+	</game>
+	<game name="PC Player - Ano 2 N.18 (1996-12)(Tower Communications)(ES)">
+		<description>PC Player - Ano 2 N.18 (1996-12)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 2 N.18 (1996-12)(Tower Communications)(ES).pdf" size="171289345" crc="fcfe64df" md5="ec713fe6bdca2eb65f08c92b9045fa9e" sha1="75c4ff3cc67879eef0c881274f75ecc38c4a7a0d"/>
+	</game>
+	<game name="PC Player - Ano 3 N.19 (1997-01)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.19 (1997-01)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.19 (1997-01)(Tower Communications)(ES).pdf" size="147549567" crc="66497c09" md5="b56c1121e1dfca7c4715fafab3888fb6" sha1="0c288c886517903f5ea8a6edd03eaae3583c8cee"/>
+	</game>
+	<game name="PC Player - Ano 3 N.20 (1997-02)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.20 (1997-02)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.20 (1997-02)(Tower Communications)(ES).pdf" size="164001126" crc="a288c53f" md5="4e42ba2ba9be9822b0d972e9a6b58f52" sha1="9aa3236a81d9d4eb4d7bb4bc3dcbdc7944ac285d"/>
+	</game>
+	<game name="PC Player - Ano 3 N.21 (1997-03)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.21 (1997-03)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.21 (1997-03)(Tower Communications)(ES).pdf" size="123502006" crc="de17940d" md5="b74ab626013228e9b1c55a067fcbad7a" sha1="19c6284cdf0417c2843df0b41e486d8c71a863d8"/>
+	</game>
+	<game name="PC Player - Ano 3 N.22 (1997-04)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.22 (1997-04)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.22 (1997-04)(Tower Communications)(ES).pdf" size="171592366" crc="ade6fb3f" md5="620c677a7d0408dcc0e0f1c765d4167c" sha1="04454d1ee10a01d5f2d55578849147dfba545695"/>
+	</game>
+	<game name="PC Player - Ano 3 N.23 (1997-05)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.23 (1997-05)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.23 (1997-05)(Tower Communications)(ES).pdf" size="178996267" crc="0520e477" md5="d880825f1510427a509bce14ef27d086" sha1="f45dc7ee158381dfd9871f90ba5a878c6140fb15"/>
+	</game>
+	<game name="PC Player - Ano 3 N.24 (1997-06)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.24 (1997-06)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.24 (1997-06)(Tower Communications)(ES).pdf" size="157217704" crc="f6ea9df8" md5="7ba8dfac0dd9e1843721bb01347209c5" sha1="2b50eba9dae3f79437ebda9eb3723247d27802a1"/>
+	</game>
+	<game name="PC Player - Ano 3 N.25 (1997-07)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.25 (1997-07)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.25 (1997-07)(Tower Communications)(ES).pdf" size="178786351" crc="c9b691ff" md5="d20e7f3f822f53bd852d5c8ebd38f600" sha1="ec4795a90a323486002e2b23e0867eb0235d52f8"/>
+	</game>
+	<game name="PC Player - Ano 3 N.26 (1997-08)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.26 (1997-08)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.26 (1997-08)(Tower Communications)(ES).pdf" size="179720207" crc="bb130e5f" md5="e026a9b05ad43e8b17eb913056e00a67" sha1="cff6c4bc370c9a4cfbc60083be44cb092b2997f5"/>
+	</game>
+	<game name="PC Player - Ano 3 N.27 (1997-09)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.27 (1997-09)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.27 (1997-09)(Tower Communications)(ES).pdf" size="167795678" crc="b3106a4b" md5="e25c600a65bb50aaca059742a6bed140" sha1="42ba96aa099537ebc8668468a380d6a892b08cfb"/>
+	</game>
+	<game name="PC Player - Ano 3 N.28 (1997-10)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.28 (1997-10)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.28 (1997-10)(Tower Communications)(ES).pdf" size="64171403" crc="340d764f" md5="3a0a42e0ad1ed9af73d5657242c9477e" sha1="d9f04c6f8ed0c9f5db0a5af8478e68f308521478"/>
+	</game>
+	<game name="PC Player - Ano 3 N.29 (1997-01)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.29 (1997-01)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.29 (1997-01)(Tower Communications)(ES).pdf" size="58975651" crc="04b64409" md5="34bbf98bd732be39fb9088560fc10560" sha1="3ffbefc51f10b5437fa6ff588d18f59f3fb4446f"/>
+	</game>
+	<game name="PC Player - Ano 3 N.30 (1997-02)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.30 (1997-02)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.30 (1997-02)(Tower Communications)(ES).pdf" size="70651639" crc="53b11f25" md5="2f6631b7efef7bc69b78f583e65e54e5" sha1="13cb6a35238585a80cd2a653bd3af270f1d1e672"/>
+	</game>
+	<game name="PC Player - Ano 3 N.31 (1998-03)(Tower Communications)(ES)">
+		<description>PC Player - Ano 3 N.31 (1998-03)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 3 N.31 (1998-03)(Tower Communications)(ES).pdf" size="59601109" crc="de5df16d" md5="96ba09deb35df87dcb3b3aaa83a643f4" sha1="350c29c3a485d968268a5d19df5e5abbce1ba90c"/>
+	</game>
+	<game name="PC Player - Ano 4 N.32 (1998-04)(Tower Communications)(ES)">
+		<description>PC Player - Ano 4 N.32 (1998-04)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 4 N.32 (1998-04)(Tower Communications)(ES).pdf" size="172587520" crc="1ad5380e" md5="84fca7b7cf76d79cd919510f3c828970" sha1="4286ace0a4cf9418d9d1f177ad8adcafd58dad1b"/>
+	</game>
+	<game name="PC Player - Ano 4 N.33 (1998-05)(Tower Communications)(ES)">
+		<description>PC Player - Ano 4 N.33 (1998-05)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 4 N.33 (1998-05)(Tower Communications)(ES).pdf" size="64075130" crc="f51edcc1" md5="4d49e6f22cdca3284c014d95ab3bdbc5" sha1="e9f6981ffbdbc256c8eeb884d34a10d26a51a22a"/>
+	</game>
+	<game name="PC Player - Ano 4 N.34 (1998-06)(Tower Communications)(ES)">
+		<description>PC Player - Ano 4 N.34 (1998-06)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 4 N.34 (1998-06)(Tower Communications)(ES).pdf" size="61863172" crc="c0df7e5c" md5="265cbeecaae2e48396b5e625937bd492" sha1="345838d7348839532ebd0bad4ef04f0a3c653e6c"/>
+	</game>
+	<game name="PC Player - Ano 4 N.35 (1998-07)(Tower Communications)(ES)">
+		<description>PC Player - Ano 4 N.35 (1998-07)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 4 N.35 (1998-07)(Tower Communications)(ES).pdf" size="62644752" crc="39f6f168" md5="767e062619fd615a32cb6e230a443b7a" sha1="e880abba542ae2eb2567fe9b1617e7392fcf2c12"/>
+	</game>
+	<game name="PC Player - Ano 4 N.36 (1998-08)(Tower Communications)(ES)">
+		<description>PC Player - Ano 4 N.36 (1998-08)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 4 N.36 (1998-08)(Tower Communications)(ES).pdf" size="61442627" crc="d2d3b486" md5="2ec5ffa2dcfb4d47b9f14be2c6078cf6" sha1="889ad44f8ed0646dad634ac1303d3cde0a253bc7"/>
+	</game>
+	<game name="PC Player - Ano 4 N.37 (1998-09)(Tower Communications)(ES)">
+		<description>PC Player - Ano 4 N.37 (1998-09)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 4 N.37 (1998-09)(Tower Communications)(ES).pdf" size="58961246" crc="367c7617" md5="399b1381dcea8b955c20fb344f0edf9b" sha1="7ccf1ce46bb57543630b1d8b99d23898800faf37"/>
+	</game>
+	<game name="PC Player - Ano 4 N.38 (1998-10)(Tower Communications)(ES)">
+		<description>PC Player - Ano 4 N.38 (1998-10)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 4 N.38 (1998-10)(Tower Communications)(ES).pdf" size="38076339" crc="4ad0c76e" md5="dc3af47eaad279ea87d04183e1916d01" sha1="8609d43069a6e4b9e051424a41949ca31e37b6e4"/>
+	</game>
+	<game name="PC Player - Ano 4 N.39 (1998-11)(Tower Communications)(ES)">
+		<description>PC Player - Ano 4 N.39 (1998-11)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 4 N.39 (1998-11)(Tower Communications)(ES).pdf" size="57133794" crc="68f21eff" md5="e76a49ba3b2ae17fca7ca1f63d3a178f" sha1="0ab6dba2c903bee8d3717f729b110d7cba902686"/>
+	</game>
+	<game name="PC Player - Ano 4 N.40 (1998-12)(Tower Communications)(ES)">
+		<description>PC Player - Ano 4 N.40 (1998-12)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 4 N.40 (1998-12)(Tower Communications)(ES).pdf" size="166585017" crc="684451ce" md5="52ba3a179fa62fbaab856fa2aecccb40" sha1="0c3f61a32d16d5325e9629e8fcc97b4589672849"/>
+	</game>
+	<game name="PC Player - Ano 5 N.44 (1999-04)(Tower Communications)(ES)">
+		<description>PC Player - Ano 5 N.44 (1999-04)(Tower Communications)(ES)</description>
+		<rom name="PC Player - Ano 5 N.44 (1999-04)(Tower Communications)(ES).pdf" size="162299885" crc="4c52d461" md5="40adca6608e01dec0ef92ad59038af8b" sha1="09f88ccb1e362953beea40825d9188701d644f07"/>
+	</game>
+</datafile>

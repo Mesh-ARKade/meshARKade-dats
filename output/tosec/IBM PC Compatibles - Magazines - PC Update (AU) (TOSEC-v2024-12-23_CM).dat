@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - PC Update (AU)</name>
+		<description>IBM PC Compatibles - Magazines - PC Update (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC Update - Volume 14 Issue 07 (1997-08)(Melbourne PC User Group)(AU)">
+		<description>PC Update - Volume 14 Issue 07 (1997-08)(Melbourne PC User Group)(AU)</description>
+		<rom name="PC Update - Volume 14 Issue 07 (1997-08)(Melbourne PC User Group)(AU).pdf" size="215239280" crc="9e908098" md5="a413bf26f6bb8fd5339cd3ad81e742a0" sha1="327f60208382c661ac4489b58aef6273b18ca861"/>
+	</game>
+</datafile>

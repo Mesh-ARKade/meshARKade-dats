@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Australian Micro Computerworld</name>
+		<description>Multi-format - Magazines - Australian Micro Computerworld (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Australian Micro Computerworld (1984-08)(Computerworld)(AU)">
+		<description>Australian Micro Computerworld (1984-08)(Computerworld)(AU)</description>
+		<rom name="Australian Micro Computerworld (1984-08)(Computerworld)(AU).pdf" size="414379810" crc="a28812db" md5="ae2308b514b8bb830426631cb08ddf06" sha1="6c6f50d54cc0114ecf136a46bd126db3e5082c81"/>
+	</game>
+</datafile>

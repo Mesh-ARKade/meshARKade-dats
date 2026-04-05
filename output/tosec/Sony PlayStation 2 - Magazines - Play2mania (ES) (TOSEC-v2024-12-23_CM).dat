@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - Play2mania (ES)</name>
+		<description>Sony PlayStation 2 - Magazines - Play2mania (ES) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Play2Guias Platinum - N.028 (2005-05)(Hobby Press)(ES)">
+		<description>Play2Guias Platinum - N.028 (2005-05)(Hobby Press)(ES)</description>
+		<rom name="Play2Guias Platinum - N.028 (2005-05)(Hobby Press)(ES).pdf" size="131448764" crc="ffeb83eb" md5="9036589a748404abd1ef8aeaeeff0bb8" sha1="fedcc382073524f705b4c28894022d3641edd686"/>
+	</game>
+	<game name="Play2mania - N.042 (2002-07)(Hobby Press)(ES)">
+		<description>Play2mania - N.042 (2002-07)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.042 (2002-07)(Hobby Press)(ES).pdf" size="79551738" crc="544c7c89" md5="ec254b008d445b5039ec91eba8a22aea" sha1="31d76049b1c7b750bf93561731aee91ff9d3859b"/>
+	</game>
+	<game name="Play2mania - N.043 (2002-08)(Hobby Press)(ES)">
+		<description>Play2mania - N.043 (2002-08)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.043 (2002-08)(Hobby Press)(ES).pdf" size="78881165" crc="dcdf1336" md5="dcc4bb13ce2cb815b8a260f93bd6bb4c" sha1="e18ecd641c92498978469097a44f9ebe1da18b94"/>
+	</game>
+	<game name="Play2mania - N.044 (2002-09)(Hobby Press)(ES)">
+		<description>Play2mania - N.044 (2002-09)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.044 (2002-09)(Hobby Press)(ES).pdf" size="77535133" crc="a180c007" md5="ab3dc49c1dd9758f8f81fea873e6b1fc" sha1="b26ed7c49be309ba7838b7dfa1729324a49494ea"/>
+	</game>
+	<game name="Play2mania - N.045 (2002-10)(Hobby Press)(ES)">
+		<description>Play2mania - N.045 (2002-10)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.045 (2002-10)(Hobby Press)(ES).pdf" size="94017676" crc="cca72f65" md5="916777aba33f058c20458d3fc119b929" sha1="73fec5fcd3d99b8f0b6f66739f05e4ff1dd4e7ef"/>
+	</game>
+	<game name="Play2mania - N.046 (2002-11)(Hobby Press)(ES)">
+		<description>Play2mania - N.046 (2002-11)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.046 (2002-11)(Hobby Press)(ES).pdf" size="95392769" crc="454c74ac" md5="a874df2c0b10fd6a52c8465ab64db8f5" sha1="cce47cb9b687549cadd5e66220d629cb9d7d9d18"/>
+	</game>
+	<game name="Play2mania - N.047 (2002-12)(Hobby Press)(ES)">
+		<description>Play2mania - N.047 (2002-12)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.047 (2002-12)(Hobby Press)(ES).pdf" size="103388951" crc="51ee4172" md5="36b36c4b06492554e2381fa6b6893481" sha1="aaea206e4a444b6c585a6389f5a1fe15b6fd4df8"/>
+	</game>
+	<game name="Play2mania - N.048 (2003-01)(Hobby Press)(ES)">
+		<description>Play2mania - N.048 (2003-01)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.048 (2003-01)(Hobby Press)(ES).pdf" size="77078038" crc="82436f44" md5="6e21cbb056290e1370b0981124a0af28" sha1="1356bbc940f1fd32437e246664a9c2930acbc09e"/>
+	</game>
+	<game name="Play2mania - N.049 (2003-02)(Hobby Press)(ES)">
+		<description>Play2mania - N.049 (2003-02)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.049 (2003-02)(Hobby Press)(ES).pdf" size="72643139" crc="90ca863e" md5="420e4f05f66e5dbf43e969365f339b22" sha1="69bcf7e3e006d92a8f8a0855b99ca2f5b5390a78"/>
+	</game>
+	<game name="Play2mania - N.050 (2003-03)(Hobby Press)(ES)">
+		<description>Play2mania - N.050 (2003-03)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.050 (2003-03)(Hobby Press)(ES).pdf" size="74320848" crc="134743e4" md5="01e55f8053c61a2d6bfbef73b71fda25" sha1="b79c05230f818a39eecb81ad403b05edb3389f58"/>
+	</game>
+	<game name="Play2mania - N.051 (2003-04)(Hobby Press)(ES)">
+		<description>Play2mania - N.051 (2003-04)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.051 (2003-04)(Hobby Press)(ES).pdf" size="74914863" crc="25cebf41" md5="0c6c2bc0dc68491a21359fa41769e57b" sha1="c616a339ada8afe0bb5bc1ce0742884afdc046ac"/>
+	</game>
+	<game name="Play2mania - N.052 (2003-05)(Hobby Press)(ES)">
+		<description>Play2mania - N.052 (2003-05)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.052 (2003-05)(Hobby Press)(ES).pdf" size="80467522" crc="766a97c6" md5="8e8dfba5497b3b5e27c0b51958c8ae40" sha1="996922c7a899c222227ad3f72ed215325563cf07"/>
+	</game>
+	<game name="Play2mania - N.053 (2003-06)(Hobby Press)(ES)">
+		<description>Play2mania - N.053 (2003-06)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.053 (2003-06)(Hobby Press)(ES).pdf" size="79586639" crc="46372268" md5="09f4ba1ad10c32fdaae6830583c3b751" sha1="6adc829c2fa755e05d7bd83dbc3c5688782c1ef3"/>
+	</game>
+	<game name="Play2mania - N.054 (2003-07)(Hobby Press)(ES)">
+		<description>Play2mania - N.054 (2003-07)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.054 (2003-07)(Hobby Press)(ES).pdf" size="82422275" crc="863b00a0" md5="cfbe4505e1126d40186537c7d8742ea8" sha1="09a789e808200368f4063762ebc6fd3d768ef894"/>
+	</game>
+	<game name="Play2mania - N.055 (2003-08)(Hobby Press)(ES)">
+		<description>Play2mania - N.055 (2003-08)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.055 (2003-08)(Hobby Press)(ES).pdf" size="78411544" crc="217e1dba" md5="5981d3fa790af18131229076875e63c2" sha1="d8fc02e6ec31d544b6c8c02c3e9956e2a1cde89f"/>
+	</game>
+	<game name="Play2mania - N.056 (2003-09)(Hobby Press)(ES)">
+		<description>Play2mania - N.056 (2003-09)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.056 (2003-09)(Hobby Press)(ES).pdf" size="76835220" crc="20408378" md5="6ef437b0d7c811b8044be6a812d1cdac" sha1="d6ce8de030ba6302f5d186bfb20f69392eee25e3"/>
+	</game>
+	<game name="Play2mania - N.057 (2003-10)(Hobby Press)(ES)">
+		<description>Play2mania - N.057 (2003-10)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.057 (2003-10)(Hobby Press)(ES).pdf" size="82379570" crc="1d4495d1" md5="9eb65720e00b2613c7583bb8b002d296" sha1="42f10ca6e5344a23709f873034346db9719beae3"/>
+	</game>
+	<game name="Play2mania - N.059 (2003-12)(Hobby Press)(ES)">
+		<description>Play2mania - N.059 (2003-12)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.059 (2003-12)(Hobby Press)(ES).pdf" size="103653783" crc="7469f15c" md5="6e0cbdf53196f3959283d2425ab2bad8" sha1="9295d0a4a50d6a380ba3a68a6e664c47e85b933c"/>
+	</game>
+	<game name="Play2mania - N.060 (2004-01)(Hobby Press)(ES)">
+		<description>Play2mania - N.060 (2004-01)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.060 (2004-01)(Hobby Press)(ES).pdf" size="84548388" crc="271706f8" md5="e3b998d4e32b45ebe94366c6c596655d" sha1="dc48cebf4e85079fd3fbac677a80a04b528954d4"/>
+	</game>
+	<game name="Play2mania - N.061 (2004-02)(Hobby Press)(ES)">
+		<description>Play2mania - N.061 (2004-02)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.061 (2004-02)(Hobby Press)(ES).pdf" size="77599808" crc="44bd627a" md5="219ff97cb6848bd7f3096a05d14fa9e5" sha1="7ac497c00db5d452817fd18118ee4d4027a4a26e"/>
+	</game>
+	<game name="Play2mania - N.062 (2004-03)(Hobby Press)(ES)">
+		<description>Play2mania - N.062 (2004-03)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.062 (2004-03)(Hobby Press)(ES).pdf" size="85115808" crc="47d8859e" md5="c2193089e87fab731f2b0c7860157b1e" sha1="8e9b400587ea8733ab2daf8544384021276d40fd"/>
+	</game>
+	<game name="Play2mania - N.063 (2004-04)(Hobby Press)(ES)">
+		<description>Play2mania - N.063 (2004-04)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.063 (2004-04)(Hobby Press)(ES).pdf" size="90653691" crc="4521f314" md5="d0619a30cef1b27a69d7be1f2e307bbc" sha1="bc897cb5ba6ad1b16a4f79513307034040362279"/>
+	</game>
+	<game name="Play2mania - N.064 (2004-05)(Hobby Press)(ES)">
+		<description>Play2mania - N.064 (2004-05)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.064 (2004-05)(Hobby Press)(ES).pdf" size="89050599" crc="bb265f1f" md5="03e8d270703d8e99c215cf0fc32d453c" sha1="20b9e40928e77f5d9bf7ed165fcddc1036a1e70d"/>
+	</game>
+	<game name="Play2mania - N.065 (2004-06)(Hobby Press)(ES)">
+		<description>Play2mania - N.065 (2004-06)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.065 (2004-06)(Hobby Press)(ES).pdf" size="84654251" crc="56df03de" md5="46eb0bf4090466ca704a1bb02f7c23d9" sha1="c2e451558083513a22de7c61d3da3a3bf37f7669"/>
+	</game>
+	<game name="Play2mania - N.066 (2004-07)(Hobby Press)(ES)">
+		<description>Play2mania - N.066 (2004-07)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.066 (2004-07)(Hobby Press)(ES).pdf" size="94813863" crc="74046c6a" md5="a991e1e468001a8f542eed44d4395179" sha1="22426ac2a6b8e9a926bd3bfc6cdf4d517ab11faf"/>
+	</game>
+	<game name="Play2mania - N.067 (2004-08)(Hobby Press)(ES)">
+		<description>Play2mania - N.067 (2004-08)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.067 (2004-08)(Hobby Press)(ES).pdf" size="92574770" crc="7c0bd5e4" md5="2cae03234faa39ce9045d36b7b00bdf2" sha1="8ebc78dfc82d7c0b65202b1b5ddc9a3c82f7c746"/>
+	</game>
+	<game name="Play2mania - N.068 (2004-09)(Hobby Press)(ES)">
+		<description>Play2mania - N.068 (2004-09)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.068 (2004-09)(Hobby Press)(ES).pdf" size="80794618" crc="e483f2e7" md5="1ebde32171b494ca6a0c4bc30a259121" sha1="755249f9d896996ad1cc986f6a6d652c0ca8b838"/>
+	</game>
+	<game name="Play2mania - N.069 (2004-10)(Hobby Press)(ES)">
+		<description>Play2mania - N.069 (2004-10)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.069 (2004-10)(Hobby Press)(ES).pdf" size="98699631" crc="2b7594dc" md5="123d1eda11c0704d8f05fcfc64eb92a6" sha1="69cd4d0b3ad4d3fd7b26b85451f93c2896743c40"/>
+	</game>
+	<game name="Play2mania - N.070 (2004-11)(Hobby Press)(ES)">
+		<description>Play2mania - N.070 (2004-11)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.070 (2004-11)(Hobby Press)(ES).pdf" size="108768574" crc="7124c7c3" md5="f6e8851f9babb9e0459f86249fffa020" sha1="ab4c205ac90d7e733e3893ab86306ab96632c703"/>
+	</game>
+	<game name="Play2mania - N.071 (2004-12)(Hobby Press)(ES)">
+		<description>Play2mania - N.071 (2004-12)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.071 (2004-12)(Hobby Press)(ES).pdf" size="110311116" crc="3402468b" md5="bbd25c229382701291c9241ef887d1f3" sha1="15ed0d2ac6fb68807720889e83328db3fab9b59d"/>
+	</game>
+	<game name="Play2mania - N.072 (2005-01)(Hobby Press)(ES)">
+		<description>Play2mania - N.072 (2005-01)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.072 (2005-01)(Hobby Press)(ES).pdf" size="93086779" crc="12baeed6" md5="cfbb57f9d8059a62b05332b891212962" sha1="0e90a092cc541434c0a7d7d3dbc2bed190c29590"/>
+	</game>
+	<game name="Play2mania - N.073 (2005-02)(Hobby Press)(ES)">
+		<description>Play2mania - N.073 (2005-02)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.073 (2005-02)(Hobby Press)(ES).pdf" size="89777585" crc="48198d74" md5="dcf0025481aa453e3e4ba6dc1ba64e9b" sha1="7c1e728f7e115cb5de1d536846d8829c7f5b2c48"/>
+	</game>
+	<game name="Play2mania - N.074 (2005-03)(Hobby Press)(ES)">
+		<description>Play2mania - N.074 (2005-03)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.074 (2005-03)(Hobby Press)(ES).pdf" size="92061592" crc="2de6ad6e" md5="9ad332846298c350ee9d0ae44ee53f2c" sha1="9c416d94451b7b1759bc30ed81da2eb057e12a88"/>
+	</game>
+	<game name="Play2mania - N.075 (2005-04)(Hobby Press)(ES)">
+		<description>Play2mania - N.075 (2005-04)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.075 (2005-04)(Hobby Press)(ES).pdf" size="94384200" crc="85251ae1" md5="468ad7b3cae2ce398c1898912072472a" sha1="32787af1840fb6d7d82370c8e97201d01ea9b577"/>
+	</game>
+	<game name="Play2mania - N.076 (2005-05)(Hobby Press)(ES)">
+		<description>Play2mania - N.076 (2005-05)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.076 (2005-05)(Hobby Press)(ES).pdf" size="96059367" crc="055dfe9e" md5="e58ebbd17c7d7dd4000b239a1dee0420" sha1="e03a23ad0a3ff54b009b8686f94ebf2131f3fbe9"/>
+	</game>
+	<game name="Play2mania - N.077 (2005-06)(Hobby Press)(ES)">
+		<description>Play2mania - N.077 (2005-06)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.077 (2005-06)(Hobby Press)(ES).pdf" size="90273112" crc="76d6c5fe" md5="19ebe869f7278aa1bee34f03b58a0c6f" sha1="2ac2ca4da7eee9fff78bfb56caec140e70a7c53f"/>
+	</game>
+	<game name="Play2mania - N.078 (2005-07)(Hobby Press)(ES)">
+		<description>Play2mania - N.078 (2005-07)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.078 (2005-07)(Hobby Press)(ES).pdf" size="97905776" crc="190a3431" md5="df533035705c05755131fb7d95396dc2" sha1="a195d2936849b773d785fc90fc75b4bbc7cb132f"/>
+	</game>
+	<game name="Play2mania - N.079 (2005-08)(Hobby Press)(ES)">
+		<description>Play2mania - N.079 (2005-08)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.079 (2005-08)(Hobby Press)(ES).pdf" size="93954496" crc="eac61831" md5="7c0cb001f844d2dd61cacace124c1321" sha1="77d3fb3e4534fa0450dba772cac62712d264ac62"/>
+	</game>
+	<game name="Play2mania - N.080 (2005-09)(Hobby Press)(ES)">
+		<description>Play2mania - N.080 (2005-09)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.080 (2005-09)(Hobby Press)(ES).pdf" size="95434872" crc="d86dcb21" md5="a6fb83f33900cf24aece646a97edd58b" sha1="3e18b553545aa9db923175c4a0322239915d2a20"/>
+	</game>
+	<game name="Play2mania - N.081 (2005-10)(Hobby Press)(ES)">
+		<description>Play2mania - N.081 (2005-10)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.081 (2005-10)(Hobby Press)(ES).pdf" size="101558803" crc="ecc8dc9f" md5="085c625278d50f5a42aebb426bb12707" sha1="d9f3c8a1144613c91d89899da25c8267381deccf"/>
+	</game>
+	<game name="Play2mania - N.082 (2005-11)(Hobby Press)(ES)">
+		<description>Play2mania - N.082 (2005-11)(Hobby Press)(ES)</description>
+		<rom name="Play2mania - N.082 (2005-11)(Hobby Press)(ES).pdf" size="109378812" crc="270b9f39" md5="1454f199c341a013daa66992eb2b9690" sha1="30d8f3ad9ee3f97948471ba3db38c44cd238dfd8"/>
+	</game>
+	<game name="Play2mania Especial - La Biblia de PS2 (2003)(Hobby Press)(ES)">
+		<description>Play2mania Especial - La Biblia de PS2 (2003)(Hobby Press)(ES)</description>
+		<rom name="Play2mania Especial - La Biblia de PS2 (2003)(Hobby Press)(ES).pdf" size="148050660" crc="a88a3353" md5="2f180b13eeaf45cf439d705100396240" sha1="50a8210509c8e6bb54b1b343ac91d6b014dccc89"/>
+	</game>
+	<game name="Play2mania Especial - La Biblia de PS2 (2004)(Hobby Press)(ES)">
+		<description>Play2mania Especial - La Biblia de PS2 (2004)(Hobby Press)(ES)</description>
+		<rom name="Play2mania Especial - La Biblia de PS2 (2004)(Hobby Press)(ES).pdf" size="161281836" crc="b16562e7" md5="a1c73b79f60f9f5b47aaabd7c1d1d190" sha1="aca0c0081984988e0883a7654df614f7996f6cde"/>
+	</game>
+	<game name="Play2mania Especial - La Biblia de PS2 (2005)(Hobby Press)(ES)">
+		<description>Play2mania Especial - La Biblia de PS2 (2005)(Hobby Press)(ES)</description>
+		<rom name="Play2mania Especial - La Biblia de PS2 (2005)(Hobby Press)(ES).pdf" size="150089635" crc="2c830ffc" md5="b7329b6e7f49892fdffac1a364f861c8" sha1="e70192affd0b3c0184c420d249b4c31556573b46"/>
+	</game>
+</datafile>

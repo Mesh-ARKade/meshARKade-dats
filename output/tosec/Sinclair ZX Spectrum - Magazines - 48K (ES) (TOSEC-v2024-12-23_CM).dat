@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - 48K (ES)</name>
+		<description>Sinclair ZX Spectrum - Magazines - 48K (ES) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="48K - Anno 1 N. 03 (1985)(Monser)(ES)">
+		<description>48K - Anno 1 N. 03 (1985)(Monser)(ES)</description>
+		<rom name="48K - Anno 1 N. 03 (1985)(Monser)(ES).pdf" size="3846440" crc="8dbb1ea6" md5="c6d4861629c5e26e7ad64894b4b09c3f" sha1="4fb43309787a6857f0c24875f1a984e83e5cf0ff"/>
+	</game>
+	<game name="48K - Anno 1 N. 04 (1985)(Monser)(ES)">
+		<description>48K - Anno 1 N. 04 (1985)(Monser)(ES)</description>
+		<rom name="48K - Anno 1 N. 04 (1985)(Monser)(ES).pdf" size="4607079" crc="c9acbc81" md5="031b5c12b4d36020e5a7b2b1490631e1" sha1="04efa7f1f01d764499a586c7c967844eb07fd5b7"/>
+	</game>
+</datafile>

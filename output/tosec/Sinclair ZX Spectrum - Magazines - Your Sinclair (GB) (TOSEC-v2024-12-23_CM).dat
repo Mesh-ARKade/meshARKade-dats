@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - Your Sinclair (GB)</name>
+		<description>Sinclair ZX Spectrum - Magazines - Your Sinclair (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="QL User (1984-03)(Sportscene Specialist Press)(GB)[suppliment Your Spectrum No. 02]">
+		<description>QL User (1984-03)(Sportscene Specialist Press)(GB)[suppliment Your Spectrum No. 02]</description>
+		<rom name="QL User (1984-03)(Sportscene Specialist Press)(GB)[suppliment Your Spectrum No. 02].pdf" size="136391797" crc="b40da2a1" md5="b0591a9c13b4f8f70ee5a7c5dc4dcf99" sha1="e5f4c5343a3623e0c28b8369cbc00fe9551746ac"/>
+	</game>
+	<game name="Your Spectrum - No. 01 (1984-01)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 01 (1984-01)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 01 (1984-01)(Sportscene Specialist Press)(GB).pdf" size="517218514" crc="61bad3fd" md5="4f93f0561cb193ecbde218dd1a966853" sha1="aff610735f1e0f62ee7d5ef6b80ffb5b77b3155b"/>
+	</game>
+	<game name="Your Spectrum - No. 02 (1984-03)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 02 (1984-03)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 02 (1984-03)(Sportscene Specialist Press)(GB).pdf" size="477057354" crc="42f8cd09" md5="a4a5d63ba12dc58b36313c0021b68d27" sha1="327c590092f169e15082367526fc0bc5cc75551f"/>
+	</game>
+	<game name="Your Spectrum - No. 03 (1984-05)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 03 (1984-05)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 03 (1984-05)(Sportscene Specialist Press)(GB).pdf" size="561808338" crc="a9eda335" md5="f6a4c1163f3933af1650bd863a6d1dce" sha1="46ea3aebc4b8634a050949099c113f98035a42fd"/>
+	</game>
+	<game name="Your Spectrum - No. 04 (1984-06)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 04 (1984-06)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 04 (1984-06)(Sportscene Specialist Press)(GB).pdf" size="505473263" crc="9421c73d" md5="fe759769e3f36f246b66b508fe24d610" sha1="3a1d011c1f5a8cdc1a03bacdf017c61f71457446"/>
+	</game>
+	<game name="Your Spectrum - No. 05 (1984-07)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 05 (1984-07)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 05 (1984-07)(Sportscene Specialist Press)(GB).pdf" size="453966506" crc="b78444bd" md5="fef2cccf2491be9dac02b1f8fb2a5908" sha1="fb333aafd2c0a200a6782ab252b262d133342e1f"/>
+	</game>
+	<game name="Your Spectrum - No. 06 (1984-08)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 06 (1984-08)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 06 (1984-08)(Sportscene Specialist Press)(GB).pdf" size="421908636" crc="9ff5d9b1" md5="3c1a51e6572eab524d36b33d1896212a" sha1="269a594067e6f6e7bc7669ce0e57c41095ee5085"/>
+	</game>
+	<game name="Your Spectrum - No. 07 (1984-09)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 07 (1984-09)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 07 (1984-09)(Sportscene Specialist Press)(GB).pdf" size="388526558" crc="4231211c" md5="2671d1dba7d140973291fd1f75e7bde7" sha1="86a6d602aba6dc6be3903bac5b229e57d5dbaa1a"/>
+	</game>
+	<game name="Your Spectrum - No. 08 (1984-10)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 08 (1984-10)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 08 (1984-10)(Sportscene Specialist Press)(GB).pdf" size="501621586" crc="16be9ebf" md5="3a873cca86f1a3059f75f05920dfbc4b" sha1="56b22e73b5d8baa4053a5b9c8e998ce50d0f08ac"/>
+	</game>
+	<game name="Your Spectrum - No. 09 (1984-11)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 09 (1984-11)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 09 (1984-11)(Sportscene Specialist Press)(GB).pdf" size="423497592" crc="57303001" md5="02dc06cd52cafcb21b6e8a82388bd68a" sha1="a5e9066e2f5f12d97870d40e72d15392aba4a7d2"/>
+	</game>
+	<game name="Your Spectrum - No. 10 (1985-01)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 10 (1985-01)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 10 (1985-01)(Sportscene Specialist Press)(GB).pdf" size="584890956" crc="745a5ca1" md5="47e86e436ac7508c6c81516bbcb386aa" sha1="f7fd43607b751bc4dd5884c2f26d99e9a9c04032"/>
+	</game>
+	<game name="Your Spectrum - No. 11 (1985-02)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 11 (1985-02)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 11 (1985-02)(Sportscene Specialist Press)(GB).pdf" size="486623628" crc="8eabb30a" md5="89cc60b96017ee7a09e663a0bffaecd8" sha1="a44f51352ad570c613905ea6d5ecdb6cc40d2abe"/>
+	</game>
+	<game name="Your Spectrum - No. 12 (1985-03)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 12 (1985-03)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 12 (1985-03)(Sportscene Specialist Press)(GB).pdf" size="399460875" crc="86d1be6f" md5="6226792489547fef40e9aa697945b41c" sha1="563ab5d5cf493bdc66ae17a743a8a083b5ffb397"/>
+	</game>
+	<game name="Your Spectrum - No. 13 (1985-04)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 13 (1985-04)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 13 (1985-04)(Sportscene Specialist Press)(GB).pdf" size="360188684" crc="7d7f2ce8" md5="c51a0bc1556f40cc7351cbc49bee9443" sha1="249cbe1032d97506c8f46a02cec921730326a1ac"/>
+	</game>
+	<game name="Your Spectrum - No. 14 (1985-05)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 14 (1985-05)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 14 (1985-05)(Sportscene Specialist Press)(GB).pdf" size="393647885" crc="ebd0405f" md5="477d041381a31973c99ec47400671c4a" sha1="222ccb0f60fd60d52a73c69e5f95d18ac71b3022"/>
+	</game>
+	<game name="Your Spectrum - No. 15 (1985-06)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 15 (1985-06)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 15 (1985-06)(Sportscene Specialist Press)(GB).pdf" size="397529555" crc="0487d3a7" md5="d7278f063535c51913df62e68852d06f" sha1="d510a34d4e31d71cf6dbcb20e607cddea12dffe4"/>
+	</game>
+	<game name="Your Spectrum - No. 16 (1985-07)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 16 (1985-07)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 16 (1985-07)(Sportscene Specialist Press)(GB).pdf" size="344259201" crc="a7803d16" md5="1f398a9a3c60308df8a1512ef6d1b35b" sha1="e2c2eb4674a87c681beecb8f332d78106bb2d82b"/>
+	</game>
+	<game name="Your Spectrum - No. 17 (1985-08)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 17 (1985-08)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 17 (1985-08)(Sportscene Specialist Press)(GB).pdf" size="343297427" crc="e2186116" md5="0e9a85008456c0724ad8e28e531528a7" sha1="940d1ac10b496b87b199ffdf15e3b4a337679b9b"/>
+	</game>
+	<game name="Your Spectrum - No. 18 (1985-09)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 18 (1985-09)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 18 (1985-09)(Sportscene Specialist Press)(GB).pdf" size="334440202" crc="470851d1" md5="81217a1935b78dd827859db7983beec2" sha1="33a4eb396c7fc849cca3f73ce4e8986050dd743f"/>
+	</game>
+	<game name="Your Spectrum - No. 19 (1985-10)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 19 (1985-10)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 19 (1985-10)(Sportscene Specialist Press)(GB).pdf" size="353412765" crc="618d4e2a" md5="88adef6baa4563aede9b076d264d8d78" sha1="a91e3b2af4724ad3bc0ed17d1aaa8925d06c3810"/>
+	</game>
+	<game name="Your Spectrum - No. 20 (1985-11)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 20 (1985-11)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 20 (1985-11)(Sportscene Specialist Press)(GB).pdf" size="349290254" crc="e23cc7f5" md5="6fac60ebbe7a3cafe7fdedc23c69a2be" sha1="bb742dbc1279808d1606d31fb4485d3b9aa18303"/>
+	</game>
+	<game name="Your Spectrum - No. 21 (1985-12)(Sportscene Specialist Press)(GB)">
+		<description>Your Spectrum - No. 21 (1985-12)(Sportscene Specialist Press)(GB)</description>
+		<rom name="Your Spectrum - No. 21 (1985-12)(Sportscene Specialist Press)(GB).pdf" size="408534760" crc="cc3e5dc6" md5="67f2cf2739278e0a3751777ca3bd09b5" sha1="ac5b929236c67c222c9d138381ef110c1c99f51e"/>
+	</game>
+</datafile>

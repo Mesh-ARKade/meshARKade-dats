@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - Computer Shopper (GB)</name>
+		<description>IBM PC Compatibles - Magazines - Computer Shopper (GB) (TOSEC-v2024-03-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-03-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Computer Shopper - Issue 257 (2009-07)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 257 (2009-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 257 (2009-07)(Dennis Publishing)(GB).pdf" size="71060540" crc="a1155c49" md5="56aed26a48d9bb0c1760dc3d6fa4fa63" sha1="bb5c1d145b1a372660d6a87002e64eed2854d1b1"/>
+	</game>
+	<game name="Computer Shopper - Issue 261 (2009-11)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 261 (2009-11)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 261 (2009-11)(Dennis Publishing)(GB).pdf" size="79304710" crc="5519b295" md5="3a2747c4e93eb90f3bd3d2f37c3cbdf1" sha1="e2d369e07d00fc6f10ed2cd105d17b623879b62f"/>
+	</game>
+	<game name="Computer Shopper - Issue 262 (2009-12)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 262 (2009-12)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 262 (2009-12)(Dennis Publishing)(GB).pdf" size="78102442" crc="4e63485d" md5="2fc067326bdac567e6b610ac8f251653" sha1="c07b9411ae6782f1c24a240cefe169936b1c3441"/>
+	</game>
+	<game name="Computer Shopper - Issue 263 (2010-01)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 263 (2010-01)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 263 (2010-01)(Dennis Publishing)(GB).pdf" size="81061191" crc="632fa3c1" md5="c72a06ea396b639bf961eb076d257416" sha1="9e7a61f0b52108c99aab8f0ad2c8eed56c6f0f51"/>
+	</game>
+	<game name="Computer Shopper - Issue 264 (2010-02)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 264 (2010-02)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 264 (2010-02)(Dennis Publishing)(GB).pdf" size="80319558" crc="4b148937" md5="25972d976046e33b48ef20c3e62be4d0" sha1="40fddd33017d6d9d94b7760a5d14951acaa98a42"/>
+	</game>
+	<game name="Computer Shopper - Issue 265 (2010-03)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 265 (2010-03)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 265 (2010-03)(Dennis Publishing)(GB).pdf" size="82089935" crc="685da788" md5="55d4f35a21ddf6069851d6b543500b2f" sha1="eb413c528d3f8a30aa87376e6c9692b61afabaf7"/>
+	</game>
+	<game name="Computer Shopper - Issue 266 (2010-04)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 266 (2010-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 266 (2010-04)(Dennis Publishing)(GB).pdf" size="88013835" crc="96e46bd1" md5="d5d9d553e9fa50aa6d21e5ce483b5986" sha1="35c6241f3163959cc869698770cd3af677e1677c"/>
+	</game>
+	<game name="Computer Shopper - Issue 267 (2010-05)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 267 (2010-05)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 267 (2010-05)(Dennis Publishing)(GB).pdf" size="61271861" crc="1ef1c181" md5="d49d8fe80f3754530dff27cdc309e93d" sha1="dd09d0311b94e88f69f2f07332e13be26aa07ce7"/>
+	</game>
+	<game name="Computer Shopper - Issue 268 (2010-06)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 268 (2010-06)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 268 (2010-06)(Dennis Publishing)(GB).pdf" size="61206941" crc="bd5b68b2" md5="c40e09582609cb64f1d1c4afca255b64" sha1="d21195d793d563761ab144d17d33727bb7f19d14"/>
+	</game>
+	<game name="Computer Shopper - Issue 269 (2010-07)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 269 (2010-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 269 (2010-07)(Dennis Publishing)(GB).pdf" size="59677507" crc="ac5cfc9e" md5="7b5f3a6dbe3ab1250ef1c31ef3d8d471" sha1="3b81356c69f58e44188ebe540170126ffb351cb6"/>
+	</game>
+	<game name="Computer Shopper - Issue 270 (2010-08)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 270 (2010-08)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 270 (2010-08)(Dennis Publishing)(GB).pdf" size="58241264" crc="59ba65d8" md5="b855f232109c2e3152ba8d0e702ffe3a" sha1="5675b9a72ed7605c28d5b8d425a563d5adcf2135"/>
+	</game>
+	<game name="Computer Shopper - Issue 271 (2010-09)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 271 (2010-09)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 271 (2010-09)(Dennis Publishing)(GB).pdf" size="71383299" crc="389f669a" md5="8c1532ddf9915330dc4d09e1c5041426" sha1="5bb9a2b30d5da0ab3a87c514f9df9424ec5afd01"/>
+	</game>
+	<game name="Computer Shopper - Issue 272 (2010-10)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 272 (2010-10)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 272 (2010-10)(Dennis Publishing)(GB).pdf" size="57658478" crc="6cab8a73" md5="16bf5bde6d1c214348fd6a9a98b41087" sha1="5cea0057d98b42a0e2ab89ddd9bb2b4bfe841766"/>
+	</game>
+	<game name="Computer Shopper - Issue 273 (2010-11)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 273 (2010-11)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 273 (2010-11)(Dennis Publishing)(GB).pdf" size="119217095" crc="59ae679c" md5="a05defcf447c6495a10d254805b3ed64" sha1="02e554c85823ad798cf18165029bea66d8a35052"/>
+	</game>
+	<game name="Computer Shopper - Issue 274 (2010-12)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 274 (2010-12)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 274 (2010-12)(Dennis Publishing)(GB).pdf" size="54633806" crc="0214354e" md5="fc0eece181fb09416e063cd332d01057" sha1="c1acbd760cc415977a9581e0c9ae1d9650d1755e"/>
+	</game>
+	<game name="Computer Shopper - Issue 275 (2011-01)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 275 (2011-01)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 275 (2011-01)(Dennis Publishing)(GB).pdf" size="33986180" crc="ffd6c386" md5="ea3adcf521047022598d764f39bda518" sha1="c51c88bf1d00eb4477f5f97c710dc4c498ae6d0f"/>
+	</game>
+	<game name="Computer Shopper - Issue 276 (2011-02)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 276 (2011-02)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 276 (2011-02)(Dennis Publishing)(GB).pdf" size="45880932" crc="a8dc02e7" md5="7b706cf04473ffe1b285025d3d33e60f" sha1="34ebd5d1bb32101d430ee13dc06e9d01f81fb6e8"/>
+	</game>
+	<game name="Computer Shopper - Issue 277 (2011-03)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 277 (2011-03)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 277 (2011-03)(Dennis Publishing)(GB).pdf" size="80179696" crc="102baa55" md5="c46255df3688fbb04f50e3fd4a8c3588" sha1="fd934654fcb06911f628eb8cdfd2a193ed0722f2"/>
+	</game>
+	<game name="Computer Shopper - Issue 278 (2011-04)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 278 (2011-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 278 (2011-04)(Dennis Publishing)(GB).pdf" size="92115231" crc="fff625ed" md5="9544e6e6dadd5bcc27b8e8c149a1f3da" sha1="c631aa022491a4a207bf0946927f0fdb77848cee"/>
+	</game>
+	<game name="Computer Shopper - Issue 279 (2011-05)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 279 (2011-05)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 279 (2011-05)(Dennis Publishing)(GB).pdf" size="52035891" crc="84ff8fcc" md5="f4b68bee432325fc5b0f3f47ea9934d1" sha1="8c2ae34477d5e8b88a0b317eeabaf49d63be46a7"/>
+	</game>
+	<game name="Computer Shopper - Issue 280 (2011-06)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 280 (2011-06)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 280 (2011-06)(Dennis Publishing)(GB).pdf" size="82647564" crc="23a53229" md5="5765a694bc46ee2042a4831797b1c33c" sha1="1ec9b1c5f337fa2159430be77ba682d2c8489297"/>
+	</game>
+	<game name="Computer Shopper - Issue 281 (2011-07)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 281 (2011-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 281 (2011-07)(Dennis Publishing)(GB).pdf" size="79727098" crc="2e16aaa4" md5="20fe8dec23b2bbe17fe5bd15b5e588b5" sha1="ba63a58de32304e575fb16b405cfd357c71168bd"/>
+	</game>
+	<game name="Computer Shopper - Issue 282 (2011-08)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 282 (2011-08)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 282 (2011-08)(Dennis Publishing)(GB).pdf" size="127758511" crc="10e13fa8" md5="cc9c18b5c1d8d53d43e70c01b6c981a9" sha1="961e6e821d6f73f06c3ac4629b38f26ddd9f8e6b"/>
+	</game>
+	<game name="Computer Shopper - Issue 283 (2011-09)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 283 (2011-09)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 283 (2011-09)(Dennis Publishing)(GB).pdf" size="131841792" crc="24b8825b" md5="847592b58ae989771448143b73f4915e" sha1="2347e9ad68a15e5547b89a937072a8d9422fe417"/>
+	</game>
+	<game name="Computer Shopper - Issue 284 (2011-10)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 284 (2011-10)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 284 (2011-10)(Dennis Publishing)(GB).pdf" size="128710942" crc="2c7103b1" md5="e4a6cb057f387a43766af28ccafde5e0" sha1="6b769b60624bcd707fcb0d416cc7058e631f3272"/>
+	</game>
+	<game name="Computer Shopper - Issue 285 (2011-11)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 285 (2011-11)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 285 (2011-11)(Dennis Publishing)(GB).pdf" size="136126583" crc="66f8d3fe" md5="758da7fde56654632ade8cd08aae4b57" sha1="dd8faa016027fc89f19a757555d85ea7ff97b090"/>
+	</game>
+	<game name="Computer Shopper - Issue 286 (2011-12)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 286 (2011-12)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 286 (2011-12)(Dennis Publishing)(GB).pdf" size="167409412" crc="097f21ff" md5="84d35b8b1986a49a58ee28514043fe16" sha1="93f96c93867a995de4f5b71282a97822644370de"/>
+	</game>
+	<game name="Computer Shopper - Issue 287 (2012-01)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 287 (2012-01)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 287 (2012-01)(Dennis Publishing)(GB).pdf" size="56011368" crc="614d8bee" md5="fed49202af0bc9a44c44c836dcb97498" sha1="707e3122060df3fd0f0c639dd04f2e4a2fb0f667"/>
+	</game>
+	<game name="Computer Shopper - Issue 288 (2012-02)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 288 (2012-02)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 288 (2012-02)(Dennis Publishing)(GB).pdf" size="141371648" crc="7f826dc6" md5="2cccd2a05afc323fa823b7584deda122" sha1="375991e88897dacee6a38e68ad1e3b8d4b6b5872"/>
+	</game>
+	<game name="Computer Shopper - Issue 289 (2012-03)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 289 (2012-03)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 289 (2012-03)(Dennis Publishing)(GB).pdf" size="56003084" crc="7b93477f" md5="16d9e52321d83df6213f991aa4b301b4" sha1="41362c8695c179b7226b113607ad77c4a6c4fb92"/>
+	</game>
+	<game name="Computer Shopper - Issue 290 (2012-04)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 290 (2012-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 290 (2012-04)(Dennis Publishing)(GB).pdf" size="155357106" crc="ca97f0cd" md5="5045c60723f7fa2bc401228a871bae2a" sha1="61c996a7065fdc7f9d352a3d8f8dc2ff851899ea"/>
+	</game>
+	<game name="Computer Shopper - Issue 291 (2012-05)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 291 (2012-05)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 291 (2012-05)(Dennis Publishing)(GB).pdf" size="165580273" crc="5b5a32c9" md5="3532459f670647d2e8468a036a591a09" sha1="87f084693e8e1d61134a6c9a4c713ee406b245f2"/>
+	</game>
+	<game name="Computer Shopper - Issue 291 (2012-05)(Dennis Publishing)(GB)[a]">
+		<description>Computer Shopper - Issue 291 (2012-05)(Dennis Publishing)(GB)[a]</description>
+		<rom name="Computer Shopper - Issue 291 (2012-05)(Dennis Publishing)(GB)[a].pdf" size="56329756" crc="047cc9b9" md5="d4be83d22ff1e276705d1cfda178eb2e" sha1="6a905822afbc7238aad47bb009563915b0766942"/>
+	</game>
+	<game name="Computer Shopper - Issue 292 (2012-06)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 292 (2012-06)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 292 (2012-06)(Dennis Publishing)(GB).pdf" size="140295018" crc="46c61a78" md5="98140b23ef21b24cd1c443d23866b610" sha1="619f22bb1385aec6fad807703d267f9c5dab4934"/>
+	</game>
+	<game name="Computer Shopper - Issue 293 (2012-07)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 293 (2012-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 293 (2012-07)(Dennis Publishing)(GB).pdf" size="140136992" crc="a5a6ed7e" md5="c062c356851045ca1bd679ccaab68b43" sha1="b7f5aa535c3799785719878cf80e8b143adc8823"/>
+	</game>
+	<game name="Computer Shopper - Issue 294 (2012-08)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 294 (2012-08)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 294 (2012-08)(Dennis Publishing)(GB).pdf" size="157189158" crc="04cce18b" md5="2ead264da103addd4330f8f169872397" sha1="f5f4a37ceae1d57ea9cc67bdc015fd07243d9d5f"/>
+	</game>
+	<game name="Computer Shopper - Issue 295 (2012-09)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 295 (2012-09)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 295 (2012-09)(Dennis Publishing)(GB).pdf" size="36853906" crc="9e57b969" md5="d6c270e420d4e7692b694a1c50bdf4b7" sha1="f1994b9d64f86c8c8c74406c1961475d2d65d3d6"/>
+	</game>
+	<game name="Computer Shopper - Issue 298 (2012-12)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 298 (2012-12)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 298 (2012-12)(Dennis Publishing)(GB).pdf" size="23047412" crc="9a6cfb25" md5="566944766b1ea1023b5591e6084b4ae3" sha1="5c6808b8c51c147003bf4f19ea3935f4f9b7f1de"/>
+	</game>
+	<game name="Computer Shopper - Issue 299 (2013-01)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 299 (2013-01)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 299 (2013-01)(Dennis Publishing)(GB).pdf" size="22184629" crc="73140c29" md5="c80ec8657b754dcdff30be401169d059" sha1="de9d00daabd2bc0e25835dde4a6cb6ab316ea8ba"/>
+	</game>
+	<game name="Computer Shopper - Issue 300 (2013-02)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 300 (2013-02)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 300 (2013-02)(Dennis Publishing)(GB).pdf" size="23020274" crc="7896d9af" md5="3cd6b81a06fbf321650dd5e7b5dc9126" sha1="8fe181581594aa64d4be59b04fba56751e72a76f"/>
+	</game>
+	<game name="Computer Shopper - Issue 301 (2013-03)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 301 (2013-03)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 301 (2013-03)(Dennis Publishing)(GB).pdf" size="28035622" crc="465bcbb7" md5="0be45e0c26b3ed63ec231c1a3dbbb456" sha1="38f991743c0e236af39877d2d2a559283b8f4c34"/>
+	</game>
+	<game name="Computer Shopper - Issue 302 (2013-04)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 302 (2013-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 302 (2013-04)(Dennis Publishing)(GB).pdf" size="31265777" crc="1a61a681" md5="46b66a47485a9fa8a7a3784986c1534c" sha1="56def61624d5e23dff82e8ab16c8fc0101335270"/>
+	</game>
+	<game name="Computer Shopper - Issue 303 (2013-05)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 303 (2013-05)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 303 (2013-05)(Dennis Publishing)(GB).pdf" size="28209195" crc="614bae9f" md5="f080138dd096b55bd1bd9d9dd94d8f6c" sha1="81fb103f545981f5b941b255acf865b2779eb35c"/>
+	</game>
+	<game name="Computer Shopper - Issue 304 (2013-06)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 304 (2013-06)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 304 (2013-06)(Dennis Publishing)(GB).pdf" size="27430890" crc="1c2acb54" md5="eccd695c1b8538d424421b46c7da4f13" sha1="31129b4b9a9ef3eccfd544cbbc4d444d71c58db7"/>
+	</game>
+	<game name="Computer Shopper - Issue 305 (2013-07)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 305 (2013-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 305 (2013-07)(Dennis Publishing)(GB).pdf" size="20214678" crc="dbb4dc3b" md5="e8f22bb31f3a60d7cfe08e9729c5ac53" sha1="b8bbb3e1304adfb050fc4bfe8dd49539d8e6d96a"/>
+	</game>
+	<game name="Computer Shopper - Issue 306 (2013-08)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 306 (2013-08)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 306 (2013-08)(Dennis Publishing)(GB).pdf" size="28195186" crc="b9caa818" md5="6695b66e0b3124320e909bc010233c53" sha1="0c075741ee3dbfc1a34b3409b3ee4e33e5097338"/>
+	</game>
+	<game name="Computer Shopper - Issue 307 (2013-09)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 307 (2013-09)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 307 (2013-09)(Dennis Publishing)(GB).pdf" size="21236965" crc="44f5a9dd" md5="491221e4670acc93c9ffda0280cc337f" sha1="e59e6ef3285977bfe1462536c5d094b2806c602f"/>
+	</game>
+	<game name="Computer Shopper - Issue 308 (2013-10)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 308 (2013-10)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 308 (2013-10)(Dennis Publishing)(GB).pdf" size="31357927" crc="f85d7897" md5="a7bbb5aa51ea29e7748880414500d820" sha1="0140eb9e3d4cb82960365a1aea87d9ef2d862028"/>
+	</game>
+	<game name="Computer Shopper - Issue 309 (2013-11)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 309 (2013-11)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 309 (2013-11)(Dennis Publishing)(GB).pdf" size="30553988" crc="3d8d49d4" md5="afcbc4d0a1a9458c51a744fb122ce8ad" sha1="d9ea54424c1f1a628f6934ec62dcf95abd3f54fd"/>
+	</game>
+	<game name="Computer Shopper - Issue 310 (2013-12)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 310 (2013-12)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 310 (2013-12)(Dennis Publishing)(GB).pdf" size="19283198" crc="c0bece10" md5="fa3e05778cfccabd51d8bcad4c23e5ef" sha1="4d7e49f0c8ea59ebd1adce9a27f409c4d4aa036a"/>
+	</game>
+	<game name="Computer Shopper - Issue 311 (2014-01)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 311 (2014-01)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 311 (2014-01)(Dennis Publishing)(GB).pdf" size="42959024" crc="3771748f" md5="284745f616748985ff913705b9f8881c" sha1="794ca964f93e6f94f6ac582e951a5746981d05a3"/>
+	</game>
+	<game name="Computer Shopper - Issue 312 (2014-02)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 312 (2014-02)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 312 (2014-02)(Dennis Publishing)(GB).pdf" size="120577447" crc="91389064" md5="7271a69179c44e2f8cf0ec7b8790adb7" sha1="f8b58023e8f24bcf6d56df08287e2504fb63036e"/>
+	</game>
+	<game name="Computer Shopper - Issue 312 (2014-02)(Dennis Publishing)(GB)[a]">
+		<description>Computer Shopper - Issue 312 (2014-02)(Dennis Publishing)(GB)[a]</description>
+		<rom name="Computer Shopper - Issue 312 (2014-02)(Dennis Publishing)(GB)[a].pdf" size="41612986" crc="06c7133d" md5="dba56bfad1972614eb0b651dad6a695b" sha1="33ee41437dc046a7fa438745036465a48907a5ca"/>
+	</game>
+	<game name="Computer Shopper - Issue 313 (2014-03)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 313 (2014-03)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 313 (2014-03)(Dennis Publishing)(GB).pdf" size="37079962" crc="952e0e8c" md5="c7c10cc4e23ed275b25e731825aa887b" sha1="35b49c595d8ad4a824950ce935d35d48dbf56a8a"/>
+	</game>
+	<game name="Computer Shopper - Issue 314 (2014-04)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 314 (2014-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 314 (2014-04)(Dennis Publishing)(GB).pdf" size="31472423" crc="218459ad" md5="128d1b303ebf79c6bf39b3d4cf93ecc0" sha1="c6c44b1dba2285ddb9a2dd1d4d33167008366961"/>
+	</game>
+	<game name="Computer Shopper - Issue 315 (2014-05)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 315 (2014-05)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 315 (2014-05)(Dennis Publishing)(GB).pdf" size="40877876" crc="6b7dcfb1" md5="02142f5d109a8ce4b1fff321434aee1c" sha1="fa99d76eabeefa5eec82a912b539476fa753c59c"/>
+	</game>
+	<game name="Computer Shopper - Issue 316 (2014-06)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 316 (2014-06)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 316 (2014-06)(Dennis Publishing)(GB).pdf" size="103353610" crc="da773335" md5="97d20c25e316923063a67fd600b23b53" sha1="74cdf9dd9d457a6fab9484aba7297260ccb681c9"/>
+	</game>
+	<game name="Computer Shopper - Issue 316 (2014-06)(Dennis Publishing)(GB)[a]">
+		<description>Computer Shopper - Issue 316 (2014-06)(Dennis Publishing)(GB)[a]</description>
+		<rom name="Computer Shopper - Issue 316 (2014-06)(Dennis Publishing)(GB)[a].pdf" size="39551319" crc="0a502f37" md5="90cb190ab911faf2b80114ce693d73f2" sha1="2bdc34c9bdf3ea114675d5ff746b4eca5d26714c"/>
+	</game>
+	<game name="Computer Shopper - Issue 317 (2014-07)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 317 (2014-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 317 (2014-07)(Dennis Publishing)(GB).pdf" size="103575789" crc="e4142ebd" md5="48aedbb2a91ca5151e9249a62430695c" sha1="bf18e2ba6f3244b210bfd8f0a19518eb2e3ea229"/>
+	</game>
+	<game name="Computer Shopper - Issue 317 (2014-07)(Dennis Publishing)(GB)[a]">
+		<description>Computer Shopper - Issue 317 (2014-07)(Dennis Publishing)(GB)[a]</description>
+		<rom name="Computer Shopper - Issue 317 (2014-07)(Dennis Publishing)(GB)[a].pdf" size="37112490" crc="09c45689" md5="3f0625ac7b5947d1c9876def7a8320d4" sha1="bdd0b11e4d89d94d7910b749698100ed95b29409"/>
+	</game>
+	<game name="Computer Shopper - Issue 318 (2014-08)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 318 (2014-08)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 318 (2014-08)(Dennis Publishing)(GB).pdf" size="37488888" crc="19dc2f56" md5="efee6ad3520062d667d41765521945d5" sha1="86fb2410ddf92707da274492f79e4b5444bdd6d2"/>
+	</game>
+	<game name="Computer Shopper - Issue 319 (2014-09)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 319 (2014-09)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 319 (2014-09)(Dennis Publishing)(GB).pdf" size="31133676" crc="a7704381" md5="71f5cd3d71d87784cab23f0e7e8142f9" sha1="368865cf2bee7e0b52c6caf6926c724c8e52de6b"/>
+	</game>
+	<game name="Computer Shopper - Issue 320 (2014-10)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 320 (2014-10)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 320 (2014-10)(Dennis Publishing)(GB).pdf" size="32335541" crc="8cba1b57" md5="b0b0f02724161a532e8a641f6fece5c4" sha1="68a0c2ce77e5e6934e036fe15e95166d871b4873"/>
+	</game>
+	<game name="Computer Shopper - Issue 321 (2014-11)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 321 (2014-11)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 321 (2014-11)(Dennis Publishing)(GB).pdf" size="56430023" crc="c32f7d7b" md5="6c8802e1a9635467c5ccc560e54dac2f" sha1="814b0e62b25b766b1a52c4c0fdad06b73b1feaff"/>
+	</game>
+	<game name="Computer Shopper - Issue 322 (2014-12)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 322 (2014-12)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 322 (2014-12)(Dennis Publishing)(GB).pdf" size="39213641" crc="baa2fa54" md5="d59de40d92ba1ff7ff68b7fa4d020edc" sha1="6e365c87969da6eea261758edb4440f63782ab2e"/>
+	</game>
+	<game name="Computer Shopper - Issue 323 (2015-01)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 323 (2015-01)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 323 (2015-01)(Dennis Publishing)(GB).pdf" size="24991042" crc="48b66de2" md5="84ebf2de015d87b0066176d7610c435d" sha1="3e4da696a7572b1e0d3777e82c7bec97fe4c81c6"/>
+	</game>
+	<game name="Computer Shopper - Issue 324 (2015-02)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 324 (2015-02)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 324 (2015-02)(Dennis Publishing)(GB).pdf" size="35752660" crc="b559b8c6" md5="3ee0dc50ea1b034e37c3d5f49c4c7189" sha1="4b569269c7132787f6ef28be471049c68ddbe16b"/>
+	</game>
+	<game name="Computer Shopper - Issue 325 (2015-03)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 325 (2015-03)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 325 (2015-03)(Dennis Publishing)(GB).pdf" size="31959675" crc="53f1d4bd" md5="84203112141a76f308777aea3b8d4050" sha1="9add23db1293d9b94f9cd914a9ce8819f9b51da0"/>
+	</game>
+	<game name="Computer Shopper - Issue 326 (2015-04)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 326 (2015-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 326 (2015-04)(Dennis Publishing)(GB).pdf" size="36534333" crc="9be367f3" md5="2f93be5d1f6fc979fe51fceba9c32c30" sha1="bb164dc49a88c069aa02d74b90a512b5ef0a6eec"/>
+	</game>
+	<game name="Computer Shopper - Issue 327 (2015-05)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 327 (2015-05)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 327 (2015-05)(Dennis Publishing)(GB).pdf" size="27193447" crc="c294af9b" md5="0a4aaa0cbcefc0eaf31d6cc21234227d" sha1="0f7a33d23df646e5e25a3633c5a50acff4e07afa"/>
+	</game>
+	<game name="Computer Shopper - Issue 328 (2015-06)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 328 (2015-06)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 328 (2015-06)(Dennis Publishing)(GB).pdf" size="25570279" crc="e21db2bf" md5="d21722b1ef6dd858f7cc835cd75801b2" sha1="4074becf382721594f6faf6e1f5cc658c3aadc54"/>
+	</game>
+	<game name="Computer Shopper - Issue 329 (2015-07)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 329 (2015-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 329 (2015-07)(Dennis Publishing)(GB).pdf" size="25626565" crc="7185118b" md5="c7b2163213c4cde8f5427c4dc0871964" sha1="d07c86515f2a405a8bbbbade1a1048ae5c901431"/>
+	</game>
+	<game name="Computer Shopper - Issue 330 (2015-08)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 330 (2015-08)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 330 (2015-08)(Dennis Publishing)(GB).pdf" size="10488162" crc="cf5202b4" md5="ed868e60aea0e968fdbaa7be3851e539" sha1="3b43f8eeb5cebb90b63b8f5542e05d003a30a410"/>
+	</game>
+	<game name="Computer Shopper - Issue 331 (2015-09)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 331 (2015-09)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 331 (2015-09)(Dennis Publishing)(GB).pdf" size="22697406" crc="4e7303c5" md5="9ae5d3e8facc9d9c84e7235544f8dc1d" sha1="f31d396c27f2344ba9439433d231201e9bfaec24"/>
+	</game>
+	<game name="Computer Shopper - Issue 332 (2015-10)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 332 (2015-10)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 332 (2015-10)(Dennis Publishing)(GB).pdf" size="17286227" crc="6dcae0c8" md5="115ea19dee776404b4975881bba3a9d0" sha1="5ba3adbd2129e492213babc23d810ec774abf693"/>
+	</game>
+	<game name="Computer Shopper - Issue 333 (2015-11)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 333 (2015-11)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 333 (2015-11)(Dennis Publishing)(GB).pdf" size="24603845" crc="3d58d543" md5="a96424fc4abeed311a674f44b64eea34" sha1="54e08182d7b41b24271e81c21e3d4ba2ea89a6fd"/>
+	</game>
+	<game name="Computer Shopper - Issue 334 (2015-12)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 334 (2015-12)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 334 (2015-12)(Dennis Publishing)(GB).pdf" size="23337631" crc="0a335f25" md5="4d7768ad12ebde9955a809b68325cd58" sha1="ab6092e8db9bd66531535c66963e9d5cbde14317"/>
+	</game>
+	<game name="Computer Shopper - Issue 335 (2016-01)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 335 (2016-01)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 335 (2016-01)(Dennis Publishing)(GB).pdf" size="13595851" crc="4c35150d" md5="22208f05b58beb4fa2164436f58219c9" sha1="3c58e30c5116e0a990a40471ad8a5eafcc8d25fb"/>
+	</game>
+	<game name="Computer Shopper - Issue 336 (2016-02)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 336 (2016-02)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 336 (2016-02)(Dennis Publishing)(GB).pdf" size="33507757" crc="d5ab6900" md5="17047f5f74a3666f95ab68d1b0329a78" sha1="672f8f072fdf0418546e97bf826cf6f0ca624cf0"/>
+	</game>
+	<game name="Computer Shopper - Issue 337 (2016-03)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 337 (2016-03)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 337 (2016-03)(Dennis Publishing)(GB).pdf" size="32230871" crc="6412f080" md5="eec0b7a8df67ade8dbb034890943d7f5" sha1="1caa8d2da80897c9b6864edcba7107f465595718"/>
+	</game>
+	<game name="Computer Shopper - Issue 338 (2016-04)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 338 (2016-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 338 (2016-04)(Dennis Publishing)(GB).pdf" size="19087852" crc="ba38d5c4" md5="b991951cd1fdb6e9f293ea9f795d1b1d" sha1="1815cf6f88651135a281f032956e7b3fa1e7bc2f"/>
+	</game>
+	<game name="Computer Shopper - Issue 339 (2016-05)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 339 (2016-05)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 339 (2016-05)(Dennis Publishing)(GB).pdf" size="21566635" crc="c06eec0c" md5="1d5363df02e55cdb14dba1f33007f0a1" sha1="c92ae7ae44d63e15d820127fa7f11992c3f04292"/>
+	</game>
+	<game name="Computer Shopper - Issue 340 (2016-06)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 340 (2016-06)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 340 (2016-06)(Dennis Publishing)(GB).pdf" size="22738018" crc="e676a169" md5="2dd705d0d460a54474bbe5c0ac1ad783" sha1="757dcfded0fdda5421d651336a0caa56367f60b0"/>
+	</game>
+	<game name="Computer Shopper - Issue 341 (2016-07)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 341 (2016-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 341 (2016-07)(Dennis Publishing)(GB).pdf" size="31040873" crc="65340b51" md5="0913122ad51f334fde2c524bfd992bf2" sha1="5f03e24a17fd7bba39871a79710113fdb4a9ccf0"/>
+	</game>
+	<game name="Computer Shopper - Issue 342 (2016-08)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 342 (2016-08)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 342 (2016-08)(Dennis Publishing)(GB).pdf" size="30408823" crc="881a3639" md5="dce95fcad2ccfaef36815c5957db9b7c" sha1="913aa1d766accfb71f141d457d9681f52b1239a9"/>
+	</game>
+	<game name="Computer Shopper - Issue 343 (2016-09)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 343 (2016-09)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 343 (2016-09)(Dennis Publishing)(GB).pdf" size="19161182" crc="8d3998e8" md5="5159343a5d5c1ecdec9860c4fefd274f" sha1="0c11c28c77ef3a657f8745b13b9fd0ba332c76c2"/>
+	</game>
+	<game name="Computer Shopper - Issue 344 (2016-10)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 344 (2016-10)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 344 (2016-10)(Dennis Publishing)(GB).pdf" size="22134892" crc="73f8cf4c" md5="13175a530c220caa78f8bb0f24310cf0" sha1="a022ef471ae04cc8d417e1cf481afc8a65fd3219"/>
+	</game>
+	<game name="Computer Shopper - Issue 345 (2016-11)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 345 (2016-11)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 345 (2016-11)(Dennis Publishing)(GB).pdf" size="25176682" crc="728c3947" md5="f7f9e30c704de3ccfa14e48332ffd3f4" sha1="0a5212ab6c2a016987e3a32d2302b34f43bcdb99"/>
+	</game>
+	<game name="Computer Shopper - Issue 346 (2016-12)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 346 (2016-12)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 346 (2016-12)(Dennis Publishing)(GB).pdf" size="38887982" crc="251e0f03" md5="cf0d6d44cb06aa8e63f3d37f022e66d1" sha1="f5ebd648ecce3cd71eb49553c7af5c1561cc9009"/>
+	</game>
+	<game name="Computer Shopper - Issue 347 (2017-01)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 347 (2017-01)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 347 (2017-01)(Dennis Publishing)(GB).pdf" size="36492727" crc="4b4cb41c" md5="477804351926a70cf3cc086720bd15bc" sha1="2cb81432bde8d367c7682dc4b4d5499722309594"/>
+	</game>
+	<game name="Computer Shopper - Issue 348 (2017-02)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 348 (2017-02)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 348 (2017-02)(Dennis Publishing)(GB).pdf" size="74389798" crc="cc108695" md5="675f9dd0545b5a62934cb9118873a140" sha1="488d3af193aea903e9cfcbbf1bfc518d151fdb59"/>
+	</game>
+	<game name="Computer Shopper - Issue 349 (2017-03)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 349 (2017-03)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 349 (2017-03)(Dennis Publishing)(GB).pdf" size="34540047" crc="c75ee4d6" md5="99c7f7977d13414778631da82a41cd75" sha1="b5f885f19b8b192031e5d8817d134a2ae42f3455"/>
+	</game>
+	<game name="Computer Shopper - Issue 350 (2017-04)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 350 (2017-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 350 (2017-04)(Dennis Publishing)(GB).pdf" size="32916002" crc="a16a295b" md5="9c9517d08ef8d6604cd27cb8a0225ac9" sha1="7ba510679cad0bb46cdcf710ccd2e908d766551a"/>
+	</game>
+	<game name="Computer Shopper - Issue 351 (2017-05)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 351 (2017-05)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 351 (2017-05)(Dennis Publishing)(GB).pdf" size="44772831" crc="93aa07cc" md5="cb5bc415e5f094b30978c9684c80890e" sha1="ebae4d5c167c75d928726df61f1117a352f37850"/>
+	</game>
+	<game name="Computer Shopper - Issue 352 (2017-06)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 352 (2017-06)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 352 (2017-06)(Dennis Publishing)(GB).pdf" size="34617269" crc="ffd5a41f" md5="e359f231e3109c5d4d46c40403869f9e" sha1="16c24684bbbc12b4cf0f92d58adb57c36a3d2745"/>
+	</game>
+	<game name="Computer Shopper - Issue 353 (2017-07)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 353 (2017-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 353 (2017-07)(Dennis Publishing)(GB).pdf" size="18871728" crc="c55c9082" md5="d30b6cc27da0278adc64082b02f94b16" sha1="5a2e2ea6f6d01f744947339d8e41da8c7f0757d5"/>
+	</game>
+	<game name="Computer Shopper - Issue 354 (2017-08)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 354 (2017-08)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 354 (2017-08)(Dennis Publishing)(GB).pdf" size="32966599" crc="031b4eec" md5="cc7549fbe482c32c786ce684a40d9c48" sha1="4815611af69448a59098d7af8c7327dc4f58013a"/>
+	</game>
+	<game name="Computer Shopper - Issue 355 (2017-09)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 355 (2017-09)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 355 (2017-09)(Dennis Publishing)(GB).pdf" size="35317073" crc="95464375" md5="f70d4a915322665f0e6a1d3f00ecdd41" sha1="63dc0df0a4041088a2caa78cbde75ad9d98c55f7"/>
+	</game>
+	<game name="Computer Shopper - Issue 356 (2017-10)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 356 (2017-10)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 356 (2017-10)(Dennis Publishing)(GB).pdf" size="42622434" crc="e33ac843" md5="6053dc534bb6da5202a03088dd355471" sha1="12ab737b6e52095612686f1a4427929a9b8cbda7"/>
+	</game>
+	<game name="Computer Shopper - Issue 357 (2017-11)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 357 (2017-11)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 357 (2017-11)(Dennis Publishing)(GB).pdf" size="36887625" crc="cc1557fe" md5="cd773ee72cd2bbed5a0e9a6ce39ad8e6" sha1="e0b68069f5cbece88f4d6024beed4240c1ad5ec7"/>
+	</game>
+	<game name="Computer Shopper - Issue 358 (2017-12)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 358 (2017-12)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 358 (2017-12)(Dennis Publishing)(GB).pdf" size="18519383" crc="b5a9c2ab" md5="d9d08c4168590d98b07bcf84ea0889d5" sha1="9494eec8b6f1a07d61b458f4f8899297ab1e4891"/>
+	</game>
+	<game name="Computer Shopper - Issue 360 (2018-02)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 360 (2018-02)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 360 (2018-02)(Dennis Publishing)(GB).pdf" size="40008497" crc="a63df2d6" md5="df21ab716d6e0ce85420091bebbf5d89" sha1="9bcc0550953d65e2f7a16f2a4e3bd62daa7ea7cd"/>
+	</game>
+	<game name="Computer Shopper - Issue 362 (2018-04)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 362 (2018-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 362 (2018-04)(Dennis Publishing)(GB).pdf" size="36146832" crc="1ba1fdad" md5="805f5b08c94aa8546318a3c71b4c5989" sha1="0853da0586269a1aa118bd3033fa9928942dc047"/>
+	</game>
+	<game name="Computer Shopper - Issue 363 (2018-05)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 363 (2018-05)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 363 (2018-05)(Dennis Publishing)(GB).pdf" size="83244418" crc="d4eb16cd" md5="341ba3b6691855423966b7893c039a47" sha1="46d5f41b41b449e9d90b13b06ada0ca7070a0982"/>
+	</game>
+	<game name="Computer Shopper - Issue 364 (2018-06)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 364 (2018-06)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 364 (2018-06)(Dennis Publishing)(GB).pdf" size="37975717" crc="a2407f12" md5="5178fa5efb13c215fe9f4fc23a29f457" sha1="50e870732c6274866311da6e140e5c773a890df3"/>
+	</game>
+	<game name="Computer Shopper - Issue 365 (2018-07)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 365 (2018-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 365 (2018-07)(Dennis Publishing)(GB).pdf" size="83930860" crc="879312a1" md5="3937db1a6e99b6f932c9e5282f5602fd" sha1="4b439d979a3d3b7b76f3dbbc61766106fb734e98"/>
+	</game>
+	<game name="Computer Shopper - Issue 366 (2018-08)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 366 (2018-08)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 366 (2018-08)(Dennis Publishing)(GB).pdf" size="38463388" crc="79204cfc" md5="db8748069f792cb821775ac740ca482a" sha1="694b26f2409ba9747a8126f815342c641cce651e"/>
+	</game>
+	<game name="Computer Shopper - Issue 367 (2018-09)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 367 (2018-09)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 367 (2018-09)(Dennis Publishing)(GB).pdf" size="38823702" crc="c958455f" md5="3a9571c9b09d620fe1cfaea48eb74b66" sha1="04444f2db7ce818ba1f08d18410aa3468f7fd92a"/>
+	</game>
+	<game name="Computer Shopper - Issue 368 (2018-10)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 368 (2018-10)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 368 (2018-10)(Dennis Publishing)(GB).pdf" size="36141689" crc="406c5a65" md5="245f15a66acd2104a19dda476fa8c186" sha1="81089e5352e765a976f79b36a2530a32e21dd812"/>
+	</game>
+	<game name="Computer Shopper - Issue 369 (2018-11)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 369 (2018-11)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 369 (2018-11)(Dennis Publishing)(GB).pdf" size="15201409" crc="58166eb4" md5="f61c3e88dec33713c2ef614050dacadb" sha1="72b031576710d3e80f3dc326de8b320b69b7f077"/>
+	</game>
+	<game name="Computer Shopper - Issue 370 (2018-12)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 370 (2018-12)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 370 (2018-12)(Dennis Publishing)(GB).pdf" size="15625162" crc="53397db3" md5="e95d5498a2c736554410cc40c4100d48" sha1="0b2cd7a7f74bee4eb6e8b3ba58735c36614bff50"/>
+	</game>
+	<game name="Computer Shopper - Issue 371 (2019-01)(Dennis Publishing)(GB)">
+		<description>Computer Shopper - Issue 371 (2019-01)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Shopper - Issue 371 (2019-01)(Dennis Publishing)(GB).pdf" size="51149122" crc="34294cde" md5="ef95937ad8b03c470602a95d744eebb5" sha1="baa64e044f421692c422c6602dc171309dd8f9b8"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - gamesTM (ES)</name>
+		<description>Multi-format - Magazines - gamesTM (ES) (TOSEC-v2024-03-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-03-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="gamesTM - Numero 018 (2014-01)(Imagine Publishing)(ES)">
+		<description>gamesTM - Numero 018 (2014-01)(Imagine Publishing)(ES)</description>
+		<rom name="gamesTM - Numero 018 (2014-01)(Imagine Publishing)(ES).pdf" size="48832907" crc="92f5002b" md5="e2450a605da34ee3c4b618a3cda3b19f" sha1="f31b63a00753f8f1d02845fa12f971c30c5a34d3"/>
+	</game>
+	<game name="gamesTM - Numero 020 (2014-03)(Imagine Publishing)(ES)">
+		<description>gamesTM - Numero 020 (2014-03)(Imagine Publishing)(ES)</description>
+		<rom name="gamesTM - Numero 020 (2014-03)(Imagine Publishing)(ES).pdf" size="45986239" crc="652d611b" md5="d0e7bede4f42ffb1971d356d9f005a1a" sha1="376f4e732f87646cb52de650cc7efdc27597debc"/>
+	</game>
+	<game name="gamesTM - Numero 021 (2014-04)(Imagine Publishing)(ES)">
+		<description>gamesTM - Numero 021 (2014-04)(Imagine Publishing)(ES)</description>
+		<rom name="gamesTM - Numero 021 (2014-04)(Imagine Publishing)(ES).pdf" size="27365131" crc="3964fa0f" md5="ab45f4f220c8299bbe319d53b04ac63b" sha1="3387ba9845876de271ed65a37a73d5d0d74b4f49"/>
+	</game>
+</datafile>

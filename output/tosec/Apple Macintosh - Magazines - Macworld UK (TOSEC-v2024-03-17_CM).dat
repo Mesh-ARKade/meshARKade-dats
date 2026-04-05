@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Magazines - Macworld UK</name>
+		<description>Apple Macintosh - Magazines - Macworld UK (TOSEC-v2024-03-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-03-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Macworld UK (2004-03)(IDG Communications)(GB)">
+		<description>Macworld UK (2004-03)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2004-03)(IDG Communications)(GB).pdf" size="15155117" crc="f45ae3e5" md5="4d04504b01098b7f872958b81a6cd22e" sha1="2df9da2a195c0de7a94dd7b644cf37a13a57d40a"/>
+	</game>
+	<game name="Macworld UK (2005-07)(IDG Communications)(GB)">
+		<description>Macworld UK (2005-07)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2005-07)(IDG Communications)(GB).pdf" size="9150478" crc="252903b7" md5="e67a58017b532045e613e803c121de52" sha1="f8e1c7ddd1f2793a4ad3adeffdc42e9eb1cfdf26"/>
+	</game>
+	<game name="Macworld UK (2005-10)(IDG Communications)(GB)">
+		<description>Macworld UK (2005-10)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2005-10)(IDG Communications)(GB).pdf" size="11122475" crc="08dac69f" md5="c588bb13b2453b0df8559bd37616e6e6" sha1="0f4055093490327f4a4f6881ef76aad5dbe241ba"/>
+	</game>
+	<game name="Macworld UK (2005-11)(IDG Communications)(GB)">
+		<description>Macworld UK (2005-11)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2005-11)(IDG Communications)(GB).pdf" size="16968815" crc="50e93fe5" md5="49ddbf428efc9930b2bb9d44bce06fb8" sha1="3fd087feb30c0a314e41b5942bfd56b5c0e969dd"/>
+	</game>
+	<game name="Macworld UK (2005-12)(IDG Communications)(GB)">
+		<description>Macworld UK (2005-12)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2005-12)(IDG Communications)(GB).pdf" size="16555817" crc="82d6485d" md5="043f50ffe4fee71eca2124aef02739c8" sha1="245d0b5ec03610a26c4077269934c020ad940047"/>
+	</game>
+	<game name="Macworld UK (2006-01)(IDG Communications)(GB)">
+		<description>Macworld UK (2006-01)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2006-01)(IDG Communications)(GB).pdf" size="17635530" crc="fc70328b" md5="8dac90a4285519dd40689a93a972982d" sha1="e22c91f5ee7c5a42cf81f3622b6013672ce46d08"/>
+	</game>
+	<game name="Macworld UK (2006-01)(IDG Communications)(GB)[a]">
+		<description>Macworld UK (2006-01)(IDG Communications)(GB)[a]</description>
+		<rom name="Macworld UK (2006-01)(IDG Communications)(GB)[a].pdf" size="23610898" crc="a44872fa" md5="f3ea6642dc96e45475f8dc6e44711dbe" sha1="bbd63bc4a8f46cef6af6ffc661a81354548e35f9"/>
+	</game>
+	<game name="Macworld UK (2006-03)(IDG Communications)(GB)">
+		<description>Macworld UK (2006-03)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2006-03)(IDG Communications)(GB).pdf" size="17168347" crc="c06ae94e" md5="0836d2fe9652fd264c50d59ffb116cc2" sha1="a2c892d259a90e607a4e32b3b181ebd898dcb369"/>
+	</game>
+	<game name="Macworld UK (2006-05)(IDG Communications)(GB)">
+		<description>Macworld UK (2006-05)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2006-05)(IDG Communications)(GB).pdf" size="21253502" crc="cb80b38b" md5="2148a68dc4c60b32ebd09155366b1255" sha1="f09b953f6faec4d5efbcca21b1a7344137362e92"/>
+	</game>
+	<game name="Macworld UK (2006-11)(IDG Communications)(GB)">
+		<description>Macworld UK (2006-11)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2006-11)(IDG Communications)(GB).pdf" size="10076840" crc="b24be1a9" md5="1a68d08c6e3b02a522207ed040451395" sha1="f8ca0ff18601e8b67b78939262a9bc0fa4772a86"/>
+	</game>
+	<game name="Macworld UK (2007-05)(IDG Communications)(GB)">
+		<description>Macworld UK (2007-05)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2007-05)(IDG Communications)(GB).pdf" size="16436518" crc="36593fcc" md5="4e761d35e92a18426e399bba7a558c84" sha1="861dba5b6f5043a45755c307a03121c8fdb35b4a"/>
+	</game>
+	<game name="Macworld UK (2007-06)(IDG Communications)(GB)">
+		<description>Macworld UK (2007-06)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2007-06)(IDG Communications)(GB).pdf" size="14935451" crc="2f64c85e" md5="1db191ee736a6d7269182f12e56f0a6f" sha1="aa8a6deec6100dae5512cb5a7a0f5ada7fbe8c77"/>
+	</game>
+	<game name="Macworld UK (2007-11)(IDG Communications)(GB)">
+		<description>Macworld UK (2007-11)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2007-11)(IDG Communications)(GB).pdf" size="20035028" crc="3f85fbf8" md5="0f2e71e4d386c6f28932f60530bec095" sha1="7d0c0b890e4e556ac891c33be9175b875d19e9c3"/>
+	</game>
+	<game name="Macworld UK (2007-12)(IDG Communications)(GB)">
+		<description>Macworld UK (2007-12)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2007-12)(IDG Communications)(GB).pdf" size="19161869" crc="56944577" md5="b8228863bc56337e9cded8bf16af9233" sha1="5d19bf9554248cc23cb793e0de4daf31c6bd0bfd"/>
+	</game>
+	<game name="Macworld UK (2008-02)(IDG Communications)(GB)">
+		<description>Macworld UK (2008-02)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2008-02)(IDG Communications)(GB).pdf" size="19055147" crc="3d2a3a74" md5="771ad498fef048fe16e7e7b91e3ee55b" sha1="be9211c0b6f1bf62ace7fc8b111f5fd7f9f2e1ca"/>
+	</game>
+	<game name="Macworld UK (2010-12)(IDG Communications)(GB)">
+		<description>Macworld UK (2010-12)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2010-12)(IDG Communications)(GB).pdf" size="36446343" crc="00a11c82" md5="22f11a6a43cfa2a3225fe101eaec2018" sha1="b94333717cc7d62b8ea28b50de80fa3cd8d9d3d7"/>
+	</game>
+	<game name="Macworld UK (2011)(IDG Communications)(GB)[summer edition]">
+		<description>Macworld UK (2011)(IDG Communications)(GB)[summer edition]</description>
+		<rom name="Macworld UK (2011)(IDG Communications)(GB)[summer edition].pdf" size="79027696" crc="05500a77" md5="7c6745b9a095d7bea6cca7919f49b799" sha1="550c36a560b43ad6f1d9ed1a808788748ef62f74"/>
+	</game>
+	<game name="Macworld UK (2011-02)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-02)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-02)(IDG Communications)(GB).pdf" size="48996198" crc="5b933ce1" md5="190e1a57a480ed1c17e6f971dd4dcd62" sha1="c4c0bf7ebeccb88ee446134128c3caf0375c3225"/>
+	</game>
+	<game name="Macworld UK (2011-03)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-03)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-03)(IDG Communications)(GB).pdf" size="46044003" crc="00c60c58" md5="e4d0da5040b46429ca7450c2dfd48eca" sha1="b657bbc13aaa81b08d3c5eb230951b1ef04e98ff"/>
+	</game>
+	<game name="Macworld UK (2011-04)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-04)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-04)(IDG Communications)(GB).pdf" size="44978474" crc="cde6ebf3" md5="ab838f05fa0adbf889f524c4c8fc8b70" sha1="addb82eac3e8a5ce7935974a4d51ad99e01a9dfa"/>
+	</game>
+	<game name="Macworld UK (2011-05)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-05)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-05)(IDG Communications)(GB).pdf" size="44067556" crc="b086c2da" md5="7c3cd6d12f67bc9f463719bd4a2d52ce" sha1="b287c4133eb0cc82cfb1d8ebf334659535498703"/>
+	</game>
+	<game name="Macworld UK (2011-06)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-06)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-06)(IDG Communications)(GB).pdf" size="78937172" crc="c866bea6" md5="8215b03f5b2b11a2dde1c0902b3c9324" sha1="42c25408dc77cbec123362657ca8e36cbe52f939"/>
+	</game>
+	<game name="Macworld UK (2011-07)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-07)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-07)(IDG Communications)(GB).pdf" size="71121772" crc="5fb3951f" md5="2f5b901499ae20d32985ffe4657c2140" sha1="48466491b197ef93c2f4b34811d4e9c8dcc6b6fe"/>
+	</game>
+	<game name="Macworld UK (2011-08)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-08)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-08)(IDG Communications)(GB).pdf" size="79616675" crc="0a262a75" md5="910d5838a1b326335430b27218f1109c" sha1="b394149b377a0b68c3fded739e652730dd2aebe7"/>
+	</game>
+	<game name="Macworld UK (2011-09)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-09)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-09)(IDG Communications)(GB).pdf" size="78821947" crc="79878dc3" md5="32fdb85617249f9975ede81b529d5301" sha1="0f5c73b7bcaa25601824dfd8e6e824c0908e7cdf"/>
+	</game>
+	<game name="Macworld UK (2011-10)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-10)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-10)(IDG Communications)(GB).pdf" size="44386207" crc="44bc99ff" md5="414694f304b21dfefc6f23c3e7d0b8a8" sha1="f713ef7a51bf88b091f8eb87e361eb4b6dba1852"/>
+	</game>
+	<game name="Macworld UK (2011-11)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-11)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-11)(IDG Communications)(GB).pdf" size="53784336" crc="c65a2220" md5="f13089110ef774127696ea815f187b06" sha1="6711b2bb0ea6bbd84109ad8897fe0bbe5c7c7317"/>
+	</game>
+	<game name="Macworld UK (2011-12)(IDG Communications)(GB)">
+		<description>Macworld UK (2011-12)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2011-12)(IDG Communications)(GB).pdf" size="91851537" crc="87235300" md5="797485570a6438fc68341ea7a73c2f8c" sha1="928e16e6519e318edebb1f75ab9e7b4c7e77ea6c"/>
+	</game>
+	<game name="Macworld UK (2012-01)(IDG Communications)(GB)">
+		<description>Macworld UK (2012-01)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2012-01)(IDG Communications)(GB).pdf" size="95448678" crc="d3a8fd9d" md5="7821f639b2f625363b2fc5c4577071fc" sha1="118bd3f83fafbbff852029ea933ade233d0d5aec"/>
+	</game>
+	<game name="Macworld UK (2012-02)(IDG Communications)(GB)">
+		<description>Macworld UK (2012-02)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2012-02)(IDG Communications)(GB).pdf" size="95618765" crc="211c1cd2" md5="5c92af75f8034029f3bb437b23d0878f" sha1="e9245ade3ff93cdf404e86c9658a7e2b46014a56"/>
+	</game>
+	<game name="Macworld UK (2012-03)(IDG Communications)(GB)">
+		<description>Macworld UK (2012-03)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2012-03)(IDG Communications)(GB).pdf" size="32120011" crc="313b0263" md5="6261d11129f5dce7a469d397c053a830" sha1="ff7f51ecacc2cea2c64c7a73181cb111531954d4"/>
+	</game>
+	<game name="Macworld UK (2012-04)(IDG Communications)(GB)">
+		<description>Macworld UK (2012-04)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2012-04)(IDG Communications)(GB).pdf" size="80922160" crc="edef6f74" md5="a0866f073d891f3586baebb03a40060d" sha1="6ad54d791cb3b0e1c2e15afdadda06c47d25c459"/>
+	</game>
+	<game name="Macworld UK (2012-05)(IDG Communications)(GB)">
+		<description>Macworld UK (2012-05)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2012-05)(IDG Communications)(GB).pdf" size="71368934" crc="ba340bf9" md5="cf8b34fded1ca7b38d3796d1f5e8e82b" sha1="52e512cd3013406c87c386f2efdacffed5170449"/>
+	</game>
+	<game name="Macworld UK (2013)(IDG Communications)(GB)[christmas edition]">
+		<description>Macworld UK (2013)(IDG Communications)(GB)[christmas edition]</description>
+		<rom name="Macworld UK (2013)(IDG Communications)(GB)[christmas edition].pdf" size="51169901" crc="55be2a23" md5="c14590a46aef6c6c300b30856f1dd8d0" sha1="f46b2f3138673b55c1f61ee514293d7815bd889f"/>
+	</game>
+	<game name="Macworld UK (2013-04)(IDG Communications)(GB)">
+		<description>Macworld UK (2013-04)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2013-04)(IDG Communications)(GB).pdf" size="43355741" crc="44d0b3c5" md5="752d0768def45f9b49821255e11478e0" sha1="89211390c4d8e064503b5caf696f8dc91496713b"/>
+	</game>
+	<game name="Macworld UK (2013-05)(IDG Communications)(GB)">
+		<description>Macworld UK (2013-05)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2013-05)(IDG Communications)(GB).pdf" size="74284477" crc="b9260355" md5="d2175a47269f1fb1c43e6c7500479f33" sha1="535ffbd3f8a753c7934ab1c16314025bb28d3b3d"/>
+	</game>
+	<game name="Macworld UK (2013-06)(IDG Communications)(GB)">
+		<description>Macworld UK (2013-06)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2013-06)(IDG Communications)(GB).pdf" size="59981627" crc="50ae0712" md5="d5b915f66b2bc9af4284cbc345fc9dd9" sha1="9102bd10cf25f35c5a389e1fd319a51e394addba"/>
+	</game>
+	<game name="Macworld UK (2013-07)(IDG Communications)(GB)">
+		<description>Macworld UK (2013-07)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2013-07)(IDG Communications)(GB).pdf" size="44591147" crc="64e7023a" md5="acde5ba4926fef037a06f76199c75a06" sha1="0d4e2879ed2be39e1b66643f6f46918c1f45dc01"/>
+	</game>
+	<game name="Macworld UK (2013-09)(IDG Communications)(GB)">
+		<description>Macworld UK (2013-09)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2013-09)(IDG Communications)(GB).pdf" size="20834316" crc="6a4233fc" md5="8b193af3376b59633db89e29a92080e4" sha1="8262b5b1e0c0d730d0ad4e2f3dcef74a2a04bc3e"/>
+	</game>
+	<game name="Macworld UK (2013-10)(IDG Communications)(GB)">
+		<description>Macworld UK (2013-10)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2013-10)(IDG Communications)(GB).pdf" size="17555136" crc="58013640" md5="25877428dc3ec90d1e2530418e191f25" sha1="c591d1b287b0819bb398cfc4409f43894ed6eccb"/>
+	</game>
+	<game name="Macworld UK (2013-12)(IDG Communications)(GB)">
+		<description>Macworld UK (2013-12)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2013-12)(IDG Communications)(GB).pdf" size="19289195" crc="3f3b9324" md5="38197c4b4645b2418d02c2c7cdfa5c00" sha1="cf6009902d0af0b267079cc9e3a72a0f35919c1a"/>
+	</game>
+	<game name="Macworld UK (2014-01)(IDG Communications)(GB)">
+		<description>Macworld UK (2014-01)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2014-01)(IDG Communications)(GB).pdf" size="50378058" crc="51ac12d2" md5="96bfc33b779cb054c8a5357dc8e9e373" sha1="6060c10fcd596b5e81ec3e114248a53c54b1fdc4"/>
+	</game>
+	<game name="Macworld UK (2014-02)(IDG Communications)(GB)">
+		<description>Macworld UK (2014-02)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2014-02)(IDG Communications)(GB).pdf" size="54236185" crc="1449a838" md5="30c6024148b40431cddf1252ccb56ccf" sha1="4364c8f2f6b3fb2e32f3ebb734fd175bd99a9f7c"/>
+	</game>
+	<game name="Macworld UK (2014-03)(IDG Communications)(GB)">
+		<description>Macworld UK (2014-03)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2014-03)(IDG Communications)(GB).pdf" size="21411510" crc="8799a2c2" md5="d133fd762e47f53a7c42203812acae30" sha1="3e58a456e5d269daa2053b015035bad98a7f7dcd"/>
+	</game>
+	<game name="Macworld UK (2014-04)(IDG Communications)(GB)">
+		<description>Macworld UK (2014-04)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2014-04)(IDG Communications)(GB).pdf" size="21449388" crc="b1940037" md5="403c1d36b87490a8900d8f3c44579e10" sha1="e5506f6e177b50e045678440c73e48fbd947e12d"/>
+	</game>
+	<game name="Macworld UK (2014-05)(IDG Communications)(GB)">
+		<description>Macworld UK (2014-05)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2014-05)(IDG Communications)(GB).pdf" size="20461096" crc="d4eff429" md5="4a49bbbfa530770063272b5644b086cb" sha1="b54733fad2d78a5e4eef9d760b1c52f16212fa77"/>
+	</game>
+	<game name="Macworld UK (2014-06)(IDG Communications)(GB)">
+		<description>Macworld UK (2014-06)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2014-06)(IDG Communications)(GB).pdf" size="54558082" crc="320b202a" md5="938295333dd678af317af258419b0dbd" sha1="8645f9ebab01f01f9e33bd468bc396bfab234e8c"/>
+	</game>
+	<game name="Macworld UK (2014-08)(IDG Communications)(GB)">
+		<description>Macworld UK (2014-08)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2014-08)(IDG Communications)(GB).pdf" size="55787722" crc="c79eb5ca" md5="70ea1269076b2857fd381171af6e5139" sha1="0d008988430f38994379cd22f60cb4864b3ab824"/>
+	</game>
+	<game name="Macworld UK (2014-09)(IDG Communications)(GB)">
+		<description>Macworld UK (2014-09)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2014-09)(IDG Communications)(GB).pdf" size="25676655" crc="e8373427" md5="38c267c081d3229a4b13b275e382bd2b" sha1="f83f3cd9082cb0795e5fdeff4a4c24555c3133c9"/>
+	</game>
+	<game name="Macworld UK (2014-10)(IDG Communications)(GB)">
+		<description>Macworld UK (2014-10)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2014-10)(IDG Communications)(GB).pdf" size="17645412" crc="0f1df840" md5="2e257cd18d4afab6f22d0c871e619429" sha1="6ed6c76d1467bf8af23eb257c0659da01d23e04e"/>
+	</game>
+	<game name="Macworld UK (2015-09)(IDG Communications)(GB)">
+		<description>Macworld UK (2015-09)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2015-09)(IDG Communications)(GB).pdf" size="16356610" crc="257de294" md5="8a7cb31e0a0cc294994f644c67a29a54" sha1="f22f85246b4f21de3c20ab1b6cedb19d3171ff8d"/>
+	</game>
+	<game name="Macworld UK (2016-04)(IDG Communications)(GB)">
+		<description>Macworld UK (2016-04)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK (2016-04)(IDG Communications)(GB).pdf" size="11628055" crc="a7497f27" md5="d587220e2180f7ced2b0ee211e918138" sha1="4302899db41c6956849756fe81a28bd61af012dc"/>
+	</game>
+	<game name="Macworld UK - Expo Issue (2006)(IDG Communications)(GB)">
+		<description>Macworld UK - Expo Issue (2006)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK - Expo Issue (2006)(IDG Communications)(GB).pdf" size="11078819" crc="e2d94ec2" md5="da6c8bd4724dcde2a725f746428a6430" sha1="b6f6254628fb81a6fda37d8473e0100af807e325"/>
+	</game>
+	<game name="Macworld UK - Expo Issue (2007)(IDG Communications)(GB)">
+		<description>Macworld UK - Expo Issue (2007)(IDG Communications)(GB)</description>
+		<rom name="Macworld UK - Expo Issue (2007)(IDG Communications)(GB).pdf" size="15879242" crc="935cc821" md5="098cd2bcbb2033d22c2d3ffafadcda94" sha1="bd3b2b69871b25400676aa008178016b26370bc6"/>
+	</game>
+</datafile>

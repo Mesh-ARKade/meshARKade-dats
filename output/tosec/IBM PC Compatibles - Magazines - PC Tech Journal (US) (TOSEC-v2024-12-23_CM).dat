@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - PC Tech Journal (US)</name>
+		<description>IBM PC Compatibles - Magazines - PC Tech Journal (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC Tech Journal - Vol 01 No 01 (1983-07)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 01 No 01 (1983-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 01 No 01 (1983-07)(Ziff-Davis Publishing)(US).pdf" size="271260333" crc="73418657" md5="e6ba3700fac48b6e47851f4c2c61533a" sha1="706cd1239739b5ebc3cca7107e48a8cfe08052cb"/>
+	</game>
+	<game name="PC Tech Journal - Vol 01 No 02 (1983-09)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 01 No 02 (1983-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 01 No 02 (1983-09)(Ziff-Davis Publishing)(US).pdf" size="300771269" crc="552f6b72" md5="971e703cf0f03c12761e69409926da1f" sha1="bb39a6f90da985e9c6240bf3f553d4929cbeec37"/>
+	</game>
+	<game name="PC Tech Journal - Vol 01 No 03 (1983-11)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 01 No 03 (1983-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 01 No 03 (1983-11)(Ziff-Davis Publishing)(US).pdf" size="343619118" crc="ae1418d8" md5="11df01033abe543441e87c1a0017582b" sha1="6f3cc5c879813a2b0c4459def4c92c0b65233f90"/>
+	</game>
+	<game name="PC Tech Journal - Vol 01 No 04 (1984-01)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 01 No 04 (1984-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 01 No 04 (1984-01)(Ziff-Davis Publishing)(US).pdf" size="313078596" crc="a1923ded" md5="967dd16eb48a47c80ead9eceab9895df" sha1="6158e2d9ae9a42d1263e9c58c4225e66d9005aa3"/>
+	</game>
+	<game name="PC Tech Journal - Vol 01 No 05 (1984-02)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 01 No 05 (1984-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 01 No 05 (1984-02)(Ziff-Davis Publishing)(US).pdf" size="291464064" crc="c8666645" md5="c4feb19e270275f676bee7710d4ca62d" sha1="8d4f3bf41c0d4fbef8a5c0907747eebfbafea3d3"/>
+	</game>
+	<game name="PC Tech Journal - Vol 01 No 06 (1984-03)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 01 No 06 (1984-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 01 No 06 (1984-03)(Ziff-Davis Publishing)(US).pdf" size="298010327" crc="c28e2f7f" md5="26976e1c6153c33d5c6b9bacae741edd" sha1="486574a4ea4832a1bc043b0fd47755e2bf7dc24d"/>
+	</game>
+	<game name="PC Tech Journal - Vol 01 No 07 (1984-04)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 01 No 07 (1984-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 01 No 07 (1984-04)(Ziff-Davis Publishing)(US).pdf" size="319196970" crc="a9552eba" md5="b03dd7098e77da27060b51c2c61c6c94" sha1="2d40c5024073f5f3939ffcb4e5a77f20ed1b440b"/>
+	</game>
+	<game name="PC Tech Journal - Vol 01 No 08 (1984-05)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 01 No 08 (1984-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 01 No 08 (1984-05)(Ziff-Davis Publishing)(US).pdf" size="328929567" crc="f0921d77" md5="dfb03e5a1bb0758448856fa53e5f2390" sha1="55391ae2f645e32a1c1159c7817920944e5ff1ed"/>
+	</game>
+	<game name="PC Tech Journal - Vol 01 No 09 (1984-06)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 01 No 09 (1984-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 01 No 09 (1984-06)(Ziff-Davis Publishing)(US).pdf" size="318325195" crc="b97d809a" md5="fab6bd91cbfa1008839ce28d42fadeed" sha1="8b0f8fb66a8503109151776ee9bf7c1d612ad659"/>
+	</game>
+	<game name="PC Tech Journal - Vol 02 No 01 (1984-07)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 02 No 01 (1984-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 02 No 01 (1984-07)(Ziff-Davis Publishing)(US).pdf" size="288687937" crc="9d69868e" md5="e71bc8abe5df778b92c36a592c269395" sha1="686e7b6873a56867af804eaa6afefaf34fda41c3"/>
+	</game>
+	<game name="PC Tech Journal - Vol 02 No 02 (1984-08)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 02 No 02 (1984-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 02 No 02 (1984-08)(Ziff-Davis Publishing)(US).pdf" size="290542190" crc="229c6a02" md5="bfeee391fceda5dd54e70dfa2d06fd53" sha1="ddd5abfb0c84135836993e47c72bea852fd89e6c"/>
+	</game>
+	<game name="PC Tech Journal - Vol 02 No 03 (1984-09)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 02 No 03 (1984-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 02 No 03 (1984-09)(Ziff-Davis Publishing)(US).pdf" size="287809972" crc="14e829c6" md5="7cdfac0bbf8769158094e42bf3842a5f" sha1="eccffd8c50b78a04cc1727529021a360ffe4ae9a"/>
+	</game>
+	<game name="PC Tech Journal - Vol 02 No 04 (1984-10)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 02 No 04 (1984-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 02 No 04 (1984-10)(Ziff-Davis Publishing)(US).pdf" size="306529728" crc="daec6042" md5="23d4139424c205d0892ff4867a87a70a" sha1="7ff05b5ab8bf5815a491da14e354ec69d663b568"/>
+	</game>
+	<game name="PC Tech Journal - Vol 02 No 05 (1984-11)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 02 No 05 (1984-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 02 No 05 (1984-11)(Ziff-Davis Publishing)(US).pdf" size="312309689" crc="8aae4829" md5="fb473f854f9f0260c620265b0a3bc630" sha1="dda8dab79bc363a5b524b1bc810feb20dbd5e7c4"/>
+	</game>
+	<game name="PC Tech Journal - Vol 02 No 06 (1984-12)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 02 No 06 (1984-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 02 No 06 (1984-12)(Ziff-Davis Publishing)(US).pdf" size="339376428" crc="76573573" md5="3e6aa1db083a9adf5a62a3db0c2f9e6f" sha1="85cc16b97954c3098dfe6dcba6d51f12123f3db0"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 01 (1985-01)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 01 (1985-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 01 (1985-01)(Ziff-Davis Publishing)(US).pdf" size="292498559" crc="94793b67" md5="35bc191c2c3260bc2e2f23d4cc75123f" sha1="e07602523c02602da415fa3cb6c6380f93cdd512"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 02 (1985-02)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 02 (1985-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 02 (1985-02)(Ziff-Davis Publishing)(US).pdf" size="267191705" crc="41e60601" md5="ea3f23e23a99ac6912e4d4b9606dac29" sha1="7cd3b5de637d6ac0ab5c5dadd46b24520dc2a58e"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 03 (1985-03)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 03 (1985-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 03 (1985-03)(Ziff-Davis Publishing)(US).pdf" size="286240890" crc="4356954e" md5="1c811a8a1d3b9e84921842f5d8646ed2" sha1="375b15b6c896604bf486b2b2ed70dd298f800526"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 04 (1985-04)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 04 (1985-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 04 (1985-04)(Ziff-Davis Publishing)(US).pdf" size="292506164" crc="7443488e" md5="56dff7ac759be5b34c9a203f82559113" sha1="ddd7bf21839a9403b0cea5d6de84d4c41d3e92f0"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 05 (1985-05)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 05 (1985-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 05 (1985-05)(Ziff-Davis Publishing)(US).pdf" size="346569634" crc="8e3286a7" md5="39cc257dde92781de791223c0b48557a" sha1="c937c1f194aa650596f7a5a66bd60445082a6198"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 06 (1985-06)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 06 (1985-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 06 (1985-06)(Ziff-Davis Publishing)(US).pdf" size="307898972" crc="b3a16fca" md5="e03cbfd3006cf698bef5090aa1a5b9d2" sha1="ccf42f528a18f501a1955d4daf43898e6b062eda"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 07 (1985-07)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 07 (1985-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 07 (1985-07)(Ziff-Davis Publishing)(US).pdf" size="267609385" crc="1db906e8" md5="ae546ec4884e8cefdee0ac5e37349f6a" sha1="a9415ab5241bdf3eb6ee7872f7bff0e8113da9db"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 08 (1985-08)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 08 (1985-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 08 (1985-08)(Ziff-Davis Publishing)(US).pdf" size="291800780" crc="c40d2689" md5="959dcefafe8f70816f3362cff2bb787e" sha1="5613670af5f79ab616487d506283e3a490b50362"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 09 (1985-09)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 09 (1985-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 09 (1985-09)(Ziff-Davis Publishing)(US).pdf" size="278385586" crc="28d53863" md5="7ad2ea6391955cbd0f9b51692788297f" sha1="3a1f40f40c39cb8e1816df0987e587d43a267286"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 10 (1985-10)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 10 (1985-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 10 (1985-10)(Ziff-Davis Publishing)(US).pdf" size="281546495" crc="23aff5c7" md5="7e3d45f928881dad3551082d8a3a6f33" sha1="2ee2eb418965e386b6f408753b74e3b8cb4a1040"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 11 (1985-11)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 11 (1985-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 11 (1985-11)(Ziff-Davis Publishing)(US).pdf" size="309485012" crc="64093b98" md5="8effd3f17864587ee358532f944797e1" sha1="dd8b1eb27423e07e2b6de8ba939a62963c57239d"/>
+	</game>
+	<game name="PC Tech Journal - Vol 03 No 12 (1985-12)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 03 No 12 (1985-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 03 No 12 (1985-12)(Ziff-Davis Publishing)(US).pdf" size="309045935" crc="f90d592a" md5="157238b21542a857d415b29fdeb5a448" sha1="69d3efe4fc7594c9308f420560e28431df6c8ca5"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 01 (1986-01)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 01 (1986-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 01 (1986-01)(Ziff-Davis Publishing)(US).pdf" size="302676887" crc="23d3c2b0" md5="1773b0cf07a9b8782d6baacc762014b7" sha1="11e891a1b4991dfa69061190c894d09b16152c2d"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 02 (1986-02)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 02 (1986-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 02 (1986-02)(Ziff-Davis Publishing)(US).pdf" size="297994507" crc="1be79cd7" md5="f9715d22a8b37fd599c89a34100f0588" sha1="efd7c1ad3fb0adfa7ffa5806099911476be4779c"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 03 (1986-03)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 03 (1986-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 03 (1986-03)(Ziff-Davis Publishing)(US).pdf" size="307769823" crc="20ae20bf" md5="c82a82a180ea2da45a2640c707dbfa90" sha1="7fb1caba8bcbb4a0fd4f32c1fc44f685aabbfc36"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 04 (1986-04)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 04 (1986-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 04 (1986-04)(Ziff-Davis Publishing)(US).pdf" size="309950786" crc="50ab306d" md5="a192259a144f46c335f48166c40ec594" sha1="b62b3eccb8b998fb7dba53cf7048e2a7bc102d48"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 05 (1986-05)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 05 (1986-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 05 (1986-05)(Ziff-Davis Publishing)(US).pdf" size="312136846" crc="af46fcd6" md5="82e1a1390b75df017e5176711d1dc165" sha1="168d680a6c9a7caf0cec47d0b69f01ae51774df2"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 06 (1986-06)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 06 (1986-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 06 (1986-06)(Ziff-Davis Publishing)(US).pdf" size="324375264" crc="5fd18827" md5="576f9158d1015cf4be9c076fefb0ae4c" sha1="f9fb63518a702db1a789e2246d1ff7778e40440a"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 07 (1986-07)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 07 (1986-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 07 (1986-07)(Ziff-Davis Publishing)(US).pdf" size="290504323" crc="c9e11bed" md5="8b48d94ef600f60f7f4a7448029c0e5a" sha1="34182f6710c61a071064c55bee3ff3add0f1025c"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 08 (1986-08)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 08 (1986-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 08 (1986-08)(Ziff-Davis Publishing)(US).pdf" size="295634935" crc="15120a9e" md5="825bee3bb88f44e14a1e64127a519213" sha1="acbba6f677fdecfdf17c8f0fc802a87696db85b0"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 09 (1986-09)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 09 (1986-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 09 (1986-09)(Ziff-Davis Publishing)(US).pdf" size="324385330" crc="5a0bd395" md5="34f1a214cea7210cdfe9a2bb92f21b5b" sha1="e8227be3c9ec160674dffad642b0861a939d8f7e"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 10 (1986-10)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 10 (1986-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 10 (1986-10)(Ziff-Davis Publishing)(US).pdf" size="254138771" crc="f56a9ea4" md5="407a1f741173bcb6670379e63fbef4eb" sha1="189fe9db3c872910b5cf1566b39c279ceb45fe97"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 11 (1986-11)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 11 (1986-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 11 (1986-11)(Ziff-Davis Publishing)(US).pdf" size="253800269" crc="51999882" md5="a5fe24367ebee29919ab0476f2b88818" sha1="ef35359b3e3ee59e9ed8be4c9e0f2f78d47fbabf"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 12 (1986-12)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 04 No 12 (1986-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 04 No 12 (1986-12)(Ziff-Davis Publishing)(US).pdf" size="270936662" crc="1126fb5c" md5="6d9732d8b8392962f5bd8adc7a224caf" sha1="4abcfceee5b55b574b70f36e5983e0102a740411"/>
+	</game>
+	<game name="PC Tech Journal - Vol 04 No 13 (1987)(Ziff-Davis Publishing)(US)[Special Directory Issue]">
+		<description>PC Tech Journal - Vol 04 No 13 (1987)(Ziff-Davis Publishing)(US)[Special Directory Issue]</description>
+		<rom name="PC Tech Journal - Vol 04 No 13 (1987)(Ziff-Davis Publishing)(US)[Special Directory Issue].pdf" size="893713566" crc="27ba6826" md5="654290b834d3d93f92632d9e5078222b" sha1="5b51689b5dad530f495f6452ba0adc092e2f458d"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 01 (1987-01)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 01 (1987-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 01 (1987-01)(Ziff-Davis Publishing)(US).pdf" size="242681023" crc="159f7199" md5="b0349d06881e60e24873e87085a2e6ae" sha1="d46e3d52949d64cd4115774c9b31813b0ed12a69"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 02 (1987-02)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 02 (1987-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 02 (1987-02)(Ziff-Davis Publishing)(US).pdf" size="241674303" crc="47b8921e" md5="ca3a06cdcce3dda60880703bd8527b58" sha1="25a1d6a7da7e93f31efc460c238ca798c7bc7d1e"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 03 (1987-03)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 03 (1987-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 03 (1987-03)(Ziff-Davis Publishing)(US).pdf" size="232659465" crc="4046b556" md5="57be3304faf33e5f01ddfa7f83758d2f" sha1="01bf806b91c0b8b23ea65768d1e06be40814899c"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 04 (1987-04)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 04 (1987-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 04 (1987-04)(Ziff-Davis Publishing)(US).pdf" size="244634136" crc="498e5fcf" md5="f65df3ecd740b24fe077e96302b84af7" sha1="6b5927dccf4723336aa17a428c3366211cb606c7"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 05 (1987-05)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 05 (1987-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 05 (1987-05)(Ziff-Davis Publishing)(US).pdf" size="269677941" crc="d1ddb016" md5="ed95c67b065e541af837017a082db270" sha1="90c276993765ccaa9a28836966f0f8741815df4f"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 06 (1987-06)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 06 (1987-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 06 (1987-06)(Ziff-Davis Publishing)(US).pdf" size="263577194" crc="e3adae03" md5="372f83f35a7ad4a292c30307e6d7efa6" sha1="0b98c45df8fa09baf10747601f01792204400f8e"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 07 (1987-07)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 07 (1987-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 07 (1987-07)(Ziff-Davis Publishing)(US).pdf" size="273645399" crc="72d69fe0" md5="80c201394cc76ed05bba359a298feb8e" sha1="49d960eae515d79ca5482b9768c2b3c3a71b06eb"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 08 (1987-08)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 08 (1987-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 08 (1987-08)(Ziff-Davis Publishing)(US).pdf" size="275819919" crc="9fe677a7" md5="a63b8d806f35aff8d14b622178368584" sha1="df5381ddde68b48351f59e7c9ec09bed24c63ff8"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 09 (1987-09)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 09 (1987-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 09 (1987-09)(Ziff-Davis Publishing)(US).pdf" size="270590936" crc="a3aad865" md5="d1ea1d49c3dff00d7dec8883cebf69ba" sha1="995e8c373f78c75d658a11eb526a1352ff198cd5"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 10 (1987-10)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 10 (1987-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 10 (1987-10)(Ziff-Davis Publishing)(US).pdf" size="259554727" crc="67dbea3d" md5="734632f5f00c6aca898e8cef5eb52bcb" sha1="197b6dc47f55e357af9b18db6c8ba69ca285e2ee"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 11 (1987-11)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 11 (1987-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 11 (1987-11)(Ziff-Davis Publishing)(US).pdf" size="284990553" crc="e787dc6f" md5="d19585cf4b85580c2ff3a71c9c030f4e" sha1="e3701a1ca47363418e56f94fb7459fe4e5b25d7c"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 12 (1987-12)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 05 No 12 (1987-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 05 No 12 (1987-12)(Ziff-Davis Publishing)(US).pdf" size="269519705" crc="b6215b16" md5="dc3853c12deb6c95cd9a1db3711b39fa" sha1="38aedad26131c13099609fbdf52117e67fd7ba2d"/>
+	</game>
+	<game name="PC Tech Journal - Vol 05 No 13 (1988)(Ziff-Davis Publishing)(US)[Special Directory Issue]">
+		<description>PC Tech Journal - Vol 05 No 13 (1988)(Ziff-Davis Publishing)(US)[Special Directory Issue]</description>
+		<rom name="PC Tech Journal - Vol 05 No 13 (1988)(Ziff-Davis Publishing)(US)[Special Directory Issue].pdf" size="663084981" crc="14105427" md5="bbf19286b063a6a5e95d871368aaa1d3" sha1="42d37b16c740c38dfb58b85e26b3d0c325a9cdb1"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 01 (1988-01)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 01 (1988-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 01 (1988-01)(Ziff-Davis Publishing)(US).pdf" size="274302587" crc="b8d47640" md5="50a7a9faac5d2702cf0b741d8d72f519" sha1="2a7d8fff725f5a160ac449466f65fd34d1ea7b0e"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 02 (1988-02)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 02 (1988-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 02 (1988-02)(Ziff-Davis Publishing)(US).pdf" size="273657778" crc="4b25bcc0" md5="c85a357c343541eec2bcc454c0c7e87e" sha1="981b3f3a32557d29833c937aaaefa37b9067402b"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 03 (1988-03)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 03 (1988-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 03 (1988-03)(Ziff-Davis Publishing)(US).pdf" size="255033595" crc="1933c74b" md5="642b59c471d3faeeaa01661f710528d2" sha1="d177408bfcbbe4dc74261982b9f09dcd91d9034b"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 04 (1988-04)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 04 (1988-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 04 (1988-04)(Ziff-Davis Publishing)(US).pdf" size="216771762" crc="ecf436f3" md5="c25494b6e77487e981fb9a21dee25f0e" sha1="8c319da81bc2419251b2e972ca6287429f398336"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 05 (1988-05)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 05 (1988-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 05 (1988-05)(Ziff-Davis Publishing)(US).pdf" size="266794691" crc="6c494d9c" md5="f4f4fa97e07ceee76643d059da9df204" sha1="d76c4a5fee7a301e5ccac7425b891614e2a06724"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 06 (1988-06)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 06 (1988-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 06 (1988-06)(Ziff-Davis Publishing)(US).pdf" size="246062431" crc="7dffc7a6" md5="e62f736f92081a0ef655f47226e9cf25" sha1="1ee8fff9b0a43f45f26574f9e2526e0d1a38af40"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 07 (1988-07)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 07 (1988-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 07 (1988-07)(Ziff-Davis Publishing)(US).pdf" size="227620105" crc="1fb43558" md5="bf781a5a777d5b6a3e9d9ffffd605054" sha1="2c54dc8de30e70f983479e6bf277ec3d53308fd4"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 08 (1988-08)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 08 (1988-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 08 (1988-08)(Ziff-Davis Publishing)(US).pdf" size="235787168" crc="bc61ce4b" md5="867ec04966758024800182b09849a372" sha1="396094019c38bee9c4319570b0cb582143a67135"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 09 (1988-09)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 09 (1988-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 09 (1988-09)(Ziff-Davis Publishing)(US).pdf" size="238900317" crc="023c3615" md5="52a1b5491b4888570165845b13a40149" sha1="90a11804c60595d04ed82c734a1f408518f11219"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 10 (1988-10)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 10 (1988-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 10 (1988-10)(Ziff-Davis Publishing)(US).pdf" size="240768347" crc="7c1e1cce" md5="4348f297906cbc5da875f19f6c1f0de9" sha1="f4569b7df0a5de2884cb3afca3b6afd111596804"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 11 (1988-11)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 11 (1988-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 11 (1988-11)(Ziff-Davis Publishing)(US).pdf" size="247629329" crc="b88ebcad" md5="e040bd1be94d512386a6d0146c9c8074" sha1="22a8d2dbd2af3cfda8233dc12fa5dac4f405110d"/>
+	</game>
+	<game name="PC Tech Journal - Vol 06 No 12 (1988-12)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 06 No 12 (1988-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 06 No 12 (1988-12)(Ziff-Davis Publishing)(US).pdf" size="226859069" crc="951fbb79" md5="e158bf7d27038fcebdf5e8ad261b1480" sha1="a5f806e5ca813ab6be3cc10728fedd05c2639d04"/>
+	</game>
+	<game name="PC Tech Journal - Vol 07 No 01 (1989-01)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 07 No 01 (1989-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 07 No 01 (1989-01)(Ziff-Davis Publishing)(US).pdf" size="203939074" crc="3ca2440c" md5="33b9e49a35d5f4b1edb5d93a331676fe" sha1="3434c6bd6810d6aa478f6d15049bc2afc923d6d5"/>
+	</game>
+	<game name="PC Tech Journal - Vol 07 No 02 (1989-02)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 07 No 02 (1989-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 07 No 02 (1989-02)(Ziff-Davis Publishing)(US).pdf" size="213403363" crc="601c2d6f" md5="0118ad5e823837bbd0906d80915ca25c" sha1="97241f7fd8ec88cf509686e6d27375d6133b68f6"/>
+	</game>
+	<game name="PC Tech Journal - Vol 07 No 03 (1989-03)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 07 No 03 (1989-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 07 No 03 (1989-03)(Ziff-Davis Publishing)(US).pdf" size="207731616" crc="2101d199" md5="83072c92c6da2452d51024ad77cb8092" sha1="a57d02decdabd67a1f8e67c60ecbde50e006dcaa"/>
+	</game>
+	<game name="PC Tech Journal - Vol 07 No 04 (1989-04)(Ziff-Davis Publishing)(US)">
+		<description>PC Tech Journal - Vol 07 No 04 (1989-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="PC Tech Journal - Vol 07 No 04 (1989-04)(Ziff-Davis Publishing)(US).pdf" size="206379240" crc="39abf867" md5="154009d8e364efaadfada3b79efeb252" sha1="f901f14f69f421dabf399e6fa1a9e2bf582d7667"/>
+	</game>
+</datafile>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Computronic (DE)</name>
+		<description>Multi-format - Magazines - Computronic (DE) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Computronic (1984-04)(Tronic-Verlag)(DE)">
+		<description>Computronic (1984-04)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1984-04)(Tronic-Verlag)(DE).pdf" size="5559088" crc="a041cf48" md5="f324bd6e52c68c8192fd5af0fe046e6a" sha1="34bb4dbdbfc7e192994840edf05981d07e2cf823"/>
+	</game>
+	<game name="Computronic (1984-05)(Tronic-Verlag)(DE)">
+		<description>Computronic (1984-05)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1984-05)(Tronic-Verlag)(DE).pdf" size="13541723" crc="d4a34a04" md5="62244261f34a29866551ec5702bae533" sha1="c9ac4f4c12affdd9aad2e0476ddb6e8387744511"/>
+	</game>
+	<game name="Computronic (1984-06)(Tronic-Verlag)(DE)">
+		<description>Computronic (1984-06)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1984-06)(Tronic-Verlag)(DE).pdf" size="6407490" crc="cc49e348" md5="71539e7511ad35f71219c2e55df7fdf3" sha1="a70f70216f0c09d6b94332b8a4e231328be5bad1"/>
+	</game>
+	<game name="Computronic (1984-07)(Tronic-Verlag)(DE)">
+		<description>Computronic (1984-07)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1984-07)(Tronic-Verlag)(DE).pdf" size="11395435" crc="0bb367b3" md5="9a24d31bfce76c46732642f306940b61" sha1="eec6671c22a78021bed6c4278942e063fa430c32"/>
+	</game>
+	<game name="Computronic (1984-08)(Tronic-Verlag)(DE)">
+		<description>Computronic (1984-08)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1984-08)(Tronic-Verlag)(DE).pdf" size="16609381" crc="6de95bf3" md5="0f85ae3397a9b7c6fb2122bb0fa70f06" sha1="d65ec2c14bb2087eea12f4f93323949cb963a98c"/>
+	</game>
+	<game name="Computronic (1984-09)(Tronic-Verlag)(DE)">
+		<description>Computronic (1984-09)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1984-09)(Tronic-Verlag)(DE).pdf" size="14679190" crc="516a10bf" md5="b88eac9d30840272da4a4538db34e58d" sha1="b723d4a8a87d4461a9aa4679f2dddac555ee9891"/>
+	</game>
+	<game name="Computronic (1984-10)(Tronic-Verlag)(DE)">
+		<description>Computronic (1984-10)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1984-10)(Tronic-Verlag)(DE).pdf" size="12702326" crc="f049b3db" md5="66f5fe44c48b67f9474f250cc24a6029" sha1="98ac123e909ab810c0ddb73031bce72ee7b61e41"/>
+	</game>
+	<game name="Computronic (1984-12)(Tronic-Verlag)(DE)">
+		<description>Computronic (1984-12)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1984-12)(Tronic-Verlag)(DE).pdf" size="15287413" crc="30f04ba7" md5="120bcef8c76b600bdeffa2250a1c319f" sha1="5e6619f80c123a986c00c088f957b56f18caa18c"/>
+	</game>
+	<game name="Computronic (1985-02)(Tronic-Verlag)(DE)">
+		<description>Computronic (1985-02)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1985-02)(Tronic-Verlag)(DE).pdf" size="16141202" crc="977a3a2b" md5="303da8fc7d7244af11137b6e6abd041f" sha1="a55b2553338e39b65b3a0f73beecbce649c77533"/>
+	</game>
+	<game name="Computronic (1985-04)(Tronic-Verlag)(DE)">
+		<description>Computronic (1985-04)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1985-04)(Tronic-Verlag)(DE).pdf" size="14386241" crc="3ee76b9c" md5="7eb466e08d77d51c447f828b49be3f52" sha1="44544ea4cf60965fee8b1636e4d4a99a6f21d825"/>
+	</game>
+	<game name="Computronic (1985-06)(Tronic-Verlag)(DE)">
+		<description>Computronic (1985-06)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1985-06)(Tronic-Verlag)(DE).pdf" size="14379139" crc="881b2964" md5="1e821df7ae26465eb874bd9a61708f63" sha1="0995cb8b62416b7ac8420a743d5e861372615d88"/>
+	</game>
+	<game name="Computronic (1985-08)(Tronic-Verlag)(DE)">
+		<description>Computronic (1985-08)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1985-08)(Tronic-Verlag)(DE).pdf" size="15522896" crc="60b96c89" md5="7abb0d8218071b2b9b5aead527f6142f" sha1="f6f504908bbda7d37c464d72b1a1c36768fe1d14"/>
+	</game>
+	<game name="Computronic (1985-10)(Tronic-Verlag)(DE)">
+		<description>Computronic (1985-10)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1985-10)(Tronic-Verlag)(DE).pdf" size="12289856" crc="d25fec48" md5="12a92a1d80560ada59b79c19831376ca" sha1="1450bb178f4a6af0f4743277dab2192b9fc6a510"/>
+	</game>
+	<game name="Computronic (1985-12)(Tronic-Verlag)(DE)">
+		<description>Computronic (1985-12)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1985-12)(Tronic-Verlag)(DE).pdf" size="21000740" crc="c05c3bcb" md5="ef06abea99650de7669345a2f7b64a06" sha1="571114c62f2691981b6f5030e1d523a6d8e0e2e9"/>
+	</game>
+	<game name="Computronic (1986-04)(Tronic-Verlag)(DE)">
+		<description>Computronic (1986-04)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1986-04)(Tronic-Verlag)(DE).pdf" size="16081376" crc="70099a6a" md5="e4acf043452743cd067b5dce0f43fc35" sha1="ebbae188351cbe8f930850202162fd5e773919c1"/>
+	</game>
+	<game name="Computronic (1986-08)(Tronic-Verlag)(DE)">
+		<description>Computronic (1986-08)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1986-08)(Tronic-Verlag)(DE).pdf" size="16852321" crc="0d7a64c3" md5="5f5b6733c924565913a6fd5303091996" sha1="3c556153e9efa475c2bb4857de8bfcd848b79826"/>
+	</game>
+	<game name="Computronic (1987-06)(Tronic-Verlag)(DE)">
+		<description>Computronic (1987-06)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1987-06)(Tronic-Verlag)(DE).pdf" size="17173516" crc="b5b48904" md5="048800e3c668a6a1524064834e9c8e0f" sha1="71266e3c938549008681e8ccdecfe62b727a66e1"/>
+	</game>
+	<game name="Computronic (1987-08)(Tronic-Verlag)(DE)">
+		<description>Computronic (1987-08)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1987-08)(Tronic-Verlag)(DE).pdf" size="16333315" crc="2555bfcb" md5="87f49e4ea6677e3fe5259beaf0ef0128" sha1="6e27efcb69f967d28cd9cad4045aad081a73a44b"/>
+	</game>
+	<game name="Computronic (1987-10)(Tronic-Verlag)(DE)">
+		<description>Computronic (1987-10)(Tronic-Verlag)(DE)</description>
+		<rom name="Computronic (1987-10)(Tronic-Verlag)(DE).pdf" size="14294943" crc="adeb73e6" md5="0e272c23c3a22b82a4eef53c08ac337b" sha1="139bea7f7f26a0257971a7e99e16b9e40cf20b9b"/>
+	</game>
+</datafile>

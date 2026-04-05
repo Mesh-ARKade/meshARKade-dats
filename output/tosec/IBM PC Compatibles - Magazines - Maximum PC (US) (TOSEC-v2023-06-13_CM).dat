@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - Maximum PC (US)</name>
+		<description>IBM PC Compatibles - Magazines - Maximum PC (US) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Maximum PC (1998-09)(Future Network)(US)">
+		<description>Maximum PC (1998-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (1998-09)(Future Network)(US).pdf" size="13264060" crc="b4e1f557" md5="ec4c0302c79c189a5078835217aec5a6" sha1="6f7747ab6d4a2670a2dfc4cae82ed4bdd019d288"/>
+	</game>
+	<game name="Maximum PC (1998-10)(Future Network)(US)">
+		<description>Maximum PC (1998-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (1998-10)(Future Network)(US).pdf" size="34365834" crc="d5c0d430" md5="e055275c40005f44991a98c35ebc33d8" sha1="da6ffd96cc5b004bffd70bfc240db0a89bcc23a5"/>
+	</game>
+	<game name="Maximum PC (1998-11)(Future Network)(US)">
+		<description>Maximum PC (1998-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (1998-11)(Future Network)(US).pdf" size="35565600" crc="c7ff14ab" md5="08ba2597c43c238eb3e8f48fb71c1af1" sha1="ffbaf527fc1edc5aa471126a58985f1b85c3b32a"/>
+	</game>
+	<game name="Maximum PC (1998-12)(Future Network)(US)">
+		<description>Maximum PC (1998-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (1998-12)(Future Network)(US).pdf" size="35570024" crc="a4a80901" md5="f3b4c4d58e5ada6d391ff819f67efe69" sha1="bb7154a3e10496e759dd43744428a1d6424ad9b4"/>
+	</game>
+	<game name="Maximum PC (1999-01)(Future Network)(US)">
+		<description>Maximum PC (1999-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-01)(Future Network)(US).pdf" size="31688731" crc="e349fb99" md5="67be3209e740dd78353a5eba4d904f72" sha1="1ebe1ae4ad9a5446e97da1607620b622d1738399"/>
+	</game>
+	<game name="Maximum PC (1999-02)(Future Network)(US)">
+		<description>Maximum PC (1999-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-02)(Future Network)(US).pdf" size="31895438" crc="e2903a5a" md5="9407b0829f24f6ce4891c6e4bc2d2391" sha1="7bd712076f0bbf7e8011ef5b568d4b43e8963fec"/>
+	</game>
+	<game name="Maximum PC (1999-03)(Future Network)(US)">
+		<description>Maximum PC (1999-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-03)(Future Network)(US).pdf" size="30710396" crc="0bb52e75" md5="70d9a5d9e08295dde8b3aeef13ecaf33" sha1="497f78f413e851ce88e72b0379e1301f61e7b382"/>
+	</game>
+	<game name="Maximum PC (1999-04)(Future Network)(US)">
+		<description>Maximum PC (1999-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-04)(Future Network)(US).pdf" size="30183696" crc="6f5b3b37" md5="32989d4b7b91922695ec475124668b99" sha1="6bbbbbd6ec899b6963b600bbcbf423a577388716"/>
+	</game>
+	<game name="Maximum PC (1999-05)(Future Network)(US)">
+		<description>Maximum PC (1999-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-05)(Future Network)(US).pdf" size="27280785" crc="e2a8808a" md5="05da829cdc59f4d869ef3d3da0d2a35c" sha1="45cf35c389b288964257f625adcd9d7b4c6f5f80"/>
+	</game>
+	<game name="Maximum PC (1999-06)(Future Network)(US)">
+		<description>Maximum PC (1999-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-06)(Future Network)(US).pdf" size="25792110" crc="70e95e84" md5="a93b999a72136e89e4a3644351b092fb" sha1="1b4812d5afa8b5e4504fd533b6c2c5ca6a0b435b"/>
+	</game>
+	<game name="Maximum PC (1999-07)(Future Network)(US)">
+		<description>Maximum PC (1999-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-07)(Future Network)(US).pdf" size="28761331" crc="68bbaa25" md5="75077694cf18db39cc4081d1cb9c939b" sha1="290f5320c38f170c83c7a0e29a8445c82ae62c0f"/>
+	</game>
+	<game name="Maximum PC (1999-08)(Future Network)(US)">
+		<description>Maximum PC (1999-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-08)(Future Network)(US).pdf" size="27027471" crc="19c37767" md5="028892b47d83506ee3824c5d7dfaddcc" sha1="d9dfa0aa99415b0f4fa7dfc73f8191305299f754"/>
+	</game>
+	<game name="Maximum PC (1999-09)(Future Network)(US)">
+		<description>Maximum PC (1999-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-09)(Future Network)(US).pdf" size="29558036" crc="fac73ec8" md5="0f769a5c47c295f314f3d287a544ce76" sha1="28fb9372f358e9daa14f564fa8fc371a0f7404fb"/>
+	</game>
+	<game name="Maximum PC (1999-10)(Future Network)(US)">
+		<description>Maximum PC (1999-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-10)(Future Network)(US).pdf" size="33196228" crc="7f047bf9" md5="6166fbd857b1ab6cedbae5d40bf92e21" sha1="673ff8c16426d8722a832e4764507d79774004f6"/>
+	</game>
+	<game name="Maximum PC (1999-12)(Future Network)(US)">
+		<description>Maximum PC (1999-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (1999-12)(Future Network)(US).pdf" size="29558036" crc="2b449943" md5="bc6bc620e4dc23334bc8b40679ad1005" sha1="0ae650f980a9c154612ec79106fa34c38133e950"/>
+	</game>
+	<game name="Maximum PC (2000-01)(Future Network)(US)">
+		<description>Maximum PC (2000-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2000-01)(Future Network)(US).pdf" size="28115443" crc="39531d99" md5="65556b438ede3a36f6fd5916d58d3b0f" sha1="3efdc9c19867fde34235b782148a3cb99ff164f0"/>
+	</game>
+	<game name="Maximum PC (2003-12)(Future Network)(US)">
+		<description>Maximum PC (2003-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2003-12)(Future Network)(US).pdf" size="6846434" crc="a74446dc" md5="24ea0e3474be2e056200fba1a77027a3" sha1="c4b443ea03a4f26ec4eb4d3fb52b9c946c1ecd8e"/>
+	</game>
+	<game name="Maximum PC (2004-03)(Future Network)(US)">
+		<description>Maximum PC (2004-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2004-03)(Future Network)(US).pdf" size="5000554" crc="86edfb93" md5="d3d72c2c42cf949039a1a6712fcd1261" sha1="1b9677b86291d265bc836b0bd31eb4cd39d95c16"/>
+	</game>
+	<game name="Maximum PC (2004-04)(Future Network)(US)">
+		<description>Maximum PC (2004-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2004-04)(Future Network)(US).pdf" size="4544566" crc="5500b403" md5="5761c2634aa8246f7673e644220d0251" sha1="2c1c1497f904c63f7d9fa1919d6b281db47eb874"/>
+	</game>
+	<game name="Maximum PC (2004-06)(Future Network)(US)">
+		<description>Maximum PC (2004-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2004-06)(Future Network)(US).pdf" size="4870159" crc="6683b0ac" md5="59098d30cfb44da6c681a6446452b056" sha1="830ef264416bc1c18e4bda1573b700b0e23ed5ad"/>
+	</game>
+	<game name="Maximum PC (2004-08)(Future Network)(US)">
+		<description>Maximum PC (2004-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2004-08)(Future Network)(US).pdf" size="4213863" crc="29e0477b" md5="a7b92a34b7068ec077e24d895a2aa996" sha1="f73843a573cbdf7ae903e53c844eaad789f131d8"/>
+	</game>
+	<game name="Maximum PC (2004-09)(Future Network)(US)">
+		<description>Maximum PC (2004-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2004-09)(Future Network)(US).pdf" size="5154785" crc="6bc03004" md5="2087256e10d32f0e858f55206f50b55a" sha1="1bcaad62c1be6b44df1abe00551979fe97a79f43"/>
+	</game>
+	<game name="Maximum PC (2004-10)(Future Network)(US)">
+		<description>Maximum PC (2004-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2004-10)(Future Network)(US).pdf" size="4777086" crc="01bc9ff6" md5="e6a6754ef3c94071d4e1ef235ff9fe6c" sha1="7934db3c0c41131d2a9feed58232f5149795ef3c"/>
+	</game>
+	<game name="Maximum PC (2004-11)(Future Network)(US)">
+		<description>Maximum PC (2004-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2004-11)(Future Network)(US).pdf" size="5096020" crc="3b199833" md5="eaab5a5d6341874eee21bc9326c0e74b" sha1="89ccc582627bdd5c0b3061e4c50013acf9ada1f0"/>
+	</game>
+	<game name="Maximum PC (2004-12)(Future Network)(US)">
+		<description>Maximum PC (2004-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2004-12)(Future Network)(US).pdf" size="6022657" crc="b4701849" md5="0710feabed4e8df5547b2eb8f4569f0d" sha1="98776132f45ac95407080befae4bd7ebb8f01f05"/>
+	</game>
+	<game name="Maximum PC (2005-01)(Future Network)(US)">
+		<description>Maximum PC (2005-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-01)(Future Network)(US).pdf" size="7734529" crc="5d49b9fb" md5="2f64883e046f3ed7cc08def0764262f5" sha1="2cc0e905c40dd706127270a1b79650a1af45fb09"/>
+	</game>
+	<game name="Maximum PC (2005-02)(Future Network)(US)">
+		<description>Maximum PC (2005-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-02)(Future Network)(US).pdf" size="4879805" crc="d0e1a693" md5="7ffa8e952e14b3bf08e43459ebaf48c1" sha1="320b1ae564e0e8049a1c8a8e4b9b57b5321b1e25"/>
+	</game>
+	<game name="Maximum PC (2005-03)(Future Network)(US)">
+		<description>Maximum PC (2005-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-03)(Future Network)(US).pdf" size="5226024" crc="ad239116" md5="e83ffdfb267a3839af0bc667d84701ca" sha1="4cb18808a3735f28fcc68837497035ba7eb12b24"/>
+	</game>
+	<game name="Maximum PC (2005-04)(Future Network)(US)">
+		<description>Maximum PC (2005-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-04)(Future Network)(US).pdf" size="5537187" crc="e4a0be1d" md5="d0fcda009c85b9805fdb1aaf3fb9d9a6" sha1="cf38fb279c88b23f1b2fcb8b6dfde20421b7cac8"/>
+	</game>
+	<game name="Maximum PC (2005-05)(Future Network)(US)">
+		<description>Maximum PC (2005-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-05)(Future Network)(US).pdf" size="5412218" crc="cb089f7b" md5="09b2047aae33d8e7176900edbe1d7c9f" sha1="d53608e9407f60c981200f8fd87f784474853e6a"/>
+	</game>
+	<game name="Maximum PC (2005-06)(Future Network)(US)">
+		<description>Maximum PC (2005-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-06)(Future Network)(US).pdf" size="5403863" crc="04a66a0c" md5="11aeac02d012b30d65dbf43ecb9ab904" sha1="9bcb13805cf9316903dd96e6004305c7fa59e216"/>
+	</game>
+	<game name="Maximum PC (2005-06)(Future Network)(US)[a]">
+		<description>Maximum PC (2005-06)(Future Network)(US)[a]</description>
+		<rom name="Maximum PC (2005-06)(Future Network)(US)[a].pdf" size="22982102" crc="c8c3e4e0" md5="85a11de0e0737e178832f76e435ab8ca" sha1="e702370e73325321654a404f4e006885ececf878"/>
+	</game>
+	<game name="Maximum PC (2005-07)(Future Network)(US)">
+		<description>Maximum PC (2005-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-07)(Future Network)(US).pdf" size="5095649" crc="aa8b6d22" md5="a4c5cf5ca229082aa830b125651d0471" sha1="67997a688b45ea0d6d2d3a2c3a93b7d5b2eeb892"/>
+	</game>
+	<game name="Maximum PC (2005-08)(Future Network)(US)">
+		<description>Maximum PC (2005-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-08)(Future Network)(US).pdf" size="4846221" crc="55641e14" md5="6e2b4fa2cd667f2a78002032be78adcf" sha1="ffacaf29bb609a91c295599959650f0b21161b5a"/>
+	</game>
+	<game name="Maximum PC (2005-09)(Future Network)(US)">
+		<description>Maximum PC (2005-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-09)(Future Network)(US).pdf" size="4921395" crc="12f7c632" md5="5567438ee49a5474621f15fff242e217" sha1="da84beef40691e29d785ab49a974dd3e6c089d59"/>
+	</game>
+	<game name="Maximum PC (2005-10)(Future Network)(US)">
+		<description>Maximum PC (2005-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-10)(Future Network)(US).pdf" size="4493608" crc="b74938d1" md5="0beb07a0a2cd9c19ef0dec4dc4a81988" sha1="e929c23b8dafb81866f10e86328a6ac84f2d532e"/>
+	</game>
+	<game name="Maximum PC (2005-11)(Future Network)(US)">
+		<description>Maximum PC (2005-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-11)(Future Network)(US).pdf" size="4943533" crc="bffb04e8" md5="1548f95e3935ae488545d8282fc25bed" sha1="05ffe95103b4dd73d613643441562c7f171b67a1"/>
+	</game>
+	<game name="Maximum PC (2005-12)(Future Network)(US)">
+		<description>Maximum PC (2005-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2005-12)(Future Network)(US).pdf" size="6026559" crc="0d79d860" md5="d675b85305664f70d90fe82243bf4ac7" sha1="af9238d3d15d7d99b6603757d3092b0febdf82dc"/>
+	</game>
+	<game name="Maximum PC (2006-01)(Future Network)(US)">
+		<description>Maximum PC (2006-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-01)(Future Network)(US).pdf" size="5156358" crc="b8020766" md5="566459fbc4dbf259eccea2b8aca7f840" sha1="ce7baec424ccf853b0d35e7d4eb33cbfe0996d62"/>
+	</game>
+	<game name="Maximum PC (2006-02)(Future Network)(US)">
+		<description>Maximum PC (2006-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-02)(Future Network)(US).pdf" size="4747336" crc="8fc151cb" md5="c1abc964cee3b85dfa481a2e96e496a7" sha1="18d7d088a292ce98291908c87e9af25c764344fd"/>
+	</game>
+	<game name="Maximum PC (2006-03)(Future Network)(US)">
+		<description>Maximum PC (2006-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-03)(Future Network)(US).pdf" size="4932004" crc="7cdb8f4c" md5="90c7976393709a50001a08cf4222334d" sha1="74c703f58b43855000b8501ff5550428caf8ece1"/>
+	</game>
+	<game name="Maximum PC (2006-04)(Future Network)(US)">
+		<description>Maximum PC (2006-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-04)(Future Network)(US).pdf" size="5330525" crc="684b42bd" md5="80fcf7711e2e6e01889483b246260be6" sha1="db798fb1a40ea688d9e3eded3eeb1e2136b5f84b"/>
+	</game>
+	<game name="Maximum PC (2006-05)(Future Network)(US)">
+		<description>Maximum PC (2006-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-05)(Future Network)(US).pdf" size="4515893" crc="f973b048" md5="7035e2291c79201537ffd7f7c114669e" sha1="5fe0f95012e9e517925e4bf6b1e121d9fa0a12e0"/>
+	</game>
+	<game name="Maximum PC (2006-06)(Future Network)(US)">
+		<description>Maximum PC (2006-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-06)(Future Network)(US).pdf" size="4850845" crc="7000a9f7" md5="054c652f880e56d88490aeae11c90db6" sha1="2bc1d358b94ad08c9d60b732316ea5b9286b9fd5"/>
+	</game>
+	<game name="Maximum PC (2006-07)(Future Network)(US)">
+		<description>Maximum PC (2006-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-07)(Future Network)(US).pdf" size="4231476" crc="8e035929" md5="3c9bad26d9076722e3807103f702e58f" sha1="fdc09e43f65714c3da363da1d95c463b525b54c2"/>
+	</game>
+	<game name="Maximum PC (2006-08)(Future Network)(US)">
+		<description>Maximum PC (2006-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-08)(Future Network)(US).pdf" size="6216040" crc="60475f9e" md5="65255b4e6288f0c0326adb221fd4bb61" sha1="68567583e1d3d828a8f338427b5a5e3d8899d7c5"/>
+	</game>
+	<game name="Maximum PC (2006-09)(Future Network)(US)">
+		<description>Maximum PC (2006-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-09)(Future Network)(US).pdf" size="8234522" crc="a8b3530b" md5="10a3776c9ce555885a0cbdf29a83ea1f" sha1="c1ca7b92aad5ec67a8dde5e681f21fb43fc4210c"/>
+	</game>
+	<game name="Maximum PC (2006-10)(Future Network)(US)">
+		<description>Maximum PC (2006-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-10)(Future Network)(US).pdf" size="6242045" crc="5e1eeb37" md5="2bd22ef8ea65ca5456b78136b756a08b" sha1="3cae77b109d73d2fb25f2fedb4acd79d2ac98fec"/>
+	</game>
+	<game name="Maximum PC (2006-11)(Future Network)(US)">
+		<description>Maximum PC (2006-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-11)(Future Network)(US).pdf" size="4634838" crc="3af8bf2e" md5="6eeaa090217b28f8acc4798d78dce7b9" sha1="cb7f1faea2bd9e5ac2ff8cb9d9254af490c60f8a"/>
+	</game>
+	<game name="Maximum PC (2006-12)(Future Network)(US)">
+		<description>Maximum PC (2006-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2006-12)(Future Network)(US).pdf" size="8061466" crc="e96b3921" md5="9556d078dd4c5c4d20df8b066021c9de" sha1="553697208e9b57f4aa069b7a5ba6b9781906ea57"/>
+	</game>
+	<game name="Maximum PC (2007-01)(Future Network)(US)">
+		<description>Maximum PC (2007-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-01)(Future Network)(US).pdf" size="6583024" crc="43bb1478" md5="1e508f0872a53e281b471941b85314da" sha1="749af6cf1b3c9460930e0653bb7c559c47a9c45a"/>
+	</game>
+	<game name="Maximum PC (2007-02)(Future Network)(US)">
+		<description>Maximum PC (2007-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-02)(Future Network)(US).pdf" size="6817440" crc="b52a2ab1" md5="e790d06838e3888e5afe73fd317536bc" sha1="51bfc817225e812663cda26ec6f758acb149646c"/>
+	</game>
+	<game name="Maximum PC (2007-03)(Future Network)(US)">
+		<description>Maximum PC (2007-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-03)(Future Network)(US).pdf" size="7833878" crc="6ccbf6c4" md5="95e10ff28b14975566107108c2ca304b" sha1="9923eda91109d173853250e8dc04777e43c289d3"/>
+	</game>
+	<game name="Maximum PC (2007-04)(Future Network)(US)">
+		<description>Maximum PC (2007-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-04)(Future Network)(US).pdf" size="6200839" crc="6abb7525" md5="c8f76ae0a488efe9b907bfa03e5b0117" sha1="8c01acd90d1ba8695072cd1c408348d6713b71f8"/>
+	</game>
+	<game name="Maximum PC (2007-05)(Future Network)(US)">
+		<description>Maximum PC (2007-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-05)(Future Network)(US).pdf" size="7522095" crc="030cacf6" md5="756f6f734139a449ca169c4f899d6897" sha1="9552a531cd4e3ebe5323ff92254e2afba8fe0c8a"/>
+	</game>
+	<game name="Maximum PC (2007-06)(Future Network)(US)">
+		<description>Maximum PC (2007-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-06)(Future Network)(US).pdf" size="8325382" crc="9bb80783" md5="fb00f728c5fdb9807c8dc7111a3387a8" sha1="5b4c12b43787a295f20da9d91525e0d33b4b84f9"/>
+	</game>
+	<game name="Maximum PC (2007-07)(Future Network)(US)">
+		<description>Maximum PC (2007-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-07)(Future Network)(US).pdf" size="6663763" crc="a96ff8de" md5="e7acd6b23296ea5eccba33dbb9275338" sha1="afae2aa25a741ea2de978d7d902abf153d76f1df"/>
+	</game>
+	<game name="Maximum PC (2007-08)(Future Network)(US)">
+		<description>Maximum PC (2007-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-08)(Future Network)(US).pdf" size="6378010" crc="7f384d18" md5="2c2f3d0abf39652ffb559f29d78e0443" sha1="4765ed52a8dd70d328d447e6d750facd0d9b6490"/>
+	</game>
+	<game name="Maximum PC (2007-09)(Future Network)(US)">
+		<description>Maximum PC (2007-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-09)(Future Network)(US).pdf" size="8639693" crc="28f6b312" md5="f723873cfd2015acc7b95e721f89bdb4" sha1="95c1dd09d63a490fa23499df2a909f92589fa7f3"/>
+	</game>
+	<game name="Maximum PC (2007-10)(Future Network)(US)">
+		<description>Maximum PC (2007-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-10)(Future Network)(US).pdf" size="7229704" crc="0e99eb42" md5="bf3c1eb9fa4af5727524ce175af397de" sha1="c641f9c91993abf8917eb5433f99f1e6a6587d0a"/>
+	</game>
+	<game name="Maximum PC (2007-11)(Future Network)(US)">
+		<description>Maximum PC (2007-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-11)(Future Network)(US).pdf" size="6329228" crc="20a65e1b" md5="6d45caec26677ecd5eed95e54c57a3d7" sha1="817970a748fbc2aeb829016e34cb43994bbba016"/>
+	</game>
+	<game name="Maximum PC (2007-12)(Future Network)(US)">
+		<description>Maximum PC (2007-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2007-12)(Future Network)(US).pdf" size="8311831" crc="f9524dae" md5="25d83eb21503bab9c6105b6ea1e91dfb" sha1="6e0f559a94cf880a59ddf31fdf55981df7671b80"/>
+	</game>
+	<game name="Maximum PC (2008-01)(Future Network)(US)">
+		<description>Maximum PC (2008-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-01)(Future Network)(US).pdf" size="6272754" crc="584b0d91" md5="33c04352cb8a68499aa2a5c65f3215e9" sha1="c29509bdad92b9be3b1563d0dd54c1a9e8e75c4c"/>
+	</game>
+	<game name="Maximum PC (2008-02)(Future Network)(US)">
+		<description>Maximum PC (2008-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-02)(Future Network)(US).pdf" size="4790227" crc="40a27419" md5="87b1c7d2f3d853a81e887ef565ca3c8e" sha1="78ac44dae9a29981f7c8cbdf6b20e283ed5c4a1f"/>
+	</game>
+	<game name="Maximum PC (2008-03)(Future Network)(US)">
+		<description>Maximum PC (2008-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-03)(Future Network)(US).pdf" size="5680036" crc="46363665" md5="5c5d204a50c8f6536d0d52d7c1861cb8" sha1="876ad331c461949e68f8217d44e111202731edb6"/>
+	</game>
+	<game name="Maximum PC (2008-04)(Future Network)(US)">
+		<description>Maximum PC (2008-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-04)(Future Network)(US).pdf" size="5430268" crc="71d15f31" md5="5152d49b9e7369a159ffad4f581147d6" sha1="a0ad9cd48071aa727bb7e4f540672895077071d1"/>
+	</game>
+	<game name="Maximum PC (2008-05)(Future Network)(US)">
+		<description>Maximum PC (2008-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-05)(Future Network)(US).pdf" size="7005840" crc="b44a9c44" md5="8cd24b7211a5cfa1f583b836a6da2cf8" sha1="168caa250b6c4bd9a056f5573239537983928c85"/>
+	</game>
+	<game name="Maximum PC (2008-06)(Future Network)(US)">
+		<description>Maximum PC (2008-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-06)(Future Network)(US).pdf" size="5404186" crc="3d9b10a8" md5="abbdb56dda9132506e69cb265acba0f3" sha1="6f30a5e96db0850c3050f7354e6ba7f510597388"/>
+	</game>
+	<game name="Maximum PC (2008-07)(Future Network)(US)">
+		<description>Maximum PC (2008-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-07)(Future Network)(US).pdf" size="9371434" crc="64d78535" md5="e1c3bb6758528871fdbf95821c017513" sha1="f2d6b179e7017f862a91cf4faaa134ad6c7811d5"/>
+	</game>
+	<game name="Maximum PC (2008-08)(Future Network)(US)">
+		<description>Maximum PC (2008-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-08)(Future Network)(US).pdf" size="5346057" crc="ec3f6776" md5="32eea8db2c235610f2a7dfb4ac29b91a" sha1="8cc33ba06f2d5020618af31e203c6073080d1b2e"/>
+	</game>
+	<game name="Maximum PC (2008-09)(Future Network)(US)">
+		<description>Maximum PC (2008-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-09)(Future Network)(US).pdf" size="8076726" crc="aece3c7e" md5="c570d410ca3dcf81c7a31aa5efb4e5f2" sha1="7521d36a7cc1e25b3232586fdff470a760802fe6"/>
+	</game>
+	<game name="Maximum PC (2008-10)(Future Network)(US)">
+		<description>Maximum PC (2008-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-10)(Future Network)(US).pdf" size="9977169" crc="d96b0e2a" md5="25e9832f9c3f8b7c614af2964d4d0423" sha1="1475c96d5f0ba0516ccaa4533aa0a2c29539dd97"/>
+	</game>
+	<game name="Maximum PC (2008-11)(Future Network)(US)">
+		<description>Maximum PC (2008-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-11)(Future Network)(US).pdf" size="7526935" crc="38769812" md5="39c1257adc7d02f298b00df413ec3dba" sha1="17f0a5573fe1164648044c549adf53218a9cbf25"/>
+	</game>
+	<game name="Maximum PC (2008-12)(Future Network)(US)">
+		<description>Maximum PC (2008-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2008-12)(Future Network)(US).pdf" size="7067751" crc="799f720a" md5="a66f2daf576fa37e7a79876120eef65c" sha1="d34977371592406ef9a30ac911e657b2aa318b4d"/>
+	</game>
+	<game name="Maximum PC (2009-01)(Future Network)(US)">
+		<description>Maximum PC (2009-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-01)(Future Network)(US).pdf" size="8723168" crc="569253a4" md5="ee5832f904b19613a2baa92bf9b1988d" sha1="97601897243ba7dc1d11fcccd8120197ee3a5721"/>
+	</game>
+	<game name="Maximum PC (2009-02)(Future Network)(US)">
+		<description>Maximum PC (2009-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-02)(Future Network)(US).pdf" size="6716268" crc="65dff759" md5="c4b50a28b6fba32c19a504ba9e3eeb80" sha1="6ad0255a5e10c362632b59b78abbb117b6becab3"/>
+	</game>
+	<game name="Maximum PC (2009-03)(Future Network)(US)">
+		<description>Maximum PC (2009-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-03)(Future Network)(US).pdf" size="8655322" crc="1cacb983" md5="0a6f277ae7f89a376edf5afd45485310" sha1="ba0263e7551bd2624ad2ca81a1e36414e8c21563"/>
+	</game>
+	<game name="Maximum PC (2009-04)(Future Network)(US)">
+		<description>Maximum PC (2009-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-04)(Future Network)(US).pdf" size="9341394" crc="6f661ad4" md5="266a637c5fb093d1555577a3bfae4a8f" sha1="eb91a554a4075ca54d64a9e60a945b9553fe6828"/>
+	</game>
+	<game name="Maximum PC (2009-05)(Future Network)(US)">
+		<description>Maximum PC (2009-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-05)(Future Network)(US).pdf" size="6940598" crc="098ba152" md5="f5d2f0e6cf2c8ffb6bab28cfcdda3571" sha1="736ab08f25c6fe21f63d516ffc28c637b6d8b483"/>
+	</game>
+	<game name="Maximum PC (2009-06)(Future Network)(US)">
+		<description>Maximum PC (2009-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-06)(Future Network)(US).pdf" size="11357490" crc="9c7b18ee" md5="e78dd879956cc03d64cbd4d89111527f" sha1="9a64d272cc5708eeea8ea4c098c0d57adb9482a5"/>
+	</game>
+	<game name="Maximum PC (2009-07)(Future Network)(US)">
+		<description>Maximum PC (2009-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-07)(Future Network)(US).pdf" size="6635987" crc="a1c91639" md5="01df698f418a07648a88418917edca70" sha1="bcdb69eeddda2e3909a35d810e8cda72c0908388"/>
+	</game>
+	<game name="Maximum PC (2009-08)(Future Network)(US)">
+		<description>Maximum PC (2009-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-08)(Future Network)(US).pdf" size="8155550" crc="53fa41ad" md5="4904a6aa88d30c3359a0904ab6d58ec1" sha1="f4a2052a423b9577fa3c66099c9ee3bcf87697fe"/>
+	</game>
+	<game name="Maximum PC (2009-09)(Future Network)(US)">
+		<description>Maximum PC (2009-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-09)(Future Network)(US).pdf" size="7082783" crc="413f7ad2" md5="7e8fc286c983dfe319edb0cc3da72252" sha1="a4c2ec2e36d9b0c0fd294800311c5bc8725f2e06"/>
+	</game>
+	<game name="Maximum PC (2009-10)(Future Network)(US)">
+		<description>Maximum PC (2009-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-10)(Future Network)(US).pdf" size="8753941" crc="dc4ec8c8" md5="b76e485a7763a2a1bf3f256b9dca7684" sha1="473ae1fdcee4ee478b8f571c9c2f432599720318"/>
+	</game>
+	<game name="Maximum PC (2009-11)(Future Network)(US)">
+		<description>Maximum PC (2009-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-11)(Future Network)(US).pdf" size="11168237" crc="881d26fa" md5="f33df8c0dc4664f8c6fb4ffccf5530e1" sha1="c97e14df4a963c2a309c7a3e446217d7142a63de"/>
+	</game>
+	<game name="Maximum PC (2009-12)(Future Network)(US)">
+		<description>Maximum PC (2009-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2009-12)(Future Network)(US).pdf" size="6387564" crc="735b86bb" md5="d4a4ca1e06215831fd06e59664a6e0d6" sha1="075152ee0da00429ce2666c3e9e154e56f2d04bc"/>
+	</game>
+	<game name="Maximum PC (2010-01)(Future Network)(US)">
+		<description>Maximum PC (2010-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-01)(Future Network)(US).pdf" size="11225346" crc="65381059" md5="7958e816246505160c5b440bb5ad995a" sha1="ff1b693faa1cd4d102a0d3c52d8a2df3e44a16e3"/>
+	</game>
+	<game name="Maximum PC (2010-02)(Future Network)(US)">
+		<description>Maximum PC (2010-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-02)(Future Network)(US).pdf" size="9056135" crc="db3fdc1a" md5="3c34f6ebe0ebf0726db5429f594d7a1e" sha1="01958756692f6748b04602b98799dd4dbb1da1b5"/>
+	</game>
+	<game name="Maximum PC (2010-03)(Future Network)(US)">
+		<description>Maximum PC (2010-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-03)(Future Network)(US).pdf" size="5941077" crc="25a2d413" md5="82c4fef0093df2545ed3724a9c639bb2" sha1="af00d1bae18282dfb46f7e6963a472e646412688"/>
+	</game>
+	<game name="Maximum PC (2010-04)(Future Network)(US)">
+		<description>Maximum PC (2010-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-04)(Future Network)(US).pdf" size="7933524" crc="9220b9d4" md5="b8c6398ba26090b79c4fccd3f1c8d3cb" sha1="a682f353ab26e993dd30c8fd5e8fee0d18984e08"/>
+	</game>
+	<game name="Maximum PC (2010-05)(Future Network)(US)">
+		<description>Maximum PC (2010-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-05)(Future Network)(US).pdf" size="14578137" crc="af7f5664" md5="24b7a0f0c080de1532ce1c6a91a5dc55" sha1="209af58ac6bacc42b45ddc73ac4c08d28aadbe54"/>
+	</game>
+	<game name="Maximum PC (2010-06)(Future Network)(US)">
+		<description>Maximum PC (2010-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-06)(Future Network)(US).pdf" size="14292051" crc="171e04e7" md5="343348864fac1f3e8e705685f61f2da3" sha1="55170c7dcd27bc932bf1433722f4544d71930c54"/>
+	</game>
+	<game name="Maximum PC (2010-07)(Future Network)(US)">
+		<description>Maximum PC (2010-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-07)(Future Network)(US).pdf" size="9855485" crc="b5eaa69f" md5="81b252a1521e52acb213bc9f294942af" sha1="abc6ca30891e3410258875adcce8371818d55a88"/>
+	</game>
+	<game name="Maximum PC (2010-08)(Future Network)(US)">
+		<description>Maximum PC (2010-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-08)(Future Network)(US).pdf" size="17549329" crc="76b74016" md5="cfdcb82faaefd9b4e15f9cd39cbfcde7" sha1="7156d3e24148b30f5d10f21317c9e112aa03ae43"/>
+	</game>
+	<game name="Maximum PC (2010-09)(Future Network)(US)">
+		<description>Maximum PC (2010-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-09)(Future Network)(US).pdf" size="10509247" crc="ee83801b" md5="a72f5e2f3f84430ec311496072ed72cc" sha1="bbbbfbf3c5555af962deaeb0c2e048d55565918c"/>
+	</game>
+	<game name="Maximum PC (2010-09)(Future Network)(US)[a]">
+		<description>Maximum PC (2010-09)(Future Network)(US)[a]</description>
+		<rom name="Maximum PC (2010-09)(Future Network)(US)[a].pdf" size="10509247" crc="ee83801b" md5="a72f5e2f3f84430ec311496072ed72cc" sha1="bbbbfbf3c5555af962deaeb0c2e048d55565918c"/>
+	</game>
+	<game name="Maximum PC (2010-10)(Future Network)(US)">
+		<description>Maximum PC (2010-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-10)(Future Network)(US).pdf" size="17380610" crc="037bae16" md5="bc04ef21a1486fee435fdbd3f602376a" sha1="03bd8136c6534bf5dbc6e9d10dd3112941a4c3e5"/>
+	</game>
+	<game name="Maximum PC (2010-11)(Future Network)(US)">
+		<description>Maximum PC (2010-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-11)(Future Network)(US).pdf" size="9124642" crc="17078fa0" md5="6fd105ea2da8f568c3c9e9b0a5194a57" sha1="5eb2a13ba02a794a97d277ced814c9304eb95a46"/>
+	</game>
+	<game name="Maximum PC (2010-12)(Future Network)(US)">
+		<description>Maximum PC (2010-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2010-12)(Future Network)(US).pdf" size="88703065" crc="ee768ab6" md5="96d2763e74bc9503f07ff99fdd47e359" sha1="e20fcf90ce03e67895619fb73cd36d05e69b4217"/>
+	</game>
+	<game name="Maximum PC (2011-01)(Future Network)(US)">
+		<description>Maximum PC (2011-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-01)(Future Network)(US).pdf" size="87614625" crc="6f5268ce" md5="59b94251384b0d4f9bed55055dabe76f" sha1="e053a797a0b00fd6cb995b2aaa85ce5e9f3a0700"/>
+	</game>
+	<game name="Maximum PC (2011-02)(Future Network)(US)">
+		<description>Maximum PC (2011-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-02)(Future Network)(US).pdf" size="106167495" crc="c74d2167" md5="66da69a942b9cdcd69943f6a073d6224" sha1="abd937b1623df7263765f4719fffc93198fabc62"/>
+	</game>
+	<game name="Maximum PC (2011-03)(Future Network)(US)">
+		<description>Maximum PC (2011-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-03)(Future Network)(US).pdf" size="82370827" crc="c2fc29e0" md5="f5989026d33059816dd02af2873aa4dc" sha1="185019289448c0d07398fda4b1bdb11237ddeffb"/>
+	</game>
+	<game name="Maximum PC (2011-04)(Future Network)(US)">
+		<description>Maximum PC (2011-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-04)(Future Network)(US).pdf" size="23111360" crc="45e5cf86" md5="fc3a2bf89e5312d6602c242ee611e98a" sha1="28910d44ef9a20b9a131e95de9b627208c78c89e"/>
+	</game>
+	<game name="Maximum PC (2011-04)(Future Publishing)(US)">
+		<description>Maximum PC (2011-04)(Future Publishing)(US)</description>
+		<rom name="Maximum PC (2011-04)(Future Publishing)(US).pdf" size="13023731" crc="e9d3acdf" md5="3d34c0e3c014f107cdd6e3714baf0fd5" sha1="5c0b4ed73775f23d14a9cdc899f342144d7cb3e5"/>
+	</game>
+	<game name="Maximum PC (2011-05)(Future Network)(US)">
+		<description>Maximum PC (2011-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-05)(Future Network)(US).pdf" size="23715070" crc="7b068a4b" md5="ff2abecd9880fd54c9e71554762c7018" sha1="9bcf0d9d319e087d4480d569d6c0c742c36c07dd"/>
+	</game>
+	<game name="Maximum PC (2011-05)(Future Publishing)(US)">
+		<description>Maximum PC (2011-05)(Future Publishing)(US)</description>
+		<rom name="Maximum PC (2011-05)(Future Publishing)(US).pdf" size="23716672" crc="c9bf8109" md5="95c80c36a61ff0acfbfdad1586a92729" sha1="3c74812b0dee8f1be9f9d709b651dfd36a4ba978"/>
+	</game>
+	<game name="Maximum PC (2011-06)(Future Network)(US)">
+		<description>Maximum PC (2011-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-06)(Future Network)(US).pdf" size="27105577" crc="f16f7829" md5="af0fbb3f991b7230c6b2865d78d0278f" sha1="a7baedeec14fb1b9b233fc2ac12cea60e75d466b"/>
+	</game>
+	<game name="Maximum PC (2011-06)(Future Publishing)(US)">
+		<description>Maximum PC (2011-06)(Future Publishing)(US)</description>
+		<rom name="Maximum PC (2011-06)(Future Publishing)(US).pdf" size="27107135" crc="2109bc45" md5="bb7ab427bc46344e93df2d052dcc8419" sha1="e28e98b28e82e05f1f9d27007e2d62a9a2dfe515"/>
+	</game>
+	<game name="Maximum PC (2011-07)(Future Network)(US)">
+		<description>Maximum PC (2011-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-07)(Future Network)(US).pdf" size="14097276" crc="b9dd1891" md5="675e11181dacf3497d6803904e5deb34" sha1="33a499bfdefc060fd1205ed2ed1a98fd50e459e0"/>
+	</game>
+	<game name="Maximum PC (2011-07)(Future Publishing)(US)">
+		<description>Maximum PC (2011-07)(Future Publishing)(US)</description>
+		<rom name="Maximum PC (2011-07)(Future Publishing)(US).pdf" size="84883677" crc="6c2cad82" md5="d29f4055f927aad2f9bb7aa7cbfaa5a6" sha1="547d64c006f53ba55cbe26bea4c2cb29a5d74c8a"/>
+	</game>
+	<game name="Maximum PC (2011-08)(Future Network)(US)">
+		<description>Maximum PC (2011-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-08)(Future Network)(US).pdf" size="13157250" crc="59da909c" md5="94fb4a964bd34de828f1c005739a4240" sha1="a32fb35e042883fc4fd37d2e2aaec473e38ef755"/>
+	</game>
+	<game name="Maximum PC (2011-09)(Future Network)(US)">
+		<description>Maximum PC (2011-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-09)(Future Network)(US).pdf" size="14674267" crc="f9b48d8b" md5="da51e4ba50fcf0285ded9bca5a7efdd3" sha1="7b5b34760cdab153579935b4468cb2b0a4b2ab62"/>
+	</game>
+	<game name="Maximum PC (2011-10)(Future Network)(US)">
+		<description>Maximum PC (2011-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-10)(Future Network)(US).pdf" size="12510076" crc="e7d00f68" md5="9d03bc732af46cd1c9a91268cddef5b5" sha1="36e19f49b75ab77b6865ba1c1ff7035cf3911f78"/>
+	</game>
+	<game name="Maximum PC (2011-11)(Future Network)(US)">
+		<description>Maximum PC (2011-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-11)(Future Network)(US).pdf" size="14437772" crc="296c1a46" md5="34421e1018cc3c01b650b0dfb16131e5" sha1="49bdae0e4825ee942d936f01b059d0da671189ca"/>
+	</game>
+	<game name="Maximum PC (2011-12)(Future Network)(US)">
+		<description>Maximum PC (2011-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2011-12)(Future Network)(US).pdf" size="12959569" crc="b5b30a98" md5="96f509e04d138974dcf13273b31fcf05" sha1="9ed8e4cc2fcdf5dae1de6b2028aa9bcc09aa83e1"/>
+	</game>
+	<game name="Maximum PC (2012-01)(Future Network)(US)">
+		<description>Maximum PC (2012-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-01)(Future Network)(US).pdf" size="11998164" crc="f37b4e43" md5="a619e57c7e1ac354b802ae2d47dc6f18" sha1="93d36de411d983da6c053a3fc7b94f321f0bbd00"/>
+	</game>
+	<game name="Maximum PC (2012-02)(Future Network)(US)">
+		<description>Maximum PC (2012-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-02)(Future Network)(US).pdf" size="89428173" crc="abbb973b" md5="0331ead67b1fb9151b85abeba2e346c4" sha1="e49157193be7b4fc7b6021404abab14a505e648f"/>
+	</game>
+	<game name="Maximum PC (2012-03)(Future Network)(US)">
+		<description>Maximum PC (2012-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-03)(Future Network)(US).pdf" size="92376263" crc="bf54b09f" md5="727cd8d5b46ec8c36cdb9383487644e3" sha1="3b79a5832b489a2d1840852b87c218c398aa1d25"/>
+	</game>
+	<game name="Maximum PC (2012-04)(Future Network)(US)">
+		<description>Maximum PC (2012-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-04)(Future Network)(US).pdf" size="80551150" crc="2beaf119" md5="0c898892592779558e3bf869781fbc5f" sha1="3fb27202b0678533361ac757fa26578d8480f51b"/>
+	</game>
+	<game name="Maximum PC (2012-05)(Future Network)(US)">
+		<description>Maximum PC (2012-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-05)(Future Network)(US).pdf" size="5506770" crc="cce1906b" md5="37b7195e8b029e9b1b070dfbbe350595" sha1="faf99b8b29f90aea4f474857176c982e475a353e"/>
+	</game>
+	<game name="Maximum PC (2012-06)(Future Network)(US)">
+		<description>Maximum PC (2012-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-06)(Future Network)(US).pdf" size="4571662" crc="4ee7b871" md5="e4d2a6a1d1b4716fafbe43f5c5c4d4d1" sha1="5da10c3376ca1e3539aa18956b1b7652b0e9ed5d"/>
+	</game>
+	<game name="Maximum PC (2012-07)(Future Network)(US)">
+		<description>Maximum PC (2012-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-07)(Future Network)(US).pdf" size="12928188" crc="07993487" md5="297d3f597e3c618bb0c78f2bcb3d5509" sha1="e803475e44083e6ccd41d6c29fdff40a8d052107"/>
+	</game>
+	<game name="Maximum PC (2012-08)(Future Network)(US)">
+		<description>Maximum PC (2012-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-08)(Future Network)(US).pdf" size="5244888" crc="d9ceb57a" md5="7861cc3db920d6e9233e718f3a22d989" sha1="4e17f6edae67f3deca1f4f610cb82b5eca7ac221"/>
+	</game>
+	<game name="Maximum PC (2012-09)(Future Network)(US)">
+		<description>Maximum PC (2012-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-09)(Future Network)(US).pdf" size="76662768" crc="44b33b0e" md5="71fc9f4b49c7e755ae82f9ef54575a63" sha1="2ffd94cbd150dd65181b54d6d797f0a056eba8ac"/>
+	</game>
+	<game name="Maximum PC (2012-10)(Future Network)(US)">
+		<description>Maximum PC (2012-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-10)(Future Network)(US).pdf" size="4612420" crc="053e117d" md5="999f8bba8fed09c1afa26e012988d44d" sha1="4d1671e4ce87d6d4910fc69ee1c39bc51e7e0f4b"/>
+	</game>
+	<game name="Maximum PC (2012-11)(Future Network)(US)">
+		<description>Maximum PC (2012-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-11)(Future Network)(US).pdf" size="5876082" crc="0acce61e" md5="1fd152e100065174f40169e34553bca6" sha1="8ec7531064419ff76e6ec32930954c07bc50fb8b"/>
+	</game>
+	<game name="Maximum PC (2012-12)(Future Network)(US)">
+		<description>Maximum PC (2012-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2012-12)(Future Network)(US).pdf" size="5363139" crc="7b874b39" md5="0366b6dfef5606611753158ca34cab80" sha1="26b192ae3b7084981ef511e35257f4db5360f05f"/>
+	</game>
+	<game name="Maximum PC (2013-01)(Future Network)(US)">
+		<description>Maximum PC (2013-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-01)(Future Network)(US).pdf" size="7847747" crc="5aca933e" md5="1fc0670780e8f98c0d54c1301e514c97" sha1="29b3bc1c85059142afb7369a458f30a8246b0781"/>
+	</game>
+	<game name="Maximum PC (2013-02)(Future Network)(US)">
+		<description>Maximum PC (2013-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-02)(Future Network)(US).pdf" size="6954399" crc="736c8c60" md5="7d3fc1983e1ed5082ff005a649cb2da1" sha1="a6a6c1923083a58ee9fd22df452698fe97189b39"/>
+	</game>
+	<game name="Maximum PC (2013-03)(Future Network)(US)">
+		<description>Maximum PC (2013-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-03)(Future Network)(US).pdf" size="7405219" crc="c607e17f" md5="d682203f989d81bb3fd0209d39fc458e" sha1="5e6b64e7b4be10c6b6746430cc9b55930de6b787"/>
+	</game>
+	<game name="Maximum PC (2013-03)(Future Publishing)(US)">
+		<description>Maximum PC (2013-03)(Future Publishing)(US)</description>
+		<rom name="Maximum PC (2013-03)(Future Publishing)(US).pdf" size="106363634" crc="d63e9bb0" md5="40244a6919f37709af9934edf5720080" sha1="9cccbf8d2c700e9f07246facfe8c7846efb64fd4"/>
+	</game>
+	<game name="Maximum PC (2013-04)(Future Network)(US)">
+		<description>Maximum PC (2013-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-04)(Future Network)(US).pdf" size="10883568" crc="1e501547" md5="94c6c6ca08cabd75896ff6b4f1ba0de8" sha1="ff8c028ba1b447e2dc63947fcd0635184fd5cb1f"/>
+	</game>
+	<game name="Maximum PC (2013-05)(Future Network)(US)">
+		<description>Maximum PC (2013-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-05)(Future Network)(US).pdf" size="13144007" crc="aa7997ef" md5="23d5abe33fab5ca53aac476d742d0530" sha1="90af645053b7e811279f3d37ccd4d43fd1f128ef"/>
+	</game>
+	<game name="Maximum PC (2013-06)(Future Network)(US)">
+		<description>Maximum PC (2013-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-06)(Future Network)(US).pdf" size="11219508" crc="76198340" md5="acb92115ecd1bce823fd70e4bdaa0bff" sha1="1a495de2aaf9bd1113ee0dce4cbe0a3576b5d87f"/>
+	</game>
+	<game name="Maximum PC (2013-07)(Future Network)(US)">
+		<description>Maximum PC (2013-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-07)(Future Network)(US).pdf" size="8187313" crc="2194c19e" md5="b184ca269ca5caf2247deb40829f2658" sha1="84c9ce7cb221838a9c1fb34b0e95ce3b52b1893c"/>
+	</game>
+	<game name="Maximum PC (2013-08)(Future Network)(US)">
+		<description>Maximum PC (2013-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-08)(Future Network)(US).pdf" size="13630400" crc="57cc512f" md5="bab22e1c1499e4854d81c6dab1d7dea6" sha1="5fe657c5e49a86a01666b1bcb236544b6825ebf9"/>
+	</game>
+	<game name="Maximum PC (2013-09)(Future Network)(US)">
+		<description>Maximum PC (2013-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-09)(Future Network)(US).pdf" size="12196165" crc="f44a0946" md5="c1e3c70321fbe7df99416f60095ccf84" sha1="e2e025e85e7ef2c407cd3cd7478d75cd84659ce0"/>
+	</game>
+	<game name="Maximum PC (2013-10)(Future Network)(US)">
+		<description>Maximum PC (2013-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-10)(Future Network)(US).pdf" size="11213226" crc="f5dc99ff" md5="b311d3227ea214e266267af5cce65347" sha1="6bb0f3dd5a1b56b5c154904fd7ac626991fe31f1"/>
+	</game>
+	<game name="Maximum PC (2013-11)(Future Network)(US)">
+		<description>Maximum PC (2013-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-11)(Future Network)(US).pdf" size="88798679" crc="e3eb8fd9" md5="4a4b1dbe00fc955c444b55df070701c4" sha1="3ad911cd7a6bb3c264f636ee2647d9ae63f33747"/>
+	</game>
+	<game name="Maximum PC (2013-12)(Future Network)(US)">
+		<description>Maximum PC (2013-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2013-12)(Future Network)(US).pdf" size="19029136" crc="90e37c70" md5="c4271a340c23d3c0271fb1c989fb8bcd" sha1="80522f3894c7516fd6c29b2ad5d1628d3e2018e8"/>
+	</game>
+	<game name="Maximum PC (2014-01)(Future Network)(US)">
+		<description>Maximum PC (2014-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-01)(Future Network)(US).pdf" size="27345436" crc="0b9a7a28" md5="e6b9ced2c1b2355384d92715c9bd5e1f" sha1="79dde18115fd28f2e9120acd907d0cb79d69ed87"/>
+	</game>
+	<game name="Maximum PC (2014-02)(Future Network)(US)">
+		<description>Maximum PC (2014-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-02)(Future Network)(US).pdf" size="23466650" crc="a9b1cecf" md5="dd1d0cbe81b800524b762e54d5cf1965" sha1="ca5fe07cc76559397abd9b04e780e2c7050a0a73"/>
+	</game>
+	<game name="Maximum PC (2014-02)(Future Network)(US)[a]">
+		<description>Maximum PC (2014-02)(Future Network)(US)[a]</description>
+		<rom name="Maximum PC (2014-02)(Future Network)(US)[a].pdf" size="84038088" crc="1817e0d1" md5="f6b438736e0a2bfb7e4bc96c2f09308d" sha1="527958ee94b462bf652a6f54dad3c2d3df2fadeb"/>
+	</game>
+	<game name="Maximum PC (2014-03)(Future Network)(US)">
+		<description>Maximum PC (2014-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-03)(Future Network)(US).pdf" size="86142391" crc="b0c66627" md5="5af4f80fabbeef52547db3b423e7095b" sha1="82c408a1fbca17c234b9befad363958901217159"/>
+	</game>
+	<game name="Maximum PC (2014-04)(Future Network)(US)">
+		<description>Maximum PC (2014-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-04)(Future Network)(US).pdf" size="18794393" crc="e8c661f6" md5="588b6deb0eaccfd7ebf8fac7d3859e94" sha1="d160273f00b5dcadf706cac7f5e08ddc4cf85aec"/>
+	</game>
+	<game name="Maximum PC (2014-05)(Future Network)(US)">
+		<description>Maximum PC (2014-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-05)(Future Network)(US).pdf" size="24945467" crc="c090220e" md5="bd62235bf9a27a6e9c27ea80058dc3de" sha1="2791c7a343c3d4c2404ca909ffaaf90ae98e1608"/>
+	</game>
+	<game name="Maximum PC (2014-05)(Future Network)(US)[a]">
+		<description>Maximum PC (2014-05)(Future Network)(US)[a]</description>
+		<rom name="Maximum PC (2014-05)(Future Network)(US)[a].pdf" size="64347227" crc="ac8cc50f" md5="70c62184418e94d55b64896abb1ac4ea" sha1="83f088ff1af499261c2d6e97a9cb31ae58ce5bd7"/>
+	</game>
+	<game name="Maximum PC (2014-06)(Future Network)(US)">
+		<description>Maximum PC (2014-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-06)(Future Network)(US).pdf" size="27358510" crc="97a54bad" md5="e4b58d9bb04110702af1f4691eeec964" sha1="ed63138da2a037d29c27e5be14e8e3b72aedf572"/>
+	</game>
+	<game name="Maximum PC (2014-06)(Future Network)(US)[a]">
+		<description>Maximum PC (2014-06)(Future Network)(US)[a]</description>
+		<rom name="Maximum PC (2014-06)(Future Network)(US)[a].pdf" size="95961281" crc="b1c175e4" md5="386a9dab0b68c3f1cd8c6b302ef87175" sha1="39d1add53099f8a1de7868e41c898df36ecf418c"/>
+	</game>
+	<game name="Maximum PC (2014-07)(Future Network)(US)">
+		<description>Maximum PC (2014-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-07)(Future Network)(US).pdf" size="30412707" crc="5e892e30" md5="28da5f620b1cf613240936a6da69c65e" sha1="a6bd74e94328f5df34728689a0cb1d0d23844f98"/>
+	</game>
+	<game name="Maximum PC (2014-08)(Future Network)(US)">
+		<description>Maximum PC (2014-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-08)(Future Network)(US).pdf" size="31015677" crc="6c9668ca" md5="0c2caef30e9bbdfeda5098cdeaace3ef" sha1="597a8adc0173affa5a0c3b74036fbe4bff1875bd"/>
+	</game>
+	<game name="Maximum PC (2014-09)(Future Network)(US)">
+		<description>Maximum PC (2014-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-09)(Future Network)(US).pdf" size="26471858" crc="b9e68cf6" md5="0a9d3d9fd289ea53d8755add318b5792" sha1="f05aaf03303caef2e1d1dcd867e5d5c66aa738b5"/>
+	</game>
+	<game name="Maximum PC (2014-10)(Future Network)(US)">
+		<description>Maximum PC (2014-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-10)(Future Network)(US).pdf" size="32678947" crc="2d16bf32" md5="a951daa7b5c5bf5fe90763d31d111404" sha1="2a89c39b3bf9eb9496150864442d715714acbea2"/>
+	</game>
+	<game name="Maximum PC (2014-11)(Future Network)(US)">
+		<description>Maximum PC (2014-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-11)(Future Network)(US).pdf" size="27933778" crc="e78c1c18" md5="c67b9aa2cd794ef454c219a5c2fb94ff" sha1="5c13ad7ebb28484966d963380a437b90812bec8e"/>
+	</game>
+	<game name="Maximum PC (2014-12)(Future Network)(US)">
+		<description>Maximum PC (2014-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2014-12)(Future Network)(US).pdf" size="25636040" crc="4bc8975d" md5="40383776b014f093c9477838679163ec" sha1="cf6a3945a53b54ded0f24c8dc46a39c1e1461a66"/>
+	</game>
+	<game name="Maximum PC (2015-01)(Future Network)(US)">
+		<description>Maximum PC (2015-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-01)(Future Network)(US).pdf" size="29046854" crc="a319c0d8" md5="543482deebc2cfd4ebb3443570eb5bfc" sha1="bfd6f9d5ed97d25e78fdbdf60f129d13d05f4687"/>
+	</game>
+	<game name="Maximum PC (2015-02)(Future Network)(US)">
+		<description>Maximum PC (2015-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-02)(Future Network)(US).pdf" size="28708039" crc="d41df10f" md5="ad32f7f79987b529d26be481c3b0399a" sha1="b4f144fd7c90c7f63d741ea78584bab662b33968"/>
+	</game>
+	<game name="Maximum PC (2015-03)(Future Network)(US)">
+		<description>Maximum PC (2015-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-03)(Future Network)(US).pdf" size="33734985" crc="17951735" md5="cad743d6c9e84f0ae242ffa7832ae790" sha1="0d609de3b272cee91fe65c1353d8cc0b7bb90190"/>
+	</game>
+	<game name="Maximum PC (2015-04)(Future Network)(US)">
+		<description>Maximum PC (2015-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-04)(Future Network)(US).pdf" size="21920960" crc="74a43b2f" md5="625b985d209d76aadb55c25814e58fa1" sha1="24cd69e8bd78ac324c6a7a317e5b46ef621638ee"/>
+	</game>
+	<game name="Maximum PC (2015-05)(Future Network)(US)">
+		<description>Maximum PC (2015-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-05)(Future Network)(US).pdf" size="21687622" crc="fba0c0f7" md5="8c093be590e74932af4fcb026427b477" sha1="a3588f20c5cb497cbbfbdd0ded111260eca6fbfc"/>
+	</game>
+	<game name="Maximum PC (2015-06)(Future Network)(US)">
+		<description>Maximum PC (2015-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-06)(Future Network)(US).pdf" size="45852528" crc="87860e2e" md5="e9b826489315e033dca7bc0dfd2db482" sha1="01382b0f0cc8b428af25ab67c6785828d832e809"/>
+	</game>
+	<game name="Maximum PC (2015-07)(Future Network)(US)">
+		<description>Maximum PC (2015-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-07)(Future Network)(US).pdf" size="28135017" crc="5fcccca0" md5="ef50ba072afdbeca3c6a4ebf1db32fe9" sha1="69b770200b35c1e037b1d525b15a6df263f8c5a4"/>
+	</game>
+	<game name="Maximum PC (2015-08)(Future Network)(US)">
+		<description>Maximum PC (2015-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-08)(Future Network)(US).pdf" size="31919151" crc="2dc80ae2" md5="f2edee510492e5fc7565cc2e3c6e322d" sha1="a698b14f346ab1c957f6d56f7f5fb02962d3dce0"/>
+	</game>
+	<game name="Maximum PC (2015-09)(Future Network)(US)">
+		<description>Maximum PC (2015-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-09)(Future Network)(US).pdf" size="33028101" crc="a5a1a4a8" md5="24b7f4dca2e661ea78c83f155b0fdec9" sha1="0950a2911e6f1e2f87e60b0aa20ba810f557dbb0"/>
+	</game>
+	<game name="Maximum PC (2015-10)(Future Network)(US)">
+		<description>Maximum PC (2015-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-10)(Future Network)(US).pdf" size="38240417" crc="82ca97e1" md5="9d76b06fdd7dab13ebbd856ae52d6e7b" sha1="5731a583bd7b09ec457c8add32b4aa5f4e156795"/>
+	</game>
+	<game name="Maximum PC (2015-11)(Future Network)(US)">
+		<description>Maximum PC (2015-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-11)(Future Network)(US).pdf" size="31645824" crc="8e956b7d" md5="92be4d017fcf2e2e8253a2f0807c6266" sha1="cb4baaccd51ab1d155f397a147d911466cd54e16"/>
+	</game>
+	<game name="Maximum PC (2015-12)(Future Network)(US)">
+		<description>Maximum PC (2015-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2015-12)(Future Network)(US).pdf" size="41913577" crc="3b5ebefd" md5="9ccdc121d4d6762c871899edb2cbc764" sha1="83afdcfa3b92e3e4db2243745ac65904454c792e"/>
+	</game>
+	<game name="Maximum PC (2016-01)(Future Network)(US)">
+		<description>Maximum PC (2016-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-01)(Future Network)(US).pdf" size="65867948" crc="5ea8b8c7" md5="0784188b774037cfaa9f43b666a7c8bb" sha1="709667ca2d49117b90bc64d501d4a28edfdf6b58"/>
+	</game>
+	<game name="Maximum PC (2016-02)(Future Network)(US)">
+		<description>Maximum PC (2016-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-02)(Future Network)(US).pdf" size="68081656" crc="126ff858" md5="31c0c8e686d3f7306289e9c5c7bf0223" sha1="38226eab956db98b47ebc4340b2be1bb7dace9d2"/>
+	</game>
+	<game name="Maximum PC (2016-03)(Future Network)(US)">
+		<description>Maximum PC (2016-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-03)(Future Network)(US).pdf" size="25149891" crc="3bf47539" md5="5fb6542d91e65335dba0c2aef9e8d3a1" sha1="49e39bb98bad6b4e6103c0fa465bc28b5e0f8ff8"/>
+	</game>
+	<game name="Maximum PC (2016-04)(Future Network)(US)">
+		<description>Maximum PC (2016-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-04)(Future Network)(US).pdf" size="38321373" crc="69b141d1" md5="9af24b54af25b42c88ed79fa02216591" sha1="62cd236da6293335cc97a605f916ff5ff31ec06e"/>
+	</game>
+	<game name="Maximum PC (2016-05)(Future Network)(US)">
+		<description>Maximum PC (2016-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-05)(Future Network)(US).pdf" size="35139929" crc="64899daa" md5="b4cdfcfbe3dc5118e5efc3d5ba80df32" sha1="98b04020001674012f26a764382d848c0bf7d572"/>
+	</game>
+	<game name="Maximum PC (2016-06)(Future Network)(US)">
+		<description>Maximum PC (2016-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-06)(Future Network)(US).pdf" size="26026467" crc="79e9aa4b" md5="cc2af5734a7e40e8c96403e3dac0ea75" sha1="a6def800d5a0e1dee017a279cac3a1313dccd0d7"/>
+	</game>
+	<game name="Maximum PC (2016-07)(Future Network)(US)">
+		<description>Maximum PC (2016-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-07)(Future Network)(US).pdf" size="35001762" crc="d65d6ce9" md5="87f6358f32ec4b24f8fd28c6bd5e371c" sha1="5a8c2806633c56cbca1dbae1c424699603696ed3"/>
+	</game>
+	<game name="Maximum PC (2016-08)(Future Network)(US)">
+		<description>Maximum PC (2016-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-08)(Future Network)(US).pdf" size="26275843" crc="812ca012" md5="6971d600746d7c0c8f639d10dfba2b03" sha1="20cf5d416e5aa1f4e15e3f3edb759063adab651f"/>
+	</game>
+	<game name="Maximum PC (2016-09)(Future Network)(US)">
+		<description>Maximum PC (2016-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-09)(Future Network)(US).pdf" size="24033409" crc="7d98802b" md5="d7da561b01a4bd8cb76a8a21400ba9f8" sha1="a0650cbf9697159f9014f670760be562243534e8"/>
+	</game>
+	<game name="Maximum PC (2016-10)(Future Network)(US)">
+		<description>Maximum PC (2016-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-10)(Future Network)(US).pdf" size="25361638" crc="f24f5ca3" md5="c32b17c005fb356070b07865a8386540" sha1="7ddba9941860210d2675cbe0817997f090c9c5f7"/>
+	</game>
+	<game name="Maximum PC (2016-11)(Future Network)(US)">
+		<description>Maximum PC (2016-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-11)(Future Network)(US).pdf" size="25919557" crc="099b8dc3" md5="4240bb1c9e566d33a0344462b92fe4f1" sha1="ae0a8ac234756b575d36b7766328105f9b35d6bd"/>
+	</game>
+	<game name="Maximum PC (2016-12)(Future Network)(US)">
+		<description>Maximum PC (2016-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2016-12)(Future Network)(US).pdf" size="28014292" crc="eaa663e0" md5="3886287a105332fda4625355ebe2cd96" sha1="f012d1de9eec79e1db00c41cfb901a54679d958c"/>
+	</game>
+	<game name="Maximum PC (2017-01)(Future Network)(US)">
+		<description>Maximum PC (2017-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-01)(Future Network)(US).pdf" size="75765337" crc="5116964e" md5="4c751e48bd191b3213e5e0a6c5fa5a8d" sha1="f462ab4c7c4dce80f664bc3de9a66c3a03555cb7"/>
+	</game>
+	<game name="Maximum PC (2017-02)(Future Network)(US)">
+		<description>Maximum PC (2017-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-02)(Future Network)(US).pdf" size="35473699" crc="c13d6917" md5="4b562f2ec00d6090b2d31137b8db1056" sha1="de31708881102cb57e01e3f47479163868cf4816"/>
+	</game>
+	<game name="Maximum PC (2017-03)(Future Network)(US)">
+		<description>Maximum PC (2017-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-03)(Future Network)(US).pdf" size="30649551" crc="3104aab2" md5="5888e06670d388f9b111d384156970a8" sha1="9cbfe3f6773b199ae6c13cca7b9736334e48ed74"/>
+	</game>
+	<game name="Maximum PC (2017-04)(Future Network)(US)">
+		<description>Maximum PC (2017-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-04)(Future Network)(US).pdf" size="33613099" crc="c83bb7e4" md5="90e52a949d48e7fe415ba3a7fe917958" sha1="0ad117e0d1421b2a9f2e09dbc4c155907784822b"/>
+	</game>
+	<game name="Maximum PC (2017-05)(Future Network)(US)">
+		<description>Maximum PC (2017-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-05)(Future Network)(US).pdf" size="35800262" crc="6f4e0727" md5="30dcda0f1e933745251985b201ea4641" sha1="b5db5c7cbdf44c2d94688594fa4b5e489304496f"/>
+	</game>
+	<game name="Maximum PC (2017-06)(Future Network)(US)">
+		<description>Maximum PC (2017-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-06)(Future Network)(US).pdf" size="23437324" crc="cfe3769e" md5="1f22473f1161915844ac015222121d62" sha1="2ff142104ec96a2e16b38f0d98c43f4906094668"/>
+	</game>
+	<game name="Maximum PC (2017-07)(Future Network)(US)">
+		<description>Maximum PC (2017-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-07)(Future Network)(US).pdf" size="24727378" crc="ab9f04e4" md5="0543734a22595a23580f1caf99550471" sha1="17d9500a4b7f8bc22e2c6a2b7b13148e3c782bc7"/>
+	</game>
+	<game name="Maximum PC (2017-08)(Future Network)(US)">
+		<description>Maximum PC (2017-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-08)(Future Network)(US).pdf" size="26173986" crc="da784814" md5="2f5b5b307e490a876e96d80debf79aa4" sha1="7159cd99db7f595bd081fe9a986172d84fb729e1"/>
+	</game>
+	<game name="Maximum PC (2017-09)(Future Network)(US)">
+		<description>Maximum PC (2017-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-09)(Future Network)(US).pdf" size="24798393" crc="2f35c2d5" md5="5a3fd3fc701cfea8e4b6a2f183aa44e1" sha1="4d0a05456116eb157ce521a23d3ecb3b340871b2"/>
+	</game>
+	<game name="Maximum PC (2017-10)(Future Network)(US)">
+		<description>Maximum PC (2017-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-10)(Future Network)(US).pdf" size="23145873" crc="8cb7c2c6" md5="c1ad5dfeaa4442022abce526a5466a54" sha1="2ebfa4d301841f01784c177e73437de94a4e7ae0"/>
+	</game>
+	<game name="Maximum PC (2017-11)(Future Network)(US)">
+		<description>Maximum PC (2017-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-11)(Future Network)(US).pdf" size="27611410" crc="94c7c376" md5="1d10cc661c709e26fbec445047979527" sha1="9af57ced00e848f9c0b34f81262416322d94b826"/>
+	</game>
+	<game name="Maximum PC (2017-12)(Future Network)(US)">
+		<description>Maximum PC (2017-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2017-12)(Future Network)(US).pdf" size="24550076" crc="7c1f9630" md5="7f17c55c9b24f2f126f58e827319bbf3" sha1="9c31f0a859ba41a91ff3a5be619227eef6b0e680"/>
+	</game>
+	<game name="Maximum PC (2018-01)(Future Network)(US)">
+		<description>Maximum PC (2018-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-01)(Future Network)(US).pdf" size="26150115" crc="75cadeca" md5="f248108ca6f1c19a7846468e6b2b079e" sha1="1bc23a0edd62db8eb893fdb33008b7b2ed94dd3c"/>
+	</game>
+	<game name="Maximum PC (2018-02)(Future Network)(US)">
+		<description>Maximum PC (2018-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-02)(Future Network)(US).pdf" size="18936959" crc="2c339211" md5="c005f6047cfc9cb269da136756eb89ac" sha1="0d8729b26be7663f0dd5b6c0e976e2a8e843768c"/>
+	</game>
+	<game name="Maximum PC (2018-03)(Future Network)(US)">
+		<description>Maximum PC (2018-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-03)(Future Network)(US).pdf" size="17942547" crc="e928d74a" md5="5e0f66f2ed547dfef0d6c220eb0d4246" sha1="0a79555c02c8219e9566476c4a5d195bb7e19b79"/>
+	</game>
+	<game name="Maximum PC (2018-04)(Future Network)(US)">
+		<description>Maximum PC (2018-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-04)(Future Network)(US).pdf" size="23881429" crc="93c06ce0" md5="109ff1f2e1f868403642d75e95796f91" sha1="f70923f7b8c5075f97593ec53d22e36fdcdca743"/>
+	</game>
+	<game name="Maximum PC (2018-05)(Future Network)(US)">
+		<description>Maximum PC (2018-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-05)(Future Network)(US).pdf" size="24413746" crc="e25fefa9" md5="de1ec8aef595cb0ffb201e9dacde4e75" sha1="38443d61d7ffe70e57de5a1090c4522732237fb8"/>
+	</game>
+	<game name="Maximum PC (2018-06)(Future Network)(US)">
+		<description>Maximum PC (2018-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-06)(Future Network)(US).pdf" size="53153923" crc="b59a9a4e" md5="086f607b2605238148503107a642b681" sha1="c4ff10de31b381bbd0d5e92b9c3433730bbd7224"/>
+	</game>
+	<game name="Maximum PC (2018-07)(Future Network)(US)">
+		<description>Maximum PC (2018-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-07)(Future Network)(US).pdf" size="12899254" crc="1a50985e" md5="a2ca36f89fab4a29b331fa2fc8bac55c" sha1="742b2c39a60a6305e2e9532110bcfdcf36448eda"/>
+	</game>
+	<game name="Maximum PC (2018-08)(Future Network)(US)">
+		<description>Maximum PC (2018-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-08)(Future Network)(US).pdf" size="38044670" crc="5b503472" md5="1ba892244774d7d1467d30b85f05a67a" sha1="9d5de68f4247d6ead0b63ad69741ed263c840470"/>
+	</game>
+	<game name="Maximum PC (2018-09)(Future Network)(US)">
+		<description>Maximum PC (2018-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-09)(Future Network)(US).pdf" size="39403768" crc="da027bce" md5="be78db3cbad6617baf904593540aed92" sha1="fd5f355a3c3502b410cd0118ca5e2dba5283ace9"/>
+	</game>
+	<game name="Maximum PC (2018-10)(Future Network)(US)">
+		<description>Maximum PC (2018-10)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-10)(Future Network)(US).pdf" size="39202642" crc="07f1a15e" md5="91547bbc9e429c5d7acd22d6f1cb21e2" sha1="625adb59cbd8c17b42df83091bc59661896937c2"/>
+	</game>
+	<game name="Maximum PC (2018-11)(Future Network)(US)">
+		<description>Maximum PC (2018-11)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-11)(Future Network)(US).pdf" size="39871318" crc="5a6b37c7" md5="fc9f8a756e8b04a6210626031beee748" sha1="c8edbcf866520249f580f450140293998183440b"/>
+	</game>
+	<game name="Maximum PC (2018-12)(Future Network)(US)">
+		<description>Maximum PC (2018-12)(Future Network)(US)</description>
+		<rom name="Maximum PC (2018-12)(Future Network)(US).pdf" size="11351935" crc="957d66f0" md5="8e35845e5463814282a8faca4e80dc9f" sha1="b2a2dccfa4634def3bb383df91ef6952337c85f8"/>
+	</game>
+	<game name="Maximum PC (2019-01)(Future Network)(US)">
+		<description>Maximum PC (2019-01)(Future Network)(US)</description>
+		<rom name="Maximum PC (2019-01)(Future Network)(US).pdf" size="70624480" crc="c45abd7c" md5="b7e7eedfd971c487c5229db29400bb3a" sha1="c26b1c5ac592b659d3c9230f4c23eeb4284fdd2d"/>
+	</game>
+	<game name="Maximum PC (2019-02)(Future Network)(US)">
+		<description>Maximum PC (2019-02)(Future Network)(US)</description>
+		<rom name="Maximum PC (2019-02)(Future Network)(US).pdf" size="71572148" crc="7945d3ae" md5="626ab3ef18754bde468cadbb80442086" sha1="40bbd5c89253976861a1da8fd8091d0ac08a76d9"/>
+	</game>
+	<game name="Maximum PC (2019-03)(Future Network)(US)">
+		<description>Maximum PC (2019-03)(Future Network)(US)</description>
+		<rom name="Maximum PC (2019-03)(Future Network)(US).pdf" size="70442813" crc="1aa4b17d" md5="be646bd67d416ba9998fe756dca33fe3" sha1="eebe3570abb8a43f293df59e5bd07653c5696563"/>
+	</game>
+	<game name="Maximum PC (2019-04)(Future Network)(US)">
+		<description>Maximum PC (2019-04)(Future Network)(US)</description>
+		<rom name="Maximum PC (2019-04)(Future Network)(US).pdf" size="66382873" crc="36b7e3d5" md5="fef9268a529bbb648894ebff3a953aa3" sha1="641bf29a5810f657077665756316dd7dfbe4bc0b"/>
+	</game>
+	<game name="Maximum PC (2019-05)(Future Network)(US)">
+		<description>Maximum PC (2019-05)(Future Network)(US)</description>
+		<rom name="Maximum PC (2019-05)(Future Network)(US).pdf" size="65757358" crc="7505a712" md5="57f0227de94e36eadb35a2987af4a9fe" sha1="1a64be66751856e88b7f7c295fc618e25b2eeb58"/>
+	</game>
+	<game name="Maximum PC (2019-06)(Future Network)(US)">
+		<description>Maximum PC (2019-06)(Future Network)(US)</description>
+		<rom name="Maximum PC (2019-06)(Future Network)(US).pdf" size="55149821" crc="ecf77ab3" md5="9765f43f06f2ecb682d1c2842aa426ff" sha1="c88d585477788be2099d016f80594191c9405209"/>
+	</game>
+	<game name="Maximum PC (2019-07)(Future Network)(US)">
+		<description>Maximum PC (2019-07)(Future Network)(US)</description>
+		<rom name="Maximum PC (2019-07)(Future Network)(US).pdf" size="62237135" crc="95a9d078" md5="9e6f9d360ea91d96866bfb42bf806716" sha1="e9d9fc0ca66dce30fb5fc926bf62a0875e22b5d6"/>
+	</game>
+	<game name="Maximum PC (2019-08)(Future Network)(US)">
+		<description>Maximum PC (2019-08)(Future Network)(US)</description>
+		<rom name="Maximum PC (2019-08)(Future Network)(US).pdf" size="56249724" crc="21a3924a" md5="4239c3a0dcb9b424ab7c9466cf15efb4" sha1="d77a0c8e3a24ae31c41da636ee387e85c8bd8ca8"/>
+	</game>
+	<game name="Maximum PC (2019-09)(Future Network)(US)">
+		<description>Maximum PC (2019-09)(Future Network)(US)</description>
+		<rom name="Maximum PC (2019-09)(Future Network)(US).pdf" size="110116854" crc="341116f4" md5="0cb367e0d4486e5f459a26e7cca2cb22" sha1="f5b418996c97f081688c64b2ec981a7d51a93cb6"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2005)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2005)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2005)(Future Network)(US).pdf" size="4102496" crc="d65966ce" md5="92c03fe61c9a194d5e19b1d425ecd96b" sha1="3ac5fb5b0643b739bcc3c4729d736883870ec312"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2006)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2006)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2006)(Future Network)(US).pdf" size="6287373" crc="3b78182d" md5="2a692adc342fd406135606437e40dede" sha1="ca2aa627fe1ce41b748b83e208c2d89104ca609b"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2007)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2007)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2007)(Future Network)(US).pdf" size="5790800" crc="e09a21cb" md5="bdd2fa844c368d7c980f5039706f794b" sha1="80b742ae2ba521fb0c07b3ffbf46a5a04362ae93"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2008)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2008)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2008)(Future Network)(US).pdf" size="8261236" crc="468b0b3f" md5="0d6042cc1c6ba11fb349685a428aea6a" sha1="e85b36fbace8e26d21f16301ec549fc848844114"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2009)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2009)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2009)(Future Network)(US).pdf" size="9808723" crc="15ab3252" md5="2e20027c291bc4ec8efa48dc2125e5f9" sha1="2efabb8ac3c0e7e3d13a5381eb79a4ecd61cd1e3"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2010)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2010)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2010)(Future Network)(US).pdf" size="108840954" crc="f43fe434" md5="f91030a60e9b81e87cda49ce82c664d3" sha1="d03c06e23fe3b04ed3038b4016bee07db653c796"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2011)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2011)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2011)(Future Network)(US).pdf" size="13799168" crc="8a0a6639" md5="962fe481494faf26db687a9e9ed14c0a" sha1="9c7cc13920ce38e538b97888ba3aae50e08b4844"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2012)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2012)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2012)(Future Network)(US).pdf" size="6576018" crc="3832bcdc" md5="bf6a90e9795c8796de86f88930070021" sha1="8c84744d2ef979c5fa258480feb6536d939c412a"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2013)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2013)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2013)(Future Network)(US).pdf" size="23163423" crc="89d96947" md5="8ab34f9e3219f960720bfece49638d51" sha1="448e3f843624bd429468bb0c377a17813b9546c6"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2014)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2014)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2014)(Future Network)(US).pdf" size="24794128" crc="f5b2672a" md5="3a3b983fe19fbdb47235bff91ee42c75" sha1="2d63dffccc45a4daa02fc020cad3d2d69ef15a94"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2015)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2015)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2015)(Future Network)(US).pdf" size="30955555" crc="9cf84c94" md5="64b9440180641dc06030a2c4645f3630" sha1="ab66d157e310c1c44f8f0fe949b9668c174f50ae"/>
+	</game>
+	<game name="Maximum PC - Holiday Edition (2016)(Future Network)(US)">
+		<description>Maximum PC - Holiday Edition (2016)(Future Network)(US)</description>
+		<rom name="Maximum PC - Holiday Edition (2016)(Future Network)(US).pdf" size="28095492" crc="35b942e0" md5="9cec4d3ef0ac81031e6a001da5dd62e8" sha1="86448528de18a3d4d7be4a4c54dbf6da45ea1ecc"/>
+	</game>
+	<game name="Maximum PC - Power User Handbook (2000)(Future Network)(US)">
+		<description>Maximum PC - Power User Handbook (2000)(Future Network)(US)</description>
+		<rom name="Maximum PC - Power User Handbook (2000)(Future Network)(US).pdf" size="25584109" crc="9ff9af42" md5="65acccc15ba268d55246fb6db0440486" sha1="05ccc8a61038dfe1da0940f6288d6abb3cb46b83"/>
+	</game>
+	<game name="Maximum PC Specials - Build it the Perfect PC (2013)(Future Network)(US)">
+		<description>Maximum PC Specials - Build it the Perfect PC (2013)(Future Network)(US)</description>
+		<rom name="Maximum PC Specials - Build it the Perfect PC (2013)(Future Network)(US).pdf" size="48146225" crc="1d0e4561" md5="e5f7c0b58aeb4293b79e5d9cfefd1ac8" sha1="e2689060b5264b7d2c03c59a9a1a8bbe08cfb6b4"/>
+	</game>
+	<game name="Maximum PC Specials - Essential Windows 8 Secrets &amp; Hacks (2013)(Future Network)(US)">
+		<description>Maximum PC Specials - Essential Windows 8 Secrets &amp; Hacks (2013)(Future Network)(US)</description>
+		<rom name="Maximum PC Specials - Essential Windows 8 Secrets &amp; Hacks (2013)(Future Network)(US).pdf" size="17371120" crc="3ce72607" md5="12cf2f5a5efc4415f9d845ef3950178f" sha1="db1ddc77cd5f124a1024daa8eb9309c824206543"/>
+	</game>
+	<game name="Maximum PC Specials - How-To Guide (2014)(Future Network)(US)">
+		<description>Maximum PC Specials - How-To Guide (2014)(Future Network)(US)</description>
+		<rom name="Maximum PC Specials - How-To Guide (2014)(Future Network)(US).pdf" size="23116138" crc="4f9033ec" md5="0a97cafa49751e1a7797130f44577891" sha1="bbfd139e90dc7055a751c6577aa3c7fba6fd43da"/>
+	</game>
+	<game name="Maximum PC Specials - How-To Guide (2015)(Future Network)(US)">
+		<description>Maximum PC Specials - How-To Guide (2015)(Future Network)(US)</description>
+		<rom name="Maximum PC Specials - How-To Guide (2015)(Future Network)(US).pdf" size="23403903" crc="445bb6cc" md5="209dfc5f4ac798d2fcec463bdda50251" sha1="5262a256ad7541defb3191fe8b76d3ca527033a7"/>
+	</game>
+	<game name="Maximum PC Specials - How-To Guide (2017)(Future Network)(US)">
+		<description>Maximum PC Specials - How-To Guide (2017)(Future Network)(US)</description>
+		<rom name="Maximum PC Specials - How-To Guide (2017)(Future Network)(US).pdf" size="17754897" crc="cdb575f0" md5="3c6acc17a368f407a07851ddd79e9d6f" sha1="4df701bbd05d51ba65c5d39a30c192386406ccba"/>
+	</game>
+	<game name="Maximum PC Specials - How-To Guide Vol.1 (2016)(Future Network)(US)">
+		<description>Maximum PC Specials - How-To Guide Vol.1 (2016)(Future Network)(US)</description>
+		<rom name="Maximum PC Specials - How-To Guide Vol.1 (2016)(Future Network)(US).pdf" size="21799705" crc="02442261" md5="5a20e7c3a6d9d5b7b1de004387dd37ec" sha1="37d6effdd2a9d6430dd96a61af9cc17f3749ef83"/>
+	</game>
+	<game name="Maximum PC Specials - How-To Guide Vol.2 (2016)(Future Network)(US)">
+		<description>Maximum PC Specials - How-To Guide Vol.2 (2016)(Future Network)(US)</description>
+		<rom name="Maximum PC Specials - How-To Guide Vol.2 (2016)(Future Network)(US).pdf" size="20684094" crc="db551601" md5="830390ff14f0801883071644248036e6" sha1="281504cf9951723908501f31d66df5aaec653e93"/>
+	</game>
+</datafile>

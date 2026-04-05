@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy - Magazines - Gameboy Magazyn (PL)</name>
+		<description>Nintendo Game Boy - Magazines - Gameboy Magazyn (PL) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Gameboy Magazyn - nr 1 (2001-01)(Independent Press)(PL)">
+		<description>Gameboy Magazyn - nr 1 (2001-01)(Independent Press)(PL)</description>
+		<rom name="Gameboy Magazyn - nr 1 (2001-01)(Independent Press)(PL).pdf" size="34070846" crc="b5ba0bdd" md5="dc25561cb16348b66ca743e4e318933e" sha1="617b3af222a3e5a5f0eba7eb9425301fca4bfe4b"/>
+	</game>
+	<game name="Gameboy Magazyn - nr 2 (2001-07)(Independent Press)(PL)">
+		<description>Gameboy Magazyn - nr 2 (2001-07)(Independent Press)(PL)</description>
+		<rom name="Gameboy Magazyn - nr 2 (2001-07)(Independent Press)(PL).pdf" size="33424590" crc="72f780f4" md5="15503c2641da6266cf999f18ff0a4972" sha1="656ceab088ccc1738e5b41cda3e7c3957dda2830"/>
+	</game>
+	<game name="Gameboy Magazyn - nr 3 (2001-12)(Independent Press)(PL)">
+		<description>Gameboy Magazyn - nr 3 (2001-12)(Independent Press)(PL)</description>
+		<rom name="Gameboy Magazyn - nr 3 (2001-12)(Independent Press)(PL).pdf" size="35497806" crc="f8ec59db" md5="edcd127c23a4879216713de11768edcf" sha1="6c68eb4b8a32e02bc446a6c76b6db31440845166"/>
+	</game>
+	<game name="Gameboy Magazyn - nr 4 (2002-03)(Independent Press)(PL)">
+		<description>Gameboy Magazyn - nr 4 (2002-03)(Independent Press)(PL)</description>
+		<rom name="Gameboy Magazyn - nr 4 (2002-03)(Independent Press)(PL).pdf" size="33975402" crc="2a984890" md5="3f10ddec93373f441cb8fc2e4fdfaaad" sha1="cdce320e7e9fb7a2db2f89e5cf73fdc97c681472"/>
+	</game>
+	<game name="Gameboy Magazyn - nr 5 (2002-04)(Independent Press)(PL)">
+		<description>Gameboy Magazyn - nr 5 (2002-04)(Independent Press)(PL)</description>
+		<rom name="Gameboy Magazyn - nr 5 (2002-04)(Independent Press)(PL).pdf" size="36573989" crc="c542d80e" md5="f97bf5fed971f978f5e5999a9d22dae0" sha1="8b804cec33398c9e843903b5a31070f6c9560a83"/>
+	</game>
+	<game name="Gameboy Magazyn - nr 6 (2002-11)(Independent Press)(PL)">
+		<description>Gameboy Magazyn - nr 6 (2002-11)(Independent Press)(PL)</description>
+		<rom name="Gameboy Magazyn - nr 6 (2002-11)(Independent Press)(PL).pdf" size="33940704" crc="4124e88f" md5="7277de6ab5eaa6b453385d6eb8d70e04" sha1="bb0c44c019ba3d658508827dc14da412b73469ce"/>
+	</game>
+	<game name="Gameboy Magazyn - nr 7 (2002-12)(Independent Press)(PL)">
+		<description>Gameboy Magazyn - nr 7 (2002-12)(Independent Press)(PL)</description>
+		<rom name="Gameboy Magazyn - nr 7 (2002-12)(Independent Press)(PL).pdf" size="34135800" crc="f802dbb3" md5="1cb135931f85fa7e20bd9e49aad78092" sha1="17715315e297fa4d82f3de354f81d3f34fe36478"/>
+	</game>
+	<game name="Gameboy Magazyn - nr 8 (2002-03)(Independent Press)(PL)">
+		<description>Gameboy Magazyn - nr 8 (2002-03)(Independent Press)(PL)</description>
+		<rom name="Gameboy Magazyn - nr 8 (2002-03)(Independent Press)(PL).pdf" size="32914343" crc="7c6034cc" md5="affbae80b8adaaba14c9e90a9dd552b0" sha1="8ac3eccb7b759481f4aba83e5eb06ce7593ff53f"/>
+	</game>
+</datafile>

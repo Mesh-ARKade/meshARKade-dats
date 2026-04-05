@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - nRevolution (GB)</name>
+		<description>Nintendo - Magazines - nRevolution (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="nRevolution - Issue 05 (2006)(Imagine Publishing)(GB)[christmas edition]">
+		<description>nRevolution - Issue 05 (2006)(Imagine Publishing)(GB)[christmas edition]</description>
+		<rom name="nRevolution - Issue 05 (2006)(Imagine Publishing)(GB)[christmas edition].pdf" size="288048430" crc="c5be09e7" md5="1da6f087bf8a2c21aa6c9b205454d97b" sha1="e4aa4030a3f8b62037c4e2e18cb5b4fc627abb5b"/>
+	</game>
+	<game name="nRevolution - Issue 06 (2007-01)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 06 (2007-01)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 06 (2007-01)(Imagine Publishing)(GB).pdf" size="288949821" crc="b48b46d3" md5="66af481806eeb8134f11095c33f3dabd" sha1="b3ecd6928196efaa4897c94a86d317e528afe47f"/>
+	</game>
+	<game name="nRevolution - Issue 07 (2007-02)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 07 (2007-02)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 07 (2007-02)(Imagine Publishing)(GB).pdf" size="279756068" crc="2443f97f" md5="3766ebf2532c25f980f627ca62f6dbf7" sha1="04253e7bcc030c078fee79b22c67bc6caa397927"/>
+	</game>
+	<game name="nRevolution - Issue 08 (2007-03)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 08 (2007-03)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 08 (2007-03)(Imagine Publishing)(GB).pdf" size="269947720" crc="edc56368" md5="ad929c262c86e23e2bae12e192ceac9f" sha1="b426b55123dea22867651c75682280ca6a321292"/>
+	</game>
+	<game name="nRevolution - Issue 09 (2007-04)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 09 (2007-04)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 09 (2007-04)(Imagine Publishing)(GB).pdf" size="375087822" crc="db7ffe5a" md5="27e9c6cba8aea5cd7c0616f60c0b9881" sha1="c16dca536011fa249aa383afe0fa1c2b25a5f01b"/>
+	</game>
+	<game name="nRevolution - Issue 10 (2007-05)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 10 (2007-05)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 10 (2007-05)(Imagine Publishing)(GB).pdf" size="382845139" crc="87916701" md5="0c991655bbfa245cd159bbf4c7718563" sha1="2fbd69b3cc71fbd5498b1d40b7659297c32d8a52"/>
+	</game>
+	<game name="nRevolution - Issue 11 (2007-06)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 11 (2007-06)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 11 (2007-06)(Imagine Publishing)(GB).pdf" size="287929189" crc="817c5a46" md5="b5df75991eba14a83e782c27b99bccc8" sha1="fb4ae9389e152238435d8059693283b9e8576840"/>
+	</game>
+	<game name="nRevolution - Issue 12 (2007-07)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 12 (2007-07)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 12 (2007-07)(Imagine Publishing)(GB).pdf" size="359814879" crc="501d94d4" md5="36cd6a35cb19fd7abbb4230eecb7665a" sha1="7f92df135dfc7fe861ef95eaefefe4b48f511ccd"/>
+	</game>
+	<game name="nRevolution - Issue 13 (2007-08)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 13 (2007-08)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 13 (2007-08)(Imagine Publishing)(GB).pdf" size="356003731" crc="5b584833" md5="6569750c5b8812d557ee96d68e6dcdd2" sha1="003132eed4167dc2b777f72381d58656ec6b89b4"/>
+	</game>
+	<game name="nRevolution - Issue 14 (2007-09)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 14 (2007-09)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 14 (2007-09)(Imagine Publishing)(GB).pdf" size="276406336" crc="a698a81a" md5="3dc4c8ead25c43934ce78358ec9348ae" sha1="596277a63ddb6a93404546f5536d51963e697c07"/>
+	</game>
+	<game name="nRevolution - Issue 15 (2007-10)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 15 (2007-10)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 15 (2007-10)(Imagine Publishing)(GB).pdf" size="357343327" crc="ccf3c7ad" md5="7fe0a9b3eb87cc36771f811b799ff9c7" sha1="a8a52babb0d4f29b8078fcdd7adbe653cd482dfc"/>
+	</game>
+	<game name="nRevolution - Issue 16 (2007-11)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 16 (2007-11)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 16 (2007-11)(Imagine Publishing)(GB).pdf" size="272999941" crc="af07fed2" md5="bc5998d7fa0bf9c5bd4df3f12e72d499" sha1="a94bb46fd364cac7e438c9e34a09c3dc777aa368"/>
+	</game>
+	<game name="nRevolution - Issue 17 (2007-12)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 17 (2007-12)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 17 (2007-12)(Imagine Publishing)(GB).pdf" size="273742286" crc="fab30e70" md5="739aa54d44d07ea93bcb7c594e016b2f" sha1="e2cd85d8e5dda68145632635a296c07fa6723ddc"/>
+	</game>
+	<game name="nRevolution - Issue 18 (2008-01)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 18 (2008-01)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 18 (2008-01)(Imagine Publishing)(GB).pdf" size="362265422" crc="0f422e9a" md5="0a48f8f2b4876e3688f1ce6cecb09378" sha1="f00d0e03506946d3b889aab6ef81f19d599097cd"/>
+	</game>
+	<game name="nRevolution - Issue 19 (2008-02)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 19 (2008-02)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 19 (2008-02)(Imagine Publishing)(GB).pdf" size="382325378" crc="6957a6df" md5="c8c8a80dbaf65827cb9230d19049c8d3" sha1="80bf1acd9670f2570eb671b3fe9380bcf7e3ab1e"/>
+	</game>
+	<game name="nRevolution - Issue 20 (2008-03)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 20 (2008-03)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 20 (2008-03)(Imagine Publishing)(GB).pdf" size="394059656" crc="dab30d27" md5="d3c14a519a3fe52e17db8dde2e38540e" sha1="bd989e5f2221ca39705715fd1a971ddbb4bef81f"/>
+	</game>
+	<game name="nRevolution - Issue 21 (2008-04)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 21 (2008-04)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 21 (2008-04)(Imagine Publishing)(GB).pdf" size="379954645" crc="f59f63a0" md5="2649612a7e65073cddf5db3a2654debd" sha1="007a8e68fd4b82cc87e58a7b4622a47e5df63c72"/>
+	</game>
+	<game name="nRevolution - Issue 23 (2008-06)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 23 (2008-06)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 23 (2008-06)(Imagine Publishing)(GB).pdf" size="341439191" crc="c364b69c" md5="eb1eb0efdc50d852d0d997deffda8b09" sha1="674eed24db26be7ad02bf35eca21e2826d147ac9"/>
+	</game>
+	<game name="nRevolution - Issue 24 (2008-07)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 24 (2008-07)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 24 (2008-07)(Imagine Publishing)(GB).pdf" size="338707631" crc="4529a84c" md5="0575d2394e792f0d02d24d88d2beb046" sha1="deb4fca6bf147b32a11b71b07ffcce09150b6cb4"/>
+	</game>
+	<game name="nRevolution - Issue 25 (2008-08)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 25 (2008-08)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 25 (2008-08)(Imagine Publishing)(GB).pdf" size="340746311" crc="ab09d8d9" md5="d963593d3ed779b97b94c3b6c12056d7" sha1="7c8685f41307dda389a7df7bd414d19b234747ee"/>
+	</game>
+	<game name="nRevolution - Issue 26 (2008-09)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 26 (2008-09)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 26 (2008-09)(Imagine Publishing)(GB).pdf" size="353904383" crc="a765097f" md5="6ff9ad3cd574e7ce9210b5c7ffeee41e" sha1="616d7f4b219613d4040332819990121064684c3f"/>
+	</game>
+	<game name="nRevolution - Issue 27 (2008-10)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 27 (2008-10)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 27 (2008-10)(Imagine Publishing)(GB).pdf" size="362440501" crc="82a2c845" md5="91828f24cb1166d3f541900498447175" sha1="1212e7f0b05b07d866a1a3109c6c5da9839872f0"/>
+	</game>
+	<game name="nRevolution - Issue 28 (2008-11)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 28 (2008-11)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 28 (2008-11)(Imagine Publishing)(GB).pdf" size="366997300" crc="7a026d2b" md5="750350949cffd40103c37d81128756a0" sha1="596b12754edf91eaecec4c6ec6d7d74f9fa1737f"/>
+	</game>
+	<game name="nRevolution - Issue 29 (2008-12)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 29 (2008-12)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 29 (2008-12)(Imagine Publishing)(GB).pdf" size="338303213" crc="e1419c8e" md5="1babe9acde044fea443ddbb4c1204943" sha1="447d0766c6f209546792ddba6b0de52c7772400e"/>
+	</game>
+	<game name="nRevolution - Issue 30 (2009-01)(Imagine Publishing)(GB)">
+		<description>nRevolution - Issue 30 (2009-01)(Imagine Publishing)(GB)</description>
+		<rom name="nRevolution - Issue 30 (2009-01)(Imagine Publishing)(GB).pdf" size="299018387" crc="205adb3a" md5="20d544cb095e10d59093391de703c503" sha1="d43730068f807510f165ee551c9d8d7c9a386a76"/>
+	</game>
+</datafile>

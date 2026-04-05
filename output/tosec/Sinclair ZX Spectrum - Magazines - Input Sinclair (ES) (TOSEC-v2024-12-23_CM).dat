@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - Input Sinclair (ES)</name>
+		<description>Sinclair ZX Spectrum - Magazines - Input Sinclair (ES) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Input Sinclair - Ano 1 N.01 (1985-09)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.01 (1985-09)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.01 (1985-09)(R.B.A.)(ES).pdf" size="17321942" crc="7dfb8b3b" md5="21042779cecaebd9cbcc44365312b040" sha1="24fdab87d0c9a5c3f5106778b2afcda42609e619"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.02 (1985-10)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.02 (1985-10)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.02 (1985-10)(R.B.A.)(ES).pdf" size="17920196" crc="ace0b715" md5="ffb5709a2a16c37575bc8a7c0982204e" sha1="572d35968b74b590818a7e1207b4b28849b09774"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.03 (1985-11)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.03 (1985-11)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.03 (1985-11)(R.B.A.)(ES).pdf" size="16773048" crc="ef31dd21" md5="6c03ccbd0479a4aed543590a334add1b" sha1="361ce7e380495aed185dc345a3331dc790d10fa7"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.04 (1985-12)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.04 (1985-12)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.04 (1985-12)(R.B.A.)(ES).pdf" size="18911408" crc="108d1e7a" md5="26763723b97360df9cfe489175f19a7a" sha1="e61baa611df431bc76a278d2f3cf5dc1bd28e26a"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.04 Suplemento Cuaderno de programas (1985-12)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.04 Suplemento Cuaderno de programas (1985-12)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.04 Suplemento Cuaderno de programas (1985-12)(R.B.A.)(ES).pdf" size="3541463" crc="daed5ac9" md5="725990f98601a7031502d55a818c8a39" sha1="038d579d62ed4c3650fa224aa8347ff890e79943"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.05 (1986-01)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.05 (1986-01)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.05 (1986-01)(R.B.A.)(ES).pdf" size="16909890" crc="b68da953" md5="25d41d7d6e335515c9c27ab37c2bc093" sha1="524dd76521b7009841d1a179dbd3906f479648dd"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.06 (1986-02)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.06 (1986-02)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.06 (1986-02)(R.B.A.)(ES).pdf" size="17526738" crc="9a283602" md5="0cb0e711dcff54963918b14cd7beba37" sha1="4bb2a079432287a3ee6a041a8bdaa88a8e1b1ea8"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.07 (1986-03)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.07 (1986-03)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.07 (1986-03)(R.B.A.)(ES).pdf" size="17547914" crc="09fe0181" md5="197fea7af98f50c57de51cb051f8b70e" sha1="07a9feb30f0c1b65a862a5622bfd9e62b5bc61bf"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.08 (1986-04)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.08 (1986-04)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.08 (1986-04)(R.B.A.)(ES).pdf" size="18100405" crc="6b8a5889" md5="5122e2e836463cc1011fbaa9faa37eda" sha1="1ce3efd8b36158d3cdadab907e5991d99099718e"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.09 (1986-05)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.09 (1986-05)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.09 (1986-05)(R.B.A.)(ES).pdf" size="17569199" crc="d20b31b2" md5="89a5e54ebe381c98aaeff4dc491385e4" sha1="8de0715c1f2ec910b3c0da865834383029c15ade"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.10 (1986-06)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.10 (1986-06)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.10 (1986-06)(R.B.A.)(ES).pdf" size="18661972" crc="3625cd50" md5="41cdf533d01ef7f813217738284f46f4" sha1="29434846b43c7a68486e628b8cda4d906c75bd76"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.11 (1986-07)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.11 (1986-07)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.11 (1986-07)(R.B.A.)(ES).pdf" size="17418768" crc="85274e10" md5="79ba8243f9cf20ef144ab348d99600a6" sha1="d20999dd1cd8511445642555dafd0152df916d9c"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.11 Especial VerAno 1986 (1986-07)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.11 Especial VerAno 1986 (1986-07)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.11 Especial VerAno 1986 (1986-07)(R.B.A.)(ES).pdf" size="17229490" crc="8a581cb3" md5="4c6f3dfbd72aa5d9415218b9b2d115b0" sha1="f31ab35a3ce63c468d4a6dfa99763d6f3946808e"/>
+	</game>
+	<game name="Input Sinclair - Ano 1 N.12 (1986-09)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 1 N.12 (1986-09)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 1 N.12 (1986-09)(R.B.A.)(ES).pdf" size="17798693" crc="9f260a13" md5="3d692ea0f18911c409dca3493ffc120c" sha1="cbb01adf7abf3f41242586ea626997db43c6d60c"/>
+	</game>
+	<game name="Input Sinclair - Ano 2 N.13 (1986-10)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 2 N.13 (1986-10)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 2 N.13 (1986-10)(R.B.A.)(ES).pdf" size="17867642" crc="5a2950dd" md5="8bbf1bc7f700317797f470725ad27a16" sha1="9aa3973c1d033b447164d252b434c5c83e998290"/>
+	</game>
+	<game name="Input Sinclair - Ano 2 N.14 (1986-11)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 2 N.14 (1986-11)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 2 N.14 (1986-11)(R.B.A.)(ES).pdf" size="17828988" crc="59634350" md5="c8f96d9231e1197f4fc81136ab30b9e2" sha1="9c39732fa00a634672b7c15a02321965aa21aa03"/>
+	</game>
+	<game name="Input Sinclair - Ano 2 N.15 (1986-12)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 2 N.15 (1986-12)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 2 N.15 (1986-12)(R.B.A.)(ES).pdf" size="17324673" crc="89ee31e8" md5="73a8f093dd0c506075cc49ce6d7628e5" sha1="bd03e6242d3ef23240ab516c5e4e830776438d6e"/>
+	</game>
+	<game name="Input Sinclair - Ano 2 N.16 (1987-02)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 2 N.16 (1987-02)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 2 N.16 (1987-02)(R.B.A.)(ES).pdf" size="17744667" crc="a4fdad7e" md5="14c631c8a0c93ffcb4a41dc6bb14f448" sha1="1054a4d374e6fe408567b3120a65b7c21803eb14"/>
+	</game>
+	<game name="Input Sinclair - Ano 2 N.17 (1987-03)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 2 N.17 (1987-03)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 2 N.17 (1987-03)(R.B.A.)(ES).pdf" size="11403831" crc="0300ba50" md5="c96edd65038c6a67b8e19270954c109b" sha1="ec679978ddef97182fd2117affcc79f138110184"/>
+	</game>
+	<game name="Input Sinclair - Ano 2 N.18 (1987-03)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 2 N.18 (1987-03)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 2 N.18 (1987-03)(R.B.A.)(ES).pdf" size="19517991" crc="a7e6e1c1" md5="b41665036a0fac33e783afe3f8fd030e" sha1="a0bac3aecdea9c6645e1a90e933c53fdd33ad774"/>
+	</game>
+	<game name="Input Sinclair - Ano 2 N.19 (1987-04)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 2 N.19 (1987-04)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 2 N.19 (1987-04)(R.B.A.)(ES).pdf" size="19854323" crc="d2d03513" md5="a7ade819060ed5c4e77c43a557e2d8bd" sha1="f600fef588e6b5932f85d10a7555071af153eb13"/>
+	</game>
+	<game name="Input Sinclair - Ano 2 N.20 (1987-05)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 2 N.20 (1987-05)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 2 N.20 (1987-05)(R.B.A.)(ES).pdf" size="19438561" crc="fc9c7668" md5="c9ab8d93d64015bea9fa8d95c7090206" sha1="d2c4687ed1382de1a1ae60e7002a987a87e86d6a"/>
+	</game>
+	<game name="Input Sinclair - Ano 2 N.21 (1987-06)(R.B.A.)(ES)">
+		<description>Input Sinclair - Ano 2 N.21 (1987-06)(R.B.A.)(ES)</description>
+		<rom name="Input Sinclair - Ano 2 N.21 (1987-06)(R.B.A.)(ES).pdf" size="18977290" crc="536bde16" md5="5f2ac2131dd251d7f357aa3cd43a4f5f" sha1="7bce4bfea9ffdc3f66886a5655f8fb0de2bbc3f2"/>
+	</game>
+</datafile>

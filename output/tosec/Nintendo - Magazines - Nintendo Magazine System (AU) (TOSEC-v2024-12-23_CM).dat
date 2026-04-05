@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Nintendo Magazine System (AU)</name>
+		<description>Nintendo - Magazines - Nintendo Magazine System (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Magazine System - #01 (1993-04)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #01 (1993-04)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #01 (1993-04)(Trielle)(AU).pdf" size="196435419" crc="3be18b9f" md5="92666013863f2bf1ad4561d8a9f5a3ba" sha1="47272dc967d04711be08e5ef4c369525f0763fbd"/>
+	</game>
+	<game name="Nintendo Magazine System - #02 (1993-05)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #02 (1993-05)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #02 (1993-05)(Trielle)(AU).pdf" size="206009769" crc="ddcec58b" md5="bda203cbd98d7eddaff8ded0e9d7accc" sha1="23e2c2ae15e2229fcbdb931dbd8a629a1df39dbb"/>
+	</game>
+	<game name="Nintendo Magazine System - #03 (1993-06)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #03 (1993-06)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #03 (1993-06)(Trielle)(AU).pdf" size="211190160" crc="d020e24f" md5="bb92310c338aa4ae973a1644f1632b7d" sha1="9de889fa49df40204d982dc55b75e252cd888ab9"/>
+	</game>
+	<game name="Nintendo Magazine System - #04 (1993-07)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #04 (1993-07)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #04 (1993-07)(Trielle)(AU).pdf" size="191270263" crc="fcd32884" md5="07ef8114464f00db75b582ab545ee039" sha1="d9fa199d62fe26b380a309f2a741608fd6f8990e"/>
+	</game>
+	<game name="Nintendo Magazine System - #05 (1993-08)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #05 (1993-08)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #05 (1993-08)(Trielle)(AU).pdf" size="104282447" crc="b73a1f14" md5="00ea98a1848181ce2b47d36a77cdda39" sha1="938557087e39e49d7b3607e0fd71e3c88bf71e51"/>
+	</game>
+	<game name="Nintendo Magazine System - #06 (1993-09)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #06 (1993-09)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #06 (1993-09)(Trielle)(AU).pdf" size="227893621" crc="fb1d175e" md5="55ba8ac8837643a0a7f60ab119bf619b" sha1="293f76e6d5ac7d9dd66c54800b194c0add651f33"/>
+	</game>
+	<game name="Nintendo Magazine System - #07 (1993-10)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #07 (1993-10)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #07 (1993-10)(Trielle)(AU).pdf" size="187298027" crc="bbd68bca" md5="70e91e509e4edbbf6efed6321c3290c3" sha1="a0befa5bcdebe58e16235b11595467d5c3817c45"/>
+	</game>
+	<game name="Nintendo Magazine System - #08 (1993-11)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #08 (1993-11)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #08 (1993-11)(Trielle)(AU).pdf" size="226027348" crc="f5600101" md5="3e50391eef7da8c54c967620bd1a4a30" sha1="64de0328208b0871bfa79ea83250405aefd4445d"/>
+	</game>
+	<game name="Nintendo Magazine System - #09 (1993-12)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #09 (1993-12)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #09 (1993-12)(Trielle)(AU).pdf" size="227681474" crc="bccdabba" md5="558d5adba4af3d0a9b4cba1a9c30d0c5" sha1="893efc1ca91b0801ff8bda1468510d5bfd3ccfec"/>
+	</game>
+	<game name="Nintendo Magazine System - #10 (1994-01)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #10 (1994-01)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #10 (1994-01)(Trielle)(AU).pdf" size="236543265" crc="fb7ba460" md5="d5eefff6f23bd290c58ec6490799a3b2" sha1="bdd8315c98e2fe258423b5b21708088efec44051"/>
+	</game>
+	<game name="Nintendo Magazine System - #11 (1994-02)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #11 (1994-02)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #11 (1994-02)(Trielle)(AU).pdf" size="111008476" crc="3f4162dd" md5="8e6b1673505cb6859dedbce233262048" sha1="84066504be3175f3011e73947837f58541bb1f26"/>
+	</game>
+	<game name="Nintendo Magazine System - #13 (1994-04)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #13 (1994-04)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #13 (1994-04)(Trielle)(AU).pdf" size="231717934" crc="ae2f26dd" md5="634bff6d2bd2724d78bd885c92a83b97" sha1="df441b6330e03c0874132ab2fbc337fb3637cad8"/>
+	</game>
+	<game name="Nintendo Magazine System - #17 (1994-08)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #17 (1994-08)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #17 (1994-08)(Trielle)(AU).pdf" size="229800002" crc="e6c94a2e" md5="9632f522f5fa45f9d06dffea8190f950" sha1="1d2a12ecbddb04e84b57929909f7c7c69c849998"/>
+	</game>
+	<game name="Nintendo Magazine System - #19 (1994-10)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #19 (1994-10)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #19 (1994-10)(Trielle)(AU).pdf" size="221231994" crc="98db488b" md5="c0bee126ee7044e03241efc2a6351e7e" sha1="f3e2ea4fdc8615ed45bc1760348b837748f66d50"/>
+	</game>
+	<game name="Nintendo Magazine System - #23 (1995-02)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #23 (1995-02)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #23 (1995-02)(Trielle)(AU).pdf" size="212977649" crc="e7e4b27c" md5="cad58e0e243aa84a5c60cb1c1d4d2e01" sha1="2412ca95aea1f0c0a2eb4b3e2357edfa0014395d"/>
+	</game>
+	<game name="Nintendo Magazine System - #24 (1995-03)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #24 (1995-03)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #24 (1995-03)(Trielle)(AU).pdf" size="220121507" crc="ccea5541" md5="0f8d0237ab320670168073a6d9718d3f" sha1="458ca03ef294084025d70700fdc219e4e24cf58f"/>
+	</game>
+	<game name="Nintendo Magazine System - #25 (1995-04)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #25 (1995-04)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #25 (1995-04)(Trielle)(AU).pdf" size="210692790" crc="f7c938aa" md5="a3d00ea4da9d31063d0da9c4d7467f23" sha1="0532b0831eb6b784345b7b0c5c33552d10a67653"/>
+	</game>
+	<game name="Nintendo Magazine System - #26 (1995-05)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #26 (1995-05)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #26 (1995-05)(Trielle)(AU).pdf" size="215064659" crc="d94e6316" md5="229d7b1bf1c75355602898fcc8e88366" sha1="4716ea2ce0ae6550933635236071171c8cb58af1"/>
+	</game>
+	<game name="Nintendo Magazine System - #28 (1995-07)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #28 (1995-07)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #28 (1995-07)(Trielle)(AU).pdf" size="215296662" crc="deaf8f2e" md5="58dda2e4f762906b17af482266752feb" sha1="560181faef3f80b3790f926d970e3de86b211ebe"/>
+	</game>
+	<game name="Nintendo Magazine System - #29 (1995-08)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #29 (1995-08)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #29 (1995-08)(Trielle)(AU).pdf" size="227901116" crc="b05a84bb" md5="9df5147b83c48744559d28dc3b9b93d4" sha1="3bdbcec1e27a1c10f7cc6d11e008cd5dc3084661"/>
+	</game>
+	<game name="Nintendo Magazine System - #30 (1995-09)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #30 (1995-09)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #30 (1995-09)(Trielle)(AU).pdf" size="221828510" crc="ad46e439" md5="a842b7fc3a56bc90321d56e64fa3c4ec" sha1="906378c19ca0325d86707aea9a448df9e8069630"/>
+	</game>
+	<game name="Nintendo Magazine System - #31 (1995-10)(Trielle)(AU)">
+		<description>Nintendo Magazine System - #31 (1995-10)(Trielle)(AU)</description>
+		<rom name="Nintendo Magazine System - #31 (1995-10)(Trielle)(AU).pdf" size="180201064" crc="f244fc77" md5="364c6f2134cd022f0f0825d93afa372b" sha1="a323f477abefa45b8532deb96e79ee6cf3e101de"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #33 (1995-12)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #33 (1995-12)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #33 (1995-12)(Catalyst Publishing)(AU).pdf" size="126752403" crc="b68baa0f" md5="f472147e8a0fa9cd0d17f35d2212510d" sha1="bdd9fe8ea92ad1d04b73c9927eac0bfc0bd139bb"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #36 (1996-03)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #36 (1996-03)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #36 (1996-03)(Catalyst Publishing)(AU).pdf" size="300241049" crc="2424b481" md5="ffd65f812aa62d3f1a44275849aab4aa" sha1="9f19ad8c58a11e4b2bebb2464abf01c0738c41e1"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #37 (1996-04)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #37 (1996-04)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #37 (1996-04)(Catalyst Publishing)(AU).pdf" size="159230684" crc="5b28969a" md5="f168733d5d68b4ed50d5b4d1ba3b1c6f" sha1="b270a37f2f03ae09ca3aa5edda373a741d617393"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #38 (1996-05)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #38 (1996-05)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #38 (1996-05)(Catalyst Publishing)(AU).pdf" size="198516684" crc="5252ba2f" md5="ed5eeefd53ea8dcfda058f8f7548a58d" sha1="7dda9717322fc75a3c5bdc8677646c394b4d9dbf"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #39 (1996-06)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #39 (1996-06)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #39 (1996-06)(Catalyst Publishing)(AU).pdf" size="207886367" crc="d743d661" md5="016101b3ccb2ccd2975fff35e0e4616c" sha1="aa3ef1ae93edaaae7c5733b72a483626b0d77db0"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #40 (1996-07)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #40 (1996-07)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #40 (1996-07)(Catalyst Publishing)(AU).pdf" size="205789234" crc="6651cf9d" md5="2eb8959497c2d7a8166062d951bfe382" sha1="13f287b0ed3bdf42d7523ac119f779805367c8ef"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #43 (1996-10)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #43 (1996-10)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #43 (1996-10)(Catalyst Publishing)(AU).pdf" size="222946316" crc="3e100953" md5="d998f89786d0bacf46d1b54ee5ceed32" sha1="f4432dce374d59818d3dd46d0f13d7ecc6347de8"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #44 (1996-11)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #44 (1996-11)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #44 (1996-11)(Catalyst Publishing)(AU).pdf" size="213568903" crc="bbf583d1" md5="17c1d1d8d72b5d8ac9320d6fd50af348" sha1="c1645525ff9863b1fea85ee3a8b7d84395eb9c9b"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #45 (1996-12)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #45 (1996-12)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #45 (1996-12)(Catalyst Publishing)(AU).pdf" size="146754656" crc="c164d05b" md5="51a643afcff2b5b71da6cbd9a289cc7a" sha1="d4b96cd56f667ea67044f06bbabceab346c46674"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #46 (1997-01)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #46 (1997-01)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #46 (1997-01)(Catalyst Publishing)(AU).pdf" size="149650706" crc="42c4804a" md5="bee0adf72c3c55e6fe51890ef37a6e60" sha1="d1c25331cf2cdac7761681eb68b127140b8d6aaf"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #47 (1997-02)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #47 (1997-02)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #47 (1997-02)(Catalyst Publishing)(AU).pdf" size="144160636" crc="e675f4b5" md5="30020593b04febc1eaa0bf66163fabb4" sha1="295caee37b5f925635256e3dd09db31a9fd01eda"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #48 (1997-03)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #48 (1997-03)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #48 (1997-03)(Catalyst Publishing)(AU).pdf" size="142076182" crc="1f5a9bef" md5="1027c32ffc7cac07d413a55faad1f3a1" sha1="7279d1078ade5273b09c87d67b4dfceebbe2dd29"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #49 (1997-04)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #49 (1997-04)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #49 (1997-04)(Catalyst Publishing)(AU).pdf" size="150481569" crc="a0874fba" md5="af4ac503931f41109cc3e315c0919569" sha1="ecc59af97af00710379b21732c563e0a4fcd12c7"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #50 (1997-05)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #50 (1997-05)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #50 (1997-05)(Catalyst Publishing)(AU).pdf" size="164232432" crc="ec7bd47c" md5="e5127b058b5c72366f12e2192a1db939" sha1="9dabac1e4ecb19ddcd01fd5e2a7830f97ec6677a"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #51 (1997-06)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #51 (1997-06)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #51 (1997-06)(Catalyst Publishing)(AU).pdf" size="186044115" crc="d148e206" md5="711d687e11c75e37f05276ae78304c91" sha1="9e1110509372a997090dd8fea0951a3b9bd379b0"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #53 (1997-08)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #53 (1997-08)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #53 (1997-08)(Catalyst Publishing)(AU).pdf" size="199643847" crc="0b18fd4b" md5="185068a69b3d99b0d24b26da3128bd04" sha1="084b59d8ebf922a1a82b9fff1475add7acbe1fc0"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #54 (1997-09)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #54 (1997-09)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #54 (1997-09)(Catalyst Publishing)(AU).pdf" size="246325516" crc="b90cf96f" md5="0b30c7b2db18905bbea3e96a42e4d3cb" sha1="3ad217d5a15c87c21cccffc24ef020fc0d9dd242"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #56 (1997-11)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #56 (1997-11)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #56 (1997-11)(Catalyst Publishing)(AU).pdf" size="247103445" crc="2dcf1fc3" md5="de54b57344cf37f89463959f50f0ae0a" sha1="140398dee2fe2f6c34216bc20ed461718c2e2caa"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #59 (1998-02)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #59 (1998-02)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #59 (1998-02)(Catalyst Publishing)(AU).pdf" size="273467462" crc="050d92dc" md5="96cb06c940a9b8d210a71456af446277" sha1="8500c748a4c193900a4f2d3be5fc6ef509ff02d9"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #60 (1998-03)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #60 (1998-03)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #60 (1998-03)(Catalyst Publishing)(AU).pdf" size="190107613" crc="3455d120" md5="28112af1870379457a31d1f88e229a2e" sha1="d95c7b00215cc28bac979c00c907026c1dfdebb9"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #61 (1998-04)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #61 (1998-04)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #61 (1998-04)(Catalyst Publishing)(AU).pdf" size="230567033" crc="14328942" md5="23fdf440994866db2610ead4bf22f0a4" sha1="54441dcb61e899d679991e3997d0d1a803557e8d"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #62 (1998-05)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #62 (1998-05)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #62 (1998-05)(Catalyst Publishing)(AU).pdf" size="269496367" crc="0db1da76" md5="336e72fd732d4b89bc0728f7e0e3b1a9" sha1="366e8970e4ffb5b17456b28afb6edfe132de6efe"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #63 (1998-06)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #63 (1998-06)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #63 (1998-06)(Catalyst Publishing)(AU).pdf" size="270243302" crc="10a93722" md5="ef33502dd4671d6bfe1ee0c1601b4d60" sha1="b7c5b8203bb4e4dea1054e839ee5d265c52918b8"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #64 (1998-07)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #64 (1998-07)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #64 (1998-07)(Catalyst Publishing)(AU).pdf" size="250112109" crc="4e12c398" md5="47d2771003e7c896b3bd1ba6713cfd43" sha1="6fb63b237aa32b8f15572cc496fa5b61855c9515"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #65 (1998-08)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #65 (1998-08)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #65 (1998-08)(Catalyst Publishing)(AU).pdf" size="275303273" crc="2ce1dd1c" md5="c737f560f7f7245a5ad4778b7f0d01ee" sha1="cefe1ff5da4df739c6549c3088aa721c9f20e341"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #66 (1998-09)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #66 (1998-09)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #66 (1998-09)(Catalyst Publishing)(AU).pdf" size="268356684" crc="0fd6570d" md5="18439cd3b689090b47fac7dd1bb71d04" sha1="6b672ff4108f986e0b5435d298a77020628c8ada"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #67 (1998-10)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #67 (1998-10)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #67 (1998-10)(Catalyst Publishing)(AU).pdf" size="270499989" crc="adce060d" md5="718b86ea373b0dd9299ec230ac97863a" sha1="ccd6c7448688c2f077a4dc65f257326a6ea00f3a"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #68 (1998-11)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #68 (1998-11)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #68 (1998-11)(Catalyst Publishing)(AU).pdf" size="273592386" crc="dc36c3b0" md5="98ee96515d668eff0e0a5f308c10e03e" sha1="5b729c6366d0bbf48081c90abd9d1eb8febe46c1"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #69 (1998-12)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #69 (1998-12)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #69 (1998-12)(Catalyst Publishing)(AU).pdf" size="295711498" crc="680de6df" md5="b8bc14aa1d24a69cb9d3579c0ff27246" sha1="445fb78c18ac96b6a308ff33a4ce5a07663dbe02"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #70 (1999-01)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #70 (1999-01)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #70 (1999-01)(Catalyst Publishing)(AU).pdf" size="237817435" crc="4b9b36a3" md5="bbf2d522e73fa6d0478d9e971b3d6f7c" sha1="c888dbacc7d76b088046b8c7a6046e217e339b58"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #71 (1999-02)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #71 (1999-02)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #71 (1999-02)(Catalyst Publishing)(AU).pdf" size="300909124" crc="7dfafc74" md5="e8197e5668d77a57502e5ef4bb4b7deb" sha1="e6ca79f54b3345e0e11af04dc67ca551e115cfab"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #72 (1999-03)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #72 (1999-03)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #72 (1999-03)(Catalyst Publishing)(AU).pdf" size="254389581" crc="9b43e144" md5="04419f623a9c688e06b0a28b7d6dece6" sha1="24a6857f729ecc79148ba09c3690963a9f1adac3"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #73 (1999-04)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #73 (1999-04)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #73 (1999-04)(Catalyst Publishing)(AU).pdf" size="321051059" crc="4a4107ff" md5="6c9eac0eb3299a6d4649ef266c79a87c" sha1="46f38f0ed89051d03594291405d4ebe493d165d7"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #74 (1999-05)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #74 (1999-05)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #74 (1999-05)(Catalyst Publishing)(AU).pdf" size="275844664" crc="c168093e" md5="1f069616e7f30c296d0fbb1727a5fcef" sha1="a0c2accc86399f4e70ab34746841a8c63d3d9025"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #75 (1999-06)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #75 (1999-06)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #75 (1999-06)(Catalyst Publishing)(AU).pdf" size="318146310" crc="b2e304b1" md5="d7079ebc20c3e221f3c15ffd1b878c19" sha1="58eb649bb7f1c6b2029c268e224344742a9102da"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #76 (1999-07)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #76 (1999-07)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #76 (1999-07)(Catalyst Publishing)(AU).pdf" size="311211063" crc="0adac798" md5="e2de9885b32fe39dafd5525506d2f8bf" sha1="f663943871d8dc495f580af54283c406cc7ce926"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #82 (2000-01)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #82 (2000-01)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #82 (2000-01)(Catalyst Publishing)(AU).pdf" size="336930431" crc="43d0ea98" md5="0398131a09c6f3a21add075b6326ca70" sha1="955e620253b57f969d7943a083602603014edfef"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #83 (2000-02)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #83 (2000-02)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #83 (2000-02)(Catalyst Publishing)(AU).pdf" size="313772849" crc="d8d62d71" md5="aa403cdbcd09132d97914f871fb11c3c" sha1="65679e683dc2fd14f7f31d4041d41d1fecdcd995"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #85 (2000-04)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #85 (2000-04)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #85 (2000-04)(Catalyst Publishing)(AU).pdf" size="307939077" crc="0d3b8d64" md5="8bc0834e35d4bdddabbc587bf33b15ae" sha1="7196905b36fec06e2703a9dbfba4c62ce32e4fd5"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #87 (2000-06)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #87 (2000-06)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #87 (2000-06)(Catalyst Publishing)(AU).pdf" size="297412017" crc="136c62a2" md5="ccafbaeead755efc7c87069c0d2f5365" sha1="ed8172b1d06d663d2e57bd827dc294524564ae97"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #88 (2000-07)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #88 (2000-07)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #88 (2000-07)(Catalyst Publishing)(AU).pdf" size="292076349" crc="d616ac33" md5="6b2c681953a1bf3a5b14effe6c650af2" sha1="d0bbb0f278e757211341c78fdc1913c030ddc653"/>
+	</game>
+	<game name="Nintendo Magazine System - Issue #89 (2000-08)(Catalyst Publishing)(AU)">
+		<description>Nintendo Magazine System - Issue #89 (2000-08)(Catalyst Publishing)(AU)</description>
+		<rom name="Nintendo Magazine System - Issue #89 (2000-08)(Catalyst Publishing)(AU).pdf" size="318376095" crc="5d177574" md5="2bd6e9048930e14d9daf3f02745f9375" sha1="7646e8b6acea6c87dcd89607e5d5e3140b65d394"/>
+	</game>
+</datafile>

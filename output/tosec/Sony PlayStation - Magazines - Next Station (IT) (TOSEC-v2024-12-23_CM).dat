@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Next Station (IT)</name>
+		<description>Sony PlayStation - Magazines - Next Station (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Next Station - Anno 2 N.00 (2000-02)(Panini)(IT)">
+		<description>Next Station - Anno 2 N.00 (2000-02)(Panini)(IT)</description>
+		<rom name="Next Station - Anno 2 N.00 (2000-02)(Panini)(IT).pdf" size="474696069" crc="36153682" md5="69d2c8d3b3552f2ddc374441fc759a52" sha1="67d41e63dd0991367cce15846c61bef6b204045e"/>
+	</game>
+</datafile>

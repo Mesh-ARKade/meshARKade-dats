@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - MSX and Spectravideo Computer Forum (AU)</name>
+		<description>Multi-format - Magazines - MSX and Spectravideo Computer Forum (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MSX and Spectravideo Computer Forum - Vol 01 No 01 (1986)(Forrest Data Services)(AU)">
+		<description>MSX and Spectravideo Computer Forum - Vol 01 No 01 (1986)(Forrest Data Services)(AU)</description>
+		<rom name="MSX and Spectravideo Computer Forum - Vol 01 No 01 (1986)(Forrest Data Services)(AU).pdf" size="6146006" crc="6b90582b" md5="e81ea909c9d13e0b39b297657a857570" sha1="a94b5bf08dec66b4aa54abfe4e7b6e8ba37375d9"/>
+	</game>
+</datafile>

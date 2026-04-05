@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - Sinclair Dossier (IT)</name>
+		<description>Sinclair ZX Spectrum - Magazines - Sinclair Dossier (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sinclair Dossier - N.1 (1984-12)(Edizioni CO.STA)(IT)">
+		<description>Sinclair Dossier - N.1 (1984-12)(Edizioni CO.STA)(IT)</description>
+		<rom name="Sinclair Dossier - N.1 (1984-12)(Edizioni CO.STA)(IT).pdf" size="37320587" crc="667f3517" md5="f963378c5eb2d365a5c792a066abbe6f" sha1="aca0b94ca60939f5024c92f67f5235dde4806893"/>
+	</game>
+</datafile>

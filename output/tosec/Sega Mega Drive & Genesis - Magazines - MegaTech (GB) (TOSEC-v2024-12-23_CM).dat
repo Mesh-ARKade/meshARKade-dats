@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega Drive &amp; Genesis - Magazines - MegaTech (GB)</name>
+		<description>Sega Mega Drive &amp; Genesis - Magazines - MegaTech (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MegaTech - Issue 01 (1991)(EMAP Images)(GB)[xmas edition]">
+		<description>MegaTech - Issue 01 (1991)(EMAP Images)(GB)[xmas edition]</description>
+		<rom name="MegaTech - Issue 01 (1991)(EMAP Images)(GB)[xmas edition].pdf" size="188926134" crc="623209cc" md5="511dbc91ddd38f886ae8c6728691165e" sha1="319a15f576cf47c53e382848f3a66268d0b9ae4e"/>
+	</game>
+	<game name="MegaTech - Issue 02 (1992-02)(EMAP Images)(GB)">
+		<description>MegaTech - Issue 02 (1992-02)(EMAP Images)(GB)</description>
+		<rom name="MegaTech - Issue 02 (1992-02)(EMAP Images)(GB).pdf" size="213920259" crc="92ca5b2e" md5="86b768690aeb9e8a6211af2e77e13a2f" sha1="f3c6f582633e86d4bc43b98892460d6d6cbb5601"/>
+	</game>
+	<game name="MegaTech - Issue 03 (1992-03)(EMAP Images)(GB)">
+		<description>MegaTech - Issue 03 (1992-03)(EMAP Images)(GB)</description>
+		<rom name="MegaTech - Issue 03 (1992-03)(EMAP Images)(GB).pdf" size="209006268" crc="ccae1079" md5="5b5183e8461c3d1ffbf5d3d57a8a0436" sha1="85d4bbee5537875be8bf18aef06c090627262e41"/>
+	</game>
+</datafile>

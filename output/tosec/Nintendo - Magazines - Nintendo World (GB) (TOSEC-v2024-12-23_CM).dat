@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Nintendo World (GB)</name>
+		<description>Nintendo - Magazines - Nintendo World (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo World - Issue 01 (1999-07)(Future Publishing)(GB)">
+		<description>Nintendo World - Issue 01 (1999-07)(Future Publishing)(GB)</description>
+		<rom name="Nintendo World - Issue 01 (1999-07)(Future Publishing)(GB).pdf" size="273909248" crc="f7620627" md5="05eb6c7d2e5002716884b9a519271022" sha1="3fc29fc449fc0109a9ac6a3ed8f307c6777069bd"/>
+	</game>
+	<game name="Nintendo World - Issue 02 (1999-08)(Future Publishing)(GB)">
+		<description>Nintendo World - Issue 02 (1999-08)(Future Publishing)(GB)</description>
+		<rom name="Nintendo World - Issue 02 (1999-08)(Future Publishing)(GB).pdf" size="237395153" crc="d61a25ab" md5="0e89ceb6cc19b9cbf40c51253cb036e6" sha1="54a7bd3524c5b5b32470240fb6a8b81ebf7d5967"/>
+	</game>
+	<game name="Nintendo World - Issue 03 (1999-09)(Future Publishing)(GB)">
+		<description>Nintendo World - Issue 03 (1999-09)(Future Publishing)(GB)</description>
+		<rom name="Nintendo World - Issue 03 (1999-09)(Future Publishing)(GB).pdf" size="238110338" crc="d4342306" md5="6485a603c1e87bd6b3a4e0679b1b5a95" sha1="d6e90b144a1b595ae3f30ecec9fa9d5c964e37a0"/>
+	</game>
+	<game name="Nintendo World - Issue 04 (1999-10)(Future Publishing)(GB)">
+		<description>Nintendo World - Issue 04 (1999-10)(Future Publishing)(GB)</description>
+		<rom name="Nintendo World - Issue 04 (1999-10)(Future Publishing)(GB).pdf" size="139223905" crc="43ce92bf" md5="62ce444483635d665968b6da8dbcb6f2" sha1="6da44862049168a5abcc082e43088cc956069d26"/>
+	</game>
+	<game name="Nintendo World - Issue 05 (1999-11)(Future Publishing)(GB)">
+		<description>Nintendo World - Issue 05 (1999-11)(Future Publishing)(GB)</description>
+		<rom name="Nintendo World - Issue 05 (1999-11)(Future Publishing)(GB).pdf" size="192120155" crc="3e4b4937" md5="be38e487f85b3ea64a6682d11ffea78f" sha1="73538965c3e0a52abe4ae3d23a35aab00b094a46"/>
+	</game>
+	<game name="Nintendo World - Issue 06 (1999-12)(Future Publishing)(GB)">
+		<description>Nintendo World - Issue 06 (1999-12)(Future Publishing)(GB)</description>
+		<rom name="Nintendo World - Issue 06 (1999-12)(Future Publishing)(GB).pdf" size="254286607" crc="1fc04f6b" md5="e1dbf62317f7341fae9fd484693f48cb" sha1="223b1ac1cb8787d08b83b3efaa3b30abb5a4acd0"/>
+	</game>
+	<game name="Nintendo World - Issue 07 (1999)(Future Publishing)(GB)[christmas special]">
+		<description>Nintendo World - Issue 07 (1999)(Future Publishing)(GB)[christmas special]</description>
+		<rom name="Nintendo World - Issue 07 (1999)(Future Publishing)(GB)[christmas special].pdf" size="238950072" crc="9c4bc429" md5="3b429872a815766720a26de930c93943" sha1="c64f9c3d542756726f1f154ae27f618bccb2085a"/>
+	</game>
+	<game name="Nintendo World - Issue 08 (2000-01)(Future Publishing)(GB)">
+		<description>Nintendo World - Issue 08 (2000-01)(Future Publishing)(GB)</description>
+		<rom name="Nintendo World - Issue 08 (2000-01)(Future Publishing)(GB).pdf" size="158027389" crc="84bc1f13" md5="b5f7ed78a2efb1ef70439ab84b1a1af7" sha1="b2c62d1a1eab9d4ab4e41a160410de82f1420127"/>
+	</game>
+</datafile>

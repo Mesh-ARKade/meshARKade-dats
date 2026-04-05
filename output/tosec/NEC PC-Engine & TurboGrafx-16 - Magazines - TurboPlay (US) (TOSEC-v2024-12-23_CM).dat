@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine &amp; TurboGrafx-16 - Magazines - TurboPlay (US)</name>
+		<description>NEC PC-Engine &amp; TurboGrafx-16 - Magazines - TurboPlay (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="DuoWorld - Volume IV Issue 1 (1993-07)(LFP)(US)">
+		<description>DuoWorld - Volume IV Issue 1 (1993-07)(LFP)(US)</description>
+		<rom name="DuoWorld - Volume IV Issue 1 (1993-07)(LFP)(US).pdf" size="18472401" crc="9f6df7c8" md5="67c46f8626b05fa0d03966a834210b8c" sha1="3ace3a3267fe2f4cbeccad9fbf0428866c2b6eec"/>
+	</game>
+	<game name="DuoWorld - Volume IV Issue 2 (1993-09)(LFP)(US)">
+		<description>DuoWorld - Volume IV Issue 2 (1993-09)(LFP)(US)</description>
+		<rom name="DuoWorld - Volume IV Issue 2 (1993-09)(LFP)(US).pdf" size="8120376" crc="8fcc1859" md5="e0eb90eaf483bb95713fc97a7ce4797a" sha1="6f2fd30fb0044c6cc8999e632bff1e3e6361c1d5"/>
+	</game>
+	<game name="DuoWorld - Volume V Issue 3 (1993-11)(LFP)(US)">
+		<description>DuoWorld - Volume V Issue 3 (1993-11)(LFP)(US)</description>
+		<rom name="DuoWorld - Volume V Issue 3 (1993-11)(LFP)(US).pdf" size="7847179" crc="adb6edaf" md5="4161f7071771ae1227d4bd0944987d69" sha1="943d08708c433acd460fb668e76ac4f548e6624f"/>
+	</game>
+	<game name="TurboPlay - Volume I Issue 1 (1990-07)(LFP)(US)">
+		<description>TurboPlay - Volume I Issue 1 (1990-07)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume I Issue 1 (1990-07)(LFP)(US).pdf" size="15354506" crc="3d893e54" md5="bd0a2ff40cf0bf2e04e33deb85c6a426" sha1="5b67d48c3af463fd2147d8fc455f16846c920f25"/>
+	</game>
+	<game name="TurboPlay - Volume I Issue 4 (1991-01)(LFP)(US)">
+		<description>TurboPlay - Volume I Issue 4 (1991-01)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume I Issue 4 (1991-01)(LFP)(US).pdf" size="17886687" crc="0a6dafad" md5="0913c33321f312c4b5e2e791e1db5d55" sha1="59e9fae9c412acc4adad5d60629a702f70a936c8"/>
+	</game>
+	<game name="TurboPlay - Volume II Issue 1 (1991-03)(LFP)(US)">
+		<description>TurboPlay - Volume II Issue 1 (1991-03)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume II Issue 1 (1991-03)(LFP)(US).pdf" size="17101472" crc="9fee6d6e" md5="b8c35f0e74345bbfd4aff7c18530c60b" sha1="bb6519587d93e0c11b6d0739a9151dc6415bf67b"/>
+	</game>
+	<game name="TurboPlay - Volume II Issue 2 (1991-05)(LFP)(US)">
+		<description>TurboPlay - Volume II Issue 2 (1991-05)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume II Issue 2 (1991-05)(LFP)(US).pdf" size="17292758" crc="c0528819" md5="0625cb6c8818bdda7693378951d35d44" sha1="bd1e8ded604e49ed00aaadb4f04a0c6d215def00"/>
+	</game>
+	<game name="TurboPlay - Volume II Issue 3 (1991-07)(LFP)(US)">
+		<description>TurboPlay - Volume II Issue 3 (1991-07)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume II Issue 3 (1991-07)(LFP)(US).pdf" size="16079428" crc="ca184ba8" md5="b74a88c538d89f8ee250bbce9413f468" sha1="193f757e7d2e2917161b8898fd7caac98884a1da"/>
+	</game>
+	<game name="TurboPlay - Volume II Issue 4 (1991-09)(LFP)(US)">
+		<description>TurboPlay - Volume II Issue 4 (1991-09)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume II Issue 4 (1991-09)(LFP)(US).pdf" size="15800009" crc="b402edb0" md5="72b7ffc37dc52dd10d39904b214d3aee" sha1="374d13318877958a1e201f29301258b20f4b7690"/>
+	</game>
+	<game name="TurboPlay - Volume II Issue 5 (1991-11)(LFP)(US)">
+		<description>TurboPlay - Volume II Issue 5 (1991-11)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume II Issue 5 (1991-11)(LFP)(US).pdf" size="19724238" crc="85af00fc" md5="f6844b3580f65cae7f56b5079d7ecb90" sha1="7b06669e7a4e0233ade3c070f422efb07c8f0182"/>
+	</game>
+	<game name="TurboPlay - Volume II Issue 6 (1992-01)(LFP)(US)">
+		<description>TurboPlay - Volume II Issue 6 (1992-01)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume II Issue 6 (1992-01)(LFP)(US).pdf" size="15144459" crc="6c2493d7" md5="2fd26c102e4be59d350f5dd4cdaee0bc" sha1="7ba4d651b1feb9202b7fc4e1592bd6f0c23f3443"/>
+	</game>
+	<game name="TurboPlay - Volume III Issue 1 (1992-03)(LFP)(US)">
+		<description>TurboPlay - Volume III Issue 1 (1992-03)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume III Issue 1 (1992-03)(LFP)(US).pdf" size="15750402" crc="1dd42a90" md5="aab168cdcd9eae6ac1db09e5e9662300" sha1="9ebccf5ef09acb3dbff05000a678f4508ee4530a"/>
+	</game>
+	<game name="TurboPlay - Volume III Issue 2 (1992-05)(LFP)(US)">
+		<description>TurboPlay - Volume III Issue 2 (1992-05)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume III Issue 2 (1992-05)(LFP)(US).pdf" size="18066616" crc="809ec342" md5="9b742fd96adf42635312f3cdf5addf27" sha1="9e873827bf9ec80b7727e3cc1711581c14332c4b"/>
+	</game>
+	<game name="TurboPlay - Volume III Issue 3 (1992-07)(LFP)(US)">
+		<description>TurboPlay - Volume III Issue 3 (1992-07)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume III Issue 3 (1992-07)(LFP)(US).pdf" size="16594927" crc="6de1002f" md5="879924a219c79c4adfaf39ff72dd3119" sha1="0caf7a8377655b53ddd8fc9978a174729a83a1f0"/>
+	</game>
+	<game name="TurboPlay - Volume III Issue 4 (1992-09)(LFP)(US)">
+		<description>TurboPlay - Volume III Issue 4 (1992-09)(LFP)(US)</description>
+		<rom name="TurboPlay - Volume III Issue 4 (1992-09)(LFP)(US).pdf" size="16732613" crc="00d35caf" md5="748193ca1d60e190b4c726dc68d08b8d" sha1="df4ff3c8a9f81314da7b1b203c19fde02d68c1da"/>
+	</game>
+</datafile>

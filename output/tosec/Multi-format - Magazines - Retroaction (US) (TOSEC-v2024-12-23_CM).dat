@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Retroaction (US)</name>
+		<description>Multi-format - Magazines - Retroaction (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Retroaction - issue 1 (2009)(Retroaction)(US)">
+		<description>Retroaction - issue 1 (2009)(Retroaction)(US)</description>
+		<rom name="Retroaction - issue 1 (2009)(Retroaction)(US).pdf" size="21625232" crc="1f32f5eb" md5="9443862feee269ea3bc7a192bc1cbd45" sha1="46489517dd3c90b4359422c0430f0e0d7abdf8bb"/>
+	</game>
+	<game name="Retroaction - issue 2 (2009)(Retroaction)(US)">
+		<description>Retroaction - issue 2 (2009)(Retroaction)(US)</description>
+		<rom name="Retroaction - issue 2 (2009)(Retroaction)(US).pdf" size="22580996" crc="0e63f876" md5="44c40761f3bd613ad3962ea929fcfa69" sha1="191fcf4b22ed1eb2cb7742d5379479634f3b19c7"/>
+	</game>
+	<game name="Retroaction - issue 3 (2009)(Retroaction)(US)">
+		<description>Retroaction - issue 3 (2009)(Retroaction)(US)</description>
+		<rom name="Retroaction - issue 3 (2009)(Retroaction)(US).pdf" size="26704664" crc="967e718a" md5="88fb2b30993e799d7f127c481482fa6f" sha1="4d4b1813e326a367d11a72a8a183826920d71ad7"/>
+	</game>
+	<game name="Retroaction - issue 4 (2010)(Retroaction)(US)">
+		<description>Retroaction - issue 4 (2010)(Retroaction)(US)</description>
+		<rom name="Retroaction - issue 4 (2010)(Retroaction)(US).pdf" size="14404345" crc="56900f16" md5="2fec778697e936f2c5809e8bbe685a77" sha1="94f5e5eaf365e767425be864cd6d14d1f1fc10bd"/>
+	</game>
+</datafile>

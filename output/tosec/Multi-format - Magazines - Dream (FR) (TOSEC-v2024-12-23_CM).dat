@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Dream (FR)</name>
+		<description>Multi-format - Magazines - Dream (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amiga Dream - N.01 (1993-11)(Posse Press)(FR)">
+		<description>Amiga Dream - N.01 (1993-11)(Posse Press)(FR)</description>
+		<rom name="Amiga Dream - N.01 (1993-11)(Posse Press)(FR).pdf" size="27502068" crc="18380460" md5="f6a71453f92dc4d059585271d5fe4dbb" sha1="30374c356e7233680c5e8fc9c97bc9cf4299c2c3"/>
+	</game>
+	<game name="Amiga Dream - N.02 (1993-12)(Posse Press)(FR)">
+		<description>Amiga Dream - N.02 (1993-12)(Posse Press)(FR)</description>
+		<rom name="Amiga Dream - N.02 (1993-12)(Posse Press)(FR).pdf" size="32145366" crc="0faa8c34" md5="816960b51f9ef537916bef33ad01180d" sha1="749be4faf702533727447dc55e577c877bab4496"/>
+	</game>
+	<game name="Amiga Dream - N.03 (1994-01)(Posse Press)(FR)">
+		<description>Amiga Dream - N.03 (1994-01)(Posse Press)(FR)</description>
+		<rom name="Amiga Dream - N.03 (1994-01)(Posse Press)(FR).pdf" size="31227358" crc="1a515f69" md5="33875b91dfbfc4acd9f09ee7e761f974" sha1="c39b0e7d8329866cefecb662fdf57f13196d20c9"/>
+	</game>
+	<game name="Amiga Dream - N.04 (1994-02)(Posse Press)(FR)">
+		<description>Amiga Dream - N.04 (1994-02)(Posse Press)(FR)</description>
+		<rom name="Amiga Dream - N.04 (1994-02)(Posse Press)(FR).pdf" size="38357913" crc="1a37a5aa" md5="8eb7f2b1e6528f4704f1030647aa30cf" sha1="bfddb76d168894b7e1ea2d6abe92f565fc461de7"/>
+	</game>
+	<game name="Amiga Dream - N.05 (1994-03)(Posse Press)(FR)">
+		<description>Amiga Dream - N.05 (1994-03)(Posse Press)(FR)</description>
+		<rom name="Amiga Dream - N.05 (1994-03)(Posse Press)(FR).pdf" size="38449020" crc="e01fb5ca" md5="4858c55e61014f83fddb31ae572fbfd6" sha1="2b9f82bcc4790a8f9391e495b1445d0cf8997a12"/>
+	</game>
+	<game name="Amiga Dream - N.06 (1994-04)(Posse Press)(FR)">
+		<description>Amiga Dream - N.06 (1994-04)(Posse Press)(FR)</description>
+		<rom name="Amiga Dream - N.06 (1994-04)(Posse Press)(FR).pdf" size="49189613" crc="9a23a436" md5="3f0070aa9eb1d68a1a8cb0202b70920e" sha1="fd4840121418ed280e42437a6f1eba9a79349953"/>
+	</game>
+	<game name="Amiga Dream - N.07 (1994-05)(Posse Press)(FR)">
+		<description>Amiga Dream - N.07 (1994-05)(Posse Press)(FR)</description>
+		<rom name="Amiga Dream - N.07 (1994-05)(Posse Press)(FR).pdf" size="46572951" crc="bb3bf87e" md5="eeec3ab9501ab382b3f7cbdd14909a72" sha1="686156308f17021019eeedbb7abe1c528359b3ec"/>
+	</game>
+	<game name="Amiga Dream - N.08 (1994-06)(Posse Press)(FR)">
+		<description>Amiga Dream - N.08 (1994-06)(Posse Press)(FR)</description>
+		<rom name="Amiga Dream - N.08 (1994-06)(Posse Press)(FR).pdf" size="36799252" crc="d2d51cdf" md5="1d84807b19487009d0d06bd29a84b310" sha1="71f9a6679e185cc308d4bd808a08416ceba7d92b"/>
+	</game>
+	<game name="Amiga Dream-FI (1994-06)(Posse Press)(FR)[Supplement N.08]">
+		<description>Amiga Dream-FI (1994-06)(Posse Press)(FR)[Supplement N.08]</description>
+		<rom name="Amiga Dream-FI (1994-06)(Posse Press)(FR)[Supplement N.08].pdf" size="5944742" crc="825f521e" md5="d03ae154fcabfea9fb70a664e0004cce" sha1="6ef07f99954965ee3730284eafb89ec322f23891"/>
+	</game>
+	<game name="Dream - N.09 (1994-08)(Posse Press)(FR)">
+		<description>Dream - N.09 (1994-08)(Posse Press)(FR)</description>
+		<rom name="Dream - N.09 (1994-08)(Posse Press)(FR).pdf" size="58625836" crc="e5a2b68c" md5="476565c47adcbd2c2b5e07cdbebd0394" sha1="c963707a2f824a5c6c2aaa6caceb9f12ba0b8c61"/>
+	</game>
+	<game name="Dream - N.10 (1994-09)(Posse Press)(FR)">
+		<description>Dream - N.10 (1994-09)(Posse Press)(FR)</description>
+		<rom name="Dream - N.10 (1994-09)(Posse Press)(FR).pdf" size="66650522" crc="344298cb" md5="cb4ee9a07d22d96a90f3b6ce5518b3b8" sha1="ea8383c75fbeb1148092135d64605b7410be2cf2"/>
+	</game>
+	<game name="Dream - N.11 (1994-10)(Posse Press)(FR)">
+		<description>Dream - N.11 (1994-10)(Posse Press)(FR)</description>
+		<rom name="Dream - N.11 (1994-10)(Posse Press)(FR).pdf" size="36457682" crc="64c728e1" md5="367e191f177abe13e4bc8abe12df13e1" sha1="d3785a1081fe7861f817c6ddea40215f654c1912"/>
+	</game>
+	<game name="Dream - N.12 (1994-11)(Posse Press)(FR)">
+		<description>Dream - N.12 (1994-11)(Posse Press)(FR)</description>
+		<rom name="Dream - N.12 (1994-11)(Posse Press)(FR).pdf" size="37321552" crc="5cbebddd" md5="8cb8bad51ede8912d54c1ea0f142343c" sha1="9681092b0fd911237d0544cde10e4bbc9aafe33e"/>
+	</game>
+	<game name="Dream - N.13 (1994-12)(Posse Press)(FR)">
+		<description>Dream - N.13 (1994-12)(Posse Press)(FR)</description>
+		<rom name="Dream - N.13 (1994-12)(Posse Press)(FR).pdf" size="75533619" crc="911f14b7" md5="253164ef6515bb27993c07b799bd2d9a" sha1="de3c1d18b77d7c5cf1923af04833f7046548d954"/>
+	</game>
+	<game name="Dream - N.14 (1995-01)(Posse Press)(FR)">
+		<description>Dream - N.14 (1995-01)(Posse Press)(FR)</description>
+		<rom name="Dream - N.14 (1995-01)(Posse Press)(FR).pdf" size="65887482" crc="21895935" md5="f3d08b811ace47a87f64e95a11810187" sha1="ffa1d61e741794f405bec45006e488c0f79238e3"/>
+	</game>
+	<game name="Dream - N.15 (1995-02)(Posse Press)(FR)">
+		<description>Dream - N.15 (1995-02)(Posse Press)(FR)</description>
+		<rom name="Dream - N.15 (1995-02)(Posse Press)(FR).pdf" size="69487871" crc="36e6f8a4" md5="8d3fcf181177ecd2769c74da58fbf347" sha1="e5d578d925a2474956402cb98d37de8e4a8c9676"/>
+	</game>
+	<game name="Dream - N.16 (1995-03)(Posse Press)(FR)">
+		<description>Dream - N.16 (1995-03)(Posse Press)(FR)</description>
+		<rom name="Dream - N.16 (1995-03)(Posse Press)(FR).pdf" size="57121950" crc="c76340b5" md5="1a5a5812b86ca244bb7a6605c16bb840" sha1="d7cc00c52a5fb585658171abf852ea2d746f75d9"/>
+	</game>
+	<game name="Dream - N.18 (1995-05)(Posse Press)(FR)">
+		<description>Dream - N.18 (1995-05)(Posse Press)(FR)</description>
+		<rom name="Dream - N.18 (1995-05)(Posse Press)(FR).pdf" size="64898528" crc="d540a4ae" md5="87fb40f5887611755125d31da8c43fbc" sha1="51ea01f0ff368164ba762dba0e54e277a0bb7eb4"/>
+	</game>
+	<game name="Dream - N.19 (1995-06)(Posse Press)(FR)">
+		<description>Dream - N.19 (1995-06)(Posse Press)(FR)</description>
+		<rom name="Dream - N.19 (1995-06)(Posse Press)(FR).pdf" size="60359633" crc="e50fc18f" md5="983c4b8b844617f8e596eae16ff3d780" sha1="014ab9bc4c0170550a7d13609d454d7b1cc039ae"/>
+	</game>
+	<game name="Dream - N.20 (1995-07-08)(Posse Press)(FR)">
+		<description>Dream - N.20 (1995-07-08)(Posse Press)(FR)</description>
+		<rom name="Dream - N.20 (1995-07-08)(Posse Press)(FR).pdf" size="61583629" crc="9fd24b0c" md5="d130df5cbeb020ee1a4b8eb9149c3ac5" sha1="2c1b862fa0e3b428c38761d31939b769829186e6"/>
+	</game>
+	<game name="Dream - N.21 (1995-09)(Posse Press)(FR)">
+		<description>Dream - N.21 (1995-09)(Posse Press)(FR)</description>
+		<rom name="Dream - N.21 (1995-09)(Posse Press)(FR).pdf" size="61696238" crc="db894073" md5="7cec7b103bf11bf6f13930b9f8a43f02" sha1="c62fad6c722895d09d2f6eb05185fd24735d298a"/>
+	</game>
+	<game name="Dream - N.22 (1995-10)(Posse Press)(FR)">
+		<description>Dream - N.22 (1995-10)(Posse Press)(FR)</description>
+		<rom name="Dream - N.22 (1995-10)(Posse Press)(FR).pdf" size="57629478" crc="98b459ad" md5="bac4bd06629987e7db728f9f71f47c42" sha1="4ddf989196262a62d8820f03b742283270a56cff"/>
+	</game>
+	<game name="Dream - N.23 (1995-11)(Posse Press)(FR)">
+		<description>Dream - N.23 (1995-11)(Posse Press)(FR)</description>
+		<rom name="Dream - N.23 (1995-11)(Posse Press)(FR).pdf" size="57942258" crc="ccded8cb" md5="2ef2eb0cf56fe23f40465b381d4d0f6f" sha1="69ad984935d6a6c25fa499b65e5ec832df175401"/>
+	</game>
+	<game name="Dream - N.24 (1995-12)(Posse Press)(FR)">
+		<description>Dream - N.24 (1995-12)(Posse Press)(FR)</description>
+		<rom name="Dream - N.24 (1995-12)(Posse Press)(FR).pdf" size="62149486" crc="dfe9aab3" md5="0d74e44015e702c17e2344fcce8f8db5" sha1="c758a6ece7d9cfb48d9b2f4554e904491c31e475"/>
+	</game>
+	<game name="Dream - N.25 (1996-01)(Posse Press)(FR)">
+		<description>Dream - N.25 (1996-01)(Posse Press)(FR)</description>
+		<rom name="Dream - N.25 (1996-01)(Posse Press)(FR).pdf" size="60653097" crc="4670edb4" md5="b20799a450a9c3301b5fe76647e7e46e" sha1="d8284c3ae8cf76c5e5d8c1aefc58f596420d29d9"/>
+	</game>
+	<game name="Dream - N.26 (1996-02)(Posse Press)(FR)">
+		<description>Dream - N.26 (1996-02)(Posse Press)(FR)</description>
+		<rom name="Dream - N.26 (1996-02)(Posse Press)(FR).pdf" size="57025860" crc="313b9b4d" md5="e20d65e2a10587ccc76541781644eca1" sha1="5d743a0ba60b786cedb5f2a3e1d9f67fa5128224"/>
+	</game>
+	<game name="Dream - N.27 (1996-03)(Posse Press)(FR)">
+		<description>Dream - N.27 (1996-03)(Posse Press)(FR)</description>
+		<rom name="Dream - N.27 (1996-03)(Posse Press)(FR).pdf" size="56985180" crc="a0b73cff" md5="ca02d239fabe0ccb016ff9f319e48e59" sha1="165a0c37f017601bcfdda1f3ca156b918610b0cd"/>
+	</game>
+	<game name="Dream - N.28 (1996-04)(Posse Press)(FR)">
+		<description>Dream - N.28 (1996-04)(Posse Press)(FR)</description>
+		<rom name="Dream - N.28 (1996-04)(Posse Press)(FR).pdf" size="59355078" crc="6ad90ee2" md5="4d54034e59b70e00cdb15cb731d88cc4" sha1="0980204e3169215fca9b192157134ae4ddae4155"/>
+	</game>
+	<game name="Dream - N.29 (1996-05)(Posse Press)(FR)">
+		<description>Dream - N.29 (1996-05)(Posse Press)(FR)</description>
+		<rom name="Dream - N.29 (1996-05)(Posse Press)(FR).pdf" size="69820551" crc="2584806a" md5="1d2616693fa6c55b755dfd3db843f20e" sha1="a9e3cb24e9b316e2670cd3b026df274cfe40f178"/>
+	</game>
+	<game name="Dream - N.30 (1996-06)(Posse Press)(FR)">
+		<description>Dream - N.30 (1996-06)(Posse Press)(FR)</description>
+		<rom name="Dream - N.30 (1996-06)(Posse Press)(FR).pdf" size="58733229" crc="7a21ea2b" md5="79dad2c708c1796c4d44c2efbcb4ff37" sha1="0e31f689cd80924424f86b37903a3f90d988f588"/>
+	</game>
+	<game name="Dream - N.31 (1996-07-08)(Posse Press)(FR)">
+		<description>Dream - N.31 (1996-07-08)(Posse Press)(FR)</description>
+		<rom name="Dream - N.31 (1996-07-08)(Posse Press)(FR).pdf" size="59574569" crc="3c4a8578" md5="483c811bb1266fed3af11d20901ef47e" sha1="9e78deae8a5529f4cf49e54b1625ac1ab9008bd2"/>
+	</game>
+	<game name="Dream - N.32 (1996-09)(Posse Press)(FR)">
+		<description>Dream - N.32 (1996-09)(Posse Press)(FR)</description>
+		<rom name="Dream - N.32 (1996-09)(Posse Press)(FR).pdf" size="50385593" crc="65b0f6af" md5="7320ad46401b4c0dbb227535e63fbd8d" sha1="eb03387d501e8db8d6632b8bcd2dedd7642fa5dd"/>
+	</game>
+	<game name="Dream - N.33 (1996-10)(Posse Press)(FR)">
+		<description>Dream - N.33 (1996-10)(Posse Press)(FR)</description>
+		<rom name="Dream - N.33 (1996-10)(Posse Press)(FR).pdf" size="48278593" crc="b8425d77" md5="0570ac6906b3b27c7b931380eb9948c4" sha1="d6def79e177739da400f86c0460a841a71835680"/>
+	</game>
+	<game name="Dream - N.34 (1996-11)(Posse Press)(FR)">
+		<description>Dream - N.34 (1996-11)(Posse Press)(FR)</description>
+		<rom name="Dream - N.34 (1996-11)(Posse Press)(FR).pdf" size="46299765" crc="ede36162" md5="756a963df72d431658594748dadd1470" sha1="d8deb1d2e877a960ba906a8297aef8c952296daf"/>
+	</game>
+	<game name="Dream - N.35 (1996-12)(Posse Press)(FR)">
+		<description>Dream - N.35 (1996-12)(Posse Press)(FR)</description>
+		<rom name="Dream - N.35 (1996-12)(Posse Press)(FR).pdf" size="46335328" crc="4fa53663" md5="340aebf745e9e1ebe4c57ed00b6a0b6a" sha1="2fe57c7c33925154ef0ee165f722100a0f36c3ec"/>
+	</game>
+	<game name="Dream - N.36 (1997-01)(Posse Press)(FR)">
+		<description>Dream - N.36 (1997-01)(Posse Press)(FR)</description>
+		<rom name="Dream - N.36 (1997-01)(Posse Press)(FR).pdf" size="58478554" crc="c52209c0" md5="d500b7e8f003f7d30e3139a6d9ac1c85" sha1="093078b23c470facaa3d887efe4a163e5d32aa2f"/>
+	</game>
+	<game name="Dream - N.37 (1997-02)(Posse Press)(FR)">
+		<description>Dream - N.37 (1997-02)(Posse Press)(FR)</description>
+		<rom name="Dream - N.37 (1997-02)(Posse Press)(FR).pdf" size="41684639" crc="426a20fb" md5="bec108541cae3e31d9d5e854a1ef9fbd" sha1="a157753cbf2972738ea7356be7a95334e6044c97"/>
+	</game>
+	<game name="Dream - N.38 (1997-03)(Posse Press)(FR)">
+		<description>Dream - N.38 (1997-03)(Posse Press)(FR)</description>
+		<rom name="Dream - N.38 (1997-03)(Posse Press)(FR).pdf" size="44575995" crc="8a9b78b5" md5="8f7b425febe79e59e86f71184de6b1ba" sha1="fc57af115ff546b0a3cab486763352dbb048009e"/>
+	</game>
+	<game name="Dream - N.41 (1997-06)(Posse Press)(FR)">
+		<description>Dream - N.41 (1997-06)(Posse Press)(FR)</description>
+		<rom name="Dream - N.41 (1997-06)(Posse Press)(FR).pdf" size="52944685" crc="f8029611" md5="83e88f3bf28f86f755380a7705b474f9" sha1="aa24f2f127fae710cc3f487919355a558227a45a"/>
+	</game>
+	<game name="Dream - N.42 (1997-07-08)(Posse Press)(FR)">
+		<description>Dream - N.42 (1997-07-08)(Posse Press)(FR)</description>
+		<rom name="Dream - N.42 (1997-07-08)(Posse Press)(FR).pdf" size="33299015" crc="d30b2a7d" md5="ff47e1404b0750123811f44ff79fd681" sha1="c1c309560fe3ae64e43c81a035d7e56dadd3f22b"/>
+	</game>
+	<game name="Dream - N.43 (1997-09)(Posse Press)(FR)">
+		<description>Dream - N.43 (1997-09)(Posse Press)(FR)</description>
+		<rom name="Dream - N.43 (1997-09)(Posse Press)(FR).pdf" size="45190088" crc="8b0c0385" md5="f435d59bb6dc79074dba39b2bde50e9f" sha1="9af9465f00641c4e29e543b5a2442ed5b280048d"/>
+	</game>
+	<game name="Dream - N.44 (1997-10)(Posse Press)(FR)">
+		<description>Dream - N.44 (1997-10)(Posse Press)(FR)</description>
+		<rom name="Dream - N.44 (1997-10)(Posse Press)(FR).pdf" size="50389512" crc="098d422f" md5="ddd9868f53105966d730687f094db455" sha1="07bd16c4c7fad645c8c49578dbfd7ba799e2b973"/>
+	</game>
+	<game name="Dream - N.45 (1997-11)(Posse Press)(FR)">
+		<description>Dream - N.45 (1997-11)(Posse Press)(FR)</description>
+		<rom name="Dream - N.45 (1997-11)(Posse Press)(FR).pdf" size="49098161" crc="e2010040" md5="096dbcc666f3e25b985307aff1ec5f84" sha1="b2674d4bf3e2c516ef069bd50096d5ebc5af0256"/>
+	</game>
+	<game name="Dream - N.46 (1997-12)(Posse Press)(FR)">
+		<description>Dream - N.46 (1997-12)(Posse Press)(FR)</description>
+		<rom name="Dream - N.46 (1997-12)(Posse Press)(FR).pdf" size="35830160" crc="671a6b32" md5="a51e89ce4996a1c8c3023262df99a99e" sha1="f0ecbdef66f333030f5a07fda145905913f3ec40"/>
+	</game>
+	<game name="Dream - N.47 (1998-01)(Posse Press)(FR)">
+		<description>Dream - N.47 (1998-01)(Posse Press)(FR)</description>
+		<rom name="Dream - N.47 (1998-01)(Posse Press)(FR).pdf" size="36697259" crc="5c42fcf6" md5="bf82b96f7a69fccd5b6c2067be93cc89" sha1="1c739ffe2438fbe9392f6e944111ef1a3a765176"/>
+	</game>
+	<game name="Dream - N.48 (1998-02)(Posse Press)(FR)">
+		<description>Dream - N.48 (1998-02)(Posse Press)(FR)</description>
+		<rom name="Dream - N.48 (1998-02)(Posse Press)(FR).pdf" size="36181572" crc="90e1a989" md5="23cd9e3cdda726df98fc6326bae1aa38" sha1="7a26c70cc77a5c6ca691d70600f7fd1ff90cc74b"/>
+	</game>
+	<game name="Dream - N.49 (1998-03)(Posse Press)(FR)">
+		<description>Dream - N.49 (1998-03)(Posse Press)(FR)</description>
+		<rom name="Dream - N.49 (1998-03)(Posse Press)(FR).pdf" size="49217342" crc="9aade90c" md5="3f6f249de381e9111b7eb2a80c2ce066" sha1="35670702c9cc4a101a7a3c27823223333151781f"/>
+	</game>
+	<game name="Dream - N.50 (1998-04)(Posse Press)(FR)">
+		<description>Dream - N.50 (1998-04)(Posse Press)(FR)</description>
+		<rom name="Dream - N.50 (1998-04)(Posse Press)(FR).pdf" size="37950196" crc="aa3b0004" md5="1467ff5de2bfc856b7233128ffc96305" sha1="2275c1fa2e9e6d4eecb523d10bc6288c398afec5"/>
+	</game>
+	<game name="Dream - N.51 (1998-05)(Posse Press)(FR)">
+		<description>Dream - N.51 (1998-05)(Posse Press)(FR)</description>
+		<rom name="Dream - N.51 (1998-05)(Posse Press)(FR).pdf" size="35225693" crc="b64c19a8" md5="79f75cc687cefbb49463683dca04f7d9" sha1="d25e78e6d63ceef5ca1d20d3c698c51e72f55813"/>
+	</game>
+	<game name="Dream - N.52 (1998-06)(Posse Press)(FR)">
+		<description>Dream - N.52 (1998-06)(Posse Press)(FR)</description>
+		<rom name="Dream - N.52 (1998-06)(Posse Press)(FR).pdf" size="39082627" crc="c2934f5e" md5="1d5498e9f67ca0b4266c500114313016" sha1="3f7200bee9d0a08f8991d09b04323f8bbc9e1545"/>
+	</game>
+	<game name="Dream - N.53 (1998-07-08)(Posse Press)(FR)">
+		<description>Dream - N.53 (1998-07-08)(Posse Press)(FR)</description>
+		<rom name="Dream - N.53 (1998-07-08)(Posse Press)(FR).pdf" size="53808386" crc="1b66d8fd" md5="67a423943a2429b1c26fcbfcd34b49d2" sha1="ac75b35eaeb082c5a6469fef45a0e4e06d2b6d33"/>
+	</game>
+	<game name="Dream - N.54 (1998-09)(Posse Press)(FR)">
+		<description>Dream - N.54 (1998-09)(Posse Press)(FR)</description>
+		<rom name="Dream - N.54 (1998-09)(Posse Press)(FR).pdf" size="54617976" crc="ddcdb64b" md5="6acf9741eaf2a9b8d3ab4de844f588e6" sha1="c56cad40a3e54e7b8a42f86e56385deaad15d5f6"/>
+	</game>
+	<game name="Dream - N.55 (1998-10)(Posse Press)(FR)">
+		<description>Dream - N.55 (1998-10)(Posse Press)(FR)</description>
+		<rom name="Dream - N.55 (1998-10)(Posse Press)(FR).pdf" size="50586116" crc="9a9e670a" md5="fee4680b6fdba44ac39ef5ac5d0d7b62" sha1="301d1e8b33a5bdc45c1546eeab536e9356183bbc"/>
+	</game>
+	<game name="Dream - N.56 (1998-11)(Posse Press)(FR)">
+		<description>Dream - N.56 (1998-11)(Posse Press)(FR)</description>
+		<rom name="Dream - N.56 (1998-11)(Posse Press)(FR).pdf" size="54280303" crc="ea604ced" md5="38005edd44a4b3e2da3e1b23e56325e5" sha1="9ea8728ed459deee8cdc78a524a52ca97b87f0bf"/>
+	</game>
+	<game name="Dream - N.57 (1998-12)(Posse Press)(FR)">
+		<description>Dream - N.57 (1998-12)(Posse Press)(FR)</description>
+		<rom name="Dream - N.57 (1998-12)(Posse Press)(FR).pdf" size="53325789" crc="207731a5" md5="046a41e04e6500a2556df4fdc37465a0" sha1="72685f9d052424009806acef11f71a7dfeb58ab4"/>
+	</game>
+	<game name="Dream - N.58 (1999-01)(Posse Press)(FR)">
+		<description>Dream - N.58 (1999-01)(Posse Press)(FR)</description>
+		<rom name="Dream - N.58 (1999-01)(Posse Press)(FR).pdf" size="34274231" crc="2af0c632" md5="144fc6799d9fa33e8394151a87106906" sha1="cd99e63040cae9b9551c068e1ff7a9cdf2bcdf0f"/>
+	</game>
+	<game name="Dream - N.59 (1999-02)(Posse Press)(FR)">
+		<description>Dream - N.59 (1999-02)(Posse Press)(FR)</description>
+		<rom name="Dream - N.59 (1999-02)(Posse Press)(FR).pdf" size="37364201" crc="6e2f1252" md5="eefbe96586bbb3f9a50284ea5f22d17e" sha1="0bc201c86bd4bcdac88ef6923df87fab48ea3a41"/>
+	</game>
+	<game name="Dream - N.60 (1999-03)(Posse Press)(FR)">
+		<description>Dream - N.60 (1999-03)(Posse Press)(FR)</description>
+		<rom name="Dream - N.60 (1999-03)(Posse Press)(FR).pdf" size="37363652" crc="ce652eb8" md5="047a6a71b93a5dedb91fdcedc4c6c4a9" sha1="9257af41c81f230548b75dbd4b7abcea956d0963"/>
+	</game>
+	<game name="Dream - N.61 (1999-04)(Posse Press)(FR)">
+		<description>Dream - N.61 (1999-04)(Posse Press)(FR)</description>
+		<rom name="Dream - N.61 (1999-04)(Posse Press)(FR).pdf" size="38220016" crc="db89624b" md5="80c5f6c06859a2f93d151a1f1b8a1209" sha1="1539590dd5bb143c86af5decbecfb74a0564f811"/>
+	</game>
+	<game name="Dream Special Autumn 94 (1994)(Posse Press)(FR)">
+		<description>Dream Special Autumn 94 (1994)(Posse Press)(FR)</description>
+		<rom name="Dream Special Autumn 94 (1994)(Posse Press)(FR).pdf" size="63493879" crc="40af43f6" md5="b541c21eca65bffcbfe7747a7cc156cd" sha1="1433ebe5e14da9e69ed1d287767513b656897864"/>
+	</game>
+</datafile>

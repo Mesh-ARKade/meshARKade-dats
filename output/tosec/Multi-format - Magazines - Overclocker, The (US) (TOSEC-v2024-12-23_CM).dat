@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Overclocker, The (US)</name>
+		<description>Multi-format - Magazines - Overclocker, The (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="The OverClocker - Issue 11 (2010-10)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 11 (2010-10)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 11 (2010-10)(OCL-Media)(US).pdf" size="13855965" crc="f72a4159" md5="239dcb0c88763cad278c2e855fee30b1" sha1="2c402ea0a1780a64a86b73fcc55ad7714b28168d"/>
+	</game>
+	<game name="The OverClocker - Issue 12 (2010-12)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 12 (2010-12)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 12 (2010-12)(OCL-Media)(US).pdf" size="19967375" crc="c239dc44" md5="127bc2a30eeff0dda30b32d0803d7bd3" sha1="8ba3dc88fb0f2bcf258a20aa9d95192389468a35"/>
+	</game>
+	<game name="The OverClocker - Issue 12 (2010-12)(OCL-Media)(US)[a]">
+		<description>The OverClocker - Issue 12 (2010-12)(OCL-Media)(US)[a]</description>
+		<rom name="The OverClocker - Issue 12 (2010-12)(OCL-Media)(US)[a].pdf" size="21558218" crc="ed0c61ae" md5="c471c2f7964b9a5af0fda722418f58ed" sha1="d11978696e44d82d29e9efbc5cdf263f2a66f827"/>
+	</game>
+	<game name="The OverClocker - Issue 13 (2011-02)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 13 (2011-02)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 13 (2011-02)(OCL-Media)(US).pdf" size="19804602" crc="455d7c76" md5="841cc98f8e5b57979cc92fc0063e6023" sha1="13e5dadde3b67b13697239cca0eda8c0671abee9"/>
+	</game>
+	<game name="The OverClocker - Issue 14 (2011-04)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 14 (2011-04)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 14 (2011-04)(OCL-Media)(US).pdf" size="9188700" crc="43fb4189" md5="a034a1fe5e26489059d1a79ec5774b87" sha1="f87315f19f8f05ce6ff171cb5656d23d1a798c76"/>
+	</game>
+	<game name="The OverClocker - Issue 15 (2011-06)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 15 (2011-06)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 15 (2011-06)(OCL-Media)(US).pdf" size="19733504" crc="71744cb5" md5="cfba6f4893a104537f381e76075d3c62" sha1="81717ed5bc413d1b12d1cb02e856297e5c53d225"/>
+	</game>
+	<game name="The OverClocker - Issue 16 (2011)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 16 (2011)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 16 (2011)(OCL-Media)(US).pdf" size="30326241" crc="159ac586" md5="cae7e2bdae9ec9a75a9ad79a0d1ac5d5" sha1="4e433dc3e19eeaa9cc21292ef53456604faab919"/>
+	</game>
+	<game name="The OverClocker - Issue 17 (2011)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 17 (2011)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 17 (2011)(OCL-Media)(US).pdf" size="29732621" crc="cd4f6788" md5="1447c8252832efd344591c55cd2abd52" sha1="eb1fa2d6d5a7407ea687e5d3bce8359dc6c7d60f"/>
+	</game>
+	<game name="The OverClocker - Issue 18 (2012)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 18 (2012)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 18 (2012)(OCL-Media)(US).pdf" size="15305444" crc="d8a8e51a" md5="4b056d3d17cd903fccfe01186c7a5f84" sha1="b24689433be121af78f9a6e69688a27a4385577f"/>
+	</game>
+	<game name="The OverClocker - Issue 19 (2012)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 19 (2012)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 19 (2012)(OCL-Media)(US).pdf" size="24123735" crc="7cdd667b" md5="cb3f4bc3d754328c0a80027c8c940969" sha1="08b516ae7e1dfdc736768e0664c01caa44cfc1e4"/>
+	</game>
+	<game name="The OverClocker - Issue 20 (2012)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 20 (2012)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 20 (2012)(OCL-Media)(US).pdf" size="15262599" crc="0571fcb6" md5="1e95b8ef5f7b37d8ab8174066ccbcbe9" sha1="7736ee8dfcaa9816b8102136467f6b7c5751d9be"/>
+	</game>
+	<game name="The OverClocker - Issue 20 (2012)(OCL-Media)(US)[a]">
+		<description>The OverClocker - Issue 20 (2012)(OCL-Media)(US)[a]</description>
+		<rom name="The OverClocker - Issue 20 (2012)(OCL-Media)(US)[a].pdf" size="22937611" crc="a3f56203" md5="0fdaf7356202cf286e5aadb5a7823c1e" sha1="065870f2a06ac4f42d45aeeacb94963004b0b969"/>
+	</game>
+	<game name="The OverClocker - Issue 21 (2012)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 21 (2012)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 21 (2012)(OCL-Media)(US).pdf" size="23001890" crc="aa11659d" md5="dec40813b5932ab17792cf5620920e62" sha1="2fcf1e010cf3c3b016f77dfcc517d8d6b6913a8c"/>
+	</game>
+	<game name="The OverClocker - Issue 22 (2012)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 22 (2012)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 22 (2012)(OCL-Media)(US).pdf" size="18466885" crc="f0e939b4" md5="23ce307cf108bd4accb0b00ccd4734dd" sha1="544049af07df72daa45707ebd6d687ffacf5d3db"/>
+	</game>
+	<game name="The OverClocker - Issue 23 (2013)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 23 (2013)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 23 (2013)(OCL-Media)(US).pdf" size="20683394" crc="e3fd30fb" md5="d0d5249cc2075589a120fa19f503a8ea" sha1="0607e63db9fba811d3144667a4049541cccc7119"/>
+	</game>
+	<game name="The OverClocker - Issue 24 (2013)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 24 (2013)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 24 (2013)(OCL-Media)(US).pdf" size="25564867" crc="55d610e9" md5="2577d98b73f449b28a99ecdaf31f1264" sha1="058109cd55d5f9a886f417daa00b351cb2239d59"/>
+	</game>
+	<game name="The OverClocker - Issue 25 (2013)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 25 (2013)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 25 (2013)(OCL-Media)(US).pdf" size="24057605" crc="98b09327" md5="4566e0a235e587215632b1fb375b7966" sha1="dbbe779d3681ffab07f4656790b354076a2d97ed"/>
+	</game>
+	<game name="The OverClocker - Issue 26 (2013)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 26 (2013)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 26 (2013)(OCL-Media)(US).pdf" size="29345700" crc="4e08cc81" md5="1725040877b41dd4e82615371a388d3a" sha1="9ac44daeec6cf7ae7bb74268764b0df2672fe25f"/>
+	</game>
+	<game name="The OverClocker - Issue 26 (2013)(OCL-Media)(US)[a]">
+		<description>The OverClocker - Issue 26 (2013)(OCL-Media)(US)[a]</description>
+		<rom name="The OverClocker - Issue 26 (2013)(OCL-Media)(US)[a].pdf" size="30281569" crc="5344a666" md5="4863c4e4c57357c0751202f1ce3253da" sha1="661801ed2a42b9121eec14aa98ad48a5a39d297b"/>
+	</game>
+	<game name="The OverClocker - Issue 27 (2013)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 27 (2013)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 27 (2013)(OCL-Media)(US).pdf" size="31710956" crc="671f9cb6" md5="9f79dba22d018a571a9b6ee27d6c0eab" sha1="910a30ad1617515b30add3354f65ce35103504f4"/>
+	</game>
+	<game name="The OverClocker - Issue 27 (2013)(OCL-Media)(US)[a]">
+		<description>The OverClocker - Issue 27 (2013)(OCL-Media)(US)[a]</description>
+		<rom name="The OverClocker - Issue 27 (2013)(OCL-Media)(US)[a].pdf" size="31448425" crc="2bc25345" md5="9405ce02ec74f0689f30b33d84df2cb6" sha1="0615023be1b8856ef05b765680332aa42d22d89f"/>
+	</game>
+	<game name="The OverClocker - Issue 28 (2014)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 28 (2014)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 28 (2014)(OCL-Media)(US).pdf" size="22069883" crc="fa58d550" md5="2a5ec75b584d00ec783a0d3eec106ead" sha1="c2751aaf118bb9e0329d5a9c8434faa37a5c9513"/>
+	</game>
+	<game name="The OverClocker - Issue 28 (2014)(OCL-Media)(US)[a]">
+		<description>The OverClocker - Issue 28 (2014)(OCL-Media)(US)[a]</description>
+		<rom name="The OverClocker - Issue 28 (2014)(OCL-Media)(US)[a].pdf" size="21378648" crc="1c747631" md5="c8edcc307c23ddadcc63b9c63413f3e2" sha1="c179c1217ee7171c8266ead71c91c2b16e340bd1"/>
+	</game>
+	<game name="The OverClocker - Issue 29 (2014)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 29 (2014)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 29 (2014)(OCL-Media)(US).pdf" size="58080521" crc="3810d3e8" md5="2a5f51e729c406ca36baf282c7fce76e" sha1="defbfce0f7e2ddf67e9b112920eea642aadb3542"/>
+	</game>
+	<game name="The OverClocker - Issue 29 (2014)(OCL-Media)(US)[a]">
+		<description>The OverClocker - Issue 29 (2014)(OCL-Media)(US)[a]</description>
+		<rom name="The OverClocker - Issue 29 (2014)(OCL-Media)(US)[a].pdf" size="20738779" crc="fd520a13" md5="34fbe0b09fe5a19a995d82bbe5843a27" sha1="5f12abe38103192a10a8e52b11fe2d28f1188e00"/>
+	</game>
+	<game name="The OverClocker - Issue 30 (2014)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 30 (2014)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 30 (2014)(OCL-Media)(US).pdf" size="39440912" crc="e1d98756" md5="9b16674ab21e16f9a10c811f24734376" sha1="4055c95016ab85d52c2d28a6a7176f47f30c13f5"/>
+	</game>
+	<game name="The OverClocker - Issue 31 (2014)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 31 (2014)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 31 (2014)(OCL-Media)(US).pdf" size="22944723" crc="19919000" md5="7f4e19a4183a410fd7f26f0e61123fe2" sha1="4fe350374f2a95b8cfce8e247e4eb0f262d67b73"/>
+	</game>
+	<game name="The OverClocker - Issue 32 (2014)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 32 (2014)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 32 (2014)(OCL-Media)(US).pdf" size="22452521" crc="aca7381e" md5="55cd7ce9df5de183bb3de893680c0b72" sha1="70814432f2d19223b78063ff9b0fc0323a19c214"/>
+	</game>
+	<game name="The OverClocker - Issue 33 (2015)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 33 (2015)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 33 (2015)(OCL-Media)(US).pdf" size="23750796" crc="d8c13a86" md5="70973a18932e093c3ff391be017ca133" sha1="e60ca7ea33b77d208fcd437240d4a006330b1fd9"/>
+	</game>
+	<game name="The OverClocker - Issue 34 (2015)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 34 (2015)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 34 (2015)(OCL-Media)(US).pdf" size="20752291" crc="91bffe4b" md5="cb11cb0277613b20d046914b80449e12" sha1="8fc837cb279c402cc3152079b49488ebf5a654ad"/>
+	</game>
+	<game name="The OverClocker - Issue 35 (2015)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 35 (2015)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 35 (2015)(OCL-Media)(US).pdf" size="21921627" crc="22339103" md5="cd2bc7d40e887251edc3c003957ea6a7" sha1="583b9a3d1d41387bc96c232d65c3998b0ae90f37"/>
+	</game>
+	<game name="The OverClocker - Issue 36 (2015)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 36 (2015)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 36 (2015)(OCL-Media)(US).pdf" size="20946822" crc="0838ad8d" md5="b2b38be9cb9994db598b6e82b89b66e2" sha1="5cf8af34aa86d5f2243695fac88c9053aa6f3efc"/>
+	</game>
+	<game name="The OverClocker - Issue 37 (2016)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 37 (2016)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 37 (2016)(OCL-Media)(US).pdf" size="17984115" crc="3f8b5511" md5="ab3eaf4a0e02c79b43955589c5226257" sha1="f726b720dac6897791440874c412e20b98289c11"/>
+	</game>
+	<game name="The OverClocker - Issue 38 (2016)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 38 (2016)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 38 (2016)(OCL-Media)(US).pdf" size="34732862" crc="7c56b275" md5="8867ac91c4f6dac7f600c560ce728627" sha1="0899af3d0881c5cdcef41a90ea0a5c2d2dfdba50"/>
+	</game>
+	<game name="The OverClocker - Issue 39 (2016)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 39 (2016)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 39 (2016)(OCL-Media)(US).pdf" size="26347105" crc="238ee7e5" md5="ee20a035381483c17775e7ba4d42219d" sha1="8236117de7d983264df344153c6b9b995ef9af32"/>
+	</game>
+	<game name="The OverClocker - Issue 40 (2017)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 40 (2017)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 40 (2017)(OCL-Media)(US).pdf" size="25131737" crc="d28a0bd0" md5="16c7fd84c2cb0ab04eefec6c3a97686f" sha1="a8fc64b75d2bd3648760354c717afcd5cc923db8"/>
+	</game>
+	<game name="The OverClocker - Issue 41 (2017)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 41 (2017)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 41 (2017)(OCL-Media)(US).pdf" size="32956630" crc="8e981fbb" md5="babc0db79be0042b8b17aed2b385cb56" sha1="36354424794068436e5e48876e43a7ae9eb7ed57"/>
+	</game>
+	<game name="The OverClocker - Issue 42 (2017)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 42 (2017)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 42 (2017)(OCL-Media)(US).pdf" size="22900833" crc="5473a4f7" md5="965ec455097b6db49efbac7b5e9b0522" sha1="643a52998592d889cc876b8c7dc3b268821cc42b"/>
+	</game>
+	<game name="The OverClocker - Issue 43 (2018)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 43 (2018)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 43 (2018)(OCL-Media)(US).pdf" size="20796291" crc="cdb2755a" md5="c5463cf0c6a9ce86dd4bedeb6e6d0210" sha1="b6c82d9d9eb77f7db283d6378e1edfa50fd8c228"/>
+	</game>
+	<game name="The OverClocker - Issue 44 (2018)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 44 (2018)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 44 (2018)(OCL-Media)(US).pdf" size="18509245" crc="a5225cdf" md5="f9fa8729f567dbcfcd1baea6f2a1c24d" sha1="468b2d8a2ae5ed36d469cb129f1d1d3ee533fafe"/>
+	</game>
+	<game name="The OverClocker - Issue 45 (2018)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 45 (2018)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 45 (2018)(OCL-Media)(US).pdf" size="16655484" crc="068dc029" md5="5f850707d4776f3a62031c35438f884b" sha1="d822687ee6ef074c4885982c913b2cd4735fe500"/>
+	</game>
+	<game name="The OverClocker - Issue 46 (2019)(OCL-Media)(US)">
+		<description>The OverClocker - Issue 46 (2019)(OCL-Media)(US)</description>
+		<rom name="The OverClocker - Issue 46 (2019)(OCL-Media)(US).pdf" size="34234820" crc="119e3666" md5="c90b654f696c005b70447ba9af1f1331" sha1="b342077bec61ccee26e4f9fd8f2773bec8e5f20d"/>
+	</game>
+</datafile>

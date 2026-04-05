@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Tips &amp; Tricks (US)</name>
+		<description>Multi-format - Magazines - Tips &amp; Tricks (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tips &amp; Tricks - Issue 66 (2000-08)(LFP)(AUS)">
+		<description>Tips &amp; Tricks - Issue 66 (2000-08)(LFP)(AUS)</description>
+		<rom name="Tips &amp; Tricks - Issue 66 (2000-08)(LFP)(AUS).pdf" size="251494300" crc="32e8a826" md5="a1a3cca91e27f955f8ce4a85df17de8a" sha1="ea7d684d9f59310f9260b5a84364c8d7d9c37c97"/>
+	</game>
+	<game name="Tips &amp; Tricks - Issue 68 (2000-10)(LFP)(AUS)">
+		<description>Tips &amp; Tricks - Issue 68 (2000-10)(LFP)(AUS)</description>
+		<rom name="Tips &amp; Tricks - Issue 68 (2000-10)(LFP)(AUS).pdf" size="208618671" crc="1515f80e" md5="0a211718211dfe7d5a51bc32c3b4e6c7" sha1="c1f72f4135399bcb4d5f4d6384e77a461de9aac3"/>
+	</game>
+	<game name="Tips &amp; Tricks - Volume I Issue 01 (1994)(LFP)(AUS)[spring edition]">
+		<description>Tips &amp; Tricks - Volume I Issue 01 (1994)(LFP)(AUS)[spring edition]</description>
+		<rom name="Tips &amp; Tricks - Volume I Issue 01 (1994)(LFP)(AUS)[spring edition].pdf" size="208829804" crc="f7e670ba" md5="4fbba7fb4a3d967c873c006eb3350f6b" sha1="180c261b72197df4042658e410ae8c7ba39e3362"/>
+	</game>
+	<game name="Tips &amp; Tricks - Volume II Issue 11 (1995-11)(LFP)(AUS)">
+		<description>Tips &amp; Tricks - Volume II Issue 11 (1995-11)(LFP)(AUS)</description>
+		<rom name="Tips &amp; Tricks - Volume II Issue 11 (1995-11)(LFP)(AUS).pdf" size="159930970" crc="d18ed067" md5="a8d335cc8c583737942760f9f186a7cf" sha1="c960b369ea1eb7bb9c81eebcea9236e44550d0cf"/>
+	</game>
+	<game name="Tips &amp; Tricks - Volume III Issue 01 (1996-01)(LFP)(US)">
+		<description>Tips &amp; Tricks - Volume III Issue 01 (1996-01)(LFP)(US)</description>
+		<rom name="Tips &amp; Tricks - Volume III Issue 01 (1996-01)(LFP)(US).pdf" size="51582350" crc="43c7a8b3" md5="2d19a76fbaef7a01d6ca563c073d5fa7" sha1="74b5b4e453189f4512d80f411f01b87fffb26a96"/>
+	</game>
+	<game name="Tips &amp; Tricks - Volume III Issue 12 (1996-12)(LFP)(US)">
+		<description>Tips &amp; Tricks - Volume III Issue 12 (1996-12)(LFP)(US)</description>
+		<rom name="Tips &amp; Tricks - Volume III Issue 12 (1996-12)(LFP)(US).pdf" size="90238965" crc="031121c5" md5="155b410826765a45fff967c8627d8aa8" sha1="ca8185417372cdc144eb73d108bf1755350779ed"/>
+	</game>
+	<game name="Tips &amp; Tricks - Volume IV Issue 1 (1997-01)(LFP)(US)">
+		<description>Tips &amp; Tricks - Volume IV Issue 1 (1997-01)(LFP)(US)</description>
+		<rom name="Tips &amp; Tricks - Volume IV Issue 1 (1997-01)(LFP)(US).pdf" size="94900227" crc="bd05c07a" md5="45dde1f82c692f5e59005a04d9006ad0" sha1="a912b729b826250c9ed94336134895f148a39c80"/>
+	</game>
+	<game name="Tips &amp; Tricks - Volume IV Issue 2 (1997-02)(LFP)(US)">
+		<description>Tips &amp; Tricks - Volume IV Issue 2 (1997-02)(LFP)(US)</description>
+		<rom name="Tips &amp; Tricks - Volume IV Issue 2 (1997-02)(LFP)(US).pdf" size="92306169" crc="79b6f5f1" md5="d45a0f7d9547be71aa6b9d33b05e7807" sha1="cd18d4cd4d6615a23c0ac155e29ba2579837a3e3"/>
+	</game>
+	<game name="Tips &amp; Tricks - Volume IV Issue 3 (1997-03)(LFP)(US)">
+		<description>Tips &amp; Tricks - Volume IV Issue 3 (1997-03)(LFP)(US)</description>
+		<rom name="Tips &amp; Tricks - Volume IV Issue 3 (1997-03)(LFP)(US).pdf" size="89541577" crc="eb1a5064" md5="3535ef85ba6c38e76c97d6374fe584be" sha1="de4f910d5f9cd5211d660217596c853cc9f4a19d"/>
+	</game>
+	<game name="Tips &amp; Tricks - Volume VI Issue 07 (1999)(LFP)(AU)[1999 Video Game Codebook]">
+		<description>Tips &amp; Tricks - Volume VI Issue 07 (1999)(LFP)(AU)[1999 Video Game Codebook]</description>
+		<rom name="Tips &amp; Tricks - Volume VI Issue 07 (1999)(LFP)(AU)[1999 Video Game Codebook].pdf" size="311399991" crc="0f0a37f1" md5="5a4c2892087eb6d6897cab5cc948f14b" sha1="291d553be32ef7a2d1a0af4143a2b1cd7531e6e8"/>
+	</game>
+	<game name="Tips &amp; Tricks - Volume VII Issue 10 (2000)(LFP)(AU)[2000 Video Game Codebook]">
+		<description>Tips &amp; Tricks - Volume VII Issue 10 (2000)(LFP)(AU)[2000 Video Game Codebook]</description>
+		<rom name="Tips &amp; Tricks - Volume VII Issue 10 (2000)(LFP)(AU)[2000 Video Game Codebook].pdf" size="311774464" crc="fec569e6" md5="d98f533008849896512c2cc26c7ea173" sha1="72f6565f31970231eecbda99fd3f2225f5275be3"/>
+	</game>
+</datafile>

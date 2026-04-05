@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - gamesTM (AU)</name>
+		<description>Multi-format - Magazines - gamesTM (AU) (TOSEC-v2024-03-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-03-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="gamesTM - Issue 01 (2003-04)(Paragon Publishing)(AU)">
+		<description>gamesTM - Issue 01 (2003-04)(Paragon Publishing)(AU)</description>
+		<rom name="gamesTM - Issue 01 (2003-04)(Paragon Publishing)(AU).pdf" size="223230187" crc="0014f335" md5="5a4c4278a31758a0b1d8caa72442c5a8" sha1="24c9b58a80546ecd16ff8574397a5a0b92b2dbd3"/>
+	</game>
+	<game name="gamesTM - Issue 02 (2003-05)(Paragon Publishing)(AU)">
+		<description>gamesTM - Issue 02 (2003-05)(Paragon Publishing)(AU)</description>
+		<rom name="gamesTM - Issue 02 (2003-05)(Paragon Publishing)(AU).pdf" size="217625853" crc="d019a7da" md5="a4f44366beb25e90a308264ad0bd09bc" sha1="cf361cbb48a09fcebd1d2f394b8b527c689c1bb1"/>
+	</game>
+	<game name="gamesTM - Issue 03 (2003-06)(Paragon Publishing)(AU)">
+		<description>gamesTM - Issue 03 (2003-06)(Paragon Publishing)(AU)</description>
+		<rom name="gamesTM - Issue 03 (2003-06)(Paragon Publishing)(AU).pdf" size="264143568" crc="b6e87db4" md5="5a6d2ec936ec8584cf332e28df864fb6" sha1="818863540dcfb01dd22be47cdc237dc837f353dc"/>
+	</game>
+	<game name="gamesTM - Issue 04 (2003-07)(Paragon Publishing)(AU)">
+		<description>gamesTM - Issue 04 (2003-07)(Paragon Publishing)(AU)</description>
+		<rom name="gamesTM - Issue 04 (2003-07)(Paragon Publishing)(AU).pdf" size="273028572" crc="271185c6" md5="c7b9b327c971325077e9505cebbd5909" sha1="446b97688d839f1d101e61e26e19465f0887e20a"/>
+	</game>
+	<game name="gamesTM - Issue 05 (2003-09)(Paragon Publishing)(AU)">
+		<description>gamesTM - Issue 05 (2003-09)(Paragon Publishing)(AU)</description>
+		<rom name="gamesTM - Issue 05 (2003-09)(Paragon Publishing)(AU).pdf" size="435232588" crc="2aac1d71" md5="128ae9bad56fb3987ec1e3d13c2796f6" sha1="9fe8cab6f0d2d6c34ee35e8e4c53f5bf991e595f"/>
+	</game>
+	<game name="gamesTM - Issue 06 (2003-10)(Paragon Publishing)(AU)">
+		<description>gamesTM - Issue 06 (2003-10)(Paragon Publishing)(AU)</description>
+		<rom name="gamesTM - Issue 06 (2003-10)(Paragon Publishing)(AU).pdf" size="445799846" crc="5860ea6e" md5="d1580a7a773ae9c929f8ee2caa0d31f9" sha1="cbbf8aabb322057f49576d481e0320dc816ba55f"/>
+	</game>
+	<game name="gamesTM - Issue 07 (2003-11)(Paragon Publishing)(AU)">
+		<description>gamesTM - Issue 07 (2003-11)(Paragon Publishing)(AU)</description>
+		<rom name="gamesTM - Issue 07 (2003-11)(Paragon Publishing)(AU).pdf" size="428819032" crc="d206f91d" md5="595bf45c0558dc9795272b789deed104" sha1="e7b231555d3a1effd9c29a17ae951d2f261ce86e"/>
+	</game>
+	<game name="gamesTM - Issue 08 (2003-12)(Highbury Paragon)(AU)">
+		<description>gamesTM - Issue 08 (2003-12)(Highbury Paragon)(AU)</description>
+		<rom name="gamesTM - Issue 08 (2003-12)(Highbury Paragon)(AU).pdf" size="429927790" crc="b22372d7" md5="fd492aaa89ed48f7d9717800928787c2" sha1="59cebf6ee19c9f9a3fc4f32f1fdbe677c1079b13"/>
+	</game>
+	<game name="gamesTM - Issue 09 (2004-01)(Highbury Paragon)(AU)">
+		<description>gamesTM - Issue 09 (2004-01)(Highbury Paragon)(AU)</description>
+		<rom name="gamesTM - Issue 09 (2004-01)(Highbury Paragon)(AU).pdf" size="339119113" crc="963070a1" md5="a191baea421ce4704d01452b73f5b5fe" sha1="86defbf4c03f52037ddd74c49578b4a62b2720bc"/>
+	</game>
+	<game name="gamesTM - Issue 10 (2004-02)(Highbury Paragon)(AU)">
+		<description>gamesTM - Issue 10 (2004-02)(Highbury Paragon)(AU)</description>
+		<rom name="gamesTM - Issue 10 (2004-02)(Highbury Paragon)(AU).pdf" size="347493508" crc="f9098c3b" md5="57248263b34cca04c7212059dffcce2e" sha1="b232105884f305d21e277b74e85723c0c892369f"/>
+	</game>
+	<game name="gamesTM - Issue 11 (2004-03)(Highbury Paragon)(AU)">
+		<description>gamesTM - Issue 11 (2004-03)(Highbury Paragon)(AU)</description>
+		<rom name="gamesTM - Issue 11 (2004-03)(Highbury Paragon)(AU).pdf" size="359986190" crc="6103c22e" md5="d06ae3e2440c5db23780df4d4cf5449b" sha1="89d0e5755affeadff211dc3e551286b73bd9a3bb"/>
+	</game>
+	<game name="gamesTM - Issue 12 (2004-04)(Highbury Paragon)(AU)">
+		<description>gamesTM - Issue 12 (2004-04)(Highbury Paragon)(AU)</description>
+		<rom name="gamesTM - Issue 12 (2004-04)(Highbury Paragon)(AU).pdf" size="332471844" crc="efb91745" md5="48482e704070e1e4412e88a6459713e3" sha1="3eed91adb732fdc7ad01f1ba9423ee7f9e847ff0"/>
+	</game>
+	<game name="gamesTM - Issue 13 (2004-05)(Highbury Paragon)(AU)">
+		<description>gamesTM - Issue 13 (2004-05)(Highbury Paragon)(AU)</description>
+		<rom name="gamesTM - Issue 13 (2004-05)(Highbury Paragon)(AU).pdf" size="280813755" crc="9b9dc630" md5="25a829d9f27fc3f1110db6219e64e2fe" sha1="125082662773317c85f28661c0a986f0f89088eb"/>
+	</game>
+	<game name="gamesTM - Issue 14 (2004-06)(Highbury Paragon)(AU)">
+		<description>gamesTM - Issue 14 (2004-06)(Highbury Paragon)(AU)</description>
+		<rom name="gamesTM - Issue 14 (2004-06)(Highbury Paragon)(AU).pdf" size="335887920" crc="147be893" md5="677475c66abc39b33b0f54e9c41be566" sha1="1ae579e65b061e6060f180838f9af092225e3281"/>
+	</game>
+	<game name="gamesTM - Issue 15 (2004-07)(Highbury Paragon)(AU)">
+		<description>gamesTM - Issue 15 (2004-07)(Highbury Paragon)(AU)</description>
+		<rom name="gamesTM - Issue 15 (2004-07)(Highbury Paragon)(AU).pdf" size="242268952" crc="7db74a60" md5="fddd2de5f6ac21a372982b62f5cec21d" sha1="4d8ab1c9a39ca8f3f235f98ca40c14d29d577087"/>
+	</game>
+	<game name="gamesTM - Issue 16 (2004-09)(Highbury Paragon)(AU)">
+		<description>gamesTM - Issue 16 (2004-09)(Highbury Paragon)(AU)</description>
+		<rom name="gamesTM - Issue 16 (2004-09)(Highbury Paragon)(AU).pdf" size="250805079" crc="a9246865" md5="8c4a0f2148f9fd2f7f7abef1605cb715" sha1="8a45ea23935a9486f5d4233d1568ad691d54db91"/>
+	</game>
+	<game name="gamesTM - Issue 17 (2004-10)(Highbury Paragon)(AU)">
+		<description>gamesTM - Issue 17 (2004-10)(Highbury Paragon)(AU)</description>
+		<rom name="gamesTM - Issue 17 (2004-10)(Highbury Paragon)(AU).pdf" size="256355555" crc="5bd26aab" md5="1d2495b51afc448c6501e44c7cd548c3" sha1="98bf5127dcdffbdec8e75c34604b7d3732862835"/>
+	</game>
+	<game name="gamesTM - Issue 18 (2004-11)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 18 (2004-11)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 18 (2004-11)(Highbury Australia)(AU).pdf" size="255905258" crc="ac8d21ee" md5="cd022ccfc9f5fb3342b274bfc27bf0f3" sha1="27fa0764ce4d9be3ac35ed2f62b14774cd758cb8"/>
+	</game>
+	<game name="gamesTM - Issue 19 (2004-12)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 19 (2004-12)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 19 (2004-12)(Highbury Australia)(AU).pdf" size="269421979" crc="5c795cd4" md5="a181af2ea50c8e35a32aaff9349cf82e" sha1="bfb9cb8247001260737ec9acd9993d6e412f1362"/>
+	</game>
+	<game name="gamesTM - Issue 20 (2005-01)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 20 (2005-01)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 20 (2005-01)(Highbury Australia)(AU).pdf" size="277081043" crc="02e282f1" md5="b978b30b8a9229e59e73a6485b38aa03" sha1="16665c206583446b9f9fdcc58a31725f4c2a8791"/>
+	</game>
+	<game name="gamesTM - Issue 21 (2005-02)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 21 (2005-02)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 21 (2005-02)(Highbury Australia)(AU).pdf" size="266416468" crc="de7a6e81" md5="6315126efd49436478970eadf2e6c4fb" sha1="b8410923850b9348c194ab96bb9ca649556ce543"/>
+	</game>
+	<game name="gamesTM - Issue 22 (2005-03)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 22 (2005-03)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 22 (2005-03)(Highbury Australia)(AU).pdf" size="264365785" crc="374b77ac" md5="aded149243130ada3a053aa0dfc829fb" sha1="b3be8071afa848570579f065ea073293c2c22421"/>
+	</game>
+	<game name="gamesTM - Issue 23 (2005-04)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 23 (2005-04)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 23 (2005-04)(Highbury Australia)(AU).pdf" size="287750543" crc="d8212168" md5="a28e00ce17925a15dc0bc40a608455cb" sha1="9c58baed74227da0f746e9c33109ae7a34ce5043"/>
+	</game>
+	<game name="gamesTM - Issue 24 (2005-05)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 24 (2005-05)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 24 (2005-05)(Highbury Australia)(AU).pdf" size="270786405" crc="474ce2ca" md5="e8d20ca1d37711101ede3661c3f9eb6c" sha1="9bd65847bc29f9d8725fc8f5a7c2ae5e87ccb0a8"/>
+	</game>
+	<game name="gamesTM - Issue 25 (2005-06)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 25 (2005-06)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 25 (2005-06)(Highbury Australia)(AU).pdf" size="331123671" crc="9c528cb5" md5="b9143da736b2e09e09a243921df52619" sha1="4bdf02763cdefb99916d604a638eea4b2cfc36e4"/>
+	</game>
+	<game name="gamesTM - Issue 26 (2005-07)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 26 (2005-07)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 26 (2005-07)(Highbury Australia)(AU).pdf" size="281362673" crc="45175e93" md5="e8ccc0fda67c110638afe8ce8605b236" sha1="123891dff625b86be3cc6f89266c6b223d8f3a08"/>
+	</game>
+	<game name="gamesTM - Issue 27 (2005-08)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 27 (2005-08)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 27 (2005-08)(Highbury Australia)(AU).pdf" size="340928575" crc="498b5519" md5="69f6b5b71fa91a08642b8d57edc8dcca" sha1="23347b1b28d42847ba8224cd1e9513867faacb83"/>
+	</game>
+	<game name="gamesTM - Issue 28 (2005-09)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 28 (2005-09)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 28 (2005-09)(Highbury Australia)(AU).pdf" size="377401931" crc="b120748b" md5="ac78d8dff578caa3cbf99d77e497c6f5" sha1="6d243e01ba9986ce9c125d30ea9c7777fd5cb36c"/>
+	</game>
+	<game name="gamesTM - Issue 29 (2005-10)(Highbury Australia)(AU)">
+		<description>gamesTM - Issue 29 (2005-10)(Highbury Australia)(AU)</description>
+		<rom name="gamesTM - Issue 29 (2005-10)(Highbury Australia)(AU).pdf" size="431415141" crc="84450783" md5="de99e8d9119359030d9b9f3e1726b29b" sha1="f130a5ac3d4cbe16fcb48346fbe57401ef27f127"/>
+	</game>
+</datafile>

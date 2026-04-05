@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Replay (US)</name>
+		<description>Multi-format - Magazines - Replay (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="RePlay Magazine - Volume X Issue 11 (1985-08)(RePlay Publishing)(US)">
+		<description>RePlay Magazine - Volume X Issue 11 (1985-08)(RePlay Publishing)(US)</description>
+		<rom name="RePlay Magazine - Volume X Issue 11 (1985-08)(RePlay Publishing)(US).pdf" size="355270788" crc="d98537de" md5="014d13471e3c9eae19c9a463a0551cf4" sha1="722436da0ab729f61417daeeb2c742617e225bc0"/>
+	</game>
+</datafile>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 3 - Magazines - PlayStation Official Magazine Australia</name>
+		<description>Sony PlayStation 3 - Magazines - PlayStation Official Magazine Australia (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation Official Magazine Australia - Issue 001 (2007-03)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 001 (2007-03)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 001 (2007-03)(Derwent Howard)(AU).pdf" size="409612856" crc="5e3d923a" md5="5b29f4b48be520be0652486967d409ad" sha1="2b321347f5df9b3df90958a5dad68ef911c625d9"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 002 (2007-04)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 002 (2007-04)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 002 (2007-04)(Derwent Howard)(AU).pdf" size="404273661" crc="9e4bb20a" md5="6fe9950976074287d2c417901036eb3e" sha1="23a06918ad02d8338c97b5f610174434dc40f582"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 003 (2007-05)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 003 (2007-05)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 003 (2007-05)(Derwent Howard)(AU).pdf" size="268027881" crc="7ed4aac0" md5="d23b4e15d0232d4a9cbe61db7123ec50" sha1="8c29fee1f576447c23742f5b3694cf66cdb7c738"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 004 (2007-06)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 004 (2007-06)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 004 (2007-06)(Derwent Howard)(AU).pdf" size="363750339" crc="a6586a78" md5="f561e4d71770c343a9ce7e5c7774c9f6" sha1="d98259b2717934f8f0d7c10928684283ec2a61c1"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 005 (2007-07)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 005 (2007-07)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 005 (2007-07)(Derwent Howard)(AU).pdf" size="399507914" crc="dc65c4e7" md5="764fda4b43d057c1a30a468a7a53855b" sha1="a6fa022951eca27777ef4b2334aa32d648284726"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 006 (2007-08)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 006 (2007-08)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 006 (2007-08)(Derwent Howard)(AU).pdf" size="371795471" crc="1a39a608" md5="19eedb28cc439af2e1f1d1ee3562b5f3" sha1="30809b9f7c8fe7d284d7351eda56edbf4c0360e8"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 007 (2007-09)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 007 (2007-09)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 007 (2007-09)(Derwent Howard)(AU).pdf" size="364964276" crc="ebecb685" md5="85cb8947cd2282a9feff5e9458077bdf" sha1="17ce33f9f22c0efe30a2a03d062b441fac7f0e42"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 008 (2007-10)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 008 (2007-10)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 008 (2007-10)(Derwent Howard)(AU).pdf" size="338369095" crc="3a822983" md5="c9a580b1d91ac7bc3257d402bb872a83" sha1="3bb6e02297c8cf24f92637edebc5286da8af1ddb"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 009 (2007-11)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 009 (2007-11)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 009 (2007-11)(Derwent Howard)(AU).pdf" size="317594103" crc="46b2bdac" md5="9a5ede2cabddda5166bb76194ac2f7dd" sha1="3f6572acf0be6ec07c7265451e91bdcd2a3bbf9f"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 010 (2007-12)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 010 (2007-12)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 010 (2007-12)(Derwent Howard)(AU).pdf" size="367599121" crc="a925506d" md5="d67aeeceed30128199b8df4e857161a3" sha1="b3140b0b15df7880d892242a70dd3d212ac7f53d"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 011 (2007)(Derwent Howard)(AU)[christmas edition]">
+		<description>PlayStation Official Magazine Australia - Issue 011 (2007)(Derwent Howard)(AU)[christmas edition]</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 011 (2007)(Derwent Howard)(AU)[christmas edition].pdf" size="305312018" crc="ed2a184a" md5="7f0ac9691e83e5b6d24f241678e015ca" sha1="0ab0b5bd9dcb1a874037d5a2dbb627718200fa22"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 012 (2008-01)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 012 (2008-01)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 012 (2008-01)(Derwent Howard)(AU).pdf" size="305174244" crc="6cd78d95" md5="9e6487c1b6fe94b0b42e43594c221a74" sha1="19506fe7dd71bdb15ae38d73df62aaf7b2b7968e"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 013 (2008-02)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 013 (2008-02)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 013 (2008-02)(Derwent Howard)(AU).pdf" size="386407279" crc="109739e3" md5="b05066055f08eacb3626e546f38192c4" sha1="339cfc03b2e19de9da20efe8108c0a7eaf3fc0b8"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 014 (2008-03)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 014 (2008-03)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 014 (2008-03)(Derwent Howard)(AU).pdf" size="324332008" crc="9410a06d" md5="95b53dba61cc5d816e9f91d7c84583fa" sha1="b34b5169cf4b5e998ab77784a3a05a7740f1fa6c"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 015 (2008-04)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 015 (2008-04)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 015 (2008-04)(Derwent Howard)(AU).pdf" size="307909459" crc="01032e14" md5="40cfffed246e781a6f0a894dc8277ae3" sha1="29cea1bf7401260fbdfd578cc8007aa339409580"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 016 (2008-05)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 016 (2008-05)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 016 (2008-05)(Derwent Howard)(AU).pdf" size="344079793" crc="5ba0031a" md5="87b21ef0bf80047c88446c1f23aa8054" sha1="dd00dd809eb721bda3e322183b6dfa85f435f2ce"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 017 (2008-06)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 017 (2008-06)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 017 (2008-06)(Derwent Howard)(AU).pdf" size="270034770" crc="b982b949" md5="0559477537c346b928322e8902eeeec0" sha1="d303262f7b18cb7235511d5d4710f28fbb3291ba"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 019 (2008-08)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 019 (2008-08)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 019 (2008-08)(Derwent Howard)(AU).pdf" size="351648135" crc="53aed8f6" md5="855e13b3f181354985cb4dfbe7cd9834" sha1="186e21b49ee98c3f957fd5d3f756d80ac71b1846"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 020 (2008-09)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 020 (2008-09)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 020 (2008-09)(Derwent Howard)(AU).pdf" size="349085622" crc="c7092391" md5="cb0ef747a4ac85f7e62789fd75dfbcb9" sha1="16c2b3b370bb39f3382928d646f49b82dd8d121a"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 021 (2008-10)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 021 (2008-10)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 021 (2008-10)(Derwent Howard)(AU).pdf" size="342043014" crc="720e602a" md5="c010d0897bc9945db19fcecfc11b58b4" sha1="109d6867a13e092e0d5ea25505c608a8ad333117"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 022 (2008-11)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 022 (2008-11)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 022 (2008-11)(Derwent Howard)(AU).pdf" size="441675883" crc="1cb206f4" md5="1b943ac9e3efd86c0276ecd490d4b635" sha1="2fabd0b8327673ed2b260fe2296ce5b7d14dffe5"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 023 (2008-12)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 023 (2008-12)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 023 (2008-12)(Derwent Howard)(AU).pdf" size="280932780" crc="767624c5" md5="769005070765d54a2a4e84b1e8347d82" sha1="941123d8e5b480dd5e67ac9ae1956efc79033533"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 026 (2009-01)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 026 (2009-01)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 026 (2009-01)(Derwent Howard)(AU).pdf" size="370977844" crc="ac7a678b" md5="5701761a5adaccba102fdb1a0c298db1" sha1="3422fbb8b10029246b6f3cab13bcb22c93fc6f06"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 027 (2009-02)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 027 (2009-02)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 027 (2009-02)(Derwent Howard)(AU).pdf" size="348864133" crc="54796933" md5="f15151401552ab2f6deec235f67d2d56" sha1="4f12e5a3eefef873465f29bd2355e4a6f7f3e600"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 028 (2009-03)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 028 (2009-03)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 028 (2009-03)(Derwent Howard)(AU).pdf" size="334923669" crc="85562eae" md5="e2b0aab062dd6651a02e44784f1876df" sha1="8914d312dee0af396abb54b75d9cd59a728684ba"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 029 (2009-04)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 029 (2009-04)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 029 (2009-04)(Derwent Howard)(AU).pdf" size="423788646" crc="ee0903eb" md5="da4dd7bfde4eb109593e68229558e949" sha1="c86f4364450fe0d1d4419d37031f2ba9e8d8409e"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 030 (2009-05)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 030 (2009-05)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 030 (2009-05)(Derwent Howard)(AU).pdf" size="410221452" crc="c07b529f" md5="d9d1ea52f4348ce693e1d24ec496198c" sha1="4576d3727c461003827861eb78d82ff2778a12b9"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 031 (2009-06)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 031 (2009-06)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 031 (2009-06)(Derwent Howard)(AU).pdf" size="252015040" crc="22cb74d3" md5="9fa360bb5e57be7eebe276a95d8c88bb" sha1="5ee2516ff9b45bfe23abf3df841e6ed8d8cfba6d"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 032 (2009-07)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 032 (2009-07)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 032 (2009-07)(Derwent Howard)(AU).pdf" size="423989834" crc="817b389f" md5="1185a25ed404c24a5e1dfce939912837" sha1="0af1d9c4effa4f2494f3d936856129cef3322ceb"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 033 (2009-08)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 033 (2009-08)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 033 (2009-08)(Derwent Howard)(AU).pdf" size="376049527" crc="5919b031" md5="21cc0f32591772338e0146ab3d899ad9" sha1="e83f2e4bf9944f517cfcbb21fd357eb1d4e53b04"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 034 (2009-09)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 034 (2009-09)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 034 (2009-09)(Derwent Howard)(AU).pdf" size="392329949" crc="7c2bf78c" md5="ef4de87c44d4f6ba58eec5ac1e473d16" sha1="edac2650c3441ec20ae9f8256d14b17ce6804a52"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 035 (2009-10)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 035 (2009-10)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 035 (2009-10)(Derwent Howard)(AU).pdf" size="399029431" crc="d096dd09" md5="4a78d93a9f21798b8b5231c7c0c1019e" sha1="1dcdd6aa21406185f23ba455e44a5ba1b38ba7cc"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 036 (2009-11)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 036 (2009-11)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 036 (2009-11)(Derwent Howard)(AU).pdf" size="345066723" crc="6be1b8dd" md5="e01e401bab703fcbe6cf01b31c004250" sha1="dbb9b22b820b1f2edef4473ba22c10293de8c8f6"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 037 (2009-12)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 037 (2009-12)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 037 (2009-12)(Derwent Howard)(AU).pdf" size="369218208" crc="e8d31042" md5="806d04bcbcc53df70f8186cf22007a40" sha1="45b490d6d8f894842366dd2fde0ddcc07f4670ac"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 038 (2009)(Derwent Howard)(AU)[christmas edition]">
+		<description>PlayStation Official Magazine Australia - Issue 038 (2009)(Derwent Howard)(AU)[christmas edition]</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 038 (2009)(Derwent Howard)(AU)[christmas edition].pdf" size="163623477" crc="f011a9a4" md5="f3e94eb5cb6867b42b09171bcbbc74f6" sha1="584432f2a514b2b47d4a3899bf5195b07ca23e3f"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 039 (2010-01)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 039 (2010-01)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 039 (2010-01)(Derwent Howard)(AU).pdf" size="233106794" crc="0e741a3b" md5="323ac360b2b1396be9fd73039e400110" sha1="8a3a539f370cf8e7c24fd14534e4ff972c18b456"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 040 (2010-02)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 040 (2010-02)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 040 (2010-02)(Derwent Howard)(AU).pdf" size="233812128" crc="38c57474" md5="3758ca7cf9c90acd0f56605a87b03c65" sha1="7450ce51280e5053b222db76dc6f8d14da383e26"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 041 (2010-03)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 041 (2010-03)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 041 (2010-03)(Derwent Howard)(AU).pdf" size="191014461" crc="8c385790" md5="576356c6dd6d61a6cd8d399d485b3550" sha1="6c7962b760a1e50c7bb6905fd3fd669c7cce64cc"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 042 (2010-04)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 042 (2010-04)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 042 (2010-04)(Derwent Howard)(AU).pdf" size="245163137" crc="c13273e9" md5="ec6a80ec4b86c916200a7d36a8c1d2ff" sha1="b46b313442ff996465419c5d69ce1f976016921b"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 043 (2010-05)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 043 (2010-05)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 043 (2010-05)(Derwent Howard)(AU).pdf" size="240507297" crc="9033298d" md5="0d8bab23f60d3a20e235bf565e403e45" sha1="62a3ba20c27b72fd146337feab6aefedf27f909e"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 044 (2010-06)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 044 (2010-06)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 044 (2010-06)(Derwent Howard)(AU).pdf" size="244605669" crc="5e0b086d" md5="83476054701d1015b699941ab9c38503" sha1="abb304f139c6e8d78c224c10ee69af02c33fb9ad"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 045 (2010-07)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 045 (2010-07)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 045 (2010-07)(Derwent Howard)(AU).pdf" size="251589297" crc="52d10909" md5="8a446f2f715cfda2615ebfb1cd0c2a28" sha1="83554f023b21ea3cf0335785c07cc69daf3efae8"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 046 (2010-08)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 046 (2010-08)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 046 (2010-08)(Derwent Howard)(AU).pdf" size="244607370" crc="e62cfa3f" md5="af7269386924609b8f25c03489eca829" sha1="f2a069b2fc864b8f47bad38ba872b968809b9883"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 047 (2010-09)(Derwent Howard)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 047 (2010-09)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 047 (2010-09)(Derwent Howard)(AU).pdf" size="252623133" crc="cc901ac8" md5="18d171a2cd891c43a67ace0d88e06731" sha1="af4cf1c95a8d6990647677a0c2eed551e34d5356"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 048 (2010-10)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 048 (2010-10)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 048 (2010-10)(Citrus Media)(AU).pdf" size="248141766" crc="97e2050c" md5="d56fbc4c9539f403253d22131b7fc23a" sha1="eec3397aaad01107c41ba6f9b8d5898bb2dd1043"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 049 (2010-11)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 049 (2010-11)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 049 (2010-11)(Citrus Media)(AU).pdf" size="241636435" crc="912d140d" md5="05319fd6a4e9e3ae7046cd6c55eea6f9" sha1="95530902d9997410eec0e76692a1acaa28e7f9c9"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 050 (2010-12)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 050 (2010-12)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 050 (2010-12)(Citrus Media)(AU).pdf" size="256391256" crc="a70d2fcb" md5="0566c419175d2f870e78cadbd0f27635" sha1="39a995a34a9ece93eb512fe05c5e5325cc93f57f"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 051 (2011-01)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 051 (2011-01)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 051 (2011-01)(Citrus Media)(AU).pdf" size="211522145" crc="736ff114" md5="401090b0635cc7a45ac3782bcc87357d" sha1="be5e4b28d5b87ecd849fcd0c70a3e418d625b93c"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 052 (2011-02)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 052 (2011-02)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 052 (2011-02)(Citrus Media)(AU).pdf" size="234381562" crc="e3912194" md5="a6e78920746463a157bb5f93898a9dca" sha1="f6704e8f10f11b8e8efe7c76cdaaa91186362e32"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 053 (2011-03)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 053 (2011-03)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 053 (2011-03)(Citrus Media)(AU).pdf" size="244674002" crc="7453086d" md5="3fa94adea9b633f72cbeaeabb97d5d1c" sha1="ee20b7b8af301ce008f50b09f2543ab33e07dc40"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 054 (2011-04)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 054 (2011-04)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 054 (2011-04)(Citrus Media)(AU).pdf" size="220624553" crc="1881fa75" md5="cd765967054a2551573bbc189745caaf" sha1="9bfaf624eca99e62588e54d813aa28639d23692f"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 055 (2011-05)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 055 (2011-05)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 055 (2011-05)(Citrus Media)(AU).pdf" size="226196833" crc="352cdafa" md5="2e66ca3d6e8ce4f02591223deb9cfb76" sha1="8c1f9459c11ae49c63ab1d595561122becc380c2"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 058 (2011-08)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 058 (2011-08)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 058 (2011-08)(Citrus Media)(AU).pdf" size="320754491" crc="f3127d20" md5="ad60b6de8ba2a0b25b3475b0ee13bbdc" sha1="2c936c17ddb25c2fed1731b727d6e2c173a905f6"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 059 (2011-09)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 059 (2011-09)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 059 (2011-09)(Citrus Media)(AU).pdf" size="320541430" crc="b657d1de" md5="18e2441ea89df04e76f49fff0cc2489f" sha1="c6f28ef321dc85be7f6a0e3a1db58300fe803afc"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 060 (2011-10)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 060 (2011-10)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 060 (2011-10)(Citrus Media)(AU).pdf" size="399080944" crc="3aaa0ed2" md5="ced6de5ed27465d287c2ce936d6580be" sha1="8630ea49390486f9c242274e8de5960e869d95c6"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 061 (2011-11)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 061 (2011-11)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 061 (2011-11)(Citrus Media)(AU).pdf" size="235632508" crc="85cfbd77" md5="b289a3a012fb841719be05da9a0fbc4f" sha1="1fa10ad112de86d098dff2141b4f1d2aff57e00b"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 062 (2011-12)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 062 (2011-12)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 062 (2011-12)(Citrus Media)(AU).pdf" size="354971081" crc="9f28e884" md5="f1d0303ee15b5a69bd6fe994eae2aa05" sha1="db5b45b3e352821d7d4f204c58affdfe70753ae3"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 063 (2011)(Citrus Media)(AU)[christmas edition]">
+		<description>PlayStation Official Magazine Australia - Issue 063 (2011)(Citrus Media)(AU)[christmas edition]</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 063 (2011)(Citrus Media)(AU)[christmas edition].pdf" size="394099715" crc="2751ec30" md5="32b68e309de8679168160671060489f5" sha1="bdd5dcc234881d56a71da4f9fa02446ba2131573"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 064 (2012-01)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 064 (2012-01)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 064 (2012-01)(Citrus Media)(AU).pdf" size="299964122" crc="d28e7337" md5="3fbbdfef0b8f3cca474a8c50c338570b" sha1="e8cc336d577f8eab433c5cbb308c6f91a47b0e0f"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 065 (2012-02)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 065 (2012-02)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 065 (2012-02)(Citrus Media)(AU).pdf" size="426266292" crc="270de7e7" md5="abdfc599e7a832753dd126dd998b057f" sha1="e6c3f45ba71506de0b01d1cfc8d5e1865bc035ba"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 065 (2012-02)(Citrus Media)(AU)[a]">
+		<description>PlayStation Official Magazine Australia - Issue 065 (2012-02)(Citrus Media)(AU)[a]</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 065 (2012-02)(Citrus Media)(AU)[a].pdf" size="257686780" crc="08ee6cb4" md5="b3304086882a10bcae48e011f648ae11" sha1="0997751fa75dbb82bd3d15abe3459aa1563669e3"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 067 (2012-04)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 067 (2012-04)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 067 (2012-04)(Citrus Media)(AU).pdf" size="286472997" crc="810e67d3" md5="13e80c5b0f1f6071a4abc15dec8693f4" sha1="bfeb4470e4452f60a61e138a062ec9f2ec2d6c34"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 068 (2012-05)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 068 (2012-05)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 068 (2012-05)(Citrus Media)(AU).pdf" size="312312759" crc="55b9a9b4" md5="3286feaf18e4a431cbea2080342960bb" sha1="a873fece2d92699e3a827c438887ce4b00e27d43"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 075 (2012-12)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 075 (2012-12)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 075 (2012-12)(Citrus Media)(AU).pdf" size="269567226" crc="cfd09092" md5="f149e9a35432ffd3b5b75f10a0d48e32" sha1="47ace88f6693c710f04fef44991a8d1bb5c1bcab"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 077 (2013-01)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 077 (2013-01)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 077 (2013-01)(Citrus Media)(AU).pdf" size="294138967" crc="790440ed" md5="7cf7a56dd404e4c5f368152fc070175e" sha1="d1c27aca066193e6cc27d65619786984b268d9c6"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 078 (2013-02)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 078 (2013-02)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 078 (2013-02)(Citrus Media)(AU).pdf" size="263321505" crc="bcd6d99f" md5="566a0697d27c7f53fd678a59683ab5a9" sha1="8b17a644948f30687fdd9989e32c9e39a4dec1fd"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 079 (2013-03)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 079 (2013-03)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 079 (2013-03)(Citrus Media)(AU).pdf" size="265083108" crc="205b1520" md5="94bb00adcc87d12d575877fd443ac922" sha1="a9a7995ad30bc1140bc1125b4b112fcd6b12d3c5"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 083 (2013-07)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 083 (2013-07)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 083 (2013-07)(Citrus Media)(AU).pdf" size="303468436" crc="1184834a" md5="bb53d6c8433daa99b2434eaaa3a378c3" sha1="c55e683e709c73082536534a522e9406a8b960d6"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 121 (2016-06)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 121 (2016-06)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 121 (2016-06)(Citrus Media)(AU).pdf" size="189943319" crc="cdaeb066" md5="5bce95f7a35eff2de1ea89ff2ee43382" sha1="108340724c38f928b7258ce292862b3cfca576f2"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 123 (2016-08)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 123 (2016-08)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 123 (2016-08)(Citrus Media)(AU).pdf" size="187614974" crc="f9e4b892" md5="d98843af64f107f244db874b6ae456ef" sha1="7f6b6a1b0a63841bb88c21a4b39841068960222f"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 125 (2016-10)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 125 (2016-10)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 125 (2016-10)(Citrus Media)(AU).pdf" size="194153524" crc="6bd8cd10" md5="627a9708710de052bbf2ef5ff3d4b537" sha1="b40c3a4bfe7271878373785d45230e467ebf0182"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 129 (2017-01)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 129 (2017-01)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 129 (2017-01)(Citrus Media)(AU).pdf" size="188452498" crc="e50f8b2c" md5="61836fb1e07ea3b1f2d5e7e09ba2f3ba" sha1="befd9bfb0c8cf83ae260a7c9311f803e87582776"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 130 (2017-02)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 130 (2017-02)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 130 (2017-02)(Citrus Media)(AU).pdf" size="186477936" crc="86a25985" md5="c976791ec8186f1763d119a4d001626d" sha1="01e8fb0892fb90f7948038193183aeb1c75adae9"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 131 (2017-03)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 131 (2017-03)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 131 (2017-03)(Citrus Media)(AU).pdf" size="179112172" crc="d97a0948" md5="be682355f64b88742ddd7e334add67da" sha1="635ade28d747ec519e8093d770f100623bf69776"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 134 (2017-06)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 134 (2017-06)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 134 (2017-06)(Citrus Media)(AU).pdf" size="186907793" crc="2e70ea45" md5="056aa32c41f94ceb440ca482d4819c30" sha1="ff679ca1c2885b4c74e9f3fd529e9c38387ae396"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 138 (2017-10)(Citrus Media)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 138 (2017-10)(Citrus Media)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 138 (2017-10)(Citrus Media)(AU).pdf" size="190223254" crc="86c3ebcb" md5="7a5118feb48cdd300c586776116da66e" sha1="1beaae077a3fb4fee597e95bc23c89991b2a575f"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 139 (2017-11)(Future Publishing)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 139 (2017-11)(Future Publishing)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 139 (2017-11)(Future Publishing)(AU).pdf" size="183603442" crc="7c9ec720" md5="e897aaf3500e18b9cc432cc8744af8e7" sha1="25624acc27897166b9199214447621a59312ef31"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 142 (2018-01)(Future Publishing)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 142 (2018-01)(Future Publishing)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 142 (2018-01)(Future Publishing)(AU).pdf" size="184351830" crc="5028ed3b" md5="4ae7d67de3f86a485ba53ebaca493d64" sha1="d9a51a93034a647eedca2dbc7610bb4f4f29708f"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 143 (2018-02)(Future Publishing)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 143 (2018-02)(Future Publishing)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 143 (2018-02)(Future Publishing)(AU).pdf" size="188491094" crc="e9c5da49" md5="f903358c09f3d3c59f9f7e490bc42a06" sha1="82b3476a858dd2c37f3e94172d9829e4b4d7d3e9"/>
+	</game>
+	<game name="PlayStation Official Magazine Australia - Issue 163 (2019-09)(Future Publishing)(AU)">
+		<description>PlayStation Official Magazine Australia - Issue 163 (2019-09)(Future Publishing)(AU)</description>
+		<rom name="PlayStation Official Magazine Australia - Issue 163 (2019-09)(Future Publishing)(AU).pdf" size="182626698" crc="5541f6c0" md5="7213f95a154a48ba648aa6d336297650" sha1="96b02e9118aad436142cc4f2477684e26d0e8c34"/>
+	</game>
+</datafile>

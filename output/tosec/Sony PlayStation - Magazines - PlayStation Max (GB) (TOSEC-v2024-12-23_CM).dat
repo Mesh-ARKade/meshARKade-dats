@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PlayStation Max (GB)</name>
+		<description>Sony PlayStation - Magazines - PlayStation Max (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation Max - Issue 14 (2000-01)(Future Publishing)(GB)">
+		<description>PlayStation Max - Issue 14 (2000-01)(Future Publishing)(GB)</description>
+		<rom name="PlayStation Max - Issue 14 (2000-01)(Future Publishing)(GB).pdf" size="280564023" crc="c66056ca" md5="69468e86b8f019c6f8f7962bd8190aa6" sha1="876ce131d72b13a340f40ba7cca5858b2ff5de91"/>
+	</game>
+</datafile>

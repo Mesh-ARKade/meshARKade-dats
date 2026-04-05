@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Next Generation (US)</name>
+		<description>Multi-format - Magazines - Next Generation (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Next Generation - Issue 021 (1996-09)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 021 (1996-09)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 021 (1996-09)(Imagine Publishing)(US).pdf" size="208066997" crc="63cb6a69" md5="16ff4ab3795d3af343c485cfc9b34cae" sha1="a2a97ebf637ced0712677c598ef5fe218b8470b6"/>
+	</game>
+	<game name="Next Generation - Issue 023 (1996-11)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 023 (1996-11)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 023 (1996-11)(Imagine Publishing)(US).pdf" size="410542824" crc="d29f677e" md5="097900fed2c7fa6a1d43e00f15ac4b8f" sha1="6565ab181e9e2d0a5ed7557049660c7d63347091"/>
+	</game>
+	<game name="Next Generation - Issue 024 (1996-12)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 024 (1996-12)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 024 (1996-12)(Imagine Publishing)(US).pdf" size="396120973" crc="34778971" md5="c823dc3bebc9b425e0867946d88cf352" sha1="ea51e0ed48545db86131f32194643177518b1470"/>
+	</game>
+	<game name="Next Generation - Issue 025 (1997-01)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 025 (1997-01)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 025 (1997-01)(Imagine Publishing)(US).pdf" size="306751594" crc="7c16795b" md5="eec3ca330c7f40febe9cdabac7f3c757" sha1="70ff285eac793ae824ab0b86768d857b9897cd65"/>
+	</game>
+	<game name="Next Generation - Issue 027 (1997-03)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 027 (1997-03)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 027 (1997-03)(Imagine Publishing)(US).pdf" size="214862201" crc="a5e8724d" md5="933987781a6faaac07d0aa82f08ab718" sha1="12eebe386c74ae9622056e3770d8b2f810ecb375"/>
+	</game>
+	<game name="Next Generation - Issue 028 (1997-04)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 028 (1997-04)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 028 (1997-04)(Imagine Publishing)(US).pdf" size="236614701" crc="97c08539" md5="59bffca410bb5e93a3d2efc0ca28c71c" sha1="b10e72b53ebbd877666437c396c7414738a97248"/>
+	</game>
+	<game name="Next Generation - Issue 029 (1997-05)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 029 (1997-05)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 029 (1997-05)(Imagine Publishing)(US).pdf" size="266323819" crc="1ca051af" md5="d9994967f46f7a5d4ba5424d089e0358" sha1="264ddc43e38b4e1c65e6117c94c4edd84715ea8c"/>
+	</game>
+	<game name="Next Generation - Issue 030 (1997-06)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 030 (1997-06)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 030 (1997-06)(Imagine Publishing)(US).pdf" size="216454083" crc="3eb952e8" md5="15b302269f4eb795bdd5ab803084ae6d" sha1="f94e74d7e9def9d4e8c9dd3de31650f7e506dc79"/>
+	</game>
+	<game name="Next Generation - Issue 032 (1997-08)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 032 (1997-08)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 032 (1997-08)(Imagine Publishing)(US).pdf" size="209629428" crc="0d0696f5" md5="c68f0874a27320ada0eea555f662f714" sha1="6bc2aa7d9008340c6677aef4d0372bbf5f4fd0dd"/>
+	</game>
+	<game name="Next Generation - Issue 033 (1997-09)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 033 (1997-09)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 033 (1997-09)(Imagine Publishing)(US).pdf" size="191844343" crc="f87a70d6" md5="7501c96168f06409ab28d02f0a066a05" sha1="968b6fe32f88316c9d834cea3f35ba825c8cb957"/>
+	</game>
+	<game name="Next Generation - Issue 034 (1997-10)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 034 (1997-10)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 034 (1997-10)(Imagine Publishing)(US).pdf" size="251240914" crc="17e9ef7e" md5="d9176903ed5554d98198d62a4c9e7169" sha1="014051454db776ba82a50dfd7f0517541f6ca171"/>
+	</game>
+	<game name="Next Generation - Issue 035 (1997-11)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 035 (1997-11)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 035 (1997-11)(Imagine Publishing)(US).pdf" size="323593978" crc="ecdb4f87" md5="2e489437c3025a2d09eb706c980db9d1" sha1="5796b7dd0198d0d46a5134982c230875c8191638"/>
+	</game>
+	<game name="Next Generation - Issue 036 (1997-12)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 036 (1997-12)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 036 (1997-12)(Imagine Publishing)(US).pdf" size="261308278" crc="6c7bdb26" md5="ea441af06253b90b6cc8a24c035917cb" sha1="da812a38990d6ecbba728010e50d1298ffec982d"/>
+	</game>
+	<game name="Next Generation - Issue 038 (1998-02)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 038 (1998-02)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 038 (1998-02)(Imagine Publishing)(US).pdf" size="218648001" crc="97bd3324" md5="abe73364f3116ab3f8e41daf14617b8e" sha1="3c9cd184b62bdb834244656b13359a08308b302f"/>
+	</game>
+	<game name="Next Generation - Issue 039 (1998-03)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 039 (1998-03)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 039 (1998-03)(Imagine Publishing)(US).pdf" size="226876666" crc="c0219938" md5="fc895bbb08d59a47c6689a27e3099370" sha1="9cc0338dab0381a24b62a6ba0cb537ab7d2f5390"/>
+	</game>
+	<game name="Next Generation - Issue 040 (1998-04)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 040 (1998-04)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 040 (1998-04)(Imagine Publishing)(US).pdf" size="204685790" crc="d47243a1" md5="066a2189fcbdb8ca97e38912c0ae430f" sha1="a2b6054b60579aa8a813773bc301857733c554be"/>
+	</game>
+	<game name="Next Generation - Issue 041 (1998-05)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 041 (1998-05)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 041 (1998-05)(Imagine Publishing)(US).pdf" size="221100581" crc="ec01f8ad" md5="acb6e6c364ea765e6115b25aebfabf74" sha1="69810d1a44742f2db072eaf1adb04614dead6ad8"/>
+	</game>
+	<game name="Next Generation - Issue 042 (1998-06)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 042 (1998-06)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 042 (1998-06)(Imagine Publishing)(US).pdf" size="280471557" crc="e1e33dc4" md5="dc20502efd97421785450c8dfd99e963" sha1="f8cb40e46315d1a992a04e891e5cd2155254512b"/>
+	</game>
+	<game name="Next Generation - Issue 043 (1998-07)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 043 (1998-07)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 043 (1998-07)(Imagine Publishing)(US).pdf" size="232440656" crc="2f0f07b9" md5="b6f1ec48516b3218630720423e1774e9" sha1="efde589e8f3322e32260ffd5ef251f274ceff451"/>
+	</game>
+	<game name="Next Generation - Issue 044 (1998-08)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 044 (1998-08)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 044 (1998-08)(Imagine Publishing)(US).pdf" size="180041916" crc="553a501d" md5="600029149cc7a89b40585a124fe34725" sha1="4ee55bd8f0528390c5ce0dcd38864f9ae6d6758b"/>
+	</game>
+	<game name="Next Generation - Issue 045 (1998-09)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 045 (1998-09)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 045 (1998-09)(Imagine Publishing)(US).pdf" size="265314768" crc="63577090" md5="6eebac1e64cd5a747da51c3831fb2d70" sha1="c2c56060d0d09641d6d3934bb5344d74adf65aaa"/>
+	</game>
+	<game name="Next Generation - Issue 046 (1998-10)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 046 (1998-10)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 046 (1998-10)(Imagine Publishing)(US).pdf" size="200538907" crc="0298a7ea" md5="b40e95499f7bde68620778e4ff691a5a" sha1="a1b8ec6fe9cc0d667ace29712d5dc357ef6a5037"/>
+	</game>
+	<game name="Next Generation - Issue 051 (1998-03)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 051 (1998-03)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 051 (1998-03)(Imagine Publishing)(US).pdf" size="192248578" crc="c82169cf" md5="95cf8f22523439abe7e8c2f71e4b5f5e" sha1="5143af0208469a2e570170c1578f2b6b98d258e6"/>
+	</game>
+	<game name="Next Generation - Issue 055 (1998-07)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 055 (1998-07)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 055 (1998-07)(Imagine Publishing)(US).pdf" size="105326082" crc="27e3cb09" md5="eb77671b7641f50b13ca3b9ddfafd063" sha1="7f575f400b057b6aa588035c3b00d4ffe8f966e0"/>
+	</game>
+	<game name="Next Generation - Issue 056 (1998-08)(Imagine Publishing)(US)">
+		<description>Next Generation - Issue 056 (1998-08)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Issue 056 (1998-08)(Imagine Publishing)(US).pdf" size="214973351" crc="06f8b36d" md5="6ccae8f45fe471848174ba55510f29d0" sha1="02505990893f8f471876c7942c6f1de0517d852b"/>
+	</game>
+	<game name="Next Generation - Vol 3 No 11 (2001-11)(Imagine Publishing)(US)">
+		<description>Next Generation - Vol 3 No 11 (2001-11)(Imagine Publishing)(US)</description>
+		<rom name="Next Generation - Vol 3 No 11 (2001-11)(Imagine Publishing)(US).pdf" size="305674947" crc="0ec7dcd7" md5="94b09e51cddecb7d425313ca8ae449e7" sha1="68f0145d953c6d3201cb7145b2291cb1c4e93fb2"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Ultimate Gamer (US)</name>
+		<description>Multi-format - Magazines - Ultimate Gamer (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ultimate Gamer (1995-07)(LFP)(US)">
+		<description>Ultimate Gamer (1995-07)(LFP)(US)</description>
+		<rom name="Ultimate Gamer (1995-07)(LFP)(US).pdf" size="193951348" crc="c9c5d5a6" md5="841d6b907615dbfc8c5a3b8329dec82a" sha1="d76ba02b324f965edabab6eeaf9a9dd8dfc98b79"/>
+	</game>
+	<game name="Ultimate Gamer (1995-11)(LFP)(US)">
+		<description>Ultimate Gamer (1995-11)(LFP)(US)</description>
+		<rom name="Ultimate Gamer (1995-11)(LFP)(US).pdf" size="206518606" crc="dd58a93b" md5="ae71a4c3a586f153408c2d5dd12b07e1" sha1="bb50ac17cc89662d27d560b4d6d0bfeb07089f2e"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Complete PlayStation (GB)</name>
+		<description>Sony PlayStation - Magazines - Complete PlayStation (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Complete PlayStation - Volume 1 (1998)(Next Publishing)(GB)[summer edition]">
+		<description>Complete PlayStation - Volume 1 (1998)(Next Publishing)(GB)[summer edition]</description>
+		<rom name="Complete PlayStation - Volume 1 (1998)(Next Publishing)(GB)[summer edition].pdf" size="168344534" crc="ef73217e" md5="43867a207cc75d066c5af963b4e4dfc7" sha1="02c2e2abf84c9c8f351e5b4d940b17adbbaabb0d"/>
+	</game>
+</datafile>

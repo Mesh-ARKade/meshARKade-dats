@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple - Magazines - Apple User (GB)</name>
+		<description>Apple - Magazines - Apple User (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Apple User - Volume 6 Number 3 (1986-03)(Database Publications)(GB)">
+		<description>Apple User - Volume 6 Number 3 (1986-03)(Database Publications)(GB)</description>
+		<rom name="Apple User - Volume 6 Number 3 (1986-03)(Database Publications)(GB).pdf" size="96932827" crc="a20e57c0" md5="d44c6b24f4f01ac84d3e00db118308c7" sha1="c0f92f1b2231eb28cd0c0f91e72ace9bf4a016f3"/>
+	</game>
+	<game name="Apple User - Volume 6 Number 3 (1986-09)(Database Publications)(GB)">
+		<description>Apple User - Volume 6 Number 3 (1986-09)(Database Publications)(GB)</description>
+		<rom name="Apple User - Volume 6 Number 3 (1986-09)(Database Publications)(GB).pdf" size="98075493" crc="2107910c" md5="caf4af88d809c3b019b8870be8e33280" sha1="adaf4d104b5bddd6ccb0364df1529de0393e801c"/>
+	</game>
+	<game name="Apple User - Volume 6 Number 4 (1986-04)(Database Publications)(GB)">
+		<description>Apple User - Volume 6 Number 4 (1986-04)(Database Publications)(GB)</description>
+		<rom name="Apple User - Volume 6 Number 4 (1986-04)(Database Publications)(GB).pdf" size="97688152" crc="4386ec3e" md5="bb90b69491631f9bcd22e6b51db9702a" sha1="ce8f9fcd53a94914fb1615360e1b8f78108fa6a8"/>
+	</game>
+	<game name="Apple User - Volume 6 Number 5 (1986-05)(Database Publications)(GB)">
+		<description>Apple User - Volume 6 Number 5 (1986-05)(Database Publications)(GB)</description>
+		<rom name="Apple User - Volume 6 Number 5 (1986-05)(Database Publications)(GB).pdf" size="94303845" crc="642ccb16" md5="5d620d546511723a818e9e7f8e512ecb" sha1="bdec8157e1adfc2a4bcc38441fc814de50bdc92a"/>
+	</game>
+	<game name="Apple User - Volume 6 Number 7 (1986-07)(Database Publications)(GB)">
+		<description>Apple User - Volume 6 Number 7 (1986-07)(Database Publications)(GB)</description>
+		<rom name="Apple User - Volume 6 Number 7 (1986-07)(Database Publications)(GB).pdf" size="94712313" crc="edc221a5" md5="17722977feb1b3a390d3132de5e76c0f" sha1="3380223c07717e193ad03bef49ce0c5571a6b6cf"/>
+	</game>
+	<game name="Apple User - Volume 6 Number 8 (1986-08)(Database Publications)(GB)">
+		<description>Apple User - Volume 6 Number 8 (1986-08)(Database Publications)(GB)</description>
+		<rom name="Apple User - Volume 6 Number 8 (1986-08)(Database Publications)(GB).pdf" size="101582023" crc="a6743cc6" md5="a8f7968ff2e830f6476c868bfff97803" sha1="76ee5317d0be33c43c4a9448e0a7e01353d05722"/>
+	</game>
+</datafile>

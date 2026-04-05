@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Game Buyer (US)</name>
+		<description>Multi-format - Magazines - Game Buyer (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Buyer - Issue 3 (1998-09)(Imagine Publishing)(US)">
+		<description>Game Buyer - Issue 3 (1998-09)(Imagine Publishing)(US)</description>
+		<rom name="Game Buyer - Issue 3 (1998-09)(Imagine Publishing)(US).pdf" size="608943327" crc="f71918e1" md5="d6d966a7954e6acdd3f3c8d294b69f54" sha1="3a0cdf80208e1f499a12d8f4e946ef1ec47beb52"/>
+	</game>
+</datafile>

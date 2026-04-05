@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - ZX Computing (GB)</name>
+		<description>Sinclair ZX Spectrum - Magazines - ZX Computing (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ZX Computing (1984-09)(Argus Specialist Publications)(GB)">
+		<description>ZX Computing (1984-09)(Argus Specialist Publications)(GB)</description>
+		<rom name="ZX Computing (1984-09)(Argus Specialist Publications)(GB).pdf" size="384143214" crc="64192051" md5="aefb6842aa125fbd52c5b95b9731d7fa" sha1="2bad1fc40cf19d702ea1877037fe88a4c301c7bc"/>
+	</game>
+</datafile>

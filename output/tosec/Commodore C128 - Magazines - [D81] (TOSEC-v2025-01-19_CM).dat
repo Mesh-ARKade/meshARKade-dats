@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore C128 - Magazines - [D81]</name>
+		<description>Commodore C128 - Magazines - [D81] (TOSEC-v2025-01-19)</description>
+		<category>TOSEC</category>
+		<version>2025-01-19</version>
+		<author>Duncan Twain</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org</url>
+	</header>
+	<game name="Loadstar 128 Issue #01 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #01 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #01 (19xx)(Softdisk).d81" size="819200" crc="8261f3a6" md5="24263cba44b9ac8a0224edcd15557d9e" sha1="24542fcc5630b522d3d1f825f720ffe0e80ae894"/>
+	</game>
+	<game name="Loadstar 128 Issue #02 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #02 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #02 (19xx)(Softdisk).d81" size="819200" crc="0e12eb00" md5="dabf5a2bf764400932b31c16237f8f5d" sha1="4283b3b20bb7760a2247354623d38de9539c5c9c"/>
+	</game>
+	<game name="Loadstar 128 Issue #03 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #03 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #03 (19xx)(Softdisk).d81" size="819200" crc="47777773" md5="778762f388e992a75a0e4b5a9c42ef16" sha1="096c2ee4be6f353a223118e78e4bc244ac42283a"/>
+	</game>
+	<game name="Loadstar 128 Issue #04 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #04 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #04 (19xx)(Softdisk).d81" size="819200" crc="4481a544" md5="71e819920bcc81b36276fea862010e8a" sha1="27d6b4043b9c381afe36e764b09a18e6bf820d37"/>
+	</game>
+	<game name="Loadstar 128 Issue #05 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #05 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #05 (19xx)(Softdisk).d81" size="819200" crc="db4f7587" md5="dbae4802b0dc6044024d6a1b4df72302" sha1="faa65cd9dbac49d8f79dcd9d399b854cce82350d"/>
+	</game>
+	<game name="Loadstar 128 Issue #06 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #06 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #06 (19xx)(Softdisk).d81" size="819200" crc="360f9111" md5="433b6ddbb8dc22e51f752f255c46ced0" sha1="f26da4d7303f4b5eb3687afe72a9b4c519ee1e71"/>
+	</game>
+	<game name="Loadstar 128 Issue #07 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #07 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #07 (19xx)(Softdisk).d81" size="819200" crc="a3d8042d" md5="e88c2f61a76eee741975ecf837db363c" sha1="7e7a8283a45744c829c5383fba097e081cf38ab5"/>
+	</game>
+	<game name="Loadstar 128 Issue #08 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #08 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #08 (19xx)(Softdisk).d81" size="819200" crc="3fed02fb" md5="b6c6c8d0954a59b59133477f29885236" sha1="917229fc1cd11e0eeea1c35ae25a341d23c2a639"/>
+	</game>
+	<game name="Loadstar 128 Issue #09 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #09 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #09 (19xx)(Softdisk).d81" size="819200" crc="fa675c59" md5="c5fbf49ce25ecac8eacb74da98d8abf6" sha1="65af3bde1d630c72f580389ecd3b0e46be4a0dbb"/>
+	</game>
+	<game name="Loadstar 128 Issue #10 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #10 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #10 (19xx)(Softdisk).d81" size="819200" crc="e0b9835f" md5="d48bb414c4347de1f2804b2c18088818" sha1="4641554d39b3500efab676d6ede5105764c49ce5"/>
+	</game>
+	<game name="Loadstar 128 Issue #11 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #11 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #11 (19xx)(Softdisk).d81" size="819200" crc="38571c68" md5="3d46446b005f3410e64ccb01c04669fe" sha1="d974814edf8a13498db5f15b5ab6cbc667e85a79"/>
+	</game>
+	<game name="Loadstar 128 Issue #12 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #12 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #12 (19xx)(Softdisk).d81" size="819200" crc="673c348c" md5="95233f1e49536436f1808f541e017891" sha1="cc3e519edbaa06f5fd276634a7d684da2b9f59a2"/>
+	</game>
+	<game name="Loadstar 128 Issue #13 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #13 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #13 (19xx)(Softdisk).d81" size="819200" crc="5e978692" md5="96783b9f953be2e0b53dad0f0c8b9f39" sha1="d254efef5ae1cb79170061a83dc1711c0d5fb3f7"/>
+	</game>
+	<game name="Loadstar 128 Issue #14 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #14 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #14 (19xx)(Softdisk).d81" size="819200" crc="2a928403" md5="a6dead449a201fecbd9bbea9e1880092" sha1="8957ac14d92fe0a188c6b0d52f5726427ade175c"/>
+	</game>
+	<game name="Loadstar 128 Issue #15 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #15 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #15 (19xx)(Softdisk).d81" size="819200" crc="da129900" md5="0dfa4af130e013ec81658e63606c30bd" sha1="014291d3779a15997c52e3e6e6af4ac1198be6b9"/>
+	</game>
+	<game name="Loadstar 128 Issue #16 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #16 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #16 (19xx)(Softdisk).d81" size="819200" crc="faef2ea5" md5="992ba328a6e910d6464ba398c374894f" sha1="269b0f4ef5cf4d91841903223eafa6ce571c15cd"/>
+	</game>
+	<game name="Loadstar 128 Issue #17 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #17 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #17 (19xx)(Softdisk).d81" size="819200" crc="15789ba3" md5="da88e893c970ec171777f059144ec14a" sha1="c8badb62a98de50bf7dea3b679064a3a30d7f837"/>
+	</game>
+	<game name="Loadstar 128 Issue #18 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #18 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #18 (19xx)(Softdisk).d81" size="819200" crc="71717658" md5="f3cce7a9e5c740dde2026b0d1d05c6b5" sha1="03ca15282a3b0aad5dd72887d97dd50778c02a61"/>
+	</game>
+	<game name="Loadstar 128 Issue #19 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #19 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #19 (19xx)(Softdisk).d81" size="819200" crc="c5b39054" md5="7beeb915129c51c508fed0fb4122ca01" sha1="ba7455be0ab0f7cb4df8dd7fa1739ac6e33b6fc4"/>
+	</game>
+	<game name="Loadstar 128 Issue #20 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #20 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #20 (19xx)(Softdisk).d81" size="819200" crc="6fedf657" md5="bd08b497eb57dea77cc8bcdf3cccddd9" sha1="534ebf84712cc763ab1158d6715b2a5c1e301b34"/>
+	</game>
+	<game name="Loadstar 128 Issue #21 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #21 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #21 (19xx)(Softdisk).d81" size="819200" crc="b5102338" md5="89c183f8cf9fb70dbf19f404f2c9601d" sha1="42eaf2518e6c7feaacf6efd91b667f0667553bac"/>
+	</game>
+	<game name="Loadstar 128 Issue #22 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #22 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #22 (19xx)(Softdisk).d81" size="819200" crc="9eaac6f7" md5="af39ced82e4f80215ede74fd0e63fa38" sha1="5d2daae8c95440bdeb0444c744127fa75553544c"/>
+	</game>
+	<game name="Loadstar 128 Issue #23 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #23 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #23 (19xx)(Softdisk).d81" size="819200" crc="726d7aa8" md5="84f6512339590d7c9d12083f4b3d11d4" sha1="838503bc17a1584e81ffe9ac4ed7936445dd2669"/>
+	</game>
+	<game name="Loadstar 128 Issue #24 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #24 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #24 (19xx)(Softdisk).d81" size="819200" crc="fbadb368" md5="79693d5198c09fbb7772d1129c45c982" sha1="4b0ffd9db1c266c4426a439d32b9a4ad0f71381c"/>
+	</game>
+	<game name="Loadstar 128 Issue #25 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #25 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #25 (19xx)(Softdisk).d81" size="819200" crc="a4d78f79" md5="4ea164cc04883ef5f0aa10bccbba2d34" sha1="6c6d7861c8cd0617eeddad7c9732279868c4f59a"/>
+	</game>
+	<game name="Loadstar 128 Issue #26 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #26 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #26 (19xx)(Softdisk).d81" size="819200" crc="384bc33c" md5="2402805a8cdfeb72387925957dfc6bc8" sha1="ef2072a392bac88c6d28b9826db53a1c23eb8dad"/>
+	</game>
+	<game name="Loadstar 128 Issue #27 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #27 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #27 (19xx)(Softdisk).d81" size="819200" crc="03f27e9b" md5="b8e04eee3d74047021622957449a5851" sha1="b00249a367a41d8aaebd9707cc8e89c9d5d91273"/>
+	</game>
+	<game name="Loadstar 128 Issue #28 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #28 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #28 (19xx)(Softdisk).d81" size="819200" crc="8dd5f734" md5="437a42b63d93b9a6119dd2b50764bc24" sha1="04971271b260f349dff306922a16c3c9d347795e"/>
+	</game>
+	<game name="Loadstar 128 Issue #29 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #29 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #29 (19xx)(Softdisk).d81" size="819200" crc="b4be6da9" md5="d4dbb3c9ff87ff6cfcbe576215545555" sha1="2a92687c3ecb9920561a40d804cf7b9d40a7dd92"/>
+	</game>
+	<game name="Loadstar 128 Issue #30 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #30 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #30 (19xx)(Softdisk).d81" size="819200" crc="e95ec665" md5="d8aac67034c8b10d8bde657b5571d25f" sha1="fea859fb6d0040ed1edde9cb9ce90df31ecaa5be"/>
+	</game>
+	<game name="Loadstar 128 Issue #31 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #31 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #31 (19xx)(Softdisk).d81" size="819200" crc="76170ece" md5="7e58b651e3ebc8e8df30a9912aaf37cf" sha1="cf9e413cfc33cbc3b84fc6796772d75b7746a50e"/>
+	</game>
+	<game name="Loadstar 128 Issue #32 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #32 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #32 (19xx)(Softdisk).d81" size="819200" crc="19d5b410" md5="ba8beb90ec16a04e138d6cca580af510" sha1="72712a49142b38dcf9beaf48c2f28c5766199a37"/>
+	</game>
+	<game name="Loadstar 128 Issue #33 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #33 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #33 (19xx)(Softdisk).d81" size="819200" crc="b0ec71ff" md5="138adf408ea1821d6c0f2517ffa321a1" sha1="a6f6a2f16cfdae4ffa153a529021a49334cb0c37"/>
+	</game>
+	<game name="Loadstar 128 Issue #34 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #34 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #34 (19xx)(Softdisk).d81" size="819200" crc="4f7d0ae1" md5="277bbd67a45ba3420ea6944b7ee88377" sha1="1bad69987a9764d52eb97fccc80fcd3f17471c3f"/>
+	</game>
+	<game name="Loadstar 128 Issue #35 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #35 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #35 (19xx)(Softdisk).d81" size="819200" crc="2cb8e6de" md5="3e74b0af1c2f387e21ada35e28bdcc66" sha1="73cce7172bf4924bebb22771656668dce1d608a3"/>
+	</game>
+	<game name="Loadstar 128 Issue #36 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #36 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #36 (19xx)(Softdisk).d81" size="819200" crc="3c69752e" md5="6c8be259e7f12e5be47f1bf9a588bcfe" sha1="81d1db0fde4aa1494f2a30887fcfab21cf869d89"/>
+	</game>
+	<game name="Loadstar 128 Issue #37 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #37 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #37 (19xx)(Softdisk).d81" size="819200" crc="9db956fc" md5="1b67390cdf7e2d805c0b6b57c14b1072" sha1="0a2b3db6278b9a044b3e02930651fe96b4afb2d8"/>
+	</game>
+	<game name="Loadstar 128 Issue #38 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #38 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #38 (19xx)(Softdisk).d81" size="819200" crc="59b4728c" md5="43b89e2756e4074dd6ff8bc2863ebdff" sha1="80047b51d3413ae2010c274596b70f62ee2cf011"/>
+	</game>
+	<game name="Loadstar 128 Issue #39 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #39 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #39 (19xx)(Softdisk).d81" size="819200" crc="7850ba74" md5="4a6a347684a5df55fe7c26efc616bc64" sha1="757267b80392dfbbde6b56af0d55a326c494a276"/>
+	</game>
+	<game name="Loadstar 128 Issue #40 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #40 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #40 (19xx)(Softdisk).d81" size="819200" crc="aa1023a1" md5="b42b84d56445e30b27be2bdda10a6e07" sha1="4d9fb6a5659208334fd247e16cea08de94b5713a"/>
+	</game>
+	<game name="Loadstar 128 Issue #41 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #41 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #41 (19xx)(Softdisk).d81" size="819200" crc="d77b7196" md5="db1802ed5d4dcf35a6cf0d920acf0faa" sha1="8e09f4b9573c453b96ddc21b620983f1ac70c768"/>
+	</game>
+	<game name="Loadstar 128 Issue #42 (19xx)(Softdisk)">
+		<description>Loadstar 128 Issue #42 (19xx)(Softdisk)</description>
+		<rom name="Loadstar 128 Issue #42 (19xx)(Softdisk).d81" size="819200" crc="d58b5819" md5="46385d40b1acec2a16279e2076179be1" sha1="9bed6689d4ed087f77a75eb0bbcb93c695766014"/>
+	</game>
+</datafile>

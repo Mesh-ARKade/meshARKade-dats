@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Super Power (FR)</name>
+		<description>Nintendo - Magazines - Super Power (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Super Power - N.01 (1992)(Sumo Editions)(FR)">
+		<description>Super Power - N.01 (1992)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.01 (1992)(Sumo Editions)(FR).pdf" size="45583901" crc="abe8deb1" md5="5caad9c723628d3958345059bc1badcc" sha1="0e21e245abb2f2b362eac7c9b86702593ba22909"/>
+	</game>
+	<game name="Super Power - N.01 (1992)(Sumo Editions)(FR)[Supplement - Le Guide Jeux Nintendo]">
+		<description>Super Power - N.01 (1992)(Sumo Editions)(FR)[Supplement - Le Guide Jeux Nintendo]</description>
+		<rom name="Super Power - N.01 (1992)(Sumo Editions)(FR)[Supplement - Le Guide Jeux Nintendo].pdf" size="11043837" crc="8ea6207d" md5="643f342596d5fc1e5f83f5faeae63ff7" sha1="4d4f6c8d4a126018ad9229a4af7c3e8ac424e335"/>
+	</game>
+	<game name="Super Power - N.02 (1992-09)(Sumo Editions)(FR)">
+		<description>Super Power - N.02 (1992-09)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.02 (1992-09)(Sumo Editions)(FR).pdf" size="56309068" crc="318a7477" md5="c9342939bdb1225d7f10011c86cf1794" sha1="71e41cd29ee27c1a391bbfa20a3931829e27386a"/>
+	</game>
+	<game name="Super Power - N.03 (1992-10)(Sumo Editions)(FR)">
+		<description>Super Power - N.03 (1992-10)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.03 (1992-10)(Sumo Editions)(FR).pdf" size="61192794" crc="098a0060" md5="92776bf34d04e9c523cfe7437b3cdb0b" sha1="388cfa1e83ca4bc4fee91f5bc7fbe51e99c1b911"/>
+	</game>
+	<game name="Super Power - N.03 (1992-10)(Sumo Editions)(FR)[Supplement - Street Fighter II]">
+		<description>Super Power - N.03 (1992-10)(Sumo Editions)(FR)[Supplement - Street Fighter II]</description>
+		<rom name="Super Power - N.03 (1992-10)(Sumo Editions)(FR)[Supplement - Street Fighter II].pdf" size="6641521" crc="040b6b1d" md5="50afc718b189fd62a16ec40bcef72962" sha1="83d1cff50d8854063fc9f579ded68422151723dd"/>
+	</game>
+	<game name="Super Power - N.04 (1992-12)(Sumo Editions)(FR)">
+		<description>Super Power - N.04 (1992-12)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.04 (1992-12)(Sumo Editions)(FR).pdf" size="69068852" crc="a56b1cec" md5="9c00e1860ce664d38e644b5cf4b155d0" sha1="ddcd9437e6e3a7692f4ebe8e4af7cffd9fb65432"/>
+	</game>
+	<game name="Super Power - N.05 (1993-01)(Sumo Editions)(FR)">
+		<description>Super Power - N.05 (1993-01)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.05 (1993-01)(Sumo Editions)(FR).pdf" size="50066305" crc="8d3b1155" md5="7b40e765d89145c1aba61f21c4486cd7" sha1="1c5f78c0390bcafc6e9ed13194271d222724a88c"/>
+	</game>
+	<game name="Super Power - N.06 (1993-02)(Sumo Editions)(FR)">
+		<description>Super Power - N.06 (1993-02)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.06 (1993-02)(Sumo Editions)(FR).pdf" size="48392684" crc="00324c3b" md5="3637976a4f9810b40707939da2039c29" sha1="672c5d9b33c05b216d93e53c1f9de99134941de5"/>
+	</game>
+	<game name="Super Power - N.07 (1993-03)(Sumo Editions)(FR)">
+		<description>Super Power - N.07 (1993-03)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.07 (1993-03)(Sumo Editions)(FR).pdf" size="73219631" crc="fd11c61b" md5="e1c7e02db0e53ed68a0f49eaf8da9bf3" sha1="6b71deae5a1c431d91e6de1fbc6118338c1287b9"/>
+	</game>
+	<game name="Super Power - N.08 (1993-04)(Sumo Editions)(FR)">
+		<description>Super Power - N.08 (1993-04)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.08 (1993-04)(Sumo Editions)(FR).pdf" size="66177277" crc="4a4a4166" md5="f0bd1d657b019d05d582c6239ff0061b" sha1="d91d53b5592204e28b2b937bc45e61a135e144b4"/>
+	</game>
+	<game name="Super Power - N.09 (1993-05)(Sumo Editions)(FR)">
+		<description>Super Power - N.09 (1993-05)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.09 (1993-05)(Sumo Editions)(FR).pdf" size="117589453" crc="f2359e8c" md5="220335667b5ccd09550e96fd59471a10" sha1="fbf91651331ac7b32a471473cd6508d97c9e0a5c"/>
+	</game>
+	<game name="Super Power - N.10 (1993-06)(Sumo Editions)(FR)">
+		<description>Super Power - N.10 (1993-06)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.10 (1993-06)(Sumo Editions)(FR).pdf" size="89122637" crc="756e54f2" md5="bae659b4226b6e38e2fd1c962a9b19e7" sha1="5794b2d9d5d15eecfc4d5f16289c74f70c32eb40"/>
+	</game>
+	<game name="Super Power - N.11 (1993-07)(Sumo Editions)(FR)">
+		<description>Super Power - N.11 (1993-07)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.11 (1993-07)(Sumo Editions)(FR).pdf" size="104602974" crc="627abace" md5="a9faa7ce7ecd3cae2de4e968de43873f" sha1="90300457db5be3677ffdd6714a178c4d35ebd500"/>
+	</game>
+	<game name="Super Power - N.12 (1993)(Sumo Editions)(FR)">
+		<description>Super Power - N.12 (1993)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.12 (1993)(Sumo Editions)(FR).pdf" size="100177556" crc="b4120b11" md5="533c2b83648613e52aeab11000508b62" sha1="703f716ccc514b527656bf99f073540fd7eafcf2"/>
+	</game>
+	<game name="Super Power - N.13 (1993-09)(Sumo Editions)(FR)">
+		<description>Super Power - N.13 (1993-09)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.13 (1993-09)(Sumo Editions)(FR).pdf" size="66821612" crc="2dede521" md5="e3af093d0111d8bfe685127bd2c01472" sha1="fbdd35ec0b136e55512dbbe1b96895e345740ee1"/>
+	</game>
+	<game name="Super Power - N.14 (1993-10)(Sumo Editions)(FR)">
+		<description>Super Power - N.14 (1993-10)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.14 (1993-10)(Sumo Editions)(FR).pdf" size="79402322" crc="c05b04e0" md5="46d18888fb9d44919145686122e396fb" sha1="262e3f49b5a23e8c65e387289e1b718b0e2b3c68"/>
+	</game>
+	<game name="Super Power - N.15 (1993-11)(Sumo Editions)(FR)">
+		<description>Super Power - N.15 (1993-11)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.15 (1993-11)(Sumo Editions)(FR).pdf" size="82894544" crc="2bce8465" md5="b5ff3844ad3a70fdd847a1774adaf651" sha1="4650c89f8aea13186911a7fb020e999c836e320f"/>
+	</game>
+	<game name="Super Power - N.16 (1993-12)(Sumo Editions)(FR)">
+		<description>Super Power - N.16 (1993-12)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.16 (1993-12)(Sumo Editions)(FR).pdf" size="88292700" crc="30716c12" md5="49ded6cc8d27b6505b024088b1bc2b0e" sha1="751e751b7e21f80c8811e1e75ab646a5e8438019"/>
+	</game>
+	<game name="Super Power - N.17 (1994-01)(Sumo Editions)(FR)">
+		<description>Super Power - N.17 (1994-01)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.17 (1994-01)(Sumo Editions)(FR).pdf" size="80118154" crc="f042fad4" md5="237f4ff50013241bf8b06dc91b03fcce" sha1="4da7f3d020f173fc8f99892b2ba353b0a3730463"/>
+	</game>
+	<game name="Super Power - N.18 (1994-02)(Sumo Editions)(FR)">
+		<description>Super Power - N.18 (1994-02)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.18 (1994-02)(Sumo Editions)(FR).pdf" size="269110020" crc="68ce9770" md5="5910b76f209738a1aa8789bfd12c294e" sha1="9027b2dcdc68b0d67a5f318e6a335c169a79da61"/>
+	</game>
+	<game name="Super Power - N.19 (1994-03)(Sumo Editions)(FR)">
+		<description>Super Power - N.19 (1994-03)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.19 (1994-03)(Sumo Editions)(FR).pdf" size="67287817" crc="ce4f7653" md5="3c36825be9182fa0c8d067112250caee" sha1="fd8200493d9fca6a4ae4f2c47ca7fefd210110e5"/>
+	</game>
+	<game name="Super Power - N.20 (1994-04)(Sumo Editions)(FR)">
+		<description>Super Power - N.20 (1994-04)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.20 (1994-04)(Sumo Editions)(FR).pdf" size="71243454" crc="16de6eb4" md5="ade1347702bc7d32fdb791599ad40808" sha1="5c17e2e9c8b6d5c1ea54c150f53d43f8784a611e"/>
+	</game>
+	<game name="Super Power - N.21 (1994-05)(Sumo Editions)(FR)">
+		<description>Super Power - N.21 (1994-05)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.21 (1994-05)(Sumo Editions)(FR).pdf" size="72895680" crc="a0e58824" md5="cb6b858b9530bc80364d69109aadfa20" sha1="196c86a0efefbd825d93a156acab99e6473f88da"/>
+	</game>
+	<game name="Super Power - N.22 (1994-06)(Sumo Editions)(FR)">
+		<description>Super Power - N.22 (1994-06)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.22 (1994-06)(Sumo Editions)(FR).pdf" size="70987352" crc="df5961e3" md5="3ea23e15115d664d60d591b587f1a67b" sha1="0a4bceb6f5d04828824a911d2a4c316ee172ea4a"/>
+	</game>
+	<game name="Super Power - N.22 (1994-06)(Sumo Editions)(FR)[Supplement - DBZ 2]">
+		<description>Super Power - N.22 (1994-06)(Sumo Editions)(FR)[Supplement - DBZ 2]</description>
+		<rom name="Super Power - N.22 (1994-06)(Sumo Editions)(FR)[Supplement - DBZ 2].pdf" size="64380746" crc="f6502c32" md5="1918cbda9e8e93fb0c7f1e2387278159" sha1="0b05bdc1fcbaefb22b48b2e5e18795c680160419"/>
+	</game>
+	<game name="Super Power - N.23 (1994)(Sumo Editions)(FR)">
+		<description>Super Power - N.23 (1994)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.23 (1994)(Sumo Editions)(FR).pdf" size="82524469" crc="29b3764e" md5="ba537862d138bec07912ec46d32b696c" sha1="07ce0bbdfc5d8a1ef745fffb87edfd8a664ebe9d"/>
+	</game>
+	<game name="Super Power - N.24 (1994-09)(Sumo Editions)(FR)">
+		<description>Super Power - N.24 (1994-09)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.24 (1994-09)(Sumo Editions)(FR).pdf" size="80922416" crc="14ef3ff9" md5="5162c01f1923ab8eb8dbbbb477cc25f5" sha1="fde31d0077c43d194584fd7eaa54dc83e89cbb9c"/>
+	</game>
+	<game name="Super Power - N.25 (1994-10)(Sumo Editions)(FR)">
+		<description>Super Power - N.25 (1994-10)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.25 (1994-10)(Sumo Editions)(FR).pdf" size="69402602" crc="77c798b1" md5="2833c4cd8ad5244a6113981df1f87b21" sha1="def376dfd9bd1306894b2ef5b9081c75a973bc87"/>
+	</game>
+	<game name="Super Power - N.26 (1994-11)(Sumo Editions)(FR)">
+		<description>Super Power - N.26 (1994-11)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.26 (1994-11)(Sumo Editions)(FR).pdf" size="77029718" crc="921d1be4" md5="c02928d4501377f62e9e741c784c5f20" sha1="5ab121f91aedd3c92377b16f26574786fe896763"/>
+	</game>
+	<game name="Super Power - N.27 (1994-12)(Sumo Editions)(FR)">
+		<description>Super Power - N.27 (1994-12)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.27 (1994-12)(Sumo Editions)(FR).pdf" size="80859469" crc="f3a7cc9e" md5="a24dde288dfc1ea487c6b867ce2c8aef" sha1="cf7ee769a2b47c850f65562a500df463649da6b0"/>
+	</game>
+	<game name="Super Power - N.28 (1995-01)(Sumo Editions)(FR)">
+		<description>Super Power - N.28 (1995-01)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.28 (1995-01)(Sumo Editions)(FR).pdf" size="72984461" crc="830ae5ec" md5="76c089dcade8fe964c0f28baef3d86ea" sha1="c4b1f5a641c07e5f6ec348ecb111c77858a9de03"/>
+	</game>
+	<game name="Super Power - N.29 (1995-02)(Sumo Editions)(FR)">
+		<description>Super Power - N.29 (1995-02)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.29 (1995-02)(Sumo Editions)(FR).pdf" size="76335551" crc="fba92451" md5="6b1093776aa1c5bb122f6d8557a9dca0" sha1="b8c8877d12f4d04d8ef17a97b2180ef3cab21820"/>
+	</game>
+	<game name="Super Power - N.30 (1995-03)(Sumo Editions)(FR)">
+		<description>Super Power - N.30 (1995-03)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.30 (1995-03)(Sumo Editions)(FR).pdf" size="57318265" crc="87737b22" md5="dbae6e03ad0f2441afbe22b8b3fb0269" sha1="4a003b8060d31fcced6acf2050db8b7e38410f47"/>
+	</game>
+	<game name="Super Power - N.31 (1995-04)(Sumo Editions)(FR)">
+		<description>Super Power - N.31 (1995-04)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.31 (1995-04)(Sumo Editions)(FR).pdf" size="55151555" crc="f16c999f" md5="e32fbdbc9bc776820268980584e10d6a" sha1="3b235c9e99fbfb8932432be0a96394d1969db749"/>
+	</game>
+	<game name="Super Power - N.32 (1995-05)(Sumo Editions)(FR)">
+		<description>Super Power - N.32 (1995-05)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.32 (1995-05)(Sumo Editions)(FR).pdf" size="52197309" crc="37c65d6a" md5="5d7e0dbf735f3520ce4bea66a96d0184" sha1="415c68109c708ce6f4cf2198d74afb89dd075a78"/>
+	</game>
+	<game name="Super Power - N.33 (1995-06)(Sumo Editions)(FR)">
+		<description>Super Power - N.33 (1995-06)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.33 (1995-06)(Sumo Editions)(FR).pdf" size="51063070" crc="fa410621" md5="fed4d2620c0701b80888cd1de4cc4f87" sha1="04a1570960718fd2fa13c6752f4b8e7b345600c8"/>
+	</game>
+	<game name="Super Power - N.34 (1995)(Sumo Editions)(FR)">
+		<description>Super Power - N.34 (1995)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.34 (1995)(Sumo Editions)(FR).pdf" size="60434807" crc="20557166" md5="485508ed6d2354c9c9741de84c05ee75" sha1="24fc9e3a60aafbeb7263b07aac0d943ca112680c"/>
+	</game>
+	<game name="Super Power - N.35 (1995-09)(Sumo Editions)(FR)">
+		<description>Super Power - N.35 (1995-09)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.35 (1995-09)(Sumo Editions)(FR).pdf" size="58352168" crc="414871b5" md5="bfac842e76593fac8d5b4884fa5767ea" sha1="a48a266655560d9b552bb0f0f381d433d70b4c13"/>
+	</game>
+	<game name="Super Power - N.36 (1995-10)(Sumo Editions)(FR)">
+		<description>Super Power - N.36 (1995-10)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.36 (1995-10)(Sumo Editions)(FR).pdf" size="55532130" crc="0077ce4d" md5="72eff53165ac7d80c02235972eb9d42a" sha1="b7492553ba34708c778f2f8af578e4a20ab5f1cf"/>
+	</game>
+	<game name="Super Power - N.37 (1995-11)(Sumo Editions)(FR)">
+		<description>Super Power - N.37 (1995-11)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.37 (1995-11)(Sumo Editions)(FR).pdf" size="57742505" crc="e375cdce" md5="0f4b5c89354299bf7406e8bd08dca31d" sha1="35c98e65bd8ca9c2c61d4fbafaef2073e5cc7b2f"/>
+	</game>
+	<game name="Super Power - N.38 (1995-12)(Sumo Editions)(FR)">
+		<description>Super Power - N.38 (1995-12)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.38 (1995-12)(Sumo Editions)(FR).pdf" size="62149561" crc="e8f3671f" md5="5a773ce79841e26a3b0d2d2839dafc9e" sha1="80279476b228793ed5e6f6107dfb2ddc0d8009e3"/>
+	</game>
+	<game name="Super Power - N.39 (1996-01)(Sumo Editions)(FR)">
+		<description>Super Power - N.39 (1996-01)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.39 (1996-01)(Sumo Editions)(FR).pdf" size="49093840" crc="41ae143c" md5="a50071a06515d0037de1959d7092419d" sha1="29b997924a29d9ec0d49d1478cb46a3ef952be1a"/>
+	</game>
+	<game name="Super Power - N.40 (1996-02)(Sumo Editions)(FR)">
+		<description>Super Power - N.40 (1996-02)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.40 (1996-02)(Sumo Editions)(FR).pdf" size="50199807" crc="5749e0dc" md5="92a2111f84d539c8fff2a7e0436ae2c8" sha1="bb5182de3f266de4ebd84a9222208991cdca7a6c"/>
+	</game>
+	<game name="Super Power - N.41 (1996-03)(Sumo Editions)(FR)">
+		<description>Super Power - N.41 (1996-03)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.41 (1996-03)(Sumo Editions)(FR).pdf" size="51884138" crc="119d5b9e" md5="2f8cbf0b1735ad97033b8e2c76118e4e" sha1="53974d1af7fd5dfecd8b898d912ead7513384e2d"/>
+	</game>
+	<game name="Super Power - N.42 (1996-05)(Sumo Editions)(FR)">
+		<description>Super Power - N.42 (1996-05)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.42 (1996-05)(Sumo Editions)(FR).pdf" size="46436315" crc="ee0b23b7" md5="5a69d16b74ef4210e21d07391d3b6c44" sha1="21aa01d179a7768819f24380964d887307a48490"/>
+	</game>
+	<game name="Super Power - N.43 (1996)(Sumo Editions)(FR)">
+		<description>Super Power - N.43 (1996)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.43 (1996)(Sumo Editions)(FR).pdf" size="50900836" crc="ccceaf2d" md5="1c58224ce0adcd426c8fab5d4fdbdd29" sha1="319489b4c878c8fa8715b6ef44bb896fbaf56a74"/>
+	</game>
+	<game name="Super Power - N.44 (1996-10)(Sumo Editions)(FR)">
+		<description>Super Power - N.44 (1996-10)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.44 (1996-10)(Sumo Editions)(FR).pdf" size="53584630" crc="91b36016" md5="dd417c97b3a354b3d757a298115aa421" sha1="8e6458ed8ba3e0585af6f52bcfb20631e22bfcac"/>
+	</game>
+	<game name="Super Power - N.45 (1996-12)(Sumo Editions)(FR)">
+		<description>Super Power - N.45 (1996-12)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.45 (1996-12)(Sumo Editions)(FR).pdf" size="42923999" crc="a82879b0" md5="bb1e7230c5c0eea233ca236cd95180b2" sha1="a7eb1c6b07452d088d951bde4929b9aa10873ade"/>
+	</game>
+	<game name="Super Power - N.46 (1997-05)(Sumo Editions)(FR)">
+		<description>Super Power - N.46 (1997-05)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.46 (1997-05)(Sumo Editions)(FR).pdf" size="54776601" crc="341477d9" md5="8af1d1f18c252795e1f5f888c762d730" sha1="71fbe0209c72748715f7d7c8b1e22b4bcfd5d38d"/>
+	</game>
+	<game name="Super Power - N.47 (1997-08)(Sumo Editions)(FR)">
+		<description>Super Power - N.47 (1997-08)(Sumo Editions)(FR)</description>
+		<rom name="Super Power - N.47 (1997-08)(Sumo Editions)(FR).pdf" size="53405246" crc="c6ef20b1" md5="9bf2c2fe40f40974267b84ff0ca8f752" sha1="7785764ae83e49045ac4693396f56d65d613bc1c"/>
+	</game>
+</datafile>

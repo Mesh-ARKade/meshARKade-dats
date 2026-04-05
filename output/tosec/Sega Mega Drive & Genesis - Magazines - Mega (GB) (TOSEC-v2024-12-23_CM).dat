@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega Drive &amp; Genesis - Magazines - Mega (GB)</name>
+		<description>Sega Mega Drive &amp; Genesis - Magazines - Mega (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mega - Issue 01 (1992-10)(Future Publishing)(GB)">
+		<description>Mega - Issue 01 (1992-10)(Future Publishing)(GB)</description>
+		<rom name="Mega - Issue 01 (1992-10)(Future Publishing)(GB).pdf" size="152800959" crc="f107cf15" md5="6efaaa9681e9276c4f317293b04edf0a" sha1="5ebdd9d5ad4b80d540a49afd79ff7949b42de434"/>
+	</game>
+	<game name="Mega - Issue 02 (1992-11)(Future Publishing)(GB)">
+		<description>Mega - Issue 02 (1992-11)(Future Publishing)(GB)</description>
+		<rom name="Mega - Issue 02 (1992-11)(Future Publishing)(GB).pdf" size="216159838" crc="9f1ee905" md5="5b8d93f7af828983e550b95f2c74b8a9" sha1="ffd49b374b7c8afef42d154b24a1e55394d93b21"/>
+	</game>
+	<game name="Mega - Issue 03 (1992-12)(Future Publishing)(GB)">
+		<description>Mega - Issue 03 (1992-12)(Future Publishing)(GB)</description>
+		<rom name="Mega - Issue 03 (1992-12)(Future Publishing)(GB).pdf" size="280259310" crc="1e5e172a" md5="6d9a550fa4e337f51039fa8b8d951bfc" sha1="1a9cb69e8f0c02a515ee704b5eda926846e2778a"/>
+	</game>
+	<game name="Mega - Issue 04 (1993-01)(Future Publishing)(GB)">
+		<description>Mega - Issue 04 (1993-01)(Future Publishing)(GB)</description>
+		<rom name="Mega - Issue 04 (1993-01)(Future Publishing)(GB).pdf" size="277414443" crc="70987341" md5="5daaae7f9e3874dd65dc46e3d32166cf" sha1="2d1da8048d5e8073a78f41178fbd40b81177d7c7"/>
+	</game>
+	<game name="Mega - Issue 05 (1993-02)(Future Publishing)(GB)">
+		<description>Mega - Issue 05 (1993-02)(Future Publishing)(GB)</description>
+		<rom name="Mega - Issue 05 (1993-02)(Future Publishing)(GB).pdf" size="299322401" crc="cfe3f727" md5="1418b67e22c3ad3726cbe57691550225" sha1="529db5942118b603710fd88f6cf0326ff3807b2c"/>
+	</game>
+	<game name="Mega - Issue 06 (1993-03)(Future Publishing)(GB)">
+		<description>Mega - Issue 06 (1993-03)(Future Publishing)(GB)</description>
+		<rom name="Mega - Issue 06 (1993-03)(Future Publishing)(GB).pdf" size="296957495" crc="eeb3aad4" md5="0478910cb9f777942ac9c2ef419e5643" sha1="44b795241604b5c9b14650ba413def507c12690a"/>
+	</game>
+	<game name="Mega - Issue 16 (1994-01)(Future Publishing)(GB)">
+		<description>Mega - Issue 16 (1994-01)(Future Publishing)(GB)</description>
+		<rom name="Mega - Issue 16 (1994-01)(Future Publishing)(GB).pdf" size="125553749" crc="6ce59c0c" md5="fbc2ab71167685640b3cc56b5430ab5e" sha1="0181ae9a70996e2fdd6d92c60ceae13c0719a5f2"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Consolemania (IT)</name>
+		<description>Multi-format - Magazines - Consolemania (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Consolemania - Anno 03 N.015 (1993-01)(Xenia)(IT)">
+		<description>Consolemania - Anno 03 N.015 (1993-01)(Xenia)(IT)</description>
+		<rom name="Consolemania - Anno 03 N.015 (1993-01)(Xenia)(IT).pdf" size="33501211" crc="b7b3f993" md5="af06bb220547001571458a7861dbcaed" sha1="ba3204662db7c9eb5c1a59030c984de7690f9532"/>
+	</game>
+	<game name="Consolemania - Anno 03 N.019 (1993-05)(Xenia)(IT)">
+		<description>Consolemania - Anno 03 N.019 (1993-05)(Xenia)(IT)</description>
+		<rom name="Consolemania - Anno 03 N.019 (1993-05)(Xenia)(IT).pdf" size="39806627" crc="fb4597cd" md5="59df23f231931e002ed4dfac234e1c59" sha1="551460ef6eaea82501cbd1802db39856b018545b"/>
+	</game>
+</datafile>

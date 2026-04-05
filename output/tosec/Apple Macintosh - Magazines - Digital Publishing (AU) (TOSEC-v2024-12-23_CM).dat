@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Magazines - Digital Publishing (AU)</name>
+		<description>Apple Macintosh - Magazines - Digital Publishing (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Digital Publishing - Vol 1 No 2 (1991-07)(IDG Communications)(AU)">
+		<description>Digital Publishing - Vol 1 No 2 (1991-07)(IDG Communications)(AU)</description>
+		<rom name="Digital Publishing - Vol 1 No 2 (1991-07)(IDG Communications)(AU).pdf" size="32793913" crc="a7e64e09" md5="34dbf1caaae80d1e298e65354d3fa304" sha1="f04c1826f4f38cf46f07302465eac26118a26ca7"/>
+	</game>
+</datafile>

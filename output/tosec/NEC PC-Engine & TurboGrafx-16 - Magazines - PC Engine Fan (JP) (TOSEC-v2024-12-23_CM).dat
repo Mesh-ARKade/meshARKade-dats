@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine &amp; TurboGrafx-16 - Magazines - PC Engine Fan (JP)</name>
+		<description>NEC PC-Engine &amp; TurboGrafx-16 - Magazines - PC Engine Fan (JP) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC Engine Fan (1993-06)(Tokuma Shoten)(JP)">
+		<description>PC Engine Fan (1993-06)(Tokuma Shoten)(JP)</description>
+		<rom name="PC Engine Fan (1993-06)(Tokuma Shoten)(JP).pdf" size="117529488" crc="0a851198" md5="015c816c8e7a6d62794ec87c54382265" sha1="9e0764bddd8ab646399667d6fd24fdd331ad4029"/>
+	</game>
+	<game name="PC Engine Fan (1993-08)(Tokuma Shoten)(JP)">
+		<description>PC Engine Fan (1993-08)(Tokuma Shoten)(JP)</description>
+		<rom name="PC Engine Fan (1993-08)(Tokuma Shoten)(JP).pdf" size="124941934" crc="0b3774b1" md5="fb1f169338d1933ce89193dfa280fd92" sha1="9cdba8826e7f023ba043038793f5b115e070bfb1"/>
+	</game>
+	<game name="PC Engine Fan (1994-11)(Tokuma Shoten)(JP)">
+		<description>PC Engine Fan (1994-11)(Tokuma Shoten)(JP)</description>
+		<rom name="PC Engine Fan (1994-11)(Tokuma Shoten)(JP).pdf" size="113531074" crc="d87af40a" md5="68456c5f22a710572c016afec32c53e2" sha1="0d6c2df41e9bf945d891b77a7db6039ae0a7a7fa"/>
+	</game>
+	<game name="PC Engine Fan (1994-12)(Tokuma Shoten)(JP)">
+		<description>PC Engine Fan (1994-12)(Tokuma Shoten)(JP)</description>
+		<rom name="PC Engine Fan (1994-12)(Tokuma Shoten)(JP).pdf" size="123294760" crc="df75d701" md5="c88714cac44d8edcd64be4d21872b8b6" sha1="e65d96c3539860d39eb3502f3d1d9fd521f2575a"/>
+	</game>
+	<game name="PC Engine Fan (1995-12)(Tokuma Shoten)(JP)">
+		<description>PC Engine Fan (1995-12)(Tokuma Shoten)(JP)</description>
+		<rom name="PC Engine Fan (1995-12)(Tokuma Shoten)(JP).pdf" size="133867815" crc="3e29e11d" md5="aa8647bcf09c09ab14781de85754b655" sha1="adb75e8b1031697648f16131a68ce1d0a1af562a"/>
+	</game>
+</datafile>

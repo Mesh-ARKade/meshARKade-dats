@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega Drive &amp; Genesis - Magazines - Sega Action (NZ)</name>
+		<description>Sega Mega Drive &amp; Genesis - Magazines - Sega Action (NZ) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Action - Issue 01 (1993-01)(Sega-Ozisoft)(NZ)">
+		<description>Sega Action - Issue 01 (1993-01)(Sega-Ozisoft)(NZ)</description>
+		<rom name="Sega Action - Issue 01 (1993-01)(Sega-Ozisoft)(NZ).pdf" size="33462659" crc="f4c9824a" md5="5aac8e18a82c0a0daffcd2d72284d000" sha1="0d9aa4d4b62a3ce506e9be44e403017d04ae054e"/>
+	</game>
+	<game name="Sega Action - Issue 02 (1993)(Sega-Ozisoft)(NZ)">
+		<description>Sega Action - Issue 02 (1993)(Sega-Ozisoft)(NZ)</description>
+		<rom name="Sega Action - Issue 02 (1993)(Sega-Ozisoft)(NZ).pdf" size="26094657" crc="0a73c449" md5="d05329887840db23b03c14896d53ce21" sha1="d4007237f5584cec59aa7b0d27590d0f6517c01d"/>
+	</game>
+	<game name="Sega Action - Issue 03 (1993)(Sega-Ozisoft)(NZ)">
+		<description>Sega Action - Issue 03 (1993)(Sega-Ozisoft)(NZ)</description>
+		<rom name="Sega Action - Issue 03 (1993)(Sega-Ozisoft)(NZ).pdf" size="31830097" crc="ff1926f9" md5="0213414d92aa2821fb256db8398a63d1" sha1="3b0a178f0ec2ff0512039b7f7a40ea9fa67bcf88"/>
+	</game>
+	<game name="Sega Action - Issue 04 (1993)(Sega-Ozisoft)(NZ)">
+		<description>Sega Action - Issue 04 (1993)(Sega-Ozisoft)(NZ)</description>
+		<rom name="Sega Action - Issue 04 (1993)(Sega-Ozisoft)(NZ).pdf" size="12882674" crc="f95dfa87" md5="4e630b7ac46e725cf270125c0d0b2aac" sha1="46503dee1a7a87bc53e40edefcc0b052d71d4c2c"/>
+	</game>
+	<game name="Sega Action - Issue 05 (1994)(Sega-Ozisoft)(NZ)">
+		<description>Sega Action - Issue 05 (1994)(Sega-Ozisoft)(NZ)</description>
+		<rom name="Sega Action - Issue 05 (1994)(Sega-Ozisoft)(NZ).pdf" size="15697559" crc="b404a0b7" md5="3a8e4b16b6184ee65cd458c6a02cdb59" sha1="f6402090f8c9d7b1634b0af203b12954c4e00922"/>
+	</game>
+	<game name="Sega Action - Issue 06 (1994)(Sega-Ozisoft)(NZ)">
+		<description>Sega Action - Issue 06 (1994)(Sega-Ozisoft)(NZ)</description>
+		<rom name="Sega Action - Issue 06 (1994)(Sega-Ozisoft)(NZ).pdf" size="10312382" crc="db17cb2b" md5="82071b1cc085c6a8520c865309024113" sha1="d75f9c7292eed411640817817ebaa4ce216f685a"/>
+	</game>
+</datafile>

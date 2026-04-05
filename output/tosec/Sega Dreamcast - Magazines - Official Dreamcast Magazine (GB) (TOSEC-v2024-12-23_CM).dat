@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Magazines - Official Dreamcast Magazine (GB)</name>
+		<description>Sega Dreamcast - Magazines - Official Dreamcast Magazine (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Official Dreamcast Magazine - Issue 11 (2000-09)(Dennis Publishing)(GB)">
+		<description>Official Dreamcast Magazine - Issue 11 (2000-09)(Dennis Publishing)(GB)</description>
+		<rom name="Official Dreamcast Magazine - Issue 11 (2000-09)(Dennis Publishing)(GB).pdf" size="287724770" crc="616a4bc7" md5="8353af2ae1da22d082eaf5a74ea96c62" sha1="43c80939770b149b874b57b3ff7faf5c047398e2"/>
+	</game>
+	<game name="Official Dreamcast Magazine - Issue 12 (2000-10)(Dennis Publishing)(GB)">
+		<description>Official Dreamcast Magazine - Issue 12 (2000-10)(Dennis Publishing)(GB)</description>
+		<rom name="Official Dreamcast Magazine - Issue 12 (2000-10)(Dennis Publishing)(GB).pdf" size="356978624" crc="67b8b7db" md5="da3d872e5350a253d00ec390e3646f6a" sha1="8cb64bd378c18fa9a1eeee50a4cc1dab71610325"/>
+	</game>
+	<game name="Official Dreamcast Magazine - Issue 18 (2001-04)(Dennis Publishing)(GB)">
+		<description>Official Dreamcast Magazine - Issue 18 (2001-04)(Dennis Publishing)(GB)</description>
+		<rom name="Official Dreamcast Magazine - Issue 18 (2001-04)(Dennis Publishing)(GB).pdf" size="285023693" crc="305570b1" md5="0279accbdbb28ea34647aa29f9b59fa0" sha1="94923927a3b9caa7129653fb3f908f4a2fd1752d"/>
+	</game>
+	<game name="Official Dreamcast Magazine - Issue 19 (2001-05)(Dennis Publishing)(GB)">
+		<description>Official Dreamcast Magazine - Issue 19 (2001-05)(Dennis Publishing)(GB)</description>
+		<rom name="Official Dreamcast Magazine - Issue 19 (2001-05)(Dennis Publishing)(GB).pdf" size="309656169" crc="455215de" md5="3d7eb97d9f7353797e5395d9683056f2" sha1="2f7ae830f25d1b0dfe95a49bde32da013b60aa5f"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Preview Issue (1999-08)(Dennis Publishing)(GB)">
+		<description>Official Dreamcast Magazine, The - Preview Issue (1999-08)(Dennis Publishing)(GB)</description>
+		<rom name="Official Dreamcast Magazine, The - Preview Issue (1999-08)(Dennis Publishing)(GB).pdf" size="12770610" crc="70096bfe" md5="9d539419dc989a8f81dada9bd5879501" sha1="3faf6112ebe71b3aa57a7fae512bc3225e7edc26"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Special Issue (1999-10)(Dennis Publishing)(GB)">
+		<description>Official Dreamcast Magazine, The - Special Issue (1999-10)(Dennis Publishing)(GB)</description>
+		<rom name="Official Dreamcast Magazine, The - Special Issue (1999-10)(Dennis Publishing)(GB).pdf" size="358835474" crc="f2dd5db2" md5="265540428f0ec46ecf4ce73263830ecf" sha1="1ff7b4ab27bcba02d34098106b9e780b9d9c5c55"/>
+	</game>
+</datafile>

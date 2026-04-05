@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine &amp; TurboGrafx-16 - Magazines - TurboForce (US)</name>
+		<description>NEC PC-Engine &amp; TurboGrafx-16 - Magazines - TurboForce (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="TurboForce - Volume 1 (1992-06)(Sendai Publishing)(US)">
+		<description>TurboForce - Volume 1 (1992-06)(Sendai Publishing)(US)</description>
+		<rom name="TurboForce - Volume 1 (1992-06)(Sendai Publishing)(US).pdf" size="13861593" crc="3a06319b" md5="73cb2c626a237b888bd445e5335a4678" sha1="3a05410bbf6239058caf76cd650dc91a68f08889"/>
+	</game>
+	<game name="TurboForce - Volume 2 (1992-09)(Sendai Publishing)(US)">
+		<description>TurboForce - Volume 2 (1992-09)(Sendai Publishing)(US)</description>
+		<rom name="TurboForce - Volume 2 (1992-09)(Sendai Publishing)(US).pdf" size="14223671" crc="92709952" md5="c57c6bec6d6cee570f379f6320d4d862" sha1="dc25d29310d964c987158ee03201f6cbef134602"/>
+	</game>
+	<game name="TurboForce - Volume 3 (1993-01)(Sendai Publishing)(US)">
+		<description>TurboForce - Volume 3 (1993-01)(Sendai Publishing)(US)</description>
+		<rom name="TurboForce - Volume 3 (1993-01)(Sendai Publishing)(US).pdf" size="16461893" crc="99c6288e" md5="6fa3b8332f515bb5d370637c7e1c0304" sha1="cb7e77f09eed6b850c6afcfc93f89a5677282759"/>
+	</game>
+</datafile>

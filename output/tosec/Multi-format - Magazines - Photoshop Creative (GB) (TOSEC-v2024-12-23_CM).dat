@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Photoshop Creative (GB)</name>
+		<description>Multi-format - Magazines - Photoshop Creative (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Photoshop Creative - Issue 088 (2012)(Imagine Publishing)(GB)">
+		<description>Photoshop Creative - Issue 088 (2012)(Imagine Publishing)(GB)</description>
+		<rom name="Photoshop Creative - Issue 088 (2012)(Imagine Publishing)(GB).pdf" size="114200001" crc="6fde23b0" md5="ecc2a76538c47f7ba9248f05772a306b" sha1="a45901dc0e38c716c5136f597f84b15ca8562c82"/>
+	</game>
+	<game name="Photoshop Creative - Issue 110 (2014)(Imagine Publishing)(GB)">
+		<description>Photoshop Creative - Issue 110 (2014)(Imagine Publishing)(GB)</description>
+		<rom name="Photoshop Creative - Issue 110 (2014)(Imagine Publishing)(GB).pdf" size="32147169" crc="0bb975de" md5="01776eabc41a8b4e1c95e634252aeec8" sha1="9fe633b12515bb39d50af15b665d8acb495a6433"/>
+	</game>
+	<game name="Photoshop Creative - Issue 111 (2014)(Imagine Publishing)(GB)">
+		<description>Photoshop Creative - Issue 111 (2014)(Imagine Publishing)(GB)</description>
+		<rom name="Photoshop Creative - Issue 111 (2014)(Imagine Publishing)(GB).pdf" size="48792977" crc="4c394554" md5="1427a86e062427933cc70c7a888133b1" sha1="2629d7b943813eb169d4aa47fb42778e7fb21451"/>
+	</game>
+	<game name="Photoshop Creative Annual - Volume 1 (2015)(Imagine Publishing)(GB)">
+		<description>Photoshop Creative Annual - Volume 1 (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Photoshop Creative Annual - Volume 1 (2015)(Imagine Publishing)(GB).pdf" size="112250971" crc="445e1d3f" md5="99b88fda0a2ceb99682b1f4699470c32" sha1="a92b93c53352e67ea3b23837b5055d9ed74c704d"/>
+	</game>
+	<game name="Photoshop Creative Collection - Volume 07 (2011)(Imagine Publishing)(GB)">
+		<description>Photoshop Creative Collection - Volume 07 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Photoshop Creative Collection - Volume 07 (2011)(Imagine Publishing)(GB).pdf" size="92322687" crc="dfdf665e" md5="bc781ab2964d4059e8a92698612cdf28" sha1="51ab359098961bef453bd4854a13eb01f227af51"/>
+	</game>
+	<game name="Photoshop Creative Collection - Volume 08 (2012)(Imagine Publishing)(GB)">
+		<description>Photoshop Creative Collection - Volume 08 (2012)(Imagine Publishing)(GB)</description>
+		<rom name="Photoshop Creative Collection - Volume 08 (2012)(Imagine Publishing)(GB).pdf" size="94717799" crc="7bbc6785" md5="d93f0d90b4fdb67dad52e62f3b27414f" sha1="113a5b6a00c614e56f8c6a9c3d1099308a50e545"/>
+	</game>
+</datafile>

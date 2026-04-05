@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - CD - Magazines - Amiga CD! (GB)</name>
+		<description>Commodore Amiga - CD - Magazines - Amiga CD! (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amiga CD! - Issue 2 (1994-05)(Amiga CD)">
+		<description>Amiga CD! - Issue 2 (1994-05)(Amiga CD)</description>
+		<rom name="Amiga CD! - Issue 2 (1994-05)(Amiga CD).pdf" size="75113718" crc="defa6646" md5="e7fc894e78f5328a17e4f7f878b010d7" sha1="bf632e5c11405616495f9479af9cc07eeeda2dff"/>
+	</game>
+	<game name="Amiga CD! - Issue 8 (1994-07)(Amiga CD)">
+		<description>Amiga CD! - Issue 8 (1994-07)(Amiga CD)</description>
+		<rom name="Amiga CD! - Issue 8 (1994-07)(Amiga CD).pdf" size="72614559" crc="1d209fc3" md5="c3a20552dfacce3894bc361d3271c8fa" sha1="210c4bc1b292276f8b03d082c79af36660dd7c76"/>
+	</game>
+</datafile>

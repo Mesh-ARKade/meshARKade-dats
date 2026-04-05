@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo GameCube - Magazines - Nintendo Gamer (AU)</name>
+		<description>Nintendo GameCube - Magazines - Nintendo Gamer (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Gamer - Issue 04 (2001-11)(Next Publishing)(AU)">
+		<description>Nintendo Gamer - Issue 04 (2001-11)(Next Publishing)(AU)</description>
+		<rom name="Nintendo Gamer - Issue 04 (2001-11)(Next Publishing)(AU).pdf" size="185214383" crc="7d266ba1" md5="a659077e503be5188444dcfe0fa93df5" sha1="6f943cea22640e5933e4966ce8a3299ff833f0a8"/>
+	</game>
+	<game name="Nintendo Gamer - Issue 05 (2001-12)(Next Publishing)(AU)">
+		<description>Nintendo Gamer - Issue 05 (2001-12)(Next Publishing)(AU)</description>
+		<rom name="Nintendo Gamer - Issue 05 (2001-12)(Next Publishing)(AU).pdf" size="220854281" crc="bc506861" md5="85182d68e8d8d446bc47dc3dc84aa8f7" sha1="27196c0bc28164a783209004b233063beaa9db76"/>
+	</game>
+	<game name="Nintendo Gamer - Issue 12 (2002-10)(Next Publishing)(AU)">
+		<description>Nintendo Gamer - Issue 12 (2002-10)(Next Publishing)(AU)</description>
+		<rom name="Nintendo Gamer - Issue 12 (2002-10)(Next Publishing)(AU).pdf" size="195293686" crc="b7e63358" md5="6c823c4c1b21bf8fd27b5d6a666f3dc7" sha1="789df40e2cee2d04c4cd874e9ee8804055a61f6b"/>
+	</game>
+	<game name="Nintendo Gamer - Issue 13 (2002-11)(Next Publishing)(AU)">
+		<description>Nintendo Gamer - Issue 13 (2002-11)(Next Publishing)(AU)</description>
+		<rom name="Nintendo Gamer - Issue 13 (2002-11)(Next Publishing)(AU).pdf" size="289472304" crc="3fff35d9" md5="2bf94715bc663fcc2ae30ab689ccdb8e" sha1="73e553d29d41a40b716feb07776c1765b8ba6c54"/>
+	</game>
+	<game name="Nintendo Gamer - Issue 14 (2002-12)(Next Publishing)(AU)">
+		<description>Nintendo Gamer - Issue 14 (2002-12)(Next Publishing)(AU)</description>
+		<rom name="Nintendo Gamer - Issue 14 (2002-12)(Next Publishing)(AU).pdf" size="323460371" crc="c1b329a4" md5="1ce90bfbcebbb82ed84df7272b13cb67" sha1="1aeb02c2efdf8e86560ee4d436a5a5030efc0481"/>
+	</game>
+	<game name="Nintendo Gamer - Issue 15 (2003-01)(Next Publishing)(AU)">
+		<description>Nintendo Gamer - Issue 15 (2003-01)(Next Publishing)(AU)</description>
+		<rom name="Nintendo Gamer - Issue 15 (2003-01)(Next Publishing)(AU).pdf" size="313361294" crc="0eceeb17" md5="91609332ef8e047861656f83f101c09b" sha1="d776779cc7c902c448c8635103db5725bbe1bdb2"/>
+	</game>
+</datafile>

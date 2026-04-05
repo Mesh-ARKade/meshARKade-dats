@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Retro Gamer (GB)</name>
+		<description>Multi-format - Magazines - Retro Gamer (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="100 Games to Play Before You Die (2018)(Future Publishing)(GB)">
+		<description>100 Games to Play Before You Die (2018)(Future Publishing)(GB)</description>
+		<rom name="100 Games to Play Before You Die (2018)(Future Publishing)(GB).pdf" size="42071130" crc="636eef79" md5="f71d84fdf4b008c035d00d842424c382" sha1="6fd55343e999e13de0ece378de65bec4c18b741a"/>
+	</game>
+	<game name="100 Games to Play Before You Die (2019)(Future Publishing)(GB)[second edition]">
+		<description>100 Games to Play Before You Die (2019)(Future Publishing)(GB)[second edition]</description>
+		<rom name="100 Games to Play Before You Die (2019)(Future Publishing)(GB)[second edition].pdf" size="211726660" crc="29305daf" md5="ee9fa7e428824dc1de71a0a930f3fde1" sha1="65e2fc423d541033b6f793c0fcbb17a2e81cf348"/>
+	</game>
+	<game name="100 Games to Play Before You Die (2021)(Future Publishing)(GB)[third edition]">
+		<description>100 Games to Play Before You Die (2021)(Future Publishing)(GB)[third edition]</description>
+		<rom name="100 Games to Play Before You Die (2021)(Future Publishing)(GB)[third edition].pdf" size="212545801" crc="e1f83794" md5="a871a98601922235a4c2cec56352d411" sha1="66b90e781795074fd1a6f0b1ddf294a5c615ca0c"/>
+	</game>
+	<game name="100 Games to Play Before You Die (2022)(Future Publishing)(GB)[fourth edition]">
+		<description>100 Games to Play Before You Die (2022)(Future Publishing)(GB)[fourth edition]</description>
+		<rom name="100 Games to Play Before You Die (2022)(Future Publishing)(GB)[fourth edition].pdf" size="78223643" crc="933b4357" md5="dc291f1cb2eab97d07b65078c2127f47" sha1="973c5dc661049a5143646701ab1b0419b83aa5f4"/>
+	</game>
+	<game name="100 Games to Play Before You Die - Nintendo Consoles Edition (2019)(Future Publishing)(GB)">
+		<description>100 Games to Play Before You Die - Nintendo Consoles Edition (2019)(Future Publishing)(GB)</description>
+		<rom name="100 Games to Play Before You Die - Nintendo Consoles Edition (2019)(Future Publishing)(GB).pdf" size="208742400" crc="d72f1242" md5="0bff5c8b20631d21177e97b947416a98" sha1="98e7e976bb98c2098ae0c0118e8c9d298191018f"/>
+	</game>
+	<game name="100 Games to Play Before You Die - Nintendo Consoles Edition (2020)(Future Publishing)(GB)[second edition]">
+		<description>100 Games to Play Before You Die - Nintendo Consoles Edition (2020)(Future Publishing)(GB)[second edition]</description>
+		<rom name="100 Games to Play Before You Die - Nintendo Consoles Edition (2020)(Future Publishing)(GB)[second edition].pdf" size="200266914" crc="1c73dbb7" md5="5f80b5d62f6d6984ebd998c6cb672a7c" sha1="8237eb6a1a897e9749d9e6b771cc23abffdd9451"/>
+	</game>
+	<game name="100 PlayStation Games to Play Before You Die (2019)(Future Publishing)(GB)[first edition]">
+		<description>100 PlayStation Games to Play Before You Die (2019)(Future Publishing)(GB)[first edition]</description>
+		<rom name="100 PlayStation Games to Play Before You Die (2019)(Future Publishing)(GB)[first edition].pdf" size="367527169" crc="08b20441" md5="76406104c5cb1273fbbac1f516ac4c52" sha1="18ae2d20e112f47784f0a8522d70f88e6899093e"/>
+	</game>
+	<game name="Amiga Book, The (2016)(Imagine Publishing)(GB)[a][third edition]">
+		<description>Amiga Book, The (2016)(Imagine Publishing)(GB)[a][third edition]</description>
+		<rom name="Amiga Book, The (2016)(Imagine Publishing)(GB)[a][third edition].pdf" size="128095452" crc="121afc03" md5="6755f446acdfa6334c8da809a9904411" sha1="b2ee812d4d527fac6ede02ec6fd6bc5a543f67d2"/>
+	</game>
+	<game name="Amiga Book, The (2016)(Imagine Publishing)(GB)[third edition]">
+		<description>Amiga Book, The (2016)(Imagine Publishing)(GB)[third edition]</description>
+		<rom name="Amiga Book, The (2016)(Imagine Publishing)(GB)[third edition].pdf" size="64261901" crc="25c0dc63" md5="b8b3d77eb013fe1aa134eb405f9b3104" sha1="ccbac64bce960224924c4b36e1c26256708df381"/>
+	</game>
+	<game name="Amiga Book, The - Volume 1 (2015)(Imagine Publishing)(GB)[revised edition]">
+		<description>Amiga Book, The - Volume 1 (2015)(Imagine Publishing)(GB)[revised edition]</description>
+		<rom name="Amiga Book, The - Volume 1 (2015)(Imagine Publishing)(GB)[revised edition].pdf" size="100166207" crc="e87a50bb" md5="5a371e25f75dba32cd286b475ae58f6a" sha1="3f4596c054f5291b370d5ba18e502945679f08b5"/>
+	</game>
+	<game name="Atari Book, The (2012)(Imagine Publishing)(GB)">
+		<description>Atari Book, The (2012)(Imagine Publishing)(GB)</description>
+		<rom name="Atari Book, The (2012)(Imagine Publishing)(GB).pdf" size="101424970" crc="72996405" md5="1efebbb40f80cc74db0f2ced1cb70ff4" sha1="1d2ac4fd5d266244f9f46c387f59d0c10542b659"/>
+	</game>
+	<game name="Atari Book, The (2012)(Imagine Publishing)(GB)[a]">
+		<description>Atari Book, The (2012)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Atari Book, The (2012)(Imagine Publishing)(GB)[a].pdf" size="132613579" crc="375e888d" md5="42cb24ae723bd0384be373b08cea12ff" sha1="b3f83a33deeb26712caf5f8242dc720eaf9f3521"/>
+	</game>
+	<game name="Atari Book, The (2015)(Imagine Publishing)(GB)[revised edition]">
+		<description>Atari Book, The (2015)(Imagine Publishing)(GB)[revised edition]</description>
+		<rom name="Atari Book, The (2015)(Imagine Publishing)(GB)[revised edition].pdf" size="56627569" crc="a9b2c865" md5="4f292cc3f3a3ae0216dd859faba2075f" sha1="481c7953c5d150e64ab31889e3908cb9c5eb3c05"/>
+	</game>
+	<game name="Atari ST, The Complete Manual (2015)(Imagine Publishing)(GB)[first edition]">
+		<description>Atari ST, The Complete Manual (2015)(Imagine Publishing)(GB)[first edition]</description>
+		<rom name="Atari ST, The Complete Manual (2015)(Imagine Publishing)(GB)[first edition].pdf" size="80323919" crc="7b432eb8" md5="4793b92c4abbc6819b6e63fd8170b3ab" sha1="6d81e8164d7008ab90480fa0e16edec7c7a5083a"/>
+	</game>
+	<game name="Back To 1982 (2015)(Imagine Publishing)(GB)">
+		<description>Back To 1982 (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Back To 1982 (2015)(Imagine Publishing)(GB).pdf" size="17135017" crc="7a7d6fa1" md5="1654c01931456158f5650e62497dde54" sha1="4131b50b62fcb0a9660ae6daa8a2de6fec4a7d0a"/>
+	</game>
+	<game name="Back To 1983 (2015)(Imagine Publishing)(GB)">
+		<description>Back To 1983 (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Back To 1983 (2015)(Imagine Publishing)(GB).pdf" size="26572161" crc="c4f2a52d" md5="2ab25fd3e6659ad66ba081a32c901ced" sha1="ae5b304c296761d47786dc1cca32af459e8063d1"/>
+	</game>
+	<game name="Book of Arcade Classics (2015)(Imagine Publishing)(GB)">
+		<description>Book of Arcade Classics (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Book of Arcade Classics (2015)(Imagine Publishing)(GB).pdf" size="99757470" crc="fc11f9e2" md5="5bf43426874d66b70b9445d332044e38" sha1="6cdb78232190aa10e77be545eda29444157f966e"/>
+	</game>
+	<game name="Book of Arcade Classics (2015)(Imagine Publishing)(GB)[a]">
+		<description>Book of Arcade Classics (2015)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Book of Arcade Classics (2015)(Imagine Publishing)(GB)[a].pdf" size="145508048" crc="1a364742" md5="7e94f2aaf4232dbf647cd7a197850c04" sha1="9fbf65f9498ee8acaf42738dcec6d3e4e985ffe1"/>
+	</game>
+	<game name="Book of Arcade Classics (2016)(Imagine Publishing)(GB)[a][second edition]">
+		<description>Book of Arcade Classics (2016)(Imagine Publishing)(GB)[a][second edition]</description>
+		<rom name="Book of Arcade Classics (2016)(Imagine Publishing)(GB)[a][second edition].pdf" size="60246719" crc="e73af278" md5="1d401d64d87b99d1934521367ae576a0" sha1="74f65ec9aad7279d04e1eca2fa8d6f8fd1cfc757"/>
+	</game>
+	<game name="Book of Arcade Classics (2016)(Imagine Publishing)(GB)[second edition]">
+		<description>Book of Arcade Classics (2016)(Imagine Publishing)(GB)[second edition]</description>
+		<rom name="Book of Arcade Classics (2016)(Imagine Publishing)(GB)[second edition].pdf" size="30617935" crc="d253c9e5" md5="af02fa2a2779746306382ba4c22b0cb8" sha1="97ab4e62a1e3771d642be567b98418c61aa413ce"/>
+	</game>
+	<game name="Book of Arcade Classics (2019)(Future Publishing)(GB)[fifth edition]">
+		<description>Book of Arcade Classics (2019)(Future Publishing)(GB)[fifth edition]</description>
+		<rom name="Book of Arcade Classics (2019)(Future Publishing)(GB)[fifth edition].pdf" size="50509171" crc="ff700bce" md5="78fbb44c45b395e44d7147aaf1b17665" sha1="4b23ec204544f06e9b8eb9b2d7c943d0428942ec"/>
+	</game>
+	<game name="Book of Arcade Classics (2022)(Future Publishing)(GB)[seventh edition]">
+		<description>Book of Arcade Classics (2022)(Future Publishing)(GB)[seventh edition]</description>
+		<rom name="Book of Arcade Classics (2022)(Future Publishing)(GB)[seventh edition].pdf" size="56696527" crc="f1dec8aa" md5="7cdb30f600c7bd3b2787c39ae9fe35a3" sha1="a5ee3779018658ab015fc52003f43d0ff5170d9a"/>
+	</game>
+	<game name="Book of Mario, The (2018)(Future Publishing)(GB)">
+		<description>Book of Mario, The (2018)(Future Publishing)(GB)</description>
+		<rom name="Book of Mario, The (2018)(Future Publishing)(GB).pdf" size="31737091" crc="13eb9df5" md5="a182f55e0e867048caab25dafb903152" sha1="afe59b8e83927aec98799f3fc4a7ea1597d0901a"/>
+	</game>
+	<game name="Book of Mario, The (2019)(Future Publishing)(GB)[second edition]">
+		<description>Book of Mario, The (2019)(Future Publishing)(GB)[second edition]</description>
+		<rom name="Book of Mario, The (2019)(Future Publishing)(GB)[second edition].pdf" size="136133475" crc="5fcf6d95" md5="0371bc23ff6a962e937815df622daad3" sha1="e9831bf8a0bf4669b78b9023bb288ac4c1efff14"/>
+	</game>
+	<game name="Book of Mario, The (2022)(Future Publishing)(GB)[eighth edition]">
+		<description>Book of Mario, The (2022)(Future Publishing)(GB)[eighth edition]</description>
+		<rom name="Book of Mario, The (2022)(Future Publishing)(GB)[eighth edition].pdf" size="53125667" crc="f9b6a285" md5="2a20d390dd9fd5ae77bbc141c339c4b4" sha1="5dbb5e7590bcf32e9b61349071bb67ce1988a4e5"/>
+	</game>
+	<game name="Commodore 64 Book, The (2012)(Imagine Publishing)(GB)">
+		<description>Commodore 64 Book, The (2012)(Imagine Publishing)(GB)</description>
+		<rom name="Commodore 64 Book, The (2012)(Imagine Publishing)(GB).pdf" size="142084801" crc="383fa09e" md5="f7df8117f4290a70700f3ee105fbc19b" sha1="cc0d3aa1a0e2b1f41d6406fb9fca67ed11d22877"/>
+	</game>
+	<game name="Greatest Gaming Icons (2020)(Future Publishing)(GB)[second edition]">
+		<description>Greatest Gaming Icons (2020)(Future Publishing)(GB)[second edition]</description>
+		<rom name="Greatest Gaming Icons (2020)(Future Publishing)(GB)[second edition].pdf" size="189249095" crc="841ce737" md5="dc77813f946b37227fd948fc52acfb42" sha1="d37d58205808ed3fc7b0f48d0e65e166fff57f8f"/>
+	</game>
+	<game name="Greatest Gaming Icons (2022)(Future Publishing)(GB)[third edition]">
+		<description>Greatest Gaming Icons (2022)(Future Publishing)(GB)[third edition]</description>
+		<rom name="Greatest Gaming Icons (2022)(Future Publishing)(GB)[third edition].pdf" size="54669772" crc="1d939855" md5="0901557dd147e269604b32ea598bf417" sha1="b4358486c66832c6f61e920cd269bb2730b50b65"/>
+	</game>
+	<game name="Mega Drive Book, The (2013)(Imagine Publishing)(GB)">
+		<description>Mega Drive Book, The (2013)(Imagine Publishing)(GB)</description>
+		<rom name="Mega Drive Book, The (2013)(Imagine Publishing)(GB).pdf" size="89918889" crc="d3ee8a1d" md5="bd10d535ff465d06196d89d202f962c7" sha1="3c6f5f8d112b05120d65bf304f32e6dce692a3da"/>
+	</game>
+	<game name="N64 Book, The (2016)(Imagine Publishing)(GB)">
+		<description>N64 Book, The (2016)(Imagine Publishing)(GB)</description>
+		<rom name="N64 Book, The (2016)(Imagine Publishing)(GB).pdf" size="48785915" crc="dc587529" md5="6aaafe6ff03b95af1294801c23c6c916" sha1="ddd404ee63d5a7bc2875f7829287063076e3e806"/>
+	</game>
+	<game name="NES and Master System Book, The (2015)(Imagine Publishing)(GB)">
+		<description>NES and Master System Book, The (2015)(Imagine Publishing)(GB)</description>
+		<rom name="NES and Master System Book, The (2015)(Imagine Publishing)(GB).pdf" size="106107245" crc="a6270e73" md5="0729d4116f45dd55be414c476f1aa6d7" sha1="63523f72f5911cf9400895eb1239abfd2e619155"/>
+	</game>
+	<game name="NES and SNES Book, The (2019)(Imagine Publishing)(GB)[second edition]">
+		<description>NES and SNES Book, The (2019)(Imagine Publishing)(GB)[second edition]</description>
+		<rom name="NES and SNES Book, The (2019)(Imagine Publishing)(GB)[second edition].pdf" size="170961317" crc="9c8c61a6" md5="5ed5b424486312da1679642f0ff15a42" sha1="64a2c566a40ce58112599e1589c7475e6f5a5068"/>
+	</game>
+	<game name="Nintendo Archives (2019)(Future Publishing)(GB)[third edition]">
+		<description>Nintendo Archives (2019)(Future Publishing)(GB)[third edition]</description>
+		<rom name="Nintendo Archives (2019)(Future Publishing)(GB)[third edition].pdf" size="88144442" crc="87c68268" md5="7f34b5c0ccceb237a3ecfe2e9266d2ba" sha1="00e9651bb87609a852f41f9022f682ab9cb25da5"/>
+	</game>
+	<game name="PlayStation Book, The (2015)(Imagine Publishing)(GB)">
+		<description>PlayStation Book, The (2015)(Imagine Publishing)(GB)</description>
+		<rom name="PlayStation Book, The (2015)(Imagine Publishing)(GB).pdf" size="104613239" crc="62b435e5" md5="53c8c801bc6d4894dfc2340a027d0fbb" sha1="49e0500d6cbf872302ea083355a0ed3f6939e101"/>
+	</game>
+	<game name="Retro - Vol.4 (2011)(Imagine Publishing)(GB)">
+		<description>Retro - Vol.4 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro - Vol.4 (2011)(Imagine Publishing)(GB).pdf" size="112062384" crc="803751d2" md5="c33611565d3737bf03a2c9149ceb1bf7" sha1="3f4de617d90dbf448e855c49dcf7408cc1dd5abc"/>
+	</game>
+	<game name="Retro - Vol.8 (2015)(Imagine Publishing)(GB)">
+		<description>Retro - Vol.8 (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Retro - Vol.8 (2015)(Imagine Publishing)(GB).pdf" size="26533391" crc="79a2cb6d" md5="2490d67be21262dcdb855b9e612c3c48" sha1="8b950a8b65c5cea9560d5a5eaaccedfd543020a2"/>
+	</game>
+	<game name="Retro - Vol.8 (2015)(Imagine Publishing)(GB)[a]">
+		<description>Retro - Vol.8 (2015)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Retro - Vol.8 (2015)(Imagine Publishing)(GB)[a].pdf" size="135058420" crc="533cf8c0" md5="8aff9a0ea7042b34b05562dbe14cd779" sha1="bde1127028dd87bb99aa90565182f11a25e80190"/>
+	</game>
+	<game name="Retro - Volume 1 (2004)(Live Publishing)(GB)">
+		<description>Retro - Volume 1 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro - Volume 1 (2004)(Live Publishing)(GB).pdf" size="41510248" crc="31bee4af" md5="a22c66b2e24a552d3ee31e77405dbf2d" sha1="78763f6d98ebf1a9559796294c9385d4efc03a79"/>
+	</game>
+	<game name="Retro - Volume 2 (2008)(Imagine Publishing)(GB)">
+		<description>Retro - Volume 2 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro - Volume 2 (2008)(Imagine Publishing)(GB).pdf" size="47471418" crc="1dae4a9e" md5="982a81d4588e51771e9db1c16479d4a7" sha1="0fca05c80df747ccaba79146e1f7b13a0bc28d3b"/>
+	</game>
+	<game name="Retro Gamer - Issue 001 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 001 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 001 (2004)(Live Publishing)(GB).pdf" size="9262002" crc="8a3a8aa2" md5="90ad0dd0e25e241cb7971fd819fcae9e" sha1="02f76fd5c8f437ad40b4f48b598d0c41f391d8d7"/>
+	</game>
+	<game name="Retro Gamer - Issue 002 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 002 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 002 (2004)(Live Publishing)(GB).pdf" size="10525792" crc="fb15b3d2" md5="abe04b11bf91db74c7b319a59e1473aa" sha1="f4da6980cb1082ccea053b8c450d937aafbc8cd9"/>
+	</game>
+	<game name="Retro Gamer - Issue 003 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 003 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 003 (2004)(Live Publishing)(GB).pdf" size="11484162" crc="54ddcad9" md5="d74863141c03cdf898ff7c6c3e38a24e" sha1="2e96cf66e49c82a4a0cb6a6e72891022296afd3f"/>
+	</game>
+	<game name="Retro Gamer - Issue 004 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 004 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 004 (2004)(Live Publishing)(GB).pdf" size="11424427" crc="372e032c" md5="b026a2052e9a61b478adbb4b36e6e9d7" sha1="4069bcb8d9a5b36f8b99a706a15ccba5dcda92f6"/>
+	</game>
+	<game name="Retro Gamer - Issue 005 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 005 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 005 (2004)(Live Publishing)(GB).pdf" size="10577753" crc="e22fda81" md5="56b6584570eceb520a907d8e9578536b" sha1="84de12b6f5b65a93dbcba807d88e0a89ececed51"/>
+	</game>
+	<game name="Retro Gamer - Issue 006 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 006 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 006 (2004)(Live Publishing)(GB).pdf" size="12276795" crc="c8aeee09" md5="d30ce890b332ef52bd30284d4dd3e7d0" sha1="017adf19e7487a1004ab4953faddbfed51509da5"/>
+	</game>
+	<game name="Retro Gamer - Issue 007 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 007 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 007 (2004)(Live Publishing)(GB).pdf" size="15966452" crc="4387798a" md5="3c2aa857dfbb1f5bc9cdc58977b4814c" sha1="bbea77f1d125561a0f2961442c2d32667bcdd065"/>
+	</game>
+	<game name="Retro Gamer - Issue 008 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 008 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 008 (2004)(Live Publishing)(GB).pdf" size="13362445" crc="ceffc812" md5="ca0c14e3eeb2e2dff17545419cb63892" sha1="84262e7acb2611409b6070a81131fef7ead8d667"/>
+	</game>
+	<game name="Retro Gamer - Issue 009 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 009 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 009 (2004)(Live Publishing)(GB).pdf" size="6602916" crc="0f95e64e" md5="31bfb0aaefc5676b430414b2fc80578b" sha1="2411be4eefaeb0061582679ff9ad52fcd3e74563"/>
+	</game>
+	<game name="Retro Gamer - Issue 010 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 010 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 010 (2004)(Live Publishing)(GB).pdf" size="7281462" crc="cffb9d28" md5="d85b0699bbb39912ba1b8c7680f788be" sha1="eb33fc5c7726c9099e17e75c98b7ba4a475742f7"/>
+	</game>
+	<game name="Retro Gamer - Issue 011 (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 011 (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 011 (2004)(Live Publishing)(GB).pdf" size="6831047" crc="4b74e39e" md5="b4656eb654fa0891e3ebb565a458eb07" sha1="404e62719a7ae1efa8f05af519f0dfc05be5502c"/>
+	</game>
+	<game name="Retro Gamer - Issue 012 (2005)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 012 (2005)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 012 (2005)(Live Publishing)(GB).pdf" size="13396016" crc="a1d6c24c" md5="ba8732fd77be4d2b5c81ad698fc2456e" sha1="4a5935fc577f1a0416378bd76bab26a7ef2a00e6"/>
+	</game>
+	<game name="Retro Gamer - Issue 013 (2005)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 013 (2005)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 013 (2005)(Live Publishing)(GB).pdf" size="7331172" crc="89640b5e" md5="8f09b9044e394eb6864da3aad4d741a6" sha1="6cb77c71ac0e6cf837c982934ffe7118e2459c58"/>
+	</game>
+	<game name="Retro Gamer - Issue 014 (2005)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 014 (2005)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 014 (2005)(Live Publishing)(GB).pdf" size="5294827" crc="4f474f10" md5="f6b727f27b0c11ef601e7ccec438fffa" sha1="86e3b07abfb0bab5883de26160a2886ce72b9ad5"/>
+	</game>
+	<game name="Retro Gamer - Issue 015 (2005)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 015 (2005)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 015 (2005)(Live Publishing)(GB).pdf" size="4730888" crc="0ebf906f" md5="da1f8faa42d7992459003ea878ed662a" sha1="329e5a5073dd34a475cbbc48c85763a43a2c6378"/>
+	</game>
+	<game name="Retro Gamer - Issue 016 (2005)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 016 (2005)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 016 (2005)(Live Publishing)(GB).pdf" size="5676293" crc="a180e5cb" md5="37342d9b38592bb2e82c09c90f5d2c43" sha1="988a4af51dba088635dad5466d468c8e4885e194"/>
+	</game>
+	<game name="Retro Gamer - Issue 017 (2005)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 017 (2005)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 017 (2005)(Live Publishing)(GB).pdf" size="4472209" crc="868bddb2" md5="0f3ca341dd8ef7371da842f36e67f780" sha1="8d7245f2d17a786db6ac4bdffd95a63d8d45a25a"/>
+	</game>
+	<game name="Retro Gamer - Issue 018 (2005)(Live Publishing)(GB)">
+		<description>Retro Gamer - Issue 018 (2005)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 018 (2005)(Live Publishing)(GB).pdf" size="5100634" crc="7018a749" md5="b55ee98569130790e598fce3fac54fcd" sha1="424370c5a5ddd75d51c22d3617f5f2065349ebd3"/>
+	</game>
+	<game name="Retro Gamer - Issue 019 (2005)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 019 (2005)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 019 (2005)(Imagine Publishing)(GB).pdf" size="36301231" crc="92c8e970" md5="c4de06f25407e6107d686163f2cd480f" sha1="b3fa5d099752daf7fcfd67ee38a92fdce65515b8"/>
+	</game>
+	<game name="Retro Gamer - Issue 020 (2005)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 020 (2005)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 020 (2005)(Imagine Publishing)(GB).pdf" size="26281507" crc="b0e658d0" md5="213d0366d2e50c78503f8b9ad37644c9" sha1="ab32d65db8cbc15b4b3ac14e7336d2d3056cc004"/>
+	</game>
+	<game name="Retro Gamer - Issue 021 (2005)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 021 (2005)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 021 (2005)(Imagine Publishing)(GB).pdf" size="22363310" crc="34bc6fc7" md5="3b60b60a0f63e9e57495c981159796be" sha1="abac243b91fcd1e7a000e1c55c6bb2fc784589b3"/>
+	</game>
+	<game name="Retro Gamer - Issue 022 (2005)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 022 (2005)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 022 (2005)(Imagine Publishing)(GB).pdf" size="20838506" crc="8f3a18bc" md5="6ee85d9e7ec58ff9c8cfe543a0ed3cae" sha1="969a2081e76074d0066965f414f1b6f5fad4ecb1"/>
+	</game>
+	<game name="Retro Gamer - Issue 023 (2005)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 023 (2005)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 023 (2005)(Imagine Publishing)(GB).pdf" size="25002791" crc="3960b068" md5="96a41fc067473a740e53663d2136ae3f" sha1="b5a54be8eb0f128d5e67266a77a05bd5dbac8ba5"/>
+	</game>
+	<game name="Retro Gamer - Issue 024 (2006)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 024 (2006)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 024 (2006)(Imagine Publishing)(GB).pdf" size="27059151" crc="c75f4c84" md5="e5631e6a325191b00d5bce064a5f4698" sha1="58f130a56290ca1bcc4e9abdd68848f49b87332c"/>
+	</game>
+	<game name="Retro Gamer - Issue 025 (2006)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 025 (2006)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 025 (2006)(Imagine Publishing)(GB).pdf" size="23874439" crc="380be419" md5="204fc7f26f65914a38e452f3c744c2c5" sha1="311646bea0a820bd53300d45eba359556aebf473"/>
+	</game>
+	<game name="Retro Gamer - Issue 026 (2006)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 026 (2006)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 026 (2006)(Imagine Publishing)(GB).pdf" size="30428694" crc="f1edd167" md5="77fac0865cd2436d87c115de9d11cd5a" sha1="3c43e0ff9aa6a76c6f547e2d8bb3f67855d0d48a"/>
+	</game>
+	<game name="Retro Gamer - Issue 027 (2006)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 027 (2006)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 027 (2006)(Imagine Publishing)(GB).pdf" size="24260840" crc="b10350e7" md5="6b35dd5748bc8b49cdf00532ea134987" sha1="72bc3b7ed2b1ef07fb53d95fbe8f1ab5a7ec6a80"/>
+	</game>
+	<game name="Retro Gamer - Issue 028 (2006)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 028 (2006)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 028 (2006)(Imagine Publishing)(GB).pdf" size="25816651" crc="43651aef" md5="615a16f59ce67bf8922b2f1f6f5c5104" sha1="959636a23c01c9004b44f6752c07dfd3da608889"/>
+	</game>
+	<game name="Retro Gamer - Issue 029 (2006)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 029 (2006)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 029 (2006)(Imagine Publishing)(GB).pdf" size="22926664" crc="18398677" md5="0281f5cab0de702487b74a07cb76ba36" sha1="e432c117bf8afcdf3e958ab75a918e5775981073"/>
+	</game>
+	<game name="Retro Gamer - Issue 030 (2006)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 030 (2006)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 030 (2006)(Imagine Publishing)(GB).pdf" size="23047343" crc="7030263a" md5="686f58ce5f523a7a8e8c31a1101334ec" sha1="b334a1309562209438282d3c5d0cd39d374fd830"/>
+	</game>
+	<game name="Retro Gamer - Issue 031 (2006)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 031 (2006)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 031 (2006)(Imagine Publishing)(GB).pdf" size="31077781" crc="323ddebb" md5="c19418e0ab90254da5941b6168e6ded8" sha1="b0b2e8c8a31ef7b5b82f068da59e4cf3a82fd768"/>
+	</game>
+	<game name="Retro Gamer - Issue 032 (2006)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 032 (2006)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 032 (2006)(Imagine Publishing)(GB).pdf" size="37029608" crc="4bb56888" md5="14b3d872e8b8542a998b06276741cf13" sha1="04916cad915eec25592daa64d83952c74cb568a0"/>
+	</game>
+	<game name="Retro Gamer - Issue 033 (2006)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 033 (2006)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 033 (2006)(Imagine Publishing)(GB).pdf" size="27096325" crc="46bda45d" md5="88b8ab2d12d325b9074aa3048eeae520" sha1="fa7cacadf8539af54408ccd7a565ca438723ad3e"/>
+	</game>
+	<game name="Retro Gamer - Issue 034 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 034 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 034 (2007)(Imagine Publishing)(GB).pdf" size="32866855" crc="61c8eb7a" md5="16cc560b4cec71e724ed6ba937f5c677" sha1="187c24949f320ab7e9e3f952c47165260672a3cb"/>
+	</game>
+	<game name="Retro Gamer - Issue 035 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 035 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 035 (2007)(Imagine Publishing)(GB).pdf" size="25460158" crc="73d9431e" md5="413488a00a8f89ce9f547b605e76ab49" sha1="bdbbbcc52e09cb9ab2653d29582ee871cb6877ba"/>
+	</game>
+	<game name="Retro Gamer - Issue 036 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 036 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 036 (2007)(Imagine Publishing)(GB).pdf" size="30241766" crc="6763cf28" md5="9a0a69fd410005e8430c331982e4e22d" sha1="65260427f88b6421353bbb7409998ad0f07856e0"/>
+	</game>
+	<game name="Retro Gamer - Issue 037 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 037 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 037 (2007)(Imagine Publishing)(GB).pdf" size="25740439" crc="a8ed0bc0" md5="169b706a1c5f952d1c8cba27ed3a9edb" sha1="6a859ee056e6e110e62e84325ae24ec7c774cc04"/>
+	</game>
+	<game name="Retro Gamer - Issue 038 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 038 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 038 (2007)(Imagine Publishing)(GB).pdf" size="29213015" crc="018b1d91" md5="2e7b38af7b03247700e29f18228e4e34" sha1="54ad19eff630dbd107057548b614cbc8b71f7b75"/>
+	</game>
+	<game name="Retro Gamer - Issue 039 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 039 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 039 (2007)(Imagine Publishing)(GB).pdf" size="28543554" crc="622980ef" md5="0e49d3f40ae89b8e3c91ee55e82a2a7d" sha1="541c8eea5b860203d311df9fbc1095f61616c02f"/>
+	</game>
+	<game name="Retro Gamer - Issue 040 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 040 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 040 (2007)(Imagine Publishing)(GB).pdf" size="28479805" crc="a48e2ed7" md5="58aaaae9b3d8efeff11f6ca99c22df96" sha1="1d83d49b0cd90d64ceae8f0a49372ca83c3d92a6"/>
+	</game>
+	<game name="Retro Gamer - Issue 041 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 041 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 041 (2007)(Imagine Publishing)(GB).pdf" size="24315054" crc="13dfced3" md5="640d6cb30ce60cfbee022e83bc559274" sha1="3af7c93b204936971b5e81e16d114a7278f8835a"/>
+	</game>
+	<game name="Retro Gamer - Issue 042 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 042 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 042 (2007)(Imagine Publishing)(GB).pdf" size="25943391" crc="cc783840" md5="4258a38ae2b73e6bdad1ce213debbaea" sha1="ab546e97ba77be508031418f2e62193ff670a769"/>
+	</game>
+	<game name="Retro Gamer - Issue 043 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 043 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 043 (2007)(Imagine Publishing)(GB).pdf" size="22084903" crc="7c9b61a0" md5="e5dccdffeae76a9208f3a34f9881681d" sha1="ca74250b8fe75d162e88811d3675ee67a27479e0"/>
+	</game>
+	<game name="Retro Gamer - Issue 044 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 044 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 044 (2007)(Imagine Publishing)(GB).pdf" size="29476672" crc="0e2749dc" md5="77c3a8a180eca0a061e226ded99ea1ad" sha1="1887f5bda8d97e88fa156f8366d7ce1304e1d94b"/>
+	</game>
+	<game name="Retro Gamer - Issue 045 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 045 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 045 (2007)(Imagine Publishing)(GB).pdf" size="30837244" crc="bbdeedcb" md5="d4e7871f7c17113b1056cb2413574c5e" sha1="070367530669c59bc5398d71330177be8d77b807"/>
+	</game>
+	<game name="Retro Gamer - Issue 046 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 046 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 046 (2008)(Imagine Publishing)(GB).pdf" size="28654106" crc="ca92c111" md5="4e1317e7c269eda846216e93c972317d" sha1="6078714f2929bebd1ef9e4a058f993b96f990a03"/>
+	</game>
+	<game name="Retro Gamer - Issue 047 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 047 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 047 (2008)(Imagine Publishing)(GB).pdf" size="21216690" crc="23768fe7" md5="469169d9e30ee3946a4de64d05d0c6fb" sha1="ad562c417fa9064ad6dea712ceacb62a655f46cc"/>
+	</game>
+	<game name="Retro Gamer - Issue 048 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 048 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 048 (2008)(Imagine Publishing)(GB).pdf" size="22220989" crc="7d45fbde" md5="ed8314f658bdcfc4e0d4cff9a742cb01" sha1="e8424d2b7bda29511d1d9063f69512b25d294270"/>
+	</game>
+	<game name="Retro Gamer - Issue 049 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 049 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 049 (2008)(Imagine Publishing)(GB).pdf" size="32926311" crc="88bdd017" md5="f5157d38de7bf35cf297673292d7d4d7" sha1="87408968ef6b37f7b29bf85d5a4f39d55f960c58"/>
+	</game>
+	<game name="Retro Gamer - Issue 050 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 050 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 050 (2008)(Imagine Publishing)(GB).pdf" size="26715423" crc="b3dceab5" md5="9a1f17cc54eb4e7655c45852bb6166e3" sha1="ef044f11719879b23480008b787bfefd031720ce"/>
+	</game>
+	<game name="Retro Gamer - Issue 050 (2008)(Imagine Publishing)(GB)[a]">
+		<description>Retro Gamer - Issue 050 (2008)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Retro Gamer - Issue 050 (2008)(Imagine Publishing)(GB)[a].pdf" size="30710431" crc="7e7a7caf" md5="a88251f0352fbbc52f84b0ac35d2901c" sha1="424a2455e2cde5ea42bcc6a0907dddc9a3b2f217"/>
+	</game>
+	<game name="Retro Gamer - Issue 051 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 051 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 051 (2008)(Imagine Publishing)(GB).pdf" size="35129061" crc="44dd8983" md5="121a40fc1ae4ca6bf906b7b642c7a421" sha1="fbf84b86c60357ffe6a0697d79c597eb114b3b10"/>
+	</game>
+	<game name="Retro Gamer - Issue 052 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 052 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 052 (2008)(Imagine Publishing)(GB).pdf" size="25285066" crc="dc524710" md5="8184019f22e1a59d2334102570c72778" sha1="977ac7a177306b2ebc31da12be57fcdab40b698d"/>
+	</game>
+	<game name="Retro Gamer - Issue 053 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 053 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 053 (2008)(Imagine Publishing)(GB).pdf" size="25796801" crc="31583c30" md5="ed73a512e785e95fef6f18b4ef37f37d" sha1="bf4fa3034f67541535ee647655bc3bdc94293470"/>
+	</game>
+	<game name="Retro Gamer - Issue 054 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 054 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 054 (2008)(Imagine Publishing)(GB).pdf" size="31313870" crc="9fd8ad8e" md5="efb61ef792a442037582a6ceebd59b3e" sha1="9041f85d8457d4edbaa98b159cd2634354e82605"/>
+	</game>
+	<game name="Retro Gamer - Issue 055 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 055 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 055 (2008)(Imagine Publishing)(GB).pdf" size="23682202" crc="ac54f3f5" md5="16a95214572992bae7acc5513b55a721" sha1="2754433129cac0bd864a6b2d3af804f7ae794224"/>
+	</game>
+	<game name="Retro Gamer - Issue 056 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 056 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 056 (2008)(Imagine Publishing)(GB).pdf" size="41893971" crc="c9111dc5" md5="8f448c837cbe1d59660a737d9faab671" sha1="005807871a95230f9133fd718c7c40232b74b406"/>
+	</game>
+	<game name="Retro Gamer - Issue 057 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 057 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 057 (2008)(Imagine Publishing)(GB).pdf" size="35782547" crc="9d2223d2" md5="d2a5b4243cfac0b36fc7a3c4f9c33e0f" sha1="a0f19e9cc0a03783e1c654d0e995881f3ca12abb"/>
+	</game>
+	<game name="Retro Gamer - Issue 058 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 058 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 058 (2008)(Imagine Publishing)(GB).pdf" size="35891110" crc="6afb1901" md5="38dcb72461d5a3c5c2caeb3128285009" sha1="c7e68bf01e481b3501e4dff61e2cabf397e6bea9"/>
+	</game>
+	<game name="Retro Gamer - Issue 059 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 059 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 059 (2009)(Imagine Publishing)(GB).pdf" size="29459781" crc="765485d8" md5="f50f5ac7aaf2d08674a906faab270164" sha1="d2c2d156d9329abf626fe162c4dd6c06cdc60909"/>
+	</game>
+	<game name="Retro Gamer - Issue 060 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 060 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 060 (2009)(Imagine Publishing)(GB).pdf" size="26864539" crc="b397e592" md5="5fd965c44393838e1bd60479d1dad113" sha1="9a306a74f0fbb206a269a586f69c87327e860688"/>
+	</game>
+	<game name="Retro Gamer - Issue 061 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 061 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 061 (2009)(Imagine Publishing)(GB).pdf" size="29787898" crc="14fded70" md5="5a9716c3f2f49011af4d2a41ccd0ae5c" sha1="50783029c778d1f788f934802c4b3983276014d2"/>
+	</game>
+	<game name="Retro Gamer - Issue 062 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 062 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 062 (2009)(Imagine Publishing)(GB).pdf" size="28247931" crc="00576b9d" md5="81fc43a4463474a0951765a7f52c5b80" sha1="d40450475b3f3975ccd90df5e183f621860f1d8d"/>
+	</game>
+	<game name="Retro Gamer - Issue 063 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 063 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 063 (2009)(Imagine Publishing)(GB).pdf" size="30584624" crc="720c7d09" md5="2256b6039e49336b33cfdb1d814a8ef5" sha1="7f25d0afe966cc8ca99585e9b413a61cdd617bed"/>
+	</game>
+	<game name="Retro Gamer - Issue 064 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 064 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 064 (2009)(Imagine Publishing)(GB).pdf" size="31758803" crc="a48d61f2" md5="da53147fc255a22e106d7496abf28ee0" sha1="fbe05d5f4a16440be40bd6daa20a1209130ece88"/>
+	</game>
+	<game name="Retro Gamer - Issue 065 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 065 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 065 (2009)(Imagine Publishing)(GB).pdf" size="39297373" crc="e1dd95d1" md5="1b3b5adf4e102922609aa36352920e9a" sha1="cc1e952cd1710d04fcc316e9ed7e50dc981b1637"/>
+	</game>
+	<game name="Retro Gamer - Issue 066 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 066 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 066 (2009)(Imagine Publishing)(GB).pdf" size="30711727" crc="69f8fb1a" md5="2dd0ace11cbc2a973d5b0cc4cfe73006" sha1="b147029ec3862aa33572d93f27b0cb663e76c600"/>
+	</game>
+	<game name="Retro Gamer - Issue 067 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 067 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 067 (2009)(Imagine Publishing)(GB).pdf" size="39246685" crc="3cf58c5c" md5="dba6d5f5756793ea07ff0359e9a38bfc" sha1="0379531663f5a8ae7bfff982b8e4083407004f98"/>
+	</game>
+	<game name="Retro Gamer - Issue 068 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 068 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 068 (2009)(Imagine Publishing)(GB).pdf" size="34386953" crc="f6be9b57" md5="c9255173d227a0c4f4327657c56f389b" sha1="8ff2de16d4b24a180f8c5c8cc43a8fbf81d2bacd"/>
+	</game>
+	<game name="Retro Gamer - Issue 069 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 069 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 069 (2009)(Imagine Publishing)(GB).pdf" size="64738764" crc="391ce13e" md5="a2c58d7e3eba375391283c6c6b47cb54" sha1="e69f753aaa78868aff00559d768bceee08321626"/>
+	</game>
+	<game name="Retro Gamer - Issue 070 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 070 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 070 (2009)(Imagine Publishing)(GB).pdf" size="36682429" crc="09235180" md5="621fd77f1e51f506210e4a192ae7c609" sha1="8c77b10abddd6ff2af4880a0d8001c0efac1b860"/>
+	</game>
+	<game name="Retro Gamer - Issue 071 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 071 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 071 (2009)(Imagine Publishing)(GB).pdf" size="41862357" crc="40abe0c8" md5="735b8d006e458a785cfd761a0386fea3" sha1="2fda06d11835379eb4f5af997fb6266a7479e4ff"/>
+	</game>
+	<game name="Retro Gamer - Issue 072 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 072 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 072 (2010)(Imagine Publishing)(GB).pdf" size="47503397" crc="e9d46db4" md5="00998bb47845d0d367f31318e465f9a4" sha1="157f3c1a5788249ebe9134291f7671797241cf8a"/>
+	</game>
+	<game name="Retro Gamer - Issue 073 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 073 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 073 (2010)(Imagine Publishing)(GB).pdf" size="37321089" crc="2d319d70" md5="b76f0f93e344d7260bd379c536d1e698" sha1="edfbf2ff89154400237e7baa6ef444e819ed8dfe"/>
+	</game>
+	<game name="Retro Gamer - Issue 074 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 074 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 074 (2010)(Imagine Publishing)(GB).pdf" size="43373577" crc="c0015d12" md5="529e3ca4a38a6c869f3e7ae4a95f2de8" sha1="5a650a240865b4843b74a4cd3a303696adfc11d0"/>
+	</game>
+	<game name="Retro Gamer - Issue 075 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 075 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 075 (2010)(Imagine Publishing)(GB).pdf" size="31830860" crc="f372c274" md5="a5e6a3119bc743fe082f06532d11d29c" sha1="e9c3371733ec3d1afddb485f010b0987aca0c524"/>
+	</game>
+	<game name="Retro Gamer - Issue 076 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 076 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 076 (2010)(Imagine Publishing)(GB).pdf" size="30824329" crc="3b797e4f" md5="3fe2acd1a4009057a49914cf603ab58b" sha1="daf2d02733892e4aa8eac34223bced43198609b3"/>
+	</game>
+	<game name="Retro Gamer - Issue 077 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 077 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 077 (2010)(Imagine Publishing)(GB).pdf" size="44243785" crc="50227cfb" md5="a4cc6b3cff0340c106ce523ce1d886a6" sha1="a7ec0f1018e3675308b17a9d99f968a20e0213c3"/>
+	</game>
+	<game name="Retro Gamer - Issue 078 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 078 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 078 (2010)(Imagine Publishing)(GB).pdf" size="24735816" crc="e5d4ffd8" md5="b3ae14ab3c85a44267b84eff0de47c4e" sha1="2c243ed1611d4ab8f9dec034016b7de36dbeb00a"/>
+	</game>
+	<game name="Retro Gamer - Issue 079 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 079 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 079 (2010)(Imagine Publishing)(GB).pdf" size="28725063" crc="3a9faf5a" md5="89a53237649219727278b16f03e6db10" sha1="7fa093ae47a705fb0be4129bc5691c5d13e052b3"/>
+	</game>
+	<game name="Retro Gamer - Issue 080 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 080 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 080 (2010)(Imagine Publishing)(GB).pdf" size="71712345" crc="72fca0e3" md5="e482abb856b08ef124ef0fccf1914d89" sha1="30abe2691b1ad979bb454b03f4ae42128d4ee909"/>
+	</game>
+	<game name="Retro Gamer - Issue 081 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 081 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 081 (2010)(Imagine Publishing)(GB).pdf" size="63454655" crc="cd80ce0c" md5="bc92fad6ac89cc88e8a750adbcb9426c" sha1="6ebfea5f41292e12cf1ac60ca1950b62bbd723a9"/>
+	</game>
+	<game name="Retro Gamer - Issue 082 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 082 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 082 (2010)(Imagine Publishing)(GB).pdf" size="62383365" crc="ba25103e" md5="9573244e53e7bec9929f149024689976" sha1="e6cac5b3129ccdb6792520adaff561be47e0093b"/>
+	</game>
+	<game name="Retro Gamer - Issue 083 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 083 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 083 (2010)(Imagine Publishing)(GB).pdf" size="66627774" crc="258568d7" md5="3fff390a516fda0de39716c0ceb7c384" sha1="1f3f3ee141ec7898253e498ccdcf881303881bbb"/>
+	</game>
+	<game name="Retro Gamer - Issue 084 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 084 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 084 (2010)(Imagine Publishing)(GB).pdf" size="65954852" crc="5f0d6bc3" md5="ebaf6a72d7fac90452e677aa940b33b8" sha1="694db156be94256c0aafcb9cf4a3e64b84b37b43"/>
+	</game>
+	<game name="Retro Gamer - Issue 085 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 085 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 085 (2011)(Imagine Publishing)(GB).pdf" size="65454974" crc="6e8629bc" md5="e22103b5aa6fc94e60b87f4ffae85ee1" sha1="12c7fda06be6882ef68d907ddb272ab04545aa8f"/>
+	</game>
+	<game name="Retro Gamer - Issue 086 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 086 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 086 (2011)(Imagine Publishing)(GB).pdf" size="61537951" crc="9de43c59" md5="f29802e859cfbbe0556c0f8d9a835c9e" sha1="82340460e603d4af8152237fef7a7328b4739ba7"/>
+	</game>
+	<game name="Retro Gamer - Issue 087 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 087 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 087 (2011)(Imagine Publishing)(GB).pdf" size="64767237" crc="6270dd35" md5="286a5f8a684e9cd5727a1efbf245187b" sha1="5caf76080e4330486efd37bae749a5ba47e8fd67"/>
+	</game>
+	<game name="Retro Gamer - Issue 088 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 088 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 088 (2011)(Imagine Publishing)(GB).pdf" size="64141294" crc="5a15a14f" md5="d8efa6723f0f464632d57e43effc8425" sha1="fa2dbf1438609c2a4a506727a1f145fc6368fc03"/>
+	</game>
+	<game name="Retro Gamer - Issue 089 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 089 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 089 (2011)(Imagine Publishing)(GB).pdf" size="64248980" crc="d3468bcb" md5="6765b2e104c300c455292de6cf85929c" sha1="ab23c75cc181f1ac9edd0d78130d609065b5f2b8"/>
+	</game>
+	<game name="Retro Gamer - Issue 090 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 090 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 090 (2011)(Imagine Publishing)(GB).pdf" size="64136065" crc="d85eba33" md5="04a3d94acbedb477c7229c8ae54ccf0a" sha1="3aec6cc378386d05b6beb59d044642f0a1b85f0a"/>
+	</game>
+	<game name="Retro Gamer - Issue 091 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 091 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 091 (2011)(Imagine Publishing)(GB).pdf" size="65680656" crc="2df1be29" md5="e152391b121d791c6d6f9785a2b82274" sha1="ebe63183181fcebd33d1f7a4f6b0a794c11e34e2"/>
+	</game>
+	<game name="Retro Gamer - Issue 092 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 092 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 092 (2011)(Imagine Publishing)(GB).pdf" size="67587135" crc="7a59d801" md5="dee38a128e067c2210c589e116418e97" sha1="834890f54e9d2f051cafc0e3a40ba3aaca8dcdb4"/>
+	</game>
+	<game name="Retro Gamer - Issue 093 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 093 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 093 (2011)(Imagine Publishing)(GB).pdf" size="65255069" crc="be547195" md5="3268a8e7608ad5516ddef46a950eec98" sha1="d8431d487fc190e7bb2d04f02defcb76dbc7f188"/>
+	</game>
+	<game name="Retro Gamer - Issue 094 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 094 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 094 (2011)(Imagine Publishing)(GB).pdf" size="62974650" crc="48ea5dd9" md5="bfb6eafff9c889c538a4d56f53add912" sha1="dc31f565fc3b5271b42ff0d3c2494747e567274a"/>
+	</game>
+	<game name="Retro Gamer - Issue 095 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 095 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 095 (2011)(Imagine Publishing)(GB).pdf" size="63540821" crc="61c9f86a" md5="1163c17b3c2939feb4468c0ebe8ce618" sha1="444a33ca3654057795c83e12018cc983343b3515"/>
+	</game>
+	<game name="Retro Gamer - Issue 096 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 096 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 096 (2011)(Imagine Publishing)(GB).pdf" size="66050449" crc="95098f4e" md5="978c8cd23a8c53c739bf3945f1f964b7" sha1="b0a2ecb0eff0f9a692118172733c4f80991f3dec"/>
+	</game>
+	<game name="Retro Gamer - Issue 097 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 097 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 097 (2011)(Imagine Publishing)(GB).pdf" size="68112880" crc="6a7cedc2" md5="40627005c949eff617fcb6cfda13fad7" sha1="0315b8f37d42d128b6020d64223776585a378346"/>
+	</game>
+	<game name="Retro Gamer - Issue 098 (2012-01)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 098 (2012-01)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 098 (2012-01)(Imagine Publishing)(GB).pdf" size="65541990" crc="acbcb982" md5="993ce9fb30948c3bf9bea58d00b7e5bc" sha1="149509309581886e1728d4d1a9751da310d9908b"/>
+	</game>
+	<game name="Retro Gamer - Issue 099 (2012-02)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 099 (2012-02)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 099 (2012-02)(Imagine Publishing)(GB).pdf" size="65512603" crc="1f48aac2" md5="311bcba3c6266bb41540161d5c8088bd" sha1="1d30b815db0fbeda3cdc6af312b5966f035acdfb"/>
+	</game>
+	<game name="Retro Gamer - Issue 100 (2012-03)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 100 (2012-03)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 100 (2012-03)(Imagine Publishing)(GB).pdf" size="98869164" crc="385ff09a" md5="8e92aeb184cf94ef98af85177d4234e7" sha1="1c240dcc4498e06caad2dd8d5260f5a72da46c48"/>
+	</game>
+	<game name="Retro Gamer - Issue 100 (2012-03)(Imagine Publishing)(GB)[a]">
+		<description>Retro Gamer - Issue 100 (2012-03)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Retro Gamer - Issue 100 (2012-03)(Imagine Publishing)(GB)[a].pdf" size="66610888" crc="2e315727" md5="bbb4cfb93e9ab3c226bdcfbcd946517b" sha1="fed84adcf24cd54306f7d54ebf92c80624b0a0c1"/>
+	</game>
+	<game name="Retro Gamer - Issue 101 (2012-04)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 101 (2012-04)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 101 (2012-04)(Imagine Publishing)(GB).pdf" size="100178122" crc="55180898" md5="5b246abf232398429e6232386a4f0996" sha1="e3775cd6bdd89b82a8d81be18a9ba1111358ecf4"/>
+	</game>
+	<game name="Retro Gamer - Issue 102 (2012-05)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 102 (2012-05)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 102 (2012-05)(Imagine Publishing)(GB).pdf" size="101467000" crc="5f4e01ba" md5="21ce05130840c96bd4dca7d383212e1c" sha1="af1ed6e510be5aec43a915cc273f4de88832946f"/>
+	</game>
+	<game name="Retro Gamer - Issue 103 (2012-06)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 103 (2012-06)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 103 (2012-06)(Imagine Publishing)(GB).pdf" size="108633937" crc="55b4b9fb" md5="974cbb2404d0545e47aa993b3422a8a6" sha1="24c4498714d0470df4ae8f83833c7473ec091ad1"/>
+	</game>
+	<game name="Retro Gamer - Issue 103 (2012-06)(Imagine Publishing)(GB)[a]">
+		<description>Retro Gamer - Issue 103 (2012-06)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Retro Gamer - Issue 103 (2012-06)(Imagine Publishing)(GB)[a].pdf" size="68084260" crc="f0bcfbbe" md5="9a129b38cb94f8a4806eb9d166c54763" sha1="245cbffb35c25d81f08e8c75dc84912415b2ee0c"/>
+	</game>
+	<game name="Retro Gamer - Issue 104 (2012-07)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 104 (2012-07)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 104 (2012-07)(Imagine Publishing)(GB).pdf" size="64392043" crc="afbd8d09" md5="d860db8d46ad89acc159b5bf13150933" sha1="93c2edada493855a1df5fcce87697f00c47cc755"/>
+	</game>
+	<game name="Retro Gamer - Issue 105 (2012-08)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 105 (2012-08)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 105 (2012-08)(Imagine Publishing)(GB).pdf" size="66103911" crc="795725bd" md5="bd12a41c7788894f3305ee5518bcae12" sha1="feefefdd659450704f628f709b814ade186f3f89"/>
+	</game>
+	<game name="Retro Gamer - Issue 106 (2012-09)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 106 (2012-09)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 106 (2012-09)(Imagine Publishing)(GB).pdf" size="99007440" crc="1a255a3b" md5="3535abd2aca5f2283ae7f0ceb88ffdea" sha1="e1241885275c86231b9b6ee03c42525c328868e2"/>
+	</game>
+	<game name="Retro Gamer - Issue 106 (2012-09)(Imagine Publishing)(GB)[a]">
+		<description>Retro Gamer - Issue 106 (2012-09)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Retro Gamer - Issue 106 (2012-09)(Imagine Publishing)(GB)[a].pdf" size="59807443" crc="bfb7e73a" md5="88b722d3e36bb4282e456848a89e001d" sha1="237b19054a9367e6c627657d777e4afc0e75e9b8"/>
+	</game>
+	<game name="Retro Gamer - Issue 107 (2012-10)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 107 (2012-10)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 107 (2012-10)(Imagine Publishing)(GB).pdf" size="64752126" crc="5e08f035" md5="8c186d1db19c683534d23829dc720bf7" sha1="007772d21ee9a1d28a5001a3cd6cf0677ea69f50"/>
+	</game>
+	<game name="Retro Gamer - Issue 108 (2012-11)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 108 (2012-11)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 108 (2012-11)(Imagine Publishing)(GB).pdf" size="64851020" crc="3e03d4a7" md5="88b9678b7622d522f1b68ce6bdecbcfd" sha1="68035c2563dbc32ff73d0d0618dc7b62070b0fa4"/>
+	</game>
+	<game name="Retro Gamer - Issue 109 (2012-12)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 109 (2012-12)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 109 (2012-12)(Imagine Publishing)(GB).pdf" size="60978508" crc="e2951dd0" md5="59faa9a1068bdd61aa418d046c3e32a6" sha1="9727164718d15e20904f77c86bb632abddfd58f1"/>
+	</game>
+	<game name="Retro Gamer - Issue 110 (2013-01)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 110 (2013-01)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 110 (2013-01)(Imagine Publishing)(GB).pdf" size="60660009" crc="9f505856" md5="9f08a013bf02fa0c43424653218fb3de" sha1="3543820d5330a56459cd200d7b9a152e063b92fe"/>
+	</game>
+	<game name="Retro Gamer - Issue 111 (2013-02)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 111 (2013-02)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 111 (2013-02)(Imagine Publishing)(GB).pdf" size="62337421" crc="3bec9dfa" md5="826d94690f4d533d764cab5f734fda14" sha1="0c7d89d949e189ec0228e8245b48898fe82d0855"/>
+	</game>
+	<game name="Retro Gamer - Issue 112 (2013-03)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 112 (2013-03)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 112 (2013-03)(Imagine Publishing)(GB).pdf" size="57014664" crc="323b1af2" md5="62009a2acf5273248109413ecb44b5e8" sha1="77e3158b40917519d93a9fa5a7345511a53d9dc8"/>
+	</game>
+	<game name="Retro Gamer - Issue 113 (2013-04)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 113 (2013-04)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 113 (2013-04)(Imagine Publishing)(GB).pdf" size="49446442" crc="330da2ef" md5="01efe15950b9f72fe066bc7e14c9f583" sha1="59da7224fa1d5ff842fb37df17071fd610e223cd"/>
+	</game>
+	<game name="Retro Gamer - Issue 114 (2013-05)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 114 (2013-05)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 114 (2013-05)(Imagine Publishing)(GB).pdf" size="33454316" crc="ebec2171" md5="bdccb6e06a7a461e066f0b99e7daac8b" sha1="c944b54343af788df9499577cfc0b384c23ef23c"/>
+	</game>
+	<game name="Retro Gamer - Issue 115 (2013-06)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 115 (2013-06)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 115 (2013-06)(Imagine Publishing)(GB).pdf" size="64651932" crc="527b9455" md5="dc65e201bc3f8252ded8a33d68b67f9c" sha1="7aacdbdd6a9f91109e4e392df0c4b57127cba3f1"/>
+	</game>
+	<game name="Retro Gamer - Issue 116 (2013-07)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 116 (2013-07)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 116 (2013-07)(Imagine Publishing)(GB).pdf" size="34680576" crc="7761645e" md5="572dbea240eddfbb54ed732121c90778" sha1="ff28f6746681f9de6fbb18974ef7af789d7f3d0b"/>
+	</game>
+	<game name="Retro Gamer - Issue 117 (2013-08)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 117 (2013-08)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 117 (2013-08)(Imagine Publishing)(GB).pdf" size="118250051" crc="886cd024" md5="6c07211a3466a209285a7cbc8564de90" sha1="1179ed514d30a1738f248c2831c811c24876da76"/>
+	</game>
+	<game name="Retro Gamer - Issue 118 (2013-09)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 118 (2013-09)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 118 (2013-09)(Imagine Publishing)(GB).pdf" size="80138906" crc="89f5080d" md5="03e57e05d4daaf33fc7b94d21421113c" sha1="1bbd327dc4a6072bf93b997850e2e06c3eaa08cf"/>
+	</game>
+	<game name="Retro Gamer - Issue 119 (2013-09)(Imagine Publishing)(GB)[a]">
+		<description>Retro Gamer - Issue 119 (2013-09)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Retro Gamer - Issue 119 (2013-09)(Imagine Publishing)(GB)[a].pdf" size="33489709" crc="701cf2e4" md5="319fe8820982544733ccad7aba6f1581" sha1="30c70f44e0597e7c1938c20604eef42f8c7f892d"/>
+	</game>
+	<game name="Retro Gamer - Issue 119 (2013-10)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 119 (2013-10)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 119 (2013-10)(Imagine Publishing)(GB).pdf" size="33508382" crc="d27d71ea" md5="94e375c6b9953419f179ccefcec3c792" sha1="dcdf7945d2b05277803c51225d9419efd7e3b497"/>
+	</game>
+	<game name="Retro Gamer - Issue 120 (2013-11)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 120 (2013-11)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 120 (2013-11)(Imagine Publishing)(GB).pdf" size="77856756" crc="acaf039f" md5="939f9a5223855985b4a52008fb9c37dd" sha1="f1395ae4e9d04dacab771159c5251455e16eb473"/>
+	</game>
+	<game name="Retro Gamer - Issue 121 (2013-11)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 121 (2013-11)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 121 (2013-11)(Imagine Publishing)(GB).pdf" size="58442506" crc="8b058707" md5="024e9114a56074a397a069b6ee08068a" sha1="e8df699567d67aa5cfb1641cf678d02e6dfe0f7e"/>
+	</game>
+	<game name="Retro Gamer - Issue 122 (2013-12)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 122 (2013-12)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 122 (2013-12)(Imagine Publishing)(GB).pdf" size="53838992" crc="ca733328" md5="5fe21554b3b195b9a0ba673f6efff701" sha1="ee96a302d3196a9469e95b16f09cfbcd6787f42c"/>
+	</game>
+	<game name="Retro Gamer - Issue 123 (2013)(Imagine Publishing)(GB)[christmas edition]">
+		<description>Retro Gamer - Issue 123 (2013)(Imagine Publishing)(GB)[christmas edition]</description>
+		<rom name="Retro Gamer - Issue 123 (2013)(Imagine Publishing)(GB)[christmas edition].pdf" size="57409559" crc="fc1a276c" md5="95509343e9739c3952b5e7463d9ef2e5" sha1="84898850b447a3532a1f70b72777464fe05102b0"/>
+	</game>
+	<game name="Retro Gamer - Issue 124 (2014-01)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 124 (2014-01)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 124 (2014-01)(Imagine Publishing)(GB).pdf" size="92556155" crc="7feecfd3" md5="27f0d9327558dc1daf5595b880effcd6" sha1="f62001bb508994cd4f74d88be0e1ee40e0391a5f"/>
+	</game>
+	<game name="Retro Gamer - Issue 125 (2014-02)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 125 (2014-02)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 125 (2014-02)(Imagine Publishing)(GB).pdf" size="50851406" crc="dcaa398e" md5="19a67ae06d20f964dca65c1578de57a5" sha1="92fe1dcefea3e47486d4720396cac8c3e8aa87dc"/>
+	</game>
+	<game name="Retro Gamer - Issue 126 (2014-03)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 126 (2014-03)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 126 (2014-03)(Imagine Publishing)(GB).pdf" size="33501540" crc="bb7108b1" md5="c04281d2e57bc5c7b61344ef6e7a39fc" sha1="e0bfa79dde6f09b44c5802f172c236be172c757f"/>
+	</game>
+	<game name="Retro Gamer - Issue 127 (2014-04)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 127 (2014-04)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 127 (2014-04)(Imagine Publishing)(GB).pdf" size="56960764" crc="4e69634f" md5="9bb282b0ec44601ae1785c2bc14545aa" sha1="fb1a4336d461f9508801cf1eea4e4f17f152ee1e"/>
+	</game>
+	<game name="Retro Gamer - Issue 128 (2014-05)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 128 (2014-05)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 128 (2014-05)(Imagine Publishing)(GB).pdf" size="81397485" crc="3e1ab992" md5="0dd8b05290300b7fabfc57c0867d54cd" sha1="dfeec6a38b7ebd1248929cb022e3a1059b8e37d7"/>
+	</game>
+	<game name="Retro Gamer - Issue 129 (2014-06)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 129 (2014-06)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 129 (2014-06)(Imagine Publishing)(GB).pdf" size="80046344" crc="a3845593" md5="ba40f77016aed9499d7685f817488046" sha1="ffc5d72370d7391e6013f5e68c188596b914fb2f"/>
+	</game>
+	<game name="Retro Gamer - Issue 130 (2014-07)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 130 (2014-07)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 130 (2014-07)(Imagine Publishing)(GB).pdf" size="39233674" crc="d133926e" md5="6729b14b97838a55ffce3d8c03dab03c" sha1="b6c1bf5b2e926c34f8417055ec72434e243acdf5"/>
+	</game>
+	<game name="Retro Gamer - Issue 130 (2014-07)(Imagine Publishing)(GB)[a]">
+		<description>Retro Gamer - Issue 130 (2014-07)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Retro Gamer - Issue 130 (2014-07)(Imagine Publishing)(GB)[a].pdf" size="78471034" crc="33305f71" md5="d60c861f4efee8c5e6159c5aac48f3e4" sha1="820af802c3afab0d44625bf0082235cad8887391"/>
+	</game>
+	<game name="Retro Gamer - Issue 131 (2014-08)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 131 (2014-08)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 131 (2014-08)(Imagine Publishing)(GB).pdf" size="82562769" crc="fa775b04" md5="7f502fd0ac21602ba48093c055dde146" sha1="1c4dd4a496cce937681c54dd2e46306e4204fdb9"/>
+	</game>
+	<game name="Retro Gamer - Issue 132 (2014-09)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 132 (2014-09)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 132 (2014-09)(Imagine Publishing)(GB).pdf" size="80390771" crc="62707b9e" md5="0f20014c7e917fdce9a9be45eaac72e2" sha1="5eb97ce93bf97b0af738525f9bb5f28728c5df93"/>
+	</game>
+	<game name="Retro Gamer - Issue 133 (2014-10)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 133 (2014-10)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 133 (2014-10)(Imagine Publishing)(GB).pdf" size="81235723" crc="04112580" md5="86ed92b71232371126831cc33f80d144" sha1="aa3a70b2b9105e3d43571e7343defa044f417a01"/>
+	</game>
+	<game name="Retro Gamer - Issue 134 (2014-11)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 134 (2014-11)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 134 (2014-11)(Imagine Publishing)(GB).pdf" size="79661573" crc="43172212" md5="0ef63bcb93a4b6cdc07a8c1de2c7873e" sha1="4fc0f4dfb2cd2c9c6019768d29a260def4d78490"/>
+	</game>
+	<game name="Retro Gamer - Issue 135 (2014-12)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 135 (2014-12)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 135 (2014-12)(Imagine Publishing)(GB).pdf" size="79240693" crc="6f049db7" md5="879b30924ac5b43d465b73c6e1221247" sha1="7c10f48fa1ffa534d77fd7766c110eae1b87b128"/>
+	</game>
+	<game name="Retro Gamer - Issue 136 (2014)(Imagine Publishing)(GB)[christmas edition]">
+		<description>Retro Gamer - Issue 136 (2014)(Imagine Publishing)(GB)[christmas edition]</description>
+		<rom name="Retro Gamer - Issue 136 (2014)(Imagine Publishing)(GB)[christmas edition].pdf" size="50570876" crc="b49b7302" md5="33036b4632a24888352e5c3f112fdc44" sha1="0571803b6f7aa1bcbd5a17e530fbf958a7490bad"/>
+	</game>
+	<game name="Retro Gamer - Issue 137 (2015-01)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 137 (2015-01)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 137 (2015-01)(Imagine Publishing)(GB).pdf" size="40267051" crc="5de4fc26" md5="70231c47d9540d6e354f7be64e8ad06c" sha1="251fe6560886938e2671325ada26a9a39772ebda"/>
+	</game>
+	<game name="Retro Gamer - Issue 138 (2015-02)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 138 (2015-02)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 138 (2015-02)(Imagine Publishing)(GB).pdf" size="40331755" crc="1b8ae13c" md5="55fa043219178d1128a0f3e2bde6323e" sha1="a20ad53344fa94d6fb869f48f450fa4542d42949"/>
+	</game>
+	<game name="Retro Gamer - Issue 139 (2015-03)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 139 (2015-03)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 139 (2015-03)(Imagine Publishing)(GB).pdf" size="41002759" crc="0f960789" md5="bc5a41f93ea83c1dd44c398eb7ce8d64" sha1="f2564997454a6896addaed9ed18c4e753f631f82"/>
+	</game>
+	<game name="Retro Gamer - Issue 139 (2015-03)(Imagine Publishing)(GB)[a]">
+		<description>Retro Gamer - Issue 139 (2015-03)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Retro Gamer - Issue 139 (2015-03)(Imagine Publishing)(GB)[a].pdf" size="81567059" crc="15bfc0f1" md5="9a9b6852c9ed1b1ed126a23f7fb29a6e" sha1="01906d04cdcd59ec3760ac5921cc3bcbf5e64788"/>
+	</game>
+	<game name="Retro Gamer - Issue 140 (2015-04)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 140 (2015-04)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 140 (2015-04)(Imagine Publishing)(GB).pdf" size="38512013" crc="6b23d717" md5="9a9b75248894f456d80900241b274849" sha1="b634b219609afe55993b8beb5b2a930900866b0f"/>
+	</game>
+	<game name="Retro Gamer - Issue 141 (2015-05)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 141 (2015-05)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 141 (2015-05)(Imagine Publishing)(GB).pdf" size="46788098" crc="5504d9dd" md5="3dad356dad4a1f1bedf0c953b5e2984a" sha1="452e3b1b189a98d7a7474924b673800cce503749"/>
+	</game>
+	<game name="Retro Gamer - Issue 142 (2015-06)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 142 (2015-06)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 142 (2015-06)(Imagine Publishing)(GB).pdf" size="40960222" crc="1fd01825" md5="78c1e8617e311f13159611262f533c3c" sha1="fe1ff227565009440a18e38c2779a03ab81ab9d5"/>
+	</game>
+	<game name="Retro Gamer - Issue 143 (2015-07)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 143 (2015-07)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 143 (2015-07)(Imagine Publishing)(GB).pdf" size="41413953" crc="e47c4eb4" md5="b332a0a8eca5849687d8e685cb9c84d3" sha1="198ba7c8afc0092698580573c3e6de5adfe38314"/>
+	</game>
+	<game name="Retro Gamer - Issue 143 (2015-07)(Imagine Publishing)(GB)[a]">
+		<description>Retro Gamer - Issue 143 (2015-07)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Retro Gamer - Issue 143 (2015-07)(Imagine Publishing)(GB)[a].pdf" size="84349132" crc="324cfed7" md5="471e41775d963b1e4bcc6ab45a5968e0" sha1="8c56e8ffa751f37c0301c1397957b363332bdd75"/>
+	</game>
+	<game name="Retro Gamer - Issue 144 (2015-08)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 144 (2015-08)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 144 (2015-08)(Imagine Publishing)(GB).pdf" size="82645563" crc="2d129896" md5="4bc5cb05db1c5932f9be8524b765e07c" sha1="1b7a1bdf26d540d3aab42627166607e85728cfcc"/>
+	</game>
+	<game name="Retro Gamer - Issue 145 (2015-09)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 145 (2015-09)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 145 (2015-09)(Imagine Publishing)(GB).pdf" size="35035638" crc="1852059e" md5="a6c63d8d8f38a5ab27fa7a871622b1e6" sha1="5dff39616d7244eea493603b1168a0bd680ed30c"/>
+	</game>
+	<game name="Retro Gamer - Issue 146 (2015-10)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 146 (2015-10)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 146 (2015-10)(Imagine Publishing)(GB).pdf" size="44510395" crc="e07be69d" md5="f755239c6d55a70d2dbe76352b4c629e" sha1="9a56c1b2fd8594fc0ade07f789774f7080d20927"/>
+	</game>
+	<game name="Retro Gamer - Issue 147 (2015-11)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 147 (2015-11)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 147 (2015-11)(Imagine Publishing)(GB).pdf" size="58579830" crc="a471021f" md5="2b4306d281532ebc5104b7b1d2eeba78" sha1="6d9493e385306910b307c0be00d7fc385e5483aa"/>
+	</game>
+	<game name="Retro Gamer - Issue 148 (2015-12)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 148 (2015-12)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 148 (2015-12)(Imagine Publishing)(GB).pdf" size="83830120" crc="babcfb40" md5="8a768b6bf3ba592b137fc99db1c99903" sha1="eba19561c5976b2f03fc60baa574100961031fd7"/>
+	</game>
+	<game name="Retro Gamer - Issue 149 (2015)(Imagine Publishing)(GB)[christmas edition]">
+		<description>Retro Gamer - Issue 149 (2015)(Imagine Publishing)(GB)[christmas edition]</description>
+		<rom name="Retro Gamer - Issue 149 (2015)(Imagine Publishing)(GB)[christmas edition].pdf" size="48348815" crc="f3ad8fdb" md5="eea7af033ce51e7c7f2be46f4fdd7e47" sha1="806a4a9af12c51c868650cd35b59dbcd2cd43817"/>
+	</game>
+	<game name="Retro Gamer - Issue 150 (2016-01)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 150 (2016-01)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 150 (2016-01)(Imagine Publishing)(GB).pdf" size="91434138" crc="0a6f533f" md5="368dc1c35ce69e8ba47b4326a8241375" sha1="f27dcf026a624471d7996e0351dca92205df74f9"/>
+	</game>
+	<game name="Retro Gamer - Issue 151 (2016-02)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 151 (2016-02)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 151 (2016-02)(Imagine Publishing)(GB).pdf" size="45962849" crc="c1cc41ef" md5="c6d304ae18e43442ae090601ffdf0530" sha1="1ef1dfcd0f860305786aa36f9fdf704f63b76f9a"/>
+	</game>
+	<game name="Retro Gamer - Issue 152 (2016-03)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 152 (2016-03)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 152 (2016-03)(Imagine Publishing)(GB).pdf" size="43542683" crc="5ab60da4" md5="e5958a6172b432f4f34943cfaa773fcf" sha1="b2f9ebd86bb134e50da077e4e0e965e75bba2c22"/>
+	</game>
+	<game name="Retro Gamer - Issue 153 (2016-04)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 153 (2016-04)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 153 (2016-04)(Imagine Publishing)(GB).pdf" size="70627935" crc="919c5966" md5="4421f85811bd7d4f41e66b72ba800fa4" sha1="762ac75566451cd04fa0b500c2f258760fc2de04"/>
+	</game>
+	<game name="Retro Gamer - Issue 154 (2016-05)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 154 (2016-05)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 154 (2016-05)(Imagine Publishing)(GB).pdf" size="44019500" crc="c376f8c4" md5="d7a3575caa27b6ee566e5f8a8fa3b486" sha1="03caa1414c5cdad0fd88e8b6575a7a23a54c7c7c"/>
+	</game>
+	<game name="Retro Gamer - Issue 155 (2016-06)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 155 (2016-06)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 155 (2016-06)(Imagine Publishing)(GB).pdf" size="80522307" crc="4c53a162" md5="62b4a7d5b24f23f1e8d94c3489f1e2c7" sha1="27bea5a93cfebeba745f4a6b29fe459eca67f9ad"/>
+	</game>
+	<game name="Retro Gamer - Issue 156 (2016-07)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 156 (2016-07)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 156 (2016-07)(Imagine Publishing)(GB).pdf" size="44861072" crc="bfe7f15d" md5="e4c04927c58079ab766cc663c947d00f" sha1="acc885fb485d2b4c6c6304c636bf85a0b44aa21e"/>
+	</game>
+	<game name="Retro Gamer - Issue 157 (2016-08)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 157 (2016-08)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 157 (2016-08)(Imagine Publishing)(GB).pdf" size="80566648" crc="f649e959" md5="8e34e0e0d2fffdb76eba2b1f53e42b2e" sha1="a32902eec7789c84b3b6adba762c3388d3e4a9f7"/>
+	</game>
+	<game name="Retro Gamer - Issue 158 (2016-09)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 158 (2016-09)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 158 (2016-09)(Imagine Publishing)(GB).pdf" size="68438783" crc="649e45f5" md5="14b80ff3b2b1f9fa28aeb29471646f67" sha1="03443ac1adbd9a4b43edba316e3d59aa994666bf"/>
+	</game>
+	<game name="Retro Gamer - Issue 159 (2016-10)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 159 (2016-10)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 159 (2016-10)(Imagine Publishing)(GB).pdf" size="84757256" crc="471b75bd" md5="dad8fb5cc52036f4068c7fcc96078e9c" sha1="40e55717afd4f8605911243594fbb99c11b5d36e"/>
+	</game>
+	<game name="Retro Gamer - Issue 160 (2016-11)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 160 (2016-11)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 160 (2016-11)(Imagine Publishing)(GB).pdf" size="112178200" crc="da6990e9" md5="45be04fcd66da5aa28be0cf6899c6ed9" sha1="8dfdb5c39584f67e8bdb1c0add534c84600c7697"/>
+	</game>
+	<game name="Retro Gamer - Issue 161 (2016-12)(Imagine Publishing)(GB)">
+		<description>Retro Gamer - Issue 161 (2016-12)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 161 (2016-12)(Imagine Publishing)(GB).pdf" size="79401669" crc="6df40068" md5="197ab557eaa75367ab34f7ecc6438a37" sha1="782d20341fe798ae12a470c4c9463f1cf53e00bb"/>
+	</game>
+	<game name="Retro Gamer - Issue 162 (2016)(Future Publishing)(GB)[christmas edition]">
+		<description>Retro Gamer - Issue 162 (2016)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Retro Gamer - Issue 162 (2016)(Future Publishing)(GB)[christmas edition].pdf" size="46213395" crc="7a2f39ac" md5="9df1e135158383e8dbec4646237aac43" sha1="537c3108d9cadabbc9f5f9cd40a85849b6b28ad4"/>
+	</game>
+	<game name="Retro Gamer - Issue 163 (2017-01)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 163 (2017-01)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 163 (2017-01)(Future Publishing)(GB).pdf" size="108656333" crc="8580cb64" md5="08f0937ffa855bbf6e0cc6d51210b22d" sha1="07781455eccb276f5b388fbc7e36126c9435b106"/>
+	</game>
+	<game name="Retro Gamer - Issue 164 (2017-02)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 164 (2017-02)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 164 (2017-02)(Future Publishing)(GB).pdf" size="48986207" crc="5d04438b" md5="54007b8aed5e2b16844e2fc9b572f41a" sha1="948fc1cc91018ceffe2d84eb03a7ec2f2781187f"/>
+	</game>
+	<game name="Retro Gamer - Issue 165 (2017-03)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 165 (2017-03)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 165 (2017-03)(Future Publishing)(GB).pdf" size="60015477" crc="40a0dc00" md5="b090017687b46d9d7f46228f6388b332" sha1="3350c9f8a70bd191066a3d34fee2174c62f3df2c"/>
+	</game>
+	<game name="Retro Gamer - Issue 166 (2017-04)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 166 (2017-04)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 166 (2017-04)(Future Publishing)(GB).pdf" size="72281388" crc="d817a58f" md5="c5b0337efb15860fd4d06bc915d641ef" sha1="23ede5d2af036f09bb20e6d6344a7b1bc4b53c5f"/>
+	</game>
+	<game name="Retro Gamer - Issue 167 (2017-05)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 167 (2017-05)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 167 (2017-05)(Future Publishing)(GB).pdf" size="57240206" crc="bfc0f446" md5="90567595afc1541f316ade1f04dbef09" sha1="9942cd82bb3a764a19a2b7201cb27e4ace6ead74"/>
+	</game>
+	<game name="Retro Gamer - Issue 168 (2017-06)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 168 (2017-06)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 168 (2017-06)(Future Publishing)(GB).pdf" size="60402344" crc="f157d8d2" md5="3039f700190e82b8bd0b731b516dbcf9" sha1="b6508b679af85f7604d9624d7e951e8c9ec627ce"/>
+	</game>
+	<game name="Retro Gamer - Issue 169 (2017-07)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 169 (2017-07)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 169 (2017-07)(Future Publishing)(GB).pdf" size="50228234" crc="c35f4fbe" md5="b74f8b5fae81cd0c69dfe14a4d16c859" sha1="1347b4daa276e5c43bba7fd9a0b67940959d7bbc"/>
+	</game>
+	<game name="Retro Gamer - Issue 170 (2017-08)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 170 (2017-08)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 170 (2017-08)(Future Publishing)(GB).pdf" size="48494642" crc="70c8efcb" md5="259e4603a8ba56dc1c4adee7417700df" sha1="2a9f7290599e13602434bc9c56d96e40c13da0af"/>
+	</game>
+	<game name="Retro Gamer - Issue 171 (2017-09)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 171 (2017-09)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 171 (2017-09)(Future Publishing)(GB).pdf" size="51058756" crc="596219db" md5="a3af4979b92ee15118e06174b3a1e63f" sha1="4d578929f1bbfcb5990b0dc10fb89d8662862423"/>
+	</game>
+	<game name="Retro Gamer - Issue 172 (2017-10)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 172 (2017-10)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 172 (2017-10)(Future Publishing)(GB).pdf" size="42077264" crc="2cd5da93" md5="8c33882d131765a63a2279ffd866d3be" sha1="f9285e084057f6478e243e8a70b9a9b05b4da473"/>
+	</game>
+	<game name="Retro Gamer - Issue 173 (2017-11)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 173 (2017-11)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 173 (2017-11)(Future Publishing)(GB).pdf" size="67400806" crc="e5d262d2" md5="a8039dfe81c8b05f4be9991f1f859071" sha1="075140a46ce0a1e2cde5d6af1701b6e3b6223f1a"/>
+	</game>
+	<game name="Retro Gamer - Issue 174 (2017-12)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 174 (2017-12)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 174 (2017-12)(Future Publishing)(GB).pdf" size="83134188" crc="4faa26ec" md5="42a97e9206e854e0e3fb75a69728912f" sha1="3980f86cd9de2dbe24b9f52b5b17a11042539d05"/>
+	</game>
+	<game name="Retro Gamer - Issue 175 (2017)(Future Publishing)(GB)[christmas edition]">
+		<description>Retro Gamer - Issue 175 (2017)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Retro Gamer - Issue 175 (2017)(Future Publishing)(GB)[christmas edition].pdf" size="39552236" crc="b10d4545" md5="2d8fe2ba4f7d17b62d7ef5f7f1d90d49" sha1="38001bc495e45c3df08d2e6986de6d1acbf124bd"/>
+	</game>
+	<game name="Retro Gamer - Issue 176 (2018-01)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 176 (2018-01)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 176 (2018-01)(Future Publishing)(GB).pdf" size="42438951" crc="b07cf816" md5="92413153c68bcb9c53ee68683ab148a8" sha1="99ca819ebd6f102d4ce3ed1c9aa74634e4017c9a"/>
+	</game>
+	<game name="Retro Gamer - Issue 177 (2018-02)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 177 (2018-02)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 177 (2018-02)(Future Publishing)(GB).pdf" size="39038442" crc="ea27f42f" md5="5c50c213f2e493c5fc6a9b6e3b6c7257" sha1="f25cbbaa2153ac5c8b8ebcbb951b34c244523815"/>
+	</game>
+	<game name="Retro Gamer - Issue 178 (2018-03)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 178 (2018-03)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 178 (2018-03)(Future Publishing)(GB).pdf" size="49047758" crc="87bb93dd" md5="1b0db295d8e15ed875be0bd4306b1717" sha1="2941a05dd168ebff214b4cd34ef01c7e8e390ac1"/>
+	</game>
+	<game name="Retro Gamer - Issue 179 (2018-04)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 179 (2018-04)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 179 (2018-04)(Future Publishing)(GB).pdf" size="50419443" crc="15eb99e9" md5="b71df84aed41d5ece0dd564d8ba97a15" sha1="7828ad7e008e120d93c0e621fe82b8dcb3009c79"/>
+	</game>
+	<game name="Retro Gamer - Issue 180 (2018-05)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 180 (2018-05)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 180 (2018-05)(Future Publishing)(GB).pdf" size="21808386" crc="c20929b3" md5="523f638b7f88d0d48c7d15ff81b9fe45" sha1="4a78359b89366f054dc04b297ff23ce76487abf4"/>
+	</game>
+	<game name="Retro Gamer - Issue 181 (2018-06)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 181 (2018-06)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 181 (2018-06)(Future Publishing)(GB).pdf" size="22589389" crc="fccf796f" md5="4bea004195a53e1aba4f4f45b70bcd9b" sha1="da466d06fe8cf5b66561da03ee1189fd6a6f15d4"/>
+	</game>
+	<game name="Retro Gamer - Issue 182 (2018-07)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 182 (2018-07)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 182 (2018-07)(Future Publishing)(GB).pdf" size="46655556" crc="90d1ae4b" md5="ce16533a2c4f8c3ab7f706f3bcc468c9" sha1="3d295b4ae246ac04f0a99aa33be5264d28c46487"/>
+	</game>
+	<game name="Retro Gamer - Issue 183 (2018-08)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 183 (2018-08)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 183 (2018-08)(Future Publishing)(GB).pdf" size="47078686" crc="31edaf5e" md5="94413b93898dbd5ebeb5c1ff4ecdd15d" sha1="22df86f714a15f163261a8ad6590e3d68687f0fd"/>
+	</game>
+	<game name="Retro Gamer - Issue 184 (2018-09)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 184 (2018-09)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 184 (2018-09)(Future Publishing)(GB).pdf" size="33873156" crc="5a286c77" md5="be19b279617b17f32b8c231ea70cd448" sha1="f61a90c371dfe34873b972b245efa4a850178d08"/>
+	</game>
+	<game name="Retro Gamer - Issue 185 (2018-10)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 185 (2018-10)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 185 (2018-10)(Future Publishing)(GB).pdf" size="40351845" crc="4d528ad0" md5="a2e091c6da4d9546427b6731bcd91f65" sha1="5e714cf7d040fcf1c44f65627b4fc9c22483c10b"/>
+	</game>
+	<game name="Retro Gamer - Issue 186 (2018-11)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 186 (2018-11)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 186 (2018-11)(Future Publishing)(GB).pdf" size="22241481" crc="f019795b" md5="9375a9d10cab704987f394bcb63f9bc4" sha1="4b4975d3f2f6a21ed49e02e22c27141488f5bfd1"/>
+	</game>
+	<game name="Retro Gamer - Issue 187 (2018-12)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 187 (2018-12)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 187 (2018-12)(Future Publishing)(GB).pdf" size="37708310" crc="c0cd35d5" md5="331ef300fbe8350b727307422431a080" sha1="f2cda0172c2ebc6cd13a96230eccfef85b7bc326"/>
+	</game>
+	<game name="Retro Gamer - Issue 188 (2018)(Future Publishing)(GB)[christmas edition]">
+		<description>Retro Gamer - Issue 188 (2018)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Retro Gamer - Issue 188 (2018)(Future Publishing)(GB)[christmas edition].pdf" size="21182864" crc="6630b2bd" md5="ad15ad5df8211172860f8a98bbc866c3" sha1="a09c18b3db3266acf8fe867ffeaf48b133106a1e"/>
+	</game>
+	<game name="Retro Gamer - Issue 189 (2019-01)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 189 (2019-01)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 189 (2019-01)(Future Publishing)(GB).pdf" size="61747268" crc="0f24f169" md5="9beeab0e13a338a1de72c9c440c8192c" sha1="593e9c743dbc597ba3d6705dbb449a4e751cebb4"/>
+	</game>
+	<game name="Retro Gamer - Issue 190 (2019-02)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 190 (2019-02)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 190 (2019-02)(Future Publishing)(GB).pdf" size="32337253" crc="d4864671" md5="9d8fc1e7f0519cbd5cf7f6b8e5d7e538" sha1="5c0fcc928bd9dcc5197d81ca64bc02c5f30cbfbf"/>
+	</game>
+	<game name="Retro Gamer - Issue 191 (2019-03)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 191 (2019-03)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 191 (2019-03)(Future Publishing)(GB).pdf" size="30097319" crc="8073ac20" md5="abab4f0e0a88ce235b19927407c91f74" sha1="725aab0e278048278a082a1a9c066f4804b391e2"/>
+	</game>
+	<game name="Retro Gamer - Issue 192 (2019-04)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 192 (2019-04)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 192 (2019-04)(Future Publishing)(GB).pdf" size="68231926" crc="373d7f27" md5="582bd9d7eebd0b22e288c220e8d23845" sha1="fa81d70f3270e30a7df48707b307d342e4911ff7"/>
+	</game>
+	<game name="Retro Gamer - Issue 193 (2019-05)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 193 (2019-05)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 193 (2019-05)(Future Publishing)(GB).pdf" size="33932451" crc="07d0b733" md5="8d569720613dc66ff60c351e7b780b7d" sha1="5bbdefb9e46f11a65d52e2176144a2fa428ccb10"/>
+	</game>
+	<game name="Retro Gamer - Issue 194 (2019-06)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 194 (2019-06)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 194 (2019-06)(Future Publishing)(GB).pdf" size="65928037" crc="86d6b053" md5="e113e2d7d719cff85618c1282666fd08" sha1="a1db58b635f03c00978b806307c371db9f10bae5"/>
+	</game>
+	<game name="Retro Gamer - Issue 195 (2019-07)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 195 (2019-07)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 195 (2019-07)(Future Publishing)(GB).pdf" size="36410268" crc="ab8b3f58" md5="4ff651a49dd6c4f558c85ced0f6a269b" sha1="4c3e67504572d31393fd0f783e249030d8096804"/>
+	</game>
+	<game name="Retro Gamer - Issue 196 (2019-08)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 196 (2019-08)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 196 (2019-08)(Future Publishing)(GB).pdf" size="86757639" crc="ba2b8265" md5="3bba92adb567779b48391c5b7027de59" sha1="5ece006169cbfcb82dfdbe43777f63bfe5db5ce8"/>
+	</game>
+	<game name="Retro Gamer - Issue 197 (2019-09)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 197 (2019-09)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 197 (2019-09)(Future Publishing)(GB).pdf" size="213075332" crc="0a519a04" md5="1e9edca5af9f8110510483069a4c1e0a" sha1="80b1f4376d85199b715bd9f2bb435d13ac9065e0"/>
+	</game>
+	<game name="Retro Gamer - Issue 198 (2019-10)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 198 (2019-10)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 198 (2019-10)(Future Publishing)(GB).pdf" size="89026576" crc="49776c20" md5="d4f6117edaa1283dc7c9ea7128ac778d" sha1="6a723edc5a2afd0cbce0f5b617914e5fc51d63e6"/>
+	</game>
+	<game name="Retro Gamer - Issue 199 (2019-11)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 199 (2019-11)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 199 (2019-11)(Future Publishing)(GB).pdf" size="85637314" crc="c2266079" md5="18f82ddcc86401cd86fa0c067f0ecf35" sha1="b74a1112bbcb1ca5351d97eb951d19e6eb153039"/>
+	</game>
+	<game name="Retro Gamer - Issue 200 (2019-12)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 200 (2019-12)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 200 (2019-12)(Future Publishing)(GB).pdf" size="65326811" crc="cf4fccc0" md5="6737db3f050f730dcbd0f9a3ba5deda6" sha1="410e5ae02e46248adbce262a4c7790e882220f40"/>
+	</game>
+	<game name="Retro Gamer - Issue 201 (2019)(Future Publishing)(GB)[christmas edition]">
+		<description>Retro Gamer - Issue 201 (2019)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Retro Gamer - Issue 201 (2019)(Future Publishing)(GB)[christmas edition].pdf" size="22733739" crc="4c0fa611" md5="0ef5c19c4ad0b84bf7dfcb7d6db47e00" sha1="3882412d94311ce62bb130091fe8ed240d7fcab2"/>
+	</game>
+	<game name="Retro Gamer - Issue 202 (2020-01)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 202 (2020-01)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 202 (2020-01)(Future Publishing)(GB).pdf" size="75686392" crc="eeea0591" md5="eed6d45da31d719d4a1dcac850a23e87" sha1="680fb9cd4a23ab8843f496fa3b78f9eee11f13dc"/>
+	</game>
+	<game name="Retro Gamer - Issue 203 (2020-02)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 203 (2020-02)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 203 (2020-02)(Future Publishing)(GB).pdf" size="112148493" crc="93b343b9" md5="5f99178a0dd6795ce6e1bc0d377c19d3" sha1="e1583892722cdd6008ffc6a0f57cf5e49ac8ff6a"/>
+	</game>
+	<game name="Retro Gamer - Issue 204 (2020-03)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 204 (2020-03)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 204 (2020-03)(Future Publishing)(GB).pdf" size="118700269" crc="49cec0c3" md5="4a47f06649d490a25fab689975800560" sha1="58cbcf7567d334ba76cedaeb0097eb00cedab050"/>
+	</game>
+	<game name="Retro Gamer - Issue 205 (2020-04)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 205 (2020-04)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 205 (2020-04)(Future Publishing)(GB).pdf" size="117245168" crc="8e8d2633" md5="d3187d4676bf82e32141c49ec818ea66" sha1="300683947f5c0b7e6c890486844f5d673139b30b"/>
+	</game>
+	<game name="Retro Gamer - Issue 206 (2020-05)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 206 (2020-05)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 206 (2020-05)(Future Publishing)(GB).pdf" size="127768211" crc="2f5aed41" md5="d0e25f6adca50074f0db37210dce356f" sha1="0699cee7b00b45103f0f79812ebf5ad8e2ce2852"/>
+	</game>
+	<game name="Retro Gamer - Issue 207 (2020-06)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 207 (2020-06)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 207 (2020-06)(Future Publishing)(GB).pdf" size="90951173" crc="6ea71f0f" md5="fd22d0cd8f727f6c99fd83e9faa4c491" sha1="379f9102a05ad06a7a5d185901f19267927ae5a3"/>
+	</game>
+	<game name="Retro Gamer - Issue 208 (2020-07)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 208 (2020-07)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 208 (2020-07)(Future Publishing)(GB).pdf" size="96075466" crc="b7fd5aa0" md5="8a7d090b0963a87e65f960e61e4494a9" sha1="cd60c43d504e99cc42103bcf67454dce79ddd2e5"/>
+	</game>
+	<game name="Retro Gamer - Issue 209 (2020-08)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 209 (2020-08)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 209 (2020-08)(Future Publishing)(GB).pdf" size="89293785" crc="7e8f5704" md5="c2cb2a405f8982225a1d9d1b319b735f" sha1="f6e2fa719f18a2322a99fb8b17fa323680aaaedb"/>
+	</game>
+	<game name="Retro Gamer - Issue 210 (2020-09)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 210 (2020-09)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 210 (2020-09)(Future Publishing)(GB).pdf" size="95019156" crc="de625e52" md5="6dd92a9bedc69f74b0e6b7674777674f" sha1="f9f8a0ee0a81d246ff74407620a4eb2833e73602"/>
+	</game>
+	<game name="Retro Gamer - Issue 211 (2020-10)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 211 (2020-10)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 211 (2020-10)(Future Publishing)(GB).pdf" size="95022127" crc="41801012" md5="8634cdf0e186c3197f87f4d3be70d436" sha1="433b128de123b57e7c8d1eb812e73bde77b7485e"/>
+	</game>
+	<game name="Retro Gamer - Issue 212 (2020-11)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 212 (2020-11)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 212 (2020-11)(Future Publishing)(GB).pdf" size="94019573" crc="958bd3cd" md5="d191aa035984dfef84e0d82906f37143" sha1="768ff0327d0e1adebb0f1a679bd4627dcf787347"/>
+	</game>
+	<game name="Retro Gamer - Issue 213 (2020-12)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 213 (2020-12)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 213 (2020-12)(Future Publishing)(GB).pdf" size="102324334" crc="25cc1428" md5="b900496ee5390bb09f810d32641211fc" sha1="33f8fed706681fd1f157b724c1edbc5f205b7046"/>
+	</game>
+	<game name="Retro Gamer - Issue 214 (2020)(Futire Publishing)(GB)[christmas edition]">
+		<description>Retro Gamer - Issue 214 (2020)(Futire Publishing)(GB)[christmas edition]</description>
+		<rom name="Retro Gamer - Issue 214 (2020)(Futire Publishing)(GB)[christmas edition].pdf" size="87210089" crc="6f5bfb7a" md5="64f5bb51f54b19292e511e0d49bc7d3c" sha1="eb2571c5f97ab3799dab35419ee21c05abdbcc99"/>
+	</game>
+	<game name="Retro Gamer - Issue 215 (2021-01)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 215 (2021-01)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 215 (2021-01)(Future Publishing)(GB).pdf" size="82801241" crc="35a3a329" md5="cd72a7fffe0708cf1dba30f3bb9797c7" sha1="b3a052cf4e5c0c00f2812f5102095a8a38e8294c"/>
+	</game>
+	<game name="Retro Gamer - Issue 216 (2021-02)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 216 (2021-02)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 216 (2021-02)(Future Publishing)(GB).pdf" size="43696289" crc="b4c634b7" md5="7148f92082e5dd99b91ffc3cb632f9e4" sha1="6e087dc355b6232bb69c45621210d0dd80b972be"/>
+	</game>
+	<game name="Retro Gamer - Issue 217 (2021-03)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 217 (2021-03)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 217 (2021-03)(Future Publishing)(GB).pdf" size="90679335" crc="13ae1202" md5="864542d49ff30dc213084961bcf34b31" sha1="99def23095d070629b463c65aac1bfa1c40edc6a"/>
+	</game>
+	<game name="Retro Gamer - Issue 218 (2021-04)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 218 (2021-04)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 218 (2021-04)(Future Publishing)(GB).pdf" size="83986136" crc="356a06e4" md5="f04c45b328ae10dea5c85ec0655901c0" sha1="63c8ca351dac2bb4dc4bad7dbc2a8811b5b9d4ac"/>
+	</game>
+	<game name="Retro Gamer - Issue 219 (2021-05)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 219 (2021-05)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 219 (2021-05)(Future Publishing)(GB).pdf" size="81743100" crc="8a86e664" md5="6758ff3e22ddd4dd085a9a1f126b20f3" sha1="5ef13b91bf9abb90f9eedaa00721ab2647d3493c"/>
+	</game>
+	<game name="Retro Gamer - Issue 220 (2021-06)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 220 (2021-06)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 220 (2021-06)(Future Publishing)(GB).pdf" size="80545273" crc="8520c560" md5="1796b9000285a36a92e6cce900156c87" sha1="ea91a9f6f24f701d1a44d82969857c8288d03ba3"/>
+	</game>
+	<game name="Retro Gamer - Issue 221 (2021-07)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 221 (2021-07)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 221 (2021-07)(Future Publishing)(GB).pdf" size="45123563" crc="c720a1a4" md5="99e152a3793d011e61ddc28c16fc2755" sha1="fddc70aeef410cd701671ab2262c5a7778ec42c5"/>
+	</game>
+	<game name="Retro Gamer - Issue 222 (2021-08)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 222 (2021-08)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 222 (2021-08)(Future Publishing)(GB).pdf" size="95600204" crc="cd693818" md5="a4b8c70f5c83df4b80b03f0fe1a93f6b" sha1="3680f11d83cd3d09e25a8f9f75b5cfebb1b0d820"/>
+	</game>
+	<game name="Retro Gamer - Issue 223 (2021-09)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 223 (2021-09)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 223 (2021-09)(Future Publishing)(GB).pdf" size="40214896" crc="96dbfb1d" md5="0661b01551ae6c1d18e3e02461c0f760" sha1="ca3f0619244cdf9f5db6241773cf8b9dc1bafc49"/>
+	</game>
+	<game name="Retro Gamer - Issue 224 (2021-10)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 224 (2021-10)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 224 (2021-10)(Future Publishing)(GB).pdf" size="38158173" crc="7535e62a" md5="df06a30b5a050ed75dbec5bcd45870de" sha1="3b6eb418379409bd61375c23398097ae773fd60f"/>
+	</game>
+	<game name="Retro Gamer - Issue 225 (2021-11)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 225 (2021-11)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 225 (2021-11)(Future Publishing)(GB).pdf" size="39687710" crc="ab5a80f7" md5="068d996b880296164a27c4944075adb0" sha1="495b4a820ab0227f22082f118c8e59299decbb48"/>
+	</game>
+	<game name="Retro Gamer - Issue 226 (2021-12)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 226 (2021-12)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 226 (2021-12)(Future Publishing)(GB).pdf" size="86704031" crc="4979c52f" md5="5e42f0c843b6dd01329dddb3a67ce83d" sha1="fbe22568032e5f588700e0cf9fdbce15cac87e13"/>
+	</game>
+	<game name="Retro Gamer - Issue 227 (2021)(Future Publishing)(GB)[christmas edition]">
+		<description>Retro Gamer - Issue 227 (2021)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Retro Gamer - Issue 227 (2021)(Future Publishing)(GB)[christmas edition].pdf" size="89204526" crc="45b944ef" md5="92ca952b12fa8399e4d3b64ed04accea" sha1="082cc9374eaf677fed31575593689b0f58a7d054"/>
+	</game>
+	<game name="Retro Gamer - Issue 228 (2022-01)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 228 (2022-01)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 228 (2022-01)(Future Publishing)(GB).pdf" size="77345365" crc="f02eb1bb" md5="b38d269c04a88d137b7d20c7feb52350" sha1="07b0a65f8c8781dd97de39de482d6aaf70fcfd3a"/>
+	</game>
+	<game name="Retro Gamer - Issue 229 (2022-02)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 229 (2022-02)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 229 (2022-02)(Future Publishing)(GB).pdf" size="75346413" crc="c4883899" md5="0d460cc2edec3a28a759b339e004ac8f" sha1="69ffa57f81ecd6e1f24e69d8b55347fc194cee8f"/>
+	</game>
+	<game name="Retro Gamer - Issue 230 (2022-03)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 230 (2022-03)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 230 (2022-03)(Future Publishing)(GB).pdf" size="75753668" crc="c71fe7e2" md5="8543e92a80af5e6963669afc5017c3f7" sha1="68481068f0f22991a57f31e87a36cda8079575ba"/>
+	</game>
+	<game name="Retro Gamer - Issue 231 (2022-04)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 231 (2022-04)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 231 (2022-04)(Future Publishing)(GB).pdf" size="89460704" crc="a9ba5818" md5="c0417703b0968e5f5b6276d195d453ad" sha1="054e594e5cd98d20e0d6ba4b534ea206bd3456be"/>
+	</game>
+	<game name="Retro Gamer - Issue 232 (2022-05)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 232 (2022-05)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 232 (2022-05)(Future Publishing)(GB).pdf" size="82322763" crc="62bb923d" md5="f60ff24d8ff39ac6bf772f4da404f690" sha1="3a4acdf06a6bef5579a4d5d7a9449e4ed61c9af2"/>
+	</game>
+	<game name="Retro Gamer - Issue 233 (2022-06)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 233 (2022-06)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 233 (2022-06)(Future Publishing)(GB).pdf" size="81035008" crc="3788f7ed" md5="1b803946580eb3cfba451388626b1f12" sha1="a2e30ec3c8580ef9f54922ea70a2c7a2e0126dad"/>
+	</game>
+	<game name="Retro Gamer - Issue 234 (2022-07)(Future Publishing)">
+		<description>Retro Gamer - Issue 234 (2022-07)(Future Publishing)</description>
+		<rom name="Retro Gamer - Issue 234 (2022-07)(Future Publishing).pdf" size="45093332" crc="469f8085" md5="c9cc37e7144c3feb8de4ff6205b56ab2" sha1="c02769f6d7c3156778164eb7ac881240f56ae0a0"/>
+	</game>
+	<game name="Retro Gamer - Issue 235 (2022-08)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 235 (2022-08)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 235 (2022-08)(Future Publishing)(GB).pdf" size="100667750" crc="d53adc33" md5="6c4dd4038447621123440dd6b98608ae" sha1="760390cf05762fe8698a4ec3f1cdd16a5b6ab5d6"/>
+	</game>
+	<game name="Retro Gamer - Issue 236 (2022-09)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 236 (2022-09)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 236 (2022-09)(Future Publishing)(GB).pdf" size="157533439" crc="ab6aa3e9" md5="f0c1ba815e0f529c8402f6e32e705d07" sha1="0ec58d7080bbc8f609f74772cca8fd5f16e185d7"/>
+	</game>
+	<game name="Retro Gamer - Issue 237 (2022-10)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 237 (2022-10)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 237 (2022-10)(Future Publishing)(GB).pdf" size="78485500" crc="1de57b3e" md5="be6afdbb1d2fd46641f4140be8dc33cc" sha1="673a944fbcca8da4d4800b5792f811c30c258800"/>
+	</game>
+	<game name="Retro Gamer - Issue 238 (2022-11)(Future Publishing)(GB)">
+		<description>Retro Gamer - Issue 238 (2022-11)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer - Issue 238 (2022-11)(Future Publishing)(GB).pdf" size="80029990" crc="39d3f776" md5="bc3a3af4c20a4127ebd5d76c6be8963d" sha1="d04f4bab11062158ac68a65b2e2b83073308dac2"/>
+	</game>
+	<game name="Retro Gamer - Then and Now (2004)(Live Publishing)(GB)">
+		<description>Retro Gamer - Then and Now (2004)(Live Publishing)(GB)</description>
+		<rom name="Retro Gamer - Then and Now (2004)(Live Publishing)(GB).pdf" size="2105355" crc="5edaf78c" md5="1491c38a17dc3199beb6e7ea64af9283" sha1="a09c0d31a08413433d996668906f5474fb22017e"/>
+	</game>
+	<game name="Retro Gamer Annual - Volume 02 (2015)(Imagine Publishing)(GB)">
+		<description>Retro Gamer Annual - Volume 02 (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer Annual - Volume 02 (2015)(Imagine Publishing)(GB).pdf" size="124996487" crc="d715f3c2" md5="3e1a1142485d418955f94e14a00e7765" sha1="d1f1fbc0b62b3c259de6011bd8be7a58941e7d11"/>
+	</game>
+	<game name="Retro Gamer Annual - Volume 03 (2016)(Future Publishing)(GB)">
+		<description>Retro Gamer Annual - Volume 03 (2016)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer Annual - Volume 03 (2016)(Future Publishing)(GB).pdf" size="66018347" crc="7b7b682c" md5="bf1d1dda70b7b3cc8a6a834ad06a4ce4" sha1="2a52f19a38d2a1b8e7df89509f7bc182e6067d6f"/>
+	</game>
+	<game name="Retro Gamer Annual - Volume 05 (2018)(Future Publishing)(GB)">
+		<description>Retro Gamer Annual - Volume 05 (2018)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer Annual - Volume 05 (2018)(Future Publishing)(GB).pdf" size="224896335" crc="0fd24a36" md5="b34661e086c16ac3d48a5fa80b8e2cd9" sha1="ab2188208d2019a58832767f0142265a3e1031bc"/>
+	</game>
+	<game name="Retro Gamer Annual - Volume 06 (2019)(Future Publishing)(GB)">
+		<description>Retro Gamer Annual - Volume 06 (2019)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer Annual - Volume 06 (2019)(Future Publishing)(GB).pdf" size="257094523" crc="c2f7fd0f" md5="3cc08f948767a95ece46818d3aafe8da" sha1="a95a672119cf9a36ad906c742d5115c8b9817039"/>
+	</game>
+	<game name="Retro Gamer Annual - Volume 07 (2020)(Future Publishing)(GB)">
+		<description>Retro Gamer Annual - Volume 07 (2020)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer Annual - Volume 07 (2020)(Future Publishing)(GB).pdf" size="169886282" crc="3ca78b47" md5="a18c8e1e1789c763289d0f4bd98f232a" sha1="eb9b95bf9b76faa13debe14e089142c3e2cd5eec"/>
+	</game>
+	<game name="Retro Gamer Annual - Volume 08 (2021)(Future Publishing)(GB)">
+		<description>Retro Gamer Annual - Volume 08 (2021)(Future Publishing)(GB)</description>
+		<rom name="Retro Gamer Annual - Volume 08 (2021)(Future Publishing)(GB).pdf" size="75446639" crc="74029199" md5="d55c7a02ce83da6b5894930cd81abac1" sha1="8f78d3b1008c21c269bdb5138d2bcabd1df5ead9"/>
+	</game>
+	<game name="Retro Gamer Collection - Vol 1 (2007)(Imagine Publishing)(GB)">
+		<description>Retro Gamer Collection - Vol 1 (2007)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer Collection - Vol 1 (2007)(Imagine Publishing)(GB).pdf" size="224094559" crc="21bce0f8" md5="0a005f89aea4ceadfcebd34f1630168a" sha1="42cf19f9bb9d00066f9e92646dead4a2b1ab5724"/>
+	</game>
+	<game name="Retro Gamer Collection - Vol 2 (2008)(Imagine Publishing)(GB)">
+		<description>Retro Gamer Collection - Vol 2 (2008)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer Collection - Vol 2 (2008)(Imagine Publishing)(GB).pdf" size="220412934" crc="e675e89a" md5="2c63052984288667e05a200121d74f33" sha1="be28113a56e6d66f896b81a2feedb10ac7f7fe21"/>
+	</game>
+	<game name="Retro Gamer Collection - Vol 3 (2009)(Imagine Publishing)(GB)">
+		<description>Retro Gamer Collection - Vol 3 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer Collection - Vol 3 (2009)(Imagine Publishing)(GB).pdf" size="238333859" crc="6f82c6ad" md5="cf43148cfb67aded149bf06e744fc5d8" sha1="1c336d35d1e1e36254fdc6b2e35ce22efd7a7e90"/>
+	</game>
+	<game name="Retro Gamer Collection - Volume 10 (2017)(Imagine Publishing)(FR)">
+		<description>Retro Gamer Collection - Volume 10 (2017)(Imagine Publishing)(FR)</description>
+		<rom name="Retro Gamer Collection - Volume 10 (2017)(Imagine Publishing)(FR).pdf" size="72214328" crc="262c7b3c" md5="172e9818b4de374d34796d623c656f0b" sha1="99b7465190d30c34e19b90e6983698e3e3a856e2"/>
+	</game>
+	<game name="Retro Gamer Collection - Volume 4 (2010)(Imagine Publishing)(GB)">
+		<description>Retro Gamer Collection - Volume 4 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer Collection - Volume 4 (2010)(Imagine Publishing)(GB).pdf" size="223365448" crc="a653c3dc" md5="35843b577033b4b0ad53dfd71d4fad00" sha1="b21ab8273fa10dd7437b7a605dcb210df42094fa"/>
+	</game>
+	<game name="Retro Gamer Collection - Volume 5 (2011)(Imagine Publishing)(GB)">
+		<description>Retro Gamer Collection - Volume 5 (2011)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer Collection - Volume 5 (2011)(Imagine Publishing)(GB).pdf" size="112183406" crc="1fcf6380" md5="90da38fdae486d19959831a826de4c98" sha1="f0b0f031eb720c5c259193bee2fa8653334eb203"/>
+	</game>
+	<game name="Retro Gamer Collection - Volume 6 (2012)(Imagine Publishing)(GB)">
+		<description>Retro Gamer Collection - Volume 6 (2012)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer Collection - Volume 6 (2012)(Imagine Publishing)(GB).pdf" size="202417375" crc="0f9a94f2" md5="389f41695d4516169cff55afce44109a" sha1="001daf3fced55869fe646a19c4ce88a9323b7a01"/>
+	</game>
+	<game name="Retro Gamer Collection - Volume 7 (2013)(Imagine Publishing)(GB)">
+		<description>Retro Gamer Collection - Volume 7 (2013)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer Collection - Volume 7 (2013)(Imagine Publishing)(GB).pdf" size="56395252" crc="9ae95594" md5="cfad68855e5f71b936ab65ba59002a52" sha1="859803aedc55971bdc147ae75bdb7ac13e2ee799"/>
+	</game>
+	<game name="Retro Gamer Collection - Volume 8 (2014)(Imagine Publishing)(GB)">
+		<description>Retro Gamer Collection - Volume 8 (2014)(Imagine Publishing)(GB)</description>
+		<rom name="Retro Gamer Collection - Volume 8 (2014)(Imagine Publishing)(GB).pdf" size="158565431" crc="635bf330" md5="2c1871bbdac9f1f22e6ad8b4c0aa3fef" sha1="5a527ccd3142640f85d95479742335f630283cd3"/>
+	</game>
+	<game name="RPG Book, The (2022)(Future Publishing)(GB)">
+		<description>RPG Book, The (2022)(Future Publishing)(GB)</description>
+		<rom name="RPG Book, The (2022)(Future Publishing)(GB).pdf" size="90938516" crc="320ffc36" md5="fedfe0c6f9f18ba594f7ec2faf89f6f2" sha1="09ec9b29245ac9f2548393ab00a6d966241d6b36"/>
+	</game>
+	<game name="Sega Archives (2016)(Imagine Publishing)(GB)">
+		<description>Sega Archives (2016)(Imagine Publishing)(GB)</description>
+		<rom name="Sega Archives (2016)(Imagine Publishing)(GB).pdf" size="59720466" crc="8fa716be" md5="f00dedbb78aaa2a8318dd2390f609158" sha1="8b9535843af1239b4e4cf42394dfe9500d15bc39"/>
+	</game>
+	<game name="Sega Dreamcast, The Complete Manual, 1st Ed. (2015)(Imagine Publishing)(GB)">
+		<description>Sega Dreamcast, The Complete Manual, 1st Ed. (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Sega Dreamcast, The Complete Manual, 1st Ed. (2015)(Imagine Publishing)(GB).pdf" size="63667057" crc="b369fced" md5="9d53785c006d8598418ee0cec079eb28" sha1="c6538df8b5edc1a0d18f98826591b5b48fd9cc85"/>
+	</game>
+	<game name="SNES Book,The (2013)(Imagine Publishing)(GB)">
+		<description>SNES Book,The (2013)(Imagine Publishing)(GB)</description>
+		<rom name="SNES Book,The (2013)(Imagine Publishing)(GB).pdf" size="84860631" crc="ea65dbfd" md5="f467182d164d5847f1abe4669bef6500" sha1="2e1bacda38df0b523be50ea1890d4d5ff55cc469"/>
+	</game>
+	<game name="Story of Pokmon, The (2021)(Future Publishing)(GB)[first edition]">
+		<description>Story of Pokmon, The (2021)(Future Publishing)(GB)[first edition]</description>
+		<rom name="Story of Pokmon, The (2021)(Future Publishing)(GB)[first edition].pdf" size="135869453" crc="58b670d8" md5="ea08cea99e726c7c707a7ee018e4b0ae" sha1="2a6e61b3f62ebc71dd789e70dc85db7cc9c3dd4d"/>
+	</game>
+	<game name="Story of Pokmon, The (2022)(Future Publishing)(GB)[third edition]">
+		<description>Story of Pokmon, The (2022)(Future Publishing)(GB)[third edition]</description>
+		<rom name="Story of Pokmon, The (2022)(Future Publishing)(GB)[third edition].pdf" size="81335755" crc="248d8223" md5="58e99513501654bf04043d5dcf555236" sha1="1009a8253366050a33d3b05e4135350062de8434"/>
+	</game>
+	<game name="Ultimate 70s Collection, The (2019)(Future Publishing)(GB)[second edition]">
+		<description>Ultimate 70s Collection, The (2019)(Future Publishing)(GB)[second edition]</description>
+		<rom name="Ultimate 70s Collection, The (2019)(Future Publishing)(GB)[second edition].pdf" size="176639699" crc="7f970a2d" md5="a4d9756994787b93f83cfa31cb14de56" sha1="225915e1942b4c254dcca1c02d21e54b54e9cf6f"/>
+	</game>
+	<game name="Ultimate 70s Collection, The (2021)(Future Publishing)(GB)[third edition]">
+		<description>Ultimate 70s Collection, The (2021)(Future Publishing)(GB)[third edition]</description>
+		<rom name="Ultimate 70s Collection, The (2021)(Future Publishing)(GB)[third edition].pdf" size="176621120" crc="822211f0" md5="d2a11ba5986083d962a03b6ff322f604" sha1="be9388f04487175567da9303128f801ef7ccb527"/>
+	</game>
+	<game name="Ultimate 70s Collection, The (2022)(Future Publishing)(GB)[fourth edition]">
+		<description>Ultimate 70s Collection, The (2022)(Future Publishing)(GB)[fourth edition]</description>
+		<rom name="Ultimate 70s Collection, The (2022)(Future Publishing)(GB)[fourth edition].pdf" size="164200047" crc="7a2e8fa8" md5="2a91a1565650f8bd8a935cbbce72f5c7" sha1="f5bb453f425a5d7be6c9282d4e7c3e0debf1da34"/>
+	</game>
+	<game name="Ultimate 80s Collection, The (2019)(Future Publishing)(GB)[second edition]">
+		<description>Ultimate 80s Collection, The (2019)(Future Publishing)(GB)[second edition]</description>
+		<rom name="Ultimate 80s Collection, The (2019)(Future Publishing)(GB)[second edition].pdf" size="144714182" crc="38936fe2" md5="0a76265ba607d5e75027984bb18cfd72" sha1="42f03b81f89e5ef40fc9ed9405581c3b1dd3358b"/>
+	</game>
+	<game name="Ultimate 80s Collection, The (2022)(Future Publishing)(GB)[fourth edition]">
+		<description>Ultimate 80s Collection, The (2022)(Future Publishing)(GB)[fourth edition]</description>
+		<rom name="Ultimate 80s Collection, The (2022)(Future Publishing)(GB)[fourth edition].pdf" size="59455221" crc="217d3127" md5="9b8b40b7c580db9063225fe81df6fdd7" sha1="4dd10cbe6e25291af98451e3fddae096621a0808"/>
+	</game>
+	<game name="Ultimate 80s Retro Gaming Collection (2019)(Future Publishing)(GB)[first edition]">
+		<description>Ultimate 80s Retro Gaming Collection (2019)(Future Publishing)(GB)[first edition]</description>
+		<rom name="Ultimate 80s Retro Gaming Collection (2019)(Future Publishing)(GB)[first edition].pdf" size="104466912" crc="0a653bfd" md5="674460984a0e039673b4cc394b7ec03b" sha1="b47e39a6c54ea5393867b6863453cd0ac8da6f73"/>
+	</game>
+	<game name="Ultimate 80s Retro Gaming Collection (2021)(Future Publishing)(GB)[third edition]">
+		<description>Ultimate 80s Retro Gaming Collection (2021)(Future Publishing)(GB)[third edition]</description>
+		<rom name="Ultimate 80s Retro Gaming Collection (2021)(Future Publishing)(GB)[third edition].pdf" size="169727523" crc="0f653411" md5="213d34a4f6b2c13c66045ebdb8f1dbee" sha1="2278b78e9d8ccf00317636b12fc0ec41494c1aa7"/>
+	</game>
+	<game name="Ultimate 80s Retro Gaming Collection (2022)(Future Publishing)(GB)[fourth edition]">
+		<description>Ultimate 80s Retro Gaming Collection (2022)(Future Publishing)(GB)[fourth edition]</description>
+		<rom name="Ultimate 80s Retro Gaming Collection (2022)(Future Publishing)(GB)[fourth edition].pdf" size="40878960" crc="41ad1286" md5="2ff0a385565e433818a23e0624808bec" sha1="cf00bc2017f6bcfbd31a4989ea9b16d428c7b76b"/>
+	</game>
+	<game name="Ultimate 90s Collection, The (2018)(Future Publishing)(GB)[first edition]">
+		<description>Ultimate 90s Collection, The (2018)(Future Publishing)(GB)[first edition]</description>
+		<rom name="Ultimate 90s Collection, The (2018)(Future Publishing)(GB)[first edition].pdf" size="27888939" crc="28a87336" md5="f4659f47652d5e922611e0604401b3ab" sha1="7c87c167cc648eaa64e6017d9de453a1ad4ca7f8"/>
+	</game>
+	<game name="Ultimate 90s Collection, The (2019)(Future Publishing)(GB)[second edition]">
+		<description>Ultimate 90s Collection, The (2019)(Future Publishing)(GB)[second edition]</description>
+		<rom name="Ultimate 90s Collection, The (2019)(Future Publishing)(GB)[second edition].pdf" size="137822002" crc="6c5ba10c" md5="a3b2cb44d1032479310592760d0f8bba" sha1="259de233f248ce87d3c1fd0fe75cc024073a87d9"/>
+	</game>
+	<game name="Ultimate 90s Collection, The (2021)(Future Publishing)(GB)[third edition]">
+		<description>Ultimate 90s Collection, The (2021)(Future Publishing)(GB)[third edition]</description>
+		<rom name="Ultimate 90s Collection, The (2021)(Future Publishing)(GB)[third edition].pdf" size="137941410" crc="79c5782d" md5="98558677605755801f76d8801ff0ec1c" sha1="553e75b3c67f43c7c573c29073d091409af400a4"/>
+	</game>
+	<game name="Ultimate 90s Collection, The (2022)(Future Publishing)(GB)[fourth edition]">
+		<description>Ultimate 90s Collection, The (2022)(Future Publishing)(GB)[fourth edition]</description>
+		<rom name="Ultimate 90s Collection, The (2022)(Future Publishing)(GB)[fourth edition].pdf" size="67086098" crc="43c0f39c" md5="9658f17b512fe15ffcd8ae5c6f8b02fe" sha1="73bbff4a879df80ea6e415fbe196c25275ffcbda"/>
+	</game>
+	<game name="Ultimate 90s Retro Gaming Collection (2019)(Future Publishing)(GB)">
+		<description>Ultimate 90s Retro Gaming Collection (2019)(Future Publishing)(GB)</description>
+		<rom name="Ultimate 90s Retro Gaming Collection (2019)(Future Publishing)(GB).pdf" size="52415836" crc="d4733b1c" md5="f33042b2b3100a7c0b7b93452799c529" sha1="e65da60aa37cc97febf34b656fd4ef0cd55436c3"/>
+	</game>
+	<game name="Ultimate 90s Retro Gaming Collection (2019)(Future Publishing)(GB)[a]">
+		<description>Ultimate 90s Retro Gaming Collection (2019)(Future Publishing)(GB)[a]</description>
+		<rom name="Ultimate 90s Retro Gaming Collection (2019)(Future Publishing)(GB)[a].pdf" size="232342452" crc="96ad3491" md5="8c0ea132f928555bda4b309f51ee08dc" sha1="41eb0cbcb921c7285364deed1fa8390f4ab00adb"/>
+	</game>
+	<game name="Ultimate 90s Retro Gaming Collection (2022)(Future Publishing)(GB)[third edition]">
+		<description>Ultimate 90s Retro Gaming Collection (2022)(Future Publishing)(GB)[third edition]</description>
+		<rom name="Ultimate 90s Retro Gaming Collection (2022)(Future Publishing)(GB)[third edition].pdf" size="76708352" crc="5238bca1" md5="3ab384e940c266455989209e584f2482" sha1="0f5ce6be139b1e76a09c015ed7cffd99c37bdb68"/>
+	</game>
+	<game name="Ultimate Guide to Fantasy Gaming (2019)(Future Publishing)(GB)">
+		<description>Ultimate Guide to Fantasy Gaming (2019)(Future Publishing)(GB)</description>
+		<rom name="Ultimate Guide to Fantasy Gaming (2019)(Future Publishing)(GB).pdf" size="152952928" crc="b1304c2a" md5="b1131fdc6d06a16e0a219115e638795e" sha1="79c457c2cc895eb8131679318456874cae72c882"/>
+	</game>
+	<game name="Ultimate Retro Hardware Guide (2018)(Future Publishing)(GB)">
+		<description>Ultimate Retro Hardware Guide (2018)(Future Publishing)(GB)</description>
+		<rom name="Ultimate Retro Hardware Guide (2018)(Future Publishing)(GB).pdf" size="73673267" crc="aa4968bc" md5="08dc3694b08c8c30cbf5a2b92cef1dff" sha1="698803fc649da52cdf70bcdfb144d7990275c042"/>
+	</game>
+	<game name="Ultimate Retro Hardware Guide (2019)(Future Publishing)(GB)[second edition]">
+		<description>Ultimate Retro Hardware Guide (2019)(Future Publishing)(GB)[second edition]</description>
+		<rom name="Ultimate Retro Hardware Guide (2019)(Future Publishing)(GB)[second edition].pdf" size="193428338" crc="335cdaae" md5="db4d4999f57dec90ed34164adca65e2f" sha1="95bcf8bfd6f261c14070f5b12e758847a1b4ccd8"/>
+	</game>
+	<game name="Ultimate Retro Hardware Guide (2022)(Future Publishing)(GB)[fifth edition]">
+		<description>Ultimate Retro Hardware Guide (2022)(Future Publishing)(GB)[fifth edition]</description>
+		<rom name="Ultimate Retro Hardware Guide (2022)(Future Publishing)(GB)[fifth edition].pdf" size="68555962" crc="23dce3e9" md5="0e6a926d34ca0cf12eb389c3588addef" sha1="1bee6ca1a5eab52acfe37bb4a5352699adb1ed72"/>
+	</game>
+	<game name="Videogames Hardware Handbook - Volume 1 (2016)(Imagine Publishing)(GB)[second revised edition]">
+		<description>Videogames Hardware Handbook - Volume 1 (2016)(Imagine Publishing)(GB)[second revised edition]</description>
+		<rom name="Videogames Hardware Handbook - Volume 1 (2016)(Imagine Publishing)(GB)[second revised edition].pdf" size="73997106" crc="98f8416c" md5="d09131246e0cfa1d931c3f922d8e627e" sha1="8063d83ce57e4962149c8d7be0bb369184b6470e"/>
+	</game>
+	<game name="Videogames Hardware Handbook - Volume 2 (2019)(Future Publishing)(GB)[fifth edition]">
+		<description>Videogames Hardware Handbook - Volume 2 (2019)(Future Publishing)(GB)[fifth edition]</description>
+		<rom name="Videogames Hardware Handbook - Volume 2 (2019)(Future Publishing)(GB)[fifth edition].pdf" size="241316487" crc="029e0215" md5="606998c8c534b5f765f347a92934358a" sha1="ad80cb10d19806e5420c8d553cdea22550bdb1ed"/>
+	</game>
+	<game name="Videogames Hardware Handbook 1977 to 1999 - Vol 1 (2009)(Imagine Publishing)(GB)">
+		<description>Videogames Hardware Handbook 1977 to 1999 - Vol 1 (2009)(Imagine Publishing)(GB)</description>
+		<rom name="Videogames Hardware Handbook 1977 to 1999 - Vol 1 (2009)(Imagine Publishing)(GB).pdf" size="138029370" crc="445c1316" md5="98401947f90b7e9a6a7fc0a1e1a0c110" sha1="ee4fd9cc9ef9a1b570356de0a044ec4709a9ecf0"/>
+	</game>
+	<game name="Videogames Hardware Handbook 1977 to 2001 - Vol 2 (2010)(Imagine Publishing)(GB)">
+		<description>Videogames Hardware Handbook 1977 to 2001 - Vol 2 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Videogames Hardware Handbook 1977 to 2001 - Vol 2 (2010)(Imagine Publishing)(GB).pdf" size="159668606" crc="dcff6fea" md5="0a3777819563e085a1880ff90aa1d07a" sha1="a5fa309c9f52ee691eef6f008c53fb651a9a74fb"/>
+	</game>
+	<game name="Videogames Hardware Handbook 1977 to 2001 - Vol 2 (2010)(Imagine Publishing)(GB)[a]">
+		<description>Videogames Hardware Handbook 1977 to 2001 - Vol 2 (2010)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Videogames Hardware Handbook 1977 to 2001 - Vol 2 (2010)(Imagine Publishing)(GB)[a].pdf" size="139598836" crc="5d18c0da" md5="6309730cb5afc02278ac48c7b57c8df5" sha1="5ac08f691ea7ae85c9d2598048d3506772d31d55"/>
+	</game>
+	<game name="ZX Spectrum and Commodore 64 book, The (2015)(Imagine Publishing)(GB)[revised edition]">
+		<description>ZX Spectrum and Commodore 64 book, The (2015)(Imagine Publishing)(GB)[revised edition]</description>
+		<rom name="ZX Spectrum and Commodore 64 book, The (2015)(Imagine Publishing)(GB)[revised edition].pdf" size="124718402" crc="9d00b817" md5="f7a1586b79afee8d359483df1b58a8eb" sha1="cfb454cdcf07d2b68f7f3201dd9bbe0e912f4e84"/>
+	</game>
+	<game name="ZX Spectrum and Commodore 64 Book, The (2016)(Imagine Publishing)(GB)[third edition]">
+		<description>ZX Spectrum and Commodore 64 Book, The (2016)(Imagine Publishing)(GB)[third edition]</description>
+		<rom name="ZX Spectrum and Commodore 64 Book, The (2016)(Imagine Publishing)(GB)[third edition].pdf" size="63192878" crc="24029f7a" md5="97b50f780d94bbb8d721d3eb27a4b463" sha1="cba49a5fbc69fa29f6ca8b033744de38c50923e3"/>
+	</game>
+	<game name="ZX Spectrum Book, The (2012)(Imagine Publishing)(GB)">
+		<description>ZX Spectrum Book, The (2012)(Imagine Publishing)(GB)</description>
+		<rom name="ZX Spectrum Book, The (2012)(Imagine Publishing)(GB).pdf" size="139744797" crc="0f84f8b0" md5="dce5b22d61b43b5da95bdf2262322fde" sha1="df5538587d40181c7f940d81319ae25497f0200e"/>
+	</game>
+	<game name="ZX Spectrum Book, The (2012)(Imagine Publishing)(GB)[a]">
+		<description>ZX Spectrum Book, The (2012)(Imagine Publishing)(GB)[a]</description>
+		<rom name="ZX Spectrum Book, The (2012)(Imagine Publishing)(GB)[a].pdf" size="199102950" crc="5fcf0418" md5="e4b15544dfb81e9f6f18b810416df84f" sha1="9fdca3e825acbbc73acb00bb85663cc4fb26f509"/>
+	</game>
+</datafile>

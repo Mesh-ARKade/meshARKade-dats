@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple - Magazines - Applicando (IT)</name>
+		<description>Apple - Magazines - Applicando (IT) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Applicando - Anno 01 N.001 (1983-05)(Editronika)(IT)">
+		<description>Applicando - Anno 01 N.001 (1983-05)(Editronika)(IT)</description>
+		<rom name="Applicando - Anno 01 N.001 (1983-05)(Editronika)(IT).pdf" size="129867239" crc="2bd71407" md5="dca253900084496578314ced2bb92dfe" sha1="d4a56a8d9f562ea860b41ef4d34705bf0c6ab4a8"/>
+	</game>
+</datafile>

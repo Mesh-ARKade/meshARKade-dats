@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Play (IT)</name>
+		<description>Sony PlayStation - Magazines - Play (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Play - Anno 1 N.01 (1998-12)(Gruppo Futura)(IT)">
+		<description>Play - Anno 1 N.01 (1998-12)(Gruppo Futura)(IT)</description>
+		<rom name="Play - Anno 1 N.01 (1998-12)(Gruppo Futura)(IT).pdf" size="173239811" crc="a316e481" md5="d21ee8376c3d5eb262711c6cbf6f9119" sha1="20a2d3e1329226fee0930e6975638eb24c83bfd4"/>
+	</game>
+	<game name="Play - Anno 1 N.01 (1998-12)(Gruppo Futura)(IT)[a]">
+		<description>Play - Anno 1 N.01 (1998-12)(Gruppo Futura)(IT)[a]</description>
+		<rom name="Play - Anno 1 N.01 (1998-12)(Gruppo Futura)(IT)[a].pdf" size="367464648" crc="726a8a62" md5="79f6fcde5ae050a9e98cb748699b3cff" sha1="13ce51fbf73d799578a485273b1f05ac3ce0e00e"/>
+	</game>
+	<game name="Play - Anno 1 N.01 (1998-12)(Gruppo Futura)(IT)[poster Tekken]">
+		<description>Play - Anno 1 N.01 (1998-12)(Gruppo Futura)(IT)[poster Tekken]</description>
+		<rom name="Play - Anno 1 N.01 (1998-12)(Gruppo Futura)(IT)[poster Tekken].pdf" size="36978806" crc="762b947f" md5="60c30ab1e9f8ffcb902ce22c42988d0c" sha1="bcefb7d73298db985de281cf5b8591096eee9095"/>
+	</game>
+	<game name="Play - Anno 2 N.02 (1999-01)(Gruppo Futura)(IT)">
+		<description>Play - Anno 2 N.02 (1999-01)(Gruppo Futura)(IT)</description>
+		<rom name="Play - Anno 2 N.02 (1999-01)(Gruppo Futura)(IT).pdf" size="242916994" crc="7a59bc7e" md5="2d5a028fd52161e4269adf49210743f4" sha1="5e1d732f54b489159933e2af4bd502d6a8d5ff53"/>
+	</game>
+	<game name="Play - Anno 2 N.02 (1999-01)(Gruppo Futura)(IT)[poster Tomb Raider]">
+		<description>Play - Anno 2 N.02 (1999-01)(Gruppo Futura)(IT)[poster Tomb Raider]</description>
+		<rom name="Play - Anno 2 N.02 (1999-01)(Gruppo Futura)(IT)[poster Tomb Raider].pdf" size="28115986" crc="db75bb13" md5="9b9629f709f236999275d43cce8e2567" sha1="5a3ba9a58705ef582f5f770b99c2708f5b4f1b0f"/>
+	</game>
+	<game name="Play - Anno 2 N.03 (1999-02)(Gruppo Futura)(IT)">
+		<description>Play - Anno 2 N.03 (1999-02)(Gruppo Futura)(IT)</description>
+		<rom name="Play - Anno 2 N.03 (1999-02)(Gruppo Futura)(IT).pdf" size="348663697" crc="ca97cd86" md5="cc192249eb43d0d31e6d862041bce46b" sha1="e7e4c8a9ee4b2e8d0554bea2a22665141884ac5a"/>
+	</game>
+	<game name="Play - Anno 2 N.03 (1999-02)(Gruppo Futura)(IT)[poster Apocalypse]">
+		<description>Play - Anno 2 N.03 (1999-02)(Gruppo Futura)(IT)[poster Apocalypse]</description>
+		<rom name="Play - Anno 2 N.03 (1999-02)(Gruppo Futura)(IT)[poster Apocalypse].pdf" size="35379273" crc="2a15b632" md5="0c377c5414b21381795af40fd355c791" sha1="2d678201bd67dbf1fed43f3a8f704e2062cc3ad5"/>
+	</game>
+</datafile>

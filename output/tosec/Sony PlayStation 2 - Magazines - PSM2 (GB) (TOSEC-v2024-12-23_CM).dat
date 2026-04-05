@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - PSM2 (GB)</name>
+		<description>Sony PlayStation 2 - Magazines - PSM2 (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PSM2 - Issue 000 (2000-09)(Future Publishing)(GB)">
+		<description>PSM2 - Issue 000 (2000-09)(Future Publishing)(GB)</description>
+		<rom name="PSM2 - Issue 000 (2000-09)(Future Publishing)(GB).pdf" size="22365174" crc="2896c733" md5="23d92bd6247640adc33926731fec7bfb" sha1="93c901ac81e06d876b96b0f36fc486c6edde724e"/>
+	</game>
+	<game name="PSM2 - Issue 001 (2000-10)(Future Publishing)(GB)">
+		<description>PSM2 - Issue 001 (2000-10)(Future Publishing)(GB)</description>
+		<rom name="PSM2 - Issue 001 (2000-10)(Future Publishing)(GB).pdf" size="329188106" crc="b93bd95a" md5="9058020c111f63a0d5b7c675cd6f2687" sha1="79ab57ff1e0a9c3a54deb2868ede5826b4e02d4f"/>
+	</game>
+	<game name="PSM2 - Issue 018 (2002-01)(Future Publishing)(GB)">
+		<description>PSM2 - Issue 018 (2002-01)(Future Publishing)(GB)</description>
+		<rom name="PSM2 - Issue 018 (2002-01)(Future Publishing)(GB).pdf" size="230788885" crc="7b5dcd96" md5="395aaf015e6f0b694981f0c0e587e0eb" sha1="04443b31fe5a87479fcf84ec52cd829ec7be8189"/>
+	</game>
+	<game name="PSM2 - Issue 022 (2002-05)(Future Publishing)(GB)">
+		<description>PSM2 - Issue 022 (2002-05)(Future Publishing)(GB)</description>
+		<rom name="PSM2 - Issue 022 (2002-05)(Future Publishing)(GB).pdf" size="323189230" crc="dbc3e20b" md5="d3391701f98a9d64d4be8ca499ae690a" sha1="22304afe45a816b06d56ed849e49b62e75eeb510"/>
+	</game>
+	<game name="PSM2 - Issue 057 (2005-01)(Future Publishing)(GB)">
+		<description>PSM2 - Issue 057 (2005-01)(Future Publishing)(GB)</description>
+		<rom name="PSM2 - Issue 057 (2005-01)(Future Publishing)(GB).pdf" size="324040230" crc="b8e1e740" md5="774c4855ee3af6b9fcb4a6a4978c5436" sha1="9c5e67b059ca5b00e2f595d3564ba8151c8fcc1f"/>
+	</game>
+</datafile>

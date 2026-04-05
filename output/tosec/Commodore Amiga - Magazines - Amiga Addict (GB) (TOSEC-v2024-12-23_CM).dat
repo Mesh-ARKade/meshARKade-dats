@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - Magazines - Amiga Addict (GB)</name>
+		<description>Commodore Amiga - Magazines - Amiga Addict (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amiga Addict - Issue 01 (2021-01)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 01 (2021-01)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 01 (2021-01)(Simulant Systems)(GB).pdf" size="26840125" crc="c53c77bf" md5="ec24f7b6c814970f872995f865b8229d" sha1="2d56a9b37a5df6043b906d50746e3d28e0df6107"/>
+	</game>
+	<game name="Amiga Addict - Issue 02 (2021-02)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 02 (2021-02)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 02 (2021-02)(Simulant Systems)(GB).pdf" size="31359084" crc="9bd61491" md5="ff107bb84bf0fbbc131c983a18ce7741" sha1="8076bd905aa61ede897bbea9ae1d5129029d91d7"/>
+	</game>
+	<game name="Amiga Addict - Issue 03 (2021-03)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 03 (2021-03)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 03 (2021-03)(Simulant Systems)(GB).pdf" size="32140452" crc="4b56445a" md5="4d7ecb7e07e65ea12cbbfa1cff3da456" sha1="4587c7514c6a38a136412a1b72b9d23ca31f08c3"/>
+	</game>
+	<game name="Amiga Addict - Issue 04 (2021-04)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 04 (2021-04)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 04 (2021-04)(Simulant Systems)(GB).pdf" size="32985554" crc="45d6b86f" md5="6000126fe14081a11406c157a1b1cbd6" sha1="52c33257cf7e11f8fe0db7b6f696f07f8340ea76"/>
+	</game>
+	<game name="Amiga Addict - Issue 05 (2021-05)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 05 (2021-05)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 05 (2021-05)(Simulant Systems)(GB).pdf" size="32594142" crc="0fc67e1b" md5="ac3235fa6978933f522c7d403aaf91b0" sha1="7b07af1360d214e24b656cde037c729a60f9f95e"/>
+	</game>
+	<game name="Amiga Addict - Issue 06 (2021-06)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 06 (2021-06)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 06 (2021-06)(Simulant Systems)(GB).pdf" size="31827766" crc="469d231f" md5="9046f2f8714c682ced53722ba5447c88" sha1="93b7faab349869206ab2749495e336b83c31cfea"/>
+	</game>
+	<game name="Amiga Addict - Issue 07 (2021-07)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 07 (2021-07)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 07 (2021-07)(Simulant Systems)(GB).pdf" size="35052757" crc="d55f7a61" md5="dad37cfaf27523187e3951684deb809c" sha1="f36025a0f824c62b9da2fbda296c88acb82af094"/>
+	</game>
+	<game name="Amiga Addict - Issue 08 (2021)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 08 (2021)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 08 (2021)(Simulant Systems)(GB).pdf" size="35025030" crc="517dad64" md5="e89055de7b611bb237670dc38ab8538e" sha1="57f31de09d366463236feaf784ae3fca592cd8c9"/>
+	</game>
+	<game name="Amiga Addict - Issue 09 (2021)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 09 (2021)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 09 (2021)(Simulant Systems)(GB).pdf" size="33552084" crc="85a69588" md5="e44572eeec5abb5a88dcf79960de9bf3" sha1="73312078395f01869bdd88fac68a3afef9a86446"/>
+	</game>
+	<game name="Amiga Addict - Issue 10 (2021)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 10 (2021)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 10 (2021)(Simulant Systems)(GB).pdf" size="38806893" crc="7649f1cd" md5="9f0a07f553cba5fb52982206418401ff" sha1="78bf1ed207285f3e7c2cfa3cfe2df9044354eb39"/>
+	</game>
+	<game name="Amiga Addict - Issue 11 (2022)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 11 (2022)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 11 (2022)(Simulant Systems)(GB).pdf" size="34375517" crc="9775a9a0" md5="bc9afde1cf1f9b1d12e8fefb3a4e870e" sha1="a4bf53f2c773de1c79ef21a98277ad7be64ace39"/>
+	</game>
+	<game name="Amiga Addict - Issue 12 (2022)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 12 (2022)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 12 (2022)(Simulant Systems)(GB).pdf" size="37076891" crc="e79b7b8e" md5="2d8c87f7926222032ec17375da0a1e48" sha1="394c092fc34734ffa3cbaae25547a8ef79fa9985"/>
+	</game>
+	<game name="Amiga Addict - Issue 13 (2022)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 13 (2022)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 13 (2022)(Simulant Systems)(GB).pdf" size="39514970" crc="f526d509" md5="0ec914b06a6d7716d761c8cf91723cc8" sha1="e2c99f892ffd8ebe6193476fa3da2d8d500bb662"/>
+	</game>
+	<game name="Amiga Addict - Issue 14 (2022)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 14 (2022)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 14 (2022)(Simulant Systems)(GB).pdf" size="31537788" crc="413d31a9" md5="dbbefb0ba70520b1590bc48caf331029" sha1="ef769c19ab8bdb2c36b675d28162de485e189997"/>
+	</game>
+	<game name="Amiga Addict - Issue 15 (2022)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 15 (2022)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 15 (2022)(Simulant Systems)(GB).pdf" size="33961328" crc="025f12d9" md5="96f612e99280edd0cd92aca153b3a0aa" sha1="98ee1b91e35d876b4aa5302447e3c516f19c0380"/>
+	</game>
+	<game name="Amiga Addict - Issue 16 (2022)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 16 (2022)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 16 (2022)(Simulant Systems)(GB).pdf" size="51573264" crc="5a442a68" md5="2e96465806611dd3ee2b9b09066c6e46" sha1="0d5721068907cdbdf39d226a101373fe23911dc7"/>
+	</game>
+	<game name="Amiga Addict - Issue 17 (2022)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 17 (2022)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 17 (2022)(Simulant Systems)(GB).pdf" size="55536016" crc="6cab058a" md5="99d7110353ed4565bed6e75af8d69c2a" sha1="574134dc5a774fd0fadf8efbd89625e26f8067a3"/>
+	</game>
+	<game name="Amiga Addict - Issue 18 (2023)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 18 (2023)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 18 (2023)(Simulant Systems)(GB).pdf" size="44385382" crc="24f8ae3f" md5="fa920c5a6d17de805db22265020e5623" sha1="8ea4b313acc0ae7d27717c98d25d19e065add846"/>
+	</game>
+	<game name="Amiga Addict - Issue 19 (2023)(Simulant Systems)(GB)">
+		<description>Amiga Addict - Issue 19 (2023)(Simulant Systems)(GB)</description>
+		<rom name="Amiga Addict - Issue 19 (2023)(Simulant Systems)(GB).pdf" size="37364781" crc="00a6f49f" md5="6863c01f7a503e908df9828275d0143c" sha1="efe1a5c09740c2cb3ded74a02bdd020e0abb5217"/>
+	</game>
+</datafile>

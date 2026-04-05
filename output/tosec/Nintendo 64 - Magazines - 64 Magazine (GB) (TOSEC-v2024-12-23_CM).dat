@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64 - Magazines - 64 Magazine (GB)</name>
+		<description>Nintendo 64 - Magazines - 64 Magazine (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="64 Magazine - Issue 01 (1997-05)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 01 (1997-05)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 01 (1997-05)(Paragon Publishing)(GB).pdf" size="80692024" crc="e243ee1c" md5="b4ce02edddda3001aa189283d4250370" sha1="1b643f7b7bb292251ef584a85ce19ade75e8940c"/>
+	</game>
+	<game name="64 Magazine - Issue 11 (1998-03)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 11 (1998-03)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 11 (1998-03)(Paragon Publishing)(GB).pdf" size="66765389" crc="c0b20264" md5="a0e91689dd9d085cc57bc8efc2614db3" sha1="65951a645e461e92900d48d2a6a481c31aaebcab"/>
+	</game>
+	<game name="64 Magazine - Issue 25 (1999-04)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 25 (1999-04)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 25 (1999-04)(Paragon Publishing)(GB).pdf" size="286841875" crc="fc03b40f" md5="9290e70186ad8f355efbd321c1858fbf" sha1="cd431ed3cdf1a2b35f97ecb3ed4b22630111df72"/>
+	</game>
+	<game name="64 Magazine - Issue 29 (1999-08)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 29 (1999-08)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 29 (1999-08)(Paragon Publishing)(GB).pdf" size="337668527" crc="d87acbeb" md5="b6fac65e7f6deeb67808480ae4630486" sha1="2d5a53c0f7d3c1d740aabd19eeb2b965db3e6f34"/>
+	</game>
+	<game name="64 Magazine - Issue 35 (1999-12)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 35 (1999-12)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 35 (1999-12)(Paragon Publishing)(GB).pdf" size="99790940" crc="c4c99891" md5="c0659ba2d0c55f34535ebc6b5d28d5d6" sha1="f92fe19b4bd38eb48b016f6d298a254abd5621fc"/>
+	</game>
+	<game name="64 Magazine - Issue 41 (2000-06)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 41 (2000-06)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 41 (2000-06)(Paragon Publishing)(GB).pdf" size="153054897" crc="f11a7164" md5="f0f2cfa271d5c2897adab1830b94ca58" sha1="2ec097ef028c237f740c203b43730c98234a83f9"/>
+	</game>
+	<game name="64 Magazine - Issue 42 (2000-07)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 42 (2000-07)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 42 (2000-07)(Paragon Publishing)(GB).pdf" size="240798793" crc="81f77313" md5="118925fb2187ee9549abf3d6d6e64d33" sha1="170b72fdeb30b12514dd32ed2cef7ffa3f2e3ea6"/>
+	</game>
+	<game name="64 Magazine - Issue 43 (2000-08)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 43 (2000-08)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 43 (2000-08)(Paragon Publishing)(GB).pdf" size="209866484" crc="6d53d900" md5="91e1d3711e58f9dc1703057e23bc42c7" sha1="824186a5c79fc6a43a45007edb62f16e096353cb"/>
+	</game>
+	<game name="64 Magazine - Issue 44 (2000-09)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 44 (2000-09)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 44 (2000-09)(Paragon Publishing)(GB).pdf" size="237316594" crc="9a7aa06b" md5="7226b95d888d5b7e42a4cb4100f97ffa" sha1="a9863c97da153af5c52ae6dd33b1954d83e805d9"/>
+	</game>
+	<game name="64 Magazine - Issue 45 (2000-10)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 45 (2000-10)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 45 (2000-10)(Paragon Publishing)(GB).pdf" size="239925929" crc="63a5e162" md5="c654253e49970259c5ca505b15022cb1" sha1="3bfce49b6f31ba8c198f0446d49bd5e7f4b2d2d0"/>
+	</game>
+	<game name="64 Magazine - Issue 46 (2000-11)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Issue 46 (2000-11)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Issue 46 (2000-11)(Paragon Publishing)(GB).pdf" size="237326928" crc="d5a78a4b" md5="6f9d54bbc4cc68266b5e8959fdb1cffb" sha1="8e17bab1893cba116addcc2861f7e6144b49df44"/>
+	</game>
+	<game name="64 Magazine - Volume 01 (1997-06)(Paragon Publishing)(GB)[a]">
+		<description>64 Magazine - Volume 01 (1997-06)(Paragon Publishing)(GB)[a]</description>
+		<rom name="64 Magazine - Volume 01 (1997-06)(Paragon Publishing)(GB)[a].pdf" size="204007696" crc="9fc324c7" md5="11e6949b9f96560b3dbdbc26e6ecbdd1" sha1="7b68c768e8a7a053c3bf68f895014b2cd549da8e"/>
+	</game>
+	<game name="64 Magazine - Volume 02 (1997-07)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 02 (1997-07)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 02 (1997-07)(Paragon Publishing)(GB).pdf" size="175157638" crc="b38c01d4" md5="5e32d634f15c0e73a9b8f6e5d32a647c" sha1="f537b457329f29fecea8fac5689591a235293fdc"/>
+	</game>
+	<game name="64 Magazine - Volume 03 (1997-08)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 03 (1997-08)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 03 (1997-08)(Paragon Publishing)(GB).pdf" size="167153623" crc="26fcd47d" md5="ad22b3d837933cfd2f9c105c193c9014" sha1="35078652e1c863928ef424f2b20329e1bd9417d2"/>
+	</game>
+	<game name="64 Magazine - Volume 04 (1997-09)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 04 (1997-09)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 04 (1997-09)(Paragon Publishing)(GB).pdf" size="171175562" crc="d5a373c6" md5="c10233158afbf443aef063fdd96b2bdb" sha1="76aceb17ba5127c9c5b5386f17b5fca881e63ae8"/>
+	</game>
+	<game name="64 Magazine - Volume 05 (1997-10)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 05 (1997-10)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 05 (1997-10)(Paragon Publishing)(GB).pdf" size="171635630" crc="1ec0a1df" md5="907ac077fc201283b37a8124d7ab24fc" sha1="10a4dc8707a09728ed3cd41f6079b18133f507b6"/>
+	</game>
+	<game name="64 Magazine - Volume 06 (1997-11)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 06 (1997-11)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 06 (1997-11)(Paragon Publishing)(GB).pdf" size="170882542" crc="9130ef13" md5="5a7329ed83f90950b2f7388c9ebd7723" sha1="b5a82c0eeff951defa9fecde6167c32a7dc53198"/>
+	</game>
+	<game name="64 Magazine - Volume 07 (1997-12)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 07 (1997-12)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 07 (1997-12)(Paragon Publishing)(GB).pdf" size="174328921" crc="a099acc4" md5="60ccfec8ebd541ecb7190063babdfd7a" sha1="55fba617ea9348f2d0ab1443cd2156daef0dbcba"/>
+	</game>
+	<game name="64 Magazine - Volume 08 (1998-01)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 08 (1998-01)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 08 (1998-01)(Paragon Publishing)(GB).pdf" size="252148147" crc="c620e979" md5="0231097412c8f618581484a5a0fc5ffc" sha1="58efdf06d2c9ad8a1ffaf70d199d9a8b1ae3acd6"/>
+	</game>
+	<game name="64 Magazine - Volume 09 (1998-02)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 09 (1998-02)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 09 (1998-02)(Paragon Publishing)(GB).pdf" size="188887176" crc="44ae2007" md5="1fbf1f31b2f43ecc1b84b7eed590cdf3" sha1="63a2bb3cd88ad7bb3d8da05d4bec079f17b90eea"/>
+	</game>
+	<game name="64 Magazine - Volume 10 (1998-02)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 10 (1998-02)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 10 (1998-02)(Paragon Publishing)(GB).pdf" size="222805273" crc="e3f033ce" md5="db7c37aae03eaf044ffed9ceae4698fe" sha1="4148ea9c2fda5c9aede59adfac5fa9aa8dd5e03a"/>
+	</game>
+	<game name="64 Magazine - Volume 12 (1998-04)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 12 (1998-04)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 12 (1998-04)(Paragon Publishing)(GB).pdf" size="233889237" crc="1091e004" md5="91f83db2d252e8ddbfc85bd79c48336f" sha1="7c7169f3f940b80858479166107c7a36d39623c3"/>
+	</game>
+	<game name="64 Magazine - Volume 13 (1998-05)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 13 (1998-05)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 13 (1998-05)(Paragon Publishing)(GB).pdf" size="226301191" crc="37e8135f" md5="7913d1f1b4a3bcff3968026295e96c56" sha1="09fd0a0bc3864de51e3ffb52155c49e0471f2c83"/>
+	</game>
+	<game name="64 Magazine - Volume 14 (1998-06)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 14 (1998-06)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 14 (1998-06)(Paragon Publishing)(GB).pdf" size="232835742" crc="4cfb3e73" md5="71949cc22cc5839921779c78c8481646" sha1="40a2d751255c118354e89fc6ba45f1c96ed79fff"/>
+	</game>
+	<game name="64 Magazine - Volume 15 (1998-07)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 15 (1998-07)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 15 (1998-07)(Paragon Publishing)(GB).pdf" size="226389303" crc="7c83d58a" md5="68b88359b41c71701c83fca832f080d6" sha1="aba857928f0962ba236ee78da6ad49fd32908165"/>
+	</game>
+	<game name="64 Magazine - Volume 16 (1998-08)(Paragon Publishing)(GB)">
+		<description>64 Magazine - Volume 16 (1998-08)(Paragon Publishing)(GB)</description>
+		<rom name="64 Magazine - Volume 16 (1998-08)(Paragon Publishing)(GB).pdf" size="215153838" crc="b3d03efe" md5="fa8e77fef7be0336ae898ac1bff2b976" sha1="cc81f883d17a42869853344a304ed8347033ea23"/>
+	</game>
+	<game name="64 Magazine - Volume 16 (1998-08)(Paragon Publishing)(GB)[a]">
+		<description>64 Magazine - Volume 16 (1998-08)(Paragon Publishing)(GB)[a]</description>
+		<rom name="64 Magazine - Volume 16 (1998-08)(Paragon Publishing)(GB)[a].pdf" size="284515131" crc="24d93b5b" md5="3003e4288de7d0a9588d1be0c4d80d51" sha1="a61b73e5ee9be6e1d00a046ca6addad7fda65eab"/>
+	</game>
+	<game name="Diddy Kong Racing The Ultimate Guide! (1997-12)(Paragon Publishing)[supplement issue 08]">
+		<description>Diddy Kong Racing The Ultimate Guide! (1997-12)(Paragon Publishing)[supplement issue 08]</description>
+		<rom name="Diddy Kong Racing The Ultimate Guide! (1997-12)(Paragon Publishing)[supplement issue 08].pdf" size="66585184" crc="f2dbf47a" md5="a2a4ea9f6d7e249142663322fba06dcd" sha1="6e70d23fd52368a7f97229e0e21bd0e65d8a7a49"/>
+	</game>
+</datafile>

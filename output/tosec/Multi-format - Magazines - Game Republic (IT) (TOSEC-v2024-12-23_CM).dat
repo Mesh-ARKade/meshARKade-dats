@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Game Republic (IT)</name>
+		<description>Multi-format - Magazines - Game Republic (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Republic - Anno 15 N.149 (2013-05)(Play LifeStyle Media)(IT)">
+		<description>Game Republic - Anno 15 N.149 (2013-05)(Play LifeStyle Media)(IT)</description>
+		<rom name="Game Republic - Anno 15 N.149 (2013-05)(Play LifeStyle Media)(IT).pdf" size="118153532" crc="f70aaaa8" md5="e6307b414b3e7644b09b4b2a5d066471" sha1="f88959af411b3f947747e447c43998b6d5fac6d8"/>
+	</game>
+</datafile>

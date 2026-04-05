@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - Official PlayStation Magazine (AU)</name>
+		<description>Sony PlayStation 2 - Magazines - Official PlayStation Magazine (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Official PlayStation Magazine - Issue 007 (2001-10)(ACP Publishing)">
+		<description>Official PlayStation Magazine - Issue 007 (2001-10)(ACP Publishing)</description>
+		<rom name="Official PlayStation Magazine - Issue 007 (2001-10)(ACP Publishing).pdf" size="121634276" crc="11c5372c" md5="46fdf60d2a920446994733eee78820d3" sha1="a377c535b6c07880edc31fdf76e2537169871a82"/>
+	</game>
+	<game name="Official PlayStation Magazine - Issue 008 (2001-11)(ACP Publishing)">
+		<description>Official PlayStation Magazine - Issue 008 (2001-11)(ACP Publishing)</description>
+		<rom name="Official PlayStation Magazine - Issue 008 (2001-11)(ACP Publishing).pdf" size="312336919" crc="f299e68d" md5="6a7079a051b52eb75a63f5494ac84e49" sha1="244842936fbcc884714f99892a5df3178e25b2b2"/>
+	</game>
+	<game name="Official PlayStation Magazine - Issue 009 (2001-12)(ACP Publishing)">
+		<description>Official PlayStation Magazine - Issue 009 (2001-12)(ACP Publishing)</description>
+		<rom name="Official PlayStation Magazine - Issue 009 (2001-12)(ACP Publishing).pdf" size="221429059" crc="2b763048" md5="85e0e3caacb3ef5197db116a95f38633" sha1="12f8eae38a4ae278271e785ea72d09e96cc83be1"/>
+	</game>
+	<game name="Official PlayStation Magazine - Issue 012 (2002-03)(ACP Publishing)">
+		<description>Official PlayStation Magazine - Issue 012 (2002-03)(ACP Publishing)</description>
+		<rom name="Official PlayStation Magazine - Issue 012 (2002-03)(ACP Publishing).pdf" size="190334858" crc="d6d116c7" md5="afecd31dd12590f12e1267ab37e16aee" sha1="28488ae8d2a47e736023061cfba24419156c60bb"/>
+	</game>
+</datafile>

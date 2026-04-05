@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore - Magazines - Go Games (IT)</name>
+		<description>Commodore - Magazines - Go Games (IT) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Go Games - Anno 1 N.01 (1985-09)(Fermont)(IT)">
+		<description>Go Games - Anno 1 N.01 (1985-09)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 1 N.01 (1985-09)(Fermont)(IT).pdf" size="17371021" crc="85d23329" md5="2dd0aa0f9f3ba6730908dcea8acddd87" sha1="8d0d67d0987eab80435dd842146e678ea8616123"/>
+	</game>
+	<game name="Go Games - Anno 2 N.05 (1986-01)(Fermont)(IT)">
+		<description>Go Games - Anno 2 N.05 (1986-01)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 2 N.05 (1986-01)(Fermont)(IT).pdf" size="39612435" crc="fc76f517" md5="6158667af4fcccabb9bd6a198d84082a" sha1="a811e390e623cd2a31ef3ae560176fe9f7918933"/>
+	</game>
+	<game name="Go Games - Anno 2 N.06 (1986-02)(Fermont)(IT)">
+		<description>Go Games - Anno 2 N.06 (1986-02)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 2 N.06 (1986-02)(Fermont)(IT).pdf" size="40407998" crc="2fc64a8d" md5="2e6146551de3bc8535b6465dd55506bc" sha1="83340cb842963b2343cdf48c2d735b6bb72ef3c0"/>
+	</game>
+	<game name="Go Games - Anno 2 N.09 (1986-05)(Fermont)(IT)">
+		<description>Go Games - Anno 2 N.09 (1986-05)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 2 N.09 (1986-05)(Fermont)(IT).pdf" size="36080193" crc="d57c9017" md5="b72a47772a5769fda8bf7bec3e2c5a66" sha1="12e2a35d76471e722ed8a9c038d8b324ab33ae5d"/>
+	</game>
+	<game name="Go Games - Anno 2 N.13 (1986-10)(Fermont)(IT)">
+		<description>Go Games - Anno 2 N.13 (1986-10)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 2 N.13 (1986-10)(Fermont)(IT).pdf" size="32308261" crc="3e9c407c" md5="ff4cdf578e54a5d1a39ed5fc6490faef" sha1="bd4b97d35fde4e1a90e91d5ba48fccce55762cea"/>
+	</game>
+	<game name="Go Games - Anno 2 N.15 (1986-12)(Fermont)(IT)">
+		<description>Go Games - Anno 2 N.15 (1986-12)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 2 N.15 (1986-12)(Fermont)(IT).pdf" size="2328029" crc="9b3b2f12" md5="51a4f4c37ed1a046e231412a11574489" sha1="c79abb799bd5108d5eb2b0642f24a8e8233fc758"/>
+	</game>
+	<game name="Go Games - Anno 3 N.16 (1987-01)(Fermont)(IT)[a]">
+		<description>Go Games - Anno 3 N.16 (1987-01)(Fermont)(IT)[a]</description>
+		<rom name="Go Games - Anno 3 N.16 (1987-01)(Fermont)(IT)[a].pdf" size="10276983" crc="c73b3569" md5="a0e2aa0f182f3cc3118fbaa78dbc6ba8" sha1="9c4ff090ed56690d739e2a53772c06af0feea49c"/>
+	</game>
+	<game name="Go Games - Anno 3 N.17 (1987-02)(Fermont)(IT)">
+		<description>Go Games - Anno 3 N.17 (1987-02)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 3 N.17 (1987-02)(Fermont)(IT).pdf" size="10895571" crc="6bef7965" md5="8acaa01ca010d26aa1f5b3d23498db69" sha1="ee504d71b2dccbc873f3a7f0d402ef3fa7a00b45"/>
+	</game>
+	<game name="Go Games - Anno 3 N.18 (1987-03)(Fermont)(IT)">
+		<description>Go Games - Anno 3 N.18 (1987-03)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 3 N.18 (1987-03)(Fermont)(IT).pdf" size="11458272" crc="635bd836" md5="0a86c36d4001ba711c946bd529ef4bf9" sha1="d10b5d8c12808c1a5b1b5191b45a296395b6ab9d"/>
+	</game>
+	<game name="Go Games - Anno 3 N.19 (1987-04)(Fermont)(IT)">
+		<description>Go Games - Anno 3 N.19 (1987-04)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 3 N.19 (1987-04)(Fermont)(IT).pdf" size="11729109" crc="3cc274a5" md5="f047d309ac1f1b558c86f18e26758929" sha1="3f1c0555e482b2c5029537f12ef34aed08eb7ab0"/>
+	</game>
+	<game name="Go Games - Anno 3 N.20 (1987-05)(Fermont)(IT)">
+		<description>Go Games - Anno 3 N.20 (1987-05)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 3 N.20 (1987-05)(Fermont)(IT).pdf" size="12348544" crc="b47a99b5" md5="d02c263dad70d4694d104b5cba65dc29" sha1="d9e69c23742c05717a2611272e97db0ec9c0c717"/>
+	</game>
+	<game name="Go Games - Anno 3 N.25 (1987-10)(Fermont)(IT)">
+		<description>Go Games - Anno 3 N.25 (1987-10)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 3 N.25 (1987-10)(Fermont)(IT).pdf" size="11222166" crc="16071baf" md5="920d779a0f95691b791fd9d29be7d872" sha1="78971de843e551ae72abe23b42c267b5cd711348"/>
+	</game>
+	<game name="Go Games - Anno 5 N.44 (1989-07)(Fermont)(IT)">
+		<description>Go Games - Anno 5 N.44 (1989-07)(Fermont)(IT)</description>
+		<rom name="Go Games - Anno 5 N.44 (1989-07)(Fermont)(IT).pdf" size="11576664" crc="763efec4" md5="12b67a804ebad68047989b05f0d75228" sha1="a359ca45e6864f392c93e4820e6f1a51eff538dc"/>
+	</game>
+</datafile>

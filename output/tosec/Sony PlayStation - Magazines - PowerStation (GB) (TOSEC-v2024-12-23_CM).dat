@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PowerStation (GB)</name>
+		<description>Sony PlayStation - Magazines - PowerStation (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PowerStation - Issue 032 (1999-03)(Paragon Publishing)(GB)">
+		<description>PowerStation - Issue 032 (1999-03)(Paragon Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 032 (1999-03)(Paragon Publishing)(GB).pdf" size="164532659" crc="2ec9971b" md5="2a33c61635f6d60df958246b25ebbf10" sha1="ac0282b1e4d55a734f0b082756a01b8a7d870b67"/>
+	</game>
+	<game name="PowerStation - Issue 061 (2001-01)(Paragon Publishing)(GB)">
+		<description>PowerStation - Issue 061 (2001-01)(Paragon Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 061 (2001-01)(Paragon Publishing)(GB).pdf" size="263340460" crc="3b17d615" md5="0db498049eeb4dc47d1ccc0d277ebe5c" sha1="aef2be72ddbfdf2eedf1abcc03def00473e87294"/>
+	</game>
+	<game name="PowerStation - Issue 063 (2001-03)(Paragon Publishing)(GB)">
+		<description>PowerStation - Issue 063 (2001-03)(Paragon Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 063 (2001-03)(Paragon Publishing)(GB).pdf" size="264754554" crc="bcb61ad9" md5="82ee95cfd30668d458516b4b3ab8b00c" sha1="93c96fa8774cbaefcfdf66ba0283da6d89135946"/>
+	</game>
+	<game name="PowerStation - Issue 065 (2001-05)(Paragon Publishing)(GB)">
+		<description>PowerStation - Issue 065 (2001-05)(Paragon Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 065 (2001-05)(Paragon Publishing)(GB).pdf" size="290358020" crc="82268b81" md5="93073473e176e000dadb4128f0a46086" sha1="6744d40b8b14cd17f0cb945478e2291bc2a2db8b"/>
+	</game>
+	<game name="PowerStation - Issue 066 (2001-06)(Paragon Publishing)(GB)">
+		<description>PowerStation - Issue 066 (2001-06)(Paragon Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 066 (2001-06)(Paragon Publishing)(GB).pdf" size="304831095" crc="addda9cb" md5="79cb87457f99122a46883c59f6aca4d0" sha1="f178511cb2aa6b50ceffe59032582ba54f882f9b"/>
+	</game>
+	<game name="PowerStation - Issue 072 (2001-12)(Paragon Publishing)(GB)">
+		<description>PowerStation - Issue 072 (2001-12)(Paragon Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 072 (2001-12)(Paragon Publishing)(GB).pdf" size="277922188" crc="dc75ef01" md5="5b194ddad6e8f0b2c829f81de3becd07" sha1="1e44b711cab333fba2b383cd60076220d373510a"/>
+	</game>
+	<game name="PowerStation - Issue 091 (2003-09)(Paragon Publishing)(GB)">
+		<description>PowerStation - Issue 091 (2003-09)(Paragon Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 091 (2003-09)(Paragon Publishing)(GB).pdf" size="292719083" crc="2b891ac2" md5="d87fb20ce2245882101bc7ca595b19ca" sha1="30edf2be1c53cc5f18d4dad8bdb78cb65d684be5"/>
+	</game>
+	<game name="PowerStation - Issue 102 (2004-06)(Highbury Entertainment)(GB)">
+		<description>PowerStation - Issue 102 (2004-06)(Highbury Entertainment)(GB)</description>
+		<rom name="PowerStation - Issue 102 (2004-06)(Highbury Entertainment)(GB).pdf" size="299288771" crc="5297afd5" md5="5ae01797f2a4ad84a546c4e24e48425c" sha1="d6bdbce3905ba16992219f62ff69feff1b8183ba"/>
+	</game>
+	<game name="PowerStation - Issue 103 (2004-07)(Highbury Entertainment)(GB)">
+		<description>PowerStation - Issue 103 (2004-07)(Highbury Entertainment)(GB)</description>
+		<rom name="PowerStation - Issue 103 (2004-07)(Highbury Entertainment)(GB).pdf" size="296647066" crc="eb783e22" md5="3c2455fff72d557cad67cb9b5673fdad" sha1="2d5edc2b38f46c228b5a40aaf8b7d0463030547e"/>
+	</game>
+	<game name="PowerStation - Issue 104 (2004-08)(Highbury Entertainment)(GB)">
+		<description>PowerStation - Issue 104 (2004-08)(Highbury Entertainment)(GB)</description>
+		<rom name="PowerStation - Issue 104 (2004-08)(Highbury Entertainment)(GB).pdf" size="287732903" crc="289391c7" md5="47b1b29b4964bf73e08fb7c11ac7ce66" sha1="45527d38b2c955c1890a46cbec6c6bd502bf1812"/>
+	</game>
+	<game name="PowerStation - Issue 105 (2004-09)(Highbury Entertainment)(GB)">
+		<description>PowerStation - Issue 105 (2004-09)(Highbury Entertainment)(GB)</description>
+		<rom name="PowerStation - Issue 105 (2004-09)(Highbury Entertainment)(GB).pdf" size="313722933" crc="3eb93dbf" md5="a7544c6b877b454d4e393d76ed77acfd" sha1="222e1daad60a7952eaccb15a1be09212e6192aad"/>
+	</game>
+	<game name="PowerStation - Issue 106 (2004-10)(Highbury Entertainment)(GB)">
+		<description>PowerStation - Issue 106 (2004-10)(Highbury Entertainment)(GB)</description>
+		<rom name="PowerStation - Issue 106 (2004-10)(Highbury Entertainment)(GB).pdf" size="315663113" crc="35de2d75" md5="7a451e5d62f362f5cf6f8e68e6bf5fb0" sha1="69ccd2231500cc665c1e0d4f4072b0fce4434af7"/>
+	</game>
+	<game name="PowerStation - Issue 108 (2004-12)(Highbury Entertainment)(GB)">
+		<description>PowerStation - Issue 108 (2004-12)(Highbury Entertainment)(GB)</description>
+		<rom name="PowerStation - Issue 108 (2004-12)(Highbury Entertainment)(GB).pdf" size="298899113" crc="eda951e0" md5="20fc00481d47e4188f23b2628fea2202" sha1="f8a8cdad238f412b8d8d6f4ed277c43d06f06769"/>
+	</game>
+	<game name="PowerStation - Issue 111 (2005-03)(Highbury Entertainment)(GB)">
+		<description>PowerStation - Issue 111 (2005-03)(Highbury Entertainment)(GB)</description>
+		<rom name="PowerStation - Issue 111 (2005-03)(Highbury Entertainment)(GB).pdf" size="313290648" crc="01d14e2e" md5="00acff85f63cf9833edddc0dab901cce" sha1="8566713164c2cd5c118dc16ff86a25fe6deca030"/>
+	</game>
+	<game name="PowerStation - Issue 112 (2005-04)(Highbury Entertainment)(GB)">
+		<description>PowerStation - Issue 112 (2005-04)(Highbury Entertainment)(GB)</description>
+		<rom name="PowerStation - Issue 112 (2005-04)(Highbury Entertainment)(GB).pdf" size="293819120" crc="da1fb5aa" md5="bf003cb6031d1d3f875e79a20c65fd0d" sha1="5256c79870b84fbc7185f47b2a3885b3dc166473"/>
+	</game>
+	<game name="PowerStation - Issue 113 (2005-05)(Highbury Entertainment)(GB)">
+		<description>PowerStation - Issue 113 (2005-05)(Highbury Entertainment)(GB)</description>
+		<rom name="PowerStation - Issue 113 (2005-05)(Highbury Entertainment)(GB).pdf" size="285739278" crc="9f874a99" md5="c6bf5ca5469fe967f8c89ed832407e83" sha1="cc5fcc493062e9004f5ebc74f7107d29c1c3af4e"/>
+	</game>
+	<game name="PowerStation - Issue 124 (2006-03)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 124 (2006-03)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 124 (2006-03)(Imagine Publishing)(GB).pdf" size="243938639" crc="5dddb0f7" md5="3fccd8b913519e0a47870ea0ac9daf7f" sha1="51c4abfcb9a266b4fa7080e0d031315e78d92d70"/>
+	</game>
+	<game name="PowerStation - Issue 126 (2006-05)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 126 (2006-05)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 126 (2006-05)(Imagine Publishing)(GB).pdf" size="244067414" crc="09a17fe0" md5="2d50add73fc73cca34e5dfdd0a17a2e0" sha1="5617205d8daffb1fb6b130ad6192a04d45576405"/>
+	</game>
+	<game name="PowerStation - Issue 128 (2006-07)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 128 (2006-07)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 128 (2006-07)(Imagine Publishing)(GB).pdf" size="242704439" crc="f2fb7355" md5="635dbb48ff352145b7e3662be5ca2154" sha1="9f56f7c9e30caeb1e47a2143939482509d2f1141"/>
+	</game>
+	<game name="PowerStation - Issue 129 (2006-08)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 129 (2006-08)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 129 (2006-08)(Imagine Publishing)(GB).pdf" size="249754670" crc="7097aedf" md5="798fc17307d8b4fd5533d0c1d51635ce" sha1="2518d6ab5ecba5048175265a41f086f67d8cd998"/>
+	</game>
+	<game name="PowerStation - Issue 130 (2006-09)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 130 (2006-09)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 130 (2006-09)(Imagine Publishing)(GB).pdf" size="276104802" crc="0b003d86" md5="9c1b40dd3e522b6caab3a8885c0955d3" sha1="b03e304c7e8ae2f10e2f28ef03896d2260da11ba"/>
+	</game>
+	<game name="PowerStation - Issue 131 (2006-10)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 131 (2006-10)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 131 (2006-10)(Imagine Publishing)(GB).pdf" size="257106159" crc="babb619d" md5="d6376b54cac1f3483e02f2b6f5d3385c" sha1="ed9c30ceb1e9ff70d11e394006aff1082a3a9f8a"/>
+	</game>
+	<game name="PowerStation - Issue 132 (2006-11)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 132 (2006-11)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 132 (2006-11)(Imagine Publishing)(GB).pdf" size="249939881" crc="319bbd8f" md5="8b6303a46a00948018d52a6a7888ad93" sha1="3ca941122b2ad23b99d06efa1ea0ab75b2bd7349"/>
+	</game>
+	<game name="PowerStation - Issue 133 (2006-12)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 133 (2006-12)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 133 (2006-12)(Imagine Publishing)(GB).pdf" size="273172130" crc="2945416c" md5="59f8297d81ca1be971720bb51548e5a3" sha1="8cb04a08668dbb75568b8b039a2f1438fdbcaa26"/>
+	</game>
+	<game name="PowerStation - Issue 136 (2007-02)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 136 (2007-02)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 136 (2007-02)(Imagine Publishing)(GB).pdf" size="298036879" crc="5e27c0ad" md5="915211c28c1379fbc707e9d9fe4101b0" sha1="5b00c561902f512d2ff291864411866f160b4200"/>
+	</game>
+	<game name="PowerStation - Issue 139 (2007-05)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 139 (2007-05)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 139 (2007-05)(Imagine Publishing)(GB).pdf" size="297050674" crc="153fd1e4" md5="513a9da062bd0a3384c9b36a09382a8d" sha1="d86b8f66d541c60acb9be70496766c0367077053"/>
+	</game>
+	<game name="PowerStation - Issue 140 (2007-06)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 140 (2007-06)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 140 (2007-06)(Imagine Publishing)(GB).pdf" size="295982349" crc="c4ef3af6" md5="417507adddc22dbce3a5597e2f2e2947" sha1="ca3461f452029ebded03d98e6cae22c0ffe64f07"/>
+	</game>
+	<game name="PowerStation - Issue 141 (2007-07)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 141 (2007-07)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 141 (2007-07)(Imagine Publishing)(GB).pdf" size="294369396" crc="ea8ec75f" md5="42f75ce91e9d7bb14c93aba1b390d4f0" sha1="b681c44d3d975fcead2415b13b14887a2c0ad687"/>
+	</game>
+	<game name="PowerStation - Issue 142 (2007-08)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 142 (2007-08)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 142 (2007-08)(Imagine Publishing)(GB).pdf" size="296861334" crc="0c631b68" md5="38ce4c64aba3d3334735225e81573a2e" sha1="50e679b507965daef7c4f92d9c477643b5a61593"/>
+	</game>
+	<game name="PowerStation - Issue 148 (2008-02)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 148 (2008-02)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 148 (2008-02)(Imagine Publishing)(GB).pdf" size="303732844" crc="4d068b5e" md5="5827b43559640514334c6df22cfdca94" sha1="9c7f8569a45786c2aa164a610347f9fed2a93b16"/>
+	</game>
+	<game name="PowerStation - Issue 157 (2008-09)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 157 (2008-09)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 157 (2008-09)(Imagine Publishing)(GB).pdf" size="284272104" crc="bcdf34ee" md5="0a9a1e95c45acf097ce4ee20c1b228d1" sha1="9e84513421cb3cda419e89cedc8b8568c467197e"/>
+	</game>
+	<game name="PowerStation - Issue 159 (2008-11)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 159 (2008-11)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 159 (2008-11)(Imagine Publishing)(GB).pdf" size="303010094" crc="5f605683" md5="6ad90a7115ce66f1c3fae2fa53444244" sha1="57d61ebed75edb96a9740dfd8972c7e5b89084b3"/>
+	</game>
+	<game name="PowerStation - Issue 160 (2008-12)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 160 (2008-12)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 160 (2008-12)(Imagine Publishing)(GB).pdf" size="285897641" crc="90abde11" md5="3eb6e2bb161e4c58aebe9f31b194b8cb" sha1="766ffc4c07ad60a5bce417f4abb053e458308bd1"/>
+	</game>
+	<game name="PowerStation - Issue 161 (2009-01)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 161 (2009-01)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 161 (2009-01)(Imagine Publishing)(GB).pdf" size="292329480" crc="b56264b6" md5="e148d8b5d8463da035ef368b4c363693" sha1="986b6f486d646a5f956dbf2fef4ec7756865b640"/>
+	</game>
+	<game name="PowerStation - Issue 162 (2009-02)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 162 (2009-02)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 162 (2009-02)(Imagine Publishing)(GB).pdf" size="286808010" crc="d0dc5f4c" md5="2f8f1ee7cb5250fb329aa8ff5c247985" sha1="63acc0b42913c63df1e5bbf2ed8f5d1dba9a6a3e"/>
+	</game>
+	<game name="PowerStation - Issue 163 (2009-03)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 163 (2009-03)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 163 (2009-03)(Imagine Publishing)(GB).pdf" size="297638365" crc="6434fc64" md5="f713029f1b9ea918beb24722d213419e" sha1="d1a2852fbc8ddd1bbadf6bf52572f86843966713"/>
+	</game>
+	<game name="PowerStation - Issue 164 (2009-04)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 164 (2009-04)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 164 (2009-04)(Imagine Publishing)(GB).pdf" size="286469347" crc="55193dd9" md5="3fbcb75ca70eb7e309e77db8a82efcdb" sha1="cce5f86f4480aab2a7324ffc7e9a32012c656c13"/>
+	</game>
+	<game name="PowerStation - Issue 183 (2010)(Imagine Publishing)(GB)">
+		<description>PowerStation - Issue 183 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="PowerStation - Issue 183 (2010)(Imagine Publishing)(GB).pdf" size="207548783" crc="5429eee3" md5="9b4e460516d0cc0e425dd85b681d65ef" sha1="cc518f62d1da5c405c95399d177604060094b5eb"/>
+	</game>
+</datafile>

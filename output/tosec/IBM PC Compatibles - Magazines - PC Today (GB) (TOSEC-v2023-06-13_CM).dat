@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - PC Today (GB)</name>
+		<description>IBM PC Compatibles - Magazines - PC Today (GB) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC Today - Volume 5 Number 9 (1992-01)(Europress Publications)(GB)">
+		<description>PC Today - Volume 5 Number 9 (1992-01)(Europress Publications)(GB)</description>
+		<rom name="PC Today - Volume 5 Number 9 (1992-01)(Europress Publications)(GB).pdf" size="518036354" crc="e55b3335" md5="f3957a1c5b7e73895536c4a21ac2c52d" sha1="dcdd4d024f33af1ccebfd0dcf0fcf03a5a2c5da4"/>
+	</game>
+</datafile>

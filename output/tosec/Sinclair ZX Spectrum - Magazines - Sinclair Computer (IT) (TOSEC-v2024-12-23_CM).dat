@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - Sinclair Computer (IT)</name>
+		<description>Sinclair ZX Spectrum - Magazines - Sinclair Computer (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sinclair Computer - Anno 1 N.01 (1984-02)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 1 N.01 (1984-02)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 1 N.01 (1984-02)(Systems Editoriale)(IT).pdf" size="6957545" crc="bd8d2b1b" md5="0de1cf2d3446cae73621f6a12d42d377" sha1="498683b755724baddde3f7c3808c64f07cf1128a"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.01 (1984-02)(Systems Editoriale)(IT)[a]">
+		<description>Sinclair Computer - Anno 1 N.01 (1984-02)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Sinclair Computer - Anno 1 N.01 (1984-02)(Systems Editoriale)(IT)[a].pdf" size="76977663" crc="628f2e27" md5="131fd9c73dde8eb6531f5350105f4d46" sha1="40d7b79934e27c7d980454bf638717ffc27507c7"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.02 (1984-03)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 1 N.02 (1984-03)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 1 N.02 (1984-03)(Systems Editoriale)(IT).pdf" size="8281636" crc="e1e0cf74" md5="02059ea54d78f62405099d29c31bbdc1" sha1="4ceb0e590e342bc0e4a5950d1fd09fff9225cfda"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.02 (1984-03)(Systems Editoriale)(IT)[a]">
+		<description>Sinclair Computer - Anno 1 N.02 (1984-03)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Sinclair Computer - Anno 1 N.02 (1984-03)(Systems Editoriale)(IT)[a].pdf" size="77778173" crc="a196d282" md5="d33bb56e90b90d3f7024b4f55cb54a06" sha1="4d27794d9563074abf3775188ce9a5602c678dd9"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.03 (1984-04)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 1 N.03 (1984-04)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 1 N.03 (1984-04)(Systems Editoriale)(IT).pdf" size="8450489" crc="f130c377" md5="bc1f291fc1ccf4366e16bbf3e3823e5e" sha1="12a6b9fd7ae13a7289339f2c2e26edb58cd44231"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.03 (1984-04)(Systems Editoriale)(IT)[a]">
+		<description>Sinclair Computer - Anno 1 N.03 (1984-04)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Sinclair Computer - Anno 1 N.03 (1984-04)(Systems Editoriale)(IT)[a].pdf" size="86869716" crc="6126e741" md5="fe58e3cc593963dc0db6f957756fe027" sha1="cfc0cb0111024b818aa23d81869b78417767381b"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.04 (1984-05)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 1 N.04 (1984-05)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 1 N.04 (1984-05)(Systems Editoriale)(IT).pdf" size="8151932" crc="88d1f116" md5="15f9486a754163ef8b16ad1e2a61d584" sha1="df64276e63cb55b51e9182e44830f00f40a90256"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.04 (1984-05)(Systems Editoriale)(IT)[a]">
+		<description>Sinclair Computer - Anno 1 N.04 (1984-05)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Sinclair Computer - Anno 1 N.04 (1984-05)(Systems Editoriale)(IT)[a].pdf" size="100179045" crc="a5750388" md5="564543e94e3eeca1b8909e73150e09c8" sha1="b730c90d21601c193e41b6b90ec91948fe372494"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.05 (1984-06)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 1 N.05 (1984-06)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 1 N.05 (1984-06)(Systems Editoriale)(IT).pdf" size="8359730" crc="acf2559d" md5="3d3c7927aa559c91de702ae9123b8a0d" sha1="170feeddffeda991386d9ee76d97d45bba792458"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.05 (1984-06)(Systems Editoriale)(IT)[a]">
+		<description>Sinclair Computer - Anno 1 N.05 (1984-06)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Sinclair Computer - Anno 1 N.05 (1984-06)(Systems Editoriale)(IT)[a].pdf" size="156704619" crc="839cf180" md5="237a140cf9a01670393143e90499c4fb" sha1="8dd072a06eb9f1cb05e6568c54903d4fa40dcc60"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.06 (1984-09)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 1 N.06 (1984-09)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 1 N.06 (1984-09)(Systems Editoriale)(IT).pdf" size="10723179" crc="6a37268d" md5="fd52e13b1e0ee00c2503f6ccab46716f" sha1="ed7123c5a76c4c41b695b4854cd500b57d93686c"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.06 (1984-09)(Systems Editoriale)(IT)[a]">
+		<description>Sinclair Computer - Anno 1 N.06 (1984-09)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Sinclair Computer - Anno 1 N.06 (1984-09)(Systems Editoriale)(IT)[a].pdf" size="112664994" crc="92bd52c8" md5="8f35517aa0df73e0e9fbd057a79fbd01" sha1="3a9fb802ef55d4a68edfbcfd215a7102b44beca9"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.07 (1984-10)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 1 N.07 (1984-10)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 1 N.07 (1984-10)(Systems Editoriale)(IT).pdf" size="12918976" crc="53067ded" md5="a800d58084152b823097535ee704e3e9" sha1="92d13a830880b3c0f265a4dd3ba6469a87b028bc"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.07 (1984-10)(Systems Editoriale)(IT)[a]">
+		<description>Sinclair Computer - Anno 1 N.07 (1984-10)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Sinclair Computer - Anno 1 N.07 (1984-10)(Systems Editoriale)(IT)[a].pdf" size="129221129" crc="26924e10" md5="b15037ff86fe8755c3c11c7a125d5d07" sha1="ff733e477ee166dce1b15dda4a0146dd39db565c"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.08 (1984-11)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 1 N.08 (1984-11)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 1 N.08 (1984-11)(Systems Editoriale)(IT).pdf" size="11706345" crc="260e2b53" md5="9cf09a02404d3cd64ea6152448744ecd" sha1="553d9091efb7e679bcbe41535e3a220e43f7cae1"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.08 (1984-11)(Systems Editoriale)(IT)[a]">
+		<description>Sinclair Computer - Anno 1 N.08 (1984-11)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Sinclair Computer - Anno 1 N.08 (1984-11)(Systems Editoriale)(IT)[a].pdf" size="107290869" crc="95e55edb" md5="d54e8c81fbf714099b56108c79b3e69c" sha1="db67faa6bf7035f5ccf4468d9202b4c2feaf44e9"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.09 (1984-12)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 1 N.09 (1984-12)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 1 N.09 (1984-12)(Systems Editoriale)(IT).pdf" size="14130294" crc="381e5873" md5="7813508c1c8b2b5aad900fad11c375fa" sha1="d4de27a85d94e46151a9f64582018c2515bdd0fc"/>
+	</game>
+	<game name="Sinclair Computer - Anno 1 N.09 (1984-12)(Systems Editoriale)(IT)[a]">
+		<description>Sinclair Computer - Anno 1 N.09 (1984-12)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Sinclair Computer - Anno 1 N.09 (1984-12)(Systems Editoriale)(IT)[a].pdf" size="247403806" crc="2b513e81" md5="6bd8507c8b4f77855e0c72f72bcdd5fd" sha1="84c0b274335541fc0fc2b49f62eaecfa9605d3ef"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.10 (1985-01)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 2 N.10 (1985-01)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 2 N.10 (1985-01)(Systems Editoriale)(IT).pdf" size="11285981" crc="676dce98" md5="ec6270d62ba154cbf5899ecbd295d5e3" sha1="8f8dcb654d78aae978329bcbf97a2923ccc2f0f9"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.10 (1985-01)(Systems Editoriale)(IT)[a]">
+		<description>Sinclair Computer - Anno 2 N.10 (1985-01)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Sinclair Computer - Anno 2 N.10 (1985-01)(Systems Editoriale)(IT)[a].pdf" size="357088352" crc="afc8b33b" md5="c15e03593751c08baa48ff56bfbd8763" sha1="86f238418f0e4614af5585ac208597746b2f4ae7"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.11 (1985-02)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 2 N.11 (1985-02)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 2 N.11 (1985-02)(Systems Editoriale)(IT).pdf" size="12275490" crc="3ec8a3e8" md5="7ac48c70a3a634c6b42d5383e300323a" sha1="edcdcec43ebf8d387924ce880b2eed2c64eb0016"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.12 (1985-03)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 2 N.12 (1985-03)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 2 N.12 (1985-03)(Systems Editoriale)(IT).pdf" size="12736738" crc="3b48ff34" md5="5930ec23cc265f6f084ae70385715404" sha1="0cb501f628ef2a73ad160af69093179a4a383b64"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.13 (1985-04)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 2 N.13 (1985-04)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 2 N.13 (1985-04)(Systems Editoriale)(IT).pdf" size="12715545" crc="3656e5db" md5="8dd17d22f36b3ed2549fe451379443f8" sha1="9e13beaf3b296028d27dee111f98b3835cfd05d2"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.14 (1985-06)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 2 N.14 (1985-06)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 2 N.14 (1985-06)(Systems Editoriale)(IT).pdf" size="12429421" crc="7268f8b3" md5="d5ca05ef4abc36d4b628b8200434675a" sha1="e588c33413cc8c4e631f4f317472ef1944caf980"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.15 (1985-07)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 2 N.15 (1985-07)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 2 N.15 (1985-07)(Systems Editoriale)(IT).pdf" size="10824111" crc="a395eae4" md5="2a4be8b08e9523cbf70f369ee2285d9d" sha1="40d75798b49a77d55bedbf1e119541830f1c8fea"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.16 (1985-09)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 2 N.16 (1985-09)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 2 N.16 (1985-09)(Systems Editoriale)(IT).pdf" size="12515404" crc="39431cac" md5="2dc99c9c327d9005cd5668e2aaac6949" sha1="f2d1ca9dae6cb6cfb3e3e794978d44075743cafd"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.17 (1985-10)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 2 N.17 (1985-10)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 2 N.17 (1985-10)(Systems Editoriale)(IT).pdf" size="9959657" crc="4cabc80b" md5="de6d0e1ad2fd97362c627aba825bd1b7" sha1="512de38a6807017fcced8b5155fa3241e5d458a3"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.18 (1985-11)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 2 N.18 (1985-11)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 2 N.18 (1985-11)(Systems Editoriale)(IT).pdf" size="9148241" crc="a9db9366" md5="a96eabe33a6c684ff956470577c0b636" sha1="dd735aa4260d973e7c1b1aa829e6e44c0c02483f"/>
+	</game>
+	<game name="Sinclair Computer - Anno 2 N.19 (1985-12)(Systems Editoriale)(IT)">
+		<description>Sinclair Computer - Anno 2 N.19 (1985-12)(Systems Editoriale)(IT)</description>
+		<rom name="Sinclair Computer - Anno 2 N.19 (1985-12)(Systems Editoriale)(IT).pdf" size="11659971" crc="9910de2c" md5="c29521b8ba1dbedaf4b7d273dd8e20a2" sha1="19d031d6d27004475c2321e02d2c89d851fc8b9f"/>
+	</game>
+</datafile>

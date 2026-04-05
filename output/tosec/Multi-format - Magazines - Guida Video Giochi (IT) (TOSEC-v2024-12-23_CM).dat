@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Guida Video Giochi (IT)</name>
+		<description>Multi-format - Magazines - Guida Video Giochi (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Guida Video Giochi - Anno 1 N.05 (1989-11)(Gruppo Editoriale Jackson)(IT)">
+		<description>Guida Video Giochi - Anno 1 N.05 (1989-11)(Gruppo Editoriale Jackson)(IT)</description>
+		<rom name="Guida Video Giochi - Anno 1 N.05 (1989-11)(Gruppo Editoriale Jackson)(IT).pdf" size="98041856" crc="4bd41f99" md5="3d92a5ae676a379fecf4f1d83d574ddb" sha1="3238723d1cc09b85eac1cce997176c8979f350d8"/>
+	</game>
+</datafile>

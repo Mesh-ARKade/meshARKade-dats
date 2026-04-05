@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Total Play (FR)</name>
+		<description>Sony PlayStation - Magazines - Total Play (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Total Play - N.01 (1997-12)(Edicorp Publications)(FR)">
+		<description>Total Play - N.01 (1997-12)(Edicorp Publications)(FR)</description>
+		<rom name="Total Play - N.01 (1997-12)(Edicorp Publications)(FR).pdf" size="115724075" crc="026d713d" md5="2eac038b3531cdc0245dae724c007032" sha1="c845480182c66e7b8b9ef906c37ba4bf72c31f35"/>
+	</game>
+	<game name="Total Play - N.03 (1998-02)(Edicorp Publications)(FR)">
+		<description>Total Play - N.03 (1998-02)(Edicorp Publications)(FR)</description>
+		<rom name="Total Play - N.03 (1998-02)(Edicorp Publications)(FR).pdf" size="106427734" crc="618c9940" md5="fcddcf866f9867ca6305aacd319201e8" sha1="593f3a11d1204d343a35ac6fe54264872c88fc89"/>
+	</game>
+	<game name="Total Play - N.05 (1998-04)(Edicorp Publications)(FR)">
+		<description>Total Play - N.05 (1998-04)(Edicorp Publications)(FR)</description>
+		<rom name="Total Play - N.05 (1998-04)(Edicorp Publications)(FR).pdf" size="70871958" crc="83bf6ae7" md5="7a04654a2f1df99ae607ca2757452921" sha1="e5579f8e312ac2aea6ac6f7fefa75454a53290d9"/>
+	</game>
+	<game name="Total Play - N.08 (1998-07)(Edicorp Publications)(FR)">
+		<description>Total Play - N.08 (1998-07)(Edicorp Publications)(FR)</description>
+		<rom name="Total Play - N.08 (1998-07)(Edicorp Publications)(FR).pdf" size="72659244" crc="6df8f23d" md5="aa7d4df8bc5d074ab512c5b965c3a523" sha1="1d888d8fad18fa24790d0cde5d56ab1e176a0a1a"/>
+	</game>
+	<game name="Total Play - N.09 (1998-09)(Edicorp Publications)(FR)">
+		<description>Total Play - N.09 (1998-09)(Edicorp Publications)(FR)</description>
+		<rom name="Total Play - N.09 (1998-09)(Edicorp Publications)(FR).pdf" size="71898214" crc="37381f4d" md5="ef0ca590ca356f8421ad6a6580994b41" sha1="2292783e01990291500c5c17eee16b33a4cf2e26"/>
+	</game>
+	<game name="Total Play - N.21 (1999-10)(Edicorp Publications)(FR)">
+		<description>Total Play - N.21 (1999-10)(Edicorp Publications)(FR)</description>
+		<rom name="Total Play - N.21 (1999-10)(Edicorp Publications)(FR).pdf" size="94652870" crc="8ff6b7d3" md5="7d49e1e10a31504e0ddb878705f65bdf" sha1="f673db6978ada22a0be89df7addbc3d33f006763"/>
+	</game>
+	<game name="Total Play Hors-Serie - N.3 Tip Soluces (2000-04)(Edicorp Publications)(FR)">
+		<description>Total Play Hors-Serie - N.3 Tip Soluces (2000-04)(Edicorp Publications)(FR)</description>
+		<rom name="Total Play Hors-Serie - N.3 Tip Soluces (2000-04)(Edicorp Publications)(FR).pdf" size="51813629" crc="6d7ef7c9" md5="baca874cfd4cc54ce8f8503397a90fba" sha1="7bb5cf0252dda601da42457b37a10f3efb69703d"/>
+	</game>
+</datafile>

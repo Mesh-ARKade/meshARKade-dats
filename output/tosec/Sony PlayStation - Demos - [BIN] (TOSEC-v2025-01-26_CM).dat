@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Demos - [BIN]</name>
+		<description>Sony PlayStation - Demos - [BIN] (TOSEC-v2025-01-26)</description>
+		<category>TOSEC-ISO</category>
+		<version>2025-01-26</version>
+		<author>TOSEC-ISO</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Invitation to the Chaos Constructions'2024 (2024-04)(Realm of Illusion)">
+		<description>Invitation to the Chaos Constructions'2024 (2024-04)(Realm of Illusion)</description>
+		<rom name="Invitation to the Chaos Constructions'2024 (2024-04)(Realm of Illusion).bin" size="928" crc="2a697769" md5="4643e4429aff4076654c4f00b40163f1" sha1="2f7aa481e1d7aa4728f4dca4cbbbbd8051b837e9"/>
+	</game>
+</datafile>

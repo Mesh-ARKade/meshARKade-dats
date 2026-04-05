@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Raspberry Foundation - Raspberry Pi - Magazines - Pi User (GB)</name>
+		<description>Raspberry Foundation - Raspberry Pi - Magazines - Pi User (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pi User - Issue 01 (2016)(Future Publishing)(GB)">
+		<description>Pi User - Issue 01 (2016)(Future Publishing)(GB)</description>
+		<rom name="Pi User - Issue 01 (2016)(Future Publishing)(GB).pdf" size="27008744" crc="b0309f02" md5="7bc2257247d5bc736443c808ee1ca32a" sha1="7a42f2c05199a03a55c266db458861800fa6cdee"/>
+	</game>
+	<game name="Pi User - Issue 02 (2017)(Future Publishing)(GB)">
+		<description>Pi User - Issue 02 (2017)(Future Publishing)(GB)</description>
+		<rom name="Pi User - Issue 02 (2017)(Future Publishing)(GB).pdf" size="26690177" crc="ff663a48" md5="35e6013dab506c5542f6c8d39ff0c649" sha1="4baa19d40a40323e1b9c7e9efb37a657c1e24bd7"/>
+	</game>
+	<game name="Pi User - Issue 03 (2017)(Future Publishing)(GB)">
+		<description>Pi User - Issue 03 (2017)(Future Publishing)(GB)</description>
+		<rom name="Pi User - Issue 03 (2017)(Future Publishing)(GB).pdf" size="26087125" crc="9e708a98" md5="0e5b4aafebb633ea734c7f570b42e6e6" sha1="26372c07d00720224adfa1427873423a2e157fa2"/>
+	</game>
+	<game name="Pi User - Issue 04 (2017)(Future Publishing)(GB)">
+		<description>Pi User - Issue 04 (2017)(Future Publishing)(GB)</description>
+		<rom name="Pi User - Issue 04 (2017)(Future Publishing)(GB).pdf" size="85323058" crc="dbf3618e" md5="fe912cf1c1cc99b37f69f1993cdc5d21" sha1="1a43be7c2037fb8420fec8c7d49a68c6ce561663"/>
+	</game>
+</datafile>

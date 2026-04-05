@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Nintendo Gamer (AU)</name>
+		<description>Nintendo - Magazines - Nintendo Gamer (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Gamer - Issue 01 (2007-01)(Next Publishing)(AU)[a]">
+		<description>Nintendo Gamer - Issue 01 (2007-01)(Next Publishing)(AU)[a]</description>
+		<rom name="Nintendo Gamer - Issue 01 (2007-01)(Next Publishing)(AU)[a].pdf" size="238576315" crc="640164d2" md5="8e03a747b4900cd10657073826c858f0" sha1="dbb8dddc745d92a436e42fbae7d80e7b7c4b5c79"/>
+	</game>
+	<game name="Nintendo Gamer - Issue 03 (2007-03)(Next Publishing)(AU)">
+		<description>Nintendo Gamer - Issue 03 (2007-03)(Next Publishing)(AU)</description>
+		<rom name="Nintendo Gamer - Issue 03 (2007-03)(Next Publishing)(AU).pdf" size="218072105" crc="0ccb80cf" md5="a5d0b6b6a7e5dc57835dde94b3d13887" sha1="b3b924248618eee866fa2b0e58bb4fd139cacc9e"/>
+	</game>
+	<game name="Nintendo Gamer - Issue 04 (2007-04)(Next Publishing)(AU)">
+		<description>Nintendo Gamer - Issue 04 (2007-04)(Next Publishing)(AU)</description>
+		<rom name="Nintendo Gamer - Issue 04 (2007-04)(Next Publishing)(AU).pdf" size="227487384" crc="0ad90ebe" md5="d133a0c2ceb1d91f8c9b0cf093ba7182" sha1="23644fc3c9bc28cec6704338e52f41aefb3a80bf"/>
+	</game>
+	<game name="Nintendo Gamer - Issue 01 (2007-01)(Next Publishing)(AU)">
+		<description>Nintendo Gamer - Issue 01 (2007-01)(Next Publishing)(AU)</description>
+		<rom name="Nintendo Gamer - Issue 01 (2007-01)(Next Publishing)(AU).pdf" size="161939686" crc="f6037254" md5="3d21fe5d57230b1013f6ae6b26a16482" sha1="6aa490a5f5f7541a233bf1cc219f11d9fc30895b"/>
+	</game>
+	<game name="Nintendo Gamer - Issue 02 (2007-02)(Next Publishing)(AU)">
+		<description>Nintendo Gamer - Issue 02 (2007-02)(Next Publishing)(AU)</description>
+		<rom name="Nintendo Gamer - Issue 02 (2007-02)(Next Publishing)(AU).pdf" size="186217255" crc="d8614c95" md5="64e4d1ba13de060b2461c630fca14148" sha1="e3852b2a118e15df5814379c439b0a1767448583"/>
+	</game>
+</datafile>

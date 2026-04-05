@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Ufficiale Playstation Magazine (IT)</name>
+		<description>Sony PlayStation - Magazines - Ufficiale Playstation Magazine (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation Magazine Ufficiale Italia - Anno 17 N.114 (2012-02)(Play Media Company)(IT)">
+		<description>PlayStation Magazine Ufficiale Italia - Anno 17 N.114 (2012-02)(Play Media Company)(IT)</description>
+		<rom name="PlayStation Magazine Ufficiale Italia - Anno 17 N.114 (2012-02)(Play Media Company)(IT).pdf" size="69054089" crc="51c9bcf7" md5="72a6382eb0baae8d613eb62ab044b643" sha1="78582e35ce33a7636ecf3b5977e8546c06d438ae"/>
+	</game>
+	<game name="PlayStation Magazine Ufficiale Italia - Anno 17 N.115 (2012-03)(Play Media Company)(IT)">
+		<description>PlayStation Magazine Ufficiale Italia - Anno 17 N.115 (2012-03)(Play Media Company)(IT)</description>
+		<rom name="PlayStation Magazine Ufficiale Italia - Anno 17 N.115 (2012-03)(Play Media Company)(IT).pdf" size="36341879" crc="399f292b" md5="99a51b87bf014c094384a46759cf0a32" sha1="7c780cafa5d01feb1d8d4eb91d2a0942fe1bbec8"/>
+	</game>
+	<game name="PlayStation Magazine Ufficiale Italia - Anno 17 N.116 (2012-04)(Play Media Company)(IT)">
+		<description>PlayStation Magazine Ufficiale Italia - Anno 17 N.116 (2012-04)(Play Media Company)(IT)</description>
+		<rom name="PlayStation Magazine Ufficiale Italia - Anno 17 N.116 (2012-04)(Play Media Company)(IT).pdf" size="39946094" crc="a56e3757" md5="2879894d329944b7c830eac67ebc1255" sha1="10a72328dca80ebe15fa1a5703ba2bedb4c2514e"/>
+	</game>
+	<game name="PlayStation Magazine Ufficiale Italia - Anno 17 N.117 (2012-05)(Play Media Company)(IT)">
+		<description>PlayStation Magazine Ufficiale Italia - Anno 17 N.117 (2012-05)(Play Media Company)(IT)</description>
+		<rom name="PlayStation Magazine Ufficiale Italia - Anno 17 N.117 (2012-05)(Play Media Company)(IT).pdf" size="39665426" crc="f285a311" md5="72334b188cb6bbe2114178f37c9e5059" sha1="4aed028c593eb12f0c5e8413f81d7ae95db08e2e"/>
+	</game>
+	<game name="PlayStation Magazine Ufficiale Italia - Anno 17 N.118 (2012-06)(Play Media Company)(IT)">
+		<description>PlayStation Magazine Ufficiale Italia - Anno 17 N.118 (2012-06)(Play Media Company)(IT)</description>
+		<rom name="PlayStation Magazine Ufficiale Italia - Anno 17 N.118 (2012-06)(Play Media Company)(IT).pdf" size="37170254" crc="6b1ddc1d" md5="451488b4eb1703027bb2b481c576182b" sha1="0c9dc42c847580ea83bc61c989830a6e2525f374"/>
+	</game>
+	<game name="PlayStation Magazine Ufficiale Italia - Anno 17 N.119 (2012-07)(Play Media Company)(IT)">
+		<description>PlayStation Magazine Ufficiale Italia - Anno 17 N.119 (2012-07)(Play Media Company)(IT)</description>
+		<rom name="PlayStation Magazine Ufficiale Italia - Anno 17 N.119 (2012-07)(Play Media Company)(IT).pdf" size="42786591" crc="a0736d91" md5="4c77ac53cb6cc38883dc6167fa4355f8" sha1="825a548ea375909126caa7acfa937229b86a2407"/>
+	</game>
+	<game name="PlayStation Magazine Ufficiale Italia - Anno 17 N.122 (2012-10)(Play Media Company)(IT)">
+		<description>PlayStation Magazine Ufficiale Italia - Anno 17 N.122 (2012-10)(Play Media Company)(IT)</description>
+		<rom name="PlayStation Magazine Ufficiale Italia - Anno 17 N.122 (2012-10)(Play Media Company)(IT).pdf" size="31049229" crc="f71bf429" md5="dcbb6dd7d371f39f411f45183dbbdea5" sha1="441f46483153b309b409eddfb3188a0446db82bd"/>
+	</game>
+	<game name="PlayStation Magazine Ufficiale Italia - Anno 17 N.123 (2012-11)(Play Media Company)(IT)">
+		<description>PlayStation Magazine Ufficiale Italia - Anno 17 N.123 (2012-11)(Play Media Company)(IT)</description>
+		<rom name="PlayStation Magazine Ufficiale Italia - Anno 17 N.123 (2012-11)(Play Media Company)(IT).pdf" size="60369132" crc="2839ae36" md5="1ac0b6fc3a2a9bdfb1dd062a292853ad" sha1="d02a888c854ebfb9e02fd2fa923b15e29cd8f070"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 01 N.001 (1996-09)(Studio Vit)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 01 N.001 (1996-09)(Studio Vit)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 01 N.001 (1996-09)(Studio Vit)(IT).pdf" size="210451262" crc="03484517" md5="ee89c08535a5f6a8c1a0bf0b47e2edec" sha1="4bf1f0dd77e51ddc7d6e83cb8d55004191e09176"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 01 N.002 (1996-10)(Studio Vit)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 01 N.002 (1996-10)(Studio Vit)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 01 N.002 (1996-10)(Studio Vit)(IT).pdf" size="194336543" crc="23ccfc9d" md5="9e3404a78af4fdbecb24740334743dbf" sha1="2f836600d59cbd023cbbe6956402b6aa8f58a919"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 01 N.003 (1996-11)(Studio Vit)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 01 N.003 (1996-11)(Studio Vit)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 01 N.003 (1996-11)(Studio Vit)(IT).pdf" size="229695408" crc="06ee1198" md5="8061173506cf4f511690d2cb83f19fee" sha1="c68f914ee5f2ebb1806d43b71321856e136b6a56"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 01 N.004 (1996-12)(Studio Vit)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 01 N.004 (1996-12)(Studio Vit)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 01 N.004 (1996-12)(Studio Vit)(IT).pdf" size="290689814" crc="067e5636" md5="96cde983d8538367573eb1bd5ea44446" sha1="0017a0881186c9df2e998ee3b8eab7a286e08bf5"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 02 N.001 (1997-01)(Il Mio Castello)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 02 N.001 (1997-01)(Il Mio Castello)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 02 N.001 (1997-01)(Il Mio Castello)(IT).pdf" size="231992833" crc="061424e2" md5="4be350bfed82d0d4370830e6c735debd" sha1="0b748564d73c590a2eabdf0d5adf2b6cb2eda3e3"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 02 N.001 (1999-01)(Il Mio Castello)(IT)[Speciale Corse]">
+		<description>Ufficiale Playstation Magazine - Anno 02 N.001 (1999-01)(Il Mio Castello)(IT)[Speciale Corse]</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 02 N.001 (1999-01)(Il Mio Castello)(IT)[Speciale Corse].pdf" size="246062453" crc="d2560b0a" md5="8d146ed4d85d0b370a65d97494bc41a9" sha1="f307926228f4c1ef4d9f0b53b771a07d2b6f50ca"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 02 N.002 (1997-02)(Il Mio Castello)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 02 N.002 (1997-02)(Il Mio Castello)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 02 N.002 (1997-02)(Il Mio Castello)(IT).pdf" size="287293103" crc="7d836251" md5="f4495ff3674290f89944ca4442eba4d0" sha1="0ccd1dc44a6be7d1229f47dffab1cd1be5e053e6"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 02 N.003 (1999-07)(Il Mio Castello)(IT)[Speciale Picchiaduro]">
+		<description>Ufficiale Playstation Magazine - Anno 02 N.003 (1999-07)(Il Mio Castello)(IT)[Speciale Picchiaduro]</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 02 N.003 (1999-07)(Il Mio Castello)(IT)[Speciale Picchiaduro].pdf" size="297855852" crc="75569cc9" md5="ea0c17ee9188f9fd0cead81b160b63ab" sha1="2b4a02a90110917db19624e26c75e529dcd330cf"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 02 N.010 (1997-10)(Il Mio Castello)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 02 N.010 (1997-10)(Il Mio Castello)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 02 N.010 (1997-10)(Il Mio Castello)(IT).pdf" size="300071365" crc="fa554edd" md5="b613990c535ef671b3ad412f865a4b23" sha1="04f4cf0534ec4f86810605d87dcaa1dc717d48fd"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 04 N.008 (1999-08)(Il Mio Castello)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 04 N.008 (1999-08)(Il Mio Castello)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 04 N.008 (1999-08)(Il Mio Castello)(IT).pdf" size="293894986" crc="8a75323b" md5="94085ac17eaf32d96b32282c865a7c9a" sha1="9c5767102caadbeb4980d49982ef8f917d66657d"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 04 N.011 (1999-11)(Il Mio Castello)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 04 N.011 (1999-11)(Il Mio Castello)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 04 N.011 (1999-11)(Il Mio Castello)(IT).pdf" size="169792298" crc="3ce11dd4" md5="25ebf18595427a15b536d5ed800b91ba" sha1="f49644217afa8cbc65f8c33fbf7cfcf1ff0f82b4"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 05 N.002 (2000-02)(Il Mio Castello)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 05 N.002 (2000-02)(Il Mio Castello)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 05 N.002 (2000-02)(Il Mio Castello)(IT).pdf" size="319637147" crc="193a5864" md5="ea6c7e484afba2746189f67d94f2797d" sha1="426cf1ecab2b8f1fc5067e1ca29178f5b8ac94e8"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 05 N.007 (2000-07)(Il Mio Castello)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 05 N.007 (2000-07)(Il Mio Castello)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 05 N.007 (2000-07)(Il Mio Castello)(IT).pdf" size="450114201" crc="051791f4" md5="71f5f5d039f056ef1284d8df27eeed26" sha1="ee678b38e3445c9a717bfcbcc6995a59e8b3bd74"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 05 N.008 (2000-08)(Il Mio Castello)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 05 N.008 (2000-08)(Il Mio Castello)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 05 N.008 (2000-08)(Il Mio Castello)(IT).pdf" size="291106079" crc="29a5fe7a" md5="a2d8cc6a00fda81419121b0361deaafa" sha1="5693391cee75e8ec115fb420833f72e63e18b774"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 05 N.010 (2000-10)(Il Mio Castello)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 05 N.010 (2000-10)(Il Mio Castello)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 05 N.010 (2000-10)(Il Mio Castello)(IT).pdf" size="394895260" crc="5ef0fda5" md5="c6f7e450d9096ab448aedbfaa83e34ff" sha1="f391ff3eeaf7c3c4794f14bc592c06ea10a4ecfe"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 05 N.011 (2000-11)(Il Mio Castello)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 05 N.011 (2000-11)(Il Mio Castello)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 05 N.011 (2000-11)(Il Mio Castello)(IT).pdf" size="279458438" crc="9f685c53" md5="114eda0d41aef95ddff66d76906b10b8" sha1="b71218d6dfabbeb9a144bc5b1ce22a4585da0a7b"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 06 N.013 (2000-12)(Il Mio Castello)(IT)[Natale]">
+		<description>Ufficiale Playstation Magazine - Anno 06 N.013 (2000-12)(Il Mio Castello)(IT)[Natale]</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 06 N.013 (2000-12)(Il Mio Castello)(IT)[Natale].pdf" size="252791633" crc="6353182c" md5="f76179e66270cc330788b2d734df5a45" sha1="3e131a45050939cdf2831f7a5987d9949a6471d5"/>
+	</game>
+	<game name="Ufficiale Playstation Magazine - Anno 06 N.055 (2001-01)(Studio Vit)(IT)">
+		<description>Ufficiale Playstation Magazine - Anno 06 N.055 (2001-01)(Studio Vit)(IT)</description>
+		<rom name="Ufficiale Playstation Magazine - Anno 06 N.055 (2001-01)(Studio Vit)(IT).pdf" size="28968785" crc="47023bdd" md5="8a8137fcd7f4debea60f9cde4355c11b" sha1="9a40e6d71dd66ac6b5f1a8f1f1737f6d3658965d"/>
+	</game>
+</datafile>

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Generation 4 (FR)</name>
+		<description>Multi-format - Magazines - Generation 4 (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Generation 4 - Guide 4 d'or FNAC (1993)(PressImage)(FR)">
+		<description>Generation 4 - Guide 4 d'or FNAC (1993)(PressImage)(FR)</description>
+		<rom name="Generation 4 - Guide 4 d'or FNAC (1993)(PressImage)(FR).pdf" size="17161094" crc="bfa5f4e9" md5="84364b1f9bbd9c94788d5d319e37110e" sha1="91e2df9c68ba89af1f9748d0941c53e62d14ddb8"/>
+	</game>
+	<game name="Generation 4 - Guide 4 d'or FNAC (1994)(PressImage)(FR)">
+		<description>Generation 4 - Guide 4 d'or FNAC (1994)(PressImage)(FR)</description>
+		<rom name="Generation 4 - Guide 4 d'or FNAC (1994)(PressImage)(FR).pdf" size="20826494" crc="80fd4c84" md5="22c10fe5c66a45c11833df83174653a4" sha1="dac3f381af28394f8acb3f7fdcb3705894ee55fd"/>
+	</game>
+	<game name="Generation 4 - Hors-Serie N.02 (1989-10)(PressImage)(FR)">
+		<description>Generation 4 - Hors-Serie N.02 (1989-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - Hors-Serie N.02 (1989-10)(PressImage)(FR).pdf" size="41937543" crc="e7089a56" md5="73730ee2b1636b54fa926dceb8cb4368" sha1="8a410ae8802574a185036bae1fa6cc21a0cf9318"/>
+	</game>
+	<game name="Generation 4 - Hors-Serie N.08 (1993-07)(PressImage)(FR)">
+		<description>Generation 4 - Hors-Serie N.08 (1993-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - Hors-Serie N.08 (1993-07)(PressImage)(FR).pdf" size="77867975" crc="11f6324d" md5="f1ee5173c45d8055373075937d4c3056" sha1="718c951a4ef55cb496212895eaf38b207574bf61"/>
+	</game>
+	<game name="Generation 4 - Hors-Serie N.12 (1995-07)(PressImage)(FR)">
+		<description>Generation 4 - Hors-Serie N.12 (1995-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - Hors-Serie N.12 (1995-07)(PressImage)(FR).pdf" size="38157404" crc="4afa01f0" md5="c135ae3e4602aec0f2e7f5bdb2303aad" sha1="019d726cc350477bd0e47f41302c0f50c2a615e2"/>
+	</game>
+	<game name="Generation 4 - Hors-Serie N.13 (1996-07)(PressImage)(FR)">
+		<description>Generation 4 - Hors-Serie N.13 (1996-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - Hors-Serie N.13 (1996-07)(PressImage)(FR).pdf" size="34280230" crc="acde4506" md5="4404211cd10098115485fded3c5b92c9" sha1="b3acacbd9a7bd3c517b331faf480d0f044e9e200"/>
+	</game>
+	<game name="Generation 4 - N.001 (1987-11)(PressImage)(FR)">
+		<description>Generation 4 - N.001 (1987-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.001 (1987-11)(PressImage)(FR).pdf" size="35129354" crc="e4b40ff2" md5="4c11da60715109a5728d78ebbe2c11fc" sha1="fb7cb5ea7e9c230e56dd3a197ebd13c4de139b99"/>
+	</game>
+	<game name="Generation 4 - N.002 (1988-01)(PressImage)(FR)">
+		<description>Generation 4 - N.002 (1988-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.002 (1988-01)(PressImage)(FR).pdf" size="47037049" crc="dfa9f080" md5="5fe16ea6b3e442ac92b0a4781b381922" sha1="4bb5f627e43c518e5c4469091e63719186144626"/>
+	</game>
+	<game name="Generation 4 - N.003 (1988-03)(PressImage)(FR)">
+		<description>Generation 4 - N.003 (1988-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.003 (1988-03)(PressImage)(FR).pdf" size="78136994" crc="be77a83b" md5="8d5e8a201a9984fceaabf082a2716682" sha1="e35fa927fef723978c44814fea73ac6c3a03b44e"/>
+	</game>
+	<game name="Generation 4 - N.004 (1988-07)(PressImage)(FR)">
+		<description>Generation 4 - N.004 (1988-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.004 (1988-07)(PressImage)(FR).pdf" size="58763302" crc="b5ba7549" md5="b482d45f27189cf05f3763ecb98f56ed" sha1="340dbf39943400318eed917d285afedc9bdd3f03"/>
+	</game>
+	<game name="Generation 4 - N.005 (1988-09)(PressImage)(FR)">
+		<description>Generation 4 - N.005 (1988-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.005 (1988-09)(PressImage)(FR).pdf" size="67722629" crc="a043fa47" md5="fb5542d94ae3f3a0d73991b1c6bd4174" sha1="f375af64bd3c51fda139d7f2b73568b8e7f26245"/>
+	</game>
+	<game name="Generation 4 - N.006 (1988-11)(PressImage)(FR)">
+		<description>Generation 4 - N.006 (1988-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.006 (1988-11)(PressImage)(FR).pdf" size="51290404" crc="36ab3638" md5="256a74c12aa3f1f9702d0c193639bb52" sha1="aba229067086d3ae4b646ddaccda510435e92336"/>
+	</game>
+	<game name="Generation 4 - N.007 (1988-12)(PressImage)(FR)">
+		<description>Generation 4 - N.007 (1988-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.007 (1988-12)(PressImage)(FR).pdf" size="54962321" crc="3a19d407" md5="365d19804f6dffcd55e574bc9ca96222" sha1="a21a8b99f9cf4b7e0f65b9635bd5d792c3d2d40d"/>
+	</game>
+	<game name="Generation 4 - N.008 (1989-01)(PressImage)(FR)">
+		<description>Generation 4 - N.008 (1989-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.008 (1989-01)(PressImage)(FR).pdf" size="52173420" crc="7e9defd5" md5="644baf687bafb841397e5523332b5983" sha1="48d81bee46a20b6ffc19c5e1cccf883faaa5fe5f"/>
+	</game>
+	<game name="Generation 4 - N.009 (1989-02)(PressImage)(FR)">
+		<description>Generation 4 - N.009 (1989-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.009 (1989-02)(PressImage)(FR).pdf" size="65175496" crc="e500d5e2" md5="abc4a9558844c9e50e81070c73a98d0c" sha1="36450d5c421eb1d7c9640e2c62fd44efdc7978bc"/>
+	</game>
+	<game name="Generation 4 - N.010 (1989-04)(PressImage)(FR)">
+		<description>Generation 4 - N.010 (1989-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.010 (1989-04)(PressImage)(FR).pdf" size="45754189" crc="38eeff2e" md5="7bf6bdf7fbe90c94bc93da28effe51ed" sha1="c0b2260433c3ac6b57ee2282a1c14f1650470dc3"/>
+	</game>
+	<game name="Generation 4 - N.011 (1989-05)(PressImage)(FR)">
+		<description>Generation 4 - N.011 (1989-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.011 (1989-05)(PressImage)(FR).pdf" size="50701499" crc="e2f08347" md5="691c02b800ef8fe7c56e509a86f26748" sha1="be27caa2edaff641b35c4fa651c6b8a0e4ef6624"/>
+	</game>
+	<game name="Generation 4 - N.012 (1989-06)(PressImage)(FR)">
+		<description>Generation 4 - N.012 (1989-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.012 (1989-06)(PressImage)(FR).pdf" size="93061798" crc="0ced048d" md5="69734f1d8e21fb7d9ec2275958656406" sha1="138f7e082eec25a924c45a4ba590e3ab1ac606f3"/>
+	</game>
+	<game name="Generation 4 - N.013 (1989-07)(PressImage)(FR)">
+		<description>Generation 4 - N.013 (1989-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.013 (1989-07)(PressImage)(FR).pdf" size="64762696" crc="a17ac453" md5="581a4fa609c2c74d9f4655e508272c19" sha1="a4f18854d3fa70b5a0d106215b720bc5c72ebcfb"/>
+	</game>
+	<game name="Generation 4 - N.014 (1989-09)(PressImage)(FR)">
+		<description>Generation 4 - N.014 (1989-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.014 (1989-09)(PressImage)(FR).pdf" size="56685356" crc="91b5e3f9" md5="2f2935885371277a6748ad38d205cd21" sha1="2a75339f1a14415f50d9af56ab045ae4c5e5f04e"/>
+	</game>
+	<game name="Generation 4 - N.015 (1989-10)(PressImage)(FR)">
+		<description>Generation 4 - N.015 (1989-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.015 (1989-10)(PressImage)(FR).pdf" size="52044674" crc="8f15aeee" md5="d1b9e40a31dfab2cff26b89fc9e2d87d" sha1="62b9e93e34c3d3da38e57713af948070b129a18f"/>
+	</game>
+	<game name="Generation 4 - N.016 (1989-11)(PressImage)(FR)">
+		<description>Generation 4 - N.016 (1989-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.016 (1989-11)(PressImage)(FR).pdf" size="69301656" crc="97013e05" md5="acef5885be823e66c2d93829fd64d117" sha1="c3470352d2956f4fb410a83b400b76c6d39bd9e2"/>
+	</game>
+	<game name="Generation 4 - N.017 (1989-12)(PressImage)(FR)">
+		<description>Generation 4 - N.017 (1989-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.017 (1989-12)(PressImage)(FR).pdf" size="89039553" crc="373a2a23" md5="c4532e113d50d18e7b05dcb6d9a7244a" sha1="be0b812574d54238e505534aa3b63ddad923e313"/>
+	</game>
+	<game name="Generation 4 - N.018 (1990-01)(PressImage)(FR)">
+		<description>Generation 4 - N.018 (1990-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.018 (1990-01)(PressImage)(FR).pdf" size="67758105" crc="43ba99dc" md5="5b653cb3bd89c8d3eca9fe757ac28e11" sha1="1d04cfed7a5a3d3f7949e49de1c84838045cc513"/>
+	</game>
+	<game name="Generation 4 - N.019 (1990-02)(PressImage)(FR)">
+		<description>Generation 4 - N.019 (1990-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.019 (1990-02)(PressImage)(FR).pdf" size="52016934" crc="5f0e088b" md5="2d933a01b8675adf92c027d7f6a05ef6" sha1="d84b95dae10f86fc162d300bc967f2500438cdc6"/>
+	</game>
+	<game name="Generation 4 - N.020 (1990-03)(PressImage)(FR)">
+		<description>Generation 4 - N.020 (1990-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.020 (1990-03)(PressImage)(FR).pdf" size="62404240" crc="c7e64b72" md5="f22d06243e701bdb7df9d7edc4eb8b10" sha1="ce3b7ab2ca1acd74e15ff36141df817c47c9ab4a"/>
+	</game>
+	<game name="Generation 4 - N.021 (1990-04)(PressImage)(FR)">
+		<description>Generation 4 - N.021 (1990-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.021 (1990-04)(PressImage)(FR).pdf" size="56306328" crc="ebddbe7a" md5="bed0fe595c375eaaad76e1180a45b4c0" sha1="3c24b33c385171fea99feddab430059526090bad"/>
+	</game>
+	<game name="Generation 4 - N.022 (1990-05)(PressImage)(FR)">
+		<description>Generation 4 - N.022 (1990-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.022 (1990-05)(PressImage)(FR).pdf" size="93925086" crc="96d84325" md5="65eb85a0e605c82da56302d4414df88b" sha1="ae25949175e703633dd05353e4365fbf2899a263"/>
+	</game>
+	<game name="Generation 4 - N.023 (1990-06)(PressImage)(FR)">
+		<description>Generation 4 - N.023 (1990-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.023 (1990-06)(PressImage)(FR).pdf" size="71626800" crc="cf93b28c" md5="b71d754b39a065f05a0ebcc1fec456b9" sha1="7d643419620a2d3b3f92c9a85e6c393b43c0b244"/>
+	</game>
+	<game name="Generation 4 - N.024 (1990-07)(PressImage)(FR)">
+		<description>Generation 4 - N.024 (1990-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.024 (1990-07)(PressImage)(FR).pdf" size="98082340" crc="947e804a" md5="d3927f8ac122f77304bdd3b61690200a" sha1="34ef6893fb0218005e934052c8ec58e9d65c78c9"/>
+	</game>
+	<game name="Generation 4 - N.025 (1990-09)(PressImage)(FR)">
+		<description>Generation 4 - N.025 (1990-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.025 (1990-09)(PressImage)(FR).pdf" size="77640727" crc="231cc93b" md5="b6c4600f0f747170c89e648b970c3e4b" sha1="a1d088fcedf725b6e06004a1aa1848a32e854018"/>
+	</game>
+	<game name="Generation 4 - N.026 (1990-10)(PressImage)(FR)">
+		<description>Generation 4 - N.026 (1990-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.026 (1990-10)(PressImage)(FR).pdf" size="142487405" crc="b1c9e911" md5="01e4f7680da9b042a344189126ce08b4" sha1="82960f80bf13b091052c1e5d24ab0e619cc25c8e"/>
+	</game>
+	<game name="Generation 4 - N.027 (1990-11)(PressImage)(FR)">
+		<description>Generation 4 - N.027 (1990-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.027 (1990-11)(PressImage)(FR).pdf" size="112664424" crc="eb683df4" md5="775dc968cb5a8a15d0433bd1465bb618" sha1="d6704da53dca8399b197062519214420c2eab749"/>
+	</game>
+	<game name="Generation 4 - N.028 (1990-12)(PressImage)(FR)">
+		<description>Generation 4 - N.028 (1990-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.028 (1990-12)(PressImage)(FR).pdf" size="161040509" crc="3c3acb8a" md5="7ea35ea03eb96afab5d4e4266e0791cc" sha1="e75bce7148e9faeb5eaa7a5c53fe75e2b96bb911"/>
+	</game>
+	<game name="Generation 4 - N.029 (1991-01)(PressImage)(FR)">
+		<description>Generation 4 - N.029 (1991-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.029 (1991-01)(PressImage)(FR).pdf" size="66019550" crc="5a089901" md5="45d9e9fdc5315649fd53c6d5eac1e0fb" sha1="7b606788a4274ebbe1b46459a8800636ad108f5f"/>
+	</game>
+	<game name="Generation 4 - N.030 (1991-02)(PressImage)(FR)">
+		<description>Generation 4 - N.030 (1991-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.030 (1991-02)(PressImage)(FR).pdf" size="140184589" crc="8a6efc15" md5="3e78db2b54dd5b6a871a91b0a87e8293" sha1="3077781f0f9b20c74e426b1a3c2e146d3dcc6a04"/>
+	</game>
+	<game name="Generation 4 - N.031 (1991-03)(PressImage)(FR)">
+		<description>Generation 4 - N.031 (1991-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.031 (1991-03)(PressImage)(FR).pdf" size="63515799" crc="c7a7c09c" md5="0c29a8cb1b2f761ccdaba3148d976bc8" sha1="dac6fbcefb1afb083c7e3d6c9f8dba9c3430496d"/>
+	</game>
+	<game name="Generation 4 - N.032 (1991-04)(PressImage)(FR)">
+		<description>Generation 4 - N.032 (1991-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.032 (1991-04)(PressImage)(FR).pdf" size="107950386" crc="135aae58" md5="d5151d7e5d7b6948da005f70a1df813e" sha1="36829a484ab50545124d82f6d5cb6f0e75fec6ad"/>
+	</game>
+	<game name="Generation 4 - N.033 (1991-05)(PressImage)(FR)">
+		<description>Generation 4 - N.033 (1991-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.033 (1991-05)(PressImage)(FR).pdf" size="141070863" crc="5e0e30ce" md5="b3388dc7434ddc83e9c4e385ed1b4574" sha1="6df40adebaa04ab5b2e15af403d9960d8406b43c"/>
+	</game>
+	<game name="Generation 4 - N.034 (1991-06)(PressImage)(FR)">
+		<description>Generation 4 - N.034 (1991-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.034 (1991-06)(PressImage)(FR).pdf" size="121790752" crc="ebd0c30d" md5="407f6c0594806f7aa74934b2e28131f7" sha1="80f4c5412187d4403aa72b55470f9969b44dab94"/>
+	</game>
+	<game name="Generation 4 - N.035 (1991-07)(PressImage)(FR)">
+		<description>Generation 4 - N.035 (1991-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.035 (1991-07)(PressImage)(FR).pdf" size="130329782" crc="261a40f7" md5="318c9ddcf8c5e42cfc590d918f232424" sha1="1d365434dea966f214065e179df2421e6444fb10"/>
+	</game>
+	<game name="Generation 4 - N.036 (1991-09)(PressImage)(FR)">
+		<description>Generation 4 - N.036 (1991-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.036 (1991-09)(PressImage)(FR).pdf" size="104341862" crc="d58f5a86" md5="fa31b70a4f62a4b66745b3e92ba7f202" sha1="7f4c6ac988938aeb09af51625a5a7e931fddcc1e"/>
+	</game>
+	<game name="Generation 4 - N.037 (1991-10)(PressImage)(FR)">
+		<description>Generation 4 - N.037 (1991-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.037 (1991-10)(PressImage)(FR).pdf" size="133617057" crc="c860af68" md5="692be3e1591020483655e39c4153b24f" sha1="720596e24422d3dd54a2c656ff35b122dd5b5979"/>
+	</game>
+	<game name="Generation 4 - N.038 (1991-11)(PressImage)(FR)">
+		<description>Generation 4 - N.038 (1991-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.038 (1991-11)(PressImage)(FR).pdf" size="137753070" crc="fd4885a3" md5="b6998163237c3f22e727f425c5785528" sha1="b71df80404b8ff4675e0ac8215f58b4a6d98a896"/>
+	</game>
+	<game name="Generation 4 - N.039 (1991-12)(PressImage)(FR)">
+		<description>Generation 4 - N.039 (1991-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.039 (1991-12)(PressImage)(FR).pdf" size="118607082" crc="cd20d964" md5="bba49581daf8e70a77284338c9b81b82" sha1="fbe6dd84791e19d7981cd61810ceb4aef6d465c0"/>
+	</game>
+	<game name="Generation 4 - N.040 (1992-01)(PressImage)(FR)">
+		<description>Generation 4 - N.040 (1992-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.040 (1992-01)(PressImage)(FR).pdf" size="83821376" crc="de6b9bab" md5="e8bceeb86ac9b1db05529915d016ece8" sha1="270d2310462b1381ace926137453498fc32789cb"/>
+	</game>
+	<game name="Generation 4 - N.041 (1992-02)(PressImage)(FR)">
+		<description>Generation 4 - N.041 (1992-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.041 (1992-02)(PressImage)(FR).pdf" size="89256658" crc="d302e405" md5="1bc9cae11474bb5a24a68f8b9aa3d16c" sha1="20e187eca4ee74d651dd030cbb09315ed7933dd3"/>
+	</game>
+	<game name="Generation 4 - N.042 (1992-03)(PressImage)(FR)">
+		<description>Generation 4 - N.042 (1992-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.042 (1992-03)(PressImage)(FR).pdf" size="37485216" crc="608c6ad7" md5="c63a75c8a904a80296a9dfdc874e7aee" sha1="22df1c4e675c1483fc92f3b6b4624130ce432071"/>
+	</game>
+	<game name="Generation 4 - N.043 (1992-04)(PressImage)(FR)">
+		<description>Generation 4 - N.043 (1992-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.043 (1992-04)(PressImage)(FR).pdf" size="81957367" crc="6410d9ed" md5="0c9418097d820a5bd244e4714e9171c7" sha1="ca5fa2c2260f1d0276e71b46f9f80419fe844897"/>
+	</game>
+	<game name="Generation 4 - N.044 (1992-05)(PressImage)(FR)">
+		<description>Generation 4 - N.044 (1992-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.044 (1992-05)(PressImage)(FR).pdf" size="83628448" crc="8ea07867" md5="603db6fb2fe4355127bfc9fd77401d93" sha1="b1afc12d90bc57807199348da6e6d483bac8bbed"/>
+	</game>
+	<game name="Generation 4 - N.045 (1992-06)(PressImage)(FR)">
+		<description>Generation 4 - N.045 (1992-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.045 (1992-06)(PressImage)(FR).pdf" size="88120169" crc="678eec1a" md5="1ffa83982ed4f6e716e2f0570b1b0cb8" sha1="49e241deaa44017afba396ea65cdd70bc5b9811c"/>
+	</game>
+	<game name="Generation 4 - N.046 (1992-07)(PressImage)(FR)">
+		<description>Generation 4 - N.046 (1992-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.046 (1992-07)(PressImage)(FR).pdf" size="108146699" crc="dc6c04aa" md5="ac01b8bc8bfc409a92be1451470c6bc8" sha1="daa0f9e9b2de9298ee433c15fb85594184ff2bc8"/>
+	</game>
+	<game name="Generation 4 - N.046 (1992-07)(PressImage)(FR)[supplement Guide Du 3615]">
+		<description>Generation 4 - N.046 (1992-07)(PressImage)(FR)[supplement Guide Du 3615]</description>
+		<rom name="Generation 4 - N.046 (1992-07)(PressImage)(FR)[supplement Guide Du 3615].pdf" size="5697412" crc="93511e94" md5="0e6d3b294336ebb50e9ca7a74a11c3f0" sha1="53ba6187b9a0e4030893cd2170f7d36bfbd65b32"/>
+	</game>
+	<game name="Generation 4 - N.047 (1992-09)(PressImage)(FR)">
+		<description>Generation 4 - N.047 (1992-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.047 (1992-09)(PressImage)(FR).pdf" size="86984435" crc="5b723ff7" md5="d86a7c43571de09caddccf0b294be1fd" sha1="a8be3e667a5d8ba0783d06cfbcb9441a0bea45a9"/>
+	</game>
+	<game name="Generation 4 - N.048 (1992-10)(PressImage)(FR)">
+		<description>Generation 4 - N.048 (1992-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.048 (1992-10)(PressImage)(FR).pdf" size="73769243" crc="b54e258b" md5="c03a6a597a1e8235f52c2d7c903fc84c" sha1="36c37a8993b2c806768148b339bb9db330c0fe83"/>
+	</game>
+	<game name="Generation 4 - N.049 (1992-11)(PressImage)(FR)">
+		<description>Generation 4 - N.049 (1992-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.049 (1992-11)(PressImage)(FR).pdf" size="120046973" crc="7c04b260" md5="e35607556864f026dce5ab867ec46a1a" sha1="d2d62a2a103f4f95fc494c40dcc315a8c0032d97"/>
+	</game>
+	<game name="Generation 4 - N.050 (1992-12)(PressImage)(FR)">
+		<description>Generation 4 - N.050 (1992-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.050 (1992-12)(PressImage)(FR).pdf" size="91144631" crc="ed263da1" md5="f9632fae7601d41b13eb77535fd965df" sha1="80fa7c60a5106b746f1f402cdd53683bbafd1de5"/>
+	</game>
+	<game name="Generation 4 - N.051 (1993-01)(PressImage)(FR)">
+		<description>Generation 4 - N.051 (1993-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.051 (1993-01)(PressImage)(FR).pdf" size="66311640" crc="1b2e3a8c" md5="6d9d9504c902748f1667d5e8dd1427cc" sha1="700480dc9986d6ec5e8c7acc97bb6850eab8b93a"/>
+	</game>
+	<game name="Generation 4 - N.051 (1993-01)(PressImage)(FR)[supplement Guide Pratique N.01]">
+		<description>Generation 4 - N.051 (1993-01)(PressImage)(FR)[supplement Guide Pratique N.01]</description>
+		<rom name="Generation 4 - N.051 (1993-01)(PressImage)(FR)[supplement Guide Pratique N.01].pdf" size="16232747" crc="ec103adc" md5="fdc8c1b10111da394bc2ae7b10cafa75" sha1="ddf79e61fd3867a41f20f632ed20dbd65dbce6e9"/>
+	</game>
+	<game name="Generation 4 - N.052 (1993-02)(PressImage)(FR)">
+		<description>Generation 4 - N.052 (1993-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.052 (1993-02)(PressImage)(FR).pdf" size="56749667" crc="e4cd9cab" md5="783b59ef7512febea84bf921aa287b49" sha1="5ca7287a7529403a6afe3c3f64e88b0018ea568e"/>
+	</game>
+	<game name="Generation 4 - N.052 (1993-02)(PressImage)(FR)[supplement Guide Pratique N.02]">
+		<description>Generation 4 - N.052 (1993-02)(PressImage)(FR)[supplement Guide Pratique N.02]</description>
+		<rom name="Generation 4 - N.052 (1993-02)(PressImage)(FR)[supplement Guide Pratique N.02].pdf" size="9882714" crc="1b2ac030" md5="20fefe4bea19bdfa6dbe010c57878989" sha1="1437b5e7a40f1235e0743ebd970312b0e94f6673"/>
+	</game>
+	<game name="Generation 4 - N.053 (1993-03)(PressImage)(FR)">
+		<description>Generation 4 - N.053 (1993-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.053 (1993-03)(PressImage)(FR).pdf" size="87835235" crc="b50c5b60" md5="19f71d78ff3849a520285b047c3dca31" sha1="f10a9f4f41d02a34d0ca3cb3bb1650de791397b0"/>
+	</game>
+	<game name="Generation 4 - N.053 (1993-03)(PressImage)(FR)[supplement Cartes]">
+		<description>Generation 4 - N.053 (1993-03)(PressImage)(FR)[supplement Cartes]</description>
+		<rom name="Generation 4 - N.053 (1993-03)(PressImage)(FR)[supplement Cartes].pdf" size="2618660" crc="325e7660" md5="a55f84db6a57a8ad42c9f678166c6e11" sha1="b397472a15bda7ab935f37133330a554834e8571"/>
+	</game>
+	<game name="Generation 4 - N.053 (1993-03)(PressImage)(FR)[supplement Guide Pratique N.03]">
+		<description>Generation 4 - N.053 (1993-03)(PressImage)(FR)[supplement Guide Pratique N.03]</description>
+		<rom name="Generation 4 - N.053 (1993-03)(PressImage)(FR)[supplement Guide Pratique N.03].pdf" size="8921890" crc="906067c1" md5="7dff08b4b9448d8b87aa06b552d1c8e9" sha1="43903b77cc014e9920e05f80d6c5ab4a9236f72f"/>
+	</game>
+	<game name="Generation 4 - N.054 (1993-04)(PressImage)(FR)">
+		<description>Generation 4 - N.054 (1993-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.054 (1993-04)(PressImage)(FR).pdf" size="96092658" crc="1cb379d2" md5="557461069689dff2a6aac1316f178069" sha1="236c10d481f51ed7e0ea8f00d6af7dbbf07ec015"/>
+	</game>
+	<game name="Generation 4 - N.054 (1993-04)(PressImage)(FR)[supplement Cartes]">
+		<description>Generation 4 - N.054 (1993-04)(PressImage)(FR)[supplement Cartes]</description>
+		<rom name="Generation 4 - N.054 (1993-04)(PressImage)(FR)[supplement Cartes].pdf" size="2488536" crc="24499883" md5="6c98cb56164010401ac0039701d2708a" sha1="7082b18a5e05a7fb790a3c986c97f957cb633434"/>
+	</game>
+	<game name="Generation 4 - N.055 (1993-05)(PressImage)(FR)">
+		<description>Generation 4 - N.055 (1993-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.055 (1993-05)(PressImage)(FR).pdf" size="134210612" crc="7b970b08" md5="d863f0662b4b2215d078e38284f4f28d" sha1="c690facb43856ffc79bd5e84e111cd0a3a959c87"/>
+	</game>
+	<game name="Generation 4 - N.055 (1993-05)(PressImage)(FR)[supplement Cartes]">
+		<description>Generation 4 - N.055 (1993-05)(PressImage)(FR)[supplement Cartes]</description>
+		<rom name="Generation 4 - N.055 (1993-05)(PressImage)(FR)[supplement Cartes].pdf" size="2202311" crc="38db4107" md5="f42fe6ec56bcbab1b8f6ac9c67e586cc" sha1="a5eb3a41df1aaee6aefa7200d5e8b3903e236c96"/>
+	</game>
+	<game name="Generation 4 - N.056 (1993-06)(PressImage)(FR)">
+		<description>Generation 4 - N.056 (1993-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.056 (1993-06)(PressImage)(FR).pdf" size="127136262" crc="14974304" md5="c7b0de725761f4b38c02fa2c3dfb471c" sha1="52cc631b63dee1e726f7375d5f9a6f12575b8dd6"/>
+	</game>
+	<game name="Generation 4 - N.057 (1993-07)(PressImage)(FR)">
+		<description>Generation 4 - N.057 (1993-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.057 (1993-07)(PressImage)(FR).pdf" size="149801369" crc="47dfb968" md5="d8861b233f14d5bb2960b6d47d9684b6" sha1="25e91277461795163e9cd83c0c082e0c9cc39f27"/>
+	</game>
+	<game name="Generation 4 - N.058 (1993-09)(PressImage)(FR)">
+		<description>Generation 4 - N.058 (1993-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.058 (1993-09)(PressImage)(FR).pdf" size="89486401" crc="ad147f6d" md5="5796fdc1bdb403dfbf02cd6c400d3bbc" sha1="169821967c9c026f6ab95ce97d018969e9fb4bb0"/>
+	</game>
+	<game name="Generation 4 - N.059 (1993-10)(PressImage)(FR)">
+		<description>Generation 4 - N.059 (1993-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.059 (1993-10)(PressImage)(FR).pdf" size="104604310" crc="572e11e4" md5="d3e00e3c075e1ca19e243190b6f786e2" sha1="5a6a3a30789328ff479b91b41405c295c8435d5e"/>
+	</game>
+	<game name="Generation 4 - N.060 (1993-11)(PressImage)(FR)">
+		<description>Generation 4 - N.060 (1993-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.060 (1993-11)(PressImage)(FR).pdf" size="141215439" crc="5b9414a2" md5="7ec2f841459d0b8f94c8917db9a862f0" sha1="d6dafcdee18b2c8b35f9e687d2aa3bfa9eda8c63"/>
+	</game>
+	<game name="Generation 4 - N.061 (1993-12)(PressImage)(FR)">
+		<description>Generation 4 - N.061 (1993-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.061 (1993-12)(PressImage)(FR).pdf" size="146716115" crc="2daff372" md5="512ca9e828444e8861e66ec2f6db2d78" sha1="d29dbd8068a7ba689829c8d91cbf7647ddd45ee2"/>
+	</game>
+	<game name="Generation 4 - N.062 (1994-01)(PressImage)(FR)">
+		<description>Generation 4 - N.062 (1994-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.062 (1994-01)(PressImage)(FR).pdf" size="124497043" crc="ed85c538" md5="7c01cf6fb367d5b040963612a6cf1af6" sha1="a2cd85764e8986a5bc185e59fa4396c3f23773f4"/>
+	</game>
+	<game name="Generation 4 - N.063 (1994-02)(PressImage)(FR)">
+		<description>Generation 4 - N.063 (1994-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.063 (1994-02)(PressImage)(FR).pdf" size="63208590" crc="de71ad87" md5="42bfafb5e4f828dbf1bfbafcda046d5a" sha1="c736eeac27c4f543949c81000f24c87a05f2a132"/>
+	</game>
+	<game name="Generation 4 - N.064 (1994-03)(PressImage)(FR)">
+		<description>Generation 4 - N.064 (1994-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.064 (1994-03)(PressImage)(FR).pdf" size="114097234" crc="7c3b17a7" md5="ab28e3ed2f6ec09ab0ae534d153250aa" sha1="5b343d75ba1a12afe32ad1771c0e3b6d8bfded97"/>
+	</game>
+	<game name="Generation 4 - N.065 (1994-04)(PressImage)(FR)">
+		<description>Generation 4 - N.065 (1994-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.065 (1994-04)(PressImage)(FR).pdf" size="77858438" crc="f4ce53fe" md5="8cc7fa047ee08862f0331105bfbf72f9" sha1="8a29c0b9a059dbb9e8b75b2c911f68239eafab0f"/>
+	</game>
+	<game name="Generation 4 - N.066 (1994-05)(PressImage)(FR)">
+		<description>Generation 4 - N.066 (1994-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.066 (1994-05)(PressImage)(FR).pdf" size="77056935" crc="b394e72e" md5="b7616785ebacac8f231957f0ee5ed4cd" sha1="2a1a0f0276fbae40c4322ebb03785dcc66970fca"/>
+	</game>
+	<game name="Generation 4 - N.067 (1994-06)(PressImage)(FR)">
+		<description>Generation 4 - N.067 (1994-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.067 (1994-06)(PressImage)(FR).pdf" size="129640659" crc="7c7c436a" md5="4fb90225ea0911da7c983a953885d3ae" sha1="dae3ad9d2301836e8273b77b88936933fb22ef3d"/>
+	</game>
+	<game name="Generation 4 - N.069 (1994-09)(PressImage)(FR)">
+		<description>Generation 4 - N.069 (1994-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.069 (1994-09)(PressImage)(FR).pdf" size="77676715" crc="fa4ac4f3" md5="926e9eef95cad94ebfd7520efefdcf54" sha1="ba52b0ef7ab03e711f3a7bcef9d5139838354539"/>
+	</game>
+	<game name="Generation 4 - N.070 (1994-10)(PressImage)(FR)">
+		<description>Generation 4 - N.070 (1994-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.070 (1994-10)(PressImage)(FR).pdf" size="82606488" crc="e86b2510" md5="244232ad60e53659ddfbac9b1f1db880" sha1="6a5d76f26fb51f4e899409619b7112e69b7b6dc9"/>
+	</game>
+	<game name="Generation 4 - N.071 (1994-11)(PressImage)(FR)">
+		<description>Generation 4 - N.071 (1994-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.071 (1994-11)(PressImage)(FR).pdf" size="104710621" crc="d72d6c72" md5="8b4887b7e0eabac1cb3cd6c6b0f3702b" sha1="61857efff006b7b930af23cea9a0cdf81c1a564c"/>
+	</game>
+	<game name="Generation 4 - N.072 (1994-12)(PressImage)(FR)">
+		<description>Generation 4 - N.072 (1994-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.072 (1994-12)(PressImage)(FR).pdf" size="131568764" crc="345a9989" md5="cfb1fa7f1c998cb368100ee22d5a3b97" sha1="eb3c8b5e2621c0ee44d8a3f27e3380498fbce40b"/>
+	</game>
+	<game name="Generation 4 - N.073 (1995-01)(PressImage)(FR)">
+		<description>Generation 4 - N.073 (1995-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.073 (1995-01)(PressImage)(FR).pdf" size="86637355" crc="cf11f2b6" md5="9bd3014f03c265f86d50b0e352df26df" sha1="e933e8f38789b97673bb27e53091bd4d50ec33e0"/>
+	</game>
+	<game name="Generation 4 - N.074 (1995-02)(PressImage)(FR)">
+		<description>Generation 4 - N.074 (1995-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.074 (1995-02)(PressImage)(FR).pdf" size="73086582" crc="337463c7" md5="a0639cd616916fc7bcd5a36307b7f745" sha1="c13def590e4c88f846cc4c68fc69cdad42a4d532"/>
+	</game>
+	<game name="Generation 4 - N.075 (1995-03)(PressImage)(FR)">
+		<description>Generation 4 - N.075 (1995-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.075 (1995-03)(PressImage)(FR).pdf" size="108227737" crc="25484dba" md5="508fa793d3c4b61276cefd255e2e0cc0" sha1="be6ecf67622178458795dd7d6d24cc5fdcc577d5"/>
+	</game>
+	<game name="Generation 4 - N.076 (1995-04)(PressImage)(FR)">
+		<description>Generation 4 - N.076 (1995-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.076 (1995-04)(PressImage)(FR).pdf" size="103309778" crc="83f82b18" md5="2505d3091bba068ee29dd62ab797a006" sha1="9e7f67a2a48b9d7b80c8bb56b8b9eb43484f7a71"/>
+	</game>
+	<game name="Generation 4 - N.077 (1995-05)(PressImage)(FR)">
+		<description>Generation 4 - N.077 (1995-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.077 (1995-05)(PressImage)(FR).pdf" size="94094732" crc="70a3cef3" md5="913087349f34c3c479a0024a36e07147" sha1="4acf4d165bee32d2a5cd0e5639a194fd6e5c4698"/>
+	</game>
+	<game name="Generation 4 - N.078 (1995-06)(PressImage)(FR)">
+		<description>Generation 4 - N.078 (1995-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.078 (1995-06)(PressImage)(FR).pdf" size="59835049" crc="701e8f32" md5="7da611fd14040e39f18b0a8dfb7e9c42" sha1="3fa8e58ef5429972016fd26cbd872a1b5d2c5686"/>
+	</game>
+	<game name="Generation 4 - N.079 (1995-07)(PressImage)(FR)">
+		<description>Generation 4 - N.079 (1995-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.079 (1995-07)(PressImage)(FR).pdf" size="101647409" crc="319fe77e" md5="d9b9d32d7506a29ca041c14764b6d39e" sha1="a9304f60070f91b89c8d15e036ca6111d683f973"/>
+	</game>
+	<game name="Generation 4 - N.080 (1995-09)(PressImage)(FR)">
+		<description>Generation 4 - N.080 (1995-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.080 (1995-09)(PressImage)(FR).pdf" size="98338438" crc="253d047e" md5="91d53a18b169b52b73730db219f76e81" sha1="7b6ca8204ed1815bdb5f6908cb332b06deb50575"/>
+	</game>
+	<game name="Generation 4 - N.081 (1995-10)(PressImage)(FR)">
+		<description>Generation 4 - N.081 (1995-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.081 (1995-10)(PressImage)(FR).pdf" size="109633791" crc="1cd01ba8" md5="40eaee391af5385fb2753a2933bc6ea3" sha1="e6653ca9ccfc26ae5fd0355d66185c4826d555b0"/>
+	</game>
+	<game name="Generation 4 - N.082 (1995-11)(PressImage)(FR)">
+		<description>Generation 4 - N.082 (1995-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.082 (1995-11)(PressImage)(FR).pdf" size="108972120" crc="b779006c" md5="542eda1bc5631d22ffc4c9feedbd89fa" sha1="3099e2ae93fd140710568c10da6d63055a112564"/>
+	</game>
+	<game name="Generation 4 - N.083 (1995-12)(PressImage)(FR)">
+		<description>Generation 4 - N.083 (1995-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.083 (1995-12)(PressImage)(FR).pdf" size="121139282" crc="87519631" md5="b41916c29efa9b2e468971fa5ee39a8f" sha1="aa9e1a684427f33d4fd87d90bb878c3170972062"/>
+	</game>
+	<game name="Generation 4 - N.084 (1996-01)(PressImage)(FR)">
+		<description>Generation 4 - N.084 (1996-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.084 (1996-01)(PressImage)(FR).pdf" size="97791885" crc="17052901" md5="b7bdb8e7dc115a83bad5c7d905812b2f" sha1="00d05979e2c1e64ee770dea6ade7a0c80b5c6fff"/>
+	</game>
+	<game name="Generation 4 - N.085 (1996-02)(PressImage)(FR)">
+		<description>Generation 4 - N.085 (1996-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.085 (1996-02)(PressImage)(FR).pdf" size="117075908" crc="476d427f" md5="d185306fc3beec01bda303caedef53ee" sha1="50a374d276d47f5b84bbb7013cda25b270f205bb"/>
+	</game>
+	<game name="Generation 4 - N.086 (1996-03)(PressImage)(FR)">
+		<description>Generation 4 - N.086 (1996-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.086 (1996-03)(PressImage)(FR).pdf" size="92279799" crc="de18da25" md5="763901acd6b3db28afcb835835843785" sha1="cd54c07ee210d6e41c3086985c610bf0ae5545f1"/>
+	</game>
+	<game name="Generation 4 - N.087 (1996-04)(PressImage)(FR)">
+		<description>Generation 4 - N.087 (1996-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.087 (1996-04)(PressImage)(FR).pdf" size="101360943" crc="e3545a6b" md5="c306adbb031d5886b718357d76a57ebb" sha1="89abf371be2bbd7b653a956c19870c4ba5af29a9"/>
+	</game>
+	<game name="Generation 4 - N.088 (1996-05)(PressImage)(FR)">
+		<description>Generation 4 - N.088 (1996-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.088 (1996-05)(PressImage)(FR).pdf" size="61975358" crc="735711a8" md5="51eedf3d006ceff92c27e28bd8135272" sha1="80ad3292496e62904eb3fb78d2e2387ba1cd6505"/>
+	</game>
+	<game name="Generation 4 - N.089 (1996-06)(PressImage)(FR)">
+		<description>Generation 4 - N.089 (1996-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.089 (1996-06)(PressImage)(FR).pdf" size="131081499" crc="b830e4d1" md5="c813e435b223616a975b2819119e6d47" sha1="58e34a512aa64ba522956fec41ab472fe31c7c23"/>
+	</game>
+	<game name="Generation 4 - N.090 (1996-07)(PressImage)(FR)">
+		<description>Generation 4 - N.090 (1996-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.090 (1996-07)(PressImage)(FR).pdf" size="106753837" crc="7c8765a6" md5="11c93c21be3379e1092984bec2113f9f" sha1="acd92e985ae4f533423eff7bab38b3f64f02c10b"/>
+	</game>
+	<game name="Generation 4 - N.091 (1996-09)(PressImage)(FR)">
+		<description>Generation 4 - N.091 (1996-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.091 (1996-09)(PressImage)(FR).pdf" size="69504845" crc="bf5dc15a" md5="2c69fa538068d1813b9c6c6f9e816f6b" sha1="376ada739e9adab7329171973893a20382d02076"/>
+	</game>
+	<game name="Generation 4 - N.092 (1996-10)(PressImage)(FR)">
+		<description>Generation 4 - N.092 (1996-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.092 (1996-10)(PressImage)(FR).pdf" size="106553731" crc="3e6ac8d1" md5="b023e216efa283f0eb836c9dd2615b4e" sha1="4249aa390de586dcd1ee4599245d9947ffe51fc6"/>
+	</game>
+	<game name="Generation 4 - N.093 (1996-11)(PressImage)(FR)">
+		<description>Generation 4 - N.093 (1996-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.093 (1996-11)(PressImage)(FR).pdf" size="126327293" crc="97820f70" md5="3f826e90a88098f5fe855d377e53200c" sha1="227f2de796660ccd6ec3667f896ae73423605112"/>
+	</game>
+	<game name="Generation 4 - N.094 (1996-12)(PressImage)(FR)">
+		<description>Generation 4 - N.094 (1996-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.094 (1996-12)(PressImage)(FR).pdf" size="86889955" crc="3b6eada5" md5="4ecde42f724c2a9d560f84ad831a2fb4" sha1="31bfd137e4fba8766e2fa0917df5e3eed85530b5"/>
+	</game>
+	<game name="Generation 4 - N.095 (1997-01)(PressImage)(FR)">
+		<description>Generation 4 - N.095 (1997-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.095 (1997-01)(PressImage)(FR).pdf" size="111204479" crc="a3bc471c" md5="526c3b1502823a3d3967924b70f677d7" sha1="e9715be3e74a0b2f110df3667e300013a322d566"/>
+	</game>
+	<game name="Generation 4 - N.096 (1997-02)(PressImage)(FR)">
+		<description>Generation 4 - N.096 (1997-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.096 (1997-02)(PressImage)(FR).pdf" size="89984631" crc="aa904cd9" md5="e70650800e2f8cfdd2d7d98c3c20e9ba" sha1="96d0daad3c72f1dfeaa2f7b47afc5a02c20bb323"/>
+	</game>
+	<game name="Generation 4 - N.097 (1997-03)(PressImage)(FR)">
+		<description>Generation 4 - N.097 (1997-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.097 (1997-03)(PressImage)(FR).pdf" size="84704871" crc="dc711bbb" md5="2c04a600451964379fd7c46e87f95ae7" sha1="8a646bce013f55b49d280b4ab36223ef85b69f19"/>
+	</game>
+	<game name="Generation 4 - N.098 (1997-04)(PressImage)(FR)">
+		<description>Generation 4 - N.098 (1997-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.098 (1997-04)(PressImage)(FR).pdf" size="86946831" crc="35e14ea7" md5="f1015ee47c2067e9184826a993927a39" sha1="4ac0ab01ada18c2e67a18cd14eabf96a252afe93"/>
+	</game>
+	<game name="Generation 4 - N.099 (1997-05)(PressImage)(FR)">
+		<description>Generation 4 - N.099 (1997-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.099 (1997-05)(PressImage)(FR).pdf" size="90503336" crc="485f968d" md5="92a6463cc7930d30af397201e4d0ef9b" sha1="f9ea3bd9b8216b77e16b74d08c17d421de140921"/>
+	</game>
+	<game name="Generation 4 - N.099 (1997-05)(PressImage)(FR)[supplement Plan Soluce Pod]">
+		<description>Generation 4 - N.099 (1997-05)(PressImage)(FR)[supplement Plan Soluce Pod]</description>
+		<rom name="Generation 4 - N.099 (1997-05)(PressImage)(FR)[supplement Plan Soluce Pod].pdf" size="4855611" crc="ccdf56ef" md5="361ae25b1cc4f0a944bd1ec61c0f2660" sha1="ea413edf6c245a7d4d596806b9f9ce70341db437"/>
+	</game>
+	<game name="Generation 4 - N.100 (1997-06)(PressImage)(FR)">
+		<description>Generation 4 - N.100 (1997-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.100 (1997-06)(PressImage)(FR).pdf" size="157447884" crc="b22b47fd" md5="e642f91f034a2c63d7e1baf52d3f8310" sha1="81682c72e938416f570e2ff1faf515e61426d0d8"/>
+	</game>
+	<game name="Generation 4 - N.101 (1997-07)(PressImage)(FR)">
+		<description>Generation 4 - N.101 (1997-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.101 (1997-07)(PressImage)(FR).pdf" size="118234949" crc="85c8d23a" md5="cc6dee622f750a18d2ae0338649f0885" sha1="f81f0c9d97a71060c746ecb6c9ec78aaf1a485b9"/>
+	</game>
+	<game name="Generation 4 - N.102 (1997-09)(PressImage)(FR)">
+		<description>Generation 4 - N.102 (1997-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.102 (1997-09)(PressImage)(FR).pdf" size="122489874" crc="e9ba466e" md5="a944291d0f33513afc6eafcb07def6b4" sha1="499e9ce6859c3cba09a8e20ece8305609549e277"/>
+	</game>
+	<game name="Generation 4 - N.103 (1997-10)(PressImage)(FR)">
+		<description>Generation 4 - N.103 (1997-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.103 (1997-10)(PressImage)(FR).pdf" size="113932005" crc="ada96e78" md5="548b760d29df1369fcef6cbad7c67b46" sha1="5ac82d109375b3254661603d572e15d840505d63"/>
+	</game>
+	<game name="Generation 4 - N.104 (1997-11)(PressImage)(FR)">
+		<description>Generation 4 - N.104 (1997-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.104 (1997-11)(PressImage)(FR).pdf" size="156106169" crc="c8e684c7" md5="f102d81d7d82207a2ec5b1852eb11d32" sha1="ff52452870bfafcbc67f7abb19ef30a36458821c"/>
+	</game>
+	<game name="Generation 4 - N.105 (1997-12)(PressImage)(FR)">
+		<description>Generation 4 - N.105 (1997-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.105 (1997-12)(PressImage)(FR).pdf" size="173819615" crc="93864cea" md5="63b5fc8ff9903e21f3148d6c4a930e1c" sha1="51266e90d278eaa0abd72c978f78bd97c7ff6c23"/>
+	</game>
+	<game name="Generation 4 - N.106 (1998-01)(PressImage)(FR)">
+		<description>Generation 4 - N.106 (1998-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.106 (1998-01)(PressImage)(FR).pdf" size="123872692" crc="0b362006" md5="d7b53ada3fe9704e766c4f25bbfd721e" sha1="c6465eb30d89574977d46f2c188d6912e3c7ec2b"/>
+	</game>
+	<game name="Generation 4 - N.107 (1998-02)(PressImage)(FR)">
+		<description>Generation 4 - N.107 (1998-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.107 (1998-02)(PressImage)(FR).pdf" size="105754016" crc="e37b1882" md5="7237f5020678c6d24a4bdc00565e9b2f" sha1="f0f9749e0f3e5b05c8de0dd6695d94afa682833f"/>
+	</game>
+	<game name="Generation 4 - N.108 (1998-03)(PressImage)(FR)">
+		<description>Generation 4 - N.108 (1998-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.108 (1998-03)(PressImage)(FR).pdf" size="121707377" crc="4d1a6fae" md5="027472627bc58bcd6a4387318f2d39db" sha1="df98b7104ec690556ff630cdb192a0c0a4e863ae"/>
+	</game>
+	<game name="Generation 4 - N.109 (1998-04)(PressImage)(FR)">
+		<description>Generation 4 - N.109 (1998-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.109 (1998-04)(PressImage)(FR).pdf" size="107311838" crc="9fbca590" md5="405403489a82d231f40dbfb007d6d314" sha1="9b54772f534a1b9e0622a301ca0ab58e6a089e92"/>
+	</game>
+	<game name="Generation 4 - N.110 (1998-05)(PressImage)(FR)">
+		<description>Generation 4 - N.110 (1998-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.110 (1998-05)(PressImage)(FR).pdf" size="103504939" crc="b7d42df6" md5="57a935fce8c8fea9ae08f56b554c1b9b" sha1="0b154464f06c60459cd3bf5e3f2b067f04080944"/>
+	</game>
+	<game name="Generation 4 - N.111 (1998-06)(PressImage)(FR)">
+		<description>Generation 4 - N.111 (1998-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.111 (1998-06)(PressImage)(FR).pdf" size="107457423" crc="afcce13c" md5="7cdd2309ba8695e352566945d31b8bfa" sha1="1202ca87721c1d66a4fe01e2d3ab2e4126d30bf4"/>
+	</game>
+	<game name="Generation 4 - N.112 (1998-07)(PressImage)(FR)">
+		<description>Generation 4 - N.112 (1998-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.112 (1998-07)(PressImage)(FR).pdf" size="102088731" crc="0e2cfe45" md5="ae49f1a24a2d25312c48b9a091dd0c23" sha1="df497469d8d94c1cfb7b0d5fab748c2e41bfa33e"/>
+	</game>
+	<game name="Generation 4 - N.113 (1998-08)(PressImage)(FR)">
+		<description>Generation 4 - N.113 (1998-08)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.113 (1998-08)(PressImage)(FR).pdf" size="45584890" crc="81493266" md5="c1553880d10df744951607d173fe07f5" sha1="59da3a10cef31dcbdff97b757f9a35c984c2184c"/>
+	</game>
+	<game name="Generation 4 - N.114 (1998-09)(PressImage)(FR)">
+		<description>Generation 4 - N.114 (1998-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.114 (1998-09)(PressImage)(FR).pdf" size="83455513" crc="91e2aa3f" md5="6d7d03cd631bbbe11846dcfffe9b626f" sha1="5738a6207969822aefa2a3ba948ebc5a2157e383"/>
+	</game>
+	<game name="Generation 4 - N.115 (1998-10)(PressImage)(FR)">
+		<description>Generation 4 - N.115 (1998-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.115 (1998-10)(PressImage)(FR).pdf" size="97907560" crc="cbb7fbe4" md5="a00b3789721caee02be92f25841070f1" sha1="96aea774b219ba67803ccb72619a38c321fa8b53"/>
+	</game>
+	<game name="Generation 4 - N.116 (1998-11)(PressImage)(FR)">
+		<description>Generation 4 - N.116 (1998-11)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.116 (1998-11)(PressImage)(FR).pdf" size="121214373" crc="83ee853e" md5="8070e8909bb78650022d150ceeb73055" sha1="0da3a8f88517b058b7e32c3899302d629446ff54"/>
+	</game>
+	<game name="Generation 4 - N.117 (1998-12)(PressImage)(FR)">
+		<description>Generation 4 - N.117 (1998-12)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.117 (1998-12)(PressImage)(FR).pdf" size="142436468" crc="0df05846" md5="006ab0ca1a56ef183c0b60d7b8b21b59" sha1="f37d7d7994a58355e9d98b8734ba2c115a88cc94"/>
+	</game>
+	<game name="Generation 4 - N.118 (1999-01)(PressImage)(FR)">
+		<description>Generation 4 - N.118 (1999-01)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.118 (1999-01)(PressImage)(FR).pdf" size="122102552" crc="53a4ea56" md5="e4724569fa193b23e8cad87f91d9842e" sha1="07185c07d9e69a6b29b79ac710596d0a1c9ef439"/>
+	</game>
+	<game name="Generation 4 - N.119 (1999-02)(PressImage)(FR)">
+		<description>Generation 4 - N.119 (1999-02)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.119 (1999-02)(PressImage)(FR).pdf" size="102681706" crc="4ecc0afe" md5="7f5038f98e515235ec80d3cc3a5f181a" sha1="fb07296d2cc3b46d4ef572a06b9541ee1aa53da4"/>
+	</game>
+	<game name="Generation 4 - N.120 (1999-03)(PressImage)(FR)">
+		<description>Generation 4 - N.120 (1999-03)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.120 (1999-03)(PressImage)(FR).pdf" size="107970929" crc="abd309d7" md5="3b592131351b167aab0399e3db7ba65e" sha1="c391b82a36600880c9a4adb5edce7a36dea0b66a"/>
+	</game>
+	<game name="Generation 4 - N.121 (1999-04)(PressImage)(FR)">
+		<description>Generation 4 - N.121 (1999-04)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.121 (1999-04)(PressImage)(FR).pdf" size="126013511" crc="c67c0da0" md5="d59f1f8e0157835e38f441d631fa02a5" sha1="68147e50deb071eca106bb4acc823f912eb6d259"/>
+	</game>
+	<game name="Generation 4 - N.122 (1999-05)(PressImage)(FR)">
+		<description>Generation 4 - N.122 (1999-05)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.122 (1999-05)(PressImage)(FR).pdf" size="117156160" crc="f57f413f" md5="3e98156b9986a1ae17f3cd43e1e94a2b" sha1="c077b9beee5c5bc5b45674bc3c10bdf4c0717e43"/>
+	</game>
+	<game name="Generation 4 - N.123 (1999-06)(PressImage)(FR)">
+		<description>Generation 4 - N.123 (1999-06)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.123 (1999-06)(PressImage)(FR).pdf" size="113117583" crc="848e01d6" md5="e53f437fcaf26eb5c9f7e19319f761a7" sha1="52f33b722b4b67abfa7f4eb6ed4786f5adf141e6"/>
+	</game>
+	<game name="Generation 4 - N.124 (1999-07)(PressImage)(FR)">
+		<description>Generation 4 - N.124 (1999-07)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.124 (1999-07)(PressImage)(FR).pdf" size="110416760" crc="a5ac81d4" md5="2a58b69b50aea3338041d3002fc1b7ef" sha1="cd3bd71ec3f725da8b1d391c015041b88f595322"/>
+	</game>
+	<game name="Generation 4 - N.125 (1999-08)(PressImage)(FR)">
+		<description>Generation 4 - N.125 (1999-08)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.125 (1999-08)(PressImage)(FR).pdf" size="86170906" crc="fbf5466a" md5="d4c478da00146ca3252323d3a4228a56" sha1="47e8248b0a7b855deac3747df9837699ab3a64d1"/>
+	</game>
+	<game name="Generation 4 - N.126 (1999-09)(PressImage)(FR)">
+		<description>Generation 4 - N.126 (1999-09)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.126 (1999-09)(PressImage)(FR).pdf" size="94971584" crc="7fb3e227" md5="fff3dee96a2c87a89ce945deb92bccb5" sha1="1b8d1316cd62c05f595c303dc175835448f3e989"/>
+	</game>
+	<game name="Generation 4 - N.127 (1999-10)(PressImage)(FR)">
+		<description>Generation 4 - N.127 (1999-10)(PressImage)(FR)</description>
+		<rom name="Generation 4 - N.127 (1999-10)(PressImage)(FR).pdf" size="94425740" crc="1a442094" md5="88eb2d0d1daa53a606b13d5e5f493528" sha1="5618fc626b4b1f0ab7f214e2c17cf46993cad870"/>
+	</game>
+	<game name="Generation 4 - N.128 (1999-11)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.128 (1999-11)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.128 (1999-11)(Computec PressImage)(FR).pdf" size="101662098" crc="aaeec770" md5="7c03356e2d1b16508504a24e41c7fe0d" sha1="3207f84ec2613a066634b79c141bac6ee7e41f05"/>
+	</game>
+	<game name="Generation 4 - N.129 (1999-12)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.129 (1999-12)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.129 (1999-12)(Computec PressImage)(FR).pdf" size="119764192" crc="3e68dafb" md5="a01f1c2631b58ad8cc9206f94f33ff30" sha1="9c6d658d4dacefa50893bc45932dec5b552c679f"/>
+	</game>
+	<game name="Generation 4 - N.130 (2000-01)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.130 (2000-01)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.130 (2000-01)(Computec PressImage)(FR).pdf" size="411910020" crc="a6b1befe" md5="8295ccc7bbd58470132622e2bd08ec43" sha1="02c7fcfbc76138b4e89d4cc83b606353c99d4a27"/>
+	</game>
+	<game name="Generation 4 - N.131 (2000-02)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.131 (2000-02)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.131 (2000-02)(Computec PressImage)(FR).pdf" size="95248743" crc="bddf1c8e" md5="3c0ef35101d52ae2af11142d78605843" sha1="2fad307661192dfa47f55ccd1f5b92994f4b2fad"/>
+	</game>
+	<game name="Generation 4 - N.132 (2000-03)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.132 (2000-03)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.132 (2000-03)(Computec PressImage)(FR).pdf" size="87815382" crc="e0df49c7" md5="85dfcc12fc3f7cdfcddf65fa9f108c22" sha1="24d33b483683877265979b0e13949a02ed8751c9"/>
+	</game>
+	<game name="Generation 4 - N.133 (2000-04)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.133 (2000-04)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.133 (2000-04)(Computec PressImage)(FR).pdf" size="87923485" crc="d40e8ad1" md5="178fe82c0d9f1137d3d6d2f11e40098f" sha1="49d84fd9dc7ef8df418194f4ed5b92f14a326ee0"/>
+	</game>
+	<game name="Generation 4 - N.134 (2000-05)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.134 (2000-05)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.134 (2000-05)(Computec PressImage)(FR).pdf" size="86555616" crc="772a2af2" md5="4ac4070cdaad7919f58f5cb2c8091fc2" sha1="b3c67d057100f6c5e580d5ceba74e0bb25cf1691"/>
+	</game>
+	<game name="Generation 4 - N.135 (2000-06)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.135 (2000-06)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.135 (2000-06)(Computec PressImage)(FR).pdf" size="82201465" crc="bc85456c" md5="bdbe15b29519041bfb615b0b3262624d" sha1="c6a9ab39c939c5fbedf12154bdefb805dba2ba4f"/>
+	</game>
+	<game name="Generation 4 - N.136 (2000-07)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.136 (2000-07)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.136 (2000-07)(Computec PressImage)(FR).pdf" size="89331065" crc="0704ecbc" md5="f6ff4b6304770ad919ad31dc32819a1a" sha1="2cb83738674019df772de5a89450c2808c4f0608"/>
+	</game>
+	<game name="Generation 4 - N.137 (2000-09)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.137 (2000-09)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.137 (2000-09)(Computec PressImage)(FR).pdf" size="95508325" crc="fe5d5ba5" md5="df3c62a605e2883031179775216cab05" sha1="c9943a86b5bff20cd6c6375e4dd7e7252c2702fb"/>
+	</game>
+	<game name="Generation 4 - N.138 (2000-09)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.138 (2000-09)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.138 (2000-09)(Computec PressImage)(FR).pdf" size="81147780" crc="6d7c220c" md5="6783b222408998c2dae084f28ccc0c92" sha1="dd94f1837aa4dd07dea9d4dec4bc81f1a800f86c"/>
+	</game>
+	<game name="Generation 4 - N.139 (2000-10)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.139 (2000-10)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.139 (2000-10)(Computec PressImage)(FR).pdf" size="104184385" crc="ae4852fa" md5="5e056d9428e248f93f3cee5c3184a08b" sha1="cc7a95a1996656b57ffb76cf832dde39eea5a4aa"/>
+	</game>
+	<game name="Generation 4 - N.140 (2000-11)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.140 (2000-11)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.140 (2000-11)(Computec PressImage)(FR).pdf" size="129416268" crc="2dabc4bb" md5="b2555054a40bfe7f8b05d7a9bcda15e5" sha1="30a49c7f35447182fa451f0ae5a535a933ac6d88"/>
+	</game>
+	<game name="Generation 4 - N.141 (2000-12)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.141 (2000-12)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.141 (2000-12)(Computec PressImage)(FR).pdf" size="98106527" crc="da9bd8b1" md5="41387e990ad0749620d44526b72b2b60" sha1="9753092a06dbbac56e6b600a1eea28d160c17993"/>
+	</game>
+	<game name="Generation 4 - N.142 (2001-02)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.142 (2001-02)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.142 (2001-02)(Computec PressImage)(FR).pdf" size="81725616" crc="c98f78cc" md5="9869e05d92a640c2b5e9bab9007ec268" sha1="c813d4b5a4ed02676d68661e881eda0dbb9befaf"/>
+	</game>
+	<game name="Generation 4 - N.143 (2001-03)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.143 (2001-03)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.143 (2001-03)(Computec PressImage)(FR).pdf" size="81737504" crc="a9427fa9" md5="0ed1db177b3bba2a73d7581c945858a5" sha1="bb1db8044af18e692aa141faa7759436cc31646d"/>
+	</game>
+	<game name="Generation 4 - N.144 (2001-04)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.144 (2001-04)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.144 (2001-04)(Computec PressImage)(FR).pdf" size="84398168" crc="db0b5c7f" md5="ae62bb862b8e233f414dfd77334b716b" sha1="38e7813d28339bff0ad54be979583b084f3906f6"/>
+	</game>
+	<game name="Generation 4 - N.145 (2001-05)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.145 (2001-05)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.145 (2001-05)(Computec PressImage)(FR).pdf" size="76197956" crc="7124c80a" md5="4d2b0e471ecb79731d55a421a40ae68c" sha1="0a486f5f2ec7e6dc7d7ba9482c342053169ed758"/>
+	</game>
+	<game name="Generation 4 - N.146 (2001-06)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.146 (2001-06)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.146 (2001-06)(Computec PressImage)(FR).pdf" size="85855784" crc="6503c500" md5="ee1a62f6ed1221dfd4db9208f771049e" sha1="ca039b75d6b4aa883272d662b90374253777da1f"/>
+	</game>
+	<game name="Generation 4 - N.147 (2001-07)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.147 (2001-07)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.147 (2001-07)(Computec PressImage)(FR).pdf" size="95353528" crc="34f7a5c1" md5="0d97b807afbc24114dee9a4a59d75716" sha1="021f51800ec43aca123f43450918a3aaa5c5b292"/>
+	</game>
+	<game name="Generation 4 - N.148 (2001-09)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.148 (2001-09)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.148 (2001-09)(Computec PressImage)(FR).pdf" size="82673470" crc="e19a652b" md5="c28197a947650b51851599d75585be1d" sha1="e8c3367e7d1d275cdf1ce5bf61b28390c185a5c4"/>
+	</game>
+	<game name="Generation 4 - N.149 (2001-10)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.149 (2001-10)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.149 (2001-10)(Computec PressImage)(FR).pdf" size="82255634" crc="4fba6c7d" md5="f7a9988c1a263fe1ff97a7c6273e0e0c" sha1="08f0834d02295cb78ee766f8c4da980185451b9c"/>
+	</game>
+	<game name="Generation 4 - N.150 (2001-11)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.150 (2001-11)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.150 (2001-11)(Computec PressImage)(FR).pdf" size="78227561" crc="6127803a" md5="27145015984f611a2c12b928aec55734" sha1="b058e004f7350221127c7501d7c2c8178d3561fc"/>
+	</game>
+	<game name="Generation 4 - N.151 (2001-12)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.151 (2001-12)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.151 (2001-12)(Computec PressImage)(FR).pdf" size="105386862" crc="9a806803" md5="ec5918c08b2d443a896eb5b1b56d5e22" sha1="c4786aa62eec4198d971d3fbe6e4ad3c35b3f465"/>
+	</game>
+	<game name="Generation 4 - N.152 (2002-01)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.152 (2002-01)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.152 (2002-01)(Computec PressImage)(FR).pdf" size="67246596" crc="b552e7fa" md5="844ed74c6b97415344c50cd65c1edc94" sha1="9b6ed5ba08b8afbbf9997e114c5e086958aeb582"/>
+	</game>
+	<game name="Generation 4 - N.153 (2002-03)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.153 (2002-03)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.153 (2002-03)(Computec PressImage)(FR).pdf" size="82491035" crc="53b21ae3" md5="46f55fdce8df230e602e9faffa0f1b1f" sha1="7ae07f1c3b7a1d61a00dfe4849b5907cff7bb8ae"/>
+	</game>
+	<game name="Generation 4 - N.155 (2002-05)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.155 (2002-05)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.155 (2002-05)(Computec PressImage)(FR).pdf" size="66849359" crc="426f8b8f" md5="7786631c4c2b039e913a87cd0bac0148" sha1="45315cfe7e68cbd01e2a5fc4b1ffad9d65d94a91"/>
+	</game>
+	<game name="Generation 4 - N.159 (2002-10)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.159 (2002-10)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.159 (2002-10)(Computec PressImage)(FR).pdf" size="134630836" crc="393b3163" md5="b01a22f246344b46265f474708a1986c" sha1="57cee1ab3aa345d8ee262c90e4db8f91d885f1da"/>
+	</game>
+	<game name="Generation 4 - N.167 (2003-06)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.167 (2003-06)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.167 (2003-06)(Computec PressImage)(FR).pdf" size="120241126" crc="6847a129" md5="ebacc009a4798f046447f1219e16832f" sha1="ce6ca52f6560b7d910739475b205fe222db36b0f"/>
+	</game>
+	<game name="Generation 4 - N.170 (2003-10)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.170 (2003-10)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.170 (2003-10)(Computec PressImage)(FR).pdf" size="138086928" crc="0a70b230" md5="5d9eb2a3bfb8a828aab8cc8d05539627" sha1="54cb1633ed1386228e084e99df6e9cd9f149361d"/>
+	</game>
+	<game name="Generation 4 - N.179 (2004-07)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.179 (2004-07)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.179 (2004-07)(Computec PressImage)(FR).pdf" size="155004039" crc="acc889b9" md5="07c6411b0fe295fff54de5ff39a6bdd3" sha1="bb2a0d05130c4bae06ca446c7f1c90813f8089c2"/>
+	</game>
+	<game name="Generation 4 - N.180 (2004-09)(Computec PressImage)(FR)">
+		<description>Generation 4 - N.180 (2004-09)(Computec PressImage)(FR)</description>
+		<rom name="Generation 4 - N.180 (2004-09)(Computec PressImage)(FR).pdf" size="16990437" crc="58e67200" md5="71bc9caade16f2749dda5445911c7628" sha1="e417b3b3064176a579fa5920983210e0969a8a4e"/>
+	</game>
+</datafile>

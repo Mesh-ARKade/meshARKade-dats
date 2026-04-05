@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - NOURS (JP)</name>
+		<description>Multi-format - Magazines - NOURS (JP) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="NOURS Magazine - Issue 01 (1993-07-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 01 (1993-07-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 01 (1993-07-30)(Namco)(JP).pdf" size="155942587" crc="4d5d90ab" md5="6128fd38c56ad92bc52c59ed39530e5e" sha1="ceec3ba16777b5b56d315b3685dea0b77461daf4"/>
+	</game>
+	<game name="NOURS Magazine - Issue 02 (1993-11-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 02 (1993-11-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 02 (1993-11-30)(Namco)(JP).pdf" size="127127906" crc="87cf6b81" md5="9799b8e4dadad440c64203578ae2a300" sha1="c43f8225382c3ae6d4c9ece637914c3c0b758900"/>
+	</game>
+	<game name="NOURS Magazine - Issue 03 (1994-03-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 03 (1994-03-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 03 (1994-03-31)(Namco)(JP).pdf" size="106301334" crc="c67418be" md5="2c919c3785e1377aebd3e0a5e22008c4" sha1="d31ca1d08587642024a7943dacab0e0e71b8dc85"/>
+	</game>
+	<game name="NOURS Magazine - Issue 04 (1994-05-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 04 (1994-05-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 04 (1994-05-31)(Namco)(JP).pdf" size="111342392" crc="810e1f5e" md5="539e9151f9b7c48cd32aeef5d5d13beb" sha1="d1c573b773e943839152f378ae63c8fbef665787"/>
+	</game>
+	<game name="NOURS Magazine - Issue 05 (1994-08-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 05 (1994-08-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 05 (1994-08-31)(Namco)(JP).pdf" size="109603824" crc="9cd745d9" md5="8293686eb40b508d040e0a962c87afef" sha1="f26e1b476b4f40d3feef6f3686aeaa5d22667bd8"/>
+	</game>
+	<game name="NOURS Magazine - Issue 06 (1994-11-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 06 (1994-11-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 06 (1994-11-30)(Namco)(JP).pdf" size="107994395" crc="f6d093e3" md5="14e5eb4c264b4fba8523e9aaabb1619d" sha1="95705d5738cbcce1be9d4bc79412e39ec35b7ac5"/>
+	</game>
+	<game name="NOURS Magazine - Issue 07 (1995-03-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 07 (1995-03-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 07 (1995-03-31)(Namco)(JP).pdf" size="108439920" crc="0d587a61" md5="200acc78f60df74b7048fc8f39e407b1" sha1="ce5057e9a8cc428f3574379da3404a8f73ddda4f"/>
+	</game>
+	<game name="NOURS Magazine - Issue 08 (1995-05-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 08 (1995-05-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 08 (1995-05-31)(Namco)(JP).pdf" size="118686965" crc="6b9da854" md5="e5b375d0c865eeee21a1f54eb25a2eda" sha1="4019a35a45834e87302136c985a880d3c1f3aa56"/>
+	</game>
+	<game name="NOURS Magazine - Issue 09 (1995-08-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 09 (1995-08-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 09 (1995-08-31)(Namco)(JP).pdf" size="124442699" crc="fbf63769" md5="9067c352a153cb604cb1ae4b097fd985" sha1="8e37de4d127a1e1a11bb99969ac63c731dd37182"/>
+	</game>
+	<game name="NOURS Magazine - Issue 10 (1995-11-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 10 (1995-11-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 10 (1995-11-30)(Namco)(JP).pdf" size="126538346" crc="c6a6dc80" md5="bb0511a2bf71a7776b95b7f87d6a59fa" sha1="9d62fd549efefff91ebf6e32433ebbe61c8668b0"/>
+	</game>
+	<game name="NOURS Magazine - Issue 11 (1996-03-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 11 (1996-03-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 11 (1996-03-31)(Namco)(JP).pdf" size="127864564" crc="896ae895" md5="a2a0f27ef08ba6ae76c619845e7b5e64" sha1="b470ce7ca2d067f808b4b41d962173cdd82932f9"/>
+	</game>
+	<game name="NOURS Magazine - Issue 12 (1996-05-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 12 (1996-05-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 12 (1996-05-31)(Namco)(JP).pdf" size="119378126" crc="cdf46006" md5="4ff2ccf13151089f7d763e3f53951aff" sha1="5762fe897094d9ff7466e9a516a9ba053c5e95d4"/>
+	</game>
+	<game name="NOURS Magazine - Issue 13 (1996-08-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 13 (1996-08-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 13 (1996-08-31)(Namco)(JP).pdf" size="130593251" crc="b733c9fb" md5="6a4e26bff9962b1786f3b9d99b00dd66" sha1="61946c9875eb189a6fbc76a79490050c59fc0b8c"/>
+	</game>
+	<game name="NOURS Magazine - Issue 14 (1996-11-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 14 (1996-11-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 14 (1996-11-30)(Namco)(JP).pdf" size="111505392" crc="00cfc629" md5="ee706493116c9fe5b9e731c1425158f6" sha1="f715c136760d7f7207cc01cdc351114da2c38663"/>
+	</game>
+	<game name="NOURS Magazine - Issue 15 (1997-03-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 15 (1997-03-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 15 (1997-03-31)(Namco)(JP).pdf" size="112973158" crc="b77c1f5a" md5="b5d1110ec83c39a75662c36321e530bd" sha1="01a810ba6eb784fbd16c082d953de1919e3955fd"/>
+	</game>
+	<game name="NOURS Magazine - Issue 16 (1997-05-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 16 (1997-05-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 16 (1997-05-30)(Namco)(JP).pdf" size="132724093" crc="5dfdb385" md5="b2ee81333d48dfc6f3d4caed9c08456e" sha1="79f9e735cdd97962a7ec7ebd48498af9ad495037"/>
+	</game>
+	<game name="NOURS Magazine - Issue 17 (1997-08-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 17 (1997-08-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 17 (1997-08-31)(Namco)(JP).pdf" size="137191313" crc="cc019ee3" md5="218b7bf9322414885f13e672ec35378d" sha1="168c3ead29b826182f5c7352d43f6e2f27810552"/>
+	</game>
+	<game name="NOURS Magazine - Issue 18 (1997-11-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 18 (1997-11-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 18 (1997-11-30)(Namco)(JP).pdf" size="137029592" crc="034de282" md5="4ee4f91b111ed97f19de19ef1e894e4b" sha1="90e915853c18501a3a16a795c1fad851f208b04e"/>
+	</game>
+	<game name="NOURS Magazine - Issue 19 (1998-03-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 19 (1998-03-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 19 (1998-03-31)(Namco)(JP).pdf" size="136891366" crc="12fc9dd8" md5="bc899dc947b453933e5e25e9c73ba496" sha1="c38e438afca5bbc78cbec26a86695e911593dc3b"/>
+	</game>
+	<game name="NOURS Magazine - Issue 20 (1998-05-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 20 (1998-05-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 20 (1998-05-30)(Namco)(JP).pdf" size="134149860" crc="f2c24db6" md5="49df1a353ea84933bf8b9e95a2b87409" sha1="7365544164a45de1e6db396833dfbc4245e4bcc7"/>
+	</game>
+	<game name="NOURS Magazine - Issue 21 (1998-08-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 21 (1998-08-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 21 (1998-08-30)(Namco)(JP).pdf" size="127091921" crc="000a10cf" md5="6def28c3fef425de1bd8ac254275e605" sha1="2e5087c9e73598966d9669c2860c2f872e532e2b"/>
+	</game>
+	<game name="NOURS Magazine - Issue 22 (1998-11-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 22 (1998-11-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 22 (1998-11-30)(Namco)(JP).pdf" size="137575701" crc="55f0de98" md5="0eb5be0d03c48c61b626a0f3f5778103" sha1="57c746cd69352ff0d1422edf7c3adfefceeb34cf"/>
+	</game>
+	<game name="NOURS Magazine - Issue 23 (1999-03-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 23 (1999-03-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 23 (1999-03-31)(Namco)(JP).pdf" size="112410289" crc="6256eaca" md5="1a1821b876f1b11bd11ad9c1ec02f3d7" sha1="b15c686ac231f672833ecf95c622a41de8a9764c"/>
+	</game>
+	<game name="NOURS Magazine - Issue 24 (1999-05-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 24 (1999-05-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 24 (1999-05-31)(Namco)(JP).pdf" size="132832360" crc="75af928a" md5="587c78686e8a48fab31d6ee83052976d" sha1="ab2ec9cfed968c6f30b0073363cf2f50729b2bb0"/>
+	</game>
+	<game name="NOURS Magazine - Issue 25 (1999-08-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 25 (1999-08-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 25 (1999-08-31)(Namco)(JP).pdf" size="129148477" crc="aa90d504" md5="2c6e095a24d5003e5b26c943e44a83de" sha1="cd2e62756e92b38f2f97d3851ed9efeae6794890"/>
+	</game>
+	<game name="NOURS Magazine - Issue 26 (1999-11-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 26 (1999-11-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 26 (1999-11-30)(Namco)(JP).pdf" size="128277880" crc="7911404c" md5="f3d3cc3dc1d9aa503b7c97ce3d470e3d" sha1="de56cab5a717e5b22c06c78423d7904a4ea58ce8"/>
+	</game>
+	<game name="NOURS Magazine - Issue 27 (2000-03-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 27 (2000-03-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 27 (2000-03-31)(Namco)(JP).pdf" size="129891638" crc="956d75c5" md5="a8041cd9a9a10baad79f63ed55a3533b" sha1="2cc07537a6c916065f128d4ad5fd40da248cedc4"/>
+	</game>
+	<game name="NOURS Magazine - Issue 28 (2000-05-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 28 (2000-05-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 28 (2000-05-31)(Namco)(JP).pdf" size="87512824" crc="6f0c9f9e" md5="c21ba8dbf4863bcb73b1d7d9da82c23c" sha1="18781d96cc250d258b3ac85095c649a3167e888f"/>
+	</game>
+	<game name="NOURS Magazine - Issue 29 (2000-07-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 29 (2000-07-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 29 (2000-07-31)(Namco)(JP).pdf" size="91044937" crc="9d3be782" md5="5403204af1a7ce2f0cd99811afb0a582" sha1="d568da92a5d74a24400d93b0d6f2931ef44a694f"/>
+	</game>
+	<game name="NOURS Magazine - Issue 30 (2000-09-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 30 (2000-09-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 30 (2000-09-30)(Namco)(JP).pdf" size="125028251" crc="673f6a97" md5="614b01e2f43e14057609208782c3f23c" sha1="c9afb5c88810aa9634d794b77eb46a86a0557bc7"/>
+	</game>
+	<game name="NOURS Magazine - Issue 31 (2000-11-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 31 (2000-11-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 31 (2000-11-30)(Namco)(JP).pdf" size="127973715" crc="e82ec9d8" md5="a344203b897fef716f7d99f96be4d4f8" sha1="f802a388691701429a3ee32367d67f1b2c3e9e78"/>
+	</game>
+	<game name="NOURS Magazine - Issue 32 (2001-03-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 32 (2001-03-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 32 (2001-03-31)(Namco)(JP).pdf" size="135563381" crc="5ffd707e" md5="33dce831e88446cb1c514823d8049509" sha1="f7efc7ad5c1435f06ca816b9d68d9f78bea5bcc1"/>
+	</game>
+	<game name="NOURS Magazine - Issue 33 (2001-06-20)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 33 (2001-06-20)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 33 (2001-06-20)(Namco)(JP).pdf" size="116011841" crc="056a595c" md5="739cbeb25b6a15ad5332243851f1d87a" sha1="ea38e2acabd11d12d6c41940e404d72c6911bb7d"/>
+	</game>
+	<game name="NOURS Magazine - Issue 34 (2001-09-20)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 34 (2001-09-20)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 34 (2001-09-20)(Namco)(JP).pdf" size="115353749" crc="9c79b58d" md5="5fcf36935f5e6d99b408fdcf994f34d4" sha1="22cf4997dbaeaedd15f14837afc1357105b903b9"/>
+	</game>
+	<game name="NOURS Magazine - Issue 35 (2001-11-20)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 35 (2001-11-20)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 35 (2001-11-20)(Namco)(JP).pdf" size="127674288" crc="985e13f8" md5="3de867e020c203e7b60a1fd59a4977b9" sha1="22684795a0e9381938d6b79aa2ff6881e55e8d23"/>
+	</game>
+	<game name="NOURS Magazine - Issue 36 (2002-03-20)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 36 (2002-03-20)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 36 (2002-03-20)(Namco)(JP).pdf" size="123306150" crc="275c73ad" md5="a326dc88a9cf2317b59b0fac5f0950ce" sha1="05a99bfd40d4599fcdd54f5687f09ac8ebd901b4"/>
+	</game>
+	<game name="NOURS Magazine - Issue 37 (2002-06-20)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 37 (2002-06-20)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 37 (2002-06-20)(Namco)(JP).pdf" size="136832718" crc="8870c962" md5="d7a69b6dffb7f3e4b1d382d3aade512a" sha1="fa7e85b0d910de235c1dd183b7f219c9c87d0ab1"/>
+	</game>
+	<game name="NOURS Magazine - Issue 38 (2002-09-20)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 38 (2002-09-20)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 38 (2002-09-20)(Namco)(JP).pdf" size="132522415" crc="64140002" md5="046234315c7e492a8bc6a9b73634f465" sha1="0f3c4a045de1439a09fe13e43dd8d5df863d52cd"/>
+	</game>
+	<game name="NOURS Magazine - Issue 39 (2002-11-21)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 39 (2002-11-21)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 39 (2002-11-21)(Namco)(JP).pdf" size="120461319" crc="37997770" md5="2d1b56091197a4cc8b865cdbcb7517e7" sha1="4b4fdd915513c3f15fd775d5dab0fcb1f4173761"/>
+	</game>
+	<game name="NOURS Magazine - Issue 40 (2003-03-28)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 40 (2003-03-28)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 40 (2003-03-28)(Namco)(JP).pdf" size="137905788" crc="9169f614" md5="041a4b21cf7fb00c11cfa880bc3d28c9" sha1="64f42e710bffee721c1939cb40700451037fb1a9"/>
+	</game>
+	<game name="NOURS Magazine - Issue 41 (2003-06-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 41 (2003-06-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 41 (2003-06-30)(Namco)(JP).pdf" size="117981441" crc="8e857368" md5="ddea5e40b781a4dd79ce5774e291277c" sha1="c8d1c559e85f85714c959d1973ed3faf8d82b7e1"/>
+	</game>
+	<game name="NOURS Magazine - Issue 42 (2003-09-25)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 42 (2003-09-25)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 42 (2003-09-25)(Namco)(JP).pdf" size="130114956" crc="1ddf34fd" md5="fb2a6c205a87033b074780fadda51c73" sha1="1352105174406113cddb2bffc31cbd9bc3a6dc1e"/>
+	</game>
+	<game name="NOURS Magazine - Issue 43 (2003-12-01)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 43 (2003-12-01)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 43 (2003-12-01)(Namco)(JP).pdf" size="101041295" crc="3efd4e39" md5="fe99cbcb1a49b8566c8105332d2b0eac" sha1="b6dc880134b81dc4bd14b4eb4f1e86b60e4c496b"/>
+	</game>
+	<game name="NOURS Magazine - Issue 44 (2004-03-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 44 (2004-03-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 44 (2004-03-31)(Namco)(JP).pdf" size="121518321" crc="8059d457" md5="fb52e204aca42b13f8ffc636a6e3e11b" sha1="12af9facd6979980721ad21f124d0be4c78a11e3"/>
+	</game>
+	<game name="NOURS Magazine - Issue 45 (2004-06-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 45 (2004-06-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 45 (2004-06-30)(Namco)(JP).pdf" size="126866454" crc="a1cbb85b" md5="27b94b8d309771feb03984c70a327c59" sha1="6cd22e3f19925602e8adcd94376b6374efcdafa8"/>
+	</game>
+	<game name="NOURS Magazine - Issue 46 (2004-09-24)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 46 (2004-09-24)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 46 (2004-09-24)(Namco)(JP).pdf" size="135932301" crc="b263cea4" md5="fb6f931245257490f6195cf4d4275d7c" sha1="fce1b3a037b5322ba796dc10e91e800b62b76c70"/>
+	</game>
+	<game name="NOURS Magazine - Issue 47 (2004-12-01)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 47 (2004-12-01)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 47 (2004-12-01)(Namco)(JP).pdf" size="143162726" crc="945d646a" md5="6754af90c6e7769e4966a07b34a41839" sha1="95d488391916d1edc803ecc137a12b1ff3bc1edc"/>
+	</game>
+	<game name="NOURS Magazine - Issue 48 (2005-03-31)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 48 (2005-03-31)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 48 (2005-03-31)(Namco)(JP).pdf" size="143010484" crc="41845db9" md5="11116a3b4c74e06dd396c18eae69785e" sha1="e04cbc4ee5c6faf5f5ded90769dd033dc64ae3e0"/>
+	</game>
+	<game name="NOURS Magazine - Issue 49 (2005-06-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 49 (2005-06-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 49 (2005-06-30)(Namco)(JP).pdf" size="152038273" crc="ee55531b" md5="073b44579107cb384ebe988e70325420" sha1="13c9dc10af38b9644ed712e0729beeb1865f2c23"/>
+	</game>
+	<game name="NOURS Magazine - Issue 50 (2005-09-16)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 50 (2005-09-16)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 50 (2005-09-16)(Namco)(JP).pdf" size="162339108" crc="b6465e2a" md5="c372b712dc4105d3e09c3baeef4e7c27" sha1="255018c629a7dd6ce6b0fcf5d828f2c39e2c7097"/>
+	</game>
+	<game name="NOURS Magazine - Issue 51 (2005-12-02)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 51 (2005-12-02)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 51 (2005-12-02)(Namco)(JP).pdf" size="142066957" crc="3c1c466e" md5="2f3dce9b37f3a0478aeb776cd7087041" sha1="f324435bedc15862e2512b21d2ee14ceedbc7ffb"/>
+	</game>
+	<game name="NOURS Magazine - Issue 52 (2006-03-30)(Namco)(JP)">
+		<description>NOURS Magazine - Issue 52 (2006-03-30)(Namco)(JP)</description>
+		<rom name="NOURS Magazine - Issue 52 (2006-03-30)(Namco)(JP).pdf" size="155529134" crc="43250969" md5="cb2a3e9360a28a2401acea1d5ecd0283" sha1="4fa467272e209910f3c8b2226e9a8056d3783204"/>
+	</game>
+</datafile>

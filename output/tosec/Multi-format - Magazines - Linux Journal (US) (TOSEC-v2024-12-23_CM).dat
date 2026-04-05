@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Linux Journal (US)</name>
+		<description>Multi-format - Magazines - Linux Journal (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Linux Journal - Issue 201 (2011-01)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 201 (2011-01)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 201 (2011-01)(Belltown Media)(US).pdf" size="11666891" crc="6024b629" md5="b435c6cf3145482e788188bc53c9315b" sha1="492ef0103907771a7e33b6f4f4df6bff6dd660a9"/>
+	</game>
+	<game name="Linux Journal - Issue 202 (2011-02)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 202 (2011-02)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 202 (2011-02)(Belltown Media)(US).pdf" size="11766949" crc="ebdc070b" md5="861eca2a4dd268fe384c0b19f87dd4b1" sha1="9a18d3dba1b41ed0051fa9e15348c990e300ce57"/>
+	</game>
+	<game name="Linux Journal - Issue 203 (2011-03)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 203 (2011-03)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 203 (2011-03)(Belltown Media)(US).pdf" size="10718781" crc="873d4097" md5="101f7bf08b0308aa768c767c10569dd5" sha1="7ff90f756d50d1a7210edb7cf36d3fcde0308221"/>
+	</game>
+	<game name="Linux Journal - Issue 204 (2011-04)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 204 (2011-04)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 204 (2011-04)(Belltown Media)(US).pdf" size="9502569" crc="64382190" md5="fdec0b384e8ad8260202bad126bef153" sha1="cdacedc8a4b759ef5c8f4307aed8e0a0d2ee07ad"/>
+	</game>
+	<game name="Linux Journal - Issue 205 (2011-05)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 205 (2011-05)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 205 (2011-05)(Belltown Media)(US).pdf" size="11557355" crc="558008f2" md5="f8e188871f2116fbfafcf16aeb2270f2" sha1="f6ea7980a6d2ccf15e970d660e86a6161270962a"/>
+	</game>
+	<game name="Linux Journal - Issue 206 (2011-06)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 206 (2011-06)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 206 (2011-06)(Belltown Media)(US).pdf" size="11232577" crc="816c2bb7" md5="d9bd14fb2ae1d3c1bf0a6376dbb08e22" sha1="09d1a0172c7f5f4bf9cbdd50212938ab4aee7bf2"/>
+	</game>
+	<game name="Linux Journal - Issue 207 (2011-07)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 207 (2011-07)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 207 (2011-07)(Belltown Media)(US).pdf" size="11793190" crc="fd39c8b2" md5="8ebc1a9e1c11c1e8d60632e75228e02e" sha1="180690b9f0ec40289a972318c14305db2861fb44"/>
+	</game>
+	<game name="Linux Journal - Issue 208 (2011-08)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 208 (2011-08)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 208 (2011-08)(Belltown Media)(US).pdf" size="13179780" crc="81b77935" md5="183883c0645a92288f630d03881c98cc" sha1="806429f4a8bb52ae40887cbd1b0e696955ba1a9c"/>
+	</game>
+	<game name="Linux Journal - Issue 209 (2011-09)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 209 (2011-09)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 209 (2011-09)(Belltown Media)(US).pdf" size="19064538" crc="c46da310" md5="66d88ddedef939931742fd2ec407ce36" sha1="2521b8e2e737de3551ca2f357e91a22a693785e2"/>
+	</game>
+	<game name="Linux Journal - Issue 210 (2011-10)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 210 (2011-10)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 210 (2011-10)(Belltown Media)(US).pdf" size="15335463" crc="96b0b430" md5="bfcb89ff01b6965197873591050b63c2" sha1="cc5269733ce921c603bd841338963c28bfacd78e"/>
+	</game>
+	<game name="Linux Journal - Issue 211 (2011-11)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 211 (2011-11)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 211 (2011-11)(Belltown Media)(US).pdf" size="18391628" crc="f33d117b" md5="3cded92c99e7d20611372d9bf0afbbfb" sha1="d31edf9bd39fa7421832a2ca99e0a39549e2f373"/>
+	</game>
+	<game name="Linux Journal - Issue 212 (2011-12)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 212 (2011-12)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 212 (2011-12)(Belltown Media)(US).pdf" size="14359471" crc="173cc841" md5="b7447c0d2bd6016bd09300ba818fcfe7" sha1="0874172d11aa4964e1b47ede345358a64c2b5436"/>
+	</game>
+	<game name="Linux Journal - Issue 213 (2012-01)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 213 (2012-01)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 213 (2012-01)(Belltown Media)(US).pdf" size="14190807" crc="3b89a3fe" md5="ba32df07d88af45a9d9193a9081acc4c" sha1="46b40fb21f9357993bb1b1959783d1c421f16ebd"/>
+	</game>
+	<game name="Linux Journal - Issue 214 (2012-02)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 214 (2012-02)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 214 (2012-02)(Belltown Media)(US).pdf" size="13392661" crc="584b4a76" md5="6efc56ea357bedde3057c2f39b65b151" sha1="f1e33cec2fe08ce71aa3d922a0ed035a6d7352e0"/>
+	</game>
+	<game name="Linux Journal - Issue 215 (2012-03)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 215 (2012-03)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 215 (2012-03)(Belltown Media)(US).pdf" size="12846170" crc="0467ad77" md5="8fefad0f15218abdef0f02fb15e16aca" sha1="d32cf08338420cc7a1a3e5f40f5984db82c96fcd"/>
+	</game>
+	<game name="Linux Journal - Issue 216 (2012-04)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 216 (2012-04)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 216 (2012-04)(Belltown Media)(US).pdf" size="12450370" crc="a8a96176" md5="b5a05813fdbd06216e606ad682e85ae2" sha1="6c739399646e71408fd097a2bd0086de8870d0ba"/>
+	</game>
+	<game name="Linux Journal - Issue 217 (2012-05)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 217 (2012-05)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 217 (2012-05)(Belltown Media)(US).pdf" size="17914981" crc="e836976f" md5="6b48689db3cbfeb97947679bbe8b7924" sha1="36f754dcf02784acf6efae7fa3712dc7082158d8"/>
+	</game>
+	<game name="Linux Journal - Issue 220 (2012-08)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 220 (2012-08)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 220 (2012-08)(Belltown Media)(US).pdf" size="21102017" crc="45bc0345" md5="6648ee98c1dfda97c2bc29b526fc2551" sha1="7412b6595673b7a83a39ea0e8fff26b7cb35cc75"/>
+	</game>
+	<game name="Linux Journal - Issue 221 (2012-09)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 221 (2012-09)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 221 (2012-09)(Belltown Media)(US).pdf" size="16908577" crc="acfa30ec" md5="75fc477e896c518dc9ab1e3268a29d0c" sha1="cb8d4cfb44b16a0c26541272c0efa808821392be"/>
+	</game>
+	<game name="Linux Journal - Issue 222 (2012-10)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 222 (2012-10)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 222 (2012-10)(Belltown Media)(US).pdf" size="13975568" crc="6157c3ed" md5="e375c070fe594f855c43c4b73c2b6eda" sha1="264ff48e2571aac630c8fc3222d0ce56f554affb"/>
+	</game>
+	<game name="Linux Journal - Issue 223 (2012-11)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 223 (2012-11)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 223 (2012-11)(Belltown Media)(US).pdf" size="12396396" crc="c1888afa" md5="eb174418f4ec4fa1d6bb685bf0884ff2" sha1="d3580a848f7cff44c28d6fdd6890eeb995045dc0"/>
+	</game>
+	<game name="Linux Journal - Issue 224 (2012-12)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 224 (2012-12)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 224 (2012-12)(Belltown Media)(US).pdf" size="17493780" crc="72fddf44" md5="a8f17ad8d89ba47f1f240caf0267ec40" sha1="e97abeaff5a6f4857fd7ae565868b7ace7241dd1"/>
+	</game>
+	<game name="Linux Journal - Issue 225 (2013-01)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 225 (2013-01)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 225 (2013-01)(Belltown Media)(US).pdf" size="13846950" crc="39478df3" md5="f8f59a1f5874ad1ca533531546bbd65f" sha1="18d075eb54300e53c48ca51b83da112daa463a72"/>
+	</game>
+	<game name="Linux Journal - Issue 226 (2013-02)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 226 (2013-02)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 226 (2013-02)(Belltown Media)(US).pdf" size="18492345" crc="df85232a" md5="18b518b50f3c647c86985fa61f49ddde" sha1="b3bb30a957502255ace79d3ac52ed89984939fa1"/>
+	</game>
+	<game name="Linux Journal - Issue 227 (2013-03)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 227 (2013-03)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 227 (2013-03)(Belltown Media)(US).pdf" size="19627461" crc="234bae13" md5="17ac8b5e423ed120877d3ffe144d6de6" sha1="6b9fb29f4e0cdb91a78552756b2d8bce397f82e7"/>
+	</game>
+	<game name="Linux Journal - Issue 228 (2013-04)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 228 (2013-04)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 228 (2013-04)(Belltown Media)(US).pdf" size="18167649" crc="163770bd" md5="c64ec556a34b8b3250b7e04a2dfe268c" sha1="bc44ce779b414cc9a9b5f4a8452fb31f20b71132"/>
+	</game>
+	<game name="Linux Journal - Issue 229 (2013-05)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 229 (2013-05)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 229 (2013-05)(Belltown Media)(US).pdf" size="18258125" crc="89d7b8ee" md5="c427efd9d4d1b33f423c8da447c59b83" sha1="3a24ac6904508a98356561f77b8b536da17ca9d9"/>
+	</game>
+	<game name="Linux Journal - Issue 230 (2013-06)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 230 (2013-06)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 230 (2013-06)(Belltown Media)(US).pdf" size="16746761" crc="71f1220a" md5="056ca7f2ffdf77d4e8545e92871eb25b" sha1="201f3e215c547f8df06438347839aa15dcf16bcd"/>
+	</game>
+	<game name="Linux Journal - Issue 231 (2013-07)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 231 (2013-07)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 231 (2013-07)(Belltown Media)(US).pdf" size="14455235" crc="8dea1a30" md5="d5771354b9469e34c9c53487b6e6b7c4" sha1="f307210951a6c0cc198a9c771034f1327aad04b7"/>
+	</game>
+	<game name="Linux Journal - Issue 232 (2013-08)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 232 (2013-08)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 232 (2013-08)(Belltown Media)(US).pdf" size="17410082" crc="9016a3d8" md5="ac112351b4f2900070caca302383346d" sha1="a32de6530019561a2cb7187285e5b84883b87000"/>
+	</game>
+	<game name="Linux Journal - Issue 233 (2013-09)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 233 (2013-09)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 233 (2013-09)(Belltown Media)(US).pdf" size="21407187" crc="27b9b1b4" md5="9b8047286e0ffac05d5aac8a46d83609" sha1="df6f6f78e175e7e6cf6d7926b6f10037dfe72d38"/>
+	</game>
+	<game name="Linux Journal - Issue 234 (2013-10)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 234 (2013-10)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 234 (2013-10)(Belltown Media)(US).pdf" size="16486255" crc="8e656530" md5="5479650452af115d1e06a4fc3ef98f0d" sha1="c4245c7322344832d4411bd9db698e480b3c1e47"/>
+	</game>
+	<game name="Linux Journal - Issue 235 (2013-11)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 235 (2013-11)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 235 (2013-11)(Belltown Media)(US).pdf" size="13628312" crc="ad1a67fa" md5="72c8029e9861e4139f473a96eb036c83" sha1="4882621c48627845ebaf6b241477090eacd5124d"/>
+	</game>
+	<game name="Linux Journal - Issue 236 (2013-12)(Belltown Media)(US)">
+		<description>Linux Journal - Issue 236 (2013-12)(Belltown Media)(US)</description>
+		<rom name="Linux Journal - Issue 236 (2013-12)(Belltown Media)(US).pdf" size="12055576" crc="ed5f6b35" md5="958760f72552b8e9fa36b2dee0ee5221" sha1="92fd4c57e7041a606c2c20797e63a931e24a9a85"/>
+	</game>
+</datafile>

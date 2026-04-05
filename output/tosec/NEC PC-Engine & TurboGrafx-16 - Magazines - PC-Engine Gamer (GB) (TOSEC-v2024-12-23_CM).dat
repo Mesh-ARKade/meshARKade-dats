@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>NEC PC-Engine &amp; TurboGrafx-16 - Magazines - PC-Engine Gamer (GB)</name>
+		<description>NEC PC-Engine &amp; TurboGrafx-16 - Magazines - PC-Engine Gamer (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC Engine Gamer - Issue 01 (2010-07)(Sunteam)(GB)">
+		<description>PC Engine Gamer - Issue 01 (2010-07)(Sunteam)(GB)</description>
+		<rom name="PC Engine Gamer - Issue 01 (2010-07)(Sunteam)(GB).pdf" size="3909585" crc="8e34e718" md5="c37fbd713ab162f7c0497da1e30678e9" sha1="9741dffa5f3442812080f25e0c6006dfb68b4f19"/>
+	</game>
+	<game name="PC Engine Gamer - Issue 02 (2010-10)(Sunteam)(GB)">
+		<description>PC Engine Gamer - Issue 02 (2010-10)(Sunteam)(GB)</description>
+		<rom name="PC Engine Gamer - Issue 02 (2010-10)(Sunteam)(GB).pdf" size="2916137" crc="fd290366" md5="f7cd59ad24829cf88ddaec9ea4200332" sha1="1b716f920979b66f85614e93788168253760cc47"/>
+	</game>
+	<game name="PC Engine Gamer - Issue 03 (2010-12)(Sunteam)(GB)">
+		<description>PC Engine Gamer - Issue 03 (2010-12)(Sunteam)(GB)</description>
+		<rom name="PC Engine Gamer - Issue 03 (2010-12)(Sunteam)(GB).pdf" size="7280205" crc="2f5d2705" md5="3dabdd2692b439d9bec706dda7ef3671" sha1="b855868050468b081faaf80b476328f83f69012f"/>
+	</game>
+	<game name="PC Engine Gamer - Issue 04 (2011-03)(Sunteam)(GB)">
+		<description>PC Engine Gamer - Issue 04 (2011-03)(Sunteam)(GB)</description>
+		<rom name="PC Engine Gamer - Issue 04 (2011-03)(Sunteam)(GB).pdf" size="5880826" crc="c35fe223" md5="da2f5010cdbf579cdd4cdb63d052150f" sha1="50d4ca5fd9d67562590b8ac41872a5b6e6c63c30"/>
+	</game>
+	<game name="PC Engine Gamer - Issue 05 (2011-08)(Sunteam)(GB)">
+		<description>PC Engine Gamer - Issue 05 (2011-08)(Sunteam)(GB)</description>
+		<rom name="PC Engine Gamer - Issue 05 (2011-08)(Sunteam)(GB).pdf" size="14028056" crc="f5e19174" md5="75849977f66bdb4efacdf51c56b60ce2" sha1="8d82006fdd58c18868d5ca6a2d90b17075e4cc15"/>
+	</game>
+	<game name="PC Engine Gamer - Issue 06 (2012-02)(Sunteam)(GB)">
+		<description>PC Engine Gamer - Issue 06 (2012-02)(Sunteam)(GB)</description>
+		<rom name="PC Engine Gamer - Issue 06 (2012-02)(Sunteam)(GB).pdf" size="16811585" crc="ee641e8e" md5="6e6cc71287ff32292449a2067674e8f1" sha1="69fba82ce9bfa4055057fa0c6105cbb328226886"/>
+	</game>
+	<game name="PC Engine Gamer - Issue 07 (2012-07)(Sunteam)(GB)">
+		<description>PC Engine Gamer - Issue 07 (2012-07)(Sunteam)(GB)</description>
+		<rom name="PC Engine Gamer - Issue 07 (2012-07)(Sunteam)(GB).pdf" size="32979595" crc="8279c9f1" md5="f425b32309a66fe64d62dc4608e40bac" sha1="7425e14fba89fe53dada94b2732868c2ecc8b4f5"/>
+	</game>
+</datafile>

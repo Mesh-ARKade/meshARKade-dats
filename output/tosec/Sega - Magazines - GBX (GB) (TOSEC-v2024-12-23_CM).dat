@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Magazines - GBX (GB)</name>
+		<description>Sega - Magazines - GBX (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GBX - Issue 06 (2001-12)(Thin Ice Media)(GB)">
+		<description>GBX - Issue 06 (2001-12)(Thin Ice Media)(GB)</description>
+		<rom name="GBX - Issue 06 (2001-12)(Thin Ice Media)(GB).pdf" size="184825547" crc="a22041d9" md5="4a60b5d54065371803db8fdaf83b35ae" sha1="0d4aa93159dc20f01a253566a19726e5491b0fda"/>
+	</game>
+	<game name="GBX - Issue 08 (2002-02)(Thin Ice Media)(GB)">
+		<description>GBX - Issue 08 (2002-02)(Thin Ice Media)(GB)</description>
+		<rom name="GBX - Issue 08 (2002-02)(Thin Ice Media)(GB).pdf" size="198009225" crc="68892dff" md5="f5c3ed22fe38b34259c1a059e7d9db71" sha1="88b628c147096f6eeb3d9d833d91395ae150ff09"/>
+	</game>
+</datafile>

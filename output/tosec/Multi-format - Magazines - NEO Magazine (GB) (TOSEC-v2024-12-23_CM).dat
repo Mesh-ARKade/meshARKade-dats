@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - NEO Magazine (GB)</name>
+		<description>Multi-format - Magazines - NEO Magazine (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="NEO Magazine - Batch 136 (2015)(Uncooked Media)(GB)">
+		<description>NEO Magazine - Batch 136 (2015)(Uncooked Media)(GB)</description>
+		<rom name="NEO Magazine - Batch 136 (2015)(Uncooked Media)(GB).pdf" size="19820156" crc="19488774" md5="d69352560b0843d46d089930722886ae" sha1="6226e14e9437a0a9e8886207e8eb1ae1743e273c"/>
+	</game>
+	<game name="NEO Magazine - Batch 137 (2015)(Uncooked Media)(GB)">
+		<description>NEO Magazine - Batch 137 (2015)(Uncooked Media)(GB)</description>
+		<rom name="NEO Magazine - Batch 137 (2015)(Uncooked Media)(GB).pdf" size="24161050" crc="62170ff8" md5="1d5ec2d8d751dc8a167ca7691451dca3" sha1="a3c30c60549e247cb8fa24fc5609c20731ac61c1"/>
+	</game>
+	<game name="NEO Magazine - Batch 138 (2015)(Uncooked Media)(GB)">
+		<description>NEO Magazine - Batch 138 (2015)(Uncooked Media)(GB)</description>
+		<rom name="NEO Magazine - Batch 138 (2015)(Uncooked Media)(GB).pdf" size="27454611" crc="47372ca4" md5="56cbd830cd7c759dd7eab45a456ca6a6" sha1="a6d444cd57c5e363a54c1bc2ca8bdb963226a674"/>
+	</game>
+	<game name="NEO Magazine - Batch 150 (2016-05)(Uncooked Media)(GB)">
+		<description>NEO Magazine - Batch 150 (2016-05)(Uncooked Media)(GB)</description>
+		<rom name="NEO Magazine - Batch 150 (2016-05)(Uncooked Media)(GB).pdf" size="160176852" crc="e1d127f6" md5="4cc03052259962bde546a0388fdd14d9" sha1="675f4ddbe77fd00dd5022206de2ca4b225f188ce"/>
+	</game>
+</datafile>

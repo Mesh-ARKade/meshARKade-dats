@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64 - Magazines - VSixtyFour (GB)</name>
+		<description>Nintendo 64 - Magazines - VSixtyFour (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="VSixtyFour - Issue 1 Volume 1 (1998-03)(So Bizarre Publishing)(GB)">
+		<description>VSixtyFour - Issue 1 Volume 1 (1998-03)(So Bizarre Publishing)(GB)</description>
+		<rom name="VSixtyFour - Issue 1 Volume 1 (1998-03)(So Bizarre Publishing)(GB).pdf" size="56764732" crc="c1546bb7" md5="bbe313349aecc23217588fefb45d877b" sha1="d499bced40ca3de66f140a349201a8a0080ddff4"/>
+	</game>
+</datafile>

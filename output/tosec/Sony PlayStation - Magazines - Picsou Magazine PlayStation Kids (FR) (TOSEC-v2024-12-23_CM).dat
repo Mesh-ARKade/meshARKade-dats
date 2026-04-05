@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Picsou Magazine PlayStation Kids (FR)</name>
+		<description>Sony PlayStation - Magazines - Picsou Magazine PlayStation Kids (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Picsou Magazine Hors-Serie PlayStation Kids - N.1 (1998-04)(Disney Hachette Presse)(FR)">
+		<description>Picsou Magazine Hors-Serie PlayStation Kids - N.1 (1998-04)(Disney Hachette Presse)(FR)</description>
+		<rom name="Picsou Magazine Hors-Serie PlayStation Kids - N.1 (1998-04)(Disney Hachette Presse)(FR).pdf" size="55853812" crc="2bff9819" md5="c7a6910eca0b2be12741427eb5701d66" sha1="5b3b61ee13370e53aea6ff73dfd33f8d92629f86"/>
+	</game>
+</datafile>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - Webuser (GB)</name>
+		<description>IBM PC Compatibles - Magazines - Webuser (GB) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Webuser - Issue 245 (2010-07-29)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 245 (2010-07-29)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 245 (2010-07-29)(Dennis Publishing)(GB).pdf" size="23732844" crc="861da559" md5="63e0fed684873cc4a8aa536549c1fed7" sha1="0e1f3fd9a4a7452e1ac45ac3836cdd2e3346b2b8"/>
+	</game>
+	<game name="Webuser - Issue 251 (2010-10-21)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 251 (2010-10-21)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 251 (2010-10-21)(Dennis Publishing)(GB).pdf" size="10991439" crc="7e36b75d" md5="e3b859c8a6a94d923d6aad4a51c75d83" sha1="473187a26605ed60b95dfe14d115d2c4bd206d1f"/>
+	</game>
+	<game name="Webuser - Issue 252 (2010-11-04)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 252 (2010-11-04)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 252 (2010-11-04)(Dennis Publishing)(GB).pdf" size="14427722" crc="ecba1b3b" md5="718d7574dc4c02c2a3a37703d548e106" sha1="271c5f3159c1ead383cfdc13abbb152c2f72c4ab"/>
+	</game>
+	<game name="Webuser - Issue 253 (2010-11-18)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 253 (2010-11-18)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 253 (2010-11-18)(Dennis Publishing)(GB).pdf" size="24917067" crc="91b8da8d" md5="b4fa999b735d6be6241ef906167ade99" sha1="47dc44b7b361edc8b6f522491f42baad9e99d515"/>
+	</game>
+	<game name="Webuser - Issue 254 (2010-12-02)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 254 (2010-12-02)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 254 (2010-12-02)(Dennis Publishing)(GB).pdf" size="34432593" crc="1e75964b" md5="ad68c0c705e4f730e0d4d1f6a5811a03" sha1="4714fb848fc454fc1795dc34959a1aac3edec978"/>
+	</game>
+	<game name="Webuser - Issue 255 (2010-12-16)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 255 (2010-12-16)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 255 (2010-12-16)(Dennis Publishing)(GB).pdf" size="60111377" crc="694140ca" md5="dd80c942655fe18399acbefa499de496" sha1="6570c93a78f8b5ca6a4e7d170343d8f931d8cfc0"/>
+	</game>
+	<game name="Webuser - Issue 256 (2010-12-30)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 256 (2010-12-30)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 256 (2010-12-30)(Dennis Publishing)(GB).pdf" size="29601012" crc="9c407e03" md5="dec0875f95792e554a7924f1746cb3af" sha1="22d012f42288e20f64856a4d059aa7e6804fbbec"/>
+	</game>
+	<game name="Webuser - Issue 257 (2011-01-13)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 257 (2011-01-13)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 257 (2011-01-13)(Dennis Publishing)(GB).pdf" size="14029173" crc="a95bf7f9" md5="c4087eb7d227a223800c4eaebd8a519d" sha1="f0a46f26414d7974d1687428825afc3cbc3c3f2d"/>
+	</game>
+	<game name="Webuser - Issue 261 (2011-03-10)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 261 (2011-03-10)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 261 (2011-03-10)(Dennis Publishing)(GB).pdf" size="34544455" crc="eb59b52f" md5="dedfc005d0544aaa6d00a2705effb3be" sha1="74da0fcfeca2e47256297e3f7e75ef794b12ffb7"/>
+	</game>
+	<game name="Webuser - Issue 267 (2011-06-02)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 267 (2011-06-02)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 267 (2011-06-02)(Dennis Publishing)(GB).pdf" size="54726137" crc="e501b722" md5="da0f24fc558a5d9b743a9512fe5bf1d1" sha1="1497b86c41c3bcda895429b4358524162d1e4529"/>
+	</game>
+	<game name="Webuser - Issue 269 (2011-06-30)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 269 (2011-06-30)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 269 (2011-06-30)(Dennis Publishing)(GB).pdf" size="34238790" crc="039e156c" md5="e54e32676e79a36b2cdeb4cf6ba4ed95" sha1="fb94b8507edd1d573a0c63dd6a0b3c57f2a72614"/>
+	</game>
+	<game name="Webuser - Issue 270 (2011-07-14)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 270 (2011-07-14)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 270 (2011-07-14)(Dennis Publishing)(GB).pdf" size="58039906" crc="0a57a41a" md5="66725913512975072a382cf5cccddad6" sha1="19c32b1c8727a698f5d753d6d6bb8e11409c4ee4"/>
+	</game>
+	<game name="Webuser - Issue 271 (2011-07-28)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 271 (2011-07-28)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 271 (2011-07-28)(Dennis Publishing)(GB).pdf" size="58938341" crc="185352ab" md5="f06f33a3a43894a6e1e65cc6c49c6878" sha1="de79116ebae69b6f38f53c407f55550afe38b344"/>
+	</game>
+	<game name="Webuser - Issue 272 (2011-08-11)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 272 (2011-08-11)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 272 (2011-08-11)(Dennis Publishing)(GB).pdf" size="33473141" crc="7c098299" md5="87d4cdfb723ef059689bde8d2d6a4e0d" sha1="18cff0fc921bf95fcd9ac94ae166c1eb08e1c9a7"/>
+	</game>
+	<game name="Webuser - Issue 273 (2011-08-25)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 273 (2011-08-25)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 273 (2011-08-25)(Dennis Publishing)(GB).pdf" size="33047858" crc="c38dbee1" md5="d0f5cd8a3be552e2d29ffd26cdc24f5a" sha1="de9e2124a48e0431fa4c0a2e561cbc1226eb7152"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Total Games (NZ)</name>
+		<description>Multi-format - Magazines - Total Games (NZ) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Total Games - Issue 01 (1997-04)(Box Office Magazines)(NZ)">
+		<description>Total Games - Issue 01 (1997-04)(Box Office Magazines)(NZ)</description>
+		<rom name="Total Games - Issue 01 (1997-04)(Box Office Magazines)(NZ).pdf" size="51827937" crc="8f499c73" md5="257e175748dd13ed109b7e2f45b4f138" sha1="67c4c7d438360d7788804ba1b86a6d9a41aca102"/>
+	</game>
+</datafile>

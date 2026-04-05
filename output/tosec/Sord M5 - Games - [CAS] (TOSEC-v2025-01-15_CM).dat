@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sord M5 - Games - [CAS]</name>
+		<description>Sord M5 - Games - [CAS] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Cid - mek1 - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Barricade (19xx)(-)[chain]">
+		<description>Barricade (19xx)(-)[chain]</description>
+		<rom name="Barricade (19xx)(-)[chain].cas" size="3840" crc="453b03b7" md5="cbced71a67f0924b8aaa7b0d0d17dfab" sha1="4bd1fd674ecc1348de82705df65c9968d17f4371"/>
+	</game>
+	<game name="Barrier Attack (19xx)(-)[chain]">
+		<description>Barrier Attack (19xx)(-)[chain]</description>
+		<rom name="Barrier Attack (19xx)(-)[chain].cas" size="3386" crc="f84b6cf6" md5="0db188101cc18847b2540bc914b7ec7e" sha1="58007c3f59591717ea15f89c7cf0501a956d0e03"/>
+	</game>
+	<game name="Baseball (19xx)(-)[tape]">
+		<description>Baseball (19xx)(-)[tape]</description>
+		<rom name="Baseball (19xx)(-)[tape].cas" size="11221" crc="91ba7884" md5="f74e4dd7a630df562a844cc5dc8a3fe0" sha1="5b15b6f9d1ec625c5fd12dbaa1108c0645a3c543"/>
+	</game>
+	<game name="Blackjack (19xx)(-)[chain]">
+		<description>Blackjack (19xx)(-)[chain]</description>
+		<rom name="Blackjack (19xx)(-)[chain].cas" size="16980" crc="0ba87b33" md5="4b80107c7b779a9f3e31cf1b0fa0345c" sha1="5fb0f2d186a3c1c32738e5162f32bf0831681367"/>
+	</game>
+	<game name="Cowboy (19xx)(-)[chain]">
+		<description>Cowboy (19xx)(-)[chain]</description>
+		<rom name="Cowboy (19xx)(-)[chain].cas" size="3767" crc="f4cc6900" md5="6b21cd1b3e0de1de3357b4a18431bdf8" sha1="52bbfa6aed885c6c2d818a331423217971806dfa"/>
+	</game>
+	<game name="Cross Bomber (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2024-11-15)(Caruso, Fabrizio).cas" size="9374" crc="def28c9f" md5="7736b5b8b75d8fc79eef2140c901d93a" sha1="cd07706a63726062db4e08f7b599a58ae76c8684"/>
+	</game>
+	<game name="Cross Bomber (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Bomber (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Bomber (2024-11-15)(Caruso, Fabrizio)[keyboard].cas" size="9633" crc="604e9886" md5="98849ceffb1f05480b156f4c9048af84" sha1="d8810bbc5356145d311333ef3dc7e404c4ec0bd1"/>
+	</game>
+	<game name="Cross Chase (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Chase (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2024-11-15)(Caruso, Fabrizio).cas" size="17144" crc="49a7785a" md5="bc9dff21f017b12f5b06a59dd9c05acb" sha1="521086c6ebc9eae6d54f365248ad05221685dafa"/>
+	</game>
+	<game name="Cross Chase (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Chase (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Chase (2024-11-15)(Caruso, Fabrizio)[keyboard].cas" size="17403" crc="4c277ce4" md5="af2c9789cb8b775e673c1c1484c2d403" sha1="bc86241a4460debcdff77c09e5ca881291ea1b7f"/>
+	</game>
+	<game name="Cross Horde (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Horde (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Horde (2024-11-15)(Caruso, Fabrizio).cas" size="14813" crc="b43a0cc6" md5="ae3e99fa18171e876f5af7c6ebf6e01f" sha1="60767f20457d73f94156d26f3736abf33db0280f"/>
+	</game>
+	<game name="Cross Horde (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Horde (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Horde (2024-11-15)(Caruso, Fabrizio)[keyboard].cas" size="15072" crc="fe5d9563" md5="703d10af3d0c1bdb0379ef3b548355ad" sha1="623099ef32e7a9066d388a9c7b0282d3a049f679"/>
+	</game>
+	<game name="Cross Shoot (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Shoot (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shoot (2024-11-15)(Caruso, Fabrizio).cas" size="24396" crc="e15e77b5" md5="d2a693b83aae7b53ede8ebd8ef8b6331" sha1="9bd1b6dfb7f014cd61e436f15965658d1e0b95a9"/>
+	</game>
+	<game name="Cross Shoot (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Shoot (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Shoot (2024-11-15)(Caruso, Fabrizio)[keyboard].cas" size="24655" crc="0070d300" md5="5842122ed5213f6a20f65b0f3fd8b5ab" sha1="5fdf1f5b0ffec31b865d1f97247d443c5dabb4b6"/>
+	</game>
+	<game name="Cross Shuriken (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Shuriken (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shuriken (2024-11-15)(Caruso, Fabrizio).cas" size="17403" crc="f946d7b6" md5="42fc673340f4a461e5a2421ce585deda" sha1="0464682d84bba1397ce85120c43bdaf9f9fecfc5"/>
+	</game>
+	<game name="Cross Shuriken (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Shuriken (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Shuriken (2024-11-15)(Caruso, Fabrizio)[keyboard].cas" size="17662" crc="ceeebba5" md5="1c52d91eb6bd6acbacbb5e362b05d968" sha1="c36048e6951b091d9f71778990a06ea236f8a3e1"/>
+	</game>
+	<game name="Cross Snake (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Snake (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake (2024-11-15)(Caruso, Fabrizio).cas" size="17144" crc="8bf41fc1" md5="e8e0fb424d7974ee6dfd625ccdbef4c8" sha1="2500f7a9c97bb13d1e782d61c87dc1ea64338a0e"/>
+	</game>
+	<game name="Cross Snake (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Snake (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Snake (2024-11-15)(Caruso, Fabrizio)[keyboard].cas" size="17403" crc="28533fd4" md5="68350639b8e5f52f3ebb23f93a36701c" sha1="c2356e34ad32b98ca04da6c775ff2e4d6bd273cd"/>
+	</game>
+	<game name="Cross Stinger (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Stinger (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Stinger (2024-11-15)(Caruso, Fabrizio).cas" size="18698" crc="a3251730" md5="d642ecfec36f48a70af096d0d92e89c0" sha1="9a1a410f574c4258ff35d2dc16a5f68c5822d69f"/>
+	</game>
+	<game name="Cross Stinger (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Stinger (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Stinger (2024-11-15)(Caruso, Fabrizio)[keyboard].cas" size="18957" crc="1ee39888" md5="66c37f0974ee2d1269a99cb7368c8b40" sha1="1eed701d88a8db9a0cf5620ad74d934e85e4a7f2"/>
+	</game>
+	<game name="Cross Trex (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Trex (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Trex (2024-11-15)(Caruso, Fabrizio).cas" size="10928" crc="be30c37a" md5="5e805a0a490718ef823b285476372700" sha1="d4853b12196eb012c5d04cafff14ae532c37a4f5"/>
+	</game>
+	<game name="Cross Trex (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Trex (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Trex (2024-11-15)(Caruso, Fabrizio)[keyboard].cas" size="11187" crc="152ed13f" md5="0e9a0008c6a3ee4d9544f34867d52283" sha1="bedff2dbdea9f614d5da43215aaf5bdb229b2c3e"/>
+	</game>
+	<game name="Cross Verbix (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Verbix (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Verbix (2024-11-15)(Caruso, Fabrizio).cas" size="17144" crc="32425cc6" md5="1339ebc9441f4c116f42d49a4bed86bf" sha1="6f7bf43fb43b8e727d294399cf89a696543e27a2"/>
+	</game>
+	<game name="Cross Verbix (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Verbix (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Verbix (2024-11-15)(Caruso, Fabrizio)[keyboard].cas" size="17403" crc="46bdf89a" md5="4e6eceebb4401a9ce25c474586d6f0e7" sha1="e3496349e682f1a580355be204705ed939b0c24a"/>
+	</game>
+	<game name="Jogging (19xx)(-)[chain]">
+		<description>Jogging (19xx)(-)[chain]</description>
+		<rom name="Jogging (19xx)(-)[chain].cas" size="8537" crc="ee87bee5" md5="a14c39c77d3d8e21d562aaed07009095" sha1="4e7a3a4a436aac78272384a160bd1118421efbd6"/>
+	</game>
+	<game name="Last Day Of The Earth, The (19xx)(-)[chain]">
+		<description>Last Day Of The Earth, The (19xx)(-)[chain]</description>
+		<rom name="Last Day Of The Earth, The (19xx)(-)[chain].cas" size="19184" crc="d8b699da" md5="2b910e83e806a8b92876fbb96b7113c0" sha1="7e33a89c3bfcb5f73ef117a992dc67f74a3640d9"/>
+	</game>
+	<game name="Mini Star Trek (19xx)(-)[chain]">
+		<description>Mini Star Trek (19xx)(-)[chain]</description>
+		<rom name="Mini Star Trek (19xx)(-)[chain].cas" size="4744" crc="bbc88a19" md5="a2accf5f28f5990a07d32b84aeb52fdf" sha1="d066e9baf5576e338ba7122ecca497e01e451071"/>
+	</game>
+	<game name="Number Search (19xx)(-)[chain]">
+		<description>Number Search (19xx)(-)[chain]</description>
+		<rom name="Number Search (19xx)(-)[chain].cas" size="3244" crc="5ac28495" md5="3d9931f846fba6ce4f4270bb043cc8f8" sha1="052e3696c2342df39cb35f4cef781cfce8d159c7"/>
+	</game>
+	<game name="Sidewinder (19xx)(-)[chain]">
+		<description>Sidewinder (19xx)(-)[chain]</description>
+		<rom name="Sidewinder (19xx)(-)[chain].cas" size="3628" crc="a4405fe0" md5="566df568231c79221708c578eb967f67" sha1="679969f20907cb4bd2fe62340b868316d2c3aaba"/>
+	</game>
+	<game name="Slot Machine (19xx)(-)[chain]">
+		<description>Slot Machine (19xx)(-)[chain]</description>
+		<rom name="Slot Machine (19xx)(-)[chain].cas" size="5207" crc="60f5678b" md5="a5f6e35eb9b7f2b71dbf1abc8315fd9c" sha1="4f11ddac8909af685f67c30c47ae472101f94c1e"/>
+	</game>
+	<game name="Snaky (19xx)(-)[chain]">
+		<description>Snaky (19xx)(-)[chain]</description>
+		<rom name="Snaky (19xx)(-)[chain].cas" size="3213" crc="6f66a0b3" md5="c1fd06649cc4e3f5df3895f3526effb2" sha1="731fb6c43b240eb701ac10ed4c73103f11af0414"/>
+	</game>
+	<game name="Solitaire (19xx)(-)[chain]">
+		<description>Solitaire (19xx)(-)[chain]</description>
+		<rom name="Solitaire (19xx)(-)[chain].cas" size="3278" crc="c7d4f0af" md5="36b38ac9907b4e46c887b48c82f16f59" sha1="58938d626ee291e79783f9656d1e26701662808d"/>
+	</game>
+	<game name="Three Circles (19xx)(-)[chain]">
+		<description>Three Circles (19xx)(-)[chain]</description>
+		<rom name="Three Circles (19xx)(-)[chain].cas" size="3568" crc="c8436fcc" md5="35287a759f602435fa6d615a410fdc22" sha1="3c03ee9ee6ac3b51d0ca990f72fc83816d747ba1"/>
+	</game>
+	<game name="Tower of Hanoi (19xx)(-)[chain]">
+		<description>Tower of Hanoi (19xx)(-)[chain]</description>
+		<rom name="Tower of Hanoi (19xx)(-)[chain].cas" size="4108" crc="a91c50be" md5="a73d62ff41f766f38ab8ddd24668e4ee" sha1="b81e42cabf4b7d0d8389a4e4cae1ea8a49f628f2"/>
+	</game>
+	<game name="Zac Banic (19xx)(-)[tape]">
+		<description>Zac Banic (19xx)(-)[tape]</description>
+		<rom name="Zac Banic (19xx)(-)[tape].cas" size="4746" crc="05026a99" md5="e602a1032b6a0acef38ccd243a4dace1" sha1="463bdea30de9e67db98f7c2a2c5bb7e3799ef96d"/>
+	</game>
+</datafile>

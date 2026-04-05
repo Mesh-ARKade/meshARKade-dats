@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Jurassic News (IT)</name>
+		<description>Multi-format - Magazines - Jurassic News (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Jurassic News - Anno 01 N.01 (2006-01)(Jurassic News Magazine)(IT)">
+		<description>Jurassic News - Anno 01 N.01 (2006-01)(Jurassic News Magazine)(IT)</description>
+		<rom name="Jurassic News - Anno 01 N.01 (2006-01)(Jurassic News Magazine)(IT).pdf" size="7864320" crc="493ce07a" md5="5bf33105af3081c987b5da918538c538" sha1="5a014674f09a92a25d49dc0ca07d0cbedf6a23b4"/>
+	</game>
+</datafile>

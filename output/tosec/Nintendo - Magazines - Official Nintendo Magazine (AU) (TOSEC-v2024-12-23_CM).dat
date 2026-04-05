@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Official Nintendo Magazine (AU)</name>
+		<description>Nintendo - Magazines - Official Nintendo Magazine (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Official Nintendo Magazine, The - Issue 001 (2008-12)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 001 (2008-12)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 001 (2008-12)(Future Publishing)(AU).pdf" size="302946688" crc="1a4a045b" md5="cad4b6a0e18edda57ab27aef6ce67a3b" sha1="6cdba95eeb10bed4af4b697fe7de9eb6a49a77a9"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 002 (2009-02)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 002 (2009-02)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 002 (2009-02)(Future Publishing)(AU).pdf" size="306147453" crc="ef3a3bea" md5="a9cddf6853fd6c4bd9d054d4daeb8f12" sha1="d14a1b0ef46e465d968b972f38b06f6ae4ff93d6"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 003 (2009-03)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 003 (2009-03)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 003 (2009-03)(Future Publishing)(AU).pdf" size="327767277" crc="67853f94" md5="e74623395de9733bdcff7b8bb817dc23" sha1="0c309cebabb1d0f5eec357471a9bcb97a6e68bd5"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 004 (2009-04)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 004 (2009-04)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 004 (2009-04)(Future Publishing)(AU).pdf" size="250337226" crc="5d80494b" md5="4ed2bda56d011a08319c568e661ccdc9" sha1="a5ddbdeed24c57dbd6b112250dc8b12dcad5b807"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 005 (2009-05)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 005 (2009-05)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 005 (2009-05)(Future Publishing)(AU).pdf" size="306146460" crc="8168df05" md5="51b35d6f3e9196afb310ae739c9fb55e" sha1="837787c219f7c542e510934e46ff10f5198ff0d2"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 008 (2009-08)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 008 (2009-08)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 008 (2009-08)(Future Publishing)(AU).pdf" size="283518385" crc="61471251" md5="53d04c346e010fe97ede504ddc4cef5e" sha1="94df18d98a47556cdf09cdf51bd7dede1e2f7f28"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 009 (2009-09)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 009 (2009-09)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 009 (2009-09)(Future Publishing)(AU).pdf" size="284180187" crc="a1a0ea4d" md5="051133a00f206001cd68207ef9897ff0" sha1="fa27430d402295429ae70ad5138e8c05a71ac160"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 010 (2009-10)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 010 (2009-10)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 010 (2009-10)(Future Publishing)(AU).pdf" size="273910660" crc="76f3a10f" md5="0d5c89ad59b91b9b73e6ce0d2e99dae0" sha1="bbffb1820b824d5cac619909b47266d8ee1d3ca3"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 011 (2009-11)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 011 (2009-11)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 011 (2009-11)(Future Publishing)(AU).pdf" size="273049631" crc="cf1ff6e9" md5="ac62fd386acb2c6168cf9704983cc5c8" sha1="be7c6cad4d6b9ae0cbecbae3f73bf290fbbb5a10"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 012 (2009-12)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 012 (2009-12)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 012 (2009-12)(Future Publishing)(AU).pdf" size="366520201" crc="d00387a5" md5="660f44ce900636ccd2500d457264430c" sha1="5c696b9de0412feb30aff4d4f236c29b76e3d2fa"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 013 (2010-01)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 013 (2010-01)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 013 (2010-01)(Future Publishing)(AU).pdf" size="288748325" crc="6bc38b3d" md5="e0a68f63b4f4bc72d4b5f7b06fa726b8" sha1="e117783afea82002b2c5042bd148bf18c04b80f3"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 014 (2010-02)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 014 (2010-02)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 014 (2010-02)(Future Publishing)(AU).pdf" size="153779892" crc="a2fdb632" md5="2679fb8749493b5037b7d868f76b80c7" sha1="035c15ddf3bf0b59efcf0373b06e0a34a100a97f"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 014 (2010-02)(Future Publishing)(AU)[a]">
+		<description>Official Nintendo Magazine, The - Issue 014 (2010-02)(Future Publishing)(AU)[a]</description>
+		<rom name="Official Nintendo Magazine, The - Issue 014 (2010-02)(Future Publishing)(AU)[a].pdf" size="276989694" crc="7d995e0e" md5="766a5b498a1a012da5acbc0589b76b65" sha1="eea0223ea31de6e25f6a7d14538f9c46009e8d14"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 015 (2010-03)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 015 (2010-03)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 015 (2010-03)(Future Publishing)(AU).pdf" size="155661057" crc="6d0a09e5" md5="0da07c6ecee914de307cb5eda770e2b4" sha1="21dd1528fd69d7a71141dc23a19a5348be93cece"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 016 (2010-04)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 016 (2010-04)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 016 (2010-04)(Future Publishing)(AU).pdf" size="159859789" crc="980cd94e" md5="937e60714fa7fcd8c66eccea6ea89496" sha1="230778ca3ee296549d5e29d7acd1f748e335a4be"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 017 (2010-05)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 017 (2010-05)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 017 (2010-05)(Future Publishing)(AU).pdf" size="155520244" crc="b65eee9f" md5="b66df40feb4c778307467f17a3817da2" sha1="8782076fdb0bdfd37a5c651bff0694a76b7e54e3"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 017 (2010-05)(Future Publishing)(AU)[a]">
+		<description>Official Nintendo Magazine, The - Issue 017 (2010-05)(Future Publishing)(AU)[a]</description>
+		<rom name="Official Nintendo Magazine, The - Issue 017 (2010-05)(Future Publishing)(AU)[a].pdf" size="276026924" crc="c616cbfb" md5="dcc395da5f0a6691e70678c5f2a00bd5" sha1="9280b9f0b08f2fa64fad9e360baa9ea50519b58e"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 018 (2010-06)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 018 (2010-06)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 018 (2010-06)(Future Publishing)(AU).pdf" size="132861871" crc="84bda3fe" md5="3edcdf7e6dedf2cfa7530f83f7536262" sha1="edb43fa1414e8e6dbdd985ec91a2853e6377d9f2"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 018 (2010-06)(Future Publishing)(AU)[a]">
+		<description>Official Nintendo Magazine, The - Issue 018 (2010-06)(Future Publishing)(AU)[a]</description>
+		<rom name="Official Nintendo Magazine, The - Issue 018 (2010-06)(Future Publishing)(AU)[a].pdf" size="351170763" crc="68659314" md5="a9a88d308db8ebae62fa7e887d10440d" sha1="8cacd458af5ee33f592534b2a82ffa7c44a0505b"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 019 (2010-07)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 019 (2010-07)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 019 (2010-07)(Future Publishing)(AU).pdf" size="131725131" crc="290e7d64" md5="ec709521409d311b0a98fe86afe363a4" sha1="1166c9ce2bf715b56371376b2fea14388014bff4"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 019 (2010-07)(Future Publishing)(AU)[a]">
+		<description>Official Nintendo Magazine, The - Issue 019 (2010-07)(Future Publishing)(AU)[a]</description>
+		<rom name="Official Nintendo Magazine, The - Issue 019 (2010-07)(Future Publishing)(AU)[a].pdf" size="231962122" crc="689258a9" md5="b61b32a25e920de2b396c13e01597df2" sha1="ca6cfe59f2efc5432a477a62aa9fc6693e788f30"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 020 (2010-08)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 020 (2010-08)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 020 (2010-08)(Future Publishing)(AU).pdf" size="124519802" crc="655e09a9" md5="0a002a8263e9210d0f61427cb3e1de58" sha1="64de311fd59abee64946188c0250df6ac2eb2a1f"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 021 (2010-09)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 021 (2010-09)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 021 (2010-09)(Future Publishing)(AU).pdf" size="155305178" crc="351438b6" md5="57813508b5b02ab7285797d717f23d42" sha1="a85d305dea6868ad850a4776c2009b89777675a0"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 022 (2010-10)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 022 (2010-10)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 022 (2010-10)(Future Publishing)(AU).pdf" size="156639736" crc="eedfacf5" md5="eb00f07b26ef69811e49edca272f93d5" sha1="ade3a461197e4d9694a588bda628b7d488d8e03f"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 023 (2010-11)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 023 (2010-11)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 023 (2010-11)(Future Publishing)(AU).pdf" size="158996585" crc="d10d5866" md5="e2ad7fd3d1f1cbdd07ca212af73d2865" sha1="75b818f44b24d798acf8445205ec3433749d2b77"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 024 (2010-12)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 024 (2010-12)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 024 (2010-12)(Future Publishing)(AU).pdf" size="164792520" crc="7706b61d" md5="537e179135355808c46adbbcf879d828" sha1="9391d0b5d0cd444d933beb89d9b4685ec0a6c76a"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 025 (2011-01)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 025 (2011-01)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 025 (2011-01)(Future Publishing)(AU).pdf" size="161602306" crc="5eec0888" md5="e73269440b17e52287f2e925bd078203" sha1="66f9ac7430b0e86fe7d4983ecbf91c4c3c3c30a9"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 026 (2011-02)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 026 (2011-02)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 026 (2011-02)(Future Publishing)(AU).pdf" size="156064427" crc="140f6aa0" md5="af421fb7923a09b936ae0e2fa435070b" sha1="a4f5111b0983266663b3d10e532eed4620f8cfc3"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 027 (2011-03)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 027 (2011-03)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 027 (2011-03)(Future Publishing)(AU).pdf" size="156886045" crc="39bab75c" md5="59f0ad231f2bb3a405db43026b57ba24" sha1="4e1ff4e56e4e9a27e85fbd80833d2f63fcfa3f24"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 028 (2011-04)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 028 (2011-04)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 028 (2011-04)(Future Publishing)(AU).pdf" size="157952555" crc="69013a7e" md5="673e6782669df708ac64657a678f319b" sha1="7697a1bb707601d02bb3ed02a9d3e4979d0063dd"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 029 (2011-05)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 029 (2011-05)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 029 (2011-05)(Future Publishing)(AU).pdf" size="155824024" crc="796e8392" md5="fafb406b1f24ff77f52e8d5dbc5953ad" sha1="41edc1f868a6dc88cab0dd077327379839c0c3a9"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 030 (2011-06)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 030 (2011-06)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 030 (2011-06)(Future Publishing)(AU).pdf" size="154175148" crc="8b6b7021" md5="1f73e8e0e28f4b8b878b4638758cc5c1" sha1="f8708a0a679cebf233fe05cf99d2dc2c9041966b"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 031 (2011-07)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 031 (2011-07)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 031 (2011-07)(Future Publishing)(AU).pdf" size="167098868" crc="387e9dcd" md5="0465e31362e2c5862893d723361bc754" sha1="f3abe6490462a6893a6be9bd6f967692ce8f02d9"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 032 (2011)(Future Publishing)(AU)[winter edition]">
+		<description>Official Nintendo Magazine, The - Issue 032 (2011)(Future Publishing)(AU)[winter edition]</description>
+		<rom name="Official Nintendo Magazine, The - Issue 032 (2011)(Future Publishing)(AU)[winter edition].pdf" size="157758893" crc="eb60a1bb" md5="b60c05eeb65da2aa9638e85ce14568ba" sha1="692b76b9e45e8d3de44c40f0852e131c18d3213f"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 040 (2012-03)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 040 (2012-03)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 040 (2012-03)(Future Publishing)(AU).pdf" size="280728675" crc="1380a6fb" md5="6ed03e0807f74ae9f5557024a0b77aa2" sha1="ed6645d3560dbea1b82c6fccad4386ecd7bab122"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 06 (2009-06)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 06 (2009-06)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 06 (2009-06)(Future Publishing)(AU).pdf" size="341921447" crc="f7ca68a2" md5="e267544ab2dae06cfbbcf5cf7b3b9e0b" sha1="496f95c4fd551e003faafa7f7541afd8f9186d92"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 07 (2009-07)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 07 (2009-07)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 07 (2009-07)(Future Publishing)(AU).pdf" size="271628229" crc="d9f5a5dc" md5="31072508a9370ce199b415412a4d9578" sha1="09007df60cc97a79d884c5af981893a33538516a"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 23 (2010-11)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 23 (2010-11)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 23 (2010-11)(Future Publishing)(AU).pdf" size="181390085" crc="ec696437" md5="74273e073f85e708d29a2691fa5a223a" sha1="1e84f260cd7b984d694f3172962ddb9ab392053b"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 24 (2010-12)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 24 (2010-12)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 24 (2010-12)(Future Publishing)(AU).pdf" size="187629897" crc="f40aed01" md5="ac1edcd3fbd1e90527ce06031af1b225" sha1="d53fa30bcb234292f8fa9f2055cfdb06c5605fc4"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 25 (2011-01)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 25 (2011-01)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 25 (2011-01)(Future Publishing)(AU).pdf" size="184255128" crc="42d4a82a" md5="3d0bf65c41b5b98aaf54c1031d4ad058" sha1="dd3d2ed4504e52e7a39ba5a115ee76343a006522"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 29 (2011-05)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 29 (2011-05)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 29 (2011-05)(Future Publishing)(AU).pdf" size="176153480" crc="406fd0d0" md5="6b50f5ac6abe5f7ba31634cb310e95a4" sha1="99ad3b05d1937f324733c060a1f7f154fed3453d"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 30 (2011-06)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 30 (2011-06)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 30 (2011-06)(Future Publishing)(AU).pdf" size="173805293" crc="896d58b7" md5="3383fea5b2ad6caab71424ba1a4d97de" sha1="b3bf9b73bd3de86158afe541eb28f8eff78fb190"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 33 (2011-08)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 33 (2011-08)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 33 (2011-08)(Future Publishing)(AU).pdf" size="187638298" crc="21e2dea5" md5="2b834736a957453940ad4a2e435391ed" sha1="a219693406826959d7d800f68f76c25a273a6539"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 47 (2012-09)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 47 (2012-09)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 47 (2012-09)(Future Publishing)(AU).pdf" size="174060303" crc="f9b2b21c" md5="124f739ca3f18b4665e1bd0889cf5496" sha1="2f244cab3a433a91c23f4ae2828c4de92f0a8448"/>
+	</game>
+	<game name="Official Nintendo Magazine, The - Issue 60 (2013-12)(Future Publishing)(AU)">
+		<description>Official Nintendo Magazine, The - Issue 60 (2013-12)(Future Publishing)(AU)</description>
+		<rom name="Official Nintendo Magazine, The - Issue 60 (2013-12)(Future Publishing)(AU).pdf" size="187252853" crc="bbfa56a5" md5="499098b5483887e21687d14c42a21f03" sha1="e18633e7e620f72ad895a689b7dfe8c07f75f4da"/>
+	</game>
+</datafile>

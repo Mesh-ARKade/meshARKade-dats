@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Maximum (GB)</name>
+		<description>Multi-format - Magazines - Maximum (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Maximum - Issue 01 (1995-10)(EMAP)(GB)">
+		<description>Maximum - Issue 01 (1995-10)(EMAP)(GB)</description>
+		<rom name="Maximum - Issue 01 (1995-10)(EMAP)(GB).pdf" size="401222930" crc="0cb97299" md5="7309facac644993df8dade2fe6d55ecb" sha1="845e2cd35de0ea04501fc3a9007acd1c3fe23a13"/>
+	</game>
+	<game name="Maximum - Issue 02 (1995-11)(EMAP)(GB)">
+		<description>Maximum - Issue 02 (1995-11)(EMAP)(GB)</description>
+		<rom name="Maximum - Issue 02 (1995-11)(EMAP)(GB).pdf" size="421240698" crc="626b2838" md5="c73b7296852061d349682c12e3d5f272" sha1="b296484b66f2937f64df35ece4af7decedd82b0a"/>
+	</game>
+	<game name="Maximum - Issue 03 (1996-01)(EMAP)(GB)">
+		<description>Maximum - Issue 03 (1996-01)(EMAP)(GB)</description>
+		<rom name="Maximum - Issue 03 (1996-01)(EMAP)(GB).pdf" size="424171809" crc="b513b1bb" md5="9e5d1a37b8853cc8c6f7bbd1a080dab6" sha1="10c9f803366baf107ffab9d7e6c6230bd680e615"/>
+	</game>
+	<game name="Maximum - Issue 04 (1996-02)(EMAP)(GB)">
+		<description>Maximum - Issue 04 (1996-02)(EMAP)(GB)</description>
+		<rom name="Maximum - Issue 04 (1996-02)(EMAP)(GB).pdf" size="432852954" crc="bd362664" md5="17bfd4fa8740648032423058eae37f95" sha1="553ce2223534664182195793d634e465db31bab0"/>
+	</game>
+	<game name="Maximum - Issue 05 (1996-04)(EMAP)(GB)">
+		<description>Maximum - Issue 05 (1996-04)(EMAP)(GB)</description>
+		<rom name="Maximum - Issue 05 (1996-04)(EMAP)(GB).pdf" size="411173243" crc="0968c8ef" md5="1ab849447db780b554581bae0927a8ee" sha1="75d491aa8094278841785fe8a660edd374600c4a"/>
+	</game>
+	<game name="Maximum - Issue 06 (1996-05)(EMAP)(GB)">
+		<description>Maximum - Issue 06 (1996-05)(EMAP)(GB)</description>
+		<rom name="Maximum - Issue 06 (1996-05)(EMAP)(GB).pdf" size="308166068" crc="7dfdc63b" md5="9e881b92ac459f191b0fb181e63df289" sha1="5fb28949c7073bfd1f90ceb5cce04228d314fbd2"/>
+	</game>
+	<game name="Maximum - Issue 07 (1996-06)(EMAP)(GB)">
+		<description>Maximum - Issue 07 (1996-06)(EMAP)(GB)</description>
+		<rom name="Maximum - Issue 07 (1996-06)(EMAP)(GB).pdf" size="309202705" crc="ad39a39c" md5="7e4b91e2f599700a1ef3c2539733aaf0" sha1="5857a0472bb5e1f94a577c8cb1e623360be2f27f"/>
+	</game>
+</datafile>

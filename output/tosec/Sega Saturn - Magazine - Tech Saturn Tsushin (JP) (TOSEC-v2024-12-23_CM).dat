@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Saturn - Magazine - Tech Saturn Tsushin (JP)</name>
+		<description>Sega Saturn - Magazine - Tech Saturn Tsushin (JP) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tech Saturn Tsushin - Vol. 4 (1996-04)(ASCII Publishing)(JP)">
+		<description>Tech Saturn Tsushin - Vol. 4 (1996-04)(ASCII Publishing)(JP)</description>
+		<rom name="Tech Saturn Tsushin - Vol. 4 (1996-04)(ASCII Publishing)(JP).pdf" size="253114284" crc="12b65261" md5="96aa297a210c9f2b5d2cf85aaa703006" sha1="9d4af35ae2ab20ddd3bbbe1fad3e3e265ff48a50"/>
+	</game>
+</datafile>

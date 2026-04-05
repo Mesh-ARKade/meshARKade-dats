@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore Amiga - Magazines - Amiga News (FR)</name>
+		<description>Commodore Amiga - Magazines - Amiga News (FR) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Amiga News - N.001 (1988-04)(The News)(FR)">
+		<description>Amiga News - N.001 (1988-04)(The News)(FR)</description>
+		<rom name="Amiga News - N.001 (1988-04)(The News)(FR).pdf" size="10854737" crc="c1ed82e2" md5="710a260d85249c542b45ffa7208e157d" sha1="2e60b1a87baece5745b79d7e9b1e32142d01049f"/>
+	</game>
+	<game name="Amiga News - N.002 (1988-05)(The News)(FR)">
+		<description>Amiga News - N.002 (1988-05)(The News)(FR)</description>
+		<rom name="Amiga News - N.002 (1988-05)(The News)(FR).pdf" size="12117924" crc="46359f3a" md5="506ecc9eee03c079fcdfa9b03e60b852" sha1="2fe41843e27b77fb8a844817dbea2df790a50a1a"/>
+	</game>
+	<game name="Amiga News - N.003 (1988-06)(The News)(FR)">
+		<description>Amiga News - N.003 (1988-06)(The News)(FR)</description>
+		<rom name="Amiga News - N.003 (1988-06)(The News)(FR).pdf" size="14436126" crc="ea529845" md5="abb0b7168b210cbc0de7a3b1ad5f8f15" sha1="bb59298c39f30ec43b42df29c7f35434e9659bd5"/>
+	</game>
+	<game name="Amiga News - N.004 (1988-07)(NewsEdition)(FR)">
+		<description>Amiga News - N.004 (1988-07)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.004 (1988-07)(NewsEdition)(FR).pdf" size="18625941" crc="d17bdd00" md5="8fc6a47225ec07e2a8122d39ab5c9cc0" sha1="ab61a9c8462fb971b490dfe54383e9d96739cc20"/>
+	</game>
+	<game name="Amiga News - N.005 (1988-08)(NewsEdition)(FR)">
+		<description>Amiga News - N.005 (1988-08)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.005 (1988-08)(NewsEdition)(FR).pdf" size="15700047" crc="401d4e09" md5="415bdb20cc1d4f77983f322cc77a665e" sha1="eb523be7d5f39fe9b0982867c2b39dc81a881dfe"/>
+	</game>
+	<game name="Amiga News - N.006 (1988-09)(NewsEdition)(FR)">
+		<description>Amiga News - N.006 (1988-09)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.006 (1988-09)(NewsEdition)(FR).pdf" size="15272397" crc="172e5296" md5="414fb0510f5a9d3f4871f1eafe9cbe01" sha1="9ebbf2f719807310cf4cb8d9fc9fc0695a756ec5"/>
+	</game>
+	<game name="Amiga News - N.007 (1988-10)(NewsEdition)(FR)">
+		<description>Amiga News - N.007 (1988-10)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.007 (1988-10)(NewsEdition)(FR).pdf" size="16086376" crc="27697abe" md5="12c73adf8177b5adc8d068c0169974ee" sha1="a64ec7c3d6f11d22853634f2d4b77601da82d5b2"/>
+	</game>
+	<game name="Amiga News - N.008 (1988-11)(NewsEdition)(FR)">
+		<description>Amiga News - N.008 (1988-11)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.008 (1988-11)(NewsEdition)(FR).pdf" size="15061955" crc="bb0bbd4d" md5="e2c30064ddd77f84279c4981b3e031eb" sha1="cfa745b9b926517153323845588887849d950907"/>
+	</game>
+	<game name="Amiga News - N.009 (1988-12)(NewsEdition)(FR)">
+		<description>Amiga News - N.009 (1988-12)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.009 (1988-12)(NewsEdition)(FR).pdf" size="16978678" crc="d0532b6d" md5="f002274d7aadc8d5a47b59897ab89461" sha1="ee4275a4294b5e8e8ed71e531dea8a9c3221107c"/>
+	</game>
+	<game name="Amiga News - N.010 (1989-01-02)(NewsEdition)(FR)">
+		<description>Amiga News - N.010 (1989-01-02)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.010 (1989-01-02)(NewsEdition)(FR).pdf" size="17447579" crc="d5549337" md5="3dfa9634fd16cdada4f4f7b918aa52d0" sha1="718125f830aebbfd50ae7fbf3c59c41e5471c2ae"/>
+	</game>
+	<game name="Amiga News - N.011 (1989-03)(NewsEdition)(FR)">
+		<description>Amiga News - N.011 (1989-03)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.011 (1989-03)(NewsEdition)(FR).pdf" size="18719382" crc="993514dc" md5="0fdfe510a7e1de883a08f9e6219fd46e" sha1="8af8f5556569e1de9d65f7aff8d60f1ef10cd031"/>
+	</game>
+	<game name="Amiga News - N.012 (1989-04)(NewsEdition)(FR)">
+		<description>Amiga News - N.012 (1989-04)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.012 (1989-04)(NewsEdition)(FR).pdf" size="20846567" crc="a1dd4ac6" md5="72896246e936a3945b61058e6a9ad759" sha1="71ef04c597da29f8ff3e1c717e736141eed0aa42"/>
+	</game>
+	<game name="Amiga News - N.013 (1989-05)(NewsEdition)(FR)">
+		<description>Amiga News - N.013 (1989-05)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.013 (1989-05)(NewsEdition)(FR).pdf" size="17662522" crc="7a9f4cad" md5="6ace6acc083cc8d12a4821e59b8cc29d" sha1="e763e38df33ae776c67914e0a8b8183052bf7472"/>
+	</game>
+	<game name="Amiga News - N.014 (1989-06)(NewsEdition)(FR)">
+		<description>Amiga News - N.014 (1989-06)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.014 (1989-06)(NewsEdition)(FR).pdf" size="17773915" crc="57e1fcaf" md5="394406c0245e9a9db1c007a6f967327c" sha1="5d89cb6b42c7f9ca1dd9abfc5656fc7a401d6103"/>
+	</game>
+	<game name="Amiga News - N.015 (1989-07)(NewsEdition)(FR)">
+		<description>Amiga News - N.015 (1989-07)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.015 (1989-07)(NewsEdition)(FR).pdf" size="19511655" crc="65948913" md5="548f9ef9ff9fe6f2064fffca5ddb6a4c" sha1="8f366b3eb8ee506e4d34ae45db962f58462fad71"/>
+	</game>
+	<game name="Amiga News - N.016 (1989-08)(NewsEdition)(FR)">
+		<description>Amiga News - N.016 (1989-08)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.016 (1989-08)(NewsEdition)(FR).pdf" size="17689734" crc="a050881e" md5="6c127360e1ef65d5a8bd9f5968ef3574" sha1="97452b3cf8a3fd70dae54383d38852ec4afb5bdf"/>
+	</game>
+	<game name="Amiga News - N.017 (1989-09)(NewsEdition)(FR)">
+		<description>Amiga News - N.017 (1989-09)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.017 (1989-09)(NewsEdition)(FR).pdf" size="17760861" crc="a6d85bfd" md5="56e18849e2156ab3524a9b2032d7c9c2" sha1="f1c185d1cf4ee323a0ffe42a175da3fabf3d30f0"/>
+	</game>
+	<game name="Amiga News - N.018 (1989-10)(NewsEdition)(FR)">
+		<description>Amiga News - N.018 (1989-10)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.018 (1989-10)(NewsEdition)(FR).pdf" size="16799267" crc="9d04bc1d" md5="89c8af6880817b2d18e01f716e4f86f5" sha1="30522641e4c0159f1d43f17839cb6b1782aac734"/>
+	</game>
+	<game name="Amiga News - N.019 (1989-11)(NewsEdition)(FR)">
+		<description>Amiga News - N.019 (1989-11)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.019 (1989-11)(NewsEdition)(FR).pdf" size="16887051" crc="e0c5fbee" md5="f168a26d1dec23ce3f881480d1d052cc" sha1="d7d647e159140d2a5c6b7555cd93db0c45409763"/>
+	</game>
+	<game name="Amiga News - N.020 (1989-12)(NewsEdition)(FR)">
+		<description>Amiga News - N.020 (1989-12)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.020 (1989-12)(NewsEdition)(FR).pdf" size="17247030" crc="435e61ce" md5="79ff08459306be63e81ac6628e7c99a4" sha1="8dfcc29e6cbac1d6ef97f2643241fbdcd54466df"/>
+	</game>
+	<game name="Amiga News - N.021 (1990-01)(NewsEdition)(FR)">
+		<description>Amiga News - N.021 (1990-01)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.021 (1990-01)(NewsEdition)(FR).pdf" size="17678005" crc="a9563560" md5="49107b3be5fb68f624e595baf82955bd" sha1="a343677424825cd9e5d20d2bfef74527abae5e02"/>
+	</game>
+	<game name="Amiga News - N.022 (1990-02)(NewsEdition)(FR)">
+		<description>Amiga News - N.022 (1990-02)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.022 (1990-02)(NewsEdition)(FR).pdf" size="18159126" crc="50028424" md5="67331fd5b99d48881983616553c53bd5" sha1="fc7604510a246025d267dde497ef5d609157d3e8"/>
+	</game>
+	<game name="Amiga News - N.023 (1990-03)(NewsEdition)(FR)">
+		<description>Amiga News - N.023 (1990-03)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.023 (1990-03)(NewsEdition)(FR).pdf" size="18555850" crc="aac8e519" md5="116732e9f4aba6f22fb3c13f112644f5" sha1="e923a9d7a438a4845401cb20aee11f191ff697bf"/>
+	</game>
+	<game name="Amiga News - N.024 (1990-04)(NewsEdition)(FR)">
+		<description>Amiga News - N.024 (1990-04)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.024 (1990-04)(NewsEdition)(FR).pdf" size="19670621" crc="16f3a41d" md5="9f0192b7e1d1aebe2a26ce86ac9f0f0a" sha1="ca2d8905e48d9bac191f226daca7f83e9f90a40c"/>
+	</game>
+	<game name="Amiga News - N.025 (1990-05)(NewsEdition)(FR)">
+		<description>Amiga News - N.025 (1990-05)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.025 (1990-05)(NewsEdition)(FR).pdf" size="25538720" crc="06d3a224" md5="488681d40f0d6ff5fcb7c96c53256049" sha1="297e6c763ba89685e3a7f31c8635b458a5b88fa6"/>
+	</game>
+	<game name="Amiga News - N.026 (1990-06)(NewsEdition)(FR)">
+		<description>Amiga News - N.026 (1990-06)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.026 (1990-06)(NewsEdition)(FR).pdf" size="18929250" crc="1b667354" md5="a84e761bd2c69435c656c8808e85c6dd" sha1="0f5ab7adbcdda35e32346ff2717944835d43c634"/>
+	</game>
+	<game name="Amiga News - N.027 (1990-07-08)(NewsEdition)(FR)">
+		<description>Amiga News - N.027 (1990-07-08)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.027 (1990-07-08)(NewsEdition)(FR).pdf" size="26317775" crc="5ddd7aae" md5="df2ba91bf89d1681af1e753bec7d2825" sha1="edc13f390f14748ceab514b41c438f81a7dcfada"/>
+	</game>
+	<game name="Amiga News - N.028 (1990-09)(NewsEdition)(FR)">
+		<description>Amiga News - N.028 (1990-09)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.028 (1990-09)(NewsEdition)(FR).pdf" size="21501596" crc="861d9a7b" md5="dc69b71711584307da1cfba264193426" sha1="9df9adb1571bf340bca90a232ca8fcb36cce0242"/>
+	</game>
+	<game name="Amiga News - N.029 (1990-10)(NewsEdition)(FR)">
+		<description>Amiga News - N.029 (1990-10)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.029 (1990-10)(NewsEdition)(FR).pdf" size="20967649" crc="67b08692" md5="9346926efd9ccdfb92462763cde1ec35" sha1="1612b14bd607278a2edbbc757f4a863b4f0d9a3e"/>
+	</game>
+	<game name="Amiga News - N.030 (1990-11)(NewsEdition)(FR)">
+		<description>Amiga News - N.030 (1990-11)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.030 (1990-11)(NewsEdition)(FR).pdf" size="25227793" crc="53c7564d" md5="38c1b451ed8eaa7e6645ed48edd72e53" sha1="cb06358d443a5f350d5ff27e8e64a03f73d202d5"/>
+	</game>
+	<game name="Amiga News - N.031 (1990-12)(NewsEdition)(FR)">
+		<description>Amiga News - N.031 (1990-12)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.031 (1990-12)(NewsEdition)(FR).pdf" size="27491796" crc="0265fccb" md5="448462c623089defef3136e810b0fb6a" sha1="20eb61715ba8558ae11d612adb1b6cf437e9e71b"/>
+	</game>
+	<game name="Amiga News - N.032 (1991-01-02)(NewsEdition)(FR)">
+		<description>Amiga News - N.032 (1991-01-02)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.032 (1991-01-02)(NewsEdition)(FR).pdf" size="23375359" crc="6c03e217" md5="1a7c6c8f3dc98dc563b5ff9560a1e4de" sha1="123e83ac65a4db034a8cf57b0b7484228797aa46"/>
+	</game>
+	<game name="Amiga News - N.033 (1991-03)(NewsEdition)(FR)">
+		<description>Amiga News - N.033 (1991-03)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.033 (1991-03)(NewsEdition)(FR).pdf" size="24500834" crc="585298c1" md5="5d3de735856a6d64df289951e471f049" sha1="b1d3f6630639ba78fde0545d26b3a2272f51d93b"/>
+	</game>
+	<game name="Amiga News - N.034 (1991-04)(NewsEdition)(FR)">
+		<description>Amiga News - N.034 (1991-04)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.034 (1991-04)(NewsEdition)(FR).pdf" size="25793368" crc="6a0530b3" md5="b834e5d41d249a1f476f88928f8a7785" sha1="e0d0d6b0e9b0c264506fd8dc8dd315bfdb1e8016"/>
+	</game>
+	<game name="Amiga News - N.035 (1991-05)(NewsEdition)(FR)">
+		<description>Amiga News - N.035 (1991-05)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.035 (1991-05)(NewsEdition)(FR).pdf" size="29486032" crc="f4215434" md5="edb6c64f1493b1247c216a0b017de7ea" sha1="c3dac9e1fd4256191f3983144e010285d86ae2c3"/>
+	</game>
+	<game name="Amiga News - N.036 (1991-06)(NewsEdition)(FR)">
+		<description>Amiga News - N.036 (1991-06)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.036 (1991-06)(NewsEdition)(FR).pdf" size="51011053" crc="d2f1e1f0" md5="915b6f44deb8818f2f73a520fc18ddcb" sha1="a212059d39f1f52b7793fdd44d0bc8f23727faf9"/>
+	</game>
+	<game name="Amiga News - N.037 (1991-07-08)(NewsEdition)(FR)">
+		<description>Amiga News - N.037 (1991-07-08)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.037 (1991-07-08)(NewsEdition)(FR).pdf" size="50959428" crc="9d42788f" md5="8a29862bea97b9200d85a573c02aa595" sha1="d2ae2db591c12559e1d0bfa0bdd14e6d52bc9cf8"/>
+	</game>
+	<game name="Amiga News - N.038 (1991-09)(NewsEdition)(FR)">
+		<description>Amiga News - N.038 (1991-09)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.038 (1991-09)(NewsEdition)(FR).pdf" size="44468562" crc="519eaefb" md5="ce5eb2d39925a276500c88eabac555dd" sha1="fa3e628004252bb8800db72d6467b5612c2729d7"/>
+	</game>
+	<game name="Amiga News - N.039 (1991-10)(NewsEdition)(FR)">
+		<description>Amiga News - N.039 (1991-10)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.039 (1991-10)(NewsEdition)(FR).pdf" size="23515721" crc="3bef2bc0" md5="21de8eacffbe31c51a59d250dd82bf0a" sha1="5ca22a5f1221b13ed9fee5a58302cec9339a5b1f"/>
+	</game>
+	<game name="Amiga News - N.040 (1991-11)(NewsEdition)(FR)">
+		<description>Amiga News - N.040 (1991-11)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.040 (1991-11)(NewsEdition)(FR).pdf" size="57492780" crc="df06e3ee" md5="a2c31a55c146b2f554687dae3d957d85" sha1="73584061b733478b96ab7da0a46daa366b46c414"/>
+	</game>
+	<game name="Amiga News - N.041 (1991-12)(NewsEdition)(FR)">
+		<description>Amiga News - N.041 (1991-12)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.041 (1991-12)(NewsEdition)(FR).pdf" size="52124317" crc="03bb4745" md5="778fddf497972e39c4ce065c2a76f186" sha1="1ed07b2c642c6bf42b9ed8113e168349ab0e07e7"/>
+	</game>
+	<game name="Amiga News - N.042 (1992-01)(NewsEdition)(FR)">
+		<description>Amiga News - N.042 (1992-01)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.042 (1992-01)(NewsEdition)(FR).pdf" size="26437213" crc="bb776932" md5="0a5b44e200251106e0da17dcb1b3d2b2" sha1="73717a732a7164015aa163f1d3fd93586e219dfd"/>
+	</game>
+	<game name="Amiga News - N.043 (1992-02)(NewsEdition)(FR)">
+		<description>Amiga News - N.043 (1992-02)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.043 (1992-02)(NewsEdition)(FR).pdf" size="59486611" crc="a098644f" md5="711739be18abc6a73b3ac505144af5c7" sha1="0e3ed9495c88ec68b7ea460319a4dc1f4d085375"/>
+	</game>
+	<game name="Amiga News - N.044 (1992-03)(NewsEdition)(FR)">
+		<description>Amiga News - N.044 (1992-03)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.044 (1992-03)(NewsEdition)(FR).pdf" size="26884453" crc="c31517cd" md5="44007a1e57b71bb5e434b806dad4acbc" sha1="28c3f4fe0737d3259c61b045fc45c6c3eb604137"/>
+	</game>
+	<game name="Amiga News - N.045 (1992-04)(NewsEdition)(FR)">
+		<description>Amiga News - N.045 (1992-04)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.045 (1992-04)(NewsEdition)(FR).pdf" size="52835818" crc="ffd32799" md5="c89fdf454445c7d56056c82d00cc92d8" sha1="f9053345a8421062be31fe44f8edd72ee6c5f9a4"/>
+	</game>
+	<game name="Amiga News - N.046 (1992-05)(NewsEdition)(FR)">
+		<description>Amiga News - N.046 (1992-05)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.046 (1992-05)(NewsEdition)(FR).pdf" size="57743245" crc="a063ebbf" md5="66450324cf697d89098a81cf7ddd5af2" sha1="1925fad4c3c2c5c57e2a2a0b07be7387813d98e9"/>
+	</game>
+	<game name="Amiga News - N.047 (1992-06)(NewsEdition)(FR)">
+		<description>Amiga News - N.047 (1992-06)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.047 (1992-06)(NewsEdition)(FR).pdf" size="48365974" crc="a77e3f4f" md5="03a3f79ef6b18d3728151fec7b9e4d24" sha1="bdefce7aa69145c50a763a6bdd29c3a6a949824c"/>
+	</game>
+	<game name="Amiga News - N.048 (1992-07-08)(NewsEdition)(FR)">
+		<description>Amiga News - N.048 (1992-07-08)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.048 (1992-07-08)(NewsEdition)(FR).pdf" size="48574353" crc="469aec2f" md5="ae99a6d9a2e0b42dc520c8ce945e0c19" sha1="345349861d8e661b37c9f6eea3bd0dd6751bb085"/>
+	</game>
+	<game name="Amiga News - N.049 (1992-09)(NewsEdition)(FR)">
+		<description>Amiga News - N.049 (1992-09)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.049 (1992-09)(NewsEdition)(FR).pdf" size="56028765" crc="5de31881" md5="bc42ca5410e57cab916b910c7ec6e81c" sha1="8383f148024011450988ac9a450e057b7c3160cd"/>
+	</game>
+	<game name="Amiga News - N.050 (1992-10)(NewsEdition)(FR)">
+		<description>Amiga News - N.050 (1992-10)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.050 (1992-10)(NewsEdition)(FR).pdf" size="25585910" crc="4b5de49c" md5="35f04160adbfd4f7947ffe5bf66ad572" sha1="4751dcf7e4548b902ea2b7bb29dd60f232baebc7"/>
+	</game>
+	<game name="Amiga News - N.051 (1992-11)(NewsEdition)(FR)">
+		<description>Amiga News - N.051 (1992-11)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.051 (1992-11)(NewsEdition)(FR).pdf" size="48966505" crc="fc688943" md5="fc96cdbc803fde341602d25930d0c916" sha1="57d20a4be1118983910f26e46ae705683eacc130"/>
+	</game>
+	<game name="Amiga News - N.052 (1992-12)(NewsEdition)(FR)">
+		<description>Amiga News - N.052 (1992-12)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.052 (1992-12)(NewsEdition)(FR).pdf" size="31611196" crc="3b97eb38" md5="30fcb54c40c9b88de4922ca43cbf6c35" sha1="6b748de43f7e8e38071ac6c2a9eb71964c49bc92"/>
+	</game>
+	<game name="Amiga News - N.053 (1993-01)(NewsEdition)(FR)">
+		<description>Amiga News - N.053 (1993-01)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.053 (1993-01)(NewsEdition)(FR).pdf" size="48682926" crc="fff28747" md5="335c425a289f10d8109f821ec8ef4d5f" sha1="53d003ae5e0a4381de45d54bd99f2e5d6ea78c59"/>
+	</game>
+	<game name="Amiga News - N.054 (1993-02)(NewsEdition)(FR)">
+		<description>Amiga News - N.054 (1993-02)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.054 (1993-02)(NewsEdition)(FR).pdf" size="49160380" crc="59e3ac2a" md5="f812d49b3aeef180e7ada789f328db42" sha1="ec635c2f808c1c8c048740cb38f0c3118db9b410"/>
+	</game>
+	<game name="Amiga News - N.055 (1993-03)(NewsEdition)(FR)">
+		<description>Amiga News - N.055 (1993-03)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.055 (1993-03)(NewsEdition)(FR).pdf" size="26873961" crc="e6e81320" md5="e2caa4f959d08a02bdd2ed65c08a749f" sha1="78ee542d897c2ee384cd9cd064321cceb0079103"/>
+	</game>
+	<game name="Amiga News - N.056 (1993-04)(NewsEdition)(FR)">
+		<description>Amiga News - N.056 (1993-04)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.056 (1993-04)(NewsEdition)(FR).pdf" size="47284933" crc="8dbe6744" md5="8b09baddef55647fa343a31419d51843" sha1="bb2a56fe5ef836b28f80657b402e19e4818651d0"/>
+	</game>
+	<game name="Amiga News - N.057 (1993-05)(NewsEdition)(FR)">
+		<description>Amiga News - N.057 (1993-05)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.057 (1993-05)(NewsEdition)(FR).pdf" size="99786220" crc="b12d0b7a" md5="d3b5ebf3e483280fa06c4391bdefbe5f" sha1="f6f703ec0ce5665b2666a9402e0980da221f1c3f"/>
+	</game>
+	<game name="Amiga News - N.058 (1993-06)(NewsEdition)(FR)">
+		<description>Amiga News - N.058 (1993-06)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.058 (1993-06)(NewsEdition)(FR).pdf" size="47777310" crc="8af65187" md5="44acbfbc805277634dfd8be9034cfeb9" sha1="1eed68d4bd776ed4329b6e931512fad4323f7908"/>
+	</game>
+	<game name="Amiga News - N.059 (1993-07-08)(NewsEdition)(FR)">
+		<description>Amiga News - N.059 (1993-07-08)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.059 (1993-07-08)(NewsEdition)(FR).pdf" size="64945968" crc="1944e336" md5="775d2caea1660fbafb28317fec6cf39d" sha1="02abc98eee4e50fdcbcfba7b710287d4d5ed3001"/>
+	</game>
+	<game name="Amiga News - N.060 (1993-09)(NewsEdition)(FR)">
+		<description>Amiga News - N.060 (1993-09)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.060 (1993-09)(NewsEdition)(FR).pdf" size="58063172" crc="e4d3a8ca" md5="5acf71f5e6274f329fa87b8b4e4021b8" sha1="392433385a6908c90fee1306555d05dcafd98921"/>
+	</game>
+	<game name="Amiga News - N.061 (1993-10)(NewsEdition)(FR)">
+		<description>Amiga News - N.061 (1993-10)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.061 (1993-10)(NewsEdition)(FR).pdf" size="57533409" crc="68a4db2e" md5="a039cd5bd2bcc983913001dbdd7fc18b" sha1="41aa490fd1f73664c2ed035b5e289e49b63e3be8"/>
+	</game>
+	<game name="Amiga News - N.062 (1993-11)(NewsEdition)(FR)">
+		<description>Amiga News - N.062 (1993-11)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.062 (1993-11)(NewsEdition)(FR).pdf" size="59423635" crc="d1e35479" md5="159ae8a83de5ce5590253076c301dbb0" sha1="34301ca8eb0fa4d4a590db85f9adc702b1bdf81b"/>
+	</game>
+	<game name="Amiga News - N.063 (1993-12)(NewsEdition)(FR)">
+		<description>Amiga News - N.063 (1993-12)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.063 (1993-12)(NewsEdition)(FR).pdf" size="62803873" crc="c3980305" md5="87ea61d1357817b148db4e87d9615423" sha1="e72a5d9d6fc8c23cec0d6bce53d5950b6ebb7c10"/>
+	</game>
+	<game name="Amiga News - N.064 (1994-01)(NewsEdition)(FR)">
+		<description>Amiga News - N.064 (1994-01)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.064 (1994-01)(NewsEdition)(FR).pdf" size="34869489" crc="84dadefc" md5="5f4ae0387aca38daf98d15edc54460da" sha1="0247ef9d4ddb580b2d8a309d7d3e9ea07e93e00d"/>
+	</game>
+	<game name="Amiga News - N.065 (1994-02)(NewsEdition)(FR)">
+		<description>Amiga News - N.065 (1994-02)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.065 (1994-02)(NewsEdition)(FR).pdf" size="34847352" crc="9f0ab606" md5="6bed7f07528184ed8f0549bc1ba3a73f" sha1="2ea96e7780fe5f1830c446ca13bfc9d084d74a0a"/>
+	</game>
+	<game name="Amiga News - N.066 (1994-03)(NewsEdition)(FR)">
+		<description>Amiga News - N.066 (1994-03)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.066 (1994-03)(NewsEdition)(FR).pdf" size="57803523" crc="c1b2fb38" md5="2d2255b442fe222d0181418b2bb79bcc" sha1="d5f473ad68774b7de95273120be72bedae0e4a20"/>
+	</game>
+	<game name="Amiga News - N.067 (1994-04)(NewsEdition)(FR)">
+		<description>Amiga News - N.067 (1994-04)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.067 (1994-04)(NewsEdition)(FR).pdf" size="35994892" crc="d355e829" md5="86797518b23b725925da810bf9309f07" sha1="c6624d50b52e762a1d5c0671b51693447398a7df"/>
+	</game>
+	<game name="Amiga News - N.068 (1994-05)(NewsEdition)(FR)">
+		<description>Amiga News - N.068 (1994-05)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.068 (1994-05)(NewsEdition)(FR).pdf" size="56172706" crc="d83d268c" md5="64e27ea17f085f77c380bdac99b55a3f" sha1="7bc21d015cf71b1a655ed7b63837ffb836eced19"/>
+	</game>
+	<game name="Amiga News - N.069 (1994-06)(NewsEdition)(FR)">
+		<description>Amiga News - N.069 (1994-06)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.069 (1994-06)(NewsEdition)(FR).pdf" size="35808183" crc="b0bd9b3b" md5="ab34c210e6f40a7df5bd7b772470f188" sha1="e7c7a83437df357994ccfd525531ad504f7d69f5"/>
+	</game>
+	<game name="Amiga News - N.070 (1994-07-08)(NewsEdition)(FR)">
+		<description>Amiga News - N.070 (1994-07-08)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.070 (1994-07-08)(NewsEdition)(FR).pdf" size="34920658" crc="d0aad373" md5="db8bcd0466c1bd0775105b3ed11db103" sha1="5ca1321e46696fa3b734a0c1de55ead7405ba29b"/>
+	</game>
+	<game name="Amiga News - N.071 (1994-09)(NewsEdition)(FR)">
+		<description>Amiga News - N.071 (1994-09)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.071 (1994-09)(NewsEdition)(FR).pdf" size="41141738" crc="fd0495f3" md5="69b540ff762402f13f9abc92bf2d1eb7" sha1="bc7ce80af04b6ebc1a1ea0615c6b1f21b5fd5676"/>
+	</game>
+	<game name="Amiga News - N.072 (1994-10)(NewsEdition)(FR)">
+		<description>Amiga News - N.072 (1994-10)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.072 (1994-10)(NewsEdition)(FR).pdf" size="34181562" crc="9c3c5e34" md5="2aa576c185d691b256cdf83285344327" sha1="c44e48576c4096ceb1a90d01daceae6df844c41f"/>
+	</game>
+	<game name="Amiga News - N.073 (1994-11)(NewsEdition)(FR)">
+		<description>Amiga News - N.073 (1994-11)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.073 (1994-11)(NewsEdition)(FR).pdf" size="33982111" crc="7293fb99" md5="3c4fc71c339c6e6c53b4c571a2029811" sha1="09ef49cdbe6db9d56c9532f87d17b88094c60029"/>
+	</game>
+	<game name="Amiga News - N.074 (1994-12)(NewsEdition)(FR)">
+		<description>Amiga News - N.074 (1994-12)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.074 (1994-12)(NewsEdition)(FR).pdf" size="35624555" crc="cbd18338" md5="9e445a84ec0865e47e214f8ee91a5218" sha1="8c2d30ac9c352e62eda5ee816ed0cadf2ab915e3"/>
+	</game>
+	<game name="Amiga News - N.075 (1995-01)(NewsEdition)(FR)">
+		<description>Amiga News - N.075 (1995-01)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.075 (1995-01)(NewsEdition)(FR).pdf" size="30877172" crc="db12e204" md5="bf9f201f674761e8399543432c36c2ee" sha1="e186a7a93fde0d2ddc7c8c8961e84fba4bf05e88"/>
+	</game>
+	<game name="Amiga News - N.076 (1995-02)(NewsEdition)(FR)">
+		<description>Amiga News - N.076 (1995-02)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.076 (1995-02)(NewsEdition)(FR).pdf" size="27160218" crc="91432b36" md5="7126a37a330ae4e6994225d7c3b5bc49" sha1="8e3aa59580ab1c85118372fce3cc863b27090b97"/>
+	</game>
+	<game name="Amiga News - N.077 (1995-03)(NewsEdition)(FR)">
+		<description>Amiga News - N.077 (1995-03)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.077 (1995-03)(NewsEdition)(FR).pdf" size="27259077" crc="9df837b5" md5="765b7bad4dcc0514da66de00a83dd38d" sha1="2dd3294e80986d87f31243e7beec396074a241ef"/>
+	</game>
+	<game name="Amiga News - N.078 (1995-04)(NewsEdition)(FR)">
+		<description>Amiga News - N.078 (1995-04)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.078 (1995-04)(NewsEdition)(FR).pdf" size="28618474" crc="fe934428" md5="57c89450397797901b1f27112d778c56" sha1="d655645b04b246363dc0a3353fc4874aafe5ca46"/>
+	</game>
+	<game name="Amiga News - N.079 (1995-05)(NewsEdition)(FR)">
+		<description>Amiga News - N.079 (1995-05)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.079 (1995-05)(NewsEdition)(FR).pdf" size="27388888" crc="008ae7b9" md5="1ac0bb15550510261d6f7486eff66e10" sha1="c89e8cb40d3c61cb6b94120c77206dfa81699d6d"/>
+	</game>
+	<game name="Amiga News - N.080 (1995-06)(NewsEdition)(FR)">
+		<description>Amiga News - N.080 (1995-06)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.080 (1995-06)(NewsEdition)(FR).pdf" size="28925668" crc="828c9424" md5="98610120bfcc62b5856584646bd22aa5" sha1="c72a9351432292ea5fd26f6a71f903d0a62a2c25"/>
+	</game>
+	<game name="Amiga News - N.081 (1995-07-08)(NewsEdition)(FR)">
+		<description>Amiga News - N.081 (1995-07-08)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.081 (1995-07-08)(NewsEdition)(FR).pdf" size="27647742" crc="c763873d" md5="49e7d50fea10c424826ac6f1e1e015a8" sha1="22237dbc1f17186f0e4f4cad92eacac5b1dc308b"/>
+	</game>
+	<game name="Amiga News - N.082 (1995-09)(NewsEdition)(FR)">
+		<description>Amiga News - N.082 (1995-09)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.082 (1995-09)(NewsEdition)(FR).pdf" size="27752680" crc="bc173bf3" md5="94cf43ea0665b386deb1c8356e6c09db" sha1="0678454753eb31d63dd698514b19701fe9da4c58"/>
+	</game>
+	<game name="Amiga News - N.083 (1995-10)(NewsEdition)(FR)">
+		<description>Amiga News - N.083 (1995-10)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.083 (1995-10)(NewsEdition)(FR).pdf" size="29521425" crc="c7c501a3" md5="5686cf0aeb0f938d77f0d38e6ac20d7b" sha1="ecc1700b5a4544ddece4ac91650f8fca0bd08436"/>
+	</game>
+	<game name="Amiga News - N.084 (1995-11)(NewsEdition)(FR)">
+		<description>Amiga News - N.084 (1995-11)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.084 (1995-11)(NewsEdition)(FR).pdf" size="29534841" crc="2e2d8ed4" md5="aab20d420dd8e8c9de4211853bc3c1ec" sha1="73f1b3c4e8e02462d1395630ae2849da861d4971"/>
+	</game>
+	<game name="Amiga News - N.085 (1995-12)(NewsEdition)(FR)">
+		<description>Amiga News - N.085 (1995-12)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.085 (1995-12)(NewsEdition)(FR).pdf" size="31800779" crc="94387da7" md5="bd779ad949de6e7a895bde2d1fbfdc22" sha1="290172b44edc843b6bfc63bbb9d99b66baa3926f"/>
+	</game>
+	<game name="Amiga News - N.086 (1996-01)(NewsEdition)(FR)">
+		<description>Amiga News - N.086 (1996-01)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.086 (1996-01)(NewsEdition)(FR).pdf" size="41053460" crc="837eec15" md5="fe2ac5b3fffb900d3406fe5b3c607c51" sha1="11eb3e7042c2ac9a9eb6f260d83090d7fee99636"/>
+	</game>
+	<game name="Amiga News - N.087 (1996-02)(NewsEdition)(FR)">
+		<description>Amiga News - N.087 (1996-02)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.087 (1996-02)(NewsEdition)(FR).pdf" size="37900723" crc="09cb4215" md5="f564b1dae1373a21f8890da2588910da" sha1="ad4f15bc09b817cacf2e78d7c0b8c0e869411eba"/>
+	</game>
+	<game name="Amiga News - N.088 (1996-03)(NewsEdition)(FR)">
+		<description>Amiga News - N.088 (1996-03)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.088 (1996-03)(NewsEdition)(FR).pdf" size="37954365" crc="1f23314b" md5="f5f3d10d2a24a6faa477e40bfbccdc6e" sha1="0fcc553da541d584bf4596d693eb3a67978c8596"/>
+	</game>
+	<game name="Amiga News - N.089 (1996-04)(NewsEdition)(FR)">
+		<description>Amiga News - N.089 (1996-04)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.089 (1996-04)(NewsEdition)(FR).pdf" size="27883315" crc="1297243e" md5="5433cdb8452ce191f56a560048cff2e6" sha1="a13b656c4a0f12be164e629dfc6a7c309ac6a964"/>
+	</game>
+	<game name="Amiga News - N.090 (1996-05)(NewsEdition)(FR)">
+		<description>Amiga News - N.090 (1996-05)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.090 (1996-05)(NewsEdition)(FR).pdf" size="38466416" crc="49ebd74f" md5="96947f0bc4a2b40eea74f27905e512ed" sha1="92b909fd1b2124d744d458821c59547d85b8197a"/>
+	</game>
+	<game name="Amiga News - N.091 (1996-06)(NewsEdition)(FR)">
+		<description>Amiga News - N.091 (1996-06)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.091 (1996-06)(NewsEdition)(FR).pdf" size="28378228" crc="7392c0f2" md5="7ed4786214937ed33091211259cfa40e" sha1="cfc19542757c912a1b98bfd459a2d16141d19210"/>
+	</game>
+	<game name="Amiga News - N.092 (1996-07-08)(NewsEdition)(FR)">
+		<description>Amiga News - N.092 (1996-07-08)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.092 (1996-07-08)(NewsEdition)(FR).pdf" size="30137094" crc="f8955942" md5="3be498988f167512da12451df1c6ba3b" sha1="1270bfa605df0b2d9ff83c2e373907545623b645"/>
+	</game>
+	<game name="Amiga News - N.093 (1996-09)(NewsEdition)(FR)">
+		<description>Amiga News - N.093 (1996-09)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.093 (1996-09)(NewsEdition)(FR).pdf" size="38665501" crc="8af30511" md5="bf6600d2844ae1150aa73e7143e5860e" sha1="d2b2bf7f82f995176acc96488492a71d4c61b2be"/>
+	</game>
+	<game name="Amiga News - N.094 (1996-10)(NewsEdition)(FR)">
+		<description>Amiga News - N.094 (1996-10)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.094 (1996-10)(NewsEdition)(FR).pdf" size="39622839" crc="522ad41a" md5="f370be8e21be82d31e5142d5e4826038" sha1="9e9b4be0ff6e87a46158cfdf7a023326fe4c93c6"/>
+	</game>
+	<game name="Amiga News - N.095 (1996-11)(NewsEdition)(FR)">
+		<description>Amiga News - N.095 (1996-11)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.095 (1996-11)(NewsEdition)(FR).pdf" size="39004552" crc="ee7b19e1" md5="f2cc9ac3f99b7dc493476848faaa202f" sha1="983266e631f423c814e99d0dd2c12ea9e02981a0"/>
+	</game>
+	<game name="Amiga News - N.096 (1996-12)(NewsEdition)(FR)">
+		<description>Amiga News - N.096 (1996-12)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.096 (1996-12)(NewsEdition)(FR).pdf" size="29223625" crc="7ab11ad6" md5="fd0fa3235b661c9df1cd5504742e7aae" sha1="69ff2a6bd2944e915cbf0d47417b004d0ee2a39c"/>
+	</game>
+	<game name="Amiga News - N.097 (1997-01)(NewsEdition)(FR)">
+		<description>Amiga News - N.097 (1997-01)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.097 (1997-01)(NewsEdition)(FR).pdf" size="39106447" crc="0aeaa2b5" md5="4fd500a358bb0f4071345c36bb54c5ee" sha1="d51532fc56ebc15fa1ad6785213bc45ebd606095"/>
+	</game>
+	<game name="Amiga News - N.098 (1998-02)(NewsEdition)(FR)">
+		<description>Amiga News - N.098 (1998-02)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.098 (1998-02)(NewsEdition)(FR).pdf" size="47589913" crc="6cf6efba" md5="52ccb2106250e2227bd382e0a97f89c0" sha1="773562de9e987b00fdfb7bdc80c4c60429a36410"/>
+	</game>
+	<game name="Amiga News - N.099 (1998-03)(NewsEdition)(FR)">
+		<description>Amiga News - N.099 (1998-03)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.099 (1998-03)(NewsEdition)(FR).pdf" size="38663830" crc="d6f0a678" md5="cbc71fb90598fbbf9592787682918431" sha1="c01f281f2b768a107e1e8e70d80f6c7fbf198ed6"/>
+	</game>
+	<game name="Amiga News - N.100 (1997-04)(NewsEdition)(FR)">
+		<description>Amiga News - N.100 (1997-04)(NewsEdition)(FR)</description>
+		<rom name="Amiga News - N.100 (1997-04)(NewsEdition)(FR).pdf" size="38592801" crc="52403a42" md5="261099259d66a50e86775d84e3253d2b" sha1="16b249a89cb38b3f5b2c3a78f4faded6f8035be0"/>
+	</game>
+</datafile>

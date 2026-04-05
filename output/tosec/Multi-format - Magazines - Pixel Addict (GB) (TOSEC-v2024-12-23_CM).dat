@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Pixel Addict (GB)</name>
+		<description>Multi-format - Magazines - Pixel Addict (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pixel Addict - Issue 01 (2022)(Addict Media)(GB)">
+		<description>Pixel Addict - Issue 01 (2022)(Addict Media)(GB)</description>
+		<rom name="Pixel Addict - Issue 01 (2022)(Addict Media)(GB).pdf" size="22586938" crc="e9164b06" md5="770eb9d08cbbac1d512e786a146b4ee3" sha1="59d595dbf0120c2647a2ccea52ff5cef32a79d5e"/>
+	</game>
+	<game name="Pixel Addict - Issue 02 (2022)(Addict Media)(GB)">
+		<description>Pixel Addict - Issue 02 (2022)(Addict Media)(GB)</description>
+		<rom name="Pixel Addict - Issue 02 (2022)(Addict Media)(GB).pdf" size="92146509" crc="112d6a51" md5="2921e04fd35ef085417cefc33086f0cd" sha1="58aee0be662cf0c66c5ee443f590a29d9b6b8af3"/>
+	</game>
+	<game name="Pixel Addict - Issue 03 (2022)(Addict Media)(GB)">
+		<description>Pixel Addict - Issue 03 (2022)(Addict Media)(GB)</description>
+		<rom name="Pixel Addict - Issue 03 (2022)(Addict Media)(GB).pdf" size="29361268" crc="fabff73e" md5="450cb24183a8f83c945c13d2c5ffcd87" sha1="096e44cc8f2690e9fb531c754f53fe72c3127db4"/>
+	</game>
+	<game name="Pixel Addict - Issue 04 (2022)(Addict Media)(GB)">
+		<description>Pixel Addict - Issue 04 (2022)(Addict Media)(GB)</description>
+		<rom name="Pixel Addict - Issue 04 (2022)(Addict Media)(GB).pdf" size="24640102" crc="05a7106b" md5="959b5167bd46b4cb25b355c54d086031" sha1="40b8edbd9363b2b5f24392e354455885fca1c18f"/>
+	</game>
+	<game name="Pixel Addict - Issue 05 (2022)(Addict Media)(GB)">
+		<description>Pixel Addict - Issue 05 (2022)(Addict Media)(GB)</description>
+		<rom name="Pixel Addict - Issue 05 (2022)(Addict Media)(GB).pdf" size="30612875" crc="cfd0b36c" md5="eaf13fb3557486caee7b613b9c1427e3" sha1="81a54215c16e2d3e7cb053d9a58189db921183ce"/>
+	</game>
+	<game name="Pixel Addict - Issue 06 (2022)(Addict Media)(GB)">
+		<description>Pixel Addict - Issue 06 (2022)(Addict Media)(GB)</description>
+		<rom name="Pixel Addict - Issue 06 (2022)(Addict Media)(GB).pdf" size="28636778" crc="f36be9fa" md5="674dd30f6d5e8c6cd7c361c882cd2205" sha1="cb2ca055b4ef16eefb80fa8e8e36cca2b10ccaaf"/>
+	</game>
+	<game name="Pixel Addict - Issue 07 (2022)(Addict Media)(GB)">
+		<description>Pixel Addict - Issue 07 (2022)(Addict Media)(GB)</description>
+		<rom name="Pixel Addict - Issue 07 (2022)(Addict Media)(GB).pdf" size="37128229" crc="0eaa915c" md5="d46e9dc4ca206e9117c77d122aaae10d" sha1="0554f40c8006654c1344f285fad962e6ac299844"/>
+	</game>
+	<game name="Pixel Addict - Issue 08 (2022)(Addict Media)(GB)">
+		<description>Pixel Addict - Issue 08 (2022)(Addict Media)(GB)</description>
+		<rom name="Pixel Addict - Issue 08 (2022)(Addict Media)(GB).pdf" size="39554998" crc="4d96849d" md5="3668050119ee210f15067b0847c54960" sha1="894126256938195caf8075db58415358e7040edc"/>
+	</game>
+	<game name="Pixel Addict - Issue 09 (2023)(Addict Media)(GB)">
+		<description>Pixel Addict - Issue 09 (2023)(Addict Media)(GB)</description>
+		<rom name="Pixel Addict - Issue 09 (2023)(Addict Media)(GB).pdf" size="42095405" crc="aa38f661" md5="3d53d65cceb5def7d33ecca5c9f1f45a" sha1="8fd96253993718351311c826bafb787982bbe185"/>
+	</game>
+	<game name="Pixel Addict - Issue 10 (2023)(Addict Media)(GB)">
+		<description>Pixel Addict - Issue 10 (2023)(Addict Media)(GB)</description>
+		<rom name="Pixel Addict - Issue 10 (2023)(Addict Media)(GB).pdf" size="34910860" crc="7ae1f90e" md5="5dc662d5685669ea94c34b9602e0b63b" sha1="80ca99d2d81d8f7b959d25e047a1d3f084d4ab98"/>
+	</game>
+</datafile>

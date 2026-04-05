@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - PC World (NZ)</name>
+		<description>IBM PC Compatibles - Magazines - PC World (NZ) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC World - Issue 249 (2011-06)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 249 (2011-06)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 249 (2011-06)(Fairfax Media Business Group)(NZ).pdf" size="39511977" crc="bd67d2bb" md5="b914820be0023a312e50401e73750d85" sha1="89c891cf9d32b1629923f3e4cc439a5e977ed908"/>
+	</game>
+	<game name="PC World - Issue 250 (2011-07)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 250 (2011-07)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 250 (2011-07)(Fairfax Media Business Group)(NZ).pdf" size="41201830" crc="7abc0e39" md5="707f5dda4e358e8fc3b8329bacc000f7" sha1="7a617a4ec14adfbad9f26db4cf946c3bda4cdaa8"/>
+	</game>
+	<game name="PC World - Issue 251 (2011-08)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 251 (2011-08)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 251 (2011-08)(Fairfax Media Business Group)(NZ).pdf" size="106640466" crc="98d2abe0" md5="02a30695eaa1583f961d49849208090b" sha1="699fae7934983e932073dc0c8c743561651cf871"/>
+	</game>
+	<game name="PC World - Issue 252 (2011-09)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 252 (2011-09)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 252 (2011-09)(Fairfax Media Business Group)(NZ).pdf" size="33235532" crc="9490df5f" md5="bf1da330a4947b36be53f1714a55487b" sha1="15f38287c8c079c6f3b06bea97bfca74372157fc"/>
+	</game>
+	<game name="PC World - Issue 253 (2011-10)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 253 (2011-10)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 253 (2011-10)(Fairfax Media Business Group)(NZ).pdf" size="106489249" crc="af551760" md5="657820aa6d30d10080e11da9ed898cee" sha1="43f017f2edb42897e9dc54870a62167f510399e8"/>
+	</game>
+	<game name="PC World - Issue 254 (2011-11)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 254 (2011-11)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 254 (2011-11)(Fairfax Media Business Group)(NZ).pdf" size="34277223" crc="47b6aa22" md5="a55648709218e1fea36e922b5ec5e650" sha1="de9cd588d4565cc3b26642c2d480102ee29f5cf2"/>
+	</game>
+	<game name="PC World - Issue 256 (2012-02)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 256 (2012-02)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 256 (2012-02)(Fairfax Media Business Group)(NZ).pdf" size="42964079" crc="997e29be" md5="21f9dfb5655d7007a513ab353401f811" sha1="50b6d8cd14f7923c3505d637c9b34f257eed54f7"/>
+	</game>
+	<game name="PC World - Issue 257 (2012-03)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 257 (2012-03)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 257 (2012-03)(Fairfax Media Business Group)(NZ).pdf" size="42584276" crc="b4bf0a2a" md5="7873b9ebb881a546a45bc4ec7b23b99e" sha1="eaf27856ffec3a867e2b020cbc17ea582d61580d"/>
+	</game>
+	<game name="PC World - Issue 258 (2012-04)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 258 (2012-04)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 258 (2012-04)(Fairfax Media Business Group)(NZ).pdf" size="69718152" crc="8d26c444" md5="52694890c969675938c47f80e05dab01" sha1="cfc5bb1db530faa1fdfeec5d089f413fe65920fd"/>
+	</game>
+	<game name="PC World - Issue 259 (2012-05)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 259 (2012-05)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 259 (2012-05)(Fairfax Media Business Group)(NZ).pdf" size="40948253" crc="22081790" md5="fe2ad8ad179c248b8ef9d03aa584145a" sha1="94c76b98ce13d7597c0d79696e12bea59f9c11d1"/>
+	</game>
+	<game name="PC World - Issue 260 (2012-06)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 260 (2012-06)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 260 (2012-06)(Fairfax Media Business Group)(NZ).pdf" size="63711222" crc="39e22a19" md5="0efc2fae49e71dbc4b423bc82f4fa5bb" sha1="0dfb0369f4f1af7beababd95fb19bee6cf229104"/>
+	</game>
+	<game name="PC World - Issue 261 (2012-07)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 261 (2012-07)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 261 (2012-07)(Fairfax Media Business Group)(NZ).pdf" size="69588619" crc="4efb226e" md5="3402ead87ae6b0dd6d5a3de96d3fac4b" sha1="2c78985d96236fae520e017bfadc4c3093c9547f"/>
+	</game>
+	<game name="PC World - Issue 262 (2012-08)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 262 (2012-08)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 262 (2012-08)(Fairfax Media Business Group)(NZ).pdf" size="73472064" crc="f203cb67" md5="05793976e9e20235c795499d4dd67b41" sha1="717a38176e266cb3af788400c2e21d4fc055ff76"/>
+	</game>
+	<game name="PC World - Issue 263 (2012-09)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 263 (2012-09)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 263 (2012-09)(Fairfax Media Business Group)(NZ).pdf" size="83813518" crc="06a7a0e4" md5="7388d5bf8c0f976b00e6f990a0fabd14" sha1="9118efd52208683137487203b128b62312e2a8e6"/>
+	</game>
+	<game name="PC World - Issue 264 (2012-10)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 264 (2012-10)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 264 (2012-10)(Fairfax Media Business Group)(NZ).pdf" size="69372537" crc="184adb39" md5="7d2c8c60b8e64612c7082b7f500060cb" sha1="039d697c9469441c954e313f712f3e1bd2a4206d"/>
+	</game>
+	<game name="PC World - Issue 265 (2012-11)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 265 (2012-11)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 265 (2012-11)(Fairfax Media Business Group)(NZ).pdf" size="41603990" crc="b9bde105" md5="54dcc59bcbd2d8b67484203e56ce68af" sha1="c93b990b48990756dd91f86172858e9cdc8260e1"/>
+	</game>
+	<game name="PC World - Issue 266 (2012-12)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 266 (2012-12)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 266 (2012-12)(Fairfax Media Business Group)(NZ).pdf" size="84814809" crc="c295f4d9" md5="5796612f969a6e1f7a57158e09dc0dfe" sha1="3278f645b5981e452ef6bffc1934de9c5c04a522"/>
+	</game>
+	<game name="PC World - Issue 267 (2013-02)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 267 (2013-02)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 267 (2013-02)(Fairfax Media Business Group)(NZ).pdf" size="72595302" crc="6279c33b" md5="4a6c19e1b92d1f0c670dbdbd495f862e" sha1="b079f354c9bd0776389c81ae74c23201de07d7dd"/>
+	</game>
+	<game name="PC World - Issue 268 (2013-03)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 268 (2013-03)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 268 (2013-03)(Fairfax Media Business Group)(NZ).pdf" size="76675382" crc="a13e3cf4" md5="c94cb43040b2555728a0e52d6344dd15" sha1="32a6bd943d00b130123718946cfb91af595206b2"/>
+	</game>
+	<game name="PC World - Issue 269 (2013-04)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 269 (2013-04)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 269 (2013-04)(Fairfax Media Business Group)(NZ).pdf" size="42317391" crc="a792d99d" md5="f9a285d1392f2cc2e81ce651c5088ab9" sha1="1b2f615c7b58887bc1a6953be5d5de1021528883"/>
+	</game>
+	<game name="PC World - Issue 271 (2013-06)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 271 (2013-06)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 271 (2013-06)(Fairfax Media Business Group)(NZ).pdf" size="41655272" crc="cfe34c03" md5="8631ad206101c3f549b8345a72e73168" sha1="e78b6ac73f8b2f93fb5310c9048109cf89773bcb"/>
+	</game>
+	<game name="PC World - Issue 272 (2013-07)(Fairfax Media Business Group)(NZ)">
+		<description>PC World - Issue 272 (2013-07)(Fairfax Media Business Group)(NZ)</description>
+		<rom name="PC World - Issue 272 (2013-07)(Fairfax Media Business Group)(NZ).pdf" size="40893765" crc="517d681f" md5="7fc7cedaef4af0c7a8d2fe69ff5fbe9e" sha1="7e96d7b356e971be64da0ddf39454de506b849a6"/>
+	</game>
+</datafile>

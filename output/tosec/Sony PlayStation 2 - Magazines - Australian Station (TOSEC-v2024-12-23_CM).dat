@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - Australian Station</name>
+		<description>Sony PlayStation 2 - Magazines - Australian Station (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Australian Playstation - Issue 04 (1999-08)(Next Gaming)(AU)">
+		<description>Australian Playstation - Issue 04 (1999-08)(Next Gaming)(AU)</description>
+		<rom name="Australian Playstation - Issue 04 (1999-08)(Next Gaming)(AU).pdf" size="334708652" crc="8d7361c8" md5="b71e7f570e784914aea7e0f2e4a617f8" sha1="8027fa296f0eab7790209793fd950d944ef8082f"/>
+	</game>
+	<game name="Australian Station - Issue 11 (2000-04)(Next Gaming)(AU)">
+		<description>Australian Station - Issue 11 (2000-04)(Next Gaming)(AU)</description>
+		<rom name="Australian Station - Issue 11 (2000-04)(Next Gaming)(AU).pdf" size="273673010" crc="a877facb" md5="6bfc8d930601fff5c37295e9a660bfc5" sha1="a54169a014975d2c36d600868e9b631f362f6d9f"/>
+	</game>
+	<game name="Australian Station - Issue 12 (2000-05)(Next Gaming)(AU)">
+		<description>Australian Station - Issue 12 (2000-05)(Next Gaming)(AU)</description>
+		<rom name="Australian Station - Issue 12 (2000-05)(Next Gaming)(AU).pdf" size="275305685" crc="ed1e5a4c" md5="0dc656c57130e1abc00c43e2d3d8dcd5" sha1="04f7f1543e012758029f49d02eda00f7b946d373"/>
+	</game>
+	<game name="Australian Station - Issue 13 (2000-07)(Next Gaming)(AU)">
+		<description>Australian Station - Issue 13 (2000-07)(Next Gaming)(AU)</description>
+		<rom name="Australian Station - Issue 13 (2000-07)(Next Gaming)(AU).pdf" size="275611174" crc="16b33715" md5="a78449f467cd2b00fa68e3412c5bd503" sha1="94fe9b53281ac511045b543382b89d2ea64c3f4e"/>
+	</game>
+	<game name="Australian Station - Issue 15 (2000-09)(Next Gaming)(AU)">
+		<description>Australian Station - Issue 15 (2000-09)(Next Gaming)(AU)</description>
+		<rom name="Australian Station - Issue 15 (2000-09)(Next Gaming)(AU).pdf" size="248610862" crc="433839ec" md5="b9e3189c2eb6c0658d07c9ef5c13d5ff" sha1="23b642f09219b99f664f0800b53d2bd119569532"/>
+	</game>
+	<game name="Australian Station - Issue 16 (2000-10)(Next Gaming)(AU)">
+		<description>Australian Station - Issue 16 (2000-10)(Next Gaming)(AU)</description>
+		<rom name="Australian Station - Issue 16 (2000-10)(Next Gaming)(AU).pdf" size="306139724" crc="507855ed" md5="98547853c71832e1050571988dfc4745" sha1="b6f8b828e891ed645b1320a837c855c71c2119bc"/>
+	</game>
+	<game name="Australian Station - Issue 17 (2000-11)(Next Gaming)(AU)">
+		<description>Australian Station - Issue 17 (2000-11)(Next Gaming)(AU)</description>
+		<rom name="Australian Station - Issue 17 (2000-11)(Next Gaming)(AU).pdf" size="269381428" crc="2b4784d1" md5="43fee82a6062850a02a2831074a6213a" sha1="e53fe14bcf169cf6a4f4068dd21189d86ece0e85"/>
+	</game>
+</datafile>

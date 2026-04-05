@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - Sinclair Programs (GB)</name>
+		<description>Sinclair ZX Spectrum - Magazines - Sinclair Programs (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sinclair Programs - N.18 (1984-04)(ECC Publications)(GB)">
+		<description>Sinclair Programs - N.18 (1984-04)(ECC Publications)(GB)</description>
+		<rom name="Sinclair Programs - N.18 (1984-04)(ECC Publications)(GB).pdf" size="155428928" crc="d64d6834" md5="378b692d95c4a62b339f6fb29c80af80" sha1="cb021221d487dc881fd6105b46d8d6fab9c2f0e4"/>
+	</game>
+</datafile>

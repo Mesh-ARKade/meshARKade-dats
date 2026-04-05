@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Star Playstation (IT)</name>
+		<description>Sony PlayStation - Magazines - Star Playstation (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Star Playstation - Anno 1 N.01 (1999-05)(Star Comics)(IT)">
+		<description>Star Playstation - Anno 1 N.01 (1999-05)(Star Comics)(IT)</description>
+		<rom name="Star Playstation - Anno 1 N.01 (1999-05)(Star Comics)(IT).pdf" size="184353827" crc="5999fe5d" md5="67a1aaa7d927eebddecd5cc3d313d1be" sha1="c48b2127db53e7c9a81fbab194fc16693b605aee"/>
+	</game>
+	<game name="Star Playstation - Anno 1 N.03 (1999-07)(Star Comics)(IT)">
+		<description>Star Playstation - Anno 1 N.03 (1999-07)(Star Comics)(IT)</description>
+		<rom name="Star Playstation - Anno 1 N.03 (1999-07)(Star Comics)(IT).pdf" size="285846090" crc="ed8fd10e" md5="3c9ea425ab3e7997beb3f2d38dcf3029" sha1="57152fab43cf0376f8ad3164a2fb84d2c94559f7"/>
+	</game>
+</datafile>

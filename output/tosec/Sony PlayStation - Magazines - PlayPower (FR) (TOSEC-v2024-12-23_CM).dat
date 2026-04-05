@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PlayPower (FR)</name>
+		<description>Sony PlayStation - Magazines - PlayPower (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayPower (1999-11)(Future France)(FR)[supplement N.16]">
+		<description>PlayPower (1999-11)(Future France)(FR)[supplement N.16]</description>
+		<rom name="PlayPower (1999-11)(Future France)(FR)[supplement N.16].pdf" size="20651345" crc="6d4b0a44" md5="c83d80c340cf798260e8e769a3a54a1b" sha1="e524f3ec4d8770eb03cc6bf96372a465d9275077"/>
+	</game>
+	<game name="PlayPower - N.16 (1999-11)(Future France)(FR)">
+		<description>PlayPower - N.16 (1999-11)(Future France)(FR)</description>
+		<rom name="PlayPower - N.16 (1999-11)(Future France)(FR).pdf" size="109573757" crc="fb97f1e4" md5="079fa75ee91011ab43ca6fa225bb6003" sha1="c13d89691231c2e94b61abd31f83e6ea05625256"/>
+	</game>
+	<game name="PlayPower Hors-Serie N.8 Special Soluces (2000)(Future France)(FR)">
+		<description>PlayPower Hors-Serie N.8 Special Soluces (2000)(Future France)(FR)</description>
+		<rom name="PlayPower Hors-Serie N.8 Special Soluces (2000)(Future France)(FR).pdf" size="93693910" crc="2e694c3b" md5="1ed54f0f8c7102f3bacac5be0f7237a3" sha1="23ff6f0b17edb46e2374101d6a19b87c4ee27725"/>
+	</game>
+</datafile>

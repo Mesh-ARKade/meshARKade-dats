@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - play (US)</name>
+		<description>Multi-format - Magazines - play (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Holiday Gift Guide (2004-12)(Fusion Publishing)(US)[supplement issue 035]">
+		<description>Holiday Gift Guide (2004-12)(Fusion Publishing)(US)[supplement issue 035]</description>
+		<rom name="Holiday Gift Guide (2004-12)(Fusion Publishing)(US)[supplement issue 035].pdf" size="220287214" crc="717adcba" md5="b2c2a7124d35bd38f906bc28baa8c454" sha1="248e02e1f06de2a18736c382c381121ec365c0c2"/>
+	</game>
+	<game name="play - Issue 001 (2002-01)(Fusion Publishing)(US)">
+		<description>play - Issue 001 (2002-01)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 001 (2002-01)(Fusion Publishing)(US).pdf" size="201405975" crc="fd12706f" md5="d24691a6a1d90611bbec2bcfbce91ecb" sha1="c3efac5c71c303dd6fd6a6e2859a06f09bb2a1ef"/>
+	</game>
+	<game name="play - Issue 002 (2002-02)(Fusion Publishing)(US)">
+		<description>play - Issue 002 (2002-02)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 002 (2002-02)(Fusion Publishing)(US).pdf" size="216123271" crc="d74aadd4" md5="9744073d7175a0cbb3d5e93711d1f64f" sha1="79ac4a35f5d5c42b7cda5ab44cb45081e90f14f1"/>
+	</game>
+	<game name="play - Issue 003 (2002-03)(Fusion Publishing)(US)">
+		<description>play - Issue 003 (2002-03)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 003 (2002-03)(Fusion Publishing)(US).pdf" size="154584454" crc="bcbd06e4" md5="4348c3de6c3cca8a4b9320dbebeb4304" sha1="2a0752cc0e052bdf2179ccf23ec8029f8af1d273"/>
+	</game>
+	<game name="play - Issue 004 (2002-04)(Fusion Publishing)(US)">
+		<description>play - Issue 004 (2002-04)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 004 (2002-04)(Fusion Publishing)(US).pdf" size="154967057" crc="56f43d0a" md5="7f584be67d678d28e8dbf713dea7650a" sha1="a6cb97fe24a1f9c0ebbc452b5ae286ba6f81a851"/>
+	</game>
+	<game name="play - Issue 005 (2002-05)(Fusion Publishing)(US)">
+		<description>play - Issue 005 (2002-05)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 005 (2002-05)(Fusion Publishing)(US).pdf" size="160423794" crc="c4fd1933" md5="c4b2af062fd59449adb654b3c7b6b57f" sha1="30b676306f3d4377d1fc682263ba075ba48256a3"/>
+	</game>
+	<game name="play - Issue 006 (2002-06)(Fusion Publishing)(US)">
+		<description>play - Issue 006 (2002-06)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 006 (2002-06)(Fusion Publishing)(US).pdf" size="157850782" crc="2ac5cb56" md5="c11fa644266c1e1afcf32da3776d1932" sha1="ecfa8fe6e0ed7c2871e166db1f7d67f375a11b27"/>
+	</game>
+	<game name="play - Issue 007 (2002-07)(Fusion Publishing)(US)">
+		<description>play - Issue 007 (2002-07)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 007 (2002-07)(Fusion Publishing)(US).pdf" size="172948106" crc="fd99819d" md5="b4a3f1345fd861b1fca5b2e32de03ba1" sha1="37e679e474db697b721f5646d23b28c101a1f32b"/>
+	</game>
+	<game name="play - Issue 008 (2002-08)(Fusion Publishing)(US)">
+		<description>play - Issue 008 (2002-08)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 008 (2002-08)(Fusion Publishing)(US).pdf" size="157352602" crc="3c060a9d" md5="80e1603c69aa8db9d61e558a9267b182" sha1="b3065b109be1fc86a9858b169e81e2aaa18c084d"/>
+	</game>
+	<game name="play - Issue 009 (2002-09)(Fusion Publishing)(US)">
+		<description>play - Issue 009 (2002-09)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 009 (2002-09)(Fusion Publishing)(US).pdf" size="167777544" crc="7d30e448" md5="c14b6129a44af3ec270f37e317c9e703" sha1="1331daabea7b602dd8d2bb8cdbf8869c755ff99a"/>
+	</game>
+	<game name="play - Issue 010 (2002-10)(Fusion Publishing)(US)">
+		<description>play - Issue 010 (2002-10)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 010 (2002-10)(Fusion Publishing)(US).pdf" size="204175020" crc="1bef39ec" md5="6b9320a3bc8f28167c8d607b62feb42d" sha1="33b05efc6db3e14c8bbd8e376580bd1eac367f3b"/>
+	</game>
+	<game name="play - Issue 011 (2002-11)(Fusion Publishing)(US)">
+		<description>play - Issue 011 (2002-11)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 011 (2002-11)(Fusion Publishing)(US).pdf" size="187351226" crc="77e8957b" md5="4c2406923066543f2332244de9024340" sha1="370cdbf0ad674268663adbd7e16ee46a9a5fc6b9"/>
+	</game>
+	<game name="play - Issue 012 (2002-12)(Fusion Publishing)(US)">
+		<description>play - Issue 012 (2002-12)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 012 (2002-12)(Fusion Publishing)(US).pdf" size="196042952" crc="bd623ce2" md5="f18d250f6c498704717fec6eb232e46f" sha1="180cb5331820340b5e7bff321a266bf869f4eb05"/>
+	</game>
+	<game name="play - Issue 013 (2003-01)(Fusion Publishing)(US)">
+		<description>play - Issue 013 (2003-01)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 013 (2003-01)(Fusion Publishing)(US).pdf" size="149250354" crc="643b7daa" md5="e8267c89c073896518bf07a8b0ad26f7" sha1="47e462aaa95bad9e9178fd000097e717ffc7f05d"/>
+	</game>
+	<game name="play - Issue 014 (2003-02)(Fusion Publishing)(US)">
+		<description>play - Issue 014 (2003-02)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 014 (2003-02)(Fusion Publishing)(US).pdf" size="142130879" crc="def5f04f" md5="f2fba9b38a462637e0c63244e703920d" sha1="dddc83858d8f8d3c615f7ac0e74edac5b3ec0b4e"/>
+	</game>
+	<game name="play - Issue 015 (2003-03)(Fusion Publishing)(US)">
+		<description>play - Issue 015 (2003-03)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 015 (2003-03)(Fusion Publishing)(US).pdf" size="143257208" crc="90bdb472" md5="1a3fc8eaaf8fd14a55f5668c1e319593" sha1="1feb713740d53047db1409044ee50f19aa733027"/>
+	</game>
+	<game name="play - Issue 016 (2003-04)(Fusion Publishing)(US)">
+		<description>play - Issue 016 (2003-04)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 016 (2003-04)(Fusion Publishing)(US).pdf" size="151147245" crc="08a29399" md5="3791184998850c59a26eca979a435761" sha1="4145c222a9a0babf327f7bf204cc3914fbbd98b5"/>
+	</game>
+	<game name="play - Issue 017 (2003-05)(Fusion Publishing)(US)">
+		<description>play - Issue 017 (2003-05)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 017 (2003-05)(Fusion Publishing)(US).pdf" size="135324697" crc="6bd29a68" md5="06978466d4ec1d9a277cd1278358baa7" sha1="037eb2dd76b241f86b58b7124b94aad3accc74c0"/>
+	</game>
+	<game name="play - Issue 018 (2003-06)(Fusion Publishing)(US)">
+		<description>play - Issue 018 (2003-06)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 018 (2003-06)(Fusion Publishing)(US).pdf" size="135905150" crc="7a100af0" md5="fae7051072475e9230beeb6e71ca2528" sha1="ad59c8d9f708f40cbf5ea4f864790f4b4a4d6bd7"/>
+	</game>
+	<game name="play - Issue 019 (2003-07)(Fusion Publishing)(US)">
+		<description>play - Issue 019 (2003-07)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 019 (2003-07)(Fusion Publishing)(US).pdf" size="136568182" crc="6f28d22d" md5="43c582a5e0b7f5c6cbcd2987f97b2c5c" sha1="9599ad615b93adac0c32f52b3885409267da30c7"/>
+	</game>
+	<game name="play - Issue 020 (2003-08)(Fusion Publishing)(US)">
+		<description>play - Issue 020 (2003-08)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 020 (2003-08)(Fusion Publishing)(US).pdf" size="141390714" crc="a9382094" md5="e941b0f1ae0e26bce28f574d02562d95" sha1="dccfc3ff24ba1cbdbca3b8df19febe0e60ea001c"/>
+	</game>
+	<game name="play - Issue 021 (2003-09)(Fusion Publishing)(US)">
+		<description>play - Issue 021 (2003-09)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 021 (2003-09)(Fusion Publishing)(US).pdf" size="154382182" crc="d94f2b26" md5="a1271a910804d5e2c5f026327bef19d4" sha1="5a31a9efe56e7f6fd19ffee297e6063dd8ec0edc"/>
+	</game>
+	<game name="play - Issue 022 (2003-10)(Fusion Publishing)(US)">
+		<description>play - Issue 022 (2003-10)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 022 (2003-10)(Fusion Publishing)(US).pdf" size="151179975" crc="126754eb" md5="67f9ab89b564481f4a24d3f5aff07dfa" sha1="8ea1bb00874af4f4e5e0ab8ea030a70566fac668"/>
+	</game>
+	<game name="play - Issue 023 (2003-11)(Fusion Publishing)(US)">
+		<description>play - Issue 023 (2003-11)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 023 (2003-11)(Fusion Publishing)(US).pdf" size="173555596" crc="4db60329" md5="301b338357836bd63dbba7b501d5159b" sha1="1e5cdad44240820020bd01b6f5067f948e361908"/>
+	</game>
+	<game name="play - Issue 024 (2003-12)(Fusion Publishing)(US)">
+		<description>play - Issue 024 (2003-12)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 024 (2003-12)(Fusion Publishing)(US).pdf" size="265217000" crc="e369073f" md5="bff030c238ff55c283978f71e0cacc3b" sha1="6fee88765efecbbcb77edc3790ee2c47c0ee2cdd"/>
+	</game>
+	<game name="play - Issue 025 (2004-01)(Fusion Publishing)(US)">
+		<description>play - Issue 025 (2004-01)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 025 (2004-01)(Fusion Publishing)(US).pdf" size="150349876" crc="75d241b3" md5="025644b3080fa0a55015fb46148f0efc" sha1="969f940f1d6b9774916db69467b72a2539b701fb"/>
+	</game>
+	<game name="play - Issue 026 (2004-02)(Fusion Publishing)(US)">
+		<description>play - Issue 026 (2004-02)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 026 (2004-02)(Fusion Publishing)(US).pdf" size="162072335" crc="a49b6f99" md5="729e6b5bb55dc261ed94a7949b0aa9be" sha1="6afa232ab58eae1b4652944acfc3247e5f96c42a"/>
+	</game>
+	<game name="play - Issue 027 (2004-03)(Fusion Publishing)(US)">
+		<description>play - Issue 027 (2004-03)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 027 (2004-03)(Fusion Publishing)(US).pdf" size="173335904" crc="cf5b412b" md5="5efe224a89f38afbbd4c1c6b3f4496e4" sha1="58e3d7313bace00b3763f972a0c3d2dc811ec031"/>
+	</game>
+	<game name="play - Issue 028 (2004-04)(Fusion Publishing)(US)">
+		<description>play - Issue 028 (2004-04)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 028 (2004-04)(Fusion Publishing)(US).pdf" size="166005038" crc="16b6da36" md5="199ec2dd2704a43458663bc9206242fb" sha1="a6129e8113bd32928ab5261d5e8f9cf63d96c12a"/>
+	</game>
+	<game name="play - Issue 029 (2004-05)(Fusion Publishing)(US)">
+		<description>play - Issue 029 (2004-05)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 029 (2004-05)(Fusion Publishing)(US).pdf" size="161195667" crc="7534444d" md5="0b3dcaf4892c604c191a72cc20e59cf5" sha1="276e133909cc25a08e98890e87a6f8f5d5f6ec20"/>
+	</game>
+	<game name="play - Issue 030 (2004-06)(Fusion Publishing)(US)">
+		<description>play - Issue 030 (2004-06)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 030 (2004-06)(Fusion Publishing)(US).pdf" size="167022448" crc="cf61b7db" md5="73c509f29ba123492ac62cc22c75df5d" sha1="1f8cfa460304c48e72a95cc8edff011ae2251afa"/>
+	</game>
+	<game name="play - Issue 031 (2004-07)(Fusion Publishing)(US)">
+		<description>play - Issue 031 (2004-07)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 031 (2004-07)(Fusion Publishing)(US).pdf" size="236050483" crc="0bb2a360" md5="259d2752591f6f3b12ea3230a0a538d9" sha1="c37566ac5b4152815762bc5aa6d9f54028333a0b"/>
+	</game>
+	<game name="play - Issue 032 (2004-08)(Fusion Publishing)(US)">
+		<description>play - Issue 032 (2004-08)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 032 (2004-08)(Fusion Publishing)(US).pdf" size="90505603" crc="e94e7bdc" md5="1d82497631f62743d02c0ad948c50fd0" sha1="023cc7bdf81f75ddfa38aef678d50d148064fcae"/>
+	</game>
+	<game name="play - Issue 033 (2004-09)(Fusion Publishing)(US)">
+		<description>play - Issue 033 (2004-09)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 033 (2004-09)(Fusion Publishing)(US).pdf" size="105816199" crc="713686f1" md5="5c4e68f0317d3c82fcc985f9f4a56d8f" sha1="6b4f257e713993de19f39c9978c8141b74e33578"/>
+	</game>
+	<game name="play - Issue 034 (2004-10)(Fusion Publishing)(US)">
+		<description>play - Issue 034 (2004-10)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 034 (2004-10)(Fusion Publishing)(US).pdf" size="106938017" crc="c9a46b8c" md5="5ade9be89f10d9a3411bee6ac44dc539" sha1="8f6de748f258136f88d47ecc56af12e2483a2e13"/>
+	</game>
+	<game name="play - Issue 035 (2004-11)(Fusion Publishing)(US)">
+		<description>play - Issue 035 (2004-11)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 035 (2004-11)(Fusion Publishing)(US).pdf" size="117373450" crc="f4720e45" md5="e4e87c58836276561c64eb50aa346c59" sha1="681c4f2abd38956654303b19387f9f382e003339"/>
+	</game>
+	<game name="play - Issue 036 (2004-12)(Fusion Publishing)(US)">
+		<description>play - Issue 036 (2004-12)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 036 (2004-12)(Fusion Publishing)(US).pdf" size="124335225" crc="6fc62934" md5="f9ec288d0952efd511f4d2e0109def44" sha1="205a9de287cc66ccdbf3717aa6b50ce964fcd00d"/>
+	</game>
+	<game name="play - Issue 037 (2005-01)(Fusion Publishing)(US)">
+		<description>play - Issue 037 (2005-01)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 037 (2005-01)(Fusion Publishing)(US).pdf" size="782868991" crc="91b3995c" md5="58b0f4e97e6be588ca13c11b68333ca7" sha1="8618a3e6ee9cac5d2f38c5f65dd6d4fe24b382af"/>
+	</game>
+	<game name="play - Issue 038 (2005-02)(Fusion Publishing)(US)">
+		<description>play - Issue 038 (2005-02)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 038 (2005-02)(Fusion Publishing)(US).pdf" size="90455317" crc="2856ec7e" md5="14df97fdff42710351bb0a1e153aded4" sha1="0d2e763df4e375374af55215f9f2a2c5d559a4a8"/>
+	</game>
+	<game name="play - Issue 039 (2005-03)(Fusion Publishing)(US)">
+		<description>play - Issue 039 (2005-03)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 039 (2005-03)(Fusion Publishing)(US).pdf" size="104476615" crc="4f7b8184" md5="ce1987959301ffec66a975997f7f182a" sha1="77286b479288fa9f13b0619b6a23cf1fdc721963"/>
+	</game>
+	<game name="play - Issue 040 (2005-04)(Fusion Publishing)(US)">
+		<description>play - Issue 040 (2005-04)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 040 (2005-04)(Fusion Publishing)(US).pdf" size="93608370" crc="6ba2aa42" md5="c0ac8c88f35d4ae60861f244b8197d21" sha1="bf0840258b9ce26e333ba4f1fc0a3536a8f374f1"/>
+	</game>
+	<game name="play - Issue 041 (2005-05)(Fusion Publishing)(US)">
+		<description>play - Issue 041 (2005-05)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 041 (2005-05)(Fusion Publishing)(US).pdf" size="827358274" crc="3aebbf85" md5="0c1c13945193f3efdf78ffe3437c1846" sha1="b0aa568dc2ef00f306f5f0b6d143bd438c1899b1"/>
+	</game>
+	<game name="play - Issue 042 (2005-06)(Fusion Publishing)(US)">
+		<description>play - Issue 042 (2005-06)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 042 (2005-06)(Fusion Publishing)(US).pdf" size="109406016" crc="9b5b4cfd" md5="b4c58c3b5c2192c3bfe76771d2cd0bf3" sha1="8499f75e7c1646ac7bd5e05ce046b86040382afc"/>
+	</game>
+	<game name="play - Issue 043 (2005-07)(Fusion Publishing)(US)">
+		<description>play - Issue 043 (2005-07)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 043 (2005-07)(Fusion Publishing)(US).pdf" size="1031502123" crc="cec4dff4" md5="14564e7212fea1ad3b08ab97fda89f87" sha1="128cd9068913cfb85e12aa5242e30dc9ed6c9338"/>
+	</game>
+	<game name="play - Issue 044 (2005-08)(Fusion Publishing)(US)">
+		<description>play - Issue 044 (2005-08)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 044 (2005-08)(Fusion Publishing)(US).pdf" size="988169636" crc="b8898fa4" md5="5198525842cc18167bd92f955a2a96d5" sha1="87ea723165d7b7b8f649586d4645731adf6ead00"/>
+	</game>
+	<game name="play - Issue 045 (2005-09)(Fusion Publishing)(US)">
+		<description>play - Issue 045 (2005-09)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 045 (2005-09)(Fusion Publishing)(US).pdf" size="923157057" crc="a9f20c48" md5="317e7b60aa86a6ff6061bd2f5397c59e" sha1="3aad0ea21eed59b540488ef8524656d508135351"/>
+	</game>
+	<game name="play - Issue 046 (2005-10)(Fusion Publishing)(US)">
+		<description>play - Issue 046 (2005-10)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 046 (2005-10)(Fusion Publishing)(US).pdf" size="1193522454" crc="a9b350b8" md5="414705dd7759dd27521b54bd7d8db23f" sha1="5818efdc4aaae2d7921af9ec0529f4854641c688"/>
+	</game>
+	<game name="play - Issue 047 (2005-11)(Fusion Publishing)(US)">
+		<description>play - Issue 047 (2005-11)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 047 (2005-11)(Fusion Publishing)(US).pdf" size="1451743910" crc="aeaf6c62" md5="327935ba302133430362edaa40280346" sha1="aff9e620b65d71d6c12ab0850e3e98a71dfd5a49"/>
+	</game>
+	<game name="play - Issue 048 (2005-12)(Fusion Publishing)(US)">
+		<description>play - Issue 048 (2005-12)(Fusion Publishing)(US)</description>
+		<rom name="play - Issue 048 (2005-12)(Fusion Publishing)(US).pdf" size="1008329270" crc="f4c64669" md5="1dd074e541048ce79cf58b2230a4c696" sha1="292126ed4d44ab74867bb4f7ee6de1d174064fe7"/>
+	</game>
+	<game name="play - issue 049 (2006-01)(Fusion Publishing)(US)">
+		<description>play - issue 049 (2006-01)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 049 (2006-01)(Fusion Publishing)(US).pdf" size="771461267" crc="2b4b0bbd" md5="df9d56bc59c17f278590777eceb86d0f" sha1="4af2dbf3dcd1f9255a2e261c2d7ea05e72ce3fa6"/>
+	</game>
+	<game name="play - issue 050 (2006-02)(Fusion Publishing)(US)">
+		<description>play - issue 050 (2006-02)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 050 (2006-02)(Fusion Publishing)(US).pdf" size="755385298" crc="85bac8ab" md5="77d99396da01324f687eef1006aed1e7" sha1="11772ccb9df9b88102ab2d8b52fd4356637c541e"/>
+	</game>
+	<game name="play - issue 051 (2006-03)(Fusion Publishing)(US)">
+		<description>play - issue 051 (2006-03)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 051 (2006-03)(Fusion Publishing)(US).pdf" size="901100932" crc="fbcec59e" md5="a6456cdb483fd0c6a5b320ba2f805ccc" sha1="99654aa6e6caf4a3207bece737ac23e5837cbd21"/>
+	</game>
+	<game name="play - issue 052 (2006-04)(Fusion Publishing)(US)">
+		<description>play - issue 052 (2006-04)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 052 (2006-04)(Fusion Publishing)(US).pdf" size="886149253" crc="635522b1" md5="25f8965ab75751c91368e472eee8aab3" sha1="581af00cddd1f8b616d4c92b8033ae48690d30c4"/>
+	</game>
+	<game name="play - issue 053 (2006-05)(Fusion Publishing)(US)">
+		<description>play - issue 053 (2006-05)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 053 (2006-05)(Fusion Publishing)(US).pdf" size="887353052" crc="abd58e82" md5="3a4ff4926379d10a0e58f828526186ec" sha1="9f196a8411369bda6e6a5d95661d4efcb259961f"/>
+	</game>
+	<game name="play - issue 054 (2006-06)(Fusion Publishing)(US)">
+		<description>play - issue 054 (2006-06)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 054 (2006-06)(Fusion Publishing)(US).pdf" size="735702508" crc="280fab58" md5="e619d029585d0176d607e6b41e02733d" sha1="8cf029f15027f7253df1485a94904de1c3c177af"/>
+	</game>
+	<game name="play - issue 055 (2006-07)(Fusion Publishing)(US)">
+		<description>play - issue 055 (2006-07)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 055 (2006-07)(Fusion Publishing)(US).pdf" size="92702207" crc="75746bd3" md5="71ace9e4f3d89d33086d94853fba3545" sha1="bcf74e754989fd7ffc7b395a909d80188798b540"/>
+	</game>
+	<game name="play - issue 056 (2006-08)(Fusion Publishing)(US)">
+		<description>play - issue 056 (2006-08)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 056 (2006-08)(Fusion Publishing)(US).pdf" size="886808362" crc="14f2f6dc" md5="2c01ae0f8ce1910a31eb704fb652d7a7" sha1="ed7c4ecaa60832228e8f0e836bfe4605dc2c8dfb"/>
+	</game>
+	<game name="play - issue 057 (2006-09)(Fusion Publishing)(US)">
+		<description>play - issue 057 (2006-09)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 057 (2006-09)(Fusion Publishing)(US).pdf" size="680946194" crc="461ae446" md5="8668a80437ddd83309c4fefde0a00760" sha1="b8a3860117996383ebe1542a55b4f3da06014bd2"/>
+	</game>
+	<game name="play - issue 058 (2006-10)(Fusion Publishing)(US)">
+		<description>play - issue 058 (2006-10)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 058 (2006-10)(Fusion Publishing)(US).pdf" size="875772862" crc="b0bb15a0" md5="142ae93e2cac7a96223196ecae0af1d5" sha1="70b8421a7025d05917349866138c9eb73777da57"/>
+	</game>
+	<game name="play - issue 059 (2006-11)(Fusion Publishing)(US)">
+		<description>play - issue 059 (2006-11)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 059 (2006-11)(Fusion Publishing)(US).pdf" size="1048531985" crc="1fa3048c" md5="d4821953da4a82406b2432de7691e219" sha1="53c82ec3a9af31219c3fabe6e4c70f5cf257ac8b"/>
+	</game>
+	<game name="play - issue 060 (2006-12)(Fusion Publishing)(US)">
+		<description>play - issue 060 (2006-12)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 060 (2006-12)(Fusion Publishing)(US).pdf" size="1192848635" crc="d5733920" md5="eea5a8cc5c55d86b1e508abe5bd7b254" sha1="51acb6a7f1c3c2078c6a3101a5412a9f6b228950"/>
+	</game>
+	<game name="play - issue 061 (2007-01)(Fusion Publishing)(US)">
+		<description>play - issue 061 (2007-01)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 061 (2007-01)(Fusion Publishing)(US).pdf" size="67409487" crc="dc3b4ede" md5="400b16c679dd39e87e9cec3f9376586f" sha1="a68c8a04efbf97aaf2f2037a6f82d353657c31b4"/>
+	</game>
+	<game name="play - issue 062 (2007-02)(Fusion Publishing)(US)">
+		<description>play - issue 062 (2007-02)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 062 (2007-02)(Fusion Publishing)(US).pdf" size="39355841" crc="5fcb7724" md5="031362e112da88abbd58f32e4b828f9b" sha1="f1a6e859b1ea5d078e0d511a421ed0cddd8b6580"/>
+	</game>
+	<game name="play - issue 063 (2007-03)(Fusion Publishing)(US)">
+		<description>play - issue 063 (2007-03)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 063 (2007-03)(Fusion Publishing)(US).pdf" size="51530548" crc="6d16ac93" md5="8842ff78c68603bc08764613fa903935" sha1="65a9db51441d3df6b40a3abc4fe674c009320c33"/>
+	</game>
+	<game name="play - issue 064 (2007-04)(Fusion Publishing)(US)">
+		<description>play - issue 064 (2007-04)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 064 (2007-04)(Fusion Publishing)(US).pdf" size="30798451" crc="481f669f" md5="da99b3dce57370aad022d5da03b5a9be" sha1="77e95b6894e44c6455df3f5a1bc16f72fea3ad14"/>
+	</game>
+	<game name="play - issue 065 (2007-05)(Fusion Publishing)(US)">
+		<description>play - issue 065 (2007-05)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 065 (2007-05)(Fusion Publishing)(US).pdf" size="49441796" crc="ce8c6fff" md5="74db67b92efede865156347702ff6265" sha1="ed5b22970b0bb1689888027f6d03b96e9777d969"/>
+	</game>
+	<game name="play - issue 066 (2007-06)(Fusion Publishing)(US)">
+		<description>play - issue 066 (2007-06)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 066 (2007-06)(Fusion Publishing)(US).pdf" size="59858745" crc="bac7e1f9" md5="48e60c9aa720e07af4bd12564a3c4118" sha1="c222dd69d59236d1d263e46f956c542a56e7f17f"/>
+	</game>
+	<game name="play - issue 067 (2007-07)(Fusion Publishing)(US)">
+		<description>play - issue 067 (2007-07)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 067 (2007-07)(Fusion Publishing)(US).pdf" size="50641819" crc="09c5b549" md5="4a1ee09681c0da871680f69167f52a93" sha1="89edcac94babafc71fca2d4e92bb4907ba94af9d"/>
+	</game>
+	<game name="play - issue 068 (2007-08)(Fusion Publishing)(US)">
+		<description>play - issue 068 (2007-08)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 068 (2007-08)(Fusion Publishing)(US).pdf" size="47285625" crc="c8fc10f8" md5="86c9fac62f2a32141e488562627b69ba" sha1="e2958283b3303391cdac7f3765da47794430188c"/>
+	</game>
+	<game name="play - issue 069 (2007-09)(Fusion Publishing)(US)">
+		<description>play - issue 069 (2007-09)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 069 (2007-09)(Fusion Publishing)(US).pdf" size="50248427" crc="6ddb0343" md5="077d8a2309b30e31e1303178f55ce408" sha1="e87694dc5caa3420b3877ae335e846cc551153a2"/>
+	</game>
+	<game name="play - issue 070 (2007-10)(Fusion Publishing)(US)">
+		<description>play - issue 070 (2007-10)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 070 (2007-10)(Fusion Publishing)(US).pdf" size="49832557" crc="f3795d0e" md5="719f7ef579860f170649f37b94b91275" sha1="302c1b75906b6922c12f889cba35a5da0068dfd0"/>
+	</game>
+	<game name="play - issue 071 (2007-11)(Fusion Publishing)(US)">
+		<description>play - issue 071 (2007-11)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 071 (2007-11)(Fusion Publishing)(US).pdf" size="46585178" crc="442ab39d" md5="3f7311a3e4239b5d88a55c668c5a994a" sha1="13b3e6ab600615e1cc27a0c03c133861dab4796b"/>
+	</game>
+	<game name="play - issue 072 (2007-12)(Fusion Publishing)(US)">
+		<description>play - issue 072 (2007-12)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 072 (2007-12)(Fusion Publishing)(US).pdf" size="38705341" crc="b71a6c23" md5="c3417e3d2ce05d6340e9ec7b6c570cc8" sha1="3aabe6f1b231a98406949b5396a8c3489565d1fc"/>
+	</game>
+	<game name="play - issue 073 (2008-01)(Fusion Publishing)(US)">
+		<description>play - issue 073 (2008-01)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 073 (2008-01)(Fusion Publishing)(US).pdf" size="36982522" crc="267bc70c" md5="60c82f26a798cdda8d346c417b1409c6" sha1="3e57b0e8b3288be38d3bc1e41a883a1fcf88b2a9"/>
+	</game>
+	<game name="play - issue 074 (2008-02)(Fusion Publishing)(US)">
+		<description>play - issue 074 (2008-02)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 074 (2008-02)(Fusion Publishing)(US).pdf" size="35607208" crc="13549fce" md5="39abd088c1fa192be9cd113287031e08" sha1="5d4b0d3fae7430c63fe8fba1022ac6827ca1aeb2"/>
+	</game>
+	<game name="play - issue 075 (2008-03)(Fusion Publishing)(US)">
+		<description>play - issue 075 (2008-03)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 075 (2008-03)(Fusion Publishing)(US).pdf" size="41480945" crc="1c792b64" md5="d3c620d3b8a7e1b0cddfbef6c0c65f25" sha1="e8807097038ce2edc4a9baea38c990cd5d71ac45"/>
+	</game>
+	<game name="play - issue 076 (2008-04)(Fusion Publishing)(US)">
+		<description>play - issue 076 (2008-04)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 076 (2008-04)(Fusion Publishing)(US).pdf" size="38355160" crc="c96a5aec" md5="a1eab900dd922a4ed03ff4884de51492" sha1="87d6e8f1f0c512890a2d1baefb7cc28dcbfb2542"/>
+	</game>
+	<game name="play - issue 077 (2008-05)(Fusion Publishing)(US)">
+		<description>play - issue 077 (2008-05)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 077 (2008-05)(Fusion Publishing)(US).pdf" size="37316334" crc="f2be98cc" md5="500cc778a08842bcb87faa7ffe65023a" sha1="8dcb1be6f1bfc71cd0d6351ff10ee4c31c8a4fbc"/>
+	</game>
+	<game name="play - issue 078 (2008-06)(Fusion Publishing)(US)">
+		<description>play - issue 078 (2008-06)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 078 (2008-06)(Fusion Publishing)(US).pdf" size="42587578" crc="a4624ef2" md5="8aff1edb333b386c458e32d3753a1e38" sha1="2a08011fa507ae8a68c85dca9e18e8e2afc00833"/>
+	</game>
+	<game name="play - issue 079 (2008-07)(Fusion Publishing)(US)">
+		<description>play - issue 079 (2008-07)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 079 (2008-07)(Fusion Publishing)(US).pdf" size="25377712" crc="027f0828" md5="d959669a8cd9eb902d0d4817766abc5d" sha1="a0c1d328c60e9282cb091c8dbfe2edab5c096f07"/>
+	</game>
+	<game name="play - issue 080 (2008-08)(Fusion Publishing)(US)">
+		<description>play - issue 080 (2008-08)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 080 (2008-08)(Fusion Publishing)(US).pdf" size="36279874" crc="a47616fd" md5="3264f54d2fa93c65ab6aa05da5dc4b0f" sha1="44c163c8cb1b990fe7ec97676a82bf84e8d01cbd"/>
+	</game>
+	<game name="play - issue 081 (2008-09)(Fusion Publishing)(US)">
+		<description>play - issue 081 (2008-09)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 081 (2008-09)(Fusion Publishing)(US).pdf" size="35424619" crc="329288a7" md5="3d5869bfdb8b9c24bb638b03dd33e85d" sha1="a1d8469b425e60359f7a91e13d7bf529c1f9a572"/>
+	</game>
+	<game name="play - issue 082 (2008-10)(Fusion Publishing)(US)">
+		<description>play - issue 082 (2008-10)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 082 (2008-10)(Fusion Publishing)(US).pdf" size="55408601" crc="2c06426b" md5="4cdca67bfce76affd0cbbe60510974de" sha1="204dfab877a753947c192e68a8395c9d8c978451"/>
+	</game>
+	<game name="play - issue 083 (2008-11)(Fusion Publishing)(US)">
+		<description>play - issue 083 (2008-11)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 083 (2008-11)(Fusion Publishing)(US).pdf" size="51089361" crc="02b1f254" md5="82fd2af56b4737708226890088ed4525" sha1="140b12665792f3a1e0910dad0ddedcc0aeccb5f5"/>
+	</game>
+	<game name="play - issue 084 (2008-12)(Fusion Publishing)(US)">
+		<description>play - issue 084 (2008-12)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 084 (2008-12)(Fusion Publishing)(US).pdf" size="52951571" crc="82dd77dd" md5="f058f0c4f940c4caafbf8101791a349b" sha1="e3df827940954d5a33b108b8e9689b59d090447d"/>
+	</game>
+	<game name="play - issue 085 (2009-01)(Fusion Publishing)(US)">
+		<description>play - issue 085 (2009-01)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 085 (2009-01)(Fusion Publishing)(US).pdf" size="46692185" crc="f290e5ac" md5="9c28b83fbf96871f483844ed4286238c" sha1="60ddd99b4ae92ca69b44918cf23581759f6f2e8f"/>
+	</game>
+	<game name="play - issue 086 (2009-02)(Fusion Publishing)(US)">
+		<description>play - issue 086 (2009-02)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 086 (2009-02)(Fusion Publishing)(US).pdf" size="27748137" crc="5f01849a" md5="d0fe93d75266f3c076f561e554a44506" sha1="773128d608d257d6ed8ec8ebe9da1fee84925416"/>
+	</game>
+	<game name="play - issue 087 (2009-03)(Fusion Publishing)(US)">
+		<description>play - issue 087 (2009-03)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 087 (2009-03)(Fusion Publishing)(US).pdf" size="48626799" crc="fe2df38d" md5="a7c9aa10b1627b299fbdd5fc37992a1a" sha1="430470ac3e20937b68c4d963a28360a7d041a51e"/>
+	</game>
+	<game name="play - issue 088 (2009-04)(Fusion Publishing)(US)">
+		<description>play - issue 088 (2009-04)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 088 (2009-04)(Fusion Publishing)(US).pdf" size="31703501" crc="17bd26f9" md5="9761d2738cae052a6292972c52346937" sha1="e0128c57d436d3ea97aec402cb92adec53481d4f"/>
+	</game>
+	<game name="play - issue 089 (2009-05)(Fusion Publishing)(US)">
+		<description>play - issue 089 (2009-05)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 089 (2009-05)(Fusion Publishing)(US).pdf" size="56393819" crc="ad03397f" md5="32deb40feaf44f2f9413cf8e2d95b6df" sha1="997574bf70b83aed1991bd16f5a7d6a5ed8c8c08"/>
+	</game>
+	<game name="play - issue 090 (2009-06)(Fusion Publishing)(US)">
+		<description>play - issue 090 (2009-06)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 090 (2009-06)(Fusion Publishing)(US).pdf" size="62330041" crc="9d02feaf" md5="ef258caf5bc82860771767c04a55b025" sha1="e0e97fdecb69a692c5ce49a324c767af1522a543"/>
+	</game>
+	<game name="play - issue 091 (2009-07)(Fusion Publishing)(US)">
+		<description>play - issue 091 (2009-07)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 091 (2009-07)(Fusion Publishing)(US).pdf" size="43440453" crc="44897ff3" md5="e0ab2a752f2d1f6886c4d578fc0f393a" sha1="e9658f08020f266932f76529a2f76f7e3159fa2c"/>
+	</game>
+	<game name="play - issue 092 (2009-08)(Fusion Publishing)(US)">
+		<description>play - issue 092 (2009-08)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 092 (2009-08)(Fusion Publishing)(US).pdf" size="31704975" crc="e98daa4f" md5="a55b29d8cd95587ab23e7e0c42d90909" sha1="b87dfb5782dbf624ca497127ba71c6061d2d7ffe"/>
+	</game>
+	<game name="play - issue 093 (2009-09)(Fusion Publishing)(US)">
+		<description>play - issue 093 (2009-09)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 093 (2009-09)(Fusion Publishing)(US).pdf" size="70763327" crc="0a77dcca" md5="f1b973e7e53ab494811a2cc177cd541c" sha1="1cde89da559f0a663df75eb8192c6544b2f2e70f"/>
+	</game>
+	<game name="play - issue 094 (2009-10)(Fusion Publishing)(US)">
+		<description>play - issue 094 (2009-10)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 094 (2009-10)(Fusion Publishing)(US).pdf" size="81313735" crc="a5e4938d" md5="355cc49d337ba336f492a8e57f172dc0" sha1="15b2f6c06a501b2983c26a49942026e9d8def81f"/>
+	</game>
+	<game name="play - issue 095 (2009-11)(Fusion Publishing)(US)">
+		<description>play - issue 095 (2009-11)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 095 (2009-11)(Fusion Publishing)(US).pdf" size="73751886" crc="83182dee" md5="9d4e07e6b7dd1f6519ec3fee84e46939" sha1="ecc2ff20684ba3021bbf5403be84c094a902e04f"/>
+	</game>
+	<game name="play - issue 096 (2009-12)(Fusion Publishing)(US)">
+		<description>play - issue 096 (2009-12)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 096 (2009-12)(Fusion Publishing)(US).pdf" size="59764942" crc="557d2068" md5="9c1eb061b996703b11793b2a8574328d" sha1="11f45e748a8fd7de2233fa855746f6496e16a225"/>
+	</game>
+	<game name="play - issue 097 (2010-01)(Fusion Publishing)(US)">
+		<description>play - issue 097 (2010-01)(Fusion Publishing)(US)</description>
+		<rom name="play - issue 097 (2010-01)(Fusion Publishing)(US).pdf" size="49680386" crc="259a4534" md5="d6bf202715e9fc74d2d3bc507af2b17e" sha1="ab4679dd68ea3d26846a60280adeb048b4fa10f9"/>
+	</game>
+</datafile>

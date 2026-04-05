@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 4 - Magazines - Official UK Playstation Magazine</name>
+		<description>Sony PlayStation 4 - Magazines - Official UK Playstation Magazine (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Official UK PlayStation Magazine - Issue 001 (2006-12)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 001 (2006-12)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 001 (2006-12)(Future Publishing)(GB).pdf" size="107049545" crc="3a6a65f9" md5="6ed176645c67b83ae9967fd524290d7b" sha1="f1ec5772ee56efb76919f4b080c7414a05722dbf"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 002 (2007-02)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 002 (2007-02)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 002 (2007-02)(Future Publishing)(GB).pdf" size="105362309" crc="99db75dc" md5="59327d50d8ceb6ae03c8fbb56ab58f4a" sha1="c8fc7725dd617807048c578fc4257d2d1f41051c"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 022 (2008-09)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 022 (2008-09)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 022 (2008-09)(Future Publishing)(GB).pdf" size="197595321" crc="49478305" md5="c6e070666d81e9beefd4891b603ba35a" sha1="25ce221989afd891a25177a24b4edde09c3ca178"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 063 (2011-11)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 063 (2011-11)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 063 (2011-11)(Future Publishing)(GB).pdf" size="56107980" crc="1b18cf4d" md5="d3ce55b377c8e4e1523a264b2a79d5a0" sha1="5dcad56e32cc3b53b58e3178d203cb144916146b"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 065 (2011)(Future Publishing)(GB)[christmas edition]">
+		<description>Official UK Playstation Magazine - Issue 065 (2011)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Official UK Playstation Magazine - Issue 065 (2011)(Future Publishing)(GB)[christmas edition].pdf" size="118999898" crc="4f4e25db" md5="d4e83c7edcdbde5e81e9eff20c19d896" sha1="b55eb4c26c64836785d94af7b349ad913d4d5df1"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 066 (2012-01)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 066 (2012-01)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 066 (2012-01)(Future Publishing)(GB).pdf" size="115459579" crc="a8a231b2" md5="c5146426202122ef5a6574b516ea7523" sha1="4259cb9d388e5868f8dfb25395c1392f34d9034b"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 067 (2012-02)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 067 (2012-02)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 067 (2012-02)(Future Publishing)(GB).pdf" size="120360357" crc="ec13e77b" md5="8ccad4ee1bb7f57b86f1da4a9f495621" sha1="3bc5b83ce099bdd08c879af24ea0ee3696595181"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 068 (2012-03)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 068 (2012-03)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 068 (2012-03)(Future Publishing)(GB).pdf" size="116040510" crc="7bb03b0f" md5="c997b45ded702662a2cdf08ec49a992d" sha1="ccd0a0ccf0f0e72fa6d58c720c4d72a639e045f9"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 070 (2012-05)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 070 (2012-05)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 070 (2012-05)(Future Publishing)(GB).pdf" size="114039582" crc="c24c06ac" md5="31cc53451bc884775fbe6e713cbe17bd" sha1="07285f145218eef482aff622631b07519a85dfa2"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 071 (2012-06)(Future Publishing)(GB)[christmas edition]">
+		<description>Official UK Playstation Magazine - Issue 071 (2012-06)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Official UK Playstation Magazine - Issue 071 (2012-06)(Future Publishing)(GB)[christmas edition].pdf" size="114447560" crc="c0891932" md5="e859196e8179ff5785237cff7ef29815" sha1="5e5e8ee2bd10f557cb957c6a0ef8fba183968c01"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 073 (2012-08)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 073 (2012-08)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 073 (2012-08)(Future Publishing)(GB).pdf" size="116542569" crc="5ea7c01a" md5="d2325e7d1eba10f1d788717481f27b96" sha1="284a6596702a6d4e3daa95aeb01299f1e1084df8"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 074 (2012-09)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 074 (2012-09)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 074 (2012-09)(Future Publishing)(GB).pdf" size="117236626" crc="aa6c8895" md5="5458aff8f4c5f88bf579ee2a612898df" sha1="a0cde9c138d6ddbf0e6f7d3116054c0e34f5b76b"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 075 (2012-10)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 075 (2012-10)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 075 (2012-10)(Future Publishing)(GB).pdf" size="120216266" crc="615200dd" md5="7e35b9432a807cda1a07fcd8f2b1397b" sha1="761a0656e899b83cf74323119a9407cac1080214"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 076 (2012-11)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 076 (2012-11)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 076 (2012-11)(Future Publishing)(GB).pdf" size="120344975" crc="52882478" md5="2c72999de6f38e87ed7b71d30f6b8ff7" sha1="3dd80713bdbeabbbe4ac605330b9e44f475d31ac"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 077 (2012-12)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 077 (2012-12)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 077 (2012-12)(Future Publishing)(GB).pdf" size="116653044" crc="58bcaaf3" md5="a24a8a6ac37e96aaeb8dbf6bab0a055c" sha1="0a2fc0fce12f70114f811df41a56d2c25c11707c"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 078 (2012)(Future Publishing)(GB)[christmas edition]">
+		<description>Official UK Playstation Magazine - Issue 078 (2012)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Official UK Playstation Magazine - Issue 078 (2012)(Future Publishing)(GB)[christmas edition].pdf" size="114760331" crc="24e84ef1" md5="13439b4ec4df3dbc167755ef0094a6de" sha1="c87320557c12b78444a793a520e3e77cfcfb5eee"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 079 (2013-01)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 079 (2013-01)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 079 (2013-01)(Future Publishing)(GB).pdf" size="109849158" crc="01d89c84" md5="aa44c5ad11a10d28fa0b2defe8b61850" sha1="d558db53ca73913b944e2cf8a50e1d841aaa7020"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 080 (2013-02)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 080 (2013-02)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 080 (2013-02)(Future Publishing)(GB).pdf" size="110834110" crc="662b76a2" md5="c5b5f54bb7982adba529a149b8181abd" sha1="a463a054d81a60bb8b5a240a33b66a39f580aba7"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 081 (2013-03)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 081 (2013-03)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 081 (2013-03)(Future Publishing)(GB).pdf" size="110989118" crc="1de08da1" md5="23da7d2783b97ec541a16818a8930e62" sha1="3b84dddf41d049ca57413d3f69b4773b5c0da750"/>
+	</game>
+	<game name="Official UK Playstation Magazine - Issue 082 (2013-04)(Future Publishing)(GB)">
+		<description>Official UK Playstation Magazine - Issue 082 (2013-04)(Future Publishing)(GB)</description>
+		<rom name="Official UK Playstation Magazine - Issue 082 (2013-04)(Future Publishing)(GB).pdf" size="112667576" crc="2913a949" md5="d65c31eeb5e2633ac1d6f566dbdac9c7" sha1="2ff3bc044c4d8f38a739813b46a39486897c4e47"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 083 (2013-05)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 083 (2013-05)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 083 (2013-05)(Future Publishing)(GB).pdf" size="108525864" crc="993ec34d" md5="5a32c0c3e09948165591cb477ecaa6ef" sha1="a96f38e90df8b96cbb5bc8c7472a8130d95b9b79"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 084 (2013-06)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 084 (2013-06)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 084 (2013-06)(Future Publishing)(GB).pdf" size="109858930" crc="24b92ecb" md5="7d1be29ce1098cb19c46a047ea9ae378" sha1="076c335e0dc96a5dd31a06caf14fefbe48fb2b3c"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 085 (2013-07)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 085 (2013-07)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 085 (2013-07)(Future Publishing)(GB).pdf" size="95218043" crc="11f19411" md5="b026b824d382c1999b5dae0656c15e7f" sha1="8f05133a8cb049e8dfa80fe1f872f99ef735e85f"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 087 (2013-09)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 087 (2013-09)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 087 (2013-09)(Future Publishing)(GB).pdf" size="54440123" crc="65166b1c" md5="494086a3d3def792b2c8506906cc38d6" sha1="748193dfd722b290eaedc2bf36a99cae681d598a"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 088 (2013-10)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 088 (2013-10)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 088 (2013-10)(Future Publishing)(GB).pdf" size="49133462" crc="05c3ad77" md5="957c37220978efd77d07b822ceb9cf4c" sha1="7d009ec1702616e334e5d8bf0435a0d8f950a4b0"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 089 (2013-11)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 089 (2013-11)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 089 (2013-11)(Future Publishing)(GB).pdf" size="45783446" crc="14b9744c" md5="cdfecd62a990bee2731611ff8a6ae949" sha1="1bfdec4cd095a2cfdb040f80215a1f737c31a00b"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 090 (2013-12)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 090 (2013-12)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 090 (2013-12)(Future Publishing)(GB).pdf" size="47862345" crc="29d3219e" md5="6821b6c6deb454b515a77d2c2c644d30" sha1="b021361d439ed287102cbea642e8b16f54257cdf"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 091 (2013)(Future Publishing)(GB)[christmas edition]">
+		<description>Official UK PlayStation Magazine - Issue 091 (2013)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Official UK PlayStation Magazine - Issue 091 (2013)(Future Publishing)(GB)[christmas edition].pdf" size="47918439" crc="a456c8b9" md5="fcc7b59ee985eb024e6bed62ec8c991d" sha1="c051df49cb1e42ad8577b0e8445ff240c8295a64"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 092 (2014-01)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 092 (2014-01)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 092 (2014-01)(Future Publishing)(GB).pdf" size="51146291" crc="0347ec9f" md5="760359948af9d0e0d3910fff062717c2" sha1="c4a3e69d9ddabfc2607fed96f89d4ebdf4e98520"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 093 (2014-02)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 093 (2014-02)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 093 (2014-02)(Future Publishing)(GB).pdf" size="42480000" crc="e2fab686" md5="8af23420ca5b42c828907799ece23a84" sha1="67a4b2a4451eb523720bbdb4a3883ea1f7f76189"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 094 (2014-03)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 094 (2014-03)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 094 (2014-03)(Future Publishing)(GB).pdf" size="30543360" crc="53ffe2a5" md5="1af6598c81c5713eeadbe46d0bb63854" sha1="23315c48282a8bb10284239172ee1ba44cf8710f"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 095 (2014-04)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 095 (2014-04)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 095 (2014-04)(Future Publishing)(GB).pdf" size="63227046" crc="9b4425ed" md5="1a729968bfb63a571e3a145a66b9633c" sha1="7f8f44b81bba3b00aab771fdb035eae065b25106"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 096 (2014-05)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 096 (2014-05)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 096 (2014-05)(Future Publishing)(GB).pdf" size="83657111" crc="eb987a4c" md5="a8c5b2f504aaa4e603c5fed0b5217c2a" sha1="a74442896ed6cfdc133d858e7c446ae2aeda0430"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 096 (2014-05)(Future Publishing)(GB)[a]">
+		<description>Official UK PlayStation Magazine - Issue 096 (2014-05)(Future Publishing)(GB)[a]</description>
+		<rom name="Official UK PlayStation Magazine - Issue 096 (2014-05)(Future Publishing)(GB)[a].pdf" size="33534895" crc="cbe64a3d" md5="2a4e7b29a64db5840e591449f9e63e1d" sha1="2c7214de08d91d26367ebbe7ffbf6f7faab2d1e8"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 097 (2014-06)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 097 (2014-06)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 097 (2014-06)(Future Publishing)(GB).pdf" size="84724076" crc="a2431b06" md5="3656fe2371f2dbe7a4e81274de764852" sha1="92cc620ce20f372ab84f3d2ef17ac5f36d451b4c"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 097 (2014-06)(Future Publishing)(GB)[a]">
+		<description>Official UK PlayStation Magazine - Issue 097 (2014-06)(Future Publishing)(GB)[a]</description>
+		<rom name="Official UK PlayStation Magazine - Issue 097 (2014-06)(Future Publishing)(GB)[a].pdf" size="57795686" crc="ce47f600" md5="88ba1c0f4a437573eef67a703fd09679" sha1="43fbe4bea7a944ecde1a0fa5e434355929754c12"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 098 (2014-07)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 098 (2014-07)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 098 (2014-07)(Future Publishing)(GB).pdf" size="84788875" crc="e5f5fb7b" md5="a5a536fb545bd00bee3647b18b5e0163" sha1="d7251c43f05aa3de5c70d7c9a600975fc05751c8"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 099 (2014-08)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 099 (2014-08)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 099 (2014-08)(Future Publishing)(GB).pdf" size="36374809" crc="f335e5cf" md5="09cdb60908dac54843d10232a0314d7b" sha1="689bd83a088852cfa8110d39156c39c8f63abff3"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 100 (2014-09)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 100 (2014-09)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 100 (2014-09)(Future Publishing)(GB).pdf" size="34036546" crc="97099f2a" md5="63fd0bcf413aec2a93f541a9b8ed5a68" sha1="c950a85e7c09742934dbcd0537cd675dc33d0ef3"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 101 (2014-10)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 101 (2014-10)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 101 (2014-10)(Future Publishing)(GB).pdf" size="34117551" crc="9330a21d" md5="4233488ad9244e1147da2c9f4c87059b" sha1="27260fcec4d6a6853554001026a2c08d52592d7e"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 102 (2014-11)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 102 (2014-11)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 102 (2014-11)(Future Publishing)(GB).pdf" size="30939781" crc="8ed83678" md5="65197d60d8d448b0356148cd8354e25b" sha1="bbfe5be5a24e44d53d92ac2a5add016c1b1b06e6"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 103 (2014-12)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 103 (2014-12)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 103 (2014-12)(Future Publishing)(GB).pdf" size="30492930" crc="9f2d738c" md5="b8c87851871d5d76a54b883018c6ab05" sha1="d29caddae60422bd128a848cba8ddd2da93e093b"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 104 (2014)(Future Publishing)(GB)[christmas edition]">
+		<description>Official UK PlayStation Magazine - Issue 104 (2014)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Official UK PlayStation Magazine - Issue 104 (2014)(Future Publishing)(GB)[christmas edition].pdf" size="39423840" crc="73eae06c" md5="cd60675bbd1fde42d17aafca3e9fb058" sha1="8647fc857cbdfa122ffce9a97ca1c25decbf2fb5"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 105 (2015-01)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 105 (2015-01)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 105 (2015-01)(Future Publishing)(GB).pdf" size="39075765" crc="5fcb716d" md5="4e4b1d8b9773a5eea28289fb372d2404" sha1="7e652c2cf08571a36f754cd7d142affa93fd2d3b"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 106 (2015-02)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 106 (2015-02)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 106 (2015-02)(Future Publishing)(GB).pdf" size="62504631" crc="5ef76c76" md5="1fba1165dfbf8b896a4f4b073ff00841" sha1="34e822e908b21e271997986d70755a4e9ddc20ca"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 107 (2015-03)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 107 (2015-03)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 107 (2015-03)(Future Publishing)(GB).pdf" size="42566329" crc="70f2ed1f" md5="a38ed27a45a945f63907d066d7a6562a" sha1="e22f9ab0d634500a0795613691b34d801b870901"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 108 (2015-04)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 108 (2015-04)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 108 (2015-04)(Future Publishing)(GB).pdf" size="21291909" crc="a44a2da7" md5="a72a67463cfc057f745c68844614e5c6" sha1="3c35d404838566feb0c6de57d2cbceb1162fec0c"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 109 (2015-05)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 109 (2015-05)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 109 (2015-05)(Future Publishing)(GB).pdf" size="28665066" crc="fbf79ec5" md5="fc13e3d531999b0698205b806e322508" sha1="5644021241ed3d5dce98670b55ba11ce93ea4434"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 110 (2015-06)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 110 (2015-06)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 110 (2015-06)(Future Publishing)(GB).pdf" size="25529084" crc="5221aee0" md5="5f07a49863f303a83b21de19c45b918e" sha1="7993247f99b42ed4266d4a15551cdf67a550e191"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 111 (2015-07)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 111 (2015-07)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 111 (2015-07)(Future Publishing)(GB).pdf" size="46807044" crc="43663f72" md5="7b209114050af60749f37bc08e67f714" sha1="106ea27379dbd982f46de656f766571c58016804"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 112 (2015-08)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 112 (2015-08)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 112 (2015-08)(Future Publishing)(GB).pdf" size="30665306" crc="420bbed2" md5="4ac0600f62d46352481b6bc5bd576339" sha1="f03f11e98b5303b7df94057c3651c8a2bcfad391"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 113 (2015-09)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 113 (2015-09)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 113 (2015-09)(Future Publishing)(GB).pdf" size="34925942" crc="d94bde49" md5="c2c6737bf06632dcc2052287ea96b0a0" sha1="eeadfc06d52a72c5d4b03ae4c0914a5d9ed05a53"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 114 (2015-10)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 114 (2015-10)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 114 (2015-10)(Future Publishing)(GB).pdf" size="33274481" crc="c9b9daca" md5="917c5ef0628fcab9a5bbfcfcf7688f46" sha1="abe0b1feac59d025400a0b34626cca58610e5bf9"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 115 (2015-11)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 115 (2015-11)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 115 (2015-11)(Future Publishing)(GB).pdf" size="58981075" crc="6fc546ee" md5="bd2c503fd9d583aaf0f57c7a94e7ed67" sha1="a85ee76a327014f4ad112a417d602f220eae3a94"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 116 (2015-12)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 116 (2015-12)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 116 (2015-12)(Future Publishing)(GB).pdf" size="46421576" crc="e80f66ab" md5="4d91969d077660f2685df0f7800973c0" sha1="62da6ddc69abf1ca810c13db7d7776e09ae1c225"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 117 (2015)(Future Publishing)(GB)[christmas edition]">
+		<description>Official UK PlayStation Magazine - Issue 117 (2015)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Official UK PlayStation Magazine - Issue 117 (2015)(Future Publishing)(GB)[christmas edition].pdf" size="42958637" crc="ed7662b5" md5="f4a933d5c1a827f988e4883bfb4c1db2" sha1="3d35b2142a894ce08e000f50c910f80b25f5a1bd"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 118 (2016-01)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 118 (2016-01)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 118 (2016-01)(Future Publishing)(GB).pdf" size="40088042" crc="5912b82a" md5="0558cf6e9c9bebc6a0189806d1adb198" sha1="2bf3b000cc09f48b5b0b40a153162eaef84efdcd"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 119 (2016-02)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 119 (2016-02)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 119 (2016-02)(Future Publishing)(GB).pdf" size="32153615" crc="4e34315c" md5="7b340c1b53e50671ae98ab637dc6094c" sha1="6b2784c46474d70177aec1304f57bb6af53a55f4"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 120 (2016-03)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 120 (2016-03)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 120 (2016-03)(Future Publishing)(GB).pdf" size="32438631" crc="f65e200b" md5="2cd642e06b2d51d8a10013378c17362f" sha1="0fba108a6802af5ff596a96bf9fb896f279b7c19"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 121 (2016-04)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 121 (2016-04)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 121 (2016-04)(Future Publishing)(GB).pdf" size="35191478" crc="20d772c6" md5="91d68a0dd953e70768b0563106ce2923" sha1="b3b5260282e5fdceac0446ce14baee19513ed6b7"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 122 (2016-05)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 122 (2016-05)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 122 (2016-05)(Future Publishing)(GB).pdf" size="52830333" crc="cee4f76c" md5="d018a0d9d4a8f4de4491b1b64b2929eb" sha1="58338debb66a94d0fc44b99ac35edf4943154298"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 123 (2016-06)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 123 (2016-06)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 123 (2016-06)(Future Publishing)(GB).pdf" size="39365423" crc="bf2222a6" md5="1962ec371831be900aa4a1fa4ecc3136" sha1="9b7f1625bdb9cb9353cac62711d23a8a2be00be3"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 124 (2016-07)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 124 (2016-07)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 124 (2016-07)(Future Publishing)(GB).pdf" size="33370462" crc="be71fb1a" md5="a599993a1b49d2b848112a636f385c43" sha1="4d569656926967bd88a83ca8be24503a3b98b0d2"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 125 (2016-08)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 125 (2016-08)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 125 (2016-08)(Future Publishing)(GB).pdf" size="67842368" crc="5e648216" md5="4047de39cc272e10e168d2ad2d47d5f1" sha1="fcd665a38d92ea9cc87ba6bbbaa5162401f7240b"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 126 (2016-09)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 126 (2016-09)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 126 (2016-09)(Future Publishing)(GB).pdf" size="47299287" crc="2d59c227" md5="975c147fb48916cfa82fef72c2818856" sha1="74bd2300114b8b9857c1cf495da491b3718fb06e"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 127 (2016-10)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 127 (2016-10)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 127 (2016-10)(Future Publishing)(GB).pdf" size="48079122" crc="a09749ae" md5="fddb0ee462d6fb4cd97414dfcce1dd31" sha1="f014fbc2123ae34d81417820e9354fae9d985398"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 128 (2016-11)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 128 (2016-11)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 128 (2016-11)(Future Publishing)(GB).pdf" size="54526768" crc="5dadbf56" md5="6c873f6136bdc81830c26c78bc86be00" sha1="c5031c67996dce74635f3eab53d168fd2e124744"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 129 (2016-12)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 129 (2016-12)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 129 (2016-12)(Future Publishing)(GB).pdf" size="42306541" crc="9cee4be0" md5="f3950e737b4a8e7eb1a32f1d92256a24" sha1="de7e2392e555c58034db45784d7a0176072ac55b"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 130 (2016)(Future Publishing)(GB)[christmas edition]">
+		<description>Official UK PlayStation Magazine - Issue 130 (2016)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Official UK PlayStation Magazine - Issue 130 (2016)(Future Publishing)(GB)[christmas edition].pdf" size="31793048" crc="e7fb0f03" md5="81ddb13a94cb03f411e6ff760924b4ed" sha1="e6df4efbaf23f60fdcd2fe6d2f115b8103cf0ed8"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 131 (2017-01)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 131 (2017-01)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 131 (2017-01)(Future Publishing)(GB).pdf" size="41885839" crc="faf55a03" md5="a24d87bbf94cef77717497d949ebbdae" sha1="8ca5e3a8ffe236769d025765882ddf90d8bd51c8"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 132 (2017-02)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 132 (2017-02)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 132 (2017-02)(Future Publishing)(GB).pdf" size="39342829" crc="8b8bd342" md5="aff3f5ed79dcb8005dc8458ec51e6442" sha1="7ab9b22feb2d4c9f6ec82bf790df259c1cc321eb"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 133 (2017-03)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 133 (2017-03)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 133 (2017-03)(Future Publishing)(GB).pdf" size="34164573" crc="6d1e0e7f" md5="5b6583f2f6db091d3bbb333e9a44d82f" sha1="a7ed79c4eb5038bf8d95daaa97d568aaf74a0093"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 134 (2017-04)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 134 (2017-04)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 134 (2017-04)(Future Publishing)(GB).pdf" size="36587512" crc="8732a191" md5="a64ed964658bdee4fe5cba0de95e1974" sha1="83d36d019cff8fbc14174bf16fe0d638114ebe02"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 135 (2017-05)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 135 (2017-05)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 135 (2017-05)(Future Publishing)(GB).pdf" size="39112989" crc="af4b88f2" md5="01e5a79a6ee46cfe834d27ffea26478c" sha1="681a001d7862f1179dcf37e4c70ba56ba4481388"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 136 (2017-06)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 136 (2017-06)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 136 (2017-06)(Future Publishing)(GB).pdf" size="44901083" crc="b7bc29ae" md5="827978f1f2f9d56294436f669cfb6586" sha1="1ef427c1b1bb7bb7193585511494e2b1e92563ed"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 137 (2017-07)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 137 (2017-07)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 137 (2017-07)(Future Publishing)(GB).pdf" size="49214568" crc="31175fa5" md5="9c8c2c9e35d009988397a5c13c8b36a5" sha1="b1c5816194a0b92ae4b2c7c15adb6edf8ca5eb0a"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 138 (2017-08)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 138 (2017-08)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 138 (2017-08)(Future Publishing)(GB).pdf" size="70387436" crc="2954a7b7" md5="2bf870efdcb385877d0441c1395c4eb1" sha1="f4d671aaa2dea2ef70b83c2583bbd51339c04b41"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 139 (2017-09)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 139 (2017-09)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 139 (2017-09)(Future Publishing)(GB).pdf" size="42130717" crc="bfbf1c89" md5="c87792655496e408c677fdd877c52deb" sha1="36f513ed832deb2d5aa5f304ec2ee3e3588461f1"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 140 (2017-10)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 140 (2017-10)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 140 (2017-10)(Future Publishing)(GB).pdf" size="62887420" crc="d9b12391" md5="60913202f4a0764675b07e997d3e09f8" sha1="029fb891efedca44f64cd7bfbfb440beb11cde71"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 141 (2017-11)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 141 (2017-11)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 141 (2017-11)(Future Publishing)(GB).pdf" size="40244999" crc="5f957d69" md5="e5b784e5f90836b7badb0106868dcb9c" sha1="fc340d40b5e80cf05a111d26dbb0f4d06de9bb4f"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 142 (2017-12)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 142 (2017-12)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 142 (2017-12)(Future Publishing)(GB).pdf" size="41683764" crc="1ab2ff93" md5="3a0cd0190ad13b8ac032b92d286656e6" sha1="db58cc15f3ed677b7372220ebfcea0f012ea44dc"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 143 (2017)(Future Publishing)(GB)[christmas edition]">
+		<description>Official UK PlayStation Magazine - Issue 143 (2017)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Official UK PlayStation Magazine - Issue 143 (2017)(Future Publishing)(GB)[christmas edition].pdf" size="40898586" crc="914a3dfd" md5="3688be5af0a3deda3404cb7b83a03f9f" sha1="c8fc51c43981d1257a2b4125127d0fbea990b508"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 144 (2018-01)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 144 (2018-01)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 144 (2018-01)(Future Publishing)(GB).pdf" size="43925985" crc="ba458711" md5="2f98d0bdde3be5ee7f39b76201295d91" sha1="161cfdc10e93e7b43d769926273bb2682642b83d"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 145 (2018-02)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 145 (2018-02)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 145 (2018-02)(Future Publishing)(GB).pdf" size="44970048" crc="440ac5d7" md5="19911c753c7cca6627ce37d907ec11ab" sha1="1b455cadb9aa3de2cf33ba8152acb646bd62ead2"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 146 (2018-03)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 146 (2018-03)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 146 (2018-03)(Future Publishing)(GB).pdf" size="46323619" crc="227b3227" md5="a88372baa1aaf6ca6968e06115243e5f" sha1="cc4fb30b31b90dfd72c4485eac261d168b3721b6"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 147 (2018-04)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 147 (2018-04)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 147 (2018-04)(Future Publishing)(GB).pdf" size="46443815" crc="a9aae68d" md5="741ad57a4cc6281b05e08a31fc239b0b" sha1="0a43a502ba94ebc26f2ad6edf36150fa5df2093d"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 148 (2018-05)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 148 (2018-05)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 148 (2018-05)(Future Publishing)(GB).pdf" size="38767503" crc="71192c80" md5="551fee1337d28dcb274e5426cdb99193" sha1="77d0f17fdf626b18da09e8ea3a2e11228a510c8e"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 149 (2018-06)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 149 (2018-06)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 149 (2018-06)(Future Publishing)(GB).pdf" size="18573715" crc="30589cbc" md5="0bea968c6a8d324a8812777abe844dd5" sha1="dc8eec35f8e60a67d9e1e90b91e7d65e14a7194e"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 150 (2018-07)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 150 (2018-07)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 150 (2018-07)(Future Publishing)(GB).pdf" size="47551024" crc="75c75a8f" md5="f5660341560acc879a91bc97ae7d4e07" sha1="6ffa3f0459cb23e41190b08c06ca527777b6b121"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 151 (2018-08)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 151 (2018-08)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 151 (2018-08)(Future Publishing)(GB).pdf" size="45337695" crc="4d8086aa" md5="8dd7be5dd61544f512ee4a799ca36a5c" sha1="eeec3a0e7d1bbb3160464b8c5af4c14751c8d228"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 152 (2018-09)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 152 (2018-09)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 152 (2018-09)(Future Publishing)(GB).pdf" size="45272608" crc="67c97f05" md5="08abe67023d629208653e6e281c05e1a" sha1="b4dd8bacd223ae19f8643d8db5aef4a9c9b82d32"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 153 (2018-10)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 153 (2018-10)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 153 (2018-10)(Future Publishing)(GB).pdf" size="19190325" crc="54f7c353" md5="22c74236a363af8ee347efad54752c9d" sha1="d002b24dcb26a03a258d02871fcc1eb14d8bf56b"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 154 (2018-11)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 154 (2018-11)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 154 (2018-11)(Future Publishing)(GB).pdf" size="18732241" crc="9ed4eec5" md5="474904e6357f472cab39a37f5f782342" sha1="7e0fcb81fe0975c25a767a8218f4632e87eabff5"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 155 (2018-12)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 155 (2018-12)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 155 (2018-12)(Future Publishing)(GB).pdf" size="17731077" crc="49390c08" md5="888ef78a2a92d533d5f65a8b9ebcda5d" sha1="f6352ef0508b5ad10d65da1a4586c429a681fac5"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 156 (2017)(Future Publishing)(GB)[christmas edition]">
+		<description>Official UK PlayStation Magazine - Issue 156 (2017)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Official UK PlayStation Magazine - Issue 156 (2017)(Future Publishing)(GB)[christmas edition].pdf" size="35052578" crc="4a93c3e8" md5="7d315a4151d14c4475fd0cdec30c4632" sha1="fb7c6e8ef9ae55772eff28044fb306bcfb2bb736"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 157 (2019-01)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 157 (2019-01)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 157 (2019-01)(Future Publishing)(GB).pdf" size="56766366" crc="0be8967b" md5="aeaa10e921fc954cef7230418705b1ae" sha1="d257f3a292f8db9fba5b2486d5423290378a6d19"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 158 (2019-02)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 158 (2019-02)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 158 (2019-02)(Future Publishing)(GB).pdf" size="59150056" crc="ba1b07e0" md5="38552e9fdc19ff4fcb700b7f9808b12f" sha1="aa8287d836134d3adb7c21e781f38f91df4e9315"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 159 (2019-03)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 159 (2019-03)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 159 (2019-03)(Future Publishing)(GB).pdf" size="55442762" crc="59feaec5" md5="596bf5c13223d72d7dda61256a9a2f98" sha1="04f7d876e5e90ff6eef0fee610b6b44f3c44ad85"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 160 (2019-04)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 160 (2019-04)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 160 (2019-04)(Future Publishing)(GB).pdf" size="56909357" crc="1c4ef79e" md5="299bd2bd5df4b523d003154cf3102568" sha1="e9c980685e96eca8f7ab7670537cecbdd19abcb1"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 161 (2019-05)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 161 (2019-05)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 161 (2019-05)(Future Publishing)(GB).pdf" size="60992309" crc="8fc6a6f4" md5="20b522c9115b8fe8024bd168b2a18e64" sha1="79e995a6870b2a0d04582c683705b085846ebde3"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 162 (2019-06)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 162 (2019-06)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 162 (2019-06)(Future Publishing)(GB).pdf" size="74211674" crc="b9097d87" md5="ed10467db87451308f83ad833acc0a34" sha1="2799bedf288ce88505e615bd95f69e48c1b1f4ee"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 163 (2019-07)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 163 (2019-07)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 163 (2019-07)(Future Publishing)(GB).pdf" size="60993666" crc="06d177a7" md5="7864edb29d0b73ffd6caf257c66ef6fa" sha1="8570639477c5dfbe1a010f692a12d596abda5d8f"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 164 (2019-08)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 164 (2019-08)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 164 (2019-08)(Future Publishing)(GB).pdf" size="95606115" crc="59a9207f" md5="2dcef83f6b6e1044f32bc7484cca51c4" sha1="a910f9be0caf0d657679aace2d7cc689e7c82304"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - Issue 165 (2019-09)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - Issue 165 (2019-09)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - Issue 165 (2019-09)(Future Publishing)(GB).pdf" size="61728018" crc="f88327bf" md5="3bc2edd8656a5f0a68367b6c4a61db5f" sha1="465c4d94b77db0750eb1f126f6f15ee294c60118"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - PS4 The Ultimate Handbook (2014)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - PS4 The Ultimate Handbook (2014)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - PS4 The Ultimate Handbook (2014)(Future Publishing)(GB).pdf" size="57152035" crc="a03f41b3" md5="d10f3ac8d417dc1853ab41df8e824249" sha1="4c91d57d1ed746f17faaaef4a6738abec2835c43"/>
+	</game>
+	<game name="Official UK PlayStation Magazine - The Complete Guide to PS4 (2013)(Future Publishing)(GB)">
+		<description>Official UK PlayStation Magazine - The Complete Guide to PS4 (2013)(Future Publishing)(GB)</description>
+		<rom name="Official UK PlayStation Magazine - The Complete Guide to PS4 (2013)(Future Publishing)(GB).pdf" size="39921034" crc="b3f01282" md5="42d3089e5ea6a432776a214152bb087d" sha1="e398afe946f590cafc8015e3ade708a98bc3a541"/>
+	</game>
+</datafile>

@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Magazines - Australian Macworld</name>
+		<description>Apple Macintosh - Magazines - Australian Macworld (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="1994 Australian Macworld Expo - Show Guide Magazine Darling Harbour (1994)(IDG Communications)(AU)">
+		<description>1994 Australian Macworld Expo - Show Guide Magazine Darling Harbour (1994)(IDG Communications)(AU)</description>
+		<rom name="1994 Australian Macworld Expo - Show Guide Magazine Darling Harbour (1994)(IDG Communications)(AU).pdf" size="5714801" crc="62198915" md5="f4a1a1c2ec81a5637378c7ea641958d2" sha1="012625fe14c0b12dad85dc13be833eb44b75535c"/>
+	</game>
+	<game name="Australian Macworld - Issue 001 (1998-01)(Niche Media)(AU)[incorporating MacUser]">
+		<description>Australian Macworld - Issue 001 (1998-01)(Niche Media)(AU)[incorporating MacUser]</description>
+		<rom name="Australian Macworld - Issue 001 (1998-01)(Niche Media)(AU)[incorporating MacUser].pdf" size="99040297" crc="f1b0bd8b" md5="024b45f3b9c56db7b20f2b9760aba87e" sha1="9414697d656d61692e86bdddb5741ba7771169de"/>
+	</game>
+	<game name="Australian Macworld - Issue 004 (1998-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 004 (1998-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 004 (1998-04)(Niche Media)(AU).pdf" size="128402878" crc="6b99d806" md5="f0cf23778dbc2113a866fb54560b8972" sha1="75d1b32a3a4a2e372fe953a9cf61ce3cb3946248"/>
+	</game>
+	<game name="Australian Macworld - Issue 005 (1998-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 005 (1998-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 005 (1998-05)(Niche Media)(AU).pdf" size="109912586" crc="d564c7a8" md5="15e2abc06df2b640a7623c489e201adb" sha1="a79c3854261cb3c6f5715e4f53be32aca1cc33e7"/>
+	</game>
+	<game name="Australian Macworld - Issue 006 (1998-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 006 (1998-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 006 (1998-06)(Niche Media)(AU).pdf" size="119870547" crc="745c79b4" md5="cb115614bbe7bce46b3266a91fe2f33f" sha1="1032288a729cf5eee202706e20af2ac84c1c687c"/>
+	</game>
+	<game name="Australian Macworld - Issue 007 (1998-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 007 (1998-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 007 (1998-07)(Niche Media)(AU).pdf" size="207551364" crc="b91b7243" md5="8cdc176492159d37af8470b165ea6979" sha1="e9fe7c8104bc2bbd60196b749efb0ce793189f04"/>
+	</game>
+	<game name="Australian Macworld - Issue 009 (1998-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 009 (1998-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 009 (1998-09)(Niche Media)(AU).pdf" size="219088843" crc="74ca1eef" md5="f5d4331032127119cc23d0f2af7c43b4" sha1="6eae9522565ba811fff72265da8493f7014451ee"/>
+	</game>
+	<game name="Australian Macworld - Issue 014 (1999-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 014 (1999-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 014 (1999-02)(Niche Media)(AU).pdf" size="115263294" crc="e047aff2" md5="3eb1b5db508fcc77b25bc3028a690e5c" sha1="44af8b68e288479ef974e7c8fbd759dd60bd97b7"/>
+	</game>
+	<game name="Australian Macworld - Issue 025 (2000-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 025 (2000-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 025 (2000-01)(Niche Media)(AU).pdf" size="112206219" crc="a578a4bf" md5="87f65d5f84a28c4e5c88070f22f039e4" sha1="e2388d9bf7f923da719ba435096f7fe6757fb573"/>
+	</game>
+	<game name="Australian Macworld - Issue 027 (2000-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 027 (2000-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 027 (2000-03)(Niche Media)(AU).pdf" size="140311639" crc="e93fa274" md5="d6fcf05677eeb7bc62ace3078e4a6438" sha1="f052d5545e782ec94d7d402a4f250f8bcb732633"/>
+	</game>
+	<game name="Australian Macworld - Issue 028 (2000-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 028 (2000-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 028 (2000-04)(Niche Media)(AU).pdf" size="131736888" crc="8174047e" md5="f0c100001495e79b6ea5bd0630af0678" sha1="70f247bd79753ba18977ae331fa3ae0190a82ba7"/>
+	</game>
+	<game name="Australian Macworld - Issue 030 (2000-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 030 (2000-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 030 (2000-06)(Niche Media)(AU).pdf" size="126327525" crc="edade82d" md5="99cf6336ccbf450c96412db8aa73335d" sha1="4f6f923a72422c6c43b4886ecfda6795d189746f"/>
+	</game>
+	<game name="Australian Macworld - Issue 032 (2000-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 032 (2000-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 032 (2000-08)(Niche Media)(AU).pdf" size="136524572" crc="e1aeee7c" md5="b907035518915e9e7d44730258a52a1d" sha1="3aa13ca23632ce4b89b408b489a9d9bd7d455652"/>
+	</game>
+	<game name="Australian Macworld - Issue 042 (2001-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 042 (2001-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 042 (2001-06)(Niche Media)(AU).pdf" size="175923888" crc="b50b4e28" md5="6f329b2c3eafe43727892a8376a4c527" sha1="6e862829c8e53a6a2253c9bac9f092033f14b824"/>
+	</game>
+	<game name="Australian Macworld - Issue 060 (2003-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 060 (2003-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 060 (2003-01)(Niche Media)(AU).pdf" size="16768794" crc="2ec85b64" md5="06f91a31d983ccc1aea3f6814dfd94f2" sha1="d6f75aa079e7e0e8a8f55545bdc9921a21cd5e74"/>
+	</game>
+	<game name="Australian Macworld - Issue 061 (2003-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 061 (2003-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 061 (2003-02)(Niche Media)(AU).pdf" size="15208967" crc="e7d0b319" md5="65a12d196c27e0ecef920fb6e5730ae5" sha1="0e49f1eef383119171e2b644501fcc031f47e95d"/>
+	</game>
+	<game name="Australian Macworld - Issue 062 (2003-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 062 (2003-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 062 (2003-03)(Niche Media)(AU).pdf" size="15062117" crc="1b3a53cf" md5="d28db48f2b372c7fc7b4595eb2ad90a1" sha1="521aa2608e52bfc38b976a3165cf1c27a185d729"/>
+	</game>
+	<game name="Australian Macworld - Issue 063 (2003-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 063 (2003-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 063 (2003-04)(Niche Media)(AU).pdf" size="22585093" crc="f03ffa51" md5="7f699624372e267d1400841292549591" sha1="ee7f5813576a26bd0865fdc59b572b61a4b1cf98"/>
+	</game>
+	<game name="Australian Macworld - Issue 064 (2003-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 064 (2003-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 064 (2003-05)(Niche Media)(AU).pdf" size="15862524" crc="291ca62d" md5="10441960227d1f498f0ac25e356712ef" sha1="f44938a4c1eedc5eb3fafead7f21fea12fcceb73"/>
+	</game>
+	<game name="Australian Macworld - Issue 065 (2003-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 065 (2003-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 065 (2003-06)(Niche Media)(AU).pdf" size="20418283" crc="9823f1d1" md5="6172f66c5c069c89557f200e695c5a3e" sha1="10ed282b38fc0f7b43a9800cc3e00bbbd25c116a"/>
+	</game>
+	<game name="Australian Macworld - Issue 066 (2003-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 066 (2003-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 066 (2003-07)(Niche Media)(AU).pdf" size="17684044" crc="6e7d18b4" md5="b557966e569ae5ee4861271cd8940a26" sha1="74fc0fe3c47cddbb357699ff1c4690e0ddb979db"/>
+	</game>
+	<game name="Australian Macworld - Issue 067 (2003-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 067 (2003-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 067 (2003-08)(Niche Media)(AU).pdf" size="14391895" crc="2df07c94" md5="ed4be5d476d7aeaa2326e1d2f7274814" sha1="990e5bc1eae1860ff1ce5189784269f859106fc9"/>
+	</game>
+	<game name="Australian Macworld - Issue 068 (2003-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 068 (2003-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 068 (2003-09)(Niche Media)(AU).pdf" size="16939817" crc="1e1a9bfa" md5="4b1128b1719f1e5734ff471fe1d663e7" sha1="7adbe1c119a63cd0474e71ae23a004094832ac8e"/>
+	</game>
+	<game name="Australian Macworld - Issue 069 (2003-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 069 (2003-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 069 (2003-10)(Niche Media)(AU).pdf" size="21158894" crc="d1448c17" md5="0a582f79f686dbbd72e401891e777d54" sha1="e6c594e6b08eeae341f77ce26e709c819dc2f262"/>
+	</game>
+	<game name="Australian Macworld - Issue 070 (2003-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 070 (2003-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 070 (2003-11)(Niche Media)(AU).pdf" size="19496836" crc="a34066ea" md5="8472756e1b79625939616e4be63dca29" sha1="0513da78578c50bedec7cf3b70714e9c5801ba3d"/>
+	</game>
+	<game name="Australian Macworld - Issue 071 (2003-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 071 (2003-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 071 (2003-12)(Niche Media)(AU).pdf" size="20087408" crc="22d605e8" md5="15f3324563aca1fd6f94e7c5798899ff" sha1="9382d3b943a63cc678a0c1964d147827b337dc4b"/>
+	</game>
+	<game name="Australian Macworld - Issue 072 (2004-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 072 (2004-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 072 (2004-01)(Niche Media)(AU).pdf" size="15703614" crc="6bcfe2c3" md5="711af2556befe7743cdd73db1941a15e" sha1="9cc5b722ba7dea16b4236588879089a44dd23251"/>
+	</game>
+	<game name="Australian Macworld - Issue 073 (2004-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 073 (2004-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 073 (2004-02)(Niche Media)(AU).pdf" size="16611689" crc="5e0e888c" md5="609e4828c10a3fc850e3e05cfe359f51" sha1="fb4e39719c0df1379c5c7c13eeb767591f19d7e5"/>
+	</game>
+	<game name="Australian Macworld - Issue 074 (2004-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 074 (2004-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 074 (2004-03)(Niche Media)(AU).pdf" size="21398080" crc="9f7aadcf" md5="fedb2917d4f87260d1dc2f6f46d6db77" sha1="8e9a05bd20781bcba531d72cd2d17e79e69a7fc7"/>
+	</game>
+	<game name="Australian Macworld - Issue 075 (2004-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 075 (2004-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 075 (2004-04)(Niche Media)(AU).pdf" size="19634416" crc="0fadb81e" md5="8ad8a1f48aa8239f042d5fdb79612f7d" sha1="417eb8a11bed959aeb333f6350263253c347ded2"/>
+	</game>
+	<game name="Australian Macworld - Issue 076 (2004-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 076 (2004-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 076 (2004-05)(Niche Media)(AU).pdf" size="23150176" crc="b99fbfc1" md5="cb371ff1e2ec1948fc4629b7f68a1d00" sha1="9de1edc6c60fc06ae69f8ef45b3ec8390980da97"/>
+	</game>
+	<game name="Australian Macworld - Issue 077 (2004-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 077 (2004-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 077 (2004-06)(Niche Media)(AU).pdf" size="20997843" crc="377d2283" md5="07c6a3c7bb05b12db14c3dee9f04ebf9" sha1="142ab6c90db748e748db64719a9adef91b1894a1"/>
+	</game>
+	<game name="Australian Macworld - Issue 078 (2004-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 078 (2004-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 078 (2004-07)(Niche Media)(AU).pdf" size="19771435" crc="d7a5a6f9" md5="fdc94d244af6d3d3c950e6547a0a7c21" sha1="c60bc30ba6be4c21fa83485dd62cc3ff615146a4"/>
+	</game>
+	<game name="Australian Macworld - Issue 079 (2004-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 079 (2004-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 079 (2004-08)(Niche Media)(AU).pdf" size="27828435" crc="346051c1" md5="eebe2c625aa40d4693035511fe7395e4" sha1="f055a80931da05a3e7556f08703be2ed66d8d01f"/>
+	</game>
+	<game name="Australian Macworld - Issue 079 (2004-08)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 079 (2004-08)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 079 (2004-08)(Niche Media)(AU)[a].pdf" size="1668550144" crc="bc6a2d11" md5="f058624b8fe37ffdf69017e7c76f1da8" sha1="3f46f623366ad77193140300a7058fb4fa2997bb"/>
+	</game>
+	<game name="Australian Macworld - Issue 080 (2004-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 080 (2004-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 080 (2004-09)(Niche Media)(AU).pdf" size="24806279" crc="89089685" md5="c6fef71110d8c24c0813029df799525d" sha1="8ecca8693b0b7032c701334ced76635d0506e173"/>
+	</game>
+	<game name="Australian Macworld - Issue 081 (2004-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 081 (2004-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 081 (2004-10)(Niche Media)(AU).pdf" size="26295582" crc="23f7d3dd" md5="7d2043194d7a905e7fec1baacce8f634" sha1="7163e59539f57081b9a795c58daae19769cf238e"/>
+	</game>
+	<game name="Australian Macworld - Issue 081 (2004-10)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 081 (2004-10)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 081 (2004-10)(Niche Media)(AU)[a].pdf" size="335654963" crc="30742083" md5="13e0fc8b22a26bb34a5c7453c4389f62" sha1="40d098b15acb5c234153ee62f8cae1cd43f07586"/>
+	</game>
+	<game name="Australian Macworld - Issue 082 (2004-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 082 (2004-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 082 (2004-11)(Niche Media)(AU).pdf" size="22643864" crc="3439d7bb" md5="9b6263b7d1b32a8e8bfc664e0792e2cf" sha1="b80f7ccc11c545e982f3e3072ce23a82722e09db"/>
+	</game>
+	<game name="Australian Macworld - Issue 082 (2004-11)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 082 (2004-11)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 082 (2004-11)(Niche Media)(AU)[a].pdf" size="258677379" crc="ed9980ff" md5="41752b3a5759bb3e015d2fc9a59d886d" sha1="c8f7be786ad31810e4dc9bd77d2f29d189a06cd4"/>
+	</game>
+	<game name="Australian Macworld - Issue 083 (2004-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 083 (2004-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 083 (2004-12)(Niche Media)(AU).pdf" size="15376824" crc="fbebe73d" md5="9dcd3ca8613bf555419aac5d24156651" sha1="f2e7b88e1fc6c2c26c18cc9582c83cb60a5a3d1f"/>
+	</game>
+	<game name="Australian Macworld - Issue 083 (2004-12)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 083 (2004-12)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 083 (2004-12)(Niche Media)(AU)[a].pdf" size="282829289" crc="754b3eb8" md5="63070cce2276f1755547c7588f89875e" sha1="a5bfeaaea6046b9750f300a46860e4a811e2e8ab"/>
+	</game>
+	<game name="Australian Macworld - Issue 085 (2005-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 085 (2005-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 085 (2005-02)(Niche Media)(AU).pdf" size="274566332" crc="751c1fc1" md5="377631f6886f55f54d9adbc02cb31c24" sha1="67197d95d6db611a406737c6b5920e9dd8904953"/>
+	</game>
+	<game name="Australian Macworld - Issue 086 (2005-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 086 (2005-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 086 (2005-03)(Niche Media)(AU).pdf" size="21677585" crc="8f626d8f" md5="4b9e6ef5f827dc2e3bcd89bd55152a5a" sha1="b284384a484862fb2b2db53991775914651b391d"/>
+	</game>
+	<game name="Australian Macworld - Issue 086 (2005-03)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 086 (2005-03)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 086 (2005-03)(Niche Media)(AU)[a].pdf" size="226249932" crc="18cc0f04" md5="03341660fa734b15aa073bb9d3066050" sha1="f58fdd0c6e6eb964c311a3bf772e2a054c6f1590"/>
+	</game>
+	<game name="Australian Macworld - Issue 087 (2005-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 087 (2005-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 087 (2005-04)(Niche Media)(AU).pdf" size="19153126" crc="414234d4" md5="3c36f6912a1186e7b4d13d8b527b6711" sha1="dc4a80c202ddaac743fbcd3abd9c4ca16ca6c9de"/>
+	</game>
+	<game name="Australian Macworld - Issue 087 (2005-04)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 087 (2005-04)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 087 (2005-04)(Niche Media)(AU)[a].pdf" size="231664653" crc="7f50d544" md5="a6e6ac3ca1966f39f141b260af1e2183" sha1="1f334966fdefbd595853e7019a97754e635680e3"/>
+	</game>
+	<game name="Australian Macworld - Issue 088 (2005-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 088 (2005-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 088 (2005-05)(Niche Media)(AU).pdf" size="19653536" crc="ec973881" md5="2791fd188e65e8d7df7d3ce8a6b652ae" sha1="dd1f71bf2bdcb9278243ae97e70f3eea213478bd"/>
+	</game>
+	<game name="Australian Macworld - Issue 088 (2005-05)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 088 (2005-05)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 088 (2005-05)(Niche Media)(AU)[a].pdf" size="336265332" crc="196e07b3" md5="dcc7d3fef83a7d3572db1657e55aaf61" sha1="7ad1496df6ceeca3c6a4cada64edb5020af8fed5"/>
+	</game>
+	<game name="Australian Macworld - Issue 089 (2005-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 089 (2005-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 089 (2005-06)(Niche Media)(AU).pdf" size="16606530" crc="9eeced7d" md5="ced39442a366750a11791650e3050744" sha1="6e38f0d1be8ac7054605c705d1fcf8c344a5ab51"/>
+	</game>
+	<game name="Australian Macworld - Issue 089 (2005-06)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 089 (2005-06)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 089 (2005-06)(Niche Media)(AU)[a].pdf" size="309960419" crc="98e1367a" md5="12788b0adf9f0c0291729648aa5b406e" sha1="f2abee8764a0ef039e593c4016df3fef48e74bf1"/>
+	</game>
+	<game name="Australian Macworld - Issue 090 (2005-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 090 (2005-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 090 (2005-07)(Niche Media)(AU).pdf" size="26087726" crc="a9058df7" md5="c9cbfd5b0d2e3ba12125daf83576b9cc" sha1="8f2eb8194f23a8cd238f7708975df5938d05c619"/>
+	</game>
+	<game name="Australian Macworld - Issue 090 (2005-07)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 090 (2005-07)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 090 (2005-07)(Niche Media)(AU)[a].pdf" size="250485851" crc="4f8fdbaa" md5="4c852208f3fe714998ae09892e2404c7" sha1="0bbfcb50486d8234f291418e21693b15d5c60c7e"/>
+	</game>
+	<game name="Australian Macworld - Issue 091 (2005-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 091 (2005-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 091 (2005-08)(Niche Media)(AU).pdf" size="19268781" crc="40e7a049" md5="9d09b352097889bb0a6cc49160b53a14" sha1="2bfbfcb9fad94f9656c1c0b8626bbc4ef5f0df00"/>
+	</game>
+	<game name="Australian Macworld - Issue 091 (2005-08)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 091 (2005-08)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 091 (2005-08)(Niche Media)(AU)[a].pdf" size="240866865" crc="b8b312a9" md5="57a731e8bae7f85fc83405f015fc77e8" sha1="b32a1559a9f420a4f82e99fc4f9371f5e25017ed"/>
+	</game>
+	<game name="Australian Macworld - Issue 092 (2005-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 092 (2005-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 092 (2005-09)(Niche Media)(AU).pdf" size="21758614" crc="e3588943" md5="4c82506f848d01022edeb9fb669c1783" sha1="cfe4c31026e9a9c233c6acd4de12c25ab504b469"/>
+	</game>
+	<game name="Australian Macworld - Issue 092 (2005-09)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 092 (2005-09)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 092 (2005-09)(Niche Media)(AU)[a].pdf" size="225479187" crc="8a53f4e1" md5="008b37b888684e99ef36faa5e883becc" sha1="0804ee1eb85676faf83b48b0c1542295310fc1e0"/>
+	</game>
+	<game name="Australian Macworld - Issue 093 (2005-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 093 (2005-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 093 (2005-10)(Niche Media)(AU).pdf" size="18687174" crc="f77210b6" md5="78521bc947e47620c250946daa444de0" sha1="a7b2ef8f1725046c230a4ac62d8fc3c7f3d02000"/>
+	</game>
+	<game name="Australian Macworld - Issue 093 (2005-10)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 093 (2005-10)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 093 (2005-10)(Niche Media)(AU)[a].pdf" size="330416996" crc="69ff8f0e" md5="7be73943791e40a12d71cfb9ad09be5e" sha1="d20289a258b50305ec7619731092a3ee431b24f0"/>
+	</game>
+	<game name="Australian Macworld - Issue 094 (2005-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 094 (2005-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 094 (2005-11)(Niche Media)(AU).pdf" size="18251004" crc="de9b0562" md5="3119ea4a30a8d04040d7e91d57e7b6eb" sha1="e9ca1c220c425b07134b92fcbcc7cb6160568e29"/>
+	</game>
+	<game name="Australian Macworld - Issue 094 (2005-11)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 094 (2005-11)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 094 (2005-11)(Niche Media)(AU)[a].pdf" size="346365716" crc="012e0492" md5="70df9c01ed0db7ebd5ebb749086e3dad" sha1="f9b41bb90b42397892de001d9c5655f3e1cf3276"/>
+	</game>
+	<game name="Australian Macworld - Issue 095 (2005-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 095 (2005-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 095 (2005-12)(Niche Media)(AU).pdf" size="23622625" crc="f280aaaf" md5="3327fc790d9d43f3316fa0c9a82e4c65" sha1="c664f1a62836d6e416e6beb1c6e85fe90ce432d1"/>
+	</game>
+	<game name="Australian Macworld - Issue 095 (2005-12)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 095 (2005-12)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 095 (2005-12)(Niche Media)(AU)[a].pdf" size="364708074" crc="e3b5d7eb" md5="4b78b6ac240b9af785df6b92a52ed6de" sha1="d448c8cea77b9d60ce437df9d162bc7bba71431a"/>
+	</game>
+	<game name="Australian Macworld - Issue 096 (2006-01)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 096 (2006-01)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 096 (2006-01)(Niche Media)(AU)[a].pdf" size="213081785" crc="aee47ece" md5="632d6db2b305cb0b4b903ebe30b73e8e" sha1="e5b039b7cd747bcd8fa56173ab8b00994a11844f"/>
+	</game>
+	<game name="Australian Macworld - Issue 096 (2006-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 096 (2006-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 096 (2006-02)(Niche Media)(AU).pdf" size="12857687" crc="fa8f19c8" md5="f7cc37af1fe248fbfd4996ca2449a3a2" sha1="6bf1a5692761152f99c108257e550ecc738ca44b"/>
+	</game>
+	<game name="Australian Macworld - Issue 097 (2006-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 097 (2006-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 097 (2006-02)(Niche Media)(AU).pdf" size="190859662" crc="2f94df73" md5="b80b90c33e3155f6e5235fcb527524dc" sha1="4ecc005490e1b40e5b95a43f1c87ea4b5b4413ea"/>
+	</game>
+	<game name="Australian Macworld - Issue 098 (2006-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 098 (2006-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 098 (2006-03)(Niche Media)(AU).pdf" size="259397358" crc="21a6f2ea" md5="e78589c691d1a5546e8a1d0d7990fda0" sha1="1f601d7e5a471f1234fe8537120a173619847a4a"/>
+	</game>
+	<game name="Australian Macworld - Issue 099 (2006-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 099 (2006-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 099 (2006-04)(Niche Media)(AU).pdf" size="250678507" crc="092c651d" md5="f1d4e949ddba505a16a3c95fba2be546" sha1="d217c0b0642764b310a2e8e1cb2c20c02e023997"/>
+	</game>
+	<game name="Australian Macworld - Issue 100 (2006-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 100 (2006-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 100 (2006-05)(Niche Media)(AU).pdf" size="274133062" crc="8f54fa84" md5="1852d449af58678c5aad16e99cb1374d" sha1="985f79c963740ec9f9fe23df5996ef8ec0dfe0ef"/>
+	</game>
+	<game name="Australian Macworld - Issue 101 (2006-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 101 (2006-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 101 (2006-06)(Niche Media)(AU).pdf" size="330869966" crc="be37c5e1" md5="b4e08d7ed7a36a6c6a245a1b30591d49" sha1="1eae7fa07113c6f6d87d441d244385eb3a3909ee"/>
+	</game>
+	<game name="Australian Macworld - Issue 102 (2006-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 102 (2006-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 102 (2006-07)(Niche Media)(AU).pdf" size="314434950" crc="963e5b79" md5="953611ff913317ff1d224f2d90b6a25e" sha1="33d22182d6f0d9a897190f1a5d4f996f32997170"/>
+	</game>
+	<game name="Australian Macworld - Issue 103 (2006-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 103 (2006-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 103 (2006-08)(Niche Media)(AU).pdf" size="286406858" crc="c2a4c494" md5="ae61bee032ed3fe7943839ae5192101b" sha1="1b92e45b5c614a18d45fbde0fa01484d493690ce"/>
+	</game>
+	<game name="Australian Macworld - Issue 104 (2006-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 104 (2006-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 104 (2006-09)(Niche Media)(AU).pdf" size="317168404" crc="195fcbc7" md5="d5eed75924fea65ae905e135925f522b" sha1="37dc3e46895f75fc10eed1e3a0a3a39d2fd089f3"/>
+	</game>
+	<game name="Australian Macworld - Issue 105 (2006-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 105 (2006-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 105 (2006-10)(Niche Media)(AU).pdf" size="299110282" crc="397f1361" md5="ea555b47d3bcbcbd6ec1452691bb0dfb" sha1="a67e6c4ad4c37b6ab7acd48b2d8ebf346392c427"/>
+	</game>
+	<game name="Australian Macworld - Issue 106 (2006-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 106 (2006-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 106 (2006-11)(Niche Media)(AU).pdf" size="250391763" crc="c8daee9d" md5="4346f2fa077ca966609a60c7e4620b04" sha1="d129d4f4250f5a34c9190013aba21aabc28e5f5f"/>
+	</game>
+	<game name="Australian Macworld - Issue 107 (2006-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 107 (2006-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 107 (2006-12)(Niche Media)(AU).pdf" size="238610099" crc="11d5008a" md5="9e580ae2a5b065677cd5df667ed2ee4e" sha1="24ec7eb414498eed3b2a370c7a5aa143a05318e7"/>
+	</game>
+	<game name="Australian Macworld - Issue 108 (2007-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 108 (2007-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 108 (2007-01)(Niche Media)(AU).pdf" size="207755638" crc="980f240f" md5="a0a1c4ced6ea41a26bf621736e488480" sha1="faa85458cdf7a70484452e29d75dc5d86f3bb249"/>
+	</game>
+	<game name="Australian Macworld - Issue 109 (2007-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 109 (2007-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 109 (2007-02)(Niche Media)(AU).pdf" size="213514360" crc="7e2d1561" md5="db082312780ba07dc2a12880582eeb75" sha1="b687bac28c00a96b7d47e84b2aaae6318e60c0c0"/>
+	</game>
+	<game name="Australian Macworld - Issue 110 (2007-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 110 (2007-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 110 (2007-03)(Niche Media)(AU).pdf" size="210340513" crc="1c2766e1" md5="80f02a42116f2140f307cd1f03148442" sha1="00a4f5ac58d88a9927857267f0ab2388a9c0bdf5"/>
+	</game>
+	<game name="Australian Macworld - Issue 111 (2007-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 111 (2007-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 111 (2007-04)(Niche Media)(AU).pdf" size="211278422" crc="531b3a31" md5="b9266abbc6fa289fb5ac699d7ad6b631" sha1="ba9b23b1ce637c2650496db28a3edd0baca34d32"/>
+	</game>
+	<game name="Australian Macworld - Issue 112 (2007-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 112 (2007-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 112 (2007-05)(Niche Media)(AU).pdf" size="202963198" crc="76525bd2" md5="0e840c45d2ad19f4ad7f834703ec73db" sha1="64f5efb780b446cf93cc530f1a0ae60da8b95269"/>
+	</game>
+	<game name="Australian Macworld - Issue 113 (2007-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 113 (2007-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 113 (2007-06)(Niche Media)(AU).pdf" size="210536828" crc="4eb194de" md5="3cb7a8149096440ce5e815628962fc17" sha1="cd9ebf9be3849285541195cb4ee9d1fe028cefb0"/>
+	</game>
+	<game name="Australian Macworld - Issue 114 (2007-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 114 (2007-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 114 (2007-07)(Niche Media)(AU).pdf" size="207804111" crc="a54ce38f" md5="1f399f7c78ac86026419b4e79d5bc951" sha1="bbf731ec49c9da65ef4c0704411adfd64a4c3307"/>
+	</game>
+	<game name="Australian Macworld - Issue 115 (2007-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 115 (2007-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 115 (2007-08)(Niche Media)(AU).pdf" size="200619701" crc="9c402c8c" md5="38eefa97a0ae03362d2b48da7e8c0fbe" sha1="e7be089155566d95702de2ce2eef4f520294609e"/>
+	</game>
+	<game name="Australian Macworld - Issue 116 (2007-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 116 (2007-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 116 (2007-09)(Niche Media)(AU).pdf" size="214100852" crc="b36b62de" md5="f55af05753b7ddba60d28dd78e81a099" sha1="3b9af44c925a17f2a707db1c15f62cc09fc0ac95"/>
+	</game>
+	<game name="Australian Macworld - Issue 117 (2007-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 117 (2007-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 117 (2007-10)(Niche Media)(AU).pdf" size="205620002" crc="8c95fe04" md5="d63adb89b6e4e7e3f7b50c943bd31b86" sha1="89e4adf1d7cd729576b5aa9a055df30249c6421a"/>
+	</game>
+	<game name="Australian Macworld - Issue 118 (2007-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 118 (2007-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 118 (2007-11)(Niche Media)(AU).pdf" size="200837375" crc="d49f57c1" md5="c18995f696b8f79002accdd3051dfd84" sha1="9ae15aa9f935338ac410b8761114b9471505ff17"/>
+	</game>
+	<game name="Australian Macworld - Issue 119 (2007-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 119 (2007-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 119 (2007-12)(Niche Media)(AU).pdf" size="264733525" crc="6811212c" md5="36b997a8d550c566ccca6c6326a06792" sha1="21fee8018eb9e6045eabd4fb90122d4305deaba8"/>
+	</game>
+	<game name="Australian Macworld - Issue 120 (2008-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 120 (2008-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 120 (2008-01)(Niche Media)(AU).pdf" size="192229162" crc="f42d7e98" md5="65a679a1a38f671d7063bd839b97f536" sha1="eeefa3b95ff8f4bb5d9539ef5cc87d3b62eff9e8"/>
+	</game>
+	<game name="Australian Macworld - Issue 120 (2008-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 120 (2008-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 120 (2008-02)(Niche Media)(AU).pdf" size="193987566" crc="3b86b971" md5="31bdbddee6da6b8309fdc5503afea264" sha1="1f89947806e1b1d13e90e9469a57c91a71ec3bd4"/>
+	</game>
+	<game name="Australian Macworld - Issue 121 (2008-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 121 (2008-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 121 (2008-03)(Niche Media)(AU).pdf" size="196509445" crc="74b4519a" md5="bc8952742d204522d3c2ff921fba5f78" sha1="c6f814001d7df27243ce92bda37360389390867b"/>
+	</game>
+	<game name="Australian Macworld - Issue 122 (2008-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 122 (2008-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 122 (2008-04)(Niche Media)(AU).pdf" size="209363640" crc="78ae1c4c" md5="c148ded638b70d5d8a8fc06af8f1aa98" sha1="c42de9720c1108659267b6c6edb5ce1bbac47e40"/>
+	</game>
+	<game name="Australian Macworld - Issue 123 (2008-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 123 (2008-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 123 (2008-05)(Niche Media)(AU).pdf" size="194205449" crc="cb8851db" md5="855a115245f5e36bcbb0f41b932a21a6" sha1="070a7053114c86c36b373b9698e580a7937fa43b"/>
+	</game>
+	<game name="Australian Macworld - Issue 124 (2008-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 124 (2008-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 124 (2008-06)(Niche Media)(AU).pdf" size="197391720" crc="d6dafafc" md5="eeedd3fd356e8401ccecd54725760f24" sha1="7b83fbb4c598e3a8deabaabc987ccc0377de29f1"/>
+	</game>
+	<game name="Australian Macworld - Issue 125 (2008-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 125 (2008-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 125 (2008-07)(Niche Media)(AU).pdf" size="196008263" crc="8bc1b560" md5="71106779aa8ffe0ba72a8c0eee1e8524" sha1="50b22f76835ebd6a08d49249ec1eb8ff9274bf55"/>
+	</game>
+	<game name="Australian Macworld - Issue 126 (2008-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 126 (2008-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 126 (2008-08)(Niche Media)(AU).pdf" size="197944406" crc="4e760770" md5="55511552362474ba3cffceaf07afa888" sha1="578e83faa855d1b2f6873fa3ee7c3122cce4d2dc"/>
+	</game>
+	<game name="Australian Macworld - Issue 127 (2008-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 127 (2008-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 127 (2008-09)(Niche Media)(AU).pdf" size="198924752" crc="9db02778" md5="e51e7fb602d0492ee73e4c8f59e9c8a4" sha1="b9c2bdecbf352ef63d676f30e6c1921d6260edff"/>
+	</game>
+	<game name="Australian Macworld - Issue 128 (2008-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 128 (2008-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 128 (2008-10)(Niche Media)(AU).pdf" size="198201172" crc="0eedd8b6" md5="a2204b172c23748770faf3bfa10ad532" sha1="bc057fabffa8580015b281c6a49c524d4bb8a02f"/>
+	</game>
+	<game name="Australian Macworld - Issue 129 (2008-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 129 (2008-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 129 (2008-11)(Niche Media)(AU).pdf" size="183685211" crc="02188752" md5="8c6872fe3261d2d2932e7f8e3c0efeb1" sha1="78b8549ae373ae712e95a5803410afd1dd37c3cf"/>
+	</game>
+	<game name="Australian Macworld - Issue 130 (2008-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 130 (2008-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 130 (2008-12)(Niche Media)(AU).pdf" size="254674990" crc="69fd5807" md5="d39c112aef1f233313b0552742d3d0af" sha1="d154da3c8d744f40b017134b25ba735ebac449c7"/>
+	</game>
+	<game name="Australian Macworld - Issue 131 (2009-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 131 (2009-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 131 (2009-01)(Niche Media)(AU).pdf" size="183624842" crc="f6827f73" md5="e179421b50cb85676be5d5bfcdfc4d40" sha1="3217a7372f26b91af6ce538a96dfc008ae89fd83"/>
+	</game>
+	<game name="Australian Macworld - Issue 132 (2009-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 132 (2009-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 132 (2009-02)(Niche Media)(AU).pdf" size="179389468" crc="69e10f48" md5="33f2385fb147f98104bd758aac692018" sha1="6e2fe2fb486bf7824b5d71020f34a894c656b878"/>
+	</game>
+	<game name="Australian Macworld - Issue 133 (2009-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 133 (2009-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 133 (2009-03)(Niche Media)(AU).pdf" size="189033109" crc="b78cbba0" md5="a875c904339abab59d5ec4168df56090" sha1="69ff4868c17803601c7aba27bc9e1d14392e95f4"/>
+	</game>
+	<game name="Australian Macworld - Issue 134 (2009-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 134 (2009-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 134 (2009-04)(Niche Media)(AU).pdf" size="191941898" crc="a7b63c51" md5="a10b5e654945837a2756fc85d4cb58d4" sha1="757e8e600c82f19a1f20aed55c9cdc8b6716c4b0"/>
+	</game>
+	<game name="Australian Macworld - Issue 135 (2009-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 135 (2009-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 135 (2009-05)(Niche Media)(AU).pdf" size="183860589" crc="8f22344a" md5="99951bafba4f4349805ca4d55c6be53a" sha1="355692b2234b211873957e9fff7e4ee6de4db187"/>
+	</game>
+	<game name="Australian Macworld - Issue 136 (2009-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 136 (2009-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 136 (2009-06)(Niche Media)(AU).pdf" size="1980313438" crc="d22cdb71" md5="f0f2b309ab51a6e651c2dca9ca4b2ce0" sha1="3075877b447fa6a5486273006bdb496109166f81"/>
+	</game>
+	<game name="Australian Macworld - Issue 137 (2009-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 137 (2009-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 137 (2009-07)(Niche Media)(AU).pdf" size="179378267" crc="b1fd7c20" md5="6e019c1ece1432131327165a0d6c9bdf" sha1="3a18e501d605ce3a4d2671269245858f0576179d"/>
+	</game>
+	<game name="Australian Macworld - Issue 138 (2009-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 138 (2009-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 138 (2009-08)(Niche Media)(AU).pdf" size="175423669" crc="a346e620" md5="7a4fd258928bd55dbf33e832a6ebb546" sha1="d0f48d2e3abce08b79dbb4c950507636071310ea"/>
+	</game>
+	<game name="Australian Macworld - Issue 139 (2009-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 139 (2009-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 139 (2009-09)(Niche Media)(AU).pdf" size="171985596" crc="f3688cfb" md5="1b345e83848c487f50ea3c410c9baf2a" sha1="ab25c6a59455d24c49fac4f633ff7aec3bc1d84f"/>
+	</game>
+	<game name="Australian Macworld - Issue 140 (2009-10)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 140 (2009-10)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 140 (2009-10)(Niche Media)(AU)[a].pdf" size="310229774" crc="58c85133" md5="937db6833f580821802a7508f727c79f" sha1="c82fdff47ed56a8a644333f8b2a5188ffd6c4f88"/>
+	</game>
+	<game name="Australian Macworld - Issue 140 (2010-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 140 (2010-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 140 (2010-03)(Niche Media)(AU).pdf" size="21488421" crc="e946a854" md5="42f629edb39053c6c1b1965d11ca2316" sha1="4b1b79ea4f75b71da3be079c0a3f962ad08d7916"/>
+	</game>
+	<game name="Australian Macworld - Issue 141 (2009-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 141 (2009-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 141 (2009-11)(Niche Media)(AU).pdf" size="215677743" crc="b1729767" md5="22b7349ffd03d4a97c24361f38d4c0c0" sha1="45e05eadf509b7ff29c1f063d83fe0d270332d34"/>
+	</game>
+	<game name="Australian Macworld - Issue 142 (2009-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 142 (2009-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 142 (2009-12)(Niche Media)(AU).pdf" size="208524187" crc="4af82d47" md5="eefa238628366cd5dfcbe035e4892bf8" sha1="da857718454ba97058580674faeef07ea163fedc"/>
+	</game>
+	<game name="Australian Macworld - Issue 143 (2010-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 143 (2010-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 143 (2010-01)(Niche Media)(AU).pdf" size="213798737" crc="1fbdfaf7" md5="8ccac29856f1f5653c7d005331358b75" sha1="32a0e3ff0f9f08af7ce5b6f3634c781d3b746ab5"/>
+	</game>
+	<game name="Australian Macworld - Issue 144 (2010-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 144 (2010-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 144 (2010-02)(Niche Media)(AU).pdf" size="215970635" crc="db40ac26" md5="a8d3576e799a069eddc1652c793ce85d" sha1="aa08c2740f9679eb6597e2d9568f45e9b99db81b"/>
+	</game>
+	<game name="Australian Macworld - Issue 145 (2010-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 145 (2010-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 145 (2010-03)(Niche Media)(AU).pdf" size="351789322" crc="c4d1c258" md5="1f6d06cb766c251b8c5386b35745fe3d" sha1="b8feacd72b4b5000ac27b3da50f8a481a8e15e82"/>
+	</game>
+	<game name="Australian Macworld - Issue 146 (2010-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 146 (2010-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 146 (2010-04)(Niche Media)(AU).pdf" size="213666602" crc="6017f8cf" md5="e9ea99be037f1f6fd286bc094f1d4ea5" sha1="dc41edc6c38c2af8de0c3652b7744e64b8f1977f"/>
+	</game>
+	<game name="Australian Macworld - Issue 147 (2010-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 147 (2010-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 147 (2010-05)(Niche Media)(AU).pdf" size="212493365" crc="c19de868" md5="3a334702df5a08759e1113dc51732fab" sha1="cd91b96183349254b0dafe5f2c9ae89c44af21f4"/>
+	</game>
+	<game name="Australian Macworld - Issue 148 (2010-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 148 (2010-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 148 (2010-06)(Niche Media)(AU).pdf" size="21486291" crc="acbfb9a5" md5="900a8eec7d604934f391786ffc11b7fe" sha1="e39e96779824dc7b63fd4f67c7d0e99857d86d57"/>
+	</game>
+	<game name="Australian Macworld - Issue 148 (2010-06)(Niche Media)(AU)[a2]">
+		<description>Australian Macworld - Issue 148 (2010-06)(Niche Media)(AU)[a2]</description>
+		<rom name="Australian Macworld - Issue 148 (2010-06)(Niche Media)(AU)[a2].pdf" size="32351164" crc="7bbc3c9a" md5="aa415f97cc0271fb05319ff1e2ab6768" sha1="1fcd4da71abca0aa2086eda2dc449885e6eb1637"/>
+	</game>
+	<game name="Australian Macworld - Issue 148 (2010-06)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 148 (2010-06)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 148 (2010-06)(Niche Media)(AU)[a].pdf" size="216394173" crc="010555fb" md5="792ab93558b953e3b8bf95e8a4f845cf" sha1="e46041684ffee54efd7dd3c8b71e14b05449d664"/>
+	</game>
+	<game name="Australian Macworld - Issue 149 (2010-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 149 (2010-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 149 (2010-07)(Niche Media)(AU).pdf" size="32162037" crc="dfd1380a" md5="3b4b4a95db14516f9c89c8635d69d527" sha1="ebbb1ca80ecb7f84514ed395cdb53625db2afdf2"/>
+	</game>
+	<game name="Australian Macworld - Issue 151 (2010-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 151 (2010-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 151 (2010-09)(Niche Media)(AU).pdf" size="32632680" crc="ed2b4083" md5="a51eecd89a32f1671a56ee1b401abc8f" sha1="44c230f4e3b0e489c6be9968e88f9b1e1ce093be"/>
+	</game>
+	<game name="Australian Macworld - Issue 152 (2010-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 152 (2010-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 152 (2010-10)(Niche Media)(AU).pdf" size="28642595" crc="5bd17163" md5="1c303b7b09aa331a13efcb91c518af65" sha1="25ca28e0f027ae9bb11d476e7f04374e93f1175b"/>
+	</game>
+	<game name="Australian Macworld - Issue 153 (2010-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 153 (2010-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 153 (2010-11)(Niche Media)(AU).pdf" size="22132990" crc="c20cb3ff" md5="9651bd9454feef8f1b9f9ff72efe565e" sha1="2c93993d46d8ea47adcd92d1f66a4f4711808c31"/>
+	</game>
+	<game name="Australian Macworld - Issue 154 (2010-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 154 (2010-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 154 (2010-12)(Niche Media)(AU).pdf" size="29761345" crc="7c0c84e2" md5="c3cfd3a5458982c25f231447e44a3776" sha1="ba54a7ec130fbcb0d813f6fbb1ace1f065859fee"/>
+	</game>
+	<game name="Australian Macworld - Issue 155 (2011-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 155 (2011-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 155 (2011-01)(Niche Media)(AU).pdf" size="23982132" crc="70e52a08" md5="99fb51dddaffb7450dcdc5047cdd7e12" sha1="320713f1e6aa8cd51ae62fcb69f3c1b351f189c9"/>
+	</game>
+	<game name="Australian Macworld - Issue 155 (2011-01)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 155 (2011-01)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 155 (2011-01)(Niche Media)(AU)[a].pdf" size="37289659" crc="1eddc640" md5="e402a964451203df13be23eaaf5d1e2f" sha1="644dbaec0e61ce15527d750e7f06223f04a6a752"/>
+	</game>
+	<game name="Australian Macworld - Issue 156 (2011-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 156 (2011-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 156 (2011-02)(Niche Media)(AU).pdf" size="27966155" crc="57ea87f8" md5="7e8a50a2cb1a2b3c99421d98595a80cd" sha1="48fd9190c1b7887b0f575e22d29727bc939bb2ea"/>
+	</game>
+	<game name="Australian Macworld - Issue 157 (2011-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 157 (2011-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 157 (2011-03)(Niche Media)(AU).pdf" size="29935333" crc="a3bc7c7f" md5="197f09f0db7bace6e580e023beb42b96" sha1="aa077ba829225cd02ec5a4623ef916188211abb5"/>
+	</game>
+	<game name="Australian Macworld - Issue 158 (2011-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 158 (2011-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 158 (2011-04)(Niche Media)(AU).pdf" size="34181518" crc="e6151a54" md5="18604e2a897fbfa0fafb06d79c22d766" sha1="348294fc2808623802d897cbd6b34ba62d957655"/>
+	</game>
+	<game name="Australian Macworld - Issue 158 (2011-04)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 158 (2011-04)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 158 (2011-04)(Niche Media)(AU)[a].pdf" size="29739817" crc="bf166e76" md5="57fd0f957bcd7d0f67d01a89295e25db" sha1="02370e6b56f75895211c13d67c5f084b0c179a03"/>
+	</game>
+	<game name="Australian Macworld - Issue 159 (2011-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 159 (2011-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 159 (2011-05)(Niche Media)(AU).pdf" size="33168076" crc="f867ee90" md5="e00460fc8c8fb6dd06ad598207062dfe" sha1="c7e3ebc68cf3700a3b7cd6de3823edaf802bf826"/>
+	</game>
+	<game name="Australian Macworld - Issue 160 (2011-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 160 (2011-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 160 (2011-06)(Niche Media)(AU).pdf" size="33410866" crc="4c82d703" md5="5f85cb7f93ca3bf82b8c5bad3fd0e9a8" sha1="0ae9f565b9b99268cca6bfa29e8495d860e64232"/>
+	</game>
+	<game name="Australian Macworld - Issue 161 (2011-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 161 (2011-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 161 (2011-07)(Niche Media)(AU).pdf" size="36075333" crc="458cc176" md5="d7870bf996451100025372247de78f9a" sha1="8f03beaa81a2b38724bc2753f35954ca01b5d005"/>
+	</game>
+	<game name="Australian Macworld - Issue 162 (2011-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 162 (2011-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 162 (2011-08)(Niche Media)(AU).pdf" size="36015358" crc="dcdb1460" md5="f64be7f4a4e70ce36b491f09e001a057" sha1="da6a4532f3edc05134861df0f1e21b10a7082461"/>
+	</game>
+	<game name="Australian Macworld - Issue 163 (2011-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 163 (2011-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 163 (2011-09)(Niche Media)(AU).pdf" size="35433795" crc="f776907b" md5="4eec1a90c3f0fced99b0d7d545b429c5" sha1="47f0db91014af0c644c876643c691ab89edcab6c"/>
+	</game>
+	<game name="Australian Macworld - Issue 164 (2011-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 164 (2011-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 164 (2011-10)(Niche Media)(AU).pdf" size="68995601" crc="b78d5a6f" md5="deabde5202ab35260701b487f3eae489" sha1="cadb2d6f2421b856dca4d8e9b2e9e5cffa9656d8"/>
+	</game>
+	<game name="Australian Macworld - Issue 165 (2011-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 165 (2011-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 165 (2011-11)(Niche Media)(AU).pdf" size="64685287" crc="087a71ed" md5="56b89b3a2e42b5515203853dc13bd585" sha1="294766b0fbcb77a51828850b5997606428128a90"/>
+	</game>
+	<game name="Australian Macworld - Issue 165 (2011-11)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 165 (2011-11)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 165 (2011-11)(Niche Media)(AU)[a].pdf" size="30479196" crc="3817ae80" md5="e80270303392d16ee27a14492b70d4ef" sha1="83e08ee868afa57012babc2b5c7ce6a97833595d"/>
+	</game>
+	<game name="Australian Macworld - Issue 166 (2011-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 166 (2011-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 166 (2011-12)(Niche Media)(AU).pdf" size="51902751" crc="fe8bb021" md5="ab94bb452f750d6fc47301bd600e1ccc" sha1="aff8225b677f6cecd2faf77d0e1cc811c8226a66"/>
+	</game>
+	<game name="Australian Macworld - Issue 167 (2012-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 167 (2012-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 167 (2012-01)(Niche Media)(AU).pdf" size="80455356" crc="5704b3e7" md5="0a8c70de424a98df64eb865e3995ea00" sha1="2e62fe2777dbe5d3663e17cfde3517aa8253998c"/>
+	</game>
+	<game name="Australian Macworld - Issue 168 (2012-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 168 (2012-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 168 (2012-02)(Niche Media)(AU).pdf" size="62139416" crc="dde4a38d" md5="fd5379ed469ccc0abbe6d8c475fd8faf" sha1="5d44af3753200288a7fc01b8c2fc691805cad482"/>
+	</game>
+	<game name="Australian Macworld - Issue 169 (2012-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 169 (2012-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 169 (2012-03)(Niche Media)(AU).pdf" size="36880882" crc="fd8c356c" md5="9b6eccb3318b734db7e178bed0091df7" sha1="7200b0cc84858c73f161229bad64bdac2716a4d5"/>
+	</game>
+	<game name="Australian Macworld - Issue 170 (2012-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 170 (2012-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 170 (2012-04)(Niche Media)(AU).pdf" size="55565419" crc="3d500979" md5="70a592406956b15084b8b69b929e3f23" sha1="c420ba60aa68a7effe42d40dce855e7629f40069"/>
+	</game>
+	<game name="Australian Macworld - Issue 171 (2012-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 171 (2012-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 171 (2012-05)(Niche Media)(AU).pdf" size="36023087" crc="cc3d6768" md5="2400fb467a8bbf443c3b4a892117f0a5" sha1="9189c7fe3705a7e959ae9dfe5f5a3fbe3a30794c"/>
+	</game>
+	<game name="Australian Macworld - Issue 172 (2012-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 172 (2012-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 172 (2012-06)(Niche Media)(AU).pdf" size="34996201" crc="f21efd74" md5="a3f85a71fc810d020e25f69b9cba67fe" sha1="a79d46fa4e0536962d83e7700cb63deb87f3b807"/>
+	</game>
+	<game name="Australian Macworld - Issue 173 (2012-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 173 (2012-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 173 (2012-07)(Niche Media)(AU).pdf" size="55085153" crc="376bef66" md5="2ea2aca35185a69b8cc5ea5ce474e908" sha1="32a7543fe0a9524a81216fa67aebd052f249eb4e"/>
+	</game>
+	<game name="Australian Macworld - Issue 174 (2012-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 174 (2012-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 174 (2012-08)(Niche Media)(AU).pdf" size="55567984" crc="de72485f" md5="7e0814a733e4aea8d946825c00a1624a" sha1="9423fdd642afb952bbb077327bc82c611e55a1aa"/>
+	</game>
+	<game name="Australian Macworld - Issue 175 (2012-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 175 (2012-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 175 (2012-09)(Niche Media)(AU).pdf" size="55808341" crc="ffc25743" md5="0c71c4a220eed043a99c1ed8c89d64b4" sha1="1c144164a385bb72f571f9ccc757d86e7daf4315"/>
+	</game>
+	<game name="Australian Macworld - Issue 176 (2012-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 176 (2012-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 176 (2012-10)(Niche Media)(AU).pdf" size="54672097" crc="aefd422c" md5="d4dffdd9bd2e948742a29a531afb3b19" sha1="448e5270bc7d788cc4ea41fef79b3cea0f6a4153"/>
+	</game>
+	<game name="Australian Macworld - Issue 177 (2012-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 177 (2012-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 177 (2012-11)(Niche Media)(AU).pdf" size="59981257" crc="36b1c206" md5="da514f35ba13414fb5f2fd8b4be5bcee" sha1="71a673333bc7e6b8e1f556b5369c1894f5a87891"/>
+	</game>
+	<game name="Australian Macworld - Issue 178 (2012-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 178 (2012-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 178 (2012-12)(Niche Media)(AU).pdf" size="33425200" crc="193cf2de" md5="eea37adc4ff04ed003d0fa71347c9bc0" sha1="69d10b4b0f8969b839198879d0e9758f840645b8"/>
+	</game>
+	<game name="Australian Macworld - Issue 179 (2013-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 179 (2013-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 179 (2013-01)(Niche Media)(AU).pdf" size="30287704" crc="ca01fa1a" md5="9037a010ceafe6c107da709714021f78" sha1="982ec0d11fb8d1d28d2022438bda2977bfc7cadc"/>
+	</game>
+	<game name="Australian Macworld - Issue 180 (2013-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 180 (2013-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 180 (2013-02)(Niche Media)(AU).pdf" size="56623675" crc="05b5b3ba" md5="d0c1c6d8bb639e27a254a815db358482" sha1="585277e5d01c4f6a172f90645337416f22da467d"/>
+	</game>
+	<game name="Australian Macworld - Issue 181 (2013-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 181 (2013-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 181 (2013-03)(Niche Media)(AU).pdf" size="55976601" crc="ee84f4f1" md5="31adc26e24552b54d9158f4d350797c9" sha1="de58e2157525e1e40fe2ffa8b32bbca193888a39"/>
+	</game>
+	<game name="Australian Macworld - Issue 182 (2013-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 182 (2013-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 182 (2013-04)(Niche Media)(AU).pdf" size="31874777" crc="d18824b4" md5="225a2fc9d2d6f93d42b201605dd72c11" sha1="1a15d58755df0caa0e1ab9fbaf78a0bf946d2537"/>
+	</game>
+	<game name="Australian Macworld - Issue 183 (2013-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 183 (2013-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 183 (2013-05)(Niche Media)(AU).pdf" size="30654807" crc="e30c1a48" md5="409428299bb11cdd26d6b24f56693e0f" sha1="a1960e85fadd00e0946cd2b3a7f17a0e7498dcbf"/>
+	</game>
+	<game name="Australian Macworld - Issue 184 (2013-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 184 (2013-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 184 (2013-06)(Niche Media)(AU).pdf" size="29998677" crc="2e38efdb" md5="52a4f819f1cc2bce79bf15e3ea609099" sha1="35680330329668ed262f6b4bba824b8cf7afc974"/>
+	</game>
+	<game name="Australian Macworld - Issue 185 (2013-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 185 (2013-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 185 (2013-07)(Niche Media)(AU).pdf" size="29358888" crc="db2c0dbf" md5="a5ca7352ddec8d4203c53baf99421896" sha1="02ea05d92462397e036f135d1ce03b328b4833e4"/>
+	</game>
+	<game name="Australian Macworld - Issue 186 (2013-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 186 (2013-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 186 (2013-08)(Niche Media)(AU).pdf" size="33155758" crc="c84b3550" md5="4acc7307159af9ea9dc2548cda9bf9ef" sha1="63ef686daacb20310faf65bae85e68c790059ba0"/>
+	</game>
+	<game name="Australian Macworld - Issue 187 (2013-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 187 (2013-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 187 (2013-09)(Niche Media)(AU).pdf" size="31443284" crc="9115c7f6" md5="a6c3061539929c33efc010a1eeab18ce" sha1="24956aa87471cb6a85d842092d9c2e7b1a0ac31f"/>
+	</game>
+	<game name="Australian Macworld - Issue 187 (2013-09)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 187 (2013-09)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 187 (2013-09)(Niche Media)(AU)[a].pdf" size="108902522" crc="4e1d1294" md5="08466db50e302b7b55e3c481c8c013fe" sha1="2d330b960d2da6a4a7a8dbe3e25997e79fabccd6"/>
+	</game>
+	<game name="Australian Macworld - Issue 188 (2013-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 188 (2013-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 188 (2013-10)(Niche Media)(AU).pdf" size="53425421" crc="a6ebf067" md5="a3f8df269c0cd702f4f9fa76e34116f6" sha1="3d1ead97b5c88405ef16df949789db93768b3b90"/>
+	</game>
+	<game name="Australian Macworld - Issue 189 (2013-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 189 (2013-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 189 (2013-11)(Niche Media)(AU).pdf" size="10041285" crc="2740e065" md5="cb52bbbc08b3543ff1828f4814c300dc" sha1="de9c9a1d27b24c6d2b56914e9ae28e3c0f8ae1ac"/>
+	</game>
+	<game name="Australian Macworld - Issue 190 (2013-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 190 (2013-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 190 (2013-12)(Niche Media)(AU).pdf" size="28102652" crc="f71d10f2" md5="e6ce6e2db975f7b23ab9ed1262bddf22" sha1="1c0549f2dcfeed4b37b5b56d14475b80511b62c6"/>
+	</game>
+	<game name="Australian Macworld - Issue 191 (2014-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 191 (2014-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 191 (2014-01)(Niche Media)(AU).pdf" size="9930198" crc="76536f60" md5="0ad11189bed1bceb04c53cb9d02b0494" sha1="442b8e0cca8727781fe33f662d210d70960d25b4"/>
+	</game>
+	<game name="Australian Macworld - Issue 192 (2014-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 192 (2014-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 192 (2014-02)(Niche Media)(AU).pdf" size="13130973" crc="793ef5ee" md5="fe315f5088a0a69276ba3f1daa7dcfa0" sha1="f97253fc424201718274573d733b2852df8b59fd"/>
+	</game>
+	<game name="Australian Macworld - Issue 193 (2014-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 193 (2014-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 193 (2014-03)(Niche Media)(AU).pdf" size="25447979" crc="b14d6d1f" md5="7129e24ced78c54fcc24051c88100de8" sha1="0d73ac0b46ccd7a16a642e3a075a87e3efc3e065"/>
+	</game>
+	<game name="Australian Macworld - Issue 194 (2014-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 194 (2014-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 194 (2014-04)(Niche Media)(AU).pdf" size="26885719" crc="4e583510" md5="da40610dfa07562a7255ebb61acd6be2" sha1="88575b72d9d3af055b48f8e3979d1480b1296be8"/>
+	</game>
+	<game name="Australian Macworld - Issue 195 (2014-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 195 (2014-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 195 (2014-05)(Niche Media)(AU).pdf" size="26738153" crc="8349723a" md5="956d11cf766c58051a9d882dc9be2b19" sha1="f296a8bb785174937efa4c7997d2c12a37e2e0cc"/>
+	</game>
+	<game name="Australian Macworld - Issue 196 (2014-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 196 (2014-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 196 (2014-06)(Niche Media)(AU).pdf" size="28427314" crc="70150761" md5="70b8a0eabaa9568ad01c320c69c810f0" sha1="9e9982c8d6a7a9d6a8a28970fd3e77692da7703a"/>
+	</game>
+	<game name="Australian Macworld - Issue 197 (2014-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 197 (2014-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 197 (2014-07)(Niche Media)(AU).pdf" size="28022681" crc="5d6578e3" md5="3d69ca853e08cfd430f6cc3da125b99d" sha1="31abdbf7c2f0759d9aa4dbebfcfabdf893a13856"/>
+	</game>
+	<game name="Australian Macworld - Issue 198 (2014-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 198 (2014-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 198 (2014-08)(Niche Media)(AU).pdf" size="27212472" crc="aaef85bd" md5="6c6a8981bb47e17d64016e07e415c5c2" sha1="bb6cf86f5dde126c841c985ee56955af1200d41c"/>
+	</game>
+	<game name="Australian Macworld - Issue 199 (2014-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 199 (2014-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 199 (2014-09)(Niche Media)(AU).pdf" size="27526177" crc="d945bdf1" md5="6a40d99a8ceceaa79d0fd521fa91376a" sha1="8ce6864a4692afac418f0110576512ecf6551a43"/>
+	</game>
+	<game name="Australian Macworld - Issue 200 (2014-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 200 (2014-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 200 (2014-10)(Niche Media)(AU).pdf" size="10704082" crc="80299b21" md5="68403e8e1a2597019b4eb2a16ed55a7b" sha1="ae3c306703bb334e6b9130c77b914870433801b0"/>
+	</game>
+	<game name="Australian Macworld - Issue 201 (2014-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 201 (2014-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 201 (2014-11)(Niche Media)(AU).pdf" size="26478231" crc="b030eb0f" md5="a4c694418fe9b4456c2f6fbf1c271510" sha1="b0e0f17580547532e6ae57f9847bb5cd70de1e32"/>
+	</game>
+	<game name="Australian Macworld - Issue 202 (2014-12)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 202 (2014-12)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 202 (2014-12)(Niche Media)(AU).pdf" size="27195302" crc="9b043651" md5="fde00a63794cb4b81a4c9da7df5252b2" sha1="f53ccb8cd536bb65e0a2f46c6ca8e1dcef0e5ce1"/>
+	</game>
+	<game name="Australian Macworld - Issue 203 (2015-01)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 203 (2015-01)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 203 (2015-01)(Niche Media)(AU).pdf" size="29218611" crc="a100a8d0" md5="e88c58401c289844a82d4b0bbccac6ab" sha1="68cf62b664cb1158c4750bb1f1ac9f418fc55e3b"/>
+	</game>
+	<game name="Australian Macworld - Issue 204 (2015-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 204 (2015-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 204 (2015-02)(Niche Media)(AU).pdf" size="27136033" crc="408c8d99" md5="2ccb25ed96763e6442326cdc898876f5" sha1="fd7299b0c3886f5af0488b2cc4454f7564b006a2"/>
+	</game>
+	<game name="Australian Macworld - Issue 205 (2015-03)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 205 (2015-03)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 205 (2015-03)(Niche Media)(AU).pdf" size="13405437" crc="d5f006d6" md5="04a8ab7c273e9bd0d7314b3e163fd4db" sha1="6693e36db8c8c4d1591b9d28e388ac2f8e3431f9"/>
+	</game>
+	<game name="Australian Macworld - Issue 205 (2015-03)(Niche Media)(AU)[a]">
+		<description>Australian Macworld - Issue 205 (2015-03)(Niche Media)(AU)[a]</description>
+		<rom name="Australian Macworld - Issue 205 (2015-03)(Niche Media)(AU)[a].pdf" size="25637792" crc="978f3f05" md5="c30b8bbaaa5ae45e984cbe9b75f02bed" sha1="4e80c6936c00943db3c01ccf42ba0c1ae7db102e"/>
+	</game>
+	<game name="Australian Macworld - Issue 206 (2015-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 206 (2015-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 206 (2015-04)(Niche Media)(AU).pdf" size="27644743" crc="ff31d470" md5="bc92750d24f6db844190be79bb9aa418" sha1="965ff855fa2763b222267aa2913c5c39f74763d8"/>
+	</game>
+	<game name="Australian Macworld - Issue 207 (2015-05)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 207 (2015-05)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 207 (2015-05)(Niche Media)(AU).pdf" size="10928353" crc="829cfc7f" md5="69096efad2f50c8ceb337ace81d1ee7a" sha1="2cf911875a4aadf0e22673db88fae7dbcea14f51"/>
+	</game>
+	<game name="Australian Macworld - Issue 208 (2015-06)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 208 (2015-06)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 208 (2015-06)(Niche Media)(AU).pdf" size="24635412" crc="5022bd86" md5="67f4876b647135f10eed264fe723e780" sha1="95c960737582102a876c401f80a2379a07522224"/>
+	</game>
+	<game name="Australian Macworld - Issue 209 (2015-07)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 209 (2015-07)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 209 (2015-07)(Niche Media)(AU).pdf" size="24474063" crc="feb0d819" md5="c37fa13240a90a5df4cf2ee5d7117572" sha1="eae897a7c5fd962cd13f8e46856dcc6620b283bf"/>
+	</game>
+	<game name="Australian Macworld - Issue 210 (2015-08)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 210 (2015-08)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 210 (2015-08)(Niche Media)(AU).pdf" size="11498795" crc="6ff8ad7a" md5="874326605488af181efb74726c0d0da9" sha1="ccb66cc2386f21b1f62a87a6ea8cf964da3ac860"/>
+	</game>
+	<game name="Australian Macworld - Issue 211 (2015-09)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 211 (2015-09)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 211 (2015-09)(Niche Media)(AU).pdf" size="25220405" crc="68dd0b44" md5="f96b0f3bb794c2aa2ef48f6326d77539" sha1="40ebefe0e246d2cbb60ac4ae49f0e0e4745b51b6"/>
+	</game>
+	<game name="Australian Macworld - Issue 212 (2015-10)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 212 (2015-10)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 212 (2015-10)(Niche Media)(AU).pdf" size="12131928" crc="5a410874" md5="5f86488da3f5c8f6ec1be8611970bf6f" sha1="2b84282126ed55573c0e656f0cc9074c51bc6dd6"/>
+	</game>
+	<game name="Australian Macworld - Issue 213 (2015-11)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 213 (2015-11)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 213 (2015-11)(Niche Media)(AU).pdf" size="12566524" crc="63ed8e5b" md5="8fac16fe9758c3c9193d4487360504e5" sha1="ba97025055894fd9286c62b7aa625c2ccd04db1a"/>
+	</game>
+	<game name="Australian Macworld - Issue 215 (2016-02)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 215 (2016-02)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 215 (2016-02)(Niche Media)(AU).pdf" size="11773788" crc="bbb4305d" md5="34916881f478569c50c530b6ae0e5eb3" sha1="8820c6b83f5d2cc5b75359faedf609fc25741ca9"/>
+	</game>
+	<game name="Australian Macworld - Issue 222 (2017-04)(Niche Media)(AU)">
+		<description>Australian Macworld - Issue 222 (2017-04)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Issue 222 (2017-04)(Niche Media)(AU).pdf" size="9140632" crc="f022d745" md5="9113847ed7f6201e5076d55f94600e9b" sha1="425cab43935c4d4b082916ceae468f2e3525020a"/>
+	</game>
+	<game name="Australian Macworld - Troubleshooting Superguide (2010)(Niche Media)(AU)">
+		<description>Australian Macworld - Troubleshooting Superguide (2010)(Niche Media)(AU)</description>
+		<rom name="Australian Macworld - Troubleshooting Superguide (2010)(Niche Media)(AU).pdf" size="19528523" crc="b135bbb3" md5="508de60960d0ea26a8d4481a78b402ec" sha1="5fb9255d3ade6be6710a3541bfe51656a5a7a813"/>
+	</game>
+	<game name="Australian Macworld - Vol 01 No 07 (1986-01)(Computerworld)(AU)">
+		<description>Australian Macworld - Vol 01 No 07 (1986-01)(Computerworld)(AU)</description>
+		<rom name="Australian Macworld - Vol 01 No 07 (1986-01)(Computerworld)(AU).pdf" size="141065751" crc="4aa2506b" md5="1726a2a9985bb2dca657e00cdcd2b216" sha1="7611a37fd3b0a980dd3f7981163342aec31e0745"/>
+	</game>
+	<game name="Australian Macworld - Vol 02 No 02 (1986-05)(Computerworld)(AU)">
+		<description>Australian Macworld - Vol 02 No 02 (1986-05)(Computerworld)(AU)</description>
+		<rom name="Australian Macworld - Vol 02 No 02 (1986-05)(Computerworld)(AU).pdf" size="128037984" crc="5f95f1f5" md5="7e67b130fd6e184b84badecc3ee328c1" sha1="1cc74196f26f04582c9d0a3334b239c264e2613b"/>
+	</game>
+	<game name="Australian Macworld - Vol 02 No 03 (1986-07)(Computerworld)(AU)">
+		<description>Australian Macworld - Vol 02 No 03 (1986-07)(Computerworld)(AU)</description>
+		<rom name="Australian Macworld - Vol 02 No 03 (1986-07)(Computerworld)(AU).pdf" size="100379258" crc="987f8912" md5="468d633909accf9fc39b64cd2bb9781e" sha1="909bfdc0a3a7b2f68cb8e49942da70a8f259f9bb"/>
+	</game>
+	<game name="Australian Macworld - Vol 03 No 03 (1987-04)(Computerworld)(AU)">
+		<description>Australian Macworld - Vol 03 No 03 (1987-04)(Computerworld)(AU)</description>
+		<rom name="Australian Macworld - Vol 03 No 03 (1987-04)(Computerworld)(AU).pdf" size="127726968" crc="e665b15b" md5="b84b5e09c3f06e82fe32b89e7df1bd97" sha1="ededfcea5cae34095506865cb7883c536e18633f"/>
+	</game>
+	<game name="Australian Macworld - Vol 03 No 05 (1987-05)(Computerworld)(AU)">
+		<description>Australian Macworld - Vol 03 No 05 (1987-05)(Computerworld)(AU)</description>
+		<rom name="Australian Macworld - Vol 03 No 05 (1987-05)(Computerworld)(AU).pdf" size="128832913" crc="04d10856" md5="bc1842b38682732b8723361af9f12847" sha1="cbfa2e69e519cf60a4133ad8245f568e35871c23"/>
+	</game>
+	<game name="Australian Macworld - Vol 03 No 06 (1987-07)(Computerworld)(AU)">
+		<description>Australian Macworld - Vol 03 No 06 (1987-07)(Computerworld)(AU)</description>
+		<rom name="Australian Macworld - Vol 03 No 06 (1987-07)(Computerworld)(AU).pdf" size="127067340" crc="ff9251d8" md5="a80a24a90cd1d56d4c47661d8fadacaf" sha1="e0c566eccf6c3134c40d342643685fc12306cde4"/>
+	</game>
+	<game name="Australian Macworld - Vol 04 No 02 (1988-03)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 04 No 02 (1988-03)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 04 No 02 (1988-03)(IDG Communications)(AU).pdf" size="126951535" crc="79f7b385" md5="a7cc717997d384c3f18ffda8d48e63cb" sha1="4fe2f7f6618d44986055f908621b159db5a7c140"/>
+	</game>
+	<game name="Australian Macworld - Vol 04 No 03 (1988-04)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 04 No 03 (1988-04)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 04 No 03 (1988-04)(IDG Communications)(AU).pdf" size="140650053" crc="5d754365" md5="86912dd05651b48abeaf435970a6ff83" sha1="4dd28bcc6b6992c62967efc7c042297242ee5e1f"/>
+	</game>
+	<game name="Australian Macworld - Vol 04 No 04 (1988-05)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 04 No 04 (1988-05)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 04 No 04 (1988-05)(IDG Communications)(AU).pdf" size="132388227" crc="716afec3" md5="0a1b72ef52eca5146fe03d5d93d837c0" sha1="0e3ff796eb6f570604e211d6c472ba11bfca7aef"/>
+	</game>
+	<game name="Australian Macworld - Vol 04 No 05 (1988-06)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 04 No 05 (1988-06)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 04 No 05 (1988-06)(IDG Communications)(AU).pdf" size="134165997" crc="004f87a1" md5="934a480bdbc91b665e2bf09543660594" sha1="72529886471fc07588255f31041d8f128a5c8c43"/>
+	</game>
+	<game name="Australian Macworld - Vol 04 No 06 (1988-07)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 04 No 06 (1988-07)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 04 No 06 (1988-07)(IDG Communications)(AU).pdf" size="140576652" crc="278f45aa" md5="5721266894e9f3dae8100c00ccf0c1d5" sha1="8a8ac34cec0ba68b969e7a3bda9f7963546633ed"/>
+	</game>
+	<game name="Australian Macworld - Vol 04 No 07 (1988-08)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 04 No 07 (1988-08)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 04 No 07 (1988-08)(IDG Communications)(AU).pdf" size="164191195" crc="53a10504" md5="6d995797a4c6fc8f7f6646d080352460" sha1="7604a06b8aca60efa5dbcbdea28b5d2ddeca7667"/>
+	</game>
+	<game name="Australian Macworld - Vol 04 No 08 (1988-09)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 04 No 08 (1988-09)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 04 No 08 (1988-09)(IDG Communications)(AU).pdf" size="172556044" crc="1fd4fce6" md5="da6cce5bc2373ef18fafcf755ef69c19" sha1="6fedc3c0525c122777b233e3dd7d1a46c22efe6b"/>
+	</game>
+	<game name="Australian Macworld - Vol 04 No 09 (1988-10)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 04 No 09 (1988-10)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 04 No 09 (1988-10)(IDG Communications)(AU).pdf" size="163341727" crc="9788a8a2" md5="7126f4ab94cf15c9347e44f3380e7186" sha1="3bf8109f935be0c521761b5d04c5e848968da6f3"/>
+	</game>
+	<game name="Australian Macworld - Vol 04 No 10 (1988-11)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 04 No 10 (1988-11)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 04 No 10 (1988-11)(IDG Communications)(AU).pdf" size="177679245" crc="f85d60a3" md5="6bb99c119d85d1e2c01d06ca50699eac" sha1="4cab8d1dcdd41a0f14ae902ff856a7ac2940adcb"/>
+	</game>
+	<game name="Australian Macworld - Vol 04 No 11 (1989-01)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 04 No 11 (1989-01)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 04 No 11 (1989-01)(IDG Communications)(AU).pdf" size="160096192" crc="0afe21f5" md5="8fc80b724a7aea6bebf3a4c70e0ee2e1" sha1="4d85136a5f1fe1cbf09657e7545c4a75d1c525de"/>
+	</game>
+	<game name="Australian Macworld - Vol 05 No 01 (1989-02)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 05 No 01 (1989-02)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 05 No 01 (1989-02)(IDG Communications)(AU).pdf" size="126559778" crc="64ca977f" md5="87f2cce73ba8156165d2f25111992963" sha1="5effd506b4edd5e02b1b0e86fbda24cf0d48602e"/>
+	</game>
+	<game name="Australian Macworld - Vol 05 No 03 (1989-04)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 05 No 03 (1989-04)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 05 No 03 (1989-04)(IDG Communications)(AU).pdf" size="144473021" crc="efa5d47d" md5="96c9741117b541fea15a5a8d2f3e3b3e" sha1="02239aa8c1a4fad0f07a3c7e22d17f4aaf637a5a"/>
+	</game>
+	<game name="Australian Macworld - Vol 05 No 05 (1989-06)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 05 No 05 (1989-06)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 05 No 05 (1989-06)(IDG Communications)(AU).pdf" size="159343025" crc="c29eb554" md5="42deecd66a0228f901f4a57a02fdcac4" sha1="21ed98d66a9a5994aaf507948b7ffd7934a1f92b"/>
+	</game>
+	<game name="Australian Macworld - Vol 05 No 06 (1989-07)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 05 No 06 (1989-07)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 05 No 06 (1989-07)(IDG Communications)(AU).pdf" size="143408688" crc="62a2e342" md5="e38dde6bbd061832ed59740f81a4dc9b" sha1="62372852b5066f9071f920b2910f6f70ee8980c3"/>
+	</game>
+	<game name="Australian Macworld - Vol 05 No 07 (1989-08)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 05 No 07 (1989-08)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 05 No 07 (1989-08)(IDG Communications)(AU).pdf" size="159956100" crc="068e4a3f" md5="2656603c213c887b8cf989a50ece00a5" sha1="5f6740a763026a71ffe2d6b9c46b95b41400358d"/>
+	</game>
+	<game name="Australian Macworld - Vol 05 No 08 (1989-09)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 05 No 08 (1989-09)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 05 No 08 (1989-09)(IDG Communications)(AU).pdf" size="139322510" crc="c33bd157" md5="107f6c323dff298bbf6716b6dbfd84f4" sha1="8fd2b6175aae1e9da6e2f7570a07833289307224"/>
+	</game>
+	<game name="Australian Macworld - Vol 05 No 09 (1989-10)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 05 No 09 (1989-10)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 05 No 09 (1989-10)(IDG Communications)(AU).pdf" size="162807667" crc="68de304d" md5="342a1a2145608d7c7bdbc99ba6f8f853" sha1="ff97ba75d97d0cf0707efd5cec3bff73fe0976a1"/>
+	</game>
+	<game name="Australian Macworld - Vol 05 No 10 (1989-11)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 05 No 10 (1989-11)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 05 No 10 (1989-11)(IDG Communications)(AU).pdf" size="201273579" crc="9d13aa1d" md5="62ecf03a8503d89910a778aee80d3ff7" sha1="ee55a4d596bba8be1af89bbe6ebec682886eae92"/>
+	</game>
+	<game name="Australian Macworld - Vol 05 No 11 (1990-01)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 05 No 11 (1990-01)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 05 No 11 (1990-01)(IDG Communications)(AU).pdf" size="173478869" crc="a1f5e665" md5="458ac0e1c16450971e3ca577b7f6bd99" sha1="3df1ed453dd3bffcf752d678b000b55fc8a5d480"/>
+	</game>
+	<game name="Australian Macworld - Vol 06 No 01 (1990-02)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 06 No 01 (1990-02)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 06 No 01 (1990-02)(IDG Communications)(AU).pdf" size="118654811" crc="7548941d" md5="305ab8dec74b11e5b4e82c23888d9fc1" sha1="6d30ea65fadcfd9d644de37c8422a3c41eac7f26"/>
+	</game>
+	<game name="Australian Macworld - Vol 06 No 02 (1990-03)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 06 No 02 (1990-03)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 06 No 02 (1990-03)(IDG Communications)(AU).pdf" size="130887082" crc="1d951982" md5="17a2b9dd005eb5176deb5824e4511ad9" sha1="eb67154acd683b9808b9314555498ef859709f7d"/>
+	</game>
+	<game name="Australian Macworld - Vol 06 No 04 (1990-05)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 06 No 04 (1990-05)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 06 No 04 (1990-05)(IDG Communications)(AU).pdf" size="150821650" crc="ef6955fc" md5="8629cbedaba35f7f340fa1a802d53980" sha1="975483d280954ab8862084f334f7b4ad09f023cd"/>
+	</game>
+	<game name="Australian Macworld - Vol 06 No 05 (1990-06)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 06 No 05 (1990-06)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 06 No 05 (1990-06)(IDG Communications)(AU).pdf" size="83542091" crc="65bfba67" md5="3f77e556f0a5d687e3b5ec45fad982a0" sha1="ced9fce050f67228e90c2dcd93858862739266fd"/>
+	</game>
+	<game name="Australian Macworld - Vol 06 No 06 (1990-07)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 06 No 06 (1990-07)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 06 No 06 (1990-07)(IDG Communications)(AU).pdf" size="54934134" crc="36613c39" md5="7e7477d9314652b397764a06ca794fe6" sha1="ffdd7aea6840f9cbbc326baf7896e1fde7d453af"/>
+	</game>
+	<game name="Australian Macworld - Vol 06 No 07 (1990-08)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 06 No 07 (1990-08)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 06 No 07 (1990-08)(IDG Communications)(AU).pdf" size="79593935" crc="ef23c685" md5="3e60a5c62e806d0729f4ee0633817927" sha1="b9243463fcdfbaeeb15aeb95c29c2470d2ad5a01"/>
+	</game>
+	<game name="Australian Macworld - Vol 06 No 08 (1990-09)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 06 No 08 (1990-09)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 06 No 08 (1990-09)(IDG Communications)(AU).pdf" size="91024707" crc="84d325e9" md5="38746abca6c2cfb096f98b761661b2f3" sha1="b3562bb6d34e89be0bb9641da9cb694861c67850"/>
+	</game>
+	<game name="Australian Macworld - Vol 06 No 09 (1990-10)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 06 No 09 (1990-10)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 06 No 09 (1990-10)(IDG Communications)(AU).pdf" size="146071114" crc="b0d9a4e5" md5="3ba3c165fdc83225e5946ca11aa63312" sha1="bec3cd9e2549226ca5ad5e866a5034c02930f055"/>
+	</game>
+	<game name="Australian Macworld - Vol 06 No 10 (1990-11)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 06 No 10 (1990-11)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 06 No 10 (1990-11)(IDG Communications)(AU).pdf" size="162485070" crc="f032cecc" md5="735489805270b5126cc5d2e116df9ae4" sha1="2f02a1da65dc6c632446d9ebb85996ac6c579aef"/>
+	</game>
+	<game name="Australian Macworld - Vol 06 No 11 (1991-01)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 06 No 11 (1991-01)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 06 No 11 (1991-01)(IDG Communications)(AU).pdf" size="152324567" crc="96121cb3" md5="58eae9e8c031fb8f9f52c081b436e831" sha1="058404f5564b02fd86887adf7608a271afc24b3f"/>
+	</game>
+	<game name="Australian Macworld - Vol 07 No 01 (1991-02)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 07 No 01 (1991-02)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 07 No 01 (1991-02)(IDG Communications)(AU).pdf" size="139458383" crc="e56e3a06" md5="aebab04e0f637d4e9bdb3bd1ea9a05e0" sha1="cd9653daa2be5ceda4d8a8ff9d56a47fbf1399ff"/>
+	</game>
+	<game name="Australian Macworld - Vol 07 No 02 (1991-03)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 07 No 02 (1991-03)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 07 No 02 (1991-03)(IDG Communications)(AU).pdf" size="143475929" crc="ad836f4c" md5="8f02d31ca0b3390e0c4fd73c764503a1" sha1="2c510fb1f6bd2988b365cc5cd01da3be85555c4b"/>
+	</game>
+	<game name="Australian Macworld - Vol 07 No 04 (1991-05)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 07 No 04 (1991-05)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 07 No 04 (1991-05)(IDG Communications)(AU).pdf" size="326637746" crc="1282fbba" md5="111583ccb33b73626ab799217bdc88d5" sha1="7b230ae7fea3ec0c7e4522f6b384c83d89c19d5c"/>
+	</game>
+	<game name="Australian Macworld - Vol 07 No 05 (1991-06)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 07 No 05 (1991-06)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 07 No 05 (1991-06)(IDG Communications)(AU).pdf" size="188911366" crc="b223ee66" md5="abd3df158bdf78a11d06062452744cfa" sha1="b4b6c22f2fa96a4fbb1330b158f98967547a34bc"/>
+	</game>
+	<game name="Australian Macworld - Vol 07 No 06 (1991-07)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 07 No 06 (1991-07)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 07 No 06 (1991-07)(IDG Communications)(AU).pdf" size="149444837" crc="f75da04e" md5="87dc5417cecf7d7d68d11d2442579854" sha1="50c71b34ff74ed7da60ee86859754952e22f2748"/>
+	</game>
+	<game name="Australian Macworld - Vol 07 No 07 (1991-08)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 07 No 07 (1991-08)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 07 No 07 (1991-08)(IDG Communications)(AU).pdf" size="151418770" crc="ea55594c" md5="c18bd32bfa4a1dd8774109eb4095f494" sha1="ec6986c3337a3128084c075ba3441eaea8fc6926"/>
+	</game>
+	<game name="Australian Macworld - Vol 07 No 08 (1991-09)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 07 No 08 (1991-09)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 07 No 08 (1991-09)(IDG Communications)(AU).pdf" size="160142743" crc="beb21e58" md5="f30b88fea07e9255b3845499b4e0198e" sha1="1853078c4fbad590506aba09360963e889500287"/>
+	</game>
+	<game name="Australian Macworld - Vol 08 No 01 (1992-02)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 08 No 01 (1992-02)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 08 No 01 (1992-02)(IDG Communications)(AU).pdf" size="130944808" crc="ea6bea13" md5="934bf9ba7bff297f07087399c999bc5b" sha1="88d68f0f58c2c839a558b68a32e94018d2ccd73a"/>
+	</game>
+	<game name="Australian Macworld - Vol 08 No 02 (1992-03)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 08 No 02 (1992-03)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 08 No 02 (1992-03)(IDG Communications)(AU).pdf" size="193643700" crc="67d51f2d" md5="6b4d5066adfdabf8b4e976634f430ff9" sha1="8a06216fca445d49aaf311d0a75bc9995bad2094"/>
+	</game>
+	<game name="Australian Macworld - Vol 08 No 03 (1992-04)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 08 No 03 (1992-04)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 08 No 03 (1992-04)(IDG Communications)(AU).pdf" size="159517412" crc="2f1a47a2" md5="55185b84cbc6a0b266ff54abaf1b7a52" sha1="17633b254053e4b81776c85af6b2e2997e80c562"/>
+	</game>
+	<game name="Australian Macworld - Vol 08 No 04 (1992-05)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 08 No 04 (1992-05)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 08 No 04 (1992-05)(IDG Communications)(AU).pdf" size="218167074" crc="934b83b0" md5="ff1e37e5f83b9af301e10272128c7e47" sha1="79308eafea313d6840ded99492c8a094e88a5eb3"/>
+	</game>
+	<game name="Australian Macworld - Vol 08 No 05 (1992-06)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 08 No 05 (1992-06)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 08 No 05 (1992-06)(IDG Communications)(AU).pdf" size="187062926" crc="f06458ca" md5="f007fe483eac58ed1d3e344b32aa9836" sha1="213f90a1d7add4844a7a2c774d85101ce6e0f24a"/>
+	</game>
+	<game name="Australian Macworld - Vol 08 No 08 (1992-09)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 08 No 08 (1992-09)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 08 No 08 (1992-09)(IDG Communications)(AU).pdf" size="164366712" crc="1cb334d3" md5="07f81243147132a1f27f391be629e905" sha1="e9d43cef5b3abc93e4afd841a67e292ea677131c"/>
+	</game>
+	<game name="Australian Macworld - Vol 09 No 10 (1993-11)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 09 No 10 (1993-11)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 09 No 10 (1993-11)(IDG Communications)(AU).pdf" size="290694461" crc="6ec64d29" md5="fdeb7060adecd0308e3314ef3b49b440" sha1="da00bc3d575a4f813f1e45c7eb474b4a9c6e1413"/>
+	</game>
+	<game name="Australian Macworld - Vol 09 No 11 (1994-01)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 09 No 11 (1994-01)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 09 No 11 (1994-01)(IDG Communications)(AU).pdf" size="133924773" crc="b04fa714" md5="b3713a8bbb5032cd0c0b452b853c9b4d" sha1="b01c29badbc041d1e984352b4de1079fcc9554ac"/>
+	</game>
+	<game name="Australian Macworld - Vol 10 No 02 (1994-03)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 10 No 02 (1994-03)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 10 No 02 (1994-03)(IDG Communications)(AU).pdf" size="142551777" crc="eb68ab21" md5="354f5252844ee6237bf38d084d7fc051" sha1="ba3c31540a8af1378ee698ab05ad08253bae3c54"/>
+	</game>
+	<game name="Australian Macworld - Vol 10 No 05 (1994-06)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 10 No 05 (1994-06)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 10 No 05 (1994-06)(IDG Communications)(AU).pdf" size="162535681" crc="e2601056" md5="046e55105e5489b5cc3275836740824f" sha1="a6c64b8d22a1323e6ca2f8833e3b4c755d750873"/>
+	</game>
+	<game name="Australian Macworld - Vol 11 No 02 (1995-02)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 11 No 02 (1995-02)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 11 No 02 (1995-02)(IDG Communications)(AU).pdf" size="136298476" crc="2e08c7c3" md5="11a164e54ee88abaa59c5619e1822b7b" sha1="1e28828da0355a5ee4e12920ebd1df7340fe8d9f"/>
+	</game>
+	<game name="Australian Macworld - Vol 11 No 09 (1995-10)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 11 No 09 (1995-10)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 11 No 09 (1995-10)(IDG Communications)(AU).pdf" size="171456920" crc="87e2276c" md5="9c3fb71fb033b16371a952d2f6a39d36" sha1="f958fa9995149cc8d7ec478fee627ddac17a65df"/>
+	</game>
+	<game name="Australian Macworld - Vol 12 No 06 (1996-07)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 12 No 06 (1996-07)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 12 No 06 (1996-07)(IDG Communications)(AU).pdf" size="130202440" crc="09503c6b" md5="3f86b16d2b65e8d9f0f5a2cfa08d4b3e" sha1="2ccdcdd7d0681261b5684c80ecd07a7cdf1d7b83"/>
+	</game>
+	<game name="Australian Macworld - Vol 12 No 07 (1996-08)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 12 No 07 (1996-08)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 12 No 07 (1996-08)(IDG Communications)(AU).pdf" size="143852979" crc="8f017709" md5="35efa0730551762861e1eab9b8cd0d2b" sha1="06d07e59876f76a9131d3fab46649b17533983b7"/>
+	</game>
+	<game name="Australian Macworld - Vol 12 No 08 (1996-09)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 12 No 08 (1996-09)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 12 No 08 (1996-09)(IDG Communications)(AU).pdf" size="129803081" crc="60a73668" md5="ecede352e76e7abd52e1c69607f698af" sha1="99e9819a11278b4400c0823d1fd896013314bbaa"/>
+	</game>
+	<game name="Australian Macworld - Vol 12 No 09 (1996-10)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 12 No 09 (1996-10)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 12 No 09 (1996-10)(IDG Communications)(AU).pdf" size="193275810" crc="7d454322" md5="2dd5e4f924470428f63221afafef2101" sha1="ea05f695e52422f40adcbeaf38bd736c9fc05873"/>
+	</game>
+	<game name="Australian Macworld - Vol 12 No 11 (1996-12)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 12 No 11 (1996-12)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 12 No 11 (1996-12)(IDG Communications)(AU).pdf" size="132941870" crc="ae972fa4" md5="fdeb7be11d80881b92fb864029530938" sha1="d2f18ef83a20704b3c24f6a4a3893967b9e498b8"/>
+	</game>
+	<game name="Australian Macworld - Vol 13 No 01 (1997-02)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 13 No 01 (1997-02)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 13 No 01 (1997-02)(IDG Communications)(AU).pdf" size="146613516" crc="72cca610" md5="b34143a4c9fcb888992d4e79e5f2a06f" sha1="b5f7804617c7ef92fbba3a8207c5280aafb3e053"/>
+	</game>
+	<game name="Australian Macworld - Vol 13 No 02 (1997-03)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 13 No 02 (1997-03)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 13 No 02 (1997-03)(IDG Communications)(AU).pdf" size="114724125" crc="98ca4c07" md5="90a983c58f58d338d9eafbd8234b1b1c" sha1="5c55e69435a38d150b7f3981d5e474def4b586c3"/>
+	</game>
+	<game name="Australian Macworld - Vol 13 No 03 (1997-04)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 13 No 03 (1997-04)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 13 No 03 (1997-04)(IDG Communications)(AU).pdf" size="109839493" crc="d030c2c9" md5="1830878fce4aa8b2241ad52f23966baa" sha1="545db6b2ffe7a8b07c5f731e5c4ec87b2feb3148"/>
+	</game>
+	<game name="Australian Macworld - Vol 13 No 05 (1997-06)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 13 No 05 (1997-06)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 13 No 05 (1997-06)(IDG Communications)(AU).pdf" size="113591934" crc="f39b752b" md5="4a0e085d5c0367dbd214b58d92fbff8e" sha1="99dfed199fee4f9b38eae6cd897342548477a184"/>
+	</game>
+	<game name="Australian Macworld - Vol 13 No 07 (1997-08)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 13 No 07 (1997-08)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 13 No 07 (1997-08)(IDG Communications)(AU).pdf" size="118462231" crc="2ed21c77" md5="26ee066c74782f439cc9b7a9bbc9012b" sha1="afc3d0728b960285d8292ae355369ec599ec634e"/>
+	</game>
+	<game name="Australian Macworld - Vol 13 No 08 (1997-09)(IDG Communications)(AU)">
+		<description>Australian Macworld - Vol 13 No 08 (1997-09)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld - Vol 13 No 08 (1997-09)(IDG Communications)(AU).pdf" size="224256342" crc="1a98db2e" md5="d9071222d33468bfe2469af2894b535e" sha1="8e71ea21705934e90c957c6877ede6c1e517c790"/>
+	</game>
+	<game name="Australian Macworld 1996 Buyers Guide (1996)(IDG Communications)(AU)">
+		<description>Australian Macworld 1996 Buyers Guide (1996)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld 1996 Buyers Guide (1996)(IDG Communications)(AU).pdf" size="28531422" crc="4bcfcd07" md5="eeb9b5428e87ce2ef85e1ca00b22e740" sha1="dd98e69db49a0f46cff135c870c737e89a60f5d3"/>
+	</game>
+	<game name="Australian Macworld Macintosh Product Guide (1990)(IDG Communications)(AU)">
+		<description>Australian Macworld Macintosh Product Guide (1990)(IDG Communications)(AU)</description>
+		<rom name="Australian Macworld Macintosh Product Guide (1990)(IDG Communications)(AU).pdf" size="140419419" crc="914d5a09" md5="f8b3583cdcb0094f618807c219421f5b" sha1="c41d86ff22842f0a4037bdedae45cfd0004f16ce"/>
+	</game>
+	<game name="Australian MacWorld Special Edition 1995 Buyers Guide (1995)(IDG Communications)(AU)">
+		<description>Australian MacWorld Special Edition 1995 Buyers Guide (1995)(IDG Communications)(AU)</description>
+		<rom name="Australian MacWorld Special Edition 1995 Buyers Guide (1995)(IDG Communications)(AU).pdf" size="38271962" crc="b9e3e22b" md5="e3e9e26416586708fa5a72196d4a53b4" sha1="f0a8267b5ad8f7b019461417956c87fba2dc08ed"/>
+	</game>
+	<game name="iPad Superguide (2012)(Niche Media)(AU)">
+		<description>iPad Superguide (2012)(Niche Media)(AU)</description>
+		<rom name="iPad Superguide (2012)(Niche Media)(AU).pdf" size="22498334" crc="53ed24cb" md5="6adeaccbba0d0969a3b9b5ffb8de1d1b" sha1="913d861e8bea852fbc01caf639a15074b07609a1"/>
+	</game>
+</datafile>

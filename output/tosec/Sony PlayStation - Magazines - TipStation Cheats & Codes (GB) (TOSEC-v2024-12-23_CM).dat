@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - TipStation Cheats &amp; Codes (GB)</name>
+		<description>Sony PlayStation - Magazines - TipStation Cheats &amp; Codes (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="TipStation Cheats &amp; Codes - Issue 26 (2004-05)(Easy Magazines)(GB)">
+		<description>TipStation Cheats &amp; Codes - Issue 26 (2004-05)(Easy Magazines)(GB)</description>
+		<rom name="TipStation Cheats &amp; Codes - Issue 26 (2004-05)(Easy Magazines)(GB).pdf" size="139760467" crc="fbe78504" md5="3bf0ee42cf61b9aaa5328ab1ced5caf9" sha1="d9481d731d73f67033cdc7f8774e5c942a4ca966"/>
+	</game>
+	<game name="TipStation Cheats &amp; Codes - Issue 28 (2004)(Live Publishing)(GB)">
+		<description>TipStation Cheats &amp; Codes - Issue 28 (2004)(Live Publishing)(GB)</description>
+		<rom name="TipStation Cheats &amp; Codes - Issue 28 (2004)(Live Publishing)(GB).pdf" size="152726074" crc="fbd0c8ad" md5="6b10463cd2394857f3b0668a476ac0d3" sha1="c96fe7d482e5350ba5495016bac1f47538cdf658"/>
+	</game>
+	<game name="TipStation Cheats &amp; Codes - Issue 31 (2005)(Live Publishing)(GB)">
+		<description>TipStation Cheats &amp; Codes - Issue 31 (2005)(Live Publishing)(GB)</description>
+		<rom name="TipStation Cheats &amp; Codes - Issue 31 (2005)(Live Publishing)(GB).pdf" size="116058258" crc="4df6fa00" md5="71127666464b81de6f68b20e4b39c8d9" sha1="77481937b726dbd76adde454c11d252447768bc1"/>
+	</game>
+</datafile>

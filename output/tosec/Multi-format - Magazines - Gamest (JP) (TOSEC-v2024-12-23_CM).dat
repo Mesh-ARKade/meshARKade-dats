@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Gamest (JP)</name>
+		<description>Multi-format - Magazines - Gamest (JP) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Gamest - No 121 (1994-07-30)(Shinseisha)(JP)">
+		<description>Gamest - No 121 (1994-07-30)(Shinseisha)(JP)</description>
+		<rom name="Gamest - No 121 (1994-07-30)(Shinseisha)(JP).pdf" size="328544763" crc="69200312" md5="8a83d920b782cebff3012841afe2df46" sha1="b2e528d63490abda565be8e3b898834270d768e3"/>
+	</game>
+	<game name="Gamest - No 135 (1995-01-15)(Shinseisha)(JP)">
+		<description>Gamest - No 135 (1995-01-15)(Shinseisha)(JP)</description>
+		<rom name="Gamest - No 135 (1995-01-15)(Shinseisha)(JP).pdf" size="375362951" crc="cecd9244" md5="0b52ab3af01e7c4d7538b397efe439eb" sha1="d3220d3ab5495f5faec2e43f39fce2355175b5fd"/>
+	</game>
+	<game name="Gamest - No 183 (1996-11-15)(Shinseisha)(JP)">
+		<description>Gamest - No 183 (1996-11-15)(Shinseisha)(JP)</description>
+		<rom name="Gamest - No 183 (1996-11-15)(Shinseisha)(JP).pdf" size="388361962" crc="0cdb69a9" md5="0bf904ceba328bd5384ddcf1a298adec" sha1="00763a0f8174b06b03aea326726c3503fa1792f7"/>
+	</game>
+	<game name="Gamest - No 195 (1997-06-15)(Shinseisha)(JP)">
+		<description>Gamest - No 195 (1997-06-15)(Shinseisha)(JP)</description>
+		<rom name="Gamest - No 195 (1997-06-15)(Shinseisha)(JP).pdf" size="392740495" crc="52c87567" md5="2d17a51e709cdd92f2346ce4cad1c597" sha1="2a99509845efa9cff1a05c44e91160f764cc3948"/>
+	</game>
+	<game name="Gamest - No 199 (1997-08-15)(Shinseisha)(JP)">
+		<description>Gamest - No 199 (1997-08-15)(Shinseisha)(JP)</description>
+		<rom name="Gamest - No 199 (1997-08-15)(Shinseisha)(JP).pdf" size="384320145" crc="05e9562f" md5="922ddbfedd83a831cd14d05a6cdcf49a" sha1="055625f1d354826d63fd3767b2214867fac98ff6"/>
+	</game>
+	<game name="Gamest - No 209 (1997-12-30)(Shinseisha)(JP)">
+		<description>Gamest - No 209 (1997-12-30)(Shinseisha)(JP)</description>
+		<rom name="Gamest - No 209 (1997-12-30)(Shinseisha)(JP).pdf" size="368431881" crc="7d3312d9" md5="7f8d80ea029fd576b49165ffeb83cc2b" sha1="b97af5cde16b89b8c593fb3c38c7b846fddf9eed"/>
+	</game>
+</datafile>

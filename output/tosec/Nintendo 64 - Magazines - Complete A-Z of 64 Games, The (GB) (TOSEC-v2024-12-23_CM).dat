@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64 - Magazines - Complete A-Z of 64 Games, The (GB)</name>
+		<description>Nintendo 64 - Magazines - Complete A-Z of 64 Games, The (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Complete A-Z of 64 Games, The - Vol 1 (1998)(Paragon Publishing)(GB)">
+		<description>Complete A-Z of 64 Games, The - Vol 1 (1998)(Paragon Publishing)(GB)</description>
+		<rom name="Complete A-Z of 64 Games, The - Vol 1 (1998)(Paragon Publishing)(GB).pdf" size="281688913" crc="b3fec179" md5="44ea508dd43f3e5bd11bb215261ddfd5" sha1="633a5462f118681100ce03a48dd953793e1f1c9d"/>
+	</game>
+</datafile>

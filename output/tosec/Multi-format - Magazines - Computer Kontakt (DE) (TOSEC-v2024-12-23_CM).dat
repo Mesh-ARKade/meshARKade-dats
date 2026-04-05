@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Computer Kontakt (DE)</name>
+		<description>Multi-format - Magazines - Computer Kontakt (DE) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Computer Kontakt - (1984-05)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1984-05)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1984-05)(Verlag Ratz Eberle)(DE).pdf" size="9876144" crc="995f2f15" md5="e99e211bb3089875992881a67595784a" sha1="568343d60a4a8f902d54e2cab6da3533e349265e"/>
+	</game>
+	<game name="Computer Kontakt - (1984-07)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1984-07)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1984-07)(Verlag Ratz Eberle)(DE).pdf" size="11101676" crc="efc26334" md5="6c4b3c1886a3678a45659511785dbbab" sha1="e6dfb9c66e11d19fdddd347ca211e928a33c35e8"/>
+	</game>
+	<game name="Computer Kontakt - (1984-09)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1984-09)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1984-09)(Verlag Ratz Eberle)(DE).pdf" size="14226199" crc="aab64363" md5="58adaf5d24322c938543e42fad8a3462" sha1="c725f2a04e0a8dff144f3ed8851740b55e6d1763"/>
+	</game>
+	<game name="Computer Kontakt - (1984-10)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1984-10)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1984-10)(Verlag Ratz Eberle)(DE).pdf" size="16356188" crc="32e8c19e" md5="080f8906f48bbf272355dbc8b3bd0b76" sha1="08f99de9f915560f738f5d4406fb77d52ac4fe79"/>
+	</game>
+	<game name="Computer Kontakt - (1984-11)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1984-11)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1984-11)(Verlag Ratz Eberle)(DE).pdf" size="15864378" crc="a7a5c0d2" md5="b37bb826f531571dcc489d8100568eb1" sha1="d2dc17b05ce4d5edd05e1580fa8be3fa8c0bd6b2"/>
+	</game>
+	<game name="Computer Kontakt - (1984-12)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1984-12)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1984-12)(Verlag Ratz Eberle)(DE).pdf" size="15150285" crc="689a7893" md5="cf991fcc8c1f76329e21b647df095b04" sha1="361d667ca5ecfde40bed6aecf3272e79d6a5f153"/>
+	</game>
+	<game name="Computer Kontakt - (1985-01)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1985-01)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1985-01)(Verlag Ratz Eberle)(DE).pdf" size="17629446" crc="8f24e407" md5="0f56dcafe4a5a3c6f597b8237b9347f1" sha1="297c718dee67bd79ab5360a6b745ad1abbc2de6a"/>
+	</game>
+	<game name="Computer Kontakt - (1985-02)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1985-02)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1985-02)(Verlag Ratz Eberle)(DE).pdf" size="18669172" crc="8b8b6203" md5="42553a44ef4ae4cae2e5c99b4058d647" sha1="477f922915eca3235e972b9c29acd2ccf77f0ebb"/>
+	</game>
+	<game name="Computer Kontakt - (1985-03)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1985-03)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1985-03)(Verlag Ratz Eberle)(DE).pdf" size="17774424" crc="fede6aa4" md5="a680769d3ed3159c0696f4db1cd805c3" sha1="25d5dd1f8d6d573e572a8f46fb50fd6042c865b8"/>
+	</game>
+	<game name="Computer Kontakt - (1985-04)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1985-04)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1985-04)(Verlag Ratz Eberle)(DE).pdf" size="18205212" crc="6af5e3d4" md5="c6c726ba07687a6fed468f30054909f6" sha1="ad3490a550134411b7e9929d31f12b51b358d3d0"/>
+	</game>
+	<game name="Computer Kontakt - (1985-05)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1985-05)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1985-05)(Verlag Ratz Eberle)(DE).pdf" size="18869386" crc="56babc2d" md5="84a91d900707928ee370c8d672795252" sha1="f2c837f106809288adc80cae075a696ff88176b9"/>
+	</game>
+	<game name="Computer Kontakt - (1985-06)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1985-06)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1985-06)(Verlag Ratz Eberle)(DE).pdf" size="20013666" crc="fce40484" md5="a195a57290899b68d34af45575993764" sha1="c8304ee9fa95de67915d3fc51d983d1adeb33302"/>
+	</game>
+	<game name="Computer Kontakt - (1985-07)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1985-07)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1985-07)(Verlag Ratz Eberle)(DE).pdf" size="20042806" crc="de3d5d7d" md5="74cc51e06b4c50ffea6dcb9b0d984e19" sha1="44c8990406da71470e645fccf47faff0a87fb0a7"/>
+	</game>
+	<game name="Computer Kontakt - (1985-09)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1985-09)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1985-09)(Verlag Ratz Eberle)(DE).pdf" size="21354461" crc="683ffd42" md5="f24fd60cc8221b6b7142027c88cbf20f" sha1="0824491996cd6cee54d195cdf38a5e8a12e236d5"/>
+	</game>
+	<game name="Computer Kontakt - (1985-10)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1985-10)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1985-10)(Verlag Ratz Eberle)(DE).pdf" size="20825892" crc="512f0e41" md5="e7c7556fa15f5f95db32c8e772b56ee5" sha1="f5f96a35cc3a6af25868bb8eeb66800b83cece94"/>
+	</game>
+	<game name="Computer Kontakt - (1985-11)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1985-11)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1985-11)(Verlag Ratz Eberle)(DE).pdf" size="20591559" crc="8d7f03f7" md5="08010f897f70f37241e39de38000d0b7" sha1="61505959457d113ac1d54dd44c9162b59fcc9006"/>
+	</game>
+	<game name="Computer Kontakt - (1986-01)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1986-01)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1986-01)(Verlag Ratz Eberle)(DE).pdf" size="21874462" crc="2fb0e36d" md5="328a49820fb43425f37c247c7dd7740e" sha1="c994aece619b996794295b31c424b05e1a650212"/>
+	</game>
+	<game name="Computer Kontakt - (1986-03)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1986-03)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1986-03)(Verlag Ratz Eberle)(DE).pdf" size="22732882" crc="0bff600a" md5="669ac1eaafabb179f10c955c35a749fb" sha1="86ffd380545860a477d7ec4c3d6948c65807775e"/>
+	</game>
+	<game name="Computer Kontakt - (1986-05)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1986-05)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1986-05)(Verlag Ratz Eberle)(DE).pdf" size="25960684" crc="a9742b3c" md5="136cf81ff8c27a454790c288e7451dc9" sha1="db7b0c4e50c0fc2f8070c0bf2a0b4176ebe8dbff"/>
+	</game>
+	<game name="Computer Kontakt - (1986-07)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1986-07)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1986-07)(Verlag Ratz Eberle)(DE).pdf" size="26048711" crc="c981c2b0" md5="6c4b64a73c9ec3d3a077362dc4f0100a" sha1="c780ced08a3e52d9e9d9c733877e56d76beb81bb"/>
+	</game>
+	<game name="Computer Kontakt - (1986-09)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1986-09)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1986-09)(Verlag Ratz Eberle)(DE).pdf" size="24747357" crc="b8320b74" md5="c85d488afa8e662d4159d77f097aabe2" sha1="902c86a48fe4274f414eca1d00cbb360934e4d23"/>
+	</game>
+	<game name="Computer Kontakt - (1986-11)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1986-11)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1986-11)(Verlag Ratz Eberle)(DE).pdf" size="25473560" crc="a1197e27" md5="50fe8a8487a2b851a1f4be18c1e57ec5" sha1="84525ba2c6ca5b4c9dda837edf558d65444e1335"/>
+	</game>
+	<game name="Computer Kontakt - (1987-01)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1987-01)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1987-01)(Verlag Ratz Eberle)(DE).pdf" size="23521777" crc="40cbf0f8" md5="82a1d6d0f654cff52c1dce2c1eeda800" sha1="e3bcbdd82c28d6a5bcc0b83e4eab85c9d907cb1a"/>
+	</game>
+	<game name="Computer Kontakt - (1987-03)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1987-03)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1987-03)(Verlag Ratz Eberle)(DE).pdf" size="17607205" crc="ea1c9007" md5="5e1d0d3a489b5cbd55cf8b70f954d2a7" sha1="294a90bd4464bd4c8e41a59b2148bdbc492b74c9"/>
+	</game>
+	<game name="Computer Kontakt - (1987-05)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1987-05)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1987-05)(Verlag Ratz Eberle)(DE).pdf" size="22744579" crc="423d3fd9" md5="2171f75bbe4fa0a17d9a4710d253d83f" sha1="2c5ab8f1c57dc83be08d01207b95144228379613"/>
+	</game>
+	<game name="Computer Kontakt - (1987-07)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1987-07)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1987-07)(Verlag Ratz Eberle)(DE).pdf" size="19081994" crc="4a985dc9" md5="2d083a2346974472ee22b579cdd84066" sha1="a8772c9a71d2137c462e389f0b495b359d342dc3"/>
+	</game>
+	<game name="Computer Kontakt - (1987-09)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1987-09)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1987-09)(Verlag Ratz Eberle)(DE).pdf" size="21237104" crc="e6ba940b" md5="8c377dce72d45ea0bfe762af064582d1" sha1="dd8e78eb0658c4206527223c3f30075090774b47"/>
+	</game>
+	<game name="Computer Kontakt - (1987-11)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1987-11)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1987-11)(Verlag Ratz Eberle)(DE).pdf" size="24549406" crc="1280bfbd" md5="b5491d8d4857eea8ee2dcb803e7d7984" sha1="1254891cf4b139b95f15487ed0952ef021f044d0"/>
+	</game>
+	<game name="Computer Kontakt - (1988-01)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1988-01)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1988-01)(Verlag Ratz Eberle)(DE).pdf" size="24689153" crc="816aeaef" md5="dc74806135246f761d17914a198cc9d4" sha1="286bb01104fa8b191b1e40a9851ceefd39df7438"/>
+	</game>
+	<game name="Computer Kontakt - (1988-03)(Verlag Ratz Eberle)(DE)">
+		<description>Computer Kontakt - (1988-03)(Verlag Ratz Eberle)(DE)</description>
+		<rom name="Computer Kontakt - (1988-03)(Verlag Ratz Eberle)(DE).pdf" size="24432181" crc="1e906996" md5="8323129f9850500b6f8f83e7071b76d5" sha1="435ab021efafd9cd570e06237569952279c583e1"/>
+	</game>
+</datafile>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microsoft Xbox - Magazines - Official XBOX Magazine (AU)</name>
+		<description>Microsoft Xbox - Magazines - Official XBOX Magazine (AU) (TOSEC-v2024-03-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-03-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Official XBOX Magazine - Issue 000 (2002)(Derwent Howard)(AU)[launch special]">
+		<description>Official XBOX Magazine - Issue 000 (2002)(Derwent Howard)(AU)[launch special]</description>
+		<rom name="Official XBOX Magazine - Issue 000 (2002)(Derwent Howard)(AU)[launch special].pdf" size="316188145" crc="19880a7a" md5="ec6e2735fffe43eb888a38e1470b6f74" sha1="2fa261ae0e2f5f43237f5902ba2ad02c5381f189"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 001 (2002-04)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 001 (2002-04)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 001 (2002-04)(Derwent Howard)(AU).pdf" size="326092092" crc="d6d6cfc5" md5="f0c20f3c6a3ea0fc6f5c8f261c475cf5" sha1="67623c609c0f65a180dc5fe197beee6ed0779f4a"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 002 (2002-05)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 002 (2002-05)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 002 (2002-05)(Derwent Howard)(AU).pdf" size="329866753" crc="0ca67fa1" md5="75706e145623d270f425e27def91ab4a" sha1="b4ac8fbdf4217b3fbaa17673dfe19c9298f286f0"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 003 (2002-06)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 003 (2002-06)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 003 (2002-06)(Derwent Howard)(AU).pdf" size="304481786" crc="dd580c99" md5="bdc1d3adeec4f575332f3d5d1453f01c" sha1="cf5fecd0feb371ee17f1686ebdd5eefa718bab77"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 004 (2002-07)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 004 (2002-07)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 004 (2002-07)(Derwent Howard)(AU).pdf" size="321023801" crc="fa3505d8" md5="96cf225891a2dac456df0d9051db3849" sha1="ac0a693cf400a45407601ceaa7156a8f255ed488"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 005 (2002-08)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 005 (2002-08)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 005 (2002-08)(Derwent Howard)(AU).pdf" size="315217353" crc="d9979bba" md5="a056a43050b4423056084bf74c4631e2" sha1="9c9fe70a5b6160f0ce8a232c85fe671ab4605afd"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 006 (2002-09)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 006 (2002-09)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 006 (2002-09)(Derwent Howard)(AU).pdf" size="308715766" crc="92d7dbb6" md5="efdc81773d35c0cc37741f7d46db9328" sha1="b56a2fc77a61ec9945eb099e09275d994ac943c4"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 007 (2002-10)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 007 (2002-10)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 007 (2002-10)(Derwent Howard)(AU).pdf" size="305575090" crc="0acf6a01" md5="0e7c7999f17b3517bd96818a8c95d31f" sha1="5b9ab5bdcc1d63a05d41be743adecdae5a1355ed"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 008 (2002-11)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 008 (2002-11)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 008 (2002-11)(Derwent Howard)(AU).pdf" size="320340147" crc="86abfdd0" md5="573768aff4ba025d381b37e7f3f18bef" sha1="f6b73541e95de7dbb7dd058d65ff9798369d08b0"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 009 (2002-12)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 009 (2002-12)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 009 (2002-12)(Derwent Howard)(AU).pdf" size="342731053" crc="e5b771b3" md5="92141ac0cf39d310fdd4230c3aa5c0ba" sha1="5572e8adea8e8c30d8a867f2f563d23e0a9bada4"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 010 (2003-01)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 010 (2003-01)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 010 (2003-01)(Derwent Howard)(AU).pdf" size="316315727" crc="f014c9ea" md5="d257010fe1b279f4f67254a5b6d84ef7" sha1="1b4cfacdfef3b87726f299a41c17b2c6b1e89ee8"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 011 (2003-02)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 011 (2003-02)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 011 (2003-02)(Derwent Howard)(AU).pdf" size="398361655" crc="3d84e4e0" md5="b69a267817c1f6064cc8685dfc290c3e" sha1="ee1d9634d7c4dd2e168a046e28c9fb6fdbaa4987"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 012 (2003-03)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 012 (2003-03)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 012 (2003-03)(Derwent Howard)(AU).pdf" size="395122647" crc="553c5ce5" md5="e2576b03d4e8ea7e49afd81b1db6a8a0" sha1="fdc5da7fd2ecae41bc17fc72da39c8733ded2424"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 013 (2003-04)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 013 (2003-04)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 013 (2003-04)(Derwent Howard)(AU).pdf" size="189178459" crc="b8e793a7" md5="dd49f4520d9fd9d6c4d3bca6cef214b2" sha1="936adc15cfde781e7d985b04e06217ba75c6d46c"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 014 (2003-04)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 014 (2003-04)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 014 (2003-04)(Derwent Howard)(AU).pdf" size="193876149" crc="36cc4558" md5="57f70ed9a8b8bf1a177adf22454735e6" sha1="94e4890fa2e94f3067942c279695230163197f3c"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 015 (2003-05)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 015 (2003-05)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 015 (2003-05)(Derwent Howard)(AU).pdf" size="196272479" crc="e1eaf871" md5="b283b71f4d3350df4be492e370a873fb" sha1="869c2b0266332b642d3b214658a96258f67e005c"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 016 (2003-06)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 016 (2003-06)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 016 (2003-06)(Derwent Howard)(AU).pdf" size="215731406" crc="524d7032" md5="c63ed1260d4826fa75ab22d2ce845ce0" sha1="21d3b99b0469b8404daa1010255d0fedfaf2f1a7"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 022 (2003)(Derwent Howard)(AU)[christmas edition]">
+		<description>Official XBOX Magazine - Issue 022 (2003)(Derwent Howard)(AU)[christmas edition]</description>
+		<rom name="Official XBOX Magazine - Issue 022 (2003)(Derwent Howard)(AU)[christmas edition].pdf" size="249048269" crc="6bb63dbf" md5="002b174a625059cadb0d16f32189d6dd" sha1="49b1c64fde3d71e0b1240f2b75a0f4d744363c85"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 023 (2004-01)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 023 (2004-01)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 023 (2004-01)(Derwent Howard)(AU).pdf" size="193612068" crc="fd78c1ed" md5="4c90eea3d10976a7b444c6c93f2488c2" sha1="7a7b6da712ba970b1ef8de6aa76dfce3e726b84d"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 024 (2004-02)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 024 (2004-02)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 024 (2004-02)(Derwent Howard)(AU).pdf" size="208629529" crc="5e17e614" md5="d99cfe99082f54d07caeda43ee0be8fc" sha1="256171bed80c6b9de3feed327bb0e0563ab249c1"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 025 (2004-03)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 025 (2004-03)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 025 (2004-03)(Derwent Howard)(AU).pdf" size="432105192" crc="3ff20b2f" md5="d25286016fb747b6bce0c73e6921ed95" sha1="a11e9bce2c55f8950ec3aad33063af99cef5278e"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 026 (2004-04)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 026 (2004-04)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 026 (2004-04)(Derwent Howard)(AU).pdf" size="225316179" crc="1fee3f22" md5="a7d870ea826e9ab2dd8eccc64c428ba2" sha1="75ac5c6df126dcae2911cd168002c1dd524f8778"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 027 (2004-05)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 027 (2004-05)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 027 (2004-05)(Derwent Howard)(AU).pdf" size="211070614" crc="4e3e9796" md5="dd88925da0e9544ac0999da0c4c8b63d" sha1="d074f982b490dcf0d3e6a9a113ed1b8da8a70ee6"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 028 (2004-06)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 028 (2004-06)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 028 (2004-06)(Derwent Howard)(AU).pdf" size="429136764" crc="fc3ba5c5" md5="7bfa78a92dbb7ff0cba4c5f024a46bf6" sha1="94b9574538af70d3706e01e7695e5e41d880a2c7"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 029 (2004-07)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 029 (2004-07)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 029 (2004-07)(Derwent Howard)(AU).pdf" size="225190406" crc="1a467968" md5="11af107144674a83699509f0ffd077d2" sha1="e2642aff85d8840b37924cd8c6a876ec60961486"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 030 (2004-08)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 030 (2004-08)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 030 (2004-08)(Derwent Howard)(AU).pdf" size="417423911" crc="b356115e" md5="e22090646777e20b4a3ace380476a057" sha1="7e5b8cd84d3bd9f1d48e9a8484fcd9897bf90229"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 031 (2004-09)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 031 (2004-09)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 031 (2004-09)(Derwent Howard)(AU).pdf" size="396894968" crc="476a0c69" md5="d0bdf581fe23eed44d25712976a8569c" sha1="270e65a6773bfb21d37cefd7bed1d73583288da5"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 032 (2004-10)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 032 (2004-10)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 032 (2004-10)(Derwent Howard)(AU).pdf" size="386593918" crc="d491513c" md5="363889a8e28e01f5c21df8d2faa2e1c8" sha1="139e084c411ed946d933fe5324b0a977f54a4bae"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 036 (2004-12)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 036 (2004-12)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 036 (2004-12)(Derwent Howard)(AU).pdf" size="222424475" crc="c145da2d" md5="b76b5f71124e6ac87248668e7c6255fc" sha1="bd80692b19895b4c832335f6cd6113b7d77a7ff9"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 036 (2005-01)(Derwent Howard)(AU)[a]">
+		<description>Official XBOX Magazine - Issue 036 (2005-01)(Derwent Howard)(AU)[a]</description>
+		<rom name="Official XBOX Magazine - Issue 036 (2005-01)(Derwent Howard)(AU)[a].pdf" size="435513194" crc="4a63d471" md5="08ee7b6f4cf56675f633f162a57a52d4" sha1="761673b10deed9a7e14264625e4350e1c6c00a11"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 037 (2005-02)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 037 (2005-02)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 037 (2005-02)(Derwent Howard)(AU).pdf" size="221574513" crc="1bb274d3" md5="1fe9876235616be0e672f82744f09119" sha1="46e24dd85c0270c5d6edb03572f1b1c7824ebf1c"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 038 (2005-03)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 038 (2005-03)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 038 (2005-03)(Derwent Howard)(AU).pdf" size="231732597" crc="43e1cd03" md5="4fde40de2f541aaef3888117015c3fb4" sha1="20642e90a4fc7512f22bcb52fe46ec3ca1c42371"/>
+	</game>
+	<game name="Official XBOX Magazine - Issue 039 (2005-02)(Derwent Howard)(AU)">
+		<description>Official XBOX Magazine - Issue 039 (2005-02)(Derwent Howard)(AU)</description>
+		<rom name="Official XBOX Magazine - Issue 039 (2005-02)(Derwent Howard)(AU).pdf" size="226250215" crc="15743497" md5="2ec5fa717f8d807efc6c751bef960864" sha1="a42bb427db77dbd7144414c334aea0ef542dae6e"/>
+	</game>
+</datafile>

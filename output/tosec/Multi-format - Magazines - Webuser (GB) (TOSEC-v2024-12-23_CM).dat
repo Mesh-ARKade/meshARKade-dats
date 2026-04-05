@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Webuser (GB)</name>
+		<description>Multi-format - Magazines - Webuser (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Webuser - Issue 312 (2013-02-21)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 312 (2013-02-21)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 312 (2013-02-21)(Dennis Publishing)(GB).pdf" size="35856099" crc="cffd9fdc" md5="458e8055b20c380ef1855c557b32844c" sha1="819e8e56a5c3ece1a32401b2393149d57d1a740f"/>
+	</game>
+	<game name="Webuser - Issue 315 (2013-04-04)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 315 (2013-04-04)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 315 (2013-04-04)(Dennis Publishing)(GB).pdf" size="36138918" crc="9b043135" md5="457cd0f7261f9fd404160cf1e7b9c5a8" sha1="5bd40bd20991640043eaa5c64549b196e48fb19d"/>
+	</game>
+	<game name="Webuser - Issue 334 (2013-12-20)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 334 (2013-12-20)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 334 (2013-12-20)(Dennis Publishing)(GB).pdf" size="83214468" crc="cba61151" md5="697784d851a1bfe6ff217f8269ba43aa" sha1="39e37eec9e063ca20892afdd9897237255ab219b"/>
+	</game>
+	<game name="Webuser - Issue 335 (2013-01-03)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 335 (2013-01-03)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 335 (2013-01-03)(Dennis Publishing)(GB).pdf" size="16959356" crc="3de3c256" md5="4bb751df10127d56b6e21d14adbfdb30" sha1="1af289afb64bfa6b18bb70d570dbe8e8d0ea9b7d"/>
+	</game>
+	<game name="Webuser - Issue 343 (2014-04-23)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 343 (2014-04-23)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 343 (2014-04-23)(Dennis Publishing)(GB).pdf" size="48974497" crc="3006fa33" md5="d97af61fff2902b40e1ddc6c85532b45" sha1="5c4bc32ca34dfcff5f21faafdabfbed4db2c46e0"/>
+	</game>
+	<game name="Webuser - Issue 344 (2014-05-07)(Dennis Publishing)(GB)">
+		<description>Webuser - Issue 344 (2014-05-07)(Dennis Publishing)(GB)</description>
+		<rom name="Webuser - Issue 344 (2014-05-07)(Dennis Publishing)(GB).pdf" size="47992766" crc="4a23c97d" md5="9f3c6dc86525ee79db6e818d2b64060b" sha1="d56ca6d2fa21549610f650c530e833c5e6c313da"/>
+	</game>
+	<game name="WebUser - Issue 392 (2016-03-09)(Dennis Publishing)(GB)">
+		<description>WebUser - Issue 392 (2016-03-09)(Dennis Publishing)(GB)</description>
+		<rom name="WebUser - Issue 392 (2016-03-09)(Dennis Publishing)(GB).pdf" size="20866688" crc="fc84b7da" md5="f39d9ad9b3ef4e5595a2afb1a91c0692" sha1="a96ed29131c0e13566c15226de83da50d2b297b3"/>
+	</game>
+</datafile>

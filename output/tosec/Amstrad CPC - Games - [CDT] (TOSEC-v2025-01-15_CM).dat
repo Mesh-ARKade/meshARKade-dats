@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Amstrad CPC - Games - [CDT]</name>
+		<description>Amstrad CPC - Games - [CDT] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="8bitwars (2021-10-26)(21bloques)">
+		<description>8bitwars (2021-10-26)(21bloques)</description>
+		<rom name="8bitwars (2021-10-26)(21bloques).cdt" size="64589" crc="f2f11629" md5="a940cd284eb2cd3224ec6541c7627107" sha1="01419a8d7e18ad0ef8b823448e5d987df396b1e2"/>
+	</game>
+	<game name="Abyssal (2022)(Cabbage Corp)">
+		<description>Abyssal (2022)(Cabbage Corp)</description>
+		<rom name="Abyssal (2022)(Cabbage Corp).cdt" size="38790" crc="314fa269" md5="c236d6d621d8f4dbcc8dcd3d1d04e190" sha1="27c66f1745973bb432ef07c1b8dfa86e8b700baa"/>
+	</game>
+	<game name="Adiós a la Casta - Episode 1 v1.0 (2015)(4Mhz)(ES)">
+		<description>Adiós a la Casta - Episode 1 v1.0 (2015)(4Mhz)(ES)</description>
+		<rom name="Adiós a la Casta - Episode 1 v1.0 (2015)(4Mhz)(ES).cdt" size="49337" crc="bd5abda9" md5="445627f7fec12a52adff84e620eaeabd" sha1="a055153a93cfab37de37b6679229ed1945736812"/>
+	</game>
+	<game name="Adiós a la Casta - Episode 2 - De Buen Rollo v1.0 (2016)(4Mhz)(ES)">
+		<description>Adiós a la Casta - Episode 2 - De Buen Rollo v1.0 (2016)(4Mhz)(ES)</description>
+		<rom name="Adiós a la Casta - Episode 2 - De Buen Rollo v1.0 (2016)(4Mhz)(ES).cdt" size="93322" crc="4ca857ba" md5="d4d7c8143d760b3354ba9db48765449b" sha1="8de3c234d3bd6985a273657d4cecc53dbe2ec183"/>
+	</game>
+	<game name="Ajetreo Invernal (2023-06-09)(altanerus dog)">
+		<description>Ajetreo Invernal (2023-06-09)(altanerus dog)</description>
+		<rom name="Ajetreo Invernal (2023-06-09)(altanerus dog).cdt" size="72388" crc="5f4ce526" md5="6adb8e072618960de3a8310b934a168f" sha1="d303db4570ba1c4ca10fdef51cda95deb3dd54f6"/>
+	</game>
+	<game name="Akuma no Boken (2022)(Createvia)">
+		<description>Akuma no Boken (2022)(Createvia)</description>
+		<rom name="Akuma no Boken (2022)(Createvia).cdt" size="44223" crc="d7be6f00" md5="9a85b8e9991920a391755620df2d44c0" sha1="0812b0295264df9d96367508f9339a1bb42b847e"/>
+	</game>
+	<game name="Aljau the Water Dam (2023-03-14)(altanerus dog)(es)">
+		<description>Aljau the Water Dam (2023-03-14)(altanerus dog)(es)</description>
+		<rom name="Aljau the Water Dam (2023-03-14)(altanerus dog)(es).cdt" size="99742" crc="515111c1" md5="3acec614dd89683a2fa7ee79509167b6" sha1="5d62a64ad69d1064d18ef42fa2d05245f9a13bf4"/>
+	</game>
+	<game name="AMSTRED (2021-11-02)(KrakenDev)">
+		<description>AMSTRED (2021-11-02)(KrakenDev)</description>
+		<rom name="AMSTRED (2021-11-02)(KrakenDev).cdt" size="159739" crc="4bdbb0bd" md5="d7300ac9268c123849efaf5ad3cc8632" sha1="4cc182459c65a58325cf4c323647c94402966033"/>
+	</game>
+	<game name="Angel's Choice, The (2022)(Heaven Studio)">
+		<description>Angel's Choice, The (2022)(Heaven Studio)</description>
+		<rom name="Angel's Choice, The (2022)(Heaven Studio).cdt" size="34674" crc="f34d5cfb" md5="28113bfc8a17f4483e91bf891cda542b" sha1="c49218edb33bcccdec34392f769413fbdae11e06"/>
+	</game>
+	<game name="Aryan (2022)(aryan-50)">
+		<description>Aryan (2022)(aryan-50)</description>
+		<rom name="Aryan (2022)(aryan-50).cdt" size="25977" crc="528bf547" md5="af6ef6fd3be9b7766a665c445eea0ded" sha1="82e2a3037595223638c7719c37338ab2a5767040"/>
+	</game>
+	<game name="Ascend (2022-03-27)(Inufuto)(JP)">
+		<description>Ascend (2022-03-27)(Inufuto)(JP)</description>
+		<rom name="Ascend (2022-03-27)(Inufuto)(JP).cdt" size="10927" crc="0ba69fbf" md5="50c694e5457ba1f25a177363fca69a05" sha1="8839bbd8fec43234798307c4824f1e3371f7dee6"/>
+	</game>
+	<game name="Asteroid Strike (2022)(Ship Studio)">
+		<description>Asteroid Strike (2022)(Ship Studio)</description>
+		<rom name="Asteroid Strike (2022)(Ship Studio).cdt" size="11977" crc="e967fb26" md5="ea2b66452b3a1a82781cae4869fc3c1d" sha1="5d53662600afbb98e3eb7108ac77e4edda256848"/>
+	</game>
+	<game name="Baba's Palace (2017-11-10)(4MHz)(ES)">
+		<description>Baba's Palace (2017-11-10)(4MHz)(ES)</description>
+		<rom name="Baba's Palace (2017-11-10)(4MHz)(ES).cdt" size="78787" crc="b0b421ea" md5="9773e05bbc31dc27251e6d5c9efaa809" sha1="3eacb3d0c46d6c5062910ea9ee3dbe7e1b016b48"/>
+	</game>
+	<game name="Barbouti! (2020-08-14)(Kaffesakis, Sakis)(GR)">
+		<description>Barbouti! (2020-08-14)(Kaffesakis, Sakis)(GR)</description>
+		<rom name="Barbouti! (2020-08-14)(Kaffesakis, Sakis)(GR).cdt" size="26647" crc="be89974f" md5="1728966273dcbec06d7391d04035cd12" sha1="4e86580247bd5ef27ba96ea5837e07c2cc04e344"/>
+	</game>
+	<game name="Barbouti! (2020-08-14)(Kaffesakis, Sakis)(GR)(en)">
+		<description>Barbouti! (2020-08-14)(Kaffesakis, Sakis)(GR)(en)</description>
+		<rom name="Barbouti! (2020-08-14)(Kaffesakis, Sakis)(GR)(en).cdt" size="24535" crc="d3ccbefa" md5="1ef7a242c0b1c214656c01fccd9f3a25" sha1="29e226569e2b09b7c60781d7f0572d8d3b595ac4"/>
+	</game>
+	<game name="Be Witched or Be Dead (2022)(Hinaman)">
+		<description>Be Witched or Be Dead (2022)(Hinaman)</description>
+		<rom name="Be Witched or Be Dead (2022)(Hinaman).cdt" size="49945" crc="be8a5c1a" md5="23d7c45441eded37db00000651b72e67" sha1="11bcf959319d1bdd402f155a257227cd87a03f39"/>
+	</game>
+	<game name="Black Sea Treasure Hunters (2022-03-21)(Mananuk)">
+		<description>Black Sea Treasure Hunters (2022-03-21)(Mananuk)</description>
+		<rom name="Black Sea Treasure Hunters (2022-03-21)(Mananuk).cdt" size="68275" crc="c4969d4c" md5="c5644e0af69d93bb22719a56c2c0a33f" sha1="d264a92aef3715b69efb3066614d980faf62f1c3"/>
+	</game>
+	<game name="Booty - The Remake (2023)(salvaKantero)(ES)(GPLv2)">
+		<description>Booty - The Remake (2023)(salvaKantero)(ES)(GPLv2)</description>
+		<rom name="Booty - The Remake (2023)(salvaKantero)(ES)(GPLv2).cdt" size="49404" crc="4459a9c6" md5="e74f448c409839fa7f3077b858fb7e89" sha1="603a0ab48f1bc92697f407b183cc1a573a8e4d1e"/>
+	</game>
+	<game name="Brick Rick v1.0.1 (2020-10-07)(Martínez, Juan J.)">
+		<description>Brick Rick v1.0.1 (2020-10-07)(Martínez, Juan J.)</description>
+		<rom name="Brick Rick v1.0.1 (2020-10-07)(Martínez, Juan J.).cdt" size="19071" crc="87b42465" md5="84e0ff8d62ce2c8e9638a345d808cf08" sha1="278820c192df521e07a2c5620950363b9359b474"/>
+	</game>
+	<game name="Brush Brothers, The (2023-02-23)(21bloques)(Side 1)">
+		<description>Brush Brothers, The (2023-02-23)(21bloques)(Side 1)</description>
+		<rom name="Brush Brothers, The (2023-02-23)(21bloques)(Side 1).cdt" size="61897" crc="e3fd3fc2" md5="4a5814ceff1351135c3aca5441483c9b" sha1="2250d758cff9be1a1978ef981895244f5473c2b1"/>
+	</game>
+	<game name="Brush Brothers, The (2023-02-23)(21bloques)(Side 2)">
+		<description>Brush Brothers, The (2023-02-23)(21bloques)(Side 2)</description>
+		<rom name="Brush Brothers, The (2023-02-23)(21bloques)(Side 2).cdt" size="64275" crc="d3b928bc" md5="a525e43d9c3f0807d7b224e1ec60de57" sha1="c2dd2a15e5c163227f90284568ec7d6309989e88"/>
+	</game>
+	<game name="Bubble Duck (2022)(MT Studios)">
+		<description>Bubble Duck (2022)(MT Studios)</description>
+		<rom name="Bubble Duck (2022)(MT Studios).cdt" size="29176" crc="8aaf0500" md5="e47ed128a33d9520a21eef11ccc75a94" sha1="1d325c0e9e15ead86d621a342d16435eeee8f53c"/>
+	</game>
+	<game name="Capital Quiz (2019)(Kaffesakis, Sakis)(GR)(en)">
+		<description>Capital Quiz (2019)(Kaffesakis, Sakis)(GR)(en)</description>
+		<rom name="Capital Quiz (2019)(Kaffesakis, Sakis)(GR)(en).cdt" size="27421" crc="eb83037b" md5="eecfb21a9c16518137ab78bc82d9500b" sha1="1baf0878b1cc8affa7bcbd2aef13cfb9f7b7487e"/>
+	</game>
+	<game name="Capital Quiz 2! Reverse Edition (2019)(Kaffesakis, Sakis)(GR)(en)">
+		<description>Capital Quiz 2! Reverse Edition (2019)(Kaffesakis, Sakis)(GR)(en)</description>
+		<rom name="Capital Quiz 2! Reverse Edition (2019)(Kaffesakis, Sakis)(GR)(en).cdt" size="27163" crc="00528c04" md5="61b88e166c01edba70bddb9885d1edc1" sha1="1d8e3ec9aa472fc74ad8edf3c16be859d052bdbe"/>
+	</game>
+	<game name="Castaway (2022)(gallegux)">
+		<description>Castaway (2022)(gallegux)</description>
+		<rom name="Castaway (2022)(gallegux).cdt" size="42422" crc="8393d18f" md5="b7cce38644e3f064bcb10657ef71be57" sha1="89ce5eebafa4935f754dd7509bc87575c1e13d25"/>
+	</game>
+	<game name="Cero Absoluto (2016)(ESP Soft)(ES)(Part 1 of 2)">
+		<description>Cero Absoluto (2016)(ESP Soft)(ES)(Part 1 of 2)</description>
+		<rom name="Cero Absoluto (2016)(ESP Soft)(ES)(Part 1 of 2).cdt" size="39378" crc="7377359e" md5="d9ff9aa9809c8a22a856449cb3ad1055" sha1="bdb92696cf2c983bf205c2357c43719011f7ae3d"/>
+	</game>
+	<game name="Cero Absoluto (2016)(ESP Soft)(ES)(Part 2 of 2)">
+		<description>Cero Absoluto (2016)(ESP Soft)(ES)(Part 2 of 2)</description>
+		<rom name="Cero Absoluto (2016)(ESP Soft)(ES)(Part 2 of 2).cdt" size="39851" crc="6bab5bc8" md5="0b0ffcf7b87386e8d9f3916fbc0fc97d" sha1="076d5bba82cd106e4ea935c43630c25712b7bfe6"/>
+	</game>
+	<game name="Chloe Aprende a Reciclar (2023-07-27)(Churrosoft)(ES)">
+		<description>Chloe Aprende a Reciclar (2023-07-27)(Churrosoft)(ES)</description>
+		<rom name="Chloe Aprende a Reciclar (2023-07-27)(Churrosoft)(ES).cdt" size="19795" crc="e8b1cb89" md5="7be11c757d787059c227f718bbf5b3da" sha1="4763abb3abaa989e9aca1da615db42b6faa086d8"/>
+	</game>
+	<game name="Coin Jump (2022)(Insert Name)">
+		<description>Coin Jump (2022)(Insert Name)</description>
+		<rom name="Coin Jump (2022)(Insert Name).cdt" size="16792" crc="29999e00" md5="ad208d3eedc944bb008304109b00d97e" sha1="6689ce30a32d67bc49bd2819d014d8e7060f0dc3"/>
+	</game>
+	<game name="Coloco (2020)(Tuxedo Games)(ES)(en)">
+		<description>Coloco (2020)(Tuxedo Games)(ES)(en)</description>
+		<rom name="Coloco (2020)(Tuxedo Games)(ES)(en).cdt" size="31617" crc="8d8412b4" md5="dd94b172078f1ad52d377b0ebaa0a70b" sha1="1560da29de131e6c3c1494fbf74241a948ac5ad8"/>
+	</game>
+	<game name="Color Jetz (2022)(Grumpy Wave)">
+		<description>Color Jetz (2022)(Grumpy Wave)</description>
+		<rom name="Color Jetz (2022)(Grumpy Wave).cdt" size="21315" crc="61b5d239" md5="11ddaa973eb99a6ee2bfa14f49fbe66c" sha1="2e2b6c48744e58a5fcff10d839884c1c4bc41404"/>
+	</game>
+	<game name="Columns (2004)(ESP Soft)(ES)(en)(Part 1 of 2)">
+		<description>Columns (2004)(ESP Soft)(ES)(en)(Part 1 of 2)</description>
+		<rom name="Columns (2004)(ESP Soft)(ES)(en)(Part 1 of 2).cdt" size="45917" crc="2697885c" md5="75bfeb6290de6b8f74bc01e597b0afb9" sha1="2d9f7f0fad9a33a9802a8d5ed1696fbeedafd849"/>
+	</game>
+	<game name="Columns (2004)(ESP Soft)(ES)(en)(Part 2 of 2)">
+		<description>Columns (2004)(ESP Soft)(ES)(en)(Part 2 of 2)</description>
+		<rom name="Columns (2004)(ESP Soft)(ES)(en)(Part 2 of 2).cdt" size="50305" crc="5acac65b" md5="7712ce1c81aff5949fa0caa852252d26" sha1="6982d0713c3cde00a70cac4922a2d763b247ecc6"/>
+	</game>
+	<game name="Columns (2008)(ESP Soft)(ES)(en)">
+		<description>Columns (2008)(ESP Soft)(ES)(en)</description>
+		<rom name="Columns (2008)(ESP Soft)(ES)(en).cdt" size="52083" crc="51d29106" md5="b4708c2851e15cb6384cc3011d1e4d6f" sha1="2cc9a841e57b25e49a06ddef7b3a51f94b30ba6e"/>
+	</game>
+	<game name="Cow Tale, A (2022)(dahliagames)">
+		<description>Cow Tale, A (2022)(dahliagames)</description>
+		<rom name="Cow Tale, A (2022)(dahliagames).cdt" size="17093" crc="d944cc50" md5="ae9abdaf7ca2121cbf4a1632686c7329" sha1="31f2656d8d2b2c05f93635418bc0aedc1c34c6ca"/>
+	</game>
+	<game name="CPC Invaders (2021-12-13)(Alcauscer, Francesc)">
+		<description>CPC Invaders (2021-12-13)(Alcauscer, Francesc)</description>
+		<rom name="CPC Invaders (2021-12-13)(Alcauscer, Francesc).cdt" size="29303" crc="b0581ed8" md5="8f38350e6d54775496cf1d50da7b7a0e" sha1="0326894a460e2010aef5216b43fa45fc0f120ade"/>
+	</game>
+	<game name="CPC Jewels (2022)(ESP Soft)(ES)(en)">
+		<description>CPC Jewels (2022)(ESP Soft)(ES)(en)</description>
+		<rom name="CPC Jewels (2022)(ESP Soft)(ES)(en).cdt" size="40707" crc="741609be" md5="a98db3010e9d5d367ab202af762d203b" sha1="d8de6c411fc34d4f625f0bf7e7795d8f95aa1df0"/>
+	</game>
+	<game name="CPC Jewels v1.2 (2022)(ESP Soft)(ES)(en)">
+		<description>CPC Jewels v1.2 (2022)(ESP Soft)(ES)(en)</description>
+		<rom name="CPC Jewels v1.2 (2022)(ESP Soft)(ES)(en).cdt" size="42408" crc="7f0e8e04" md5="fe4a5b12f68c0ccaee36b873f6130593" sha1="1b9e710998d38d10a3bfb81326bceaab91022224"/>
+	</game>
+	<game name="CPC Soccer 22 (2021-09-19)(Voxel Tower)">
+		<description>CPC Soccer 22 (2021-09-19)(Voxel Tower)</description>
+		<rom name="CPC Soccer 22 (2021-09-19)(Voxel Tower).cdt" size="97275" crc="4c926eca" md5="fe0c39bf4bab9b53138c4a4280400e08" sha1="cb2f8416e974620ce537853aebfe522b658d336e"/>
+	</game>
+	<game name="CPC Soccer Community Edition (2020-08-31)(Voxel Tower)">
+		<description>CPC Soccer Community Edition (2020-08-31)(Voxel Tower)</description>
+		<rom name="CPC Soccer Community Edition (2020-08-31)(Voxel Tower).cdt" size="97791" crc="81069cd8" md5="6f77f266f494bc04db3d26f141502c4a" sha1="2f10a464a15e465c43bce24d793c305706e6055d"/>
+	</game>
+	<game name="Cross Bomber (2020-08-26)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2020-08-26)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2020-08-26)(Caruso, Fabrizio).cdt" size="11903" crc="cd695a9a" md5="c199e1dca436ccbd9f34ff2947492804" sha1="1c29ae73e661b968a4cb79f6e707a9f9fd9a2542"/>
+	</game>
+	<game name="Cross Bomber (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2021-05-13)(Caruso, Fabrizio).cdt" size="10097" crc="94735ec7" md5="41597f2fe72cc05d462651fca559c359" sha1="de8e0595907ce6bb964c857fcbb6ba72d0a1b132"/>
+	</game>
+	<game name="Cross Chase (2017-08-02)(Caruso, Fabrizio)[experimental][slow]">
+		<description>Cross Chase (2017-08-02)(Caruso, Fabrizio)[experimental][slow]</description>
+		<rom name="Cross Chase (2017-08-02)(Caruso, Fabrizio)[experimental][slow].cdt" size="29379" crc="2920ec72" md5="56a2e423dc15f9bc093d5feb4d40ab89" sha1="5599a02ec5de867a838a4dd0e43fb53251783ca8"/>
+	</game>
+	<game name="Cross Chase (2017-08-08)(Caruso, Fabrizio)[experimental]">
+		<description>Cross Chase (2017-08-08)(Caruso, Fabrizio)[experimental]</description>
+		<rom name="Cross Chase (2017-08-08)(Caruso, Fabrizio)[experimental].cdt" size="29379" crc="0ac881dc" md5="4ba02ddb00fcf4d41635abe3f046e29b" sha1="848fbaad0e27042c143c99aa42cf8beeded2ccfd"/>
+	</game>
+	<game name="Cross Chase (2017-08-26)(Caruso, Fabrizio)[experimental][minimal]">
+		<description>Cross Chase (2017-08-26)(Caruso, Fabrizio)[experimental][minimal]</description>
+		<rom name="Cross Chase (2017-08-26)(Caruso, Fabrizio)[experimental][minimal].cdt" size="14023" crc="3508f8bc" md5="72ed9386af070191247dae432cfa697a" sha1="1822e7c63ad83b76e5120394014044ee868eb270"/>
+	</game>
+	<game name="Cross Chase (2017-08-27)(Caruso, Fabrizio)[experimental][minimal]">
+		<description>Cross Chase (2017-08-27)(Caruso, Fabrizio)[experimental][minimal]</description>
+		<rom name="Cross Chase (2017-08-27)(Caruso, Fabrizio)[experimental][minimal].cdt" size="13507" crc="168df333" md5="999d8f704ca17c001ad3c4f474b5c42a" sha1="6bc026492b348ec5cb1b77925cc0f8a27915f1b6"/>
+	</game>
+	<game name="Cross Chase (2017-09-15)(Caruso, Fabrizio)">
+		<description>Cross Chase (2017-09-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2017-09-15)(Caruso, Fabrizio).cdt" size="21157" crc="a395d966" md5="80f6c4f18e27c1900b24c1fa4821f1fc" sha1="646de4fecf6afdb85cd69ae56d4cd3e6e3a8425c"/>
+	</game>
+	<game name="Cross Chase (2017-10-11)(Caruso, Fabrizio)">
+		<description>Cross Chase (2017-10-11)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2017-10-11)(Caruso, Fabrizio).cdt" size="22503" crc="13d93231" md5="9cfeddd54b5068921034316e0f09c51c" sha1="c416bddf9d7fbb0700b1b18662925de08c2c487d"/>
+	</game>
+	<game name="Cross Chase (2017-10-30)(Caruso, Fabrizio)">
+		<description>Cross Chase (2017-10-30)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2017-10-30)(Caruso, Fabrizio).cdt" size="22761" crc="8b97730b" md5="c0c2cba331db77d00bf365408c23c805" sha1="46bbd5134bea78787f2e946b195e84c9d4f602b2"/>
+	</game>
+	<game name="Cross Chase (2017-12-10)(Caruso, Fabrizio)">
+		<description>Cross Chase (2017-12-10)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2017-12-10)(Caruso, Fabrizio).cdt" size="22245" crc="a25561aa" md5="04ff11e3e54b9f76758a46d918b5b7b9" sha1="6fee5c7589c17710bbef2f7a10e15923a1e26c29"/>
+	</game>
+	<game name="Cross Chase (2018-02-03)(Caruso, Fabrizio)[full]">
+		<description>Cross Chase (2018-02-03)(Caruso, Fabrizio)[full]</description>
+		<rom name="Cross Chase (2018-02-03)(Caruso, Fabrizio)[full].cdt" size="22503" crc="758c351c" md5="bdaf93756af33c303c3348ec52a7f3c2" sha1="c07e1fff40cc3858d46bd20c47c4bbef16cb06d9"/>
+	</game>
+	<game name="Cross Chase (2018-02-03)(Caruso, Fabrizio)[light][no udg]">
+		<description>Cross Chase (2018-02-03)(Caruso, Fabrizio)[light][no udg]</description>
+		<rom name="Cross Chase (2018-02-03)(Caruso, Fabrizio)[light][no udg].cdt" size="13765" crc="a3dd7ea1" md5="b49323fcfd7ade876f8a9602f4652609" sha1="71c60a8871c90c430261b68f711f485e06acdf4f"/>
+	</game>
+	<game name="Cross Chase (2018-04-15)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-04-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-04-15)(Caruso, Fabrizio).cdt" size="22761" crc="d261388c" md5="a1a8e844550e3281edd242bd54aab354" sha1="78d49e448f3f52dcd7e991a13a9ace81ed104a20"/>
+	</game>
+	<game name="Cross Chase (2018-04-15)(Caruso, Fabrizio)[joystick]">
+		<description>Cross Chase (2018-04-15)(Caruso, Fabrizio)[joystick]</description>
+		<rom name="Cross Chase (2018-04-15)(Caruso, Fabrizio)[joystick].cdt" size="22761" crc="b0f01da5" md5="dcf204a94f8c05907ea0b0aabc62b8ec" sha1="f782219f025481e8de0c11d3288bdd203158119d"/>
+	</game>
+	<game name="Cross Chase (2018-04-15)(Caruso, Fabrizio)[no udg]">
+		<description>Cross Chase (2018-04-15)(Caruso, Fabrizio)[no udg]</description>
+		<rom name="Cross Chase (2018-04-15)(Caruso, Fabrizio)[no udg].cdt" size="20383" crc="abe41aab" md5="019f83262fbb3daa2642389c248bf61e" sha1="eb59d70c9cbe7744f4ec399015d389b04029246e"/>
+	</game>
+	<game name="Cross Chase (2018-05-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-05-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-05-19)(Caruso, Fabrizio).cdt" size="21987" crc="dfcb1cdf" md5="8d5486456847a59820a921534144597b" sha1="6bb0ce021de58dc6a9b6024aa1382895ea6e4863"/>
+	</game>
+	<game name="Cross Chase (2018-05-19)(Caruso, Fabrizio)[joystick]">
+		<description>Cross Chase (2018-05-19)(Caruso, Fabrizio)[joystick]</description>
+		<rom name="Cross Chase (2018-05-19)(Caruso, Fabrizio)[joystick].cdt" size="21987" crc="429c340f" md5="311839895eb6e324a11e8391fc58ec62" sha1="8f02cf426e130d3e676bd2fa93750a9a2a1075e5"/>
+	</game>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio).cdt" size="21987" crc="1da3a3d3" md5="98da18c711b479e261e46d63213cbc55" sha1="697fb21cb6e65884e5e721aa6d51223bcebfdef3"/>
+	</game>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[joystick]">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)[joystick]</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[joystick].cdt" size="21987" crc="6d3d418d" md5="b5f95cb68a53f2e811b947e1419d18f0" sha1="d81e6670b488e903246c785f548540bac630b2d8"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio).cdt" size="21987" crc="42f72de0" md5="e06ea768aaf37e8a438c7f39fd558cc3" sha1="5955d1e54fab9d4407ea689f74ab5c15f7e677c4"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)[joystick]">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)[joystick]</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio)[joystick].cdt" size="21987" crc="e72a331f" md5="eaafa2fb303a64582ba9b08b512f1c91" sha1="fb871e87c26fe1bb7d83213b24cdb873e089f39a"/>
+	</game>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio).cdt" size="21415" crc="3a17ed91" md5="2d46307a6c0f8fbd52ed839baae990ff" sha1="17c669fdd4b50ac63984a6a9facf77d420b2b648"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio).cdt" size="20383" crc="bde3bea6" md5="b148a28d5d8f304c62146832b801bd31" sha1="6bdd98f3423d922e2481803b5deb94d3d36ae909"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).cdt" size="19867" crc="21a61e6b" md5="95eb486f17464cb6d38fb84f58181eb9" sha1="92ddaff151ebbd8b58c8952c2a8ee94e6ba5d529"/>
+	</game>
+	<game name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode0]">
+		<description>Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode0].cdt" size="15627" crc="8551efad" md5="8503c5c90b92c7dd1fc79d2f0dcbe3c2" sha1="af66ed2ddf6f2e1b0f623c8d68a349f66d05f72b"/>
+	</game>
+	<game name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode1][cpcrslib]">
+		<description>Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode1][cpcrslib]</description>
+		<rom name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode1][cpcrslib].cdt" size="16659" crc="b2552629" md5="115ffac148f1ff6daaaadb7b18f98a42" sha1="fa85f158414654f585188125719ff21d069763fe"/>
+	</game>
+	<game name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode2]">
+		<description>Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Cross Horde (2021-04-16)(Caruso, Fabrizio)[mode2].cdt" size="15885" crc="a6fec5ab" md5="be0a86a189bcfff1d4c924e5eea22672" sha1="e4300598de95c1c8ff9001663c91f3c80286edab"/>
+	</game>
+	<game name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode0]">
+		<description>Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode0].cdt" size="15627" crc="9b5a79e0" md5="7754ca0d2d234d699696355508457a80" sha1="1b8dcdb793742ca477abbf938534e7f9c4334833"/>
+	</game>
+	<game name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode1][cpcrslib]">
+		<description>Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode1][cpcrslib]</description>
+		<rom name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode1][cpcrslib].cdt" size="17231" crc="219f981c" md5="82104eb90d168106d05725beddb41f84" sha1="c4ddfcf1b0c1f853fc6bf0a41954fa8d294576da"/>
+	</game>
+	<game name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode2]">
+		<description>Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Cross Horde (2021-04-25)(Caruso, Fabrizio)[mode2].cdt" size="16143" crc="8cdaab47" md5="2a42196e3c54dbd89408efe3a28d8edb" sha1="84be9c4c7677071ea733e1c681609374acbabca1"/>
+	</game>
+	<game name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode0]">
+		<description>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode0].cdt" size="15885" crc="f2d1dca8" md5="7a40b06163a90de8af2f9daf9fe8d7e1" sha1="bf0e780b7a48640d82b43fa072279d0b23f7e7d9"/>
+	</game>
+	<game name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode1][cpcrslib]">
+		<description>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode1][cpcrslib]</description>
+		<rom name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode1][cpcrslib].cdt" size="17231" crc="ea96313a" md5="4bd16e3c62dc17c306cddd608dbd7752" sha1="2fb48a5bbb567bc68e54ee9e5e0923bc5cabb0e8"/>
+	</game>
+	<game name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode2]">
+		<description>Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio)[mode2].cdt" size="16143" crc="0098aa93" md5="51e758346fe1c15b109fc8cbda8c4c14" sha1="3b31da32e68f4d3e7892bac0a20cac444fa3c418"/>
+	</game>
+	<game name="Cross Shoot (2020-07-03)(Caruso, Fabrizio)">
+		<description>Cross Shoot (2020-07-03)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shoot (2020-07-03)(Caruso, Fabrizio).cdt" size="27775" crc="d44f37bd" md5="1482fef83aeea9c48250189db2ff426a" sha1="524612d44034ae5491cf8f2a706d5bac6aae29b9"/>
+	</game>
+	<game name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)">
+		<description>Cross Snake Preview (2020-12-05)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake Preview (2020-12-05)(Caruso, Fabrizio).cdt" size="14853" crc="186d17c9" md5="9c40c8eb8c896240facfc63e3e72e3cb" sha1="7869902615dcc05afbad150b238e205c92883d6d"/>
+	</game>
+	<game name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode0]">
+		<description>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode0].cdt" size="18521" crc="8379e69f" md5="008a8ae53defae81a4389218823df2d9" sha1="d67edfe6963b65b8cc9f8c1d598a7952c6988cd2"/>
+	</game>
+	<game name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode1][cpcrslib]">
+		<description>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode1][cpcrslib]</description>
+		<rom name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode1][cpcrslib].cdt" size="20383" crc="0c77e93c" md5="6000df1c94615aaead195e9770f50c9b" sha1="7812ddaf5128156c2db0746e7fbd9f000df39450"/>
+	</game>
+	<game name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode2]">
+		<description>Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio)[mode2].cdt" size="20641" crc="e0681ab7" md5="017585ff09f4f405b9a950e4e6784e1c" sha1="17d14ed7b473c4f2f3df906e30f578350e44c744"/>
+	</game>
+	<game name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode0]">
+		<description>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode0]</description>
+		<rom name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode0].cdt" size="18263" crc="74088b68" md5="c0c85b2b15f0715d6594a076687ca8f8" sha1="6a8ba20653b68f0ce965fb64849202f2504a53d6"/>
+	</game>
+	<game name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode1][cpcrslib]">
+		<description>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode1][cpcrslib]</description>
+		<rom name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode1][cpcrslib].cdt" size="19867" crc="e435c399" md5="25ce29f72fadc850489eca45575e7273" sha1="1e54c0808b3dba19525a631efa03c900826cbef5"/>
+	</game>
+	<game name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode2]">
+		<description>Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio)[mode2].cdt" size="20383" crc="0663faeb" md5="2df83c5e8aa8caf68cd36da9c7b18b96" sha1="f7224b9847708da510d3e8ae374bee8b5a37af85"/>
+	</game>
+	<game name="Cult, The (2023-12-16)(Tartessos Games)">
+		<description>Cult, The (2023-12-16)(Tartessos Games)</description>
+		<rom name="Cult, The (2023-12-16)(Tartessos Games).cdt" size="20669" crc="42805bf8" md5="1a5b721b39e924fb988afa5713771d58" sha1="9cbf310b9e08fafd6d432761cc30f819140e49dc"/>
+	</game>
+	<game name="Culto, El (2023-12-03)(Tartessos Games)">
+		<description>Culto, El (2023-12-03)(Tartessos Games)</description>
+		<rom name="Culto, El (2023-12-03)(Tartessos Games).cdt" size="20659" crc="9d92c982" md5="eb469178d32a34a65f163552f4fa5bba" sha1="f06dcdc1d0311d10bb381250297aece47be322b2"/>
+	</game>
+	<game name="Darkula 64 (2022-12-15)(21bloques)">
+		<description>Darkula 64 (2022-12-15)(21bloques)</description>
+		<rom name="Darkula 64 (2022-12-15)(21bloques).cdt" size="33896" crc="c79280a3" md5="bde36c8d02e3d6b6769de95392db2a69" sha1="2ddedda85493e66a1a8eae9c562fe28ad1feaa63"/>
+	</game>
+	<game name="Dawn of Kernel, The v1.0.1 (2018-08-23)(Martínez, Juan J.)">
+		<description>Dawn of Kernel, The v1.0.1 (2018-08-23)(Martínez, Juan J.)</description>
+		<rom name="Dawn of Kernel, The v1.0.1 (2018-08-23)(Martínez, Juan J.).cdt" size="38893" crc="4b1211ab" md5="8c69dd52d72f3d4887946a9429242a7b" sha1="aeecf2f866afc21573a5e0fa6ce0130f5ed249ec"/>
+	</game>
+	<game name="Deep, Deeper, Deepest (2022)(Pérezgrin, Carlos)">
+		<description>Deep, Deeper, Deepest (2022)(Pérezgrin, Carlos)</description>
+		<rom name="Deep, Deeper, Deepest (2022)(Pérezgrin, Carlos).cdt" size="61141" crc="102260e7" md5="3966632200506366f0e25eef33088e2b" sha1="9b3cc5c92e70e2d4f96ac037d4265d375b718646"/>
+	</game>
+	<game name="Dire Dare (2022)(CNGSoft)">
+		<description>Dire Dare (2022)(CNGSoft)</description>
+		<rom name="Dire Dare (2022)(CNGSoft).cdt" size="19480" crc="e833302e" md5="4202f118b45718f2261c25967bf9cad0" sha1="86aaa2feea794c22b25f45ff16e881f3fa6def4e"/>
+	</game>
+	<game name="Druid &amp; Droid (2022)(LeoSoft)">
+		<description>Druid &amp; Droid (2022)(LeoSoft)</description>
+		<rom name="Druid &amp; Droid (2022)(LeoSoft).cdt" size="39019" crc="cd8ebfe0" md5="115da367add576587d015df458c5b249" sha1="9c76d38d24f2053c7b7c82c905d2ba77f21bea80"/>
+	</game>
+	<game name="Eight Feet Under - A Hibernated 1 Addon r6 (2019-03-20)(Pond Software)(Side 1)">
+		<description>Eight Feet Under - A Hibernated 1 Addon r6 (2019-03-20)(Pond Software)(Side 1)</description>
+		<rom name="Eight Feet Under - A Hibernated 1 Addon r6 (2019-03-20)(Pond Software)(Side 1).cdt" size="59875" crc="cf4f20de" md5="1dbe810c340265e51c1a40dd45d1a1f1" sha1="49cd4cf7fced4d9b3274003d8a8337c8aa3244eb"/>
+	</game>
+	<game name="Eight Feet Under - A Hibernated 1 Addon r6 (2019-03-20)(Pond Software)(Side 2)">
+		<description>Eight Feet Under - A Hibernated 1 Addon r6 (2019-03-20)(Pond Software)(Side 2)</description>
+		<rom name="Eight Feet Under - A Hibernated 1 Addon r6 (2019-03-20)(Pond Software)(Side 2).cdt" size="57763" crc="7ec09079" md5="5e648870ffac26221b929e17c9daefd2" sha1="ddec735578b4c50ed3082c6e11e9290e43837ab3"/>
+	</game>
+	<game name="Elf (2020-01-20)(Defecto Digital Studios)(es)(Side A)">
+		<description>Elf (2020-01-20)(Defecto Digital Studios)(es)(Side A)</description>
+		<rom name="Elf (2020-01-20)(Defecto Digital Studios)(es)(Side A).cdt" size="62282" crc="91d357e3" md5="6675047e702e29d64443c208fefeb551" sha1="acd95edb4e0c0b1a6a5be4ac4b81fc560be32dd5"/>
+	</game>
+	<game name="Elf (2020-01-20)(Defecto Digital Studios)(es)(Side B)">
+		<description>Elf (2020-01-20)(Defecto Digital Studios)(es)(Side B)</description>
+		<rom name="Elf (2020-01-20)(Defecto Digital Studios)(es)(Side B).cdt" size="59614" crc="79733046" md5="722527a5832547ab1e87ea8981373488" sha1="f4a2d77dcdcfe01a95615781b8e1e9575c2b1a17"/>
+	</game>
+	<game name="Farming Spirits (2022)(Truncado Studios)">
+		<description>Farming Spirits (2022)(Truncado Studios)</description>
+		<rom name="Farming Spirits (2022)(Truncado Studios).cdt" size="45764" crc="728df612" md5="2d06a38b3ae6523bd97c52565d144a1f" sha1="47810d6cf9fd27bc07c89642c47af6c5ad9f059e"/>
+	</game>
+	<game name="Find The Exit (2022-03-16)(Out Bush)">
+		<description>Find The Exit (2022-03-16)(Out Bush)</description>
+		<rom name="Find The Exit (2022-03-16)(Out Bush).cdt" size="1609" crc="3e92f54d" md5="5417ed3123bb1e22457ec965bf3fde6f" sha1="be38e33689e3a6f89ebd9d51d01f1351e19e93e4"/>
+	</game>
+	<game name="Find The Exit Red (2022-03-26)(Out Bush)">
+		<description>Find The Exit Red (2022-03-26)(Out Bush)</description>
+		<rom name="Find The Exit Red (2022-03-26)(Out Bush).cdt" size="1867" crc="45e1367e" md5="33929528892f08ab1f2b9caec780b4e2" sha1="5c083e2533cc4afb9db829b109df5207c01a1a13"/>
+	</game>
+	<game name="Fitzroy and the Confounding Labyrinth (2022)(awergh)">
+		<description>Fitzroy and the Confounding Labyrinth (2022)(awergh)</description>
+		<rom name="Fitzroy and the Confounding Labyrinth (2022)(awergh).cdt" size="42937" crc="0f0a1d5a" md5="8bf754891f0c69c18256ee066b7999f7" sha1="accb27486f5758120c8729f64e7872fe7398aa9c"/>
+	</game>
+	<game name="Foggy's Quest (2024-02-24)(AYOR61)">
+		<description>Foggy's Quest (2024-02-24)(AYOR61)</description>
+		<rom name="Foggy's Quest (2024-02-24)(AYOR61).cdt" size="45610" crc="b14c9c4f" md5="3b663bdb087ad8f14057af557b4e46f8" sha1="8dd0911f919187d987413b567d04a306475ffa9b"/>
+	</game>
+	<game name="Foggy's Quest (2024-02-24)(AYOR61)[f turbo loader r0b1n]">
+		<description>Foggy's Quest (2024-02-24)(AYOR61)[f turbo loader r0b1n]</description>
+		<rom name="Foggy's Quest (2024-02-24)(AYOR61)[f turbo loader r0b1n].cdt" size="102776" crc="bdafc525" md5="c68a3adf8371891cbf410ca18e76440d" sha1="ae9c9d2605d5a6795a96dec5ad431aedeae5f839"/>
+	</game>
+	<game name="Galactic Tomb (2018)(ESP Soft)(ES)(en)(Side A)">
+		<description>Galactic Tomb (2018)(ESP Soft)(ES)(en)(Side A)</description>
+		<rom name="Galactic Tomb (2018)(ESP Soft)(ES)(en)(Side A).cdt" size="90921" crc="5b891981" md5="1318df70b05490f7683f043c2327007e" sha1="a38737fe18cbbd5bed12a067d28e629da55ce63a"/>
+	</game>
+	<game name="Galactic Tomb (2018)(ESP Soft)(ES)(en)(Side B)">
+		<description>Galactic Tomb (2018)(ESP Soft)(ES)(en)(Side B)</description>
+		<rom name="Galactic Tomb (2018)(ESP Soft)(ES)(en)(Side B).cdt" size="81489" crc="87872a36" md5="fe9ac683006e6c6aa9ac069ebe24712c" sha1="06f4e2b2db62fdd6bad6cddf71b5a42261accde8"/>
+	</game>
+	<game name="Galastrad v1.02 (2024-05-08)(AYOR61)">
+		<description>Galastrad v1.02 (2024-05-08)(AYOR61)</description>
+		<rom name="Galastrad v1.02 (2024-05-08)(AYOR61).cdt" size="53854" crc="c844c1a9" md5="d9058d93fe92e3ada0cc436e14220001" sha1="ada53d415d5c32d697d1fedec8d8d5f298909f92"/>
+	</game>
+	<game name="Gates to Hell (2006)(ESP Soft)(ES)(en)">
+		<description>Gates to Hell (2006)(ESP Soft)(ES)(en)</description>
+		<rom name="Gates to Hell (2006)(ESP Soft)(ES)(en).cdt" size="50715" crc="a214f322" md5="effd5ca1b1f0dddef0aaa2924c2b5cd3" sha1="b1ca3a9985b0dd7d9af7d9f550516cc1e96fff0f"/>
+	</game>
+	<game name="Geometry Escape (2022)(Triple Fail)">
+		<description>Geometry Escape (2022)(Triple Fail)</description>
+		<rom name="Geometry Escape (2022)(Triple Fail).cdt" size="28119" crc="7f79caa4" md5="d69ce1b323a7377dbd19ceb0b5b8d41a" sha1="7b1661bb431e77769e6b6994076f57dec320e2de"/>
+	</game>
+	<game name="Go To My Planet (2022)(Div72)">
+		<description>Go To My Planet (2022)(Div72)</description>
+		<rom name="Go To My Planet (2022)(Div72).cdt" size="52507" crc="4035d971" md5="5d806bdfca23febb779681212d794409" sha1="7c827c984197a752254d109aeba707d6238fd965"/>
+	</game>
+	<game name="Goatfish 2 (2022)(poppichicken)">
+		<description>Goatfish 2 (2022)(poppichicken)</description>
+		<rom name="Goatfish 2 (2022)(poppichicken).cdt" size="33952" crc="85c77e3d" md5="3c0deb1662f51e20ced42a489a36ecb6" sha1="951780ceb06e70eebe379c7e8faeeb4f66b3b001"/>
+	</game>
+	<game name="Gold Maze (2023-12-22)(Retro VynZ)(464)">
+		<description>Gold Maze (2023-12-22)(Retro VynZ)(464)</description>
+		<rom name="Gold Maze (2023-12-22)(Retro VynZ)(464).cdt" size="59317" crc="df18a71d" md5="99c279af1c6397e10fa2cb6f67af633f" sha1="dd3a8f86cba76b5f98bc15cb4fefecdb482744e2"/>
+	</game>
+	<game name="Golden Tail v1.0.3 (2016-08-10)(Martínez, Juan J.)">
+		<description>Golden Tail v1.0.3 (2016-08-10)(Martínez, Juan J.)</description>
+		<rom name="Golden Tail v1.0.3 (2016-08-10)(Martínez, Juan J.).cdt" size="22929" crc="55f386f3" md5="4f30a60c8a9cdc54b4cbb17f1a89ee78" sha1="757b29d781b66b0269590a53be2e9e286e02a670"/>
+	</game>
+	<game name="Guerra de Gamber, La (2013)(ESP Soft)(ES)">
+		<description>Guerra de Gamber, La (2013)(ESP Soft)(ES)</description>
+		<rom name="Guerra de Gamber, La (2013)(ESP Soft)(ES).cdt" size="42989" crc="f5e98fb7" md5="320b4a57c0578dc6a7ec6eea388f9f0e" sha1="27eb1d69351625ac7e720a1bac5acb4e665af4f9"/>
+	</game>
+	<game name="Half Rest (2022)(Panetonent)">
+		<description>Half Rest (2022)(Panetonent)</description>
+		<rom name="Half Rest (2022)(Panetonent).cdt" size="33269" crc="3aba5bff" md5="f4a12039e36c4fcbd9f8851d9ac84c6e" sha1="03509f76ce2edb742b2574d42497c1419b459471"/>
+	</game>
+	<game name="Haunted House (2022)(Winders Studio)">
+		<description>Haunted House (2022)(Winders Studio)</description>
+		<rom name="Haunted House (2022)(Winders Studio).cdt" size="33252" crc="ebd96b7b" md5="38e5df8b2b5278ac87109c9aa8a893c2" sha1="83771dba3c9757ef41b3e1159d1e186bbd27d806"/>
+	</game>
+	<game name="Heads or Tails -Korona-Grammata- (2018)(Kaffesakis, Sakis)(464)(GR)">
+		<description>Heads or Tails -Korona-Grammata- (2018)(Kaffesakis, Sakis)(464)(GR)</description>
+		<rom name="Heads or Tails -Korona-Grammata- (2018)(Kaffesakis, Sakis)(464)(GR).cdt" size="5833" crc="dc154221" md5="6f00c20efd17b296771cd4bad02b2421" sha1="0e729dd73102813a356b8d52ce66c96f72812cf0"/>
+	</game>
+	<game name="Heads or Tails -Korona-Grammata- (2018)(Kaffesakis, Sakis)(6128)(GR)">
+		<description>Heads or Tails -Korona-Grammata- (2018)(Kaffesakis, Sakis)(6128)(GR)</description>
+		<rom name="Heads or Tails -Korona-Grammata- (2018)(Kaffesakis, Sakis)(6128)(GR).cdt" size="5833" crc="121daaac" md5="9af86cb2334185388ffc65fdb98112c3" sha1="cac8c135f29603e1d3c6f0da0618cf27053dba5d"/>
+	</game>
+	<game name="Heart Chaser (2020-04-03)(Kaffesakis, Sakis)(GR)(en)">
+		<description>Heart Chaser (2020-04-03)(Kaffesakis, Sakis)(GR)(en)</description>
+		<rom name="Heart Chaser (2020-04-03)(Kaffesakis, Sakis)(GR)(en).cdt" size="6091" crc="a9dad0fd" md5="d969ea35f506337f3e737a953724524e" sha1="cb9781c8cf0bd0e4c808ee1ad270f43e8db6e103"/>
+	</game>
+	<game name="Heart Chaser 2 (2020-05-27)(Kaffesakis, Sakis)(GR)(en)">
+		<description>Heart Chaser 2 (2020-05-27)(Kaffesakis, Sakis)(GR)(en)</description>
+		<rom name="Heart Chaser 2 (2020-05-27)(Kaffesakis, Sakis)(GR)(en).cdt" size="16345" crc="123be0f4" md5="400b9dd12453a0099acf7d49e31df065" sha1="74b4946dff42ea4e15d82cea3ff14b6884ce14ae"/>
+	</game>
+	<game name="Heart Chaser 3 (2020-06-18)(Kaffesakis, Sakis)(GR)(en)">
+		<description>Heart Chaser 3 (2020-06-18)(Kaffesakis, Sakis)(GR)(en)</description>
+		<rom name="Heart Chaser 3 (2020-06-18)(Kaffesakis, Sakis)(GR)(en).cdt" size="35305" crc="bad2ae95" md5="5333ddc802605c0d5c84a900bb3e01e1" sha1="9e696dafa942e25c3c61248c5915738b46e28c46"/>
+	</game>
+	<game name="Heart of Salamanderland, The v1.0.3 (2024-06-23)(Martínez, Juan J.)">
+		<description>Heart of Salamanderland, The v1.0.3 (2024-06-23)(Martínez, Juan J.)</description>
+		<rom name="Heart of Salamanderland, The v1.0.3 (2024-06-23)(Martínez, Juan J.).cdt" size="26982" crc="4aa737f2" md5="305840f8b73315e841d75aea9813cf53" sha1="16ef82266f941d4be90b4d1c67529ff1d2191ea0"/>
+	</game>
+	<game name="Heroes Rescue (2020-01-13)(Defecto Digital Studios)(es)[joystick]">
+		<description>Heroes Rescue (2020-01-13)(Defecto Digital Studios)(es)[joystick]</description>
+		<rom name="Heroes Rescue (2020-01-13)(Defecto Digital Studios)(es)[joystick].cdt" size="42304" crc="43bc2d9a" md5="178fd886154783968638ef785bd97bf7" sha1="41c1a75687f049f1e688ac934ea02ca890296093"/>
+	</game>
+	<game name="Heroes Rescue (2020-01-13)(Defecto Digital Studios)(es)[keys]">
+		<description>Heroes Rescue (2020-01-13)(Defecto Digital Studios)(es)[keys]</description>
+		<rom name="Heroes Rescue (2020-01-13)(Defecto Digital Studios)(es)[keys].cdt" size="43070" crc="608834be" md5="6ca4cfdf23bb49587d3a45bcc1ec8ab4" sha1="fb277a13d71189aa9c8e6b57c015b7a9eff97433"/>
+	</game>
+	<game name="Hey Sailor! (2021-01-14)(Marine Developers)">
+		<description>Hey Sailor! (2021-01-14)(Marine Developers)</description>
+		<rom name="Hey Sailor! (2021-01-14)(Marine Developers).cdt" size="29917" crc="cac6842d" md5="7dcc5b96f63125c7c028a8ffa3a3d926" sha1="7b561a0d331b5cd36bddc817c060df06f6d738ad"/>
+	</game>
+	<game name="Hora Bruja (2011)(ESP Soft)(ES)[fast]">
+		<description>Hora Bruja (2011)(ESP Soft)(ES)[fast]</description>
+		<rom name="Hora Bruja (2011)(ESP Soft)(ES)[fast].cdt" size="27469" crc="1f9b4249" md5="98f6ee0d2244d93cd09a0d694718c8f2" sha1="79a80c4e2ffdf6c41a9ef89b8a87bb4fedf4f47d"/>
+	</game>
+	<game name="Hora Bruja (2011)(ESP Soft)(ES)[slow]">
+		<description>Hora Bruja (2011)(ESP Soft)(ES)[slow]</description>
+		<rom name="Hora Bruja (2011)(ESP Soft)(ES)[slow].cdt" size="27469" crc="537a5bee" md5="d431ce6718fb47c4bafdba856d868a99" sha1="44ff66ddd152c5613efad93ab3b9352a32462c40"/>
+	</game>
+	<game name="Hora Bruja (2011)(ESP Soft)(ES)[turbo]">
+		<description>Hora Bruja (2011)(ESP Soft)(ES)[turbo]</description>
+		<rom name="Hora Bruja (2011)(ESP Soft)(ES)[turbo].cdt" size="23708" crc="9fd6a539" md5="84045429ba65c74726a375cf6297e512" sha1="7b9540a6a8d56adda9756f200dc6be54968a4976"/>
+	</game>
+	<game name="iLogicAll (2009)(ESP Soft)(ES)">
+		<description>iLogicAll (2009)(ESP Soft)(ES)</description>
+		<rom name="iLogicAll (2009)(ESP Soft)(ES).cdt" size="38599" crc="9631225d" md5="8eb296c6abc7a0a13f7dff218de04505" sha1="933851a14c8a52be9bf11fe0c57848a331961942"/>
+	</game>
+	<game name="iLogicAll (2009)(ESP Soft)(ES)[+intro]">
+		<description>iLogicAll (2009)(ESP Soft)(ES)[+intro]</description>
+		<rom name="iLogicAll (2009)(ESP Soft)(ES)[+intro].cdt" size="48795" crc="b4f58689" md5="0d79eebcb64a2e4a83120f2e0f4927db" sha1="ac4c18285d692b51b31f9cd548824871288bd5c8"/>
+	</game>
+	<game name="Imaginario Colectivo (2012)(ESP Soft)(ES)[turbo]">
+		<description>Imaginario Colectivo (2012)(ESP Soft)(ES)[turbo]</description>
+		<rom name="Imaginario Colectivo (2012)(ESP Soft)(ES)[turbo].cdt" size="32318" crc="79fef0c5" md5="7207308beac30060e89e371a767a352a" sha1="a4059b0d4ea17f7ef37c86570d69ed10601b3f05"/>
+	</game>
+	<game name="Jax the Dog (2023-07-22)(CapaSoft)">
+		<description>Jax the Dog (2023-07-22)(CapaSoft)</description>
+		<rom name="Jax the Dog (2023-07-22)(CapaSoft).cdt" size="58327" crc="c19cecaf" md5="e3b94abc9187d5be4086c5c8fb8f6bd3" sha1="a7493b1a83f10d0d339cd1a777cc2cd9aba8580b"/>
+	</game>
+	<game name="Jax the Dog (2023-07-22)(CapaSoft)(es)">
+		<description>Jax the Dog (2023-07-22)(CapaSoft)(es)</description>
+		<rom name="Jax the Dog (2023-07-22)(CapaSoft)(es).cdt" size="58327" crc="129929c4" md5="5eab09c5759648f6d56567ea03a17e8b" sha1="60d62c14111d96f6d6e3c50aaafaaa19c86fcc9f"/>
+	</game>
+	<game name="Jax the Dog (2023-07-22)(CapaSoft)(fr)">
+		<description>Jax the Dog (2023-07-22)(CapaSoft)(fr)</description>
+		<rom name="Jax the Dog (2023-07-22)(CapaSoft)(fr).cdt" size="58327" crc="4757bf04" md5="78c36d7cbc26b49de8d6e42ac0408f34" sha1="5ba62c1799d3591c2341646eaf887c47dbeffa57"/>
+	</game>
+	<game name="Jet Paco (2023-02-28)(The Mojon Twins)(ES)(en)">
+		<description>Jet Paco (2023-02-28)(The Mojon Twins)(ES)(en)</description>
+		<rom name="Jet Paco (2023-02-28)(The Mojon Twins)(ES)(en).cdt" size="28389" crc="8bce4542" md5="b56d898f9910d76a8d5fc56b021a472a" sha1="55474bfa943c20634870de48fd5343d7c00dd487"/>
+	</game>
+	<game name="Just Get 9 (2021-12-11)(cpcitor)[1000baud]">
+		<description>Just Get 9 (2021-12-11)(cpcitor)[1000baud]</description>
+		<rom name="Just Get 9 (2021-12-11)(cpcitor)[1000baud].cdt" size="25639" crc="3bd9c584" md5="5e5c3a91baf8110a7bb70c3a6d7b6d35" sha1="93d5868126eeb6df60ae8cb75dd95b39996fd609"/>
+	</game>
+	<game name="Just Get 9 (2021-12-11)(cpcitor)[2000baud]">
+		<description>Just Get 9 (2021-12-11)(cpcitor)[2000baud]</description>
+		<rom name="Just Get 9 (2021-12-11)(cpcitor)[2000baud].cdt" size="25639" crc="226c7457" md5="1bb430301bc1e105acb0bd2423ba1d4e" sha1="5ea9fc864461b479fe55422d8b1c77cb35d453b8"/>
+	</game>
+	<game name="Key, The (2024)(Pakete Soft)(ES)">
+		<description>Key, The (2024)(Pakete Soft)(ES)</description>
+		<rom name="Key, The (2024)(Pakete Soft)(ES).cdt" size="78490" crc="6787bdd9" md5="b645c8ea0ca31843e3ec74b19b8a2fbc" sha1="032bbdd00a4c452521c411f94ce1b7e1741318f8"/>
+	</game>
+	<game name="Key, The (2024)(Pakete Soft)(ES)(en)">
+		<description>Key, The (2024)(Pakete Soft)(ES)(en)</description>
+		<rom name="Key, The (2024)(Pakete Soft)(ES)(en).cdt" size="78381" crc="447492cd" md5="ae486715d4e026d5a77f32ca6b4ecfa6" sha1="0d5c22e9e4e8d311d9139723ccd30bb67e34b1ae"/>
+	</game>
+	<game name="Key, The (2024)(Pakete Soft)(ES)(fr)">
+		<description>Key, The (2024)(Pakete Soft)(ES)(fr)</description>
+		<rom name="Key, The (2024)(Pakete Soft)(ES)(fr).cdt" size="78571" crc="3a5c9a5d" md5="da788cf1b723f233b9100f0243e9cd13" sha1="d951bc6a4a108403fcf0bc50db26cb40c0ab7567"/>
+	</game>
+	<game name="Key, The (2024)(Pakete Soft)(ES)(it)">
+		<description>Key, The (2024)(Pakete Soft)(ES)(it)</description>
+		<rom name="Key, The (2024)(Pakete Soft)(ES)(it).cdt" size="78523" crc="756c7a6f" md5="c52d7cc31e9f973a97f52bb1f24df13d" sha1="ba07cd811d2393974fb52c59fa2b68cd70886b64"/>
+	</game>
+	<game name="KimoHiyoko (2018-11-10)(Ruiz, Alvaro Amador)">
+		<description>KimoHiyoko (2018-11-10)(Ruiz, Alvaro Amador)</description>
+		<rom name="KimoHiyoko (2018-11-10)(Ruiz, Alvaro Amador).cdt" size="49525" crc="4a5ac32e" md5="f7ffae2642f086598b119caa8160db00" sha1="e23f89df809230c34b1bf8d8061e6fe8f2522893"/>
+	</game>
+	<game name="Kitsune's Curse v1.0.1 (2020-09-05)(Martínez, Juan J.)">
+		<description>Kitsune's Curse v1.0.1 (2020-09-05)(Martínez, Juan J.)</description>
+		<rom name="Kitsune's Curse v1.0.1 (2020-09-05)(Martínez, Juan J.).cdt" size="26225" crc="b656caa9" md5="150ddd0a99231097f579420dc8591ff4" sha1="3e287c4c31d1fb90a911c8941461a657999056c9"/>
+	</game>
+	<game name="Liam's Awakening (2022-04-17)(Hard Bytes)">
+		<description>Liam's Awakening (2022-04-17)(Hard Bytes)</description>
+		<rom name="Liam's Awakening (2022-04-17)(Hard Bytes).cdt" size="39924" crc="bd4c3b48" md5="8beb9af0d06ec5b62d5904c91632d8f4" sha1="412b0f71b3fdaf9249789f691a75c81517ef9d34"/>
+	</game>
+	<game name="Linaje Real, El (2017)(ESP Soft)(ES)">
+		<description>Linaje Real, El (2017)(ESP Soft)(ES)</description>
+		<rom name="Linaje Real, El (2017)(ESP Soft)(ES).cdt" size="35244" crc="80b2f85f" md5="1d7eb3c57512057d26acbc7f0040a313" sha1="c392f7445f4a3177c207d00b671e5389d776324c"/>
+	</game>
+	<game name="Locus Eremus (2023-07-28)(altanerus dog)">
+		<description>Locus Eremus (2023-07-28)(altanerus dog)</description>
+		<rom name="Locus Eremus (2023-07-28)(altanerus dog).cdt" size="60520" crc="a156f583" md5="651c58a0a641c377daf936e4a7ca3e19" sha1="3ade31a49e58ce07a99864138f6000a3d4e5edb3"/>
+	</game>
+	<game name="Locus Eremus (2023-07-28)(altanerus dog)(es)">
+		<description>Locus Eremus (2023-07-28)(altanerus dog)(es)</description>
+		<rom name="Locus Eremus (2023-07-28)(altanerus dog)(es).cdt" size="60778" crc="7b6c774d" md5="82eb3708d666b11012ec721eb57da278" sha1="34d67dc9b2258417f452a275188ce7e0c420deb2"/>
+	</game>
+	<game name="Locus Eremus (2023-07-28)(altanerus dog)(fr)">
+		<description>Locus Eremus (2023-07-28)(altanerus dog)(fr)</description>
+		<rom name="Locus Eremus (2023-07-28)(altanerus dog)(fr).cdt" size="60520" crc="55d9339c" md5="bcc2e8229645f755af7481c82134d16e" sha1="3c299a7355d735682ce2194f94434b5c1ce269e8"/>
+	</game>
+	<game name="Magica v1.0.2 (2016-11-05)(Martínez, Juan J.)">
+		<description>Magica v1.0.2 (2016-11-05)(Martínez, Juan J.)</description>
+		<rom name="Magica v1.0.2 (2016-11-05)(Martínez, Juan J.).cdt" size="29148" crc="270ee146" md5="232b90b1e2f4c0a0223c4b7b224f20b9" sha1="5c9f6986156aba3b86632fec6f7bb7b74e0c2b3c"/>
+	</game>
+	<game name="Mandarin 2, The - Limoncello's Revenge (2024-01-20)(mananuk)">
+		<description>Mandarin 2, The - Limoncello's Revenge (2024-01-20)(mananuk)</description>
+		<rom name="Mandarin 2, The - Limoncello's Revenge (2024-01-20)(mananuk).cdt" size="62245" crc="9ad19203" md5="c8ef61b0d4560657774cf989fa6cdc5e" sha1="515d12d40b1109b963a4c6a14a492aa9e831b16d"/>
+	</game>
+	<game name="Mandarin, The (2022-03-13)(Mananuk)">
+		<description>Mandarin, The (2022-03-13)(Mananuk)</description>
+		<rom name="Mandarin, The (2022-03-13)(Mananuk).cdt" size="25433" crc="34663f31" md5="8a9ee1a7fc7daf89b8bc54f37548b076" sha1="ccd254e7cbb7fc917c86d8dee0e476bba535d473"/>
+	</game>
+	<game name="Mansion Kali (2013)(Commodore Plus - ESP Soft)(ES)">
+		<description>Mansion Kali (2013)(Commodore Plus - ESP Soft)(ES)</description>
+		<rom name="Mansion Kali (2013)(Commodore Plus - ESP Soft)(ES).cdt" size="35315" crc="a18a023b" md5="648038dc7fee986e5ce40e1172cb97ba" sha1="ba4c201f4b565cc2f6b8d759d03dba4e66524f3f"/>
+	</game>
+	<game name="Mansion Kali II (2013)(Commodore Plus - ESP Soft)(ES)">
+		<description>Mansion Kali II (2013)(Commodore Plus - ESP Soft)(ES)</description>
+		<rom name="Mansion Kali II (2013)(Commodore Plus - ESP Soft)(ES).cdt" size="49389" crc="58b4803d" md5="5dc6bb7c24041f2bed0c817721b6fede" sha1="f2aca98b2a41008eb907a45757fec303fc9483ac"/>
+	</game>
+	<game name="Mariano the Dragon in Capers in Cityland (2008)(ESP Soft)(ES)">
+		<description>Mariano the Dragon in Capers in Cityland (2008)(ESP Soft)(ES)</description>
+		<rom name="Mariano the Dragon in Capers in Cityland (2008)(ESP Soft)(ES).cdt" size="57311" crc="adbb8950" md5="3b788d445905fbedac544291df1c3b28" sha1="1004dc557b0ad8761368783c0c295394117185f5"/>
+	</game>
+	<game name="Mazy (2022-02-22)(Inufuto)(JP)">
+		<description>Mazy (2022-02-22)(Inufuto)(JP)</description>
+		<rom name="Mazy (2022-02-22)(Inufuto)(JP).cdt" size="9065" crc="2035582d" md5="24578fa4c58e5ac8a775051a5690ad9e" sha1="633b64348e60766d39b9858512b67542ca1975f3"/>
+	</game>
+	<game name="Misterio de la Isla de Tökland, El (2015)(ESP Soft)(ES)(Part 1 of 3)">
+		<description>Misterio de la Isla de Tökland, El (2015)(ESP Soft)(ES)(Part 1 of 3)</description>
+		<rom name="Misterio de la Isla de Tökland, El (2015)(ESP Soft)(ES)(Part 1 of 3).cdt" size="33787" crc="f8176208" md5="8c2abe6aafbcd8f48b0a86557b5336af" sha1="7e85fb71b420ff56d578453a4e6a9e07b68446d2"/>
+	</game>
+	<game name="Misterio de la Isla de Tökland, El (2015)(ESP Soft)(ES)(Part 2 of 3)">
+		<description>Misterio de la Isla de Tökland, El (2015)(ESP Soft)(ES)(Part 2 of 3)</description>
+		<rom name="Misterio de la Isla de Tökland, El (2015)(ESP Soft)(ES)(Part 2 of 3).cdt" size="32409" crc="1f3e6eab" md5="a498da01fef5edce369f3e0721147e89" sha1="cd78f000024418fd05144b38828ac0cff20058d0"/>
+	</game>
+	<game name="Misterio de la Isla de Tökland, El (2015)(ESP Soft)(ES)(Part 3 of 3)">
+		<description>Misterio de la Isla de Tökland, El (2015)(ESP Soft)(ES)(Part 3 of 3)</description>
+		<rom name="Misterio de la Isla de Tökland, El (2015)(ESP Soft)(ES)(Part 3 of 3).cdt" size="33206" crc="f5f4b0f6" md5="a7bb64e3bdab040cec850809009938ae" sha1="91683db37b6b978d1444e31277228c09d08d19d8"/>
+	</game>
+	<game name="Morris.exe (2022)(Medusa Projects)">
+		<description>Morris.exe (2022)(Medusa Projects)</description>
+		<rom name="Morris.exe (2022)(Medusa Projects).cdt" size="46881" crc="08d4e69b" md5="17b2120f514e4de4bffbeab94ffcc85a" sha1="0b1c60518e8838a9ad7e8a5d458e4f9b7dc7d600"/>
+	</game>
+	<game name="Mr. Wong (2023-04-09)(FitoSoft)">
+		<description>Mr. Wong (2023-04-09)(FitoSoft)</description>
+		<rom name="Mr. Wong (2023-04-09)(FitoSoft).cdt" size="21781" crc="e4cd7ef0" md5="01773f978a35160766a102b91cb4d3c7" sha1="a414afc4f2681e832d245b66cae6ec998ab43989"/>
+	</game>
+	<game name="Nita (2023-09-19)(haThus)">
+		<description>Nita (2023-09-19)(haThus)</description>
+		<rom name="Nita (2023-09-19)(haThus).cdt" size="48218" crc="5c84536d" md5="2009238f02b5264d6b8103cc37b66071" sha1="b7170ccb7a5ec97b6a78f078e325ef5238bf1ca6"/>
+	</game>
+	<game name="Nova Race (2022)(Chunky Panda)">
+		<description>Nova Race (2022)(Chunky Panda)</description>
+		<rom name="Nova Race (2022)(Chunky Panda).cdt" size="46571" crc="3ce53de3" md5="33ce4a4049dfdc810a0e89a56736b9b6" sha1="a0b20c4285d2cba0cadb003dd0ed54b60a209a34"/>
+	</game>
+	<game name="Oh No, My Moustache! (2022)(Strawberry Studio)">
+		<description>Oh No, My Moustache! (2022)(Strawberry Studio)</description>
+		<rom name="Oh No, My Moustache! (2022)(Strawberry Studio).cdt" size="44159" crc="c70dc954" md5="cdf321ae7c046cf91b6b413bcdba4d85" sha1="2f612ffdd2fc1e6f0e6d1e1d1e3679b734737720"/>
+	</game>
+	<game name="Oil Panic (2021-11-12)(Crazy Piri)">
+		<description>Oil Panic (2021-11-12)(Crazy Piri)</description>
+		<rom name="Oil Panic (2021-11-12)(Crazy Piri).cdt" size="72499" crc="cba90b3b" md5="4de8ce010c004f0f2caafd94999ba465" sha1="a416b00892f7aa3063a9c3b11ae539bfe3048c5b"/>
+	</game>
+	<game name="Operation Alexandra v1.1 (2018-11-14)(4Mhz)(ES)(en)">
+		<description>Operation Alexandra v1.1 (2018-11-14)(4Mhz)(ES)(en)</description>
+		<rom name="Operation Alexandra v1.1 (2018-11-14)(4Mhz)(ES)(en).cdt" size="62967" crc="bc7ef6a3" md5="8a37e2a66aa8232d09d1bfb3b2e86527" sha1="1e8ebcef0b84113ac673a665b617304249d839eb"/>
+	</game>
+	<game name="Operation Alexandra v1.1 (2018-11-14)(4Mhz)(ES)(en)[no swastikas]">
+		<description>Operation Alexandra v1.1 (2018-11-14)(4Mhz)(ES)(en)[no swastikas]</description>
+		<rom name="Operation Alexandra v1.1 (2018-11-14)(4Mhz)(ES)(en)[no swastikas].cdt" size="62964" crc="5285d9fd" md5="b6aac27106e73162d34e6ef11dc67763" sha1="f0d2ee8a780aaa33599b24f07cb082760142175b"/>
+	</game>
+	<game name="OPQA vs. QAOP - The Final Battle (2019-10-13)(Sagra, Manuel)">
+		<description>OPQA vs. QAOP - The Final Battle (2019-10-13)(Sagra, Manuel)</description>
+		<rom name="OPQA vs. QAOP - The Final Battle (2019-10-13)(Sagra, Manuel).cdt" size="47148" crc="c909a55a" md5="6e0e29ad7cd94239e94f3b11b4d54b37" sha1="99e5f8591ce6298470e387bea7320c3c8d8bd788"/>
+	</game>
+	<game name="Paintball Training (2022-12-28)(altanerus dog)(FW)">
+		<description>Paintball Training (2022-12-28)(altanerus dog)(FW)</description>
+		<rom name="Paintball Training (2022-12-28)(altanerus dog)(FW).cdt" size="57380" crc="8168192b" md5="eb7c46684468d4eb2569ddbcccd1dfd5" sha1="3d3ef1541eed1043b3940d5c9818a7dc077e90ac"/>
+	</game>
+	<game name="Paleto Jones - The Tomb of Uncle Ramon (2022-03-20)(Mananuk)">
+		<description>Paleto Jones - The Tomb of Uncle Ramon (2022-03-20)(Mananuk)</description>
+		<rom name="Paleto Jones - The Tomb of Uncle Ramon (2022-03-20)(Mananuk).cdt" size="32271" crc="db7b9721" md5="deef89eca41ff4e190e058ab589a3708" sha1="68f6e5284c458025c3273d42d58f3ee4aef76e2d"/>
+	</game>
+	<game name="Panda Raid 2 (2022-11-28)(altanerus dog)[fast]">
+		<description>Panda Raid 2 (2022-11-28)(altanerus dog)[fast]</description>
+		<rom name="Panda Raid 2 (2022-11-28)(altanerus dog)[fast].cdt" size="57380" crc="4d31df13" md5="eefe32b0f64af1c143ec04df73101fd7" sha1="33e8829c841747637c07284a6ca0f42330485e18"/>
+	</game>
+	<game name="Panda Raid 2 (2022-11-28)(altanerus dog)[slow]">
+		<description>Panda Raid 2 (2022-11-28)(altanerus dog)[slow]</description>
+		<rom name="Panda Raid 2 (2022-11-28)(altanerus dog)[slow].cdt" size="57380" crc="e58dc2e1" md5="35a82fa58abbeb7d195a46c53d88570e" sha1="0690fe5ccb6f187df3f17a6ff9914dadaa8f71f0"/>
+	</game>
+	<game name="Panda Raid 2 (2023-03-20)(altanerus dog)">
+		<description>Panda Raid 2 (2023-03-20)(altanerus dog)</description>
+		<rom name="Panda Raid 2 (2023-03-20)(altanerus dog).cdt" size="57380" crc="dc8bed45" md5="1b64f8ec38af4de60258dff7ce8d02b6" sha1="ee63c68883b410e7351dbe41631a6886b58791da"/>
+	</game>
+	<game name="Penalty Kicks (2018)(Kaffesakis, Sakis)(GR)(en)">
+		<description>Penalty Kicks (2018)(Kaffesakis, Sakis)(GR)(en)</description>
+		<rom name="Penalty Kicks (2018)(Kaffesakis, Sakis)(GR)(en).cdt" size="20311" crc="63749e48" md5="f672e9b0c4e06c0deb585f29fac63a6f" sha1="300f16f2af14b0560f18d62c4692646ea9dc33af"/>
+	</game>
+	<game name="Penguin Attack (2022)(Pat Morita Team)">
+		<description>Penguin Attack (2022)(Pat Morita Team)</description>
+		<rom name="Penguin Attack (2022)(Pat Morita Team).cdt" size="30998" crc="fff40d13" md5="f8246b0923d22952258d33bc0d8c1c65" sha1="7c15f582d919d36ce52d43a9fb5232b72e40818d"/>
+	</game>
+	<game name="Phantomas 2.0 v1.0.0 (2019-02-01)(Pakete Soft)(ES)">
+		<description>Phantomas 2.0 v1.0.0 (2019-02-01)(Pakete Soft)(ES)</description>
+		<rom name="Phantomas 2.0 v1.0.0 (2019-02-01)(Pakete Soft)(ES).cdt" size="52330" crc="aa477d78" md5="3561dc249b3519d04b8d62d1942770f8" sha1="7bdf05d2f168be320f86b6b58aa86647ca6974cb"/>
+	</game>
+	<game name="Phantomas 2.0 v1.0.0 (2019-02-01)(Pakete Soft)(ES)(en)">
+		<description>Phantomas 2.0 v1.0.0 (2019-02-01)(Pakete Soft)(ES)(en)</description>
+		<rom name="Phantomas 2.0 v1.0.0 (2019-02-01)(Pakete Soft)(ES)(en).cdt" size="52332" crc="8f7bb1d7" md5="de5a7fb340650380781b3707749787bf" sha1="6b6b13f573799813e9e63242f6e5c2f151d994ba"/>
+	</game>
+	<game name="Prevent Invasion (2022)(astarloa95)">
+		<description>Prevent Invasion (2022)(astarloa95)</description>
+		<rom name="Prevent Invasion (2022)(astarloa95).cdt" size="6043" crc="cf9c314a" md5="dec9ca69d77efaf36ddea8e0651eb05d" sha1="9e84ccf4664b3e5bd35e956d519fb26c5932d5b4"/>
+	</game>
+	<game name="Prisionero, El (2013)(Commodore Plus - ESP Soft)(ES)">
+		<description>Prisionero, El (2013)(Commodore Plus - ESP Soft)(ES)</description>
+		<rom name="Prisionero, El (2013)(Commodore Plus - ESP Soft)(ES).cdt" size="48055" crc="b79fe96a" md5="0b9c948a6bf68215a59e7c95db8dbe65" sha1="cfdb5c4d724ef88c69cf62bc2e93c8b999c2c618"/>
+	</game>
+	<game name="Prisoner, The (2013)(Commodore Plus - ESP Soft)(ES)(en)">
+		<description>Prisoner, The (2013)(Commodore Plus - ESP Soft)(ES)(en)</description>
+		<rom name="Prisoner, The (2013)(Commodore Plus - ESP Soft)(ES)(en).cdt" size="33689" crc="131576a3" md5="212b0360106f03a77d67dce8ec63ad71" sha1="582e3bac49c9be794d13f6dc7eb84db52b5708c3"/>
+	</game>
+	<game name="Profanation 2 - Escape from Abu Simbel (2017)(4Mhz)(ES)">
+		<description>Profanation 2 - Escape from Abu Simbel (2017)(4Mhz)(ES)</description>
+		<rom name="Profanation 2 - Escape from Abu Simbel (2017)(4Mhz)(ES).cdt" size="73221" crc="5534ab5a" md5="c426f40de4b904009210dbb37ac89020" sha1="0538e33f0240c4f32b07339c8d8378f7b7541f29"/>
+	</game>
+	<game name="Profanation 2 - Escape from Abu Simbel (2017)(4Mhz)(ES)(en)">
+		<description>Profanation 2 - Escape from Abu Simbel (2017)(4Mhz)(ES)(en)</description>
+		<rom name="Profanation 2 - Escape from Abu Simbel (2017)(4Mhz)(ES)(en).cdt" size="73291" crc="13845d3a" md5="526132116df66ca5bb007f92ac57484b" sha1="ac5a27b1ec59483d5c4ada086f62369118c1b286"/>
+	</game>
+	<game name="Prospector v2.0 (2024-01-22)(AYOR61)">
+		<description>Prospector v2.0 (2024-01-22)(AYOR61)</description>
+		<rom name="Prospector v2.0 (2024-01-22)(AYOR61).cdt" size="43495" crc="4a45f3ee" md5="5b8814b3aea63e52abb59dc1aa5777cb" sha1="c1ece51319a754049c120cd83599f06f3504bbc4"/>
+	</game>
+	<game name="Prospector v2.0 (2024-01-22)(AYOR61)[f turbo loader r0b1n]">
+		<description>Prospector v2.0 (2024-01-22)(AYOR61)[f turbo loader r0b1n]</description>
+		<rom name="Prospector v2.0 (2024-01-22)(AYOR61)[f turbo loader r0b1n].cdt" size="91245" crc="cb679f6a" md5="11c92c96bae11dc8d8d3aa076dc26024" sha1="ee10f7cb9a312929c31ffed8d958a2dc9d9367a0"/>
+	</game>
+	<game name="Pulzar (2024-06-03)(Snauts)(LV)">
+		<description>Pulzar (2024-06-03)(Snauts)(LV)</description>
+		<rom name="Pulzar (2024-06-03)(Snauts)(LV).cdt" size="39245" crc="f1d93bf8" md5="1974e85bb9663805bd9326448f4eff32" sha1="3855ba4ec545f4ffc217a245c0ca8374ebe4fce7"/>
+	</game>
+	<game name="Ramiro el Vampiro IV (2023-01-05)(Mojon Twins)(ES)">
+		<description>Ramiro el Vampiro IV (2023-01-05)(Mojon Twins)(ES)</description>
+		<rom name="Ramiro el Vampiro IV (2023-01-05)(Mojon Twins)(ES).cdt" size="25716" crc="9ad82547" md5="cadcb00e60eeedf8aace3a851fc68292" sha1="2a80852ddd1266a3c9ef587ae562fcfc2a9989dc"/>
+	</game>
+	<game name="Ramiro el Vampiro IV (2023-01-05)(Mojon Twins)(ES)(en)">
+		<description>Ramiro el Vampiro IV (2023-01-05)(Mojon Twins)(ES)(en)</description>
+		<rom name="Ramiro el Vampiro IV (2023-01-05)(Mojon Twins)(ES)(en).cdt" size="25733" crc="4f503288" md5="56f1c10cd9a76fa25d17f3eafa28e064" sha1="963b37e7e1dfc52aa4763af66ae67e905644afff"/>
+	</game>
+	<game name="Red Planet (2022)(salvaKantero)(ES)(en)(GPLv2)">
+		<description>Red Planet (2022)(salvaKantero)(ES)(en)(GPLv2)</description>
+		<rom name="Red Planet (2022)(salvaKantero)(ES)(en)(GPLv2).cdt" size="27199" crc="2e3f05ef" md5="e0027448231f50b21195a4c6ce86d192" sha1="08fbc7bb6719466b7672d845a65d6e5c7449e635"/>
+	</game>
+	<game name="Red Planet (2022)(salvaKantero)(ES)(GPLv2)">
+		<description>Red Planet (2022)(salvaKantero)(ES)(GPLv2)</description>
+		<rom name="Red Planet (2022)(salvaKantero)(ES)(GPLv2).cdt" size="27334" crc="c109c8a1" md5="1f064d73ea6789228f0593f58823ce8f" sha1="9a6db8e8aeeed7eae9e6e0ef7abb6298de27dca8"/>
+	</game>
+	<game name="Retro Ninja (2022)(CuartaMatriculaPPSS)">
+		<description>Retro Ninja (2022)(CuartaMatriculaPPSS)</description>
+		<rom name="Retro Ninja (2022)(CuartaMatriculaPPSS).cdt" size="32216" crc="3214644a" md5="29c92b55b69abc1fbe35a8fb83e71a5b" sha1="74e6ada31d2ec9404b85099806c0165b098db0d6"/>
+	</game>
+	<game name="Retrobloc (2022-04-09)(krappygamez)">
+		<description>Retrobloc (2022-04-09)(krappygamez)</description>
+		<rom name="Retrobloc (2022-04-09)(krappygamez).cdt" size="17633" crc="005f0c9f" md5="d397f3571607ca5db16265c9b558f2b6" sha1="5e3b4f577b134a3bc984ea1a8c16657cb860a85a"/>
+	</game>
+	<game name="Return of Traxtor, The v1.1 (2016-03-05)(Martínez, Juan J.)(PD)">
+		<description>Return of Traxtor, The v1.1 (2016-03-05)(Martínez, Juan J.)(PD)</description>
+		<rom name="Return of Traxtor, The v1.1 (2016-03-05)(Martínez, Juan J.)(PD).cdt" size="28201" crc="40be39c4" md5="e4448a2c1699b08c36968d176b4519a2" sha1="1feb13a624bc13050bd00ba483c46149c9ba3deb"/>
+	</game>
+	<game name="Revenge of Trasmoz v0 (2023-03-15)(Volcano Bytes)">
+		<description>Revenge of Trasmoz v0 (2023-03-15)(Volcano Bytes)</description>
+		<rom name="Revenge of Trasmoz v0 (2023-03-15)(Volcano Bytes).cdt" size="60625" crc="baad6008" md5="4584622ea697e6b3c2f94283f7fa99d5" sha1="9f1b22e27adbdebfd810b2fa3daee5c2e08ae8da"/>
+	</game>
+	<game name="Rigor Mortis (2023-07-27)(Churrosoft)(ES)">
+		<description>Rigor Mortis (2023-07-27)(Churrosoft)(ES)</description>
+		<rom name="Rigor Mortis (2023-07-27)(Churrosoft)(ES).cdt" size="20840" crc="a703e545" md5="752b1e6788f5691f9cbda17983320c5c" sha1="40ae878e71b7bd4e8d8415460f07e330980e924f"/>
+	</game>
+	<game name="Rigor Mortis (2023-07-27)(Churrosoft)(ES)(en)">
+		<description>Rigor Mortis (2023-07-27)(Churrosoft)(ES)(en)</description>
+		<rom name="Rigor Mortis (2023-07-27)(Churrosoft)(ES)(en).cdt" size="20894" crc="629c4586" md5="125342968dd35afade4f3778ccdafa07" sha1="d8cb5507bf85e741cce68103fb815b9f95a5c00c"/>
+	</game>
+	<game name="Rise of the Knight (2022)(rndm_project)">
+		<description>Rise of the Knight (2022)(rndm_project)</description>
+		<rom name="Rise of the Knight (2022)(rndm_project).cdt" size="35981" crc="e15b5cb5" md5="bc44287c32265a9811691b3a5272f270" sha1="806a69489758bfffaf23b4ad36cd949394b688bb"/>
+	</game>
+	<game name="Robbie Strikes Back (2017)(salvaKantero)(ES)(GPLv3)[fast]">
+		<description>Robbie Strikes Back (2017)(salvaKantero)(ES)(GPLv3)[fast]</description>
+		<rom name="Robbie Strikes Back (2017)(salvaKantero)(ES)(GPLv3)[fast].cdt" size="36127" crc="606e4bb8" md5="77e61748f64759f0ec860a49ba8e17dc" sha1="4d388291f0cfc73884ddac51b66a464b720911fa"/>
+	</game>
+	<game name="Robbie Strikes Back (2017)(salvaKantero)(ES)(GPLv3)[slow]">
+		<description>Robbie Strikes Back (2017)(salvaKantero)(ES)(GPLv3)[slow]</description>
+		<rom name="Robbie Strikes Back (2017)(salvaKantero)(ES)(GPLv3)[slow].cdt" size="56425" crc="5d0ed711" md5="4505a5075d927f900a62a479e96e143a" sha1="445429c3349089d6e5c24741a88d69ea5b18f218"/>
+	</game>
+	<game name="Roberto 'El Gorras' (2023-10-31)(altanerus dog)">
+		<description>Roberto 'El Gorras' (2023-10-31)(altanerus dog)</description>
+		<rom name="Roberto 'El Gorras' (2023-10-31)(altanerus dog).cdt" size="52736" crc="e29c63f2" md5="a33a9162fe169848710d2806ce8cc194" sha1="673d086fb1f74772cbe179784eb8d4028fe01f03"/>
+	</game>
+	<game name="Roberto 'El Gorras' v2 (2024-06-04)(altanerus dog)">
+		<description>Roberto 'El Gorras' v2 (2024-06-04)(altanerus dog)</description>
+		<rom name="Roberto 'El Gorras' v2 (2024-06-04)(altanerus dog).cdt" size="58242" crc="c70e061f" md5="5b1f20c9c7bfca8242f56cc1fcb7c9c4" sha1="00b65047f955d9a38094175b63512a0dc26c2691"/>
+	</game>
+	<game name="Ruptus (2022-02-21)(Inufuto)(JP)">
+		<description>Ruptus (2022-02-21)(Inufuto)(JP)</description>
+		<rom name="Ruptus (2022-02-21)(Inufuto)(JP).cdt" size="16457" crc="732216ee" md5="5f866da95105085ac07a420cc05b4c62" sha1="469b59186b89125cb968059300b8980c41036ca7"/>
+	</game>
+	<game name="S.H.A.R.K. (2022)(qwerty_develop)">
+		<description>S.H.A.R.K. (2022)(qwerty_develop)</description>
+		<rom name="S.H.A.R.K. (2022)(qwerty_develop).cdt" size="44116" crc="3029e9f7" md5="f6dcd0b246dacb7bc1088b4adb2867ea" sha1="9b804553a2231f0eff810c442954c29601b676ee"/>
+	</game>
+	<game name="Sapphire Palace (2022)(APSU Games)">
+		<description>Sapphire Palace (2022)(APSU Games)</description>
+		<rom name="Sapphire Palace (2022)(APSU Games).cdt" size="27194" crc="ae33dd9e" md5="b525e724d6a2dca44c46f12a49411272" sha1="305deba6f745df3a04c0044c465f14852275e531"/>
+	</game>
+	<game name="Segura River (2023-08-14)(altanerus dog)">
+		<description>Segura River (2023-08-14)(altanerus dog)</description>
+		<rom name="Segura River (2023-08-14)(altanerus dog).cdt" size="51918" crc="033b61d2" md5="d7821db9dddaa2db8d8ad739edfbdca9" sha1="084d75971a00a7d783d782b51e63fc107d3bc8f6"/>
+	</game>
+	<game name="Shadow Hunter (2022-01-18)(Mananuk)">
+		<description>Shadow Hunter (2022-01-18)(Mananuk)</description>
+		<rom name="Shadow Hunter (2022-01-18)(Mananuk).cdt" size="29803" crc="c4d9185a" md5="80925eb5c0db04f66ad5a549335cafd1" sha1="e228084dd140ed85b3df7e428cb9afbef2b55731"/>
+	</game>
+	<game name="Shadow Maze CR (2023-12-06)(Rayon Studio)">
+		<description>Shadow Maze CR (2023-12-06)(Rayon Studio)</description>
+		<rom name="Shadow Maze CR (2023-12-06)(Rayon Studio).cdt" size="52767" crc="e09fea26" md5="3f87228983b5738cc0f0e2488b76992b" sha1="69bfd3909415e356d5ada980680ac0b5e1fc61c8"/>
+	</game>
+	<game name="Shadow Maze CR (2023-12-06)(Rayon Studio)[f OTLA Charger r0b1n]">
+		<description>Shadow Maze CR (2023-12-06)(Rayon Studio)[f OTLA Charger r0b1n]</description>
+		<rom name="Shadow Maze CR (2023-12-06)(Rayon Studio)[f OTLA Charger r0b1n].cdt" size="99157" crc="30da97e9" md5="1827f4521e9806a58c3c0f8f04c0a2bf" sha1="3a32f9378c47b0331f64db506782485e0cfb93f9"/>
+	</game>
+	<game name="Siemb Chronicles - Arkos the Traitor Part A - The Fall of Arkos (2021)(ESP Soft)(ES)(en)">
+		<description>Siemb Chronicles - Arkos the Traitor Part A - The Fall of Arkos (2021)(ESP Soft)(ES)(en)</description>
+		<rom name="Siemb Chronicles - Arkos the Traitor Part A - The Fall of Arkos (2021)(ESP Soft)(ES)(en).cdt" size="44708" crc="8872b4a0" md5="6ef01dcb7acea28d450bba791bed356d" sha1="5cc8b3baa3eab2072dfb50958b6a803642005096"/>
+	</game>
+	<game name="Siemb Chronicles - Arkos the Traitor Part B - Escape from Hypsis (2021)(ESP Soft)(ES)(en)">
+		<description>Siemb Chronicles - Arkos the Traitor Part B - Escape from Hypsis (2021)(ESP Soft)(ES)(en)</description>
+		<rom name="Siemb Chronicles - Arkos the Traitor Part B - Escape from Hypsis (2021)(ESP Soft)(ES)(en).cdt" size="44651" crc="688e5a19" md5="d67e561032605615572a7d71c928fef5" sha1="b244f7208fced328146a5a915be82312109f956b"/>
+	</game>
+	<game name="Snake v1.0 (2021-02-06)(Berge, Edouard)">
+		<description>Snake v1.0 (2021-02-06)(Berge, Edouard)</description>
+		<rom name="Snake v1.0 (2021-02-06)(Berge, Edouard).cdt" size="2125" crc="0bdcd394" md5="cdcbe1a096a1d29ba14468c40db6807d" sha1="5f7552926263c7df109fe9c3e341fdef49763e76"/>
+	</game>
+	<game name="Snake v1.0 (2021-02-07)(Berge, Edouard)">
+		<description>Snake v1.0 (2021-02-07)(Berge, Edouard)</description>
+		<rom name="Snake v1.0 (2021-02-07)(Berge, Edouard).cdt" size="2125" crc="3116a589" md5="da7ac04450fb368ff5fcccf2f247daa9" sha1="37820f2a694d6d800f1a66c7d8535b1657a71e77"/>
+	</game>
+	<game name="Sorcerers (2020)(salvaKantero)(ES)(GPLv3)">
+		<description>Sorcerers (2020)(salvaKantero)(ES)(GPLv3)</description>
+		<rom name="Sorcerers (2020)(salvaKantero)(ES)(GPLv3).cdt" size="51478" crc="59ed69ec" md5="31be25b30026b18d6dc425387a5245c0" sha1="e7862031722cd5a1a02a89a2ee36e7383339f088"/>
+	</game>
+	<game name="Space Avocados (2022)(Ocacho Games)">
+		<description>Space Avocados (2022)(Ocacho Games)</description>
+		<rom name="Space Avocados (2022)(Ocacho Games).cdt" size="37703" crc="ddb983aa" md5="ae1922096d3100a140611fc733c50097" sha1="a7e961deb33fd129569ce3630a6acf1ca112a6f5"/>
+	</game>
+	<game name="Space Cowboy in Lost Planet (2020-11-15)(Voxel Tower)">
+		<description>Space Cowboy in Lost Planet (2020-11-15)(Voxel Tower)</description>
+		<rom name="Space Cowboy in Lost Planet (2020-11-15)(Voxel Tower).cdt" size="59851" crc="5afbfa18" md5="412423ac072f7f5fab6660c312b8a8be" sha1="790b961e86045a508864e0de51f92125697a688d"/>
+	</game>
+	<game name="Space Hockey v1.0.0 (2023-07-01)(Moore, Dave)(GPLv2)">
+		<description>Space Hockey v1.0.0 (2023-07-01)(Moore, Dave)(GPLv2)</description>
+		<rom name="Space Hockey v1.0.0 (2023-07-01)(Moore, Dave)(GPLv2).cdt" size="2947" crc="d50715bf" md5="7215bf490fe8c82e9eba903f38170926" sha1="19cb757eed2223ded37c9fa78b49d90ff35d1d25"/>
+	</game>
+	<game name="Space Hockey v1.0.1 (2023-07-04)(Moore, Dave)(GPLv2)">
+		<description>Space Hockey v1.0.1 (2023-07-04)(Moore, Dave)(GPLv2)</description>
+		<rom name="Space Hockey v1.0.1 (2023-07-04)(Moore, Dave)(GPLv2).cdt" size="3205" crc="11a56b5c" md5="b2b074c9d223ad939c35842ddec35028" sha1="8875d57c4942575fdd822f6cc19eedbdef20df5d"/>
+	</game>
+	<game name="Space Panic (2022-03-10)(FitoSoft)">
+		<description>Space Panic (2022-03-10)(FitoSoft)</description>
+		<rom name="Space Panic (2022-03-10)(FitoSoft).cdt" size="34743" crc="8410700f" md5="c024a57fb12bf8dfdc720fcf31949521" sha1="1f3d4f8675e27a0004a574c24bb61c0aba93266b"/>
+	</game>
+	<game name="Space Pest Control (2015-10-31)(Martínez, Juan J.)(PD)">
+		<description>Space Pest Control (2015-10-31)(Martínez, Juan J.)(PD)</description>
+		<rom name="Space Pest Control (2015-10-31)(Martínez, Juan J.)(PD).cdt" size="30037" crc="e42d5f4a" md5="1256726c66f6a67edb820fe6d6d5f5fd" sha1="4d17941da46bf571dbb46c80115b74c6fdc9fd8f"/>
+	</game>
+	<game name="Space Rescue in Jupiter (2023-09-30)(altanerus dog)">
+		<description>Space Rescue in Jupiter (2023-09-30)(altanerus dog)</description>
+		<rom name="Space Rescue in Jupiter (2023-09-30)(altanerus dog).cdt" size="33858" crc="1bb69558" md5="870cfd69258c9019438e7edfc4622ee3" sha1="422265cb97d8b85789452a93996698767ba44d00"/>
+	</game>
+	<game name="Spaceman Kerl On A Rescue Mission v1.01 (2022-09-18)(FitoSoft)(es)">
+		<description>Spaceman Kerl On A Rescue Mission v1.01 (2022-09-18)(FitoSoft)(es)</description>
+		<rom name="Spaceman Kerl On A Rescue Mission v1.01 (2022-09-18)(FitoSoft)(es).cdt" size="37236" crc="be648dd1" md5="f38ceda1e196f07026b387bcd871046b" sha1="4b72678f88b4cc85d5105ddadabb343d9790675b"/>
+	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)[mode2]">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)[mode2]</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio)[mode2].cdt" size="20899" crc="f5b1aa2e" md5="c63961ca3273db30782623ebd8f09c82" sha1="ebe4274dca2bb36ddeb1ef48384a6a66f205d0ad"/>
+	</game>
+	<game name="Stinger (2023-10-08)(Caruso, Fabrizio)[XXX]">
+		<description>Stinger (2023-10-08)(Caruso, Fabrizio)[XXX]</description>
+		<rom name="Stinger (2023-10-08)(Caruso, Fabrizio)[XXX].cdt" size="21987" crc="56c43365" md5="6eb6841de253c8ce76f1dbc12d23f41e" sha1="918bf1161c4737846db84572091d7cab0f7860cf"/>
+	</game>
+	<game name="Stroopie (2020-10-17)(Kaffesakis, Sakis)(GR)(en)">
+		<description>Stroopie (2020-10-17)(Kaffesakis, Sakis)(GR)(en)</description>
+		<rom name="Stroopie (2020-10-17)(Kaffesakis, Sakis)(GR)(en).cdt" size="27163" crc="494b33c6" md5="ab51af36e07b7199ba982a68ab398f77" sha1="16ce36ca954feb24a6eba10af7593b7564b9df8d"/>
+	</game>
+	<game name="Tenebra (2022-12-07)(Haplo)(AU)">
+		<description>Tenebra (2022-12-07)(Haplo)(AU)</description>
+		<rom name="Tenebra (2022-12-07)(Haplo)(AU).cdt" size="16715" crc="6be25bcb" md5="c4dbfcc665eafaf2162296539bd7cd02" sha1="9ada702c9aeebadcd4e3e9357632c22b0c31e085"/>
+	</game>
+	<game name="Tenebra 2 (2023-11-07)(Haplo)">
+		<description>Tenebra 2 (2023-11-07)(Haplo)</description>
+		<rom name="Tenebra 2 (2023-11-07)(Haplo).cdt" size="26743" crc="fc63b8d4" md5="178e20e1168720111b6dd13263278e15" sha1="24587c2b06ffd0d460d64284f1bb4f67ab1d492e"/>
+	</game>
+	<game name="Teodoro no Sabe Volar (2010)(RetroWorks)(ES)(en)[aka Teodoro Can't Fly]">
+		<description>Teodoro no Sabe Volar (2010)(RetroWorks)(ES)(en)[aka Teodoro Can't Fly]</description>
+		<rom name="Teodoro no Sabe Volar (2010)(RetroWorks)(ES)(en)[aka Teodoro Can't Fly].cdt" size="49493" crc="0b63bd38" md5="5b2981ef3152691f8ba9912af885e090" sha1="a849d8dccf9d16c9d6ecffab7080eaf38dc46ee8"/>
+	</game>
+	<game name="Teodoro no Sabe Volar (2010)(RetroWorks)(ES)[aka Teodoro Can't Fly]">
+		<description>Teodoro no Sabe Volar (2010)(RetroWorks)(ES)[aka Teodoro Can't Fly]</description>
+		<rom name="Teodoro no Sabe Volar (2010)(RetroWorks)(ES)[aka Teodoro Can't Fly].cdt" size="49558" crc="2ee98407" md5="8799bd5318f8eb24b5f4e610132a742e" sha1="55a1271e5037c3c624986a3eb4e0541cbce53180"/>
+	</game>
+	<game name="Tesoro Perdido de Cuauhtémoc, El v1.0 (2017)(4Mhz)(ES)">
+		<description>Tesoro Perdido de Cuauhtémoc, El v1.0 (2017)(4Mhz)(ES)</description>
+		<rom name="Tesoro Perdido de Cuauhtémoc, El v1.0 (2017)(4Mhz)(ES).cdt" size="96116" crc="fc603128" md5="55c7a7084024c98e3181d827f9e54911" sha1="ddb33856cd695e09a57f996d893a7a6a50f70cb9"/>
+	</game>
+	<game name="Tiny Deathmatch (2022)(Alcauscer, Francesc)">
+		<description>Tiny Deathmatch (2022)(Alcauscer, Francesc)</description>
+		<rom name="Tiny Deathmatch (2022)(Alcauscer, Francesc).cdt" size="45377" crc="ff98b43d" md5="da053833057148cdd63f09c1799260c4" sha1="abd7da75e3bef7ed06d9b8c29cdb20f5bf99529f"/>
+	</game>
+	<game name="Tiny Deathmatch (2022-11-14)(Alcauscer, Francesc)">
+		<description>Tiny Deathmatch (2022-11-14)(Alcauscer, Francesc)</description>
+		<rom name="Tiny Deathmatch (2022-11-14)(Alcauscer, Francesc).cdt" size="45377" crc="b1a5ebf0" md5="60f2f951aef4bb82f23c5bb797b7a508" sha1="f966d8cae50d156f7ecf5adf8a55cebf38c6bd32"/>
+	</game>
+	<game name="Torreoscura (2020)(Commodore Plus - ESP Soft)(ES)(Tape 1 of 2)">
+		<description>Torreoscura (2020)(Commodore Plus - ESP Soft)(ES)(Tape 1 of 2)</description>
+		<rom name="Torreoscura (2020)(Commodore Plus - ESP Soft)(ES)(Tape 1 of 2).cdt" size="78577" crc="747f0a26" md5="ab91aa3c49915cebe14606a4ee04ad1e" sha1="f3c807d21f916742e943bf5c997c9a10767377e3"/>
+	</game>
+	<game name="Torreoscura (2020)(Commodore Plus - ESP Soft)(ES)(Tape 2 of 2)">
+		<description>Torreoscura (2020)(Commodore Plus - ESP Soft)(ES)(Tape 2 of 2)</description>
+		<rom name="Torreoscura (2020)(Commodore Plus - ESP Soft)(ES)(Tape 2 of 2).cdt" size="66610" crc="412f62d2" md5="a9f8f508c59f69dc7714ffef13ab1b52" sha1="b40514681fc1ea33f7de0782fc69df702608eb06"/>
+	</game>
+	<game name="Totems - Columns CPC Two - Enhanced Edition (2020)(Bitmap Soft)(GB)">
+		<description>Totems - Columns CPC Two - Enhanced Edition (2020)(Bitmap Soft)(GB)</description>
+		<rom name="Totems - Columns CPC Two - Enhanced Edition (2020)(Bitmap Soft)(GB).cdt" size="78542" crc="e06c5cc6" md5="7df949c19e4a5d6220632b2d418342be" sha1="2d1850be789023b2970338b5f7bcb905b07141fe"/>
+	</game>
+	<game name="Transylvanian Castle v1.3 (2022-10-07)(FitoSoft)(es)">
+		<description>Transylvanian Castle v1.3 (2022-10-07)(FitoSoft)(es)</description>
+		<rom name="Transylvanian Castle v1.3 (2022-10-07)(FitoSoft)(es).cdt" size="26802" crc="1d3f3ecb" md5="0643b9782f7fc89bc6aba48e0a29a41f" sha1="37513b0ed63c940f8b0bc30736556bbf40c91370"/>
+	</game>
+	<game name="Trasgo (2024-06-21)(21bloques)">
+		<description>Trasgo (2024-06-21)(21bloques)</description>
+		<rom name="Trasgo (2024-06-21)(21bloques).cdt" size="68515" crc="4368e869" md5="61f1f30ccbedd1af5495ecf2aa1887da" sha1="53839c8f680ef2a697b06251b58fdddcb2bab17c"/>
+	</game>
+	<game name="Try to Run Away!! v1.5 (2020-10-27)(LWS Soft)">
+		<description>Try to Run Away!! v1.5 (2020-10-27)(LWS Soft)</description>
+		<rom name="Try to Run Away!! v1.5 (2020-10-27)(LWS Soft).cdt" size="72967" crc="32d1c19d" md5="4d4b52e8e749343876fd889745be0f50" sha1="3d5a0ea54e016d171ac30bed118697aa339eaa8c"/>
+	</game>
+	<game name="Try to Run Away!! v1.5 (2020-10-27)(LWS Soft)(es)">
+		<description>Try to Run Away!! v1.5 (2020-10-27)(LWS Soft)(es)</description>
+		<rom name="Try to Run Away!! v1.5 (2020-10-27)(LWS Soft)(es).cdt" size="63648" crc="0b0023cb" md5="ccb8af7f46d5b6ebd502b1970e5cce7f" sha1="8096cf8bafefba8c495de135eaea413fbc21b352"/>
+	</game>
+	<game name="UROK (2024-07-24)(Tartessos Games)(es)(Tape 1 of 3)">
+		<description>UROK (2024-07-24)(Tartessos Games)(es)(Tape 1 of 3)</description>
+		<rom name="UROK (2024-07-24)(Tartessos Games)(es)(Tape 1 of 3).cdt" size="27510" crc="a5f5a155" md5="8fdac2e4eea996d12ede1b51cfbabbe9" sha1="fa8630086b252c8060b11e17f297b6d8ae3599e8"/>
+	</game>
+	<game name="UROK (2024-07-24)(Tartessos Games)(es)(Tape 2 of 3)">
+		<description>UROK (2024-07-24)(Tartessos Games)(es)(Tape 2 of 3)</description>
+		<rom name="UROK (2024-07-24)(Tartessos Games)(es)(Tape 2 of 3).cdt" size="21108" crc="b5cfa7d6" md5="0ecfb931906088fbdd488ae578d3db1f" sha1="aa2dd0e47ff8b121df3b4ec45749c2017889ef3d"/>
+	</game>
+	<game name="UROK (2024-07-24)(Tartessos Games)(es)(Tape 3 of 3)">
+		<description>UROK (2024-07-24)(Tartessos Games)(es)(Tape 3 of 3)</description>
+		<rom name="UROK (2024-07-24)(Tartessos Games)(es)(Tape 3 of 3).cdt" size="20913" crc="ad2157f2" md5="c04581b0a0dd58c138e237eb24b892c9" sha1="024a11f15336306fc4fc38d29c743a603978a5e7"/>
+	</game>
+	<game name="UROK (2024-07-24)(Tartessos Games)(Tape 1 of 3)">
+		<description>UROK (2024-07-24)(Tartessos Games)(Tape 1 of 3)</description>
+		<rom name="UROK (2024-07-24)(Tartessos Games)(Tape 1 of 3).cdt" size="27311" crc="997b6288" md5="a44625532ff738e0ca1544d44d49fdbe" sha1="c7089a5bf4a37e237dd3a4035e621ec4db886488"/>
+	</game>
+	<game name="UROK (2024-07-24)(Tartessos Games)(Tape 2 of 3)">
+		<description>UROK (2024-07-24)(Tartessos Games)(Tape 2 of 3)</description>
+		<rom name="UROK (2024-07-24)(Tartessos Games)(Tape 2 of 3).cdt" size="21037" crc="ed87bf21" md5="e4ccfef8d30a64232e21901cdcdc6713" sha1="5ad58b6be4d16265b27037cdf77f90cb16babde4"/>
+	</game>
+	<game name="UROK (2024-07-24)(Tartessos Games)(Tape 3 of 3)">
+		<description>UROK (2024-07-24)(Tartessos Games)(Tape 3 of 3)</description>
+		<rom name="UROK (2024-07-24)(Tartessos Games)(Tape 3 of 3).cdt" size="20866" crc="5633cad5" md5="04dd6aeb16efa12982cfafdc3c8f5a89" sha1="eb32313ac90c78b5e16e88b10895ed71b48d33b9"/>
+	</game>
+	<game name="Wormhole, The (2022)(Zilog Games)">
+		<description>Wormhole, The (2022)(Zilog Games)</description>
+		<rom name="Wormhole, The (2022)(Zilog Games).cdt" size="51448" crc="fcd822a5" md5="a32e132f34a0e3fe5464f3cd5087b850" sha1="7e97cc0e31065c082e0cdb0cd39697f7f013d9ff"/>
+	</game>
+	<game name="Wrecking Ball (2021-12-03)(Alcauscer, Francesc)">
+		<description>Wrecking Ball (2021-12-03)(Alcauscer, Francesc)</description>
+		<rom name="Wrecking Ball (2021-12-03)(Alcauscer, Francesc).cdt" size="48317" crc="5d5d0b49" md5="9084a16bba4736f9d5f23c151ce37f88" sha1="cd35689f14d021193c9cb30a335901a3e4115dd2"/>
+	</game>
+	<game name="Zjetpack (2022)(Z80Enjoyers)">
+		<description>Zjetpack (2022)(Z80Enjoyers)</description>
+		<rom name="Zjetpack (2022)(Z80Enjoyers).cdt" size="32325" crc="ef5e7a57" md5="fafd12acb5d06e06283944360af3a56c" sha1="3faf3d273acce1dee0c71ddc5741868bdfa5bb55"/>
+	</game>
+	<game name="Zlalox (2024-04-20)(Snauts)(LV)">
+		<description>Zlalox (2024-04-20)(Snauts)(LV)</description>
+		<rom name="Zlalox (2024-04-20)(Snauts)(LV).cdt" size="19887" crc="4e8ccf1a" md5="c51e8904e37e14e6521e91d8b54ff6f2" sha1="c13d1bee840070fd6da36978a05d7121282ce41f"/>
+	</game>
+	<game name="Zollowers (2022)(Blue Panda Studio)">
+		<description>Zollowers (2022)(Blue Panda Studio)</description>
+		<rom name="Zollowers (2022)(Blue Panda Studio).cdt" size="46208" crc="1a16319b" md5="dc62dcdb716034dff3fd622894081182" sha1="49b37e1ed0a57b30551adac1cf35ac440d808e3d"/>
+	</game>
+	<game name="Zombie Disco (2022)(Pandemix Studio)">
+		<description>Zombie Disco (2022)(Pandemix Studio)</description>
+		<rom name="Zombie Disco (2022)(Pandemix Studio).cdt" size="38186" crc="9c1bc57c" md5="4056982a79f9928fec97471ed0b99a38" sha1="e897ea356adbe53e5d3246ea7beb8dbaa20df7ce"/>
+	</game>
+</datafile>

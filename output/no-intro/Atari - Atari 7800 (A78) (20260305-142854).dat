@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>74</id>
+		<name>Atari - Atari 7800 (A78)</name>
+		<description>Atari - Atari 7800 (A78)</description>
+		<version>20260305-142854</version>
+		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Hat Trick (USA) (Beta) (1987-05-01)" id="0261" cloneofid="0046">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Hat Trick (USA) (Beta) (1987-05-01)</description>
+		<rom name="Hat Trick (USA) (Beta) (1987-05-01).a78" size="49280" crc="2d07ccca" md5="fc06fb1cfa303d0969edcebd78e297b0" sha1="c43d7970573dc3cae9221f0902f94dd9280ee377" sha256="09812961547b6a5b26b766aecada10d5606234ab5c1480fda82ddf927fa4d1a6"/>
+	</game>
+	<game name="Impossible Mission (USA) (Rev 1) (Proto)" id="0262" cloneofid="0050">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Impossible Mission (USA) (Rev 1) (Proto)</description>
+		<rom name="Impossible Mission (USA) (Rev 1) (Proto).a78" size="131200" crc="a7a4adb5" md5="3fbb7c2e1f2f40140db285636dcf6928" sha1="2ae7d2fa3f0b6682491abbd773c43982a68249e1" sha256="8a266a115444f3ab26e77824ec44bb4c3c78b42a2959983b3eb236dfc424703c"/>
+	</game>
+</datafile>

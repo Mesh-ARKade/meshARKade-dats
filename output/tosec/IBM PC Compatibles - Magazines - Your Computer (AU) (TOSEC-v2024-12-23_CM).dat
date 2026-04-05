@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - Your Computer (AU)</name>
+		<description>IBM PC Compatibles - Magazines - Your Computer (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Basic for Birdwatchers Part 1 (1986-01)(Federal Publishing Company)(AU)[suppliment 1986-01]">
+		<description>Basic for Birdwatchers Part 1 (1986-01)(Federal Publishing Company)(AU)[suppliment 1986-01]</description>
+		<rom name="Basic for Birdwatchers Part 1 (1986-01)(Federal Publishing Company)(AU)[suppliment 1986-01].pdf" size="53724460" crc="b74edb70" md5="cb1d3cba81ed3515ee885881e0f8d1ba" sha1="b103e0298c163d3b32ef5714f4fa13affa2dea84"/>
+	</game>
+	<game name="Basic for Birdwatchers Part 2 (1986-06)(Federal Publishing Company)(AU)[suppliment 1986-06]">
+		<description>Basic for Birdwatchers Part 2 (1986-06)(Federal Publishing Company)(AU)[suppliment 1986-06]</description>
+		<rom name="Basic for Birdwatchers Part 2 (1986-06)(Federal Publishing Company)(AU)[suppliment 1986-06].pdf" size="32499619" crc="c2319f4a" md5="e696613d73e9de90f43f903dadc1b108" sha1="1fe743ec37ff17a1ebc1dc403a9224fcf311c09e"/>
+	</game>
+	<game name="Bonus Book of Priceless Programs (1985-05)(Federal Publishing Company)(AU)[suppliment 1985-05]">
+		<description>Bonus Book of Priceless Programs (1985-05)(Federal Publishing Company)(AU)[suppliment 1985-05]</description>
+		<rom name="Bonus Book of Priceless Programs (1985-05)(Federal Publishing Company)(AU)[suppliment 1985-05].pdf" size="44448583" crc="1848c424" md5="2a31e2acd5436213410f65650f26d2e6" sha1="d82b2bc0ea4882e617dd149643587d3fede214e0"/>
+	</game>
+	<game name="Computers In Education (1984)(Federal Publishing Company)(AU)">
+		<description>Computers In Education (1984)(Federal Publishing Company)(AU)</description>
+		<rom name="Computers In Education (1984)(Federal Publishing Company)(AU).pdf" size="204716430" crc="b9c64c56" md5="5c8b2115c817ff467f89aa91e1a1da3c" sha1="4ee5bd2036f94a5f249ce99251d625ec0c2c4169"/>
+	</game>
+	<game name="Learning With Your Computer - No 3 (1992)(Federal Publishing Company)(AU)">
+		<description>Learning With Your Computer - No 3 (1992)(Federal Publishing Company)(AU)</description>
+		<rom name="Learning With Your Computer - No 3 (1992)(Federal Publishing Company)(AU).pdf" size="87021048" crc="b890f6be" md5="fad81ffe0228cfe2570d16a831cc3aa1" sha1="5afc86dab1c0e059fef8b39a2dba4b6df23296b9"/>
+	</game>
+	<game name="Start Computing (1984)(Federal Publishing Company)(AU)">
+		<description>Start Computing (1984)(Federal Publishing Company)(AU)</description>
+		<rom name="Start Computing (1984)(Federal Publishing Company)(AU).pdf" size="162760452" crc="0734c432" md5="06244e3093018866a55716817ce289d2" sha1="48a46e9da8fa4fdcc8614cc48a9900aa4fa83fe4"/>
+	</game>
+	<game name="Your Business Computer (1984-04)(Federal Publishing Company)(AU)[suppliment Vol 03 No 09]">
+		<description>Your Business Computer (1984-04)(Federal Publishing Company)(AU)[suppliment Vol 03 No 09]</description>
+		<rom name="Your Business Computer (1984-04)(Federal Publishing Company)(AU)[suppliment Vol 03 No 09].pdf" size="84817989" crc="37181e7f" md5="40c79d05b929f39a24b9c538c1c27fea" sha1="58f2e10b1b28cf803a51739907a2109d401776d4"/>
+	</game>
+	<game name="Your Computer (1983-08)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1983-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1983-08)(Federal Publishing Company)(AU).pdf" size="231100473" crc="089a59a7" md5="b870c7293fead6b053ffaebb0c334251" sha1="a5c931edb5144e41421af41f4ab76eafa47c004a"/>
+	</game>
+	<game name="Your Computer (1984-08)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1984-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1984-08)(Federal Publishing Company)(AU).pdf" size="237796415" crc="d4d7348a" md5="e3280bd0ddb12289d464e05c7de2ee18" sha1="8081db3a078f2cfd5e1bd07f6da587fc7692e6a9"/>
+	</game>
+	<game name="Your Computer (1984-09)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1984-09)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1984-09)(Federal Publishing Company)(AU).pdf" size="235078445" crc="a360fad9" md5="6f19aaff38de09b00c098599f606b6ce" sha1="688488520f138e604181daff0b895e372167d498"/>
+	</game>
+	<game name="Your Computer (1984-10)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1984-10)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1984-10)(Federal Publishing Company)(AU).pdf" size="172843738" crc="4fb14dc8" md5="0a5cd092ea63b3649982c787a428acb8" sha1="74f8bed9885bf271bc4c38b3f3439709165b2a56"/>
+	</game>
+	<game name="Your Computer (1984-11)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1984-11)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1984-11)(Federal Publishing Company)(AU).pdf" size="225493925" crc="92f0ba24" md5="3088df5540b6ecf49e7c8962f7d450eb" sha1="07a82aa42950e06a513435d547658073f94043d9"/>
+	</game>
+	<game name="Your Computer (1984-12)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1984-12)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1984-12)(Federal Publishing Company)(AU).pdf" size="184683000" crc="342dcb4b" md5="5244253f83143d81ca139f52a24cf5c2" sha1="a00be667e5cc464ddc2916c87d9ddd355ce8b05c"/>
+	</game>
+	<game name="Your Computer (1985-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-01)(Federal Publishing Company)(AU).pdf" size="149801221" crc="79d7daf2" md5="9cff2a255f1dfd0a96df73c3bf55bb83" sha1="c1965dd794e3d4f8bbc48c6dafe13516d3720c8c"/>
+	</game>
+	<game name="Your Computer (1985-02)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-02)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-02)(Federal Publishing Company)(AU).pdf" size="160373458" crc="e029910a" md5="86ff41aa7f2d69eb5fcbcc517b3e3708" sha1="70b9d86840b216e7daf33363c65c8c5493ef76e7"/>
+	</game>
+	<game name="Your Computer (1985-03)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-03)(Federal Publishing Company)(AU).pdf" size="142565299" crc="a75088e7" md5="7d077afd0a0c63db2f5a37607f34ff15" sha1="490787df98dd43e7857614285182acf1c1a4ff33"/>
+	</game>
+	<game name="Your Computer (1985-04)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-04)(Federal Publishing Company)(AU).pdf" size="273108978" crc="6c337456" md5="0466c8b916e921c7c36df713537d2c63" sha1="c68189d3f6fdba3f772cda315dbd30c95ed1f233"/>
+	</game>
+	<game name="Your Computer (1985-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-05)(Federal Publishing Company)(AU).pdf" size="168365231" crc="009117a4" md5="e63c981163cd07c53b31666ff858584d" sha1="5bdba011e12cf9599a1e2f9480dbf93aba4ef9df"/>
+	</game>
+	<game name="Your Computer (1985-06)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-06)(Federal Publishing Company)(AU).pdf" size="313927852" crc="d2363fd9" md5="f8a05a333470c25fb37cb5148f1d2296" sha1="20a5ff0407553adf1912e8e4d2222e7b1efb30e3"/>
+	</game>
+	<game name="Your Computer (1985-07)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-07)(Federal Publishing Company)(AU).pdf" size="191615725" crc="c4753a94" md5="79835841a43e4ab1a794a6b7c4d5529d" sha1="7d5e09f8841bbe4142b06fb3dfe9ca9f9f2cd2ed"/>
+	</game>
+	<game name="Your Computer (1985-08)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-08)(Federal Publishing Company)(AU).pdf" size="212415152" crc="5f23503b" md5="e83be59eceafdda6eccde1998eac2af8" sha1="8644175f819945cfa8a5ca071c44e1b8d7b82342"/>
+	</game>
+	<game name="Your Computer (1985-09)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-09)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-09)(Federal Publishing Company)(AU).pdf" size="220603841" crc="ecfcee2c" md5="2441b677c20e4cda9f9d34407de83d53" sha1="e0044e31edc1f1211ad30460657d4ecd098658c7"/>
+	</game>
+	<game name="Your Computer (1985-10)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-10)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-10)(Federal Publishing Company)(AU).pdf" size="217604494" crc="3d99f6b2" md5="16aaca424a3e0079bf14a4403ed64d01" sha1="e612aa93200061ea760af846510fcc84aaccf86c"/>
+	</game>
+	<game name="Your Computer (1985-11)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-11)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-11)(Federal Publishing Company)(AU).pdf" size="208880847" crc="18e715cd" md5="4dea211888fcd29afdfd17b53eb92bd2" sha1="30e50c9138cdcbdfb0a33264ec9c7765ba70310b"/>
+	</game>
+	<game name="Your Computer (1985-12)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1985-12)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1985-12)(Federal Publishing Company)(AU).pdf" size="197879930" crc="466afb0e" md5="54b9b7ad1c606bb0e14046b58980661a" sha1="3b64550c61b7bd9b6f6e2d78cfaa1021c723797b"/>
+	</game>
+	<game name="Your Computer (1986-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-01)(Federal Publishing Company)(AU).pdf" size="315286414" crc="4c90a4b1" md5="fcd3d2148b39459842ebb732ec696452" sha1="285c2c1d98e9aa3df7efb53d6207e73be0970c84"/>
+	</game>
+	<game name="Your Computer (1986-01)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer (1986-01)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer (1986-01)(Federal Publishing Company)(AU)[a].pdf" size="238661623" crc="4f8cb798" md5="7ccb2d8fa3179fb9a5fa8da3b550b9ad" sha1="a188f1a8260b77003681b0d9e1b2c9077093d3e5"/>
+	</game>
+	<game name="Your Computer (1986-02)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-02)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-02)(Federal Publishing Company)(AU).pdf" size="340257527" crc="d7fc2001" md5="d4b08b97b9f5697971cfa89d8939b7fb" sha1="d0d0827d645615cd593fcbf232eaed2292a6ce67"/>
+	</game>
+	<game name="Your Computer (1986-03)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-03)(Federal Publishing Company)(AU).pdf" size="309822802" crc="8780f0ca" md5="3b60d0124b70cddc99f3a64557314150" sha1="020d3d4c74dd68a48d6e1c6dac2c3517886a6b09"/>
+	</game>
+	<game name="Your Computer (1986-04)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-04)(Federal Publishing Company)(AU).pdf" size="213098236" crc="71fcbf59" md5="25265778446661aabb1ced1daa30b6fb" sha1="092021ff5f9b123c36113602894e47238e2cdf01"/>
+	</game>
+	<game name="Your Computer (1986-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-05)(Federal Publishing Company)(AU).pdf" size="200736368" crc="36a0b783" md5="739da5a2ca049a46be07d39d98e140dc" sha1="fab7a883465280a5b08504780abfa302850193af"/>
+	</game>
+	<game name="Your Computer (1986-06)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-06)(Federal Publishing Company)(AU).pdf" size="313325734" crc="5ebcb8e0" md5="3b9d24c34e4495789a216263b7fbef57" sha1="9c90a210858f5e74a00f73567199973df3bfa21e"/>
+	</game>
+	<game name="Your Computer (1986-07)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-07)(Federal Publishing Company)(AU).pdf" size="340425338" crc="41ddefb8" md5="5091768e992ea01a2768bfbdcb8330e1" sha1="c36b7fe838b95da7208a3f0aab67c42e3e91074f"/>
+	</game>
+	<game name="Your Computer (1986-08)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-08)(Federal Publishing Company)(AU).pdf" size="244629745" crc="dcdb0475" md5="fc96264bace978da0219651e45ab7948" sha1="f0d2ab7b9ece6cc7b928d2bf986a053ac1a6cae0"/>
+	</game>
+	<game name="Your Computer (1986-09)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-09)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-09)(Federal Publishing Company)(AU).pdf" size="177588862" crc="ac38c05e" md5="97cbeb7118b1b2cf9049207f2b0d3baf" sha1="60b39ce08b0840068029170a632efaca7166ae16"/>
+	</game>
+	<game name="Your Computer (1986-10)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-10)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-10)(Federal Publishing Company)(AU).pdf" size="154236517" crc="2f212c36" md5="80efc061bcb1e75091d05444c46da656" sha1="b294a80d2aa04deca5decf12840bde5a3b22d5f1"/>
+	</game>
+	<game name="Your Computer (1986-11)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-11)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-11)(Federal Publishing Company)(AU).pdf" size="141992876" crc="a053cf6f" md5="2e2f5c55fcdf17c758202afee34f8eb4" sha1="bbeddc0752d8f04393ac5b39dff27c1b03362c91"/>
+	</game>
+	<game name="Your Computer (1986-12)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1986-12)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1986-12)(Federal Publishing Company)(AU).pdf" size="245885573" crc="752ccf17" md5="532e0e1f362479856d2e199f2fb1a5a6" sha1="0ce08994b2d77ac866478000fd39a8a77b07d9d7"/>
+	</game>
+	<game name="Your Computer (1987-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1987-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1987-01)(Federal Publishing Company)(AU).pdf" size="294611686" crc="ecf40d9d" md5="c9f201eeff0e67b952d9bcaf0f03204d" sha1="da4e4f4b83ed7dec34af65f318f16ddaeecb8f48"/>
+	</game>
+	<game name="Your Computer (1987-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1987-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1987-05)(Federal Publishing Company)(AU).pdf" size="331572366" crc="ab4c858b" md5="7e19afcc5238131c36b81186ca84ce42" sha1="8ff75eca62e9d25fdcedc3dc3bcbb68517684bb4"/>
+	</game>
+	<game name="Your Computer (1987-06)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1987-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1987-06)(Federal Publishing Company)(AU).pdf" size="152049608" crc="2f1f2bc8" md5="8d97d51c5f0d8de5384dab02dcb21a35" sha1="e112410f5f5f1d6cfadfa138b04babadc424ef01"/>
+	</game>
+	<game name="Your Computer (1988-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1988-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1988-01)(Federal Publishing Company)(AU).pdf" size="311727504" crc="15e5fec4" md5="81de41f10d1c0f2e5d9663ef260a554a" sha1="4a39c98b709c70632c50b6c3ea2c35d1c9756c08"/>
+	</game>
+	<game name="Your Computer (1989-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-01)(Federal Publishing Company)(AU).pdf" size="212079557" crc="291bb7c7" md5="5cb53a926cdfa2d321b6dce600fb2b18" sha1="faf708f79d920e7f42b745abba96b1d975870c53"/>
+	</game>
+	<game name="Your Computer (1989-02)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-02)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-02)(Federal Publishing Company)(AU).pdf" size="221424004" crc="9ff31dd9" md5="9de62dc4ce207f8f02594d5261bd4b2e" sha1="7b2b0ef606f03e87bd61aed1deae40c346a6f54d"/>
+	</game>
+	<game name="Your Computer (1989-03)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-03)(Federal Publishing Company)(AU).pdf" size="224672561" crc="77d08427" md5="3981310cab72363bbcb8ad6c6b812b3c" sha1="25a5335fa05402cd6d9c9520ad2e31e65710a03d"/>
+	</game>
+	<game name="Your Computer (1989-04)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-04)(Federal Publishing Company)(AU).pdf" size="204006043" crc="bd7311b9" md5="0d02cb6dfb02d02ee205892a690669f2" sha1="84c83c539d866f83baa4867bf8bb17e1dee67f9e"/>
+	</game>
+	<game name="Your Computer (1989-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-05)(Federal Publishing Company)(AU).pdf" size="234341767" crc="9d5d7aeb" md5="48c3690b9ab269074687f547a6c29fec" sha1="7b1785c31bc7638c403b243b1d68c75f19148490"/>
+	</game>
+	<game name="Your Computer (1989-06)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-06)(Federal Publishing Company)(AU).pdf" size="258134186" crc="a4d931f5" md5="fab34881f2a42658b9e15abe6ad19da3" sha1="688d2ff4a99c5abb58ce461bbe7d20fbe4abb775"/>
+	</game>
+	<game name="Your Computer (1989-06)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer (1989-06)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer (1989-06)(Federal Publishing Company)(AU)[a].pdf" size="231010035" crc="592d28cf" md5="4d8b995a3e364e586a175276d5408426" sha1="829a25524e21176d3d8216d582ea8629c86796af"/>
+	</game>
+	<game name="Your Computer (1989-07)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-07)(Federal Publishing Company)(AU).pdf" size="199735360" crc="64f22db3" md5="13675ed57858a35538297f24689c5759" sha1="ed51ffdc79ea8027ec2e2c340194c428ef2a49e5"/>
+	</game>
+	<game name="Your Computer (1989-08)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-08)(Federal Publishing Company)(AU).pdf" size="192367727" crc="dfb0878b" md5="c97792c0a2e117e8a1089f5bc75d15ca" sha1="0d1401aa5c836e665ed7f5f1c2ecd869df6e6f4e"/>
+	</game>
+	<game name="Your Computer (1989-09)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-09)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-09)(Federal Publishing Company)(AU).pdf" size="211117184" crc="ddd63435" md5="0f45b048b03939cf67d37ea29e86574c" sha1="ef780fb4f16cd226900c2692aea8c22b2c5667ea"/>
+	</game>
+	<game name="Your Computer (1989-09)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer (1989-09)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer (1989-09)(Federal Publishing Company)(AU)[a].pdf" size="224691481" crc="9b624aa9" md5="09e0af8021c7e89cf829990dc73a3364" sha1="a6f20517b76c0c665dddb872d47cb18435c02e37"/>
+	</game>
+	<game name="Your Computer (1989-10)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-10)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-10)(Federal Publishing Company)(AU).pdf" size="198116305" crc="5eed0bc5" md5="a20ac384ae187a21382c281c344b6fea" sha1="cbbada74d9bd07256222434b2ec338ed032a0f43"/>
+	</game>
+	<game name="Your Computer (1989-11)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-11)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-11)(Federal Publishing Company)(AU).pdf" size="189204407" crc="6f39a1d7" md5="24a8b64f2e5b7f9a70191082b4afead1" sha1="6e6ea1b975df7bea2b5109752bf2f998b70a1555"/>
+	</game>
+	<game name="Your Computer (1989-12)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1989-12)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1989-12)(Federal Publishing Company)(AU).pdf" size="200927631" crc="167ac934" md5="21dcf7d832baee534464fa3710efe875" sha1="0a69f8c19293f3180ae3ad88348936fa62398ef8"/>
+	</game>
+	<game name="Your Computer (1990-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-01)(Federal Publishing Company)(AU).pdf" size="298858523" crc="f872ae2b" md5="40909ddc8f46078fc00e4502d1a4f492" sha1="137832baf74a0d7f5944d6cbaf987e816de19c5d"/>
+	</game>
+	<game name="Your Computer (1990-01)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer (1990-01)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer (1990-01)(Federal Publishing Company)(AU)[a].pdf" size="200259548" crc="eacffbaa" md5="ecd7b8439f727815bb6a8965d396cf9a" sha1="c9a4332df308d7c7174ee9f96a3bbc11d03452fd"/>
+	</game>
+	<game name="Your Computer (1990-02)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-02)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-02)(Federal Publishing Company)(AU).pdf" size="457539505" crc="ad9adb54" md5="e4ace3b60e61f12620298b292e27233d" sha1="2a09956e946424a3b6b81fae5f4c91e04ee920cb"/>
+	</game>
+	<game name="Your Computer (1990-02)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer (1990-02)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer (1990-02)(Federal Publishing Company)(AU)[a].pdf" size="199207843" crc="eb40ec24" md5="b4fe453c23632b33258cf022c459de67" sha1="bad271edb7e8fe09252e080e1db54d826d879a1d"/>
+	</game>
+	<game name="Your Computer (1990-03)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-03)(Federal Publishing Company)(AU).pdf" size="211873454" crc="aa0ece8b" md5="dac6ff9c05cfd7cf9d95709e6b971253" sha1="a117976b87cdc238021588dfce7233ab97f10a14"/>
+	</game>
+	<game name="Your Computer (1990-04)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-04)(Federal Publishing Company)(AU).pdf" size="364860431" crc="1d36af31" md5="7702f21fc6847e070fff6816f74432c5" sha1="0b8bd6a59c4ff43f4c96074b00c8b26695ebe161"/>
+	</game>
+	<game name="Your Computer (1990-04)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer (1990-04)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer (1990-04)(Federal Publishing Company)(AU)[a].pdf" size="176019854" crc="7a2bc0b5" md5="cd66ac489a83ee8668db9b0c3dba65ce" sha1="d819bb62a389dd2133dc5093f6b2b6cbc36f11d0"/>
+	</game>
+	<game name="Your Computer (1990-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-05)(Federal Publishing Company)(AU).pdf" size="194116457" crc="59ba8084" md5="4ee6dca54158f6a35dd06f5fd04728a6" sha1="bf1091286ccd19afe56e885a004744acf5e6713d"/>
+	</game>
+	<game name="Your Computer (1990-06)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-06)(Federal Publishing Company)(AU).pdf" size="209125582" crc="47bfda54" md5="988d8b479ec10e048acde7f3f646e96e" sha1="455a0ad4add7a7e61a19bfe52cbc512711599515"/>
+	</game>
+	<game name="Your Computer (1990-07)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-07)(Federal Publishing Company)(AU).pdf" size="184918893" crc="e7dcbf70" md5="c1a7b3ff9ab0684d2061faf87ea5d0ac" sha1="abbd9a1597e9bbe520cf680b8b59cfffc3699fa6"/>
+	</game>
+	<game name="Your Computer (1990-08)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-08)(Federal Publishing Company)(AU).pdf" size="181442587" crc="11c7f1ec" md5="8cae9fd83a642ea10fefca7c46b51e23" sha1="dcfa96479012deda0685b9f98f36fd6317ea8e66"/>
+	</game>
+	<game name="Your Computer (1990-09)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-09)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-09)(Federal Publishing Company)(AU).pdf" size="331129712" crc="084b4a50" md5="1498beaa7675f839037cde6d6d303ae9" sha1="eea05a0c365ab80555a4af0e209134a98f2d83ea"/>
+	</game>
+	<game name="Your Computer (1990-09)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer (1990-09)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer (1990-09)(Federal Publishing Company)(AU)[a].pdf" size="198296683" crc="4545acba" md5="32be551cb5103392b9104e5c273691c2" sha1="a4c200af3a5567cd35dc112a9f6ad5fb95769c19"/>
+	</game>
+	<game name="Your Computer (1990-10)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-10)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-10)(Federal Publishing Company)(AU).pdf" size="169966594" crc="e1375674" md5="a5b7354c66ea021b8c25b53c920d535d" sha1="efb70a1d83b52082c1aa5c56fdc53beef84f03eb"/>
+	</game>
+	<game name="Your Computer (1990-11)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-11)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-11)(Federal Publishing Company)(AU).pdf" size="183409202" crc="a11b41d7" md5="360bc58280d5ebe528700c8386895e1b" sha1="9ba2a5f8eed1a8e8760096523d33fa1bdc789513"/>
+	</game>
+	<game name="Your Computer (1990-12)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1990-12)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1990-12)(Federal Publishing Company)(AU).pdf" size="175398268" crc="75ea69c8" md5="09e38830b6020ff77642c8d69ba07a87" sha1="d66328879341a42ebdd89b0aed16e4a6203f1fc8"/>
+	</game>
+	<game name="Your Computer (1991-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-01)(Federal Publishing Company)(AU).pdf" size="215653224" crc="4df50c79" md5="2cc2c941e9b236b422079f147cdc8171" sha1="923b35b746e84e365d99602105ff12740aa53324"/>
+	</game>
+	<game name="Your Computer (1991-02)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-02)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-02)(Federal Publishing Company)(AU).pdf" size="176172943" crc="a19bc368" md5="a55d3b090e08a5b7a53da44ed75299eb" sha1="605e6431dd9a7fa41ce2a0ee77bf825e40a0aca8"/>
+	</game>
+	<game name="Your Computer (1991-03)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-03)(Federal Publishing Company)(AU).pdf" size="183940203" crc="289b2e5c" md5="cd852ba1739b1142add805530e802a68" sha1="b9154c9dc3e3c2fbf8367a4416ef904a9b68f728"/>
+	</game>
+	<game name="Your Computer (1991-04)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-04)(Federal Publishing Company)(AU).pdf" size="180355199" crc="2547b70a" md5="7150cd93e3e047cf641cb77233018a26" sha1="7d7aedbd8edf1b065b66ceb24b6180fd8ba2c2cc"/>
+	</game>
+	<game name="Your Computer (1991-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-05)(Federal Publishing Company)(AU).pdf" size="186203533" crc="41b8593e" md5="25ce7733bee38dc8a21da7a5df1bb0d1" sha1="6c4e19c6f1a63a0ce9920bfb52553f1a966ead8e"/>
+	</game>
+	<game name="Your Computer (1991-06)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-06)(Federal Publishing Company)(AU).pdf" size="180127371" crc="679a2af7" md5="524cf0d4164e5476b8aa0db59aef9b07" sha1="a891142e215ed0b635ed6e0360bd1a200ad6dd01"/>
+	</game>
+	<game name="Your Computer (1991-07)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-07)(Federal Publishing Company)(AU).pdf" size="178226144" crc="a9101f08" md5="8437a83ddc6d4cbbfdb57ad55c88638b" sha1="5230ddee302336ac8cea14bc46c1a692f08e9789"/>
+	</game>
+	<game name="Your Computer (1991-08)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-08)(Federal Publishing Company)(AU).pdf" size="175260198" crc="7414a11b" md5="42582a368e7411b403deb0a07239066e" sha1="04853db51c5ad2c9093885579e0f6b54e4893ee3"/>
+	</game>
+	<game name="Your Computer (1991-09)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-09)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-09)(Federal Publishing Company)(AU).pdf" size="175204687" crc="28c27e6e" md5="d6a680096de0ce1d69ddec616643339e" sha1="fce174d0d016400d4b62a57381aafb9b1c5f1de4"/>
+	</game>
+	<game name="Your Computer (1991-10)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-10)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-10)(Federal Publishing Company)(AU).pdf" size="200900322" crc="e6b62c11" md5="cc04f229a8b2437ebb2c28096aa05bf1" sha1="face2a5de4eb54553a2d04bf1c41010d4c8ee84c"/>
+	</game>
+	<game name="Your Computer (1991-11)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-11)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-11)(Federal Publishing Company)(AU).pdf" size="189216031" crc="db5af577" md5="fec4968c0208a0625e1f890979ce9ddf" sha1="5bef32919475fb17e8bf2893b4c1b6a70278d17e"/>
+	</game>
+	<game name="Your Computer (1991-12)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1991-12)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1991-12)(Federal Publishing Company)(AU).pdf" size="186900675" crc="94b5c370" md5="cb6c10a184b78a741db567e33c865ef5" sha1="f9d09f6f64455917a9bd01d43e218acbf1d61ee4"/>
+	</game>
+	<game name="Your Computer (1992-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-01)(Federal Publishing Company)(AU).pdf" size="213882434" crc="7b8540b9" md5="c9e44002de224874f707f74b29f4bff8" sha1="218c885774fc9c49912419746a72bb058db36cfe"/>
+	</game>
+	<game name="Your Computer (1992-02)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-02)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-02)(Federal Publishing Company)(AU).pdf" size="188950912" crc="f33413a6" md5="c7888e858e337421a687022bbb7273f8" sha1="8c5a2f721b06ba2ca24f9f52f1b0cfc8130c1aa1"/>
+	</game>
+	<game name="Your Computer (1992-03)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-03)(Federal Publishing Company)(AU).pdf" size="184395890" crc="b98bd8e9" md5="e2f48f34879d6e1094fd21d2fecdf96d" sha1="23abfe4c7771ae028ef0a78ca87ee97300e065bc"/>
+	</game>
+	<game name="Your Computer (1992-04)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-04)(Federal Publishing Company)(AU).pdf" size="115261103" crc="afd0b937" md5="16f394f2563fdd6e4d9ed8208fcb00e9" sha1="17931e2df66286ff11729080d7698dc3a3468e17"/>
+	</game>
+	<game name="Your Computer (1992-04)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer (1992-04)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer (1992-04)(Federal Publishing Company)(AU)[a].pdf" size="184098503" crc="8b8ffc26" md5="34ea0a44707495969a14cdec6e28e524" sha1="521660601fccac25cea715e31d709df7b4644e72"/>
+	</game>
+	<game name="Your Computer (1992-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-05)(Federal Publishing Company)(AU).pdf" size="173922512" crc="9fb4156c" md5="feb20779405455057e829cf58a5ff494" sha1="dbae5acdc2fa1af3077c49ef91e7a6cf693f1d61"/>
+	</game>
+	<game name="Your Computer (1992-06)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-06)(Federal Publishing Company)(AU).pdf" size="183404005" crc="e39e83f6" md5="e8db3ac16812d48ade5da1b6edd45df3" sha1="788b4cf59ea956eb849cc0d202fb48b901545a69"/>
+	</game>
+	<game name="Your Computer (1992-07)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-07)(Federal Publishing Company)(AU).pdf" size="174593183" crc="4fb99cda" md5="b48ce6ce6beeda5ba2344a2c631dc49b" sha1="ffd77c9489c45744651d5ad280985519f9fd3a26"/>
+	</game>
+	<game name="Your Computer (1992-08)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-08)(Federal Publishing Company)(AU).pdf" size="204161636" crc="e9079f01" md5="3997f0510bd985c5b852ab70cf0cce4d" sha1="500e6b67e2213e1e3090cdd92bf2f63d4a00dfdd"/>
+	</game>
+	<game name="Your Computer (1992-09)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-09)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-09)(Federal Publishing Company)(AU).pdf" size="219397668" crc="ed7f3c3e" md5="43a78746a9c7f09146a079f007db7032" sha1="4723dc6a3dc4de51a3a724813b3fb12efdc3a1a2"/>
+	</game>
+	<game name="Your Computer (1992-10)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-10)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-10)(Federal Publishing Company)(AU).pdf" size="194314370" crc="d5496138" md5="e6ee574e0c05f42fc642deba364b2d0d" sha1="ab2e6aa99db55ad0a1c3d0032bf8884a965c6017"/>
+	</game>
+	<game name="Your Computer (1992-11)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-11)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-11)(Federal Publishing Company)(AU).pdf" size="175922231" crc="34574fe7" md5="47a0c90c1faadf180f4ad4b993cd49e8" sha1="cd5f44e6fc25fa2b26d0837437e1363e8b87c279"/>
+	</game>
+	<game name="Your Computer (1992-12)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1992-12)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1992-12)(Federal Publishing Company)(AU).pdf" size="183764635" crc="451e677d" md5="05336dd6216942fb0d02a6a73b269aad" sha1="585cc25a815e684a7bb4e376fd7461a087af91e9"/>
+	</game>
+	<game name="Your Computer (1993-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1993-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1993-01)(Federal Publishing Company)(AU).pdf" size="206417324" crc="e3848eab" md5="f0927fe0a72b7ff6be4a9ee9add06682" sha1="6daa3b90462b59cc16e3a855e5e199284e89e399"/>
+	</game>
+	<game name="Your Computer (1993-02)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1993-02)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1993-02)(Federal Publishing Company)(AU).pdf" size="180766072" crc="1e457b16" md5="4bba19925a824945cd7be71ff81cd0bc" sha1="7967e41dc9cbfb425d4c31c2e1fc14f813ee87e6"/>
+	</game>
+	<game name="Your Computer (1993-06)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1993-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1993-06)(Federal Publishing Company)(AU).pdf" size="214588233" crc="c7ab414d" md5="b3d38f15667151cee00c9f21eb9bd6b5" sha1="b0e7e9e91fd61e9d3ebbd3702858b93099004716"/>
+	</game>
+	<game name="Your Computer (1993-07)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1993-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1993-07)(Federal Publishing Company)(AU).pdf" size="201477973" crc="605b9c01" md5="49ee6595b377965bb89df04bca038d77" sha1="18c6ca2f6c34b4eb8985065abbe21ea8dc5723bc"/>
+	</game>
+	<game name="Your Computer (1994-03)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1994-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1994-03)(Federal Publishing Company)(AU).pdf" size="194527719" crc="c2ecfe72" md5="64671797c4333ca8f560e1a3cdb0b5fd" sha1="f34f2f30976bfe83e8fd1eb46c34ae0c29667ced"/>
+	</game>
+	<game name="Your Computer (1994-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1994-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1994-05)(Federal Publishing Company)(AU).pdf" size="170525626" crc="2a33c3cd" md5="d145653746f81bf918eeaa5361589ceb" sha1="afc16ef326c055a34380f9b0ab31bb6589fb1f35"/>
+	</game>
+	<game name="Your Computer (1994-07)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1994-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1994-07)(Federal Publishing Company)(AU).pdf" size="177254496" crc="676244e5" md5="12bde627cd1fc2591244b5de8e06c3ee" sha1="10db8b7c96d80f0ba8807836bff3a1e04786c757"/>
+	</game>
+	<game name="Your Computer (1994-09)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1994-09)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1994-09)(Federal Publishing Company)(AU).pdf" size="180994767" crc="167ce631" md5="52a8301873cd30c244b7589b16585339" sha1="6506582974686fcdfaeee8e40b77395cadc0a0e1"/>
+	</game>
+	<game name="Your Computer (1994-10)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1994-10)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1994-10)(Federal Publishing Company)(AU).pdf" size="177510567" crc="440a03cb" md5="294b8afe8944803724efc46734e617c0" sha1="3a5b7d82e8d75786e158a4c362c52366d0dce9fa"/>
+	</game>
+	<game name="Your Computer (1994-11)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1994-11)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1994-11)(Federal Publishing Company)(AU).pdf" size="186501642" crc="70bd5cb3" md5="fa2322cf47e67f390bbc1781ef737169" sha1="1c9188001fa0fda82a5c5b3f993d02f2b347b65e"/>
+	</game>
+	<game name="Your Computer (1995-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1995-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1995-01)(Federal Publishing Company)(AU).pdf" size="194244068" crc="b8468c91" md5="e054afdb68987d11f80829b5e9d0c462" sha1="ca63af29f7c1bd8766f38e9811e0397b995f322f"/>
+	</game>
+	<game name="Your Computer (1995-02)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1995-02)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1995-02)(Federal Publishing Company)(AU).pdf" size="161179057" crc="aa2af14a" md5="7d6514e05e3f5d7aa89d405f3244d416" sha1="2d707bd7b1a260834e97b0c2574913108a746373"/>
+	</game>
+	<game name="Your Computer (1995-03)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1995-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1995-03)(Federal Publishing Company)(AU).pdf" size="156510039" crc="ad96f4f3" md5="83db3dd7ff5cfd78c04d50dbd627dc95" sha1="842c091db10d35a44c8e97cb3121b30ab8d3d109"/>
+	</game>
+	<game name="Your Computer (1995-04)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1995-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1995-04)(Federal Publishing Company)(AU).pdf" size="149926738" crc="4350eb41" md5="b847be05091e0e7fdba13d40282a0640" sha1="7d72a6988e9a572a149eeed658208d952b8b58ef"/>
+	</game>
+	<game name="Your Computer (1995-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer (1995-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer (1995-05)(Federal Publishing Company)(AU).pdf" size="158212062" crc="bf709aa3" md5="b5613c24c7c36840c1cd72339a15dcd6" sha1="82b5df8f06cd68f2997d82347731dabb8d1ccb69"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 01 (1981-06)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 01 (1981-06)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 01 (1981-06)(White House Publishing)(AU).pdf" size="155477777" crc="94481983" md5="ceab6a86db5c0a75e7d6583af942cc70" sha1="c4b3833073bd6c9414a785bfc5f8a4628cf47117"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 02 (1981-07)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 02 (1981-07)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 02 (1981-07)(White House Publishing)(AU).pdf" size="208736918" crc="efca1f36" md5="565e7a929e7593b7f665c157eff44228" sha1="41a265d6f1fe2e641c3488f949e0bea2110c6dab"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 03 (1981-08)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 03 (1981-08)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 03 (1981-08)(White House Publishing)(AU).pdf" size="190601934" crc="6263f5d1" md5="012bd12de036fc8d39fc2447484e77b4" sha1="b173e8ccd778e31da0cba92eb1caa12616474cf2"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 04 (1981-10)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 04 (1981-10)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 04 (1981-10)(White House Publishing)(AU).pdf" size="133518404" crc="b88cfcf3" md5="dad8fdb3ead5b373369f847646e8b93b" sha1="be060b5ef15366bc7972853cd66c2e8e0c309150"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 05 (1981-11)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 05 (1981-11)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 05 (1981-11)(White House Publishing)(AU).pdf" size="124134118" crc="9e9295f8" md5="3d57d76b33a341f6a8bcebfe455f168e" sha1="c36939e4e268466ed0715c1b9bce0d6405c0e7a3"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 06 (1981-12)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 06 (1981-12)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 06 (1981-12)(White House Publishing)(AU).pdf" size="135831865" crc="7060b57d" md5="92866e8711df5485bcd95d63823199bc" sha1="b6ba44dd8fc03df3f5692025d66c2a6db45bae5d"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 07 (1982-01)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 07 (1982-01)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 07 (1982-01)(White House Publishing)(AU).pdf" size="125378646" crc="3c1f3f52" md5="34530f55aba0d89b55329160b85eb880" sha1="b41690f50c43f67b91c7e1b7659d098721bdcab0"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 08 (1982-02)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 08 (1982-02)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 08 (1982-02)(White House Publishing)(AU).pdf" size="128991718" crc="1918ab93" md5="8c9f777fb946ee5046081db5fe2ca7cf" sha1="1b8f2a587578c63afa4fba42ccf530db43640f59"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 09 (1982-03)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 09 (1982-03)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 09 (1982-03)(White House Publishing)(AU).pdf" size="202254038" crc="2c5b0677" md5="e6ed373cc8c079c54e72d39164d668e9" sha1="55afdeca841ca2276d903438f529b9b1a39cf23d"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 09 (1982-03)(White House Publishing)(AU)[a]">
+		<description>Your Computer - Vol 01 No 09 (1982-03)(White House Publishing)(AU)[a]</description>
+		<rom name="Your Computer - Vol 01 No 09 (1982-03)(White House Publishing)(AU)[a].pdf" size="112904993" crc="2a13bdcd" md5="94e6edb1445ba4921772a8e6f38b054e" sha1="00b19fd7a786992d80c4c358e98464eceb5f05d2"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 10 (1982-04)(Eastern Suburb Newspapers)(AU)">
+		<description>Your Computer - Vol 01 No 10 (1982-04)(Eastern Suburb Newspapers)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 10 (1982-04)(Eastern Suburb Newspapers)(AU).pdf" size="134920780" crc="94bc0a31" md5="b3da28f975480be8e0b3e48244e28fa4" sha1="7d3b60dc130220f4ad75591f409e82ae2f2d8ebc"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 11 (1982-05)(Eastern Suburb Newspapers)(AU)[a]">
+		<description>Your Computer - Vol 01 No 11 (1982-05)(Eastern Suburb Newspapers)(AU)[a]</description>
+		<rom name="Your Computer - Vol 01 No 11 (1982-05)(Eastern Suburb Newspapers)(AU)[a].pdf" size="133294405" crc="efad1d52" md5="5e5bebf935f210cf8e443412328bed5c" sha1="d3d4bf348513234aea2fc5612136c7ef87605ef9"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 11 (1982-05)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 11 (1982-05)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 11 (1982-05)(White House Publishing)(AU).pdf" size="207772019" crc="cae1716d" md5="c7924dd6c22c2e30f5019e1ba6785d59" sha1="c57d4ce65fefe4fd3e12995b35074c1232e2c67c"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 12 (1982-06)(Eastern Suburb Newspapers)(AU)[a]">
+		<description>Your Computer - Vol 01 No 12 (1982-06)(Eastern Suburb Newspapers)(AU)[a]</description>
+		<rom name="Your Computer - Vol 01 No 12 (1982-06)(Eastern Suburb Newspapers)(AU)[a].pdf" size="147139621" crc="db94cae9" md5="46174b6937a5a10d280454da22187062" sha1="8ea79d2ae29b0224a55fdbad747a9f95e6216e2b"/>
+	</game>
+	<game name="Your Computer - Vol 01 No 12 (1982-06)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 01 No 12 (1982-06)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 01 No 12 (1982-06)(White House Publishing)(AU).pdf" size="225686417" crc="3403606b" md5="1a1b7250e4c2a2966ca4752e63c65e0c" sha1="3121eac2755fed8ef20744ca5338578068698295"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 01 (1982-07)(Eastern Suburb Newspapers)(AU)[a]">
+		<description>Your Computer - Vol 02 No 01 (1982-07)(Eastern Suburb Newspapers)(AU)[a]</description>
+		<rom name="Your Computer - Vol 02 No 01 (1982-07)(Eastern Suburb Newspapers)(AU)[a].pdf" size="137147374" crc="a50ad0b4" md5="066d5963cfe0269d59c4d7ab280d3fcd" sha1="8d2b3b6328ed1d15912663df4df79cf751c4ec8a"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 01 (1982-07)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 02 No 01 (1982-07)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 01 (1982-07)(White House Publishing)(AU).pdf" size="201960127" crc="299837c7" md5="885a01bfe1640476ff137241f72fc2b9" sha1="5a03dd74bbbc02eac3fc8319a8a95084304c6e5b"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 02 (1982-08)(Eastern Suburb Newspapers)(AU)[a]">
+		<description>Your Computer - Vol 02 No 02 (1982-08)(Eastern Suburb Newspapers)(AU)[a]</description>
+		<rom name="Your Computer - Vol 02 No 02 (1982-08)(Eastern Suburb Newspapers)(AU)[a].pdf" size="126432166" crc="3ff13154" md5="d64a4359eaf37de7b89ba8e3cb4569f8" sha1="dd2a5c5cc3855211642771c67dd8927dbad6e9d8"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 02 (1982-08)(White House Publishing)(AU)">
+		<description>Your Computer - Vol 02 No 02 (1982-08)(White House Publishing)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 02 (1982-08)(White House Publishing)(AU).pdf" size="192165172" crc="ace97937" md5="6fec74cfd8d25f5493fb78d442585596" sha1="3e4da9cb013f772ece7c6f41a6cb025e6def63f1"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 03 (1982-09)(Eastern Suburb Newspapers)(AU)">
+		<description>Your Computer - Vol 02 No 03 (1982-09)(Eastern Suburb Newspapers)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 03 (1982-09)(Eastern Suburb Newspapers)(AU).pdf" size="149352077" crc="8d86ec1c" md5="27d3454a8abd1a0c6b24b50a57cb47ee" sha1="26d8ddd5e40b90acec6acb46eebd5e8b41353149"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 04 (1982-10)(Eastern Suburb Newspapers)(AU)">
+		<description>Your Computer - Vol 02 No 04 (1982-10)(Eastern Suburb Newspapers)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 04 (1982-10)(Eastern Suburb Newspapers)(AU).pdf" size="122632151" crc="f373a6f0" md5="010c536e73ef41b2a96e94c0958e2bd4" sha1="2785c38f5b1060587c2904e9bc7d055fcd3a11b5"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 05 (1982-11)(Eastern Suburb Newspapers)(AU)">
+		<description>Your Computer - Vol 02 No 05 (1982-11)(Eastern Suburb Newspapers)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 05 (1982-11)(Eastern Suburb Newspapers)(AU).pdf" size="131020420" crc="27a8aceb" md5="722f073031281cd6ff365a27a558d395" sha1="ea4a5047f41f2e77521f1af202a762134eeb1b60"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 06 (1982-12)(Eastern Suburb Newspapers)(AU)">
+		<description>Your Computer - Vol 02 No 06 (1982-12)(Eastern Suburb Newspapers)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 06 (1982-12)(Eastern Suburb Newspapers)(AU).pdf" size="146227839" crc="6d037534" md5="b7872709b110b0c47be55b9e1a7d9081" sha1="082d47f6d5fe9a25fc2dd29f41403a09cc78a372"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 07 (1983-02)(Eastern Suburb Newspapers)(AU)">
+		<description>Your Computer - Vol 02 No 07 (1983-02)(Eastern Suburb Newspapers)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 07 (1983-02)(Eastern Suburb Newspapers)(AU).pdf" size="100537230" crc="28c429ad" md5="d2b7748660a492d31ab1ccbfdb6b3383" sha1="aaa0f7282eacbf959c9b468799ee4b28c8351177"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 08 (1983-03)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 02 No 08 (1983-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 08 (1983-03)(Federal Publishing Company)(AU).pdf" size="107402511" crc="837a9ea8" md5="cf636f087dd246ab049a501244757a90" sha1="e7f056780fcdcfc1befc56e5b17a9abb1d4853b8"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 09 (1983-04)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 02 No 09 (1983-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 09 (1983-04)(Federal Publishing Company)(AU).pdf" size="174653569" crc="f9fc3142" md5="392884a4aab853239d95bad390d2f3fb" sha1="03053b29e0dd3840c910790a3e2ff5fdd71db723"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 10 (1983-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 02 No 10 (1983-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 10 (1983-05)(Federal Publishing Company)(AU).pdf" size="167429929" crc="03fe9226" md5="269e73710fcce080d1fef75ad0a4d168" sha1="2461c5280e9dc56e26fdcd655e48f85d327d711e"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 11 (1983-06)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 02 No 11 (1983-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 11 (1983-06)(Federal Publishing Company)(AU).pdf" size="141207635" crc="31b59a55" md5="8a8e94367adf94f1ef331e1647bde8ef" sha1="0883b983f37cf2777d85dd2fe693f51e2683603f"/>
+	</game>
+	<game name="Your Computer - Vol 02 No 12 (1983-07)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 02 No 12 (1983-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 02 No 12 (1983-07)(Federal Publishing Company)(AU).pdf" size="129626689" crc="9e8a2f6f" md5="3f89995533dad5e056ec32f2f3183e3b" sha1="da33285d25f610ec57ce75dbbb1c8dbe9d570259"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 01 (1983-08)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer - Vol 03 No 01 (1983-08)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer - Vol 03 No 01 (1983-08)(Federal Publishing Company)(AU)[a].pdf" size="150865682" crc="631b48a6" md5="844586424bce5ba70b3e044d69d345cc" sha1="bae1ecab1551304c9e621fdcd7278a8e454306d0"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 02 (1983-09)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 03 No 02 (1983-09)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 03 No 02 (1983-09)(Federal Publishing Company)(AU).pdf" size="138619757" crc="592cf57f" md5="44b98fe71fdaef033dc653c559890f1a" sha1="0a253ae944c307df14303f9fa6497d3893b7d9de"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 03 (1983-10)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 03 No 03 (1983-10)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 03 No 03 (1983-10)(Federal Publishing Company)(AU).pdf" size="181095967" crc="ef24cdf1" md5="6104464932ad44d2eb2b8965810cccf6" sha1="579cd9103b44ba5a1815821a1aadc991e745e462"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 04 (1983-11)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 03 No 04 (1983-11)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 03 No 04 (1983-11)(Federal Publishing Company)(AU).pdf" size="203115255" crc="e423f0da" md5="400e3db3f810bc49640690335fe2305a" sha1="647d19e63056708cd171bbf30aaca3aa0808451d"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 06 (1984-01)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 03 No 06 (1984-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 03 No 06 (1984-01)(Federal Publishing Company)(AU).pdf" size="137414893" crc="80ce0b63" md5="c2fd9eb4f8ee93481d1601fd75b00a50" sha1="16efdb2a82023bb12a2ff51541a127ff5086581e"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 08 (1984-03)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 03 No 08 (1984-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 03 No 08 (1984-03)(Federal Publishing Company)(AU).pdf" size="140818602" crc="e1c3e286" md5="02cbe26de0f477ba7eae71eee63952a0" sha1="fabf3d55c5c497245bf2804ffb21f65489d9fdf3"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 09 (1984-04)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 03 No 09 (1984-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 03 No 09 (1984-04)(Federal Publishing Company)(AU).pdf" size="232604844" crc="a49cc7f0" md5="1e7f03ed5e9c684a716c178f1d3f5a24" sha1="9cdbc63446367f5aff6baacc4e3215babebafad9"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 09 (1984-04)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer - Vol 03 No 09 (1984-04)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer - Vol 03 No 09 (1984-04)(Federal Publishing Company)(AU)[a].pdf" size="195454615" crc="7262fbf5" md5="523af1034264bdd8c5bfba18e2c56438" sha1="271e04ee0b7d6fa5e207f8004ee8c5afed8686e3"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 10 (1984-05)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 03 No 10 (1984-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 03 No 10 (1984-05)(Federal Publishing Company)(AU).pdf" size="209558536" crc="0ef94543" md5="a37cc4cfa19130b06a4b3ede0326b230" sha1="08bbcf6246211fb266ea68bd9da50eb26ac83ce7"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 11 (1984-06)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 03 No 11 (1984-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 03 No 11 (1984-06)(Federal Publishing Company)(AU).pdf" size="201262007" crc="aa54d8ec" md5="869ec07883a75dc7650aff4b684108f5" sha1="6a2673cd9b10bf632d8b058711a1af0f7936a576"/>
+	</game>
+	<game name="Your Computer - Vol 03 No 12 (1984-07)(Federal Publishing Company)(AU)">
+		<description>Your Computer - Vol 03 No 12 (1984-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer - Vol 03 No 12 (1984-07)(Federal Publishing Company)(AU).pdf" size="188183345" crc="37c0c996" md5="e196e8abc46d5e527d2105f33e190f6f" sha1="418f956cf3746925eb59ed81f9f10a6e28378898"/>
+	</game>
+	<game name="Your Computer Yearbook 1984 (1984)(Federal Publishing Company)(AU)">
+		<description>Your Computer Yearbook 1984 (1984)(Federal Publishing Company)(AU)</description>
+		<rom name="Your Computer Yearbook 1984 (1984)(Federal Publishing Company)(AU).pdf" size="117182837" crc="937dfd7e" md5="716e1a73b6cd79291c72f56e849be10f" sha1="c8146cdbd9279bf2a4b6cf15e0a4e4fededd0bf9"/>
+	</game>
+	<game name="Your Computer Yearbook 1984 (1984)(Federal Publishing Company)(AU)[a]">
+		<description>Your Computer Yearbook 1984 (1984)(Federal Publishing Company)(AU)[a]</description>
+		<rom name="Your Computer Yearbook 1984 (1984)(Federal Publishing Company)(AU)[a].pdf" size="143633721" crc="f0ccf4a7" md5="6d640a18eca074fe827e735c5b874672" sha1="4df576178b9a97b9d1667ba66342f16ef8c3f329"/>
+	</game>
+</datafile>

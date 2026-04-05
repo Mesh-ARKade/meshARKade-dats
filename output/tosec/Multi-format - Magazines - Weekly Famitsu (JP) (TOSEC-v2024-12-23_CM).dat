@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Weekly Famitsu (JP)</name>
+		<description>Multi-format - Magazines - Weekly Famitsu (JP) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Weekly Famitsu (1990-10-26)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1990-10-26)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1990-10-26)(Enterbrain)(JP).pdf" size="165751158" crc="0434ff29" md5="a613a69c2321fe019e30586f745fd0ca" sha1="ca0e2c7e790bbfdc740055324ceef6b6b2cf841b"/>
+	</game>
+	<game name="Weekly Famitsu (1991-12-27)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1991-12-27)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1991-12-27)(Enterbrain)(JP).pdf" size="106146678" crc="4e6dfa76" md5="643c6ff84c10a5fb9162ffed132e180f" sha1="a58918504d12b2f71b0d1d4cdc80d0136781b212"/>
+	</game>
+	<game name="Weekly Famitsu (1992-01-31)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1992-01-31)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1992-01-31)(Enterbrain)(JP).pdf" size="92103347" crc="10462656" md5="5771dbe82e72c94a2688d691e96ca474" sha1="d40d7ce8f991b447798ad5608e6384733b166bd2"/>
+	</game>
+	<game name="Weekly Famitsu (1992-02-07)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1992-02-07)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1992-02-07)(Enterbrain)(JP).pdf" size="97397349" crc="e1d672d0" md5="e97156b26f0afde2921e7548f8d26366" sha1="b85e9bb6fd1ce66c232e7d2d9f8c059db8bd133a"/>
+	</game>
+	<game name="Weekly Famitsu (1992-03-06)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1992-03-06)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1992-03-06)(Enterbrain)(JP).pdf" size="98556690" crc="359705e8" md5="0ea90a29280dee39967075f62532a8f8" sha1="3b6bcc480d82d9254af5e026475fe9ae593bb634"/>
+	</game>
+	<game name="Weekly Famitsu (1992-03-13)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1992-03-13)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1992-03-13)(Enterbrain)(JP).pdf" size="102668689" crc="bc665663" md5="e34df125a9abae9808cfa89e42869194" sha1="1a54060de925d70a8bd5299d49cd4a3026aa4103"/>
+	</game>
+	<game name="Weekly Famitsu (1992-03-20)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1992-03-20)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1992-03-20)(Enterbrain)(JP).pdf" size="101872806" crc="191421a5" md5="9d723b63d20750a9f430ded5cdcb26f0" sha1="f53cf8529aa5fde2486dfb00c41663e3b8668b58"/>
+	</game>
+	<game name="Weekly Famitsu (1992-04-17)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1992-04-17)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1992-04-17)(Enterbrain)(JP).pdf" size="91640715" crc="a53e9cce" md5="480069e0d325a4034f3966affd75e45d" sha1="7866bdd354b33fa68dd35501b86ba9e599a0ca3d"/>
+	</game>
+	<game name="Weekly Famitsu (1993-04-16)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1993-04-16)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1993-04-16)(Enterbrain)(JP).pdf" size="107559186" crc="2dc7a398" md5="e29272240cf0bd612a96e35113d64eb6" sha1="0e85d93f5566ece61bbdec0f8c379f8731a5a687"/>
+	</game>
+	<game name="Weekly Famitsu (1997-09-05)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1997-09-05)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1997-09-05)(Enterbrain)(JP).pdf" size="142194611" crc="b3401df5" md5="afed55d845ad5edf6d669b03fbab48ac" sha1="783a34425b4d760b5970c344f14ae2e82c83de74"/>
+	</game>
+	<game name="Weekly Famitsu (1999-08-06)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (1999-08-06)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (1999-08-06)(Enterbrain)(JP).pdf" size="135711575" crc="2f931f34" md5="cea6b6d04b329196e6599ccb6f79f5c8" sha1="502fd63b22c5f2af194dfeb31b15b7e8dcf9c1bd"/>
+	</game>
+	<game name="Weekly Famitsu (2000-10-20)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (2000-10-20)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (2000-10-20)(Enterbrain)(JP).pdf" size="453972181" crc="f9880b78" md5="7954fe658d0e9642a5ec566f1bbcafcd" sha1="7838a241d4991272430e74e973d1d6c084952014"/>
+	</game>
+	<game name="Weekly Famitsu (2000-10-20)(Enterbrain)(JP)[supplement]">
+		<description>Weekly Famitsu (2000-10-20)(Enterbrain)(JP)[supplement]</description>
+		<rom name="Weekly Famitsu (2000-10-20)(Enterbrain)(JP)[supplement].pdf" size="8175185" crc="40e272da" md5="d2398a33707013b459888bc199659701" sha1="e997d191444d347787be56269e66eb77955c4256"/>
+	</game>
+	<game name="Weekly Famitsu (2006-06-16)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (2006-06-16)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (2006-06-16)(Enterbrain)(JP).pdf" size="142066647" crc="8756e319" md5="e3fae8c11e4ca96e75000805b70c2e26" sha1="02271d72e9c9b2cd366675e8a1aa075d85340ecd"/>
+	</game>
+	<game name="Weekly Famitsu (2006-06-23)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (2006-06-23)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (2006-06-23)(Enterbrain)(JP).pdf" size="116891086" crc="663ae375" md5="d24fcfc8c89742d3a8887428f5cea5b7" sha1="d582c81d16c09947d7a9ff307c631eed244a912b"/>
+	</game>
+	<game name="Weekly Famitsu (2006-06-30)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (2006-06-30)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (2006-06-30)(Enterbrain)(JP).pdf" size="157457867" crc="fc8373d4" md5="b90b02b511f752e8c35fd17e1ae741fd" sha1="282f3ece79a0567e96ba2e2e5de337554c9c13d0"/>
+	</game>
+	<game name="Weekly Famitsu (2006-07-07)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (2006-07-07)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (2006-07-07)(Enterbrain)(JP).pdf" size="148462367" crc="e91d9bb2" md5="aad57c3ce53fca2fb281b585c106c0a2" sha1="6b23a87569246e5f7e1b204614ee40ec63bed739"/>
+	</game>
+	<game name="Weekly Famitsu (2006-07-14)(Enterbrain)(JP)">
+		<description>Weekly Famitsu (2006-07-14)(Enterbrain)(JP)</description>
+		<rom name="Weekly Famitsu (2006-07-14)(Enterbrain)(JP).pdf" size="175941507" crc="d38787d1" md5="103c5e33e05596e2c0f26caef3757b34" sha1="cc761cec23055b59289bba217356bb6c397b45d1"/>
+	</game>
+</datafile>

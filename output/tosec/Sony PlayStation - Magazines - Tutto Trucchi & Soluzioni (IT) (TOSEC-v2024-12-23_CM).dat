@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Tutto Trucchi &amp; Soluzioni (IT)</name>
+		<description>Sony PlayStation - Magazines - Tutto Trucchi &amp; Soluzioni (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tutto Trucchi &amp; Soluzioni - Anno 2 N.12 (2002-05)(Tattilo)(IT)">
+		<description>Tutto Trucchi &amp; Soluzioni - Anno 2 N.12 (2002-05)(Tattilo)(IT)</description>
+		<rom name="Tutto Trucchi &amp; Soluzioni - Anno 2 N.12 (2002-05)(Tattilo)(IT).pdf" size="38216483" crc="856ce98a" md5="e30af2de80063c726733310b8197321e" sha1="dcff7bf78aed5967ebcc91dacdac46d60bfd4b61"/>
+	</game>
+</datafile>

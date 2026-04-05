@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Games Master (GB)</name>
+		<description>Multi-format - Magazines - Games Master (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Games Master - Issue 000 (1992-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 000 (1992-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 000 (1992-09)(Future Publishing)(GB).pdf" size="19263915" crc="3417963f" md5="1ee49e767b04667be6077e8ca19d235d" sha1="15e19595b5aa286594c061aeaa97617fcedfe604"/>
+	</game>
+	<game name="Games Master - Issue 001 (1993-01)(Future Publishing)(GB)">
+		<description>Games Master - Issue 001 (1993-01)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 001 (1993-01)(Future Publishing)(GB).pdf" size="132773644" crc="834e772d" md5="9261aa3866871a5ef790585548be282d" sha1="32812d92554b7728f5c8da398b9b9ddcdf64bf64"/>
+	</game>
+	<game name="Games Master - Issue 004 (1993-04)(Future Publishing)(GB)">
+		<description>Games Master - Issue 004 (1993-04)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 004 (1993-04)(Future Publishing)(GB).pdf" size="119443400" crc="32ea5fe4" md5="9bdd74d6214b6b15f1cd6693c0e9dfe8" sha1="8158904d601541daeeb36782b0b8df43144d1ff8"/>
+	</game>
+	<game name="Games Master - Issue 005 (1993-05)(Future Publishing)(GB)">
+		<description>Games Master - Issue 005 (1993-05)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 005 (1993-05)(Future Publishing)(GB).pdf" size="171552512" crc="7353a0f1" md5="bca58f5c1f70a68a2bc3fa699181aff3" sha1="97b1470636907db3a1ea342e10413ffdccf57d5b"/>
+	</game>
+	<game name="Games Master - Issue 006 (1993-06)(Future Publishing)(GB)">
+		<description>Games Master - Issue 006 (1993-06)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 006 (1993-06)(Future Publishing)(GB).pdf" size="265579466" crc="02784c56" md5="1288a104c77183582283827de8aa7e7e" sha1="9dcdcc496244d03eaca906aa04b93fae1c5d72be"/>
+	</game>
+	<game name="Games Master - Issue 009 (1993-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 009 (1993-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 009 (1993-09)(Future Publishing)(GB).pdf" size="253340907" crc="47ba045d" md5="0d35d71b2012d9da1c5e8c4fc17730ce" sha1="f94dabdc511d5a628cb4cd58e6d2c139e5f787ef"/>
+	</game>
+	<game name="Games Master - Issue 021 (1994-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 021 (1994-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 021 (1994-09)(Future Publishing)(GB).pdf" size="233004361" crc="72c10a43" md5="d202e84d9c75a4c2b4d00f6cbcb01e6d" sha1="43122e13f49ebc633e88a3cb9b7353a8cb8d0a1f"/>
+	</game>
+	<game name="Games Master - Issue 022 (1994-10)(Future Publishing)(GB)">
+		<description>Games Master - Issue 022 (1994-10)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 022 (1994-10)(Future Publishing)(GB).pdf" size="228602159" crc="12315268" md5="a144c9f5dc6d98f1a328491b727e659c" sha1="e37049da8b0af682771ee211b2b222b64cb942be"/>
+	</game>
+	<game name="Games Master - Issue 023 (1994-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 023 (1994-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 023 (1994-11)(Future Publishing)(GB).pdf" size="268487304" crc="b6478b55" md5="81b1f260a10088b569f24ed1cad6878f" sha1="3cf7d21b0b92cfe205f5279c693b8a22f7c6bac8"/>
+	</game>
+	<game name="Games Master - Issue 029 (1995-05)(Future Publishing)(GB)">
+		<description>Games Master - Issue 029 (1995-05)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 029 (1995-05)(Future Publishing)(GB).pdf" size="124857435" crc="9f2f2031" md5="372a036bb8bb6a105736ac3d36fdf9a8" sha1="0388efa8911db807a24d90b31e05c0cb46b7c0ba"/>
+	</game>
+	<game name="Games Master - Issue 071 (1998-08)(Future Publishing)(GB)">
+		<description>Games Master - Issue 071 (1998-08)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 071 (1998-08)(Future Publishing)(GB).pdf" size="178385672" crc="bf442023" md5="79a43db402430772098ac2de3c60efc8" sha1="21dd7909acd3b5e3858d3e6d158498f7c8a54818"/>
+	</game>
+	<game name="Games Master - Issue 077 (1999-01)(Future Publishing)(GB)">
+		<description>Games Master - Issue 077 (1999-01)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 077 (1999-01)(Future Publishing)(GB).pdf" size="170142215" crc="d138fd71" md5="f7cb01c646f5bd8702d278d98d017104" sha1="0ea2a72fe9a9c09a4c747996e411c80e514733e4"/>
+	</game>
+	<game name="Games Master - Issue 081 (1999-05)(Future Publishing)(GB)">
+		<description>Games Master - Issue 081 (1999-05)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 081 (1999-05)(Future Publishing)(GB).pdf" size="272369053" crc="9e55d265" md5="c6e938e96992dc157fc0f8d38dd6590d" sha1="caa7d18237c08f0f62b1c33b41ca58640101376a"/>
+	</game>
+	<game name="Games Master - Issue 084 (1999-08)(Future Publishing)(GB)">
+		<description>Games Master - Issue 084 (1999-08)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 084 (1999-08)(Future Publishing)(GB).pdf" size="167457134" crc="bfef2f5f" md5="92b0a55d86dedf1a3a2a178174b5d4d1" sha1="1c3020b1aef80f66a813e66bcfa5b2dc89c21841"/>
+	</game>
+	<game name="Games Master - Issue 088 (1999-12)(Future Publishing)(GB)">
+		<description>Games Master - Issue 088 (1999-12)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 088 (1999-12)(Future Publishing)(GB).pdf" size="143403477" crc="ec4a7e0e" md5="c86817fc3523ed7bf7afafe942f9b87c" sha1="0bd31d1588299a7b8614a54d8a2ebc7657beea53"/>
+	</game>
+	<game name="Games Master - Issue 089 (1999)(Future Publishing)(GB)[christmas edition]">
+		<description>Games Master - Issue 089 (1999)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Games Master - Issue 089 (1999)(Future Publishing)(GB)[christmas edition].pdf" size="142750742" crc="18defa75" md5="e5cc0cfa40d434c8b4c6592ebbac504b" sha1="2f217eaac6e09052070b58a0d69e22c2f11a1736"/>
+	</game>
+	<game name="Games Master - Issue 093 (2000-04)(Future Publishing)(GB)">
+		<description>Games Master - Issue 093 (2000-04)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 093 (2000-04)(Future Publishing)(GB).pdf" size="311534493" crc="1f79fe8d" md5="b1a23d8062de812e967e6aeb2f421b24" sha1="d7456c6a6aa89c59baeeeb2c0ee1315305a71377"/>
+	</game>
+	<game name="Games Master - Issue 097 (2000-08)(Future Publishing)(GB)">
+		<description>Games Master - Issue 097 (2000-08)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 097 (2000-08)(Future Publishing)(GB).pdf" size="347621380" crc="9fbc0400" md5="eaf1c5a695e6fb154fe5fcfb67eb7ccb" sha1="94f010f5c92688f67cc813e7b383ce38d0bd9203"/>
+	</game>
+	<game name="Games Master - Issue 100 (2000-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 100 (2000-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 100 (2000-11)(Future Publishing)(GB).pdf" size="273794338" crc="4f6a2a3b" md5="124abed131ba830367d051be5df92734" sha1="7543a36426890b68cb9e10985b1cf827a5188af7"/>
+	</game>
+	<game name="Games Master - Issue 113 (2001-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 113 (2001-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 113 (2001-11)(Future Publishing)(GB).pdf" size="279020853" crc="3802ec1a" md5="255fbb0f546dc29177e985005a7028bc" sha1="bb1f75fbe0991f99275c0446e1109e341aba95b9"/>
+	</game>
+	<game name="Games Master - Issue 115 (2001)(Future Publishing)(GB)[xmas edition]">
+		<description>Games Master - Issue 115 (2001)(Future Publishing)(GB)[xmas edition]</description>
+		<rom name="Games Master - Issue 115 (2001)(Future Publishing)(GB)[xmas edition].pdf" size="310609657" crc="128ca87d" md5="7c8c59afea6f216d8184a9536824a7b4" sha1="5d335a7797eff474a6bca2163e0218486d4fab4f"/>
+	</game>
+	<game name="Games Master - Issue 116 (2002-01)(Future Publishing)(GB)">
+		<description>Games Master - Issue 116 (2002-01)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 116 (2002-01)(Future Publishing)(GB).pdf" size="301129391" crc="d0c23175" md5="1bcf8f0b3dfc43cecd465d2287a66a41" sha1="58c9b390b3b5cddff4950959889bd21c87d5a2c6"/>
+	</game>
+	<game name="Games Master - Issue 123 (2002-08)(Future Publishing)(GB)">
+		<description>Games Master - Issue 123 (2002-08)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 123 (2002-08)(Future Publishing)(GB).pdf" size="290014842" crc="cbe428db" md5="52306d13226d50c6edad61b8bf1d184c" sha1="f138e0d81a00a64bb0c0687e76e092fb0f3f1fa5"/>
+	</game>
+	<game name="Games Master - Issue 125 (2002-10)(Future Publishing)(GB)">
+		<description>Games Master - Issue 125 (2002-10)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 125 (2002-10)(Future Publishing)(GB).pdf" size="291662271" crc="a8f69799" md5="3ad1ff00f99477b5dcaaf16e8b0ff5ad" sha1="78f03c853bb62dd0fcb6eee66c500e7fbf4a33ee"/>
+	</game>
+	<game name="Games Master - Issue 128 (2002)(Future Publishing)(GB)[christmas edition]">
+		<description>Games Master - Issue 128 (2002)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Games Master - Issue 128 (2002)(Future Publishing)(GB)[christmas edition].pdf" size="284668877" crc="a25ce9b0" md5="3fe85d8e3f6e2850bbda28c6c9b73a35" sha1="f58ef0b0b9bc043d435068f4cd56995467fc4ecb"/>
+	</game>
+	<game name="Games Master - Issue 154 (2004)(Future Publishing)(GB)[christmas edition]">
+		<description>Games Master - Issue 154 (2004)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Games Master - Issue 154 (2004)(Future Publishing)(GB)[christmas edition].pdf" size="296449344" crc="0c809183" md5="c40f0f998c3a96a299c613ad0b2c14e0" sha1="4a9adb84f06443570bcae4e38406a7d200e0aeff"/>
+	</game>
+	<game name="Games Master - Issue 235 (2011-03)(Future Publishing)(GB)">
+		<description>Games Master - Issue 235 (2011-03)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 235 (2011-03)(Future Publishing)(GB).pdf" size="62516269" crc="b30d09d2" md5="ff85f0afb2ec17c3a301f5f6b40e3402" sha1="99c3a0e774da9083833945925bc69a7338731031"/>
+	</game>
+	<game name="Games Master - Issue 238 (2011-06)(Future Publishing)(GB)">
+		<description>Games Master - Issue 238 (2011-06)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 238 (2011-06)(Future Publishing)(GB).pdf" size="60971063" crc="c106b764" md5="b18c926e79c64832128ad811ff33c5ae" sha1="819711117c02500a94d661d4e0374edf3a9320a5"/>
+	</game>
+	<game name="Games Master - Issue 239 (2011-07)(Future Publishing)(GB)">
+		<description>Games Master - Issue 239 (2011-07)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 239 (2011-07)(Future Publishing)(GB).pdf" size="61217824" crc="b327cf60" md5="6efe51d2f288977837cf22cb36a3039e" sha1="db1a8f22f5f85f9cbf7b42cd94a0b4c84bdb6d9e"/>
+	</game>
+	<game name="Games Master - Issue 241 (2011-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 241 (2011-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 241 (2011-09)(Future Publishing)(GB).pdf" size="63844181" crc="475baf84" md5="905f5cfa9870349b22ee616015bc9c7a" sha1="0ba22f18201614749e2dc67aa21ad65f0c9544da"/>
+	</game>
+	<game name="Games Master - Issue 243 (2011-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 243 (2011-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 243 (2011-11)(Future Publishing)(GB).pdf" size="63843584" crc="85cc0dd7" md5="630a9e87b03b2b653f3660330b8b6f11" sha1="b6bb27458c8b7566cdd0b1abc3fe8587f96adc37"/>
+	</game>
+	<game name="Games Master - Issue 244 (2011-12)(Future Publishing)(GB)">
+		<description>Games Master - Issue 244 (2011-12)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 244 (2011-12)(Future Publishing)(GB).pdf" size="62980240" crc="593b3d7a" md5="1491b450fdccda02832d7b9d2b0fd5b4" sha1="40f52f775191f3a8fb1c1394ff4c289430baa0a4"/>
+	</game>
+	<game name="Games Master - Issue 246 (2012-01)(Future Publishing)(GB)">
+		<description>Games Master - Issue 246 (2012-01)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 246 (2012-01)(Future Publishing)(GB).pdf" size="137055235" crc="9f7e8447" md5="f2250a0a5a6c3ddf2a098a4d2256b9df" sha1="ff12e311d2964b79b79e1e739eaa2bded21d4c55"/>
+	</game>
+	<game name="Games Master - Issue 247 (2012-02)(Future Publishing)(GB)">
+		<description>Games Master - Issue 247 (2012-02)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 247 (2012-02)(Future Publishing)(GB).pdf" size="47689306" crc="19dd124f" md5="773788f4a38704311bdc24380793c631" sha1="846f33d461fef1e95735597e04ec2454123d3569"/>
+	</game>
+	<game name="Games Master - Issue 248 (2012-03)(Future Publishing)(GB)">
+		<description>Games Master - Issue 248 (2012-03)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 248 (2012-03)(Future Publishing)(GB).pdf" size="48072421" crc="864a5f34" md5="ef698514a9f9c95a03b37e5091450767" sha1="b511e6f077cc0bf89136f48e97d3b4047a30a6ab"/>
+	</game>
+	<game name="Games Master - Issue 249 (2012-04)(Future Publishing)(GB)">
+		<description>Games Master - Issue 249 (2012-04)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 249 (2012-04)(Future Publishing)(GB).pdf" size="123710831" crc="845ed7f9" md5="0677bd9d2b5b23ded44385a039893aab" sha1="b5a6384480aa5fb2bc930fc8a07799bdd376bbe5"/>
+	</game>
+	<game name="Games Master - Issue 250 (2012-05)(Future Publishing)(GB)">
+		<description>Games Master - Issue 250 (2012-05)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 250 (2012-05)(Future Publishing)(GB).pdf" size="134815818" crc="13eefbb9" md5="5c6c9703d56a1ad18415fae4e1fc859d" sha1="f8ec14aa490455952bb54ae83cfc89d60c67ba01"/>
+	</game>
+	<game name="Games Master - Issue 251 (2012-06)(Future Publishing)(GB)">
+		<description>Games Master - Issue 251 (2012-06)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 251 (2012-06)(Future Publishing)(GB).pdf" size="82457997" crc="fe2f7a3a" md5="e5b4c2641f03fac61d47d8959f455f59" sha1="485bf73548ac80be0d774e95ec15f0516ee71bad"/>
+	</game>
+	<game name="Games Master - Issue 252 (2012-07)(Future Publishing)(GB)">
+		<description>Games Master - Issue 252 (2012-07)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 252 (2012-07)(Future Publishing)(GB).pdf" size="115371681" crc="518144fb" md5="5e34adae48d92a216f050a26bc6bbf8a" sha1="93b68297616549a206ad9b8b49bec78852b3be8c"/>
+	</game>
+	<game name="Games Master - Issue 253 (2012-08)(Future Publishing)(GB)">
+		<description>Games Master - Issue 253 (2012-08)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 253 (2012-08)(Future Publishing)(GB).pdf" size="119361950" crc="4fa30172" md5="8dd4780220858d8e5e3acfbfd6c72c91" sha1="8cecc973c96cb00eee83f66e99183ecd7cb973df"/>
+	</game>
+	<game name="Games Master - Issue 254 (2012-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 254 (2012-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 254 (2012-09)(Future Publishing)(GB).pdf" size="134547417" crc="e3d986e9" md5="429d96f06948b68bb9411657bf07a740" sha1="1a1d6c3a633b0daf1ed53c26958d03092570b9a4"/>
+	</game>
+	<game name="Games Master - Issue 255 (2012-10)(Future Publishing)(GB)">
+		<description>Games Master - Issue 255 (2012-10)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 255 (2012-10)(Future Publishing)(GB).pdf" size="118524753" crc="753df207" md5="2dd0c4a7bc55ce0db7d631e8c1eb1ef2" sha1="978e9d25931af5e592d5ac2d36998960eb637c87"/>
+	</game>
+	<game name="Games Master - Issue 256 (2012-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 256 (2012-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 256 (2012-11)(Future Publishing)(GB).pdf" size="116615395" crc="6f4d69ab" md5="0debfbda40bd869986ec7e58addab2dd" sha1="5b94b4a3b5395ee23db18fc05249c03b46c75ef0"/>
+	</game>
+	<game name="Games Master - Issue 257 (2012-12)(Future Publishing)(GB)">
+		<description>Games Master - Issue 257 (2012-12)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 257 (2012-12)(Future Publishing)(GB).pdf" size="116099102" crc="a3dc8557" md5="a1d23ab9677722cd55a2546ef91f7e02" sha1="64b64b14a463ebc27f20bfacfd1bef2f627061d2"/>
+	</game>
+	<game name="Games Master - Issue 258 (2012)(Future Publishing)(GB)[christmas edition]">
+		<description>Games Master - Issue 258 (2012)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Games Master - Issue 258 (2012)(Future Publishing)(GB)[christmas edition].pdf" size="133659717" crc="c56b2168" md5="c8884e2877b61022cf1400134dab51c0" sha1="b55e418f810e5e54e1de7dcd5e7c0bec0537610b"/>
+	</game>
+	<game name="Games Master - Issue 259 (2013-01)(Future Publishing)(GB)">
+		<description>Games Master - Issue 259 (2013-01)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 259 (2013-01)(Future Publishing)(GB).pdf" size="117389668" crc="2142362e" md5="228aa8420544ca7e77c7096b9d63fc3f" sha1="5fd6245af4ffe508e7db5c163ecfc13c26a93c5e"/>
+	</game>
+	<game name="Games Master - Issue 260 (2013-02)(Future Publishing)(GB)">
+		<description>Games Master - Issue 260 (2013-02)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 260 (2013-02)(Future Publishing)(GB).pdf" size="112683952" crc="de272447" md5="4ff5fe74384e282ffd6e67ff57c7c592" sha1="0a232a9a759126774023232d922c8253d4f47f67"/>
+	</game>
+	<game name="Games Master - Issue 261 (2013-03)(Future Publishing)(GB)">
+		<description>Games Master - Issue 261 (2013-03)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 261 (2013-03)(Future Publishing)(GB).pdf" size="110203496" crc="d251d837" md5="079490eeeb8b7fa0a5db86c053c57c8a" sha1="18ca36e982c40035489656a30791e8847ac4488d"/>
+	</game>
+	<game name="Games Master - Issue 262 (2013-04)(Future Publishing)(GB)">
+		<description>Games Master - Issue 262 (2013-04)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 262 (2013-04)(Future Publishing)(GB).pdf" size="113273655" crc="50845cfe" md5="9999e64c8745304aba8f382f93b24291" sha1="d97c001cfde26e15436cb2fcf7dbc543166dd367"/>
+	</game>
+	<game name="Games Master - Issue 265 (2013-07)(Future Publishing)(GB)">
+		<description>Games Master - Issue 265 (2013-07)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 265 (2013-07)(Future Publishing)(GB).pdf" size="104858356" crc="17d78c54" md5="52d924fe75881cb6181d02d6ec676cc8" sha1="14a87d2acacb0dda4e1281c7a64c933a50dfef8f"/>
+	</game>
+	<game name="Games Master - Issue 267 (2013-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 267 (2013-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 267 (2013-09)(Future Publishing)(GB).pdf" size="100662776" crc="4e6d8459" md5="8b1b08b26e185223d4b1b7ff55027da9" sha1="79cc47f2f69d5e0d7aff647fe633d414c5dec2ef"/>
+	</game>
+	<game name="Games Master - Issue 268 (2013-10)(Future Publishing)(GB)">
+		<description>Games Master - Issue 268 (2013-10)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 268 (2013-10)(Future Publishing)(GB).pdf" size="53310258" crc="7afb2964" md5="fa2e14713300556e52a61e3111ea3645" sha1="336af1d27f1c10d3d327b426b4fccf81589b80af"/>
+	</game>
+	<game name="Games Master - Issue 269 (2013-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 269 (2013-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 269 (2013-11)(Future Publishing)(GB).pdf" size="116660892" crc="2d6fcb4b" md5="34ab8bbd1d8c7e5ffb6f27e254534bef" sha1="cb2895a73795d3b93f95caf6e63ece8ddec5ffa0"/>
+	</game>
+	<game name="Games Master - Issue 271 (2013)(Future Publishing)(GB)[xmas edition]">
+		<description>Games Master - Issue 271 (2013)(Future Publishing)(GB)[xmas edition]</description>
+		<rom name="Games Master - Issue 271 (2013)(Future Publishing)(GB)[xmas edition].pdf" size="39258590" crc="1e2c7fc5" md5="0b4f1cc9ce381b4501b43894a197c20c" sha1="a0082f28f6605fa2f5cecbc1763f76fb8a57ff2b"/>
+	</game>
+	<game name="Games Master - Issue 272 (2014-01)(Future Publishing)(GB)">
+		<description>Games Master - Issue 272 (2014-01)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 272 (2014-01)(Future Publishing)(GB).pdf" size="36139238" crc="c16584da" md5="b027ee3f57d5e5175ad228aa32bf3755" sha1="fd9ea4adac832a48e585e202137ddc0a9b09e29d"/>
+	</game>
+	<game name="Games Master - Issue 273 (2014-02)(Future Publishing)(GB)">
+		<description>Games Master - Issue 273 (2014-02)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 273 (2014-02)(Future Publishing)(GB).pdf" size="37463040" crc="0abce901" md5="7db48e2b922e6d48d826eb729c35b0c4" sha1="d508aa41f449d1bfe82156f7b6726b34589c94ea"/>
+	</game>
+	<game name="Games Master - Issue 274 (2014-03)(Future Publishing)(GB)">
+		<description>Games Master - Issue 274 (2014-03)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 274 (2014-03)(Future Publishing)(GB).pdf" size="36362736" crc="a28f1910" md5="9461ff92fe4fcd932861907251221271" sha1="e225d6c12464ecea51cbc66296955450737955b3"/>
+	</game>
+	<game name="Games Master - Issue 275 (2014-04)(Future Publishing)(GB)">
+		<description>Games Master - Issue 275 (2014-04)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 275 (2014-04)(Future Publishing)(GB).pdf" size="32947085" crc="5faf7560" md5="c2ac4b589e6a3e6219c7735d579bbb7c" sha1="3e43a835016bfde2b52ea3acb8ac90beb8200501"/>
+	</game>
+	<game name="Games Master - Issue 276 (2014-05)(Future Publishing)(GB)">
+		<description>Games Master - Issue 276 (2014-05)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 276 (2014-05)(Future Publishing)(GB).pdf" size="33226429" crc="5f130c7a" md5="ecd0ee537e6ad77b3fb87aafa48564dc" sha1="4977f3cd5ff7c3a2a7117421026d0f32cd585cfd"/>
+	</game>
+	<game name="Games Master - Issue 277 (2014-06)(Future Publishing)(GB)">
+		<description>Games Master - Issue 277 (2014-06)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 277 (2014-06)(Future Publishing)(GB).pdf" size="82051109" crc="f9fbef8d" md5="c7832ca4c1cc0bd712af7a5492c7cdf0" sha1="0ee37ff18f022f7821723ed5191b99f9b4139f16"/>
+	</game>
+	<game name="Games Master - Issue 277 (2014-06)(Future Publishing)(GB)[a]">
+		<description>Games Master - Issue 277 (2014-06)(Future Publishing)(GB)[a]</description>
+		<rom name="Games Master - Issue 277 (2014-06)(Future Publishing)(GB)[a].pdf" size="33487024" crc="74b90b85" md5="6e3ca8ad24fb8ad7630ab206f207e426" sha1="4cfc719a037eefadab8e811f543ed1ac8c1b82f5"/>
+	</game>
+	<game name="Games Master - Issue 278 (2014-07)(Future Publishing)(GB)">
+		<description>Games Master - Issue 278 (2014-07)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 278 (2014-07)(Future Publishing)(GB).pdf" size="32785872" crc="30b61f25" md5="3003c226078fc286260a3e357a425bb9" sha1="e512dc133a0c5498e4e4426d9ebdaae0c7e4f0ec"/>
+	</game>
+	<game name="Games Master - Issue 279 (2014-08)(Future Publishing)(GB)">
+		<description>Games Master - Issue 279 (2014-08)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 279 (2014-08)(Future Publishing)(GB).pdf" size="88804036" crc="99b5b921" md5="6ca163d66255a2316c1466629022d9d7" sha1="cbaa12b46ad85d4ddb0f0754f88a5e2a257d7e6a"/>
+	</game>
+	<game name="Games Master - Issue 279 (2014-08)(Future Publishing)(GB)[a]">
+		<description>Games Master - Issue 279 (2014-08)(Future Publishing)(GB)[a]</description>
+		<rom name="Games Master - Issue 279 (2014-08)(Future Publishing)(GB)[a].pdf" size="28115103" crc="ef328fb3" md5="a50f011e5451cdea1bba1c2635412fe1" sha1="284f5933980fc1b15451b60c6db166251c44e6f0"/>
+	</game>
+	<game name="Games Master - Issue 280 (2014-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 280 (2014-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 280 (2014-09)(Future Publishing)(GB).pdf" size="77393357" crc="db27f07a" md5="52b22f5b53246583671db314149a6468" sha1="6685242d698dffd8aa41764f31244ff0c351ee69"/>
+	</game>
+	<game name="Games Master - Issue 281 (2014-10)(Future Publishing)(GB)">
+		<description>Games Master - Issue 281 (2014-10)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 281 (2014-10)(Future Publishing)(GB).pdf" size="35070122" crc="f2519153" md5="e1055fb9e70944770ae860c0a99e76c5" sha1="0742e0bef061249506de7bd939d41618e3faca23"/>
+	</game>
+	<game name="Games Master - Issue 282 (2014-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 282 (2014-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 282 (2014-11)(Future Publishing)(GB).pdf" size="27779120" crc="49dafadf" md5="e00f4448a9fd814c3de096c3536e7bc7" sha1="8ed3dd4278ced48e5bc564da90e3f37b0514bde6"/>
+	</game>
+	<game name="Games Master - Issue 283 (2014-12)(Future Publishing)(GB)">
+		<description>Games Master - Issue 283 (2014-12)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 283 (2014-12)(Future Publishing)(GB).pdf" size="22538877" crc="45ca54da" md5="4d48f6f9d21ea6ba2ec452e5dd6b92b1" sha1="1b088a2e7794e1fc84948b57e42b022bf8297e20"/>
+	</game>
+	<game name="Games Master - Issue 284 (2014)(Future Publishing)(GB)[christmas edition]">
+		<description>Games Master - Issue 284 (2014)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Games Master - Issue 284 (2014)(Future Publishing)(GB)[christmas edition].pdf" size="31155333" crc="c79af8b3" md5="15bbac6bbd67c4acb8ec6a4bfa734c4a" sha1="fa1493d29b42928eec09ed3623351b97b6800260"/>
+	</game>
+	<game name="Games Master - Issue 285 (2015-01)(Future Publishing)(GB)">
+		<description>Games Master - Issue 285 (2015-01)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 285 (2015-01)(Future Publishing)(GB).pdf" size="40776516" crc="b9cc908a" md5="8a231ad8b2ce6f95f2da720e379b068e" sha1="f83d9278ea7b0be8b68b52e1c6e98c245f6aaf2b"/>
+	</game>
+	<game name="Games Master - Issue 286 (2015-02)(Future Publishing)(GB)">
+		<description>Games Master - Issue 286 (2015-02)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 286 (2015-02)(Future Publishing)(GB).pdf" size="22406261" crc="632ebd21" md5="3697037a905299f1fd9bf2a63ab9ebae" sha1="d89b71c85c0d46e535b07d280db99f4371bd6b9f"/>
+	</game>
+	<game name="Games Master - Issue 287 (2015-03)(Future Publishing)(GB)">
+		<description>Games Master - Issue 287 (2015-03)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 287 (2015-03)(Future Publishing)(GB).pdf" size="34692550" crc="8989edb1" md5="39fb8925722726b014ed002da26f533a" sha1="94198a43e4c8c4460c780ce33fb912b48e0b737a"/>
+	</game>
+	<game name="Games Master - Issue 288 (2015-04)(Future Publishing)(GB)">
+		<description>Games Master - Issue 288 (2015-04)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 288 (2015-04)(Future Publishing)(GB).pdf" size="37809696" crc="cfc6691e" md5="1bd0225e925f62a9396eef86cbdfc47e" sha1="ee8d8ce7cafb573a657c5e78ccf4b202d7f0a275"/>
+	</game>
+	<game name="Games Master - Issue 289 (2015-05)(Future Publishing)(GB)">
+		<description>Games Master - Issue 289 (2015-05)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 289 (2015-05)(Future Publishing)(GB).pdf" size="22921018" crc="297e925f" md5="e4aec61400434637d6e82217a1da9f6e" sha1="f9ed7f259c70a465dd5b4a1aa65f9ac20a773e2c"/>
+	</game>
+	<game name="Games Master - Issue 290 (2015-06)(Future Publishing)(GB)">
+		<description>Games Master - Issue 290 (2015-06)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 290 (2015-06)(Future Publishing)(GB).pdf" size="25830764" crc="a9e512bf" md5="6399ec3e51697bb32e977b73a98d4fcd" sha1="e4d6e24c4500a4b6b5b03aaa31976f22abc5f9e7"/>
+	</game>
+	<game name="Games Master - Issue 291 (2015-07)(Future Publishing)(GB)">
+		<description>Games Master - Issue 291 (2015-07)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 291 (2015-07)(Future Publishing)(GB).pdf" size="39423546" crc="1f369c5b" md5="9363e1cb5fa8c157c31318dd49ce881e" sha1="a110fbb85a2e619850b3b4abd3b2a2d292f286d7"/>
+	</game>
+	<game name="Games Master - Issue 292 (2015-08)(Future Publishing)(GB)">
+		<description>Games Master - Issue 292 (2015-08)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 292 (2015-08)(Future Publishing)(GB).pdf" size="28691081" crc="cbe384dc" md5="92bf6774beb9afcb8188956bb151041b" sha1="2d758f45b441649fcd8657f5bcba0c82b82cd730"/>
+	</game>
+	<game name="Games Master - Issue 293 (2015)(Future Publishing)(GB)[summer edition]">
+		<description>Games Master - Issue 293 (2015)(Future Publishing)(GB)[summer edition]</description>
+		<rom name="Games Master - Issue 293 (2015)(Future Publishing)(GB)[summer edition].pdf" size="57371999" crc="d562177e" md5="c39a95824ba188a7c8a368b4a48772cb" sha1="4a63d110b4b5b83f9ce4994648212e403d84b3cf"/>
+	</game>
+	<game name="Games Master - Issue 294 (2015-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 294 (2015-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 294 (2015-09)(Future Publishing)(GB).pdf" size="33365720" crc="75ce7936" md5="522eddab5aec1cd4e75972d5f6a8a265" sha1="244cad45abee79c5faf86a2016d1a4e9f1812dca"/>
+	</game>
+	<game name="Games Master - Issue 295 (2015-10)(Future Publishing)(GB)">
+		<description>Games Master - Issue 295 (2015-10)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 295 (2015-10)(Future Publishing)(GB).pdf" size="79700704" crc="3c6a45ee" md5="75ffaf27376a6276ee7066d0293cde06" sha1="11ddbd403e0ab5457878b3ba7c17ca31db3a7da2"/>
+	</game>
+	<game name="Games Master - Issue 295 (2015-10)(Future Publishing)(GB)[a]">
+		<description>Games Master - Issue 295 (2015-10)(Future Publishing)(GB)[a]</description>
+		<rom name="Games Master - Issue 295 (2015-10)(Future Publishing)(GB)[a].pdf" size="14056592" crc="496660d3" md5="7de17afe810a7b0c27e58c08217f8e9a" sha1="781b8500ddf4d8878b78087ff1b8130f8f42c860"/>
+	</game>
+	<game name="Games Master - Issue 296 (2015-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 296 (2015-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 296 (2015-11)(Future Publishing)(GB).pdf" size="40962596" crc="c5462891" md5="bfd04df098f74525fb2d2c02a24311fc" sha1="f73c0ef8e18ed81bffd91f6aaa401649c052cc5b"/>
+	</game>
+	<game name="Games Master - Issue 297 (2015-12)(Future Publishing)(GB)">
+		<description>Games Master - Issue 297 (2015-12)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 297 (2015-12)(Future Publishing)(GB).pdf" size="48657199" crc="64ce8e06" md5="4754eb5080366538b23bdc5b648d0747" sha1="c62a7b1772560648a47599d2688de85519e917d6"/>
+	</game>
+	<game name="Games Master - Issue 298 (2015)(Future Publishing)(GB)[christmas edition]">
+		<description>Games Master - Issue 298 (2015)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Games Master - Issue 298 (2015)(Future Publishing)(GB)[christmas edition].pdf" size="65705244" crc="a5efe69f" md5="f3fdd1847277948487928ceb8b729c36" sha1="16771902606f64b4c952844cd34b42e9a77e94fb"/>
+	</game>
+	<game name="Games Master - Issue 299 (2016-01)(Future Publishing)(GB)">
+		<description>Games Master - Issue 299 (2016-01)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 299 (2016-01)(Future Publishing)(GB).pdf" size="39094800" crc="b57e3b4d" md5="70937e0e07644f861404400e1de418af" sha1="bd223b85183a16307b97aba9320b83a14ce15029"/>
+	</game>
+	<game name="Games Master - Issue 300 (2016-02)(Future Publishing)(GB)">
+		<description>Games Master - Issue 300 (2016-02)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 300 (2016-02)(Future Publishing)(GB).pdf" size="46156490" crc="da1f9f2f" md5="1eb2bab24ea6ed4c60cf54a79870ba54" sha1="8ef1621480f3cc6549fcd82c6c21dbb5d2099060"/>
+	</game>
+	<game name="Games Master - Issue 301 (2016-03)(Future Publishing)(GB)">
+		<description>Games Master - Issue 301 (2016-03)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 301 (2016-03)(Future Publishing)(GB).pdf" size="32115628" crc="7a618ac7" md5="8b439f4e14f224891dd803333a68aa65" sha1="a98df1ecf1ed12b04b74d2f8c366016b330c46d3"/>
+	</game>
+	<game name="Games Master - Issue 302 (2016-04)(Future Publishing)(GB)">
+		<description>Games Master - Issue 302 (2016-04)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 302 (2016-04)(Future Publishing)(GB).pdf" size="20293656" crc="d21e3099" md5="f619a755b4783a6179a4a7498c6d8f05" sha1="5b4b5982a4a61659c96f7f5a97eed017c2de100a"/>
+	</game>
+	<game name="Games Master - Issue 303 (2016-05)(Future Publishing)(GB)">
+		<description>Games Master - Issue 303 (2016-05)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 303 (2016-05)(Future Publishing)(GB).pdf" size="48230468" crc="02a480fc" md5="7f9d5f464cd7daa3e2d0f0c0e0a66e57" sha1="2333c7a2004e0c23fb3b5922ea95d9551964e311"/>
+	</game>
+	<game name="Games Master - Issue 304 (2016-06)(Future Publishing)(GB)">
+		<description>Games Master - Issue 304 (2016-06)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 304 (2016-06)(Future Publishing)(GB).pdf" size="55450791" crc="cc52a435" md5="7cb228606e9b37a4b04e7103993ed118" sha1="55a5e9d221bdc89e740ff5343f78ac8d4a10342b"/>
+	</game>
+	<game name="Games Master - Issue 305 (2016-07)(Future Publishing)(GB)">
+		<description>Games Master - Issue 305 (2016-07)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 305 (2016-07)(Future Publishing)(GB).pdf" size="42852932" crc="f300853c" md5="ac448a8a094d13618df637d22d29f984" sha1="dbfe00889db178e2db303dff04f0d07f3aa14d7e"/>
+	</game>
+	<game name="Games Master - Issue 306 (2016-08)(Future Publishing)(GB)">
+		<description>Games Master - Issue 306 (2016-08)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 306 (2016-08)(Future Publishing)(GB).pdf" size="40649395" crc="814a945d" md5="7fd008e2f813ed79af88fe822e7881ec" sha1="c197b63b110023e95c91127e6982935039336a5d"/>
+	</game>
+	<game name="Games Master - Issue 307 (2016-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 307 (2016-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 307 (2016-09)(Future Publishing)(GB).pdf" size="41768871" crc="51bb1536" md5="77546933b6db250b3289aace29b73dca" sha1="117c84ce68fda695a45e00c43b4056757f359fd8"/>
+	</game>
+	<game name="Games Master - Issue 308 (2016-10)(Future Publishing)(GB)">
+		<description>Games Master - Issue 308 (2016-10)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 308 (2016-10)(Future Publishing)(GB).pdf" size="49302376" crc="6786c5cb" md5="6f4714fb59f3bb4602c5a1696d6163de" sha1="5a5c3671d476a42bb9c2540650741c991e18f670"/>
+	</game>
+	<game name="Games Master - Issue 309 (2016-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 309 (2016-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 309 (2016-11)(Future Publishing)(GB).pdf" size="44807899" crc="de325e00" md5="cb2cc8fc991e623fdb7492e6b8d7ec6f" sha1="a11f80962e78f1e41ec2e2eb54c4be0eb2207538"/>
+	</game>
+	<game name="Games Master - Issue 310 (2016-12)(Future Publishing)(GB)">
+		<description>Games Master - Issue 310 (2016-12)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 310 (2016-12)(Future Publishing)(GB).pdf" size="43227585" crc="e4835952" md5="9926be027fb48d96d81909ff55f334ab" sha1="e3fbc1e7d5254da2c9c1a291e6309da4362fec25"/>
+	</game>
+	<game name="Games Master - Issue 311 (2016)(Future Publishing)(GB)[christmas edition]">
+		<description>Games Master - Issue 311 (2016)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Games Master - Issue 311 (2016)(Future Publishing)(GB)[christmas edition].pdf" size="43288418" crc="08ba7df4" md5="cfba4b1b8e3ea42bc7fd929e47b1cee3" sha1="28003bef5d9df3b9607c40e0a80b75f863c3b4b0"/>
+	</game>
+	<game name="Games Master - Issue 312 (2017-01)(Future Publishing)(GB)">
+		<description>Games Master - Issue 312 (2017-01)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 312 (2017-01)(Future Publishing)(GB).pdf" size="42504489" crc="233fcab9" md5="e47530881a2819d3ff2e51d321f8560b" sha1="c22cea7f643aff390d97e488f929f1c4ba909cde"/>
+	</game>
+	<game name="Games Master - Issue 313 (2017-02)(Future Publishing)(GB)">
+		<description>Games Master - Issue 313 (2017-02)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 313 (2017-02)(Future Publishing)(GB).pdf" size="73127684" crc="1d309baa" md5="9bd54740b17f174e1bd1d2a389a20463" sha1="363229d82e7c33dbf7ef6d5edab2047876c845de"/>
+	</game>
+	<game name="Games Master - Issue 314 (2017-03)(Future Publishing)(GB)">
+		<description>Games Master - Issue 314 (2017-03)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 314 (2017-03)(Future Publishing)(GB).pdf" size="45301371" crc="b88eb56d" md5="516b8717b6b08f432c3b9d647ad27d20" sha1="41d2f41470e69b5e01d71c18f5e1779526a5d963"/>
+	</game>
+	<game name="Games Master - Issue 315 (2017-04)(Future Publishing)(GB)">
+		<description>Games Master - Issue 315 (2017-04)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 315 (2017-04)(Future Publishing)(GB).pdf" size="46151428" crc="738d1760" md5="bd2aa77cba75130e8cf507ad5a596d8d" sha1="c788118c4b85febcc1621f841dafd16943e15d04"/>
+	</game>
+	<game name="Games Master - Issue 316 (2017-05)(Future Publishing)(GB)">
+		<description>Games Master - Issue 316 (2017-05)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 316 (2017-05)(Future Publishing)(GB).pdf" size="41017585" crc="2143cc90" md5="ba98f993c5bba164c82d4996fc5ebee3" sha1="7b9e09ed73a8d3944ce92a60aff796ceb20c4f6e"/>
+	</game>
+	<game name="Games Master - Issue 317 (2017-06)(Future Publishing)(GB)">
+		<description>Games Master - Issue 317 (2017-06)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 317 (2017-06)(Future Publishing)(GB).pdf" size="49310337" crc="05238a30" md5="dcd80e72338ba7e5d9631014adc31e5e" sha1="d350e929b0068ea5e11a1f7ff00f174143f1f99c"/>
+	</game>
+	<game name="Games Master - Issue 318 (2017-07)(Future Publishing)(GB)">
+		<description>Games Master - Issue 318 (2017-07)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 318 (2017-07)(Future Publishing)(GB).pdf" size="47611382" crc="70ff5428" md5="1d294d54af885424f23b1feec01bc7f1" sha1="111fbecb7139141dcbe286b1394becf9e51c832f"/>
+	</game>
+	<game name="Games Master - Issue 319 (2017-08)(Future Publishing)(GB)">
+		<description>Games Master - Issue 319 (2017-08)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 319 (2017-08)(Future Publishing)(GB).pdf" size="41158920" crc="938d9cbf" md5="228576e886604a76e0c649c27abc0202" sha1="1cbf1eaef4b3a59935e00a568170c5301e954ed7"/>
+	</game>
+	<game name="Games Master - Issue 320 (2017-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 320 (2017-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 320 (2017-09)(Future Publishing)(GB).pdf" size="41650265" crc="355998ca" md5="87a06af4813ca051f6920e0478316df6" sha1="2500bf90b7e5fd41c55c8676203172049ec9df4e"/>
+	</game>
+	<game name="Games Master - Issue 321 (2017-10)(Future Publishing)(GB)">
+		<description>Games Master - Issue 321 (2017-10)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 321 (2017-10)(Future Publishing)(GB).pdf" size="38862671" crc="7993034c" md5="40a14db334c4615ff9dc7bbb06868c81" sha1="b8a80d6ce3db77bb8e35c3bb0f31961236ea12d2"/>
+	</game>
+	<game name="Games Master - Issue 322 (2017-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 322 (2017-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 322 (2017-11)(Future Publishing)(GB).pdf" size="42762929" crc="e8857c84" md5="47ca8294286153929e1bade8d9aefa2a" sha1="4e1d033d999d865e04eafbb2f639291e324c50ec"/>
+	</game>
+	<game name="Games Master - Issue 323 (2017-12)(Future Publishing)(GB)">
+		<description>Games Master - Issue 323 (2017-12)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 323 (2017-12)(Future Publishing)(GB).pdf" size="42747045" crc="0fca9a11" md5="998355926aa3dadfdf0cccefd6b92156" sha1="820889368b3470ec7b4ae4794379f29027abaaf7"/>
+	</game>
+	<game name="Games Master - Issue 324 (2017)(Future Publishing)(GB)[christmas edition]">
+		<description>Games Master - Issue 324 (2017)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Games Master - Issue 324 (2017)(Future Publishing)(GB)[christmas edition].pdf" size="34867029" crc="def3d867" md5="0509ce48af20bed5df033d2f641ab6b2" sha1="699d787cd3615d97b221b5806221f81676b21cd5"/>
+	</game>
+	<game name="Games Master - Issue 325 (2018-01)(Future Publishing)(GB)">
+		<description>Games Master - Issue 325 (2018-01)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 325 (2018-01)(Future Publishing)(GB).pdf" size="122869881" crc="39c8c271" md5="a34f09d89c934978da564dbc65a51c3f" sha1="bd3d81facd4e9b63993fd15a8c33a1e5e2aa9dac"/>
+	</game>
+	<game name="Games Master - Issue 326 (2018-02)(Future Publishing)(GB)">
+		<description>Games Master - Issue 326 (2018-02)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 326 (2018-02)(Future Publishing)(GB).pdf" size="41613918" crc="b6ffea19" md5="9dae7fb4da4b9bff405107174a1b6caf" sha1="7efeb587d19af60a68ddb613dfd4b61c7c1b8764"/>
+	</game>
+	<game name="Games Master - Issue 327 (2018-03)(Future Publishing)(GB)">
+		<description>Games Master - Issue 327 (2018-03)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 327 (2018-03)(Future Publishing)(GB).pdf" size="32753058" crc="53cebe83" md5="47cc96d735fc3d1633e7a56a0cc0a489" sha1="31c4cedc2599da9c4d500a334d64196506013490"/>
+	</game>
+	<game name="Games Master - Issue 328 (2018-04)(Future Publishing)(GB)">
+		<description>Games Master - Issue 328 (2018-04)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 328 (2018-04)(Future Publishing)(GB).pdf" size="64380474" crc="56787591" md5="dc27f69b9d0130461aee8b2e96d865c1" sha1="091de736014b8429606541e51a369c07412695ad"/>
+	</game>
+	<game name="Games Master - Issue 329 (2018-05)(Future Publishing)(GB)">
+		<description>Games Master - Issue 329 (2018-05)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 329 (2018-05)(Future Publishing)(GB).pdf" size="17582873" crc="ec98c271" md5="ab78d0dfbb4a7e716de4ee4f33ec8191" sha1="8a9de771ddf689d3abee2f8c1d3d3695a5116c37"/>
+	</game>
+	<game name="Games Master - Issue 330 (2018-06)(Future Publishing)(GB)">
+		<description>Games Master - Issue 330 (2018-06)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 330 (2018-06)(Future Publishing)(GB).pdf" size="65759893" crc="e8f99f77" md5="20e9a1fc77fcf61b73ee36fc96859aeb" sha1="2a3906655a6cd279c91e138809d04e8e3814e668"/>
+	</game>
+	<game name="Games Master - Issue 331 (2018-07)(Future Publishing)(GB)">
+		<description>Games Master - Issue 331 (2018-07)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 331 (2018-07)(Future Publishing)(GB).pdf" size="17743493" crc="4c5a593a" md5="cf29463df1ba062965a170191292beb7" sha1="5fb56154e0937399e252632f200798ff3d0b8bd6"/>
+	</game>
+	<game name="Games Master - Issue 332 (2018-08)(Future Publishing)(GB)">
+		<description>Games Master - Issue 332 (2018-08)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 332 (2018-08)(Future Publishing)(GB).pdf" size="42963999" crc="7306aca7" md5="793cdfeabcbb3dffe603d1daa899740e" sha1="04f8491b7d1201fc53545a9b7442dd9726081804"/>
+	</game>
+	<game name="Games Master - Issue 333 (2018-09)(Future Publishing)(GB)">
+		<description>Games Master - Issue 333 (2018-09)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 333 (2018-09)(Future Publishing)(GB).pdf" size="15012546" crc="8821e1b8" md5="97513c09ad91e7036a4d7640605a4258" sha1="f6e2958eb9cd5cc430a8fdfd1d2aa9bd109b6984"/>
+	</game>
+	<game name="Games Master - Issue 334 (2018-10)(Future Publishing)(GB)">
+		<description>Games Master - Issue 334 (2018-10)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 334 (2018-10)(Future Publishing)(GB).pdf" size="43500348" crc="b50d461e" md5="f73da3ed71da4aa50e8ebc2be6aa4cbf" sha1="3a2f95cc115f51034b3ca01399f8ede740496812"/>
+	</game>
+	<game name="Games Master - Issue 335 (2018-11)(Future Publishing)(GB)">
+		<description>Games Master - Issue 335 (2018-11)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 335 (2018-11)(Future Publishing)(GB).pdf" size="16918899" crc="409b7f48" md5="1627ca621ce16fb2e707d2bdad13c1a3" sha1="e24324fbeb1327010167de3f084b1e09be8d9bc9"/>
+	</game>
+	<game name="Games Master - Issue 336 (2018-12)(Future Publishing)(GB)">
+		<description>Games Master - Issue 336 (2018-12)(Future Publishing)(GB)</description>
+		<rom name="Games Master - Issue 336 (2018-12)(Future Publishing)(GB).pdf" size="17207047" crc="f20489c9" md5="4f27fb91fdf439466ee8c12f85001bba" sha1="c47f66ebfd2240dc5f9979971c97456bdcb2d914"/>
+	</game>
+	<game name="Games Master - Special Issue 001 (2014)(Future Publishing)(GB)[Mario 25th Anniversary]">
+		<description>Games Master - Special Issue 001 (2014)(Future Publishing)(GB)[Mario 25th Anniversary]</description>
+		<rom name="Games Master - Special Issue 001 (2014)(Future Publishing)(GB)[Mario 25th Anniversary].pdf" size="78800381" crc="f5ae90e6" md5="10b9a958825357662c27b4d89d804f38" sha1="9c42296a24c99f348c6c9bc3a32a05f91574040d"/>
+	</game>
+	<game name="Games Master MiniMag (1993)(Future Publishing)(GB)">
+		<description>Games Master MiniMag (1993)(Future Publishing)(GB)</description>
+		<rom name="Games Master MiniMag (1993)(Future Publishing)(GB).pdf" size="49553584" crc="e9785132" md5="3ef3f3494f530562531031b76d307f25" sha1="0be6e05d1493e83683ece1fd76c46bf5bb0a25c8"/>
+	</game>
+</datafile>

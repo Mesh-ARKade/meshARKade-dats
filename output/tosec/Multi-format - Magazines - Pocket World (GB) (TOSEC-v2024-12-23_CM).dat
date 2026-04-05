@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Pocket World (GB)</name>
+		<description>Multi-format - Magazines - Pocket World (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pocket World - Issue 139 (2013)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 139 (2013)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 139 (2013)(Imagine Publishing)(GB).pdf" size="54741464" crc="d51229ee" md5="e88ab895a1571df0834a7a7b2a641c3c" sha1="38d29baab6755d4a0dbd6a132d23e6e49c71f626"/>
+	</game>
+	<game name="Pocket World - Issue 140 (2013)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 140 (2013)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 140 (2013)(Imagine Publishing)(GB).pdf" size="31060177" crc="3ced21c2" md5="9be5673eb3701fcb92d7deac0fdfa8ea" sha1="b991205c23188817d4db8851692750b55cf821a7"/>
+	</game>
+	<game name="Pocket World - Issue 141 (2013)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 141 (2013)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 141 (2013)(Imagine Publishing)(GB).pdf" size="61467795" crc="550ec590" md5="762fcb59f42a7846c2e954363016d837" sha1="168a886f6933584f8ad3c567eb31221df62e110e"/>
+	</game>
+	<game name="Pocket World - Issue 142 (2013)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 142 (2013)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 142 (2013)(Imagine Publishing)(GB).pdf" size="51100752" crc="88680fe9" md5="85f9f52451ca1f2afa13d5c61b97e92f" sha1="ca415884818abc0fc8393e918da6ac71038c3e51"/>
+	</game>
+	<game name="Pocket World - Issue 151 (2014)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 151 (2014)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 151 (2014)(Imagine Publishing)(GB).pdf" size="22906641" crc="d37a3172" md5="ddea18612f80c71dfcb527c25b765a12" sha1="33a522966b0bb539506dbd16aba6224981799dd7"/>
+	</game>
+	<game name="Pocket World - Issue 155 (2014)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 155 (2014)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 155 (2014)(Imagine Publishing)(GB).pdf" size="44694107" crc="0eafab2f" md5="615c8dd6788245a54280f43278d70cf0" sha1="c33112672a64680c45622a6175f7006688e52832"/>
+	</game>
+	<game name="Pocket World - Issue 156 (2014)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 156 (2014)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 156 (2014)(Imagine Publishing)(GB).pdf" size="43830953" crc="adc68300" md5="b05e6cd5b278bef19262fb873f4c0bd6" sha1="8c0c0f1ee57caacc76c53b6b52914c8b0dd5762e"/>
+	</game>
+	<game name="Pocket World - Issue 157 (2014)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 157 (2014)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 157 (2014)(Imagine Publishing)(GB).pdf" size="43550719" crc="44e6dd4f" md5="cd2981a652fe36fc9de4fb7b904b7e49" sha1="211da5f5835b51b66cbcf288878a495b37295044"/>
+	</game>
+	<game name="Pocket World - Issue 159 (2014)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 159 (2014)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 159 (2014)(Imagine Publishing)(GB).pdf" size="44831940" crc="e37cc9f9" md5="3129a9724c1994e174d2648471bdcbf3" sha1="eb0419f533d4acbcb55d77b773adce080fa82640"/>
+	</game>
+	<game name="Pocket World - Issue 160 (2014)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 160 (2014)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 160 (2014)(Imagine Publishing)(GB).pdf" size="29964431" crc="67517555" md5="c7196cc9b910c96e4f842b8384bee945" sha1="7f974ca35c236def7fa6f9698b9b5a1d3e7ba6d9"/>
+	</game>
+	<game name="Pocket World - Issue 168 (2015)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 168 (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 168 (2015)(Imagine Publishing)(GB).pdf" size="31759095" crc="12f58d6b" md5="897016c84fecf2b91015255ac7ce3f17" sha1="6b7b70d61a646c6569cab00c5e4224a23ac58afa"/>
+	</game>
+	<game name="Pocket World - Issue 170 (2015)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 170 (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 170 (2015)(Imagine Publishing)(GB).pdf" size="29292619" crc="34086483" md5="1c3499513d9adad3eab0668a292a8b8f" sha1="127ec7e1a9e1aab66a0b4e74b66bba89ebcda9df"/>
+	</game>
+	<game name="Pocket World - Issue 171 (2015)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 171 (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 171 (2015)(Imagine Publishing)(GB).pdf" size="31649414" crc="d4acf618" md5="1b78e958ca9b8f5d06c60afc2f162f49" sha1="90c979630f8b1937b7e884e43806cea2df5c6c1a"/>
+	</game>
+	<game name="Pocket World - Issue 172 (2015)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 172 (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 172 (2015)(Imagine Publishing)(GB).pdf" size="10964465" crc="872b92da" md5="6c9e7cb5ebaf133609fe3f611c41af7e" sha1="38099831821b80eb7040e267bf34e6107ebe2b99"/>
+	</game>
+	<game name="Pocket World - Issue 174 (2015)(Imagine Publishing)(GB)">
+		<description>Pocket World - Issue 174 (2015)(Imagine Publishing)(GB)</description>
+		<rom name="Pocket World - Issue 174 (2015)(Imagine Publishing)(GB).pdf" size="26459962" crc="a37e56af" md5="733071a19eecaa1bfdf5250644747354" sha1="069a2af58a1db9afb1b15ee10b8e4e8f40c7f941"/>
+	</game>
+</datafile>

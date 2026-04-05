@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Servo Magazine (US)</name>
+		<description>Multi-format - Magazines - Servo Magazine (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Servo Magazine - Volume 01 Issue 01 (2003-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 01 Issue 01 (2003-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 01 Issue 01 (2003-11)(T&amp;L Publications)(US).pdf" size="27355598" crc="1868445a" md5="e3792fccb8b0289c632b5f0e6bdeb57e" sha1="b67bd2482e8572ec119ea4b2e9878f3f9d99cae5"/>
+	</game>
+	<game name="Servo Magazine - Volume 01 Issue 02 (2003-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 01 Issue 02 (2003-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 01 Issue 02 (2003-12)(T&amp;L Publications)(US).pdf" size="30001872" crc="115093c8" md5="f4c29cc3af737660d122aef318eaa2c3" sha1="dbfbd11d3bff17ea509355802c26c6766bc53b0e"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 01 (2004-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 01 (2004-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 01 (2004-01)(T&amp;L Publications)(US).pdf" size="32855016" crc="5ac7826c" md5="45853e08a8a7224f9252492c8bed9010" sha1="3991c5b92f911ffef4e84a2c865aa38a3f8504e0"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 02 (2004-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 02 (2004-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 02 (2004-02)(T&amp;L Publications)(US).pdf" size="29722267" crc="c2e01086" md5="196ea563717afa30fb0f728933020466" sha1="e563cc98b4c08de69831c36cf8dd082cae49e86a"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 03 (2004-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 03 (2004-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 03 (2004-03)(T&amp;L Publications)(US).pdf" size="25702054" crc="1a0b989d" md5="6afc995eb958ca037d1e73aa17ca34b1" sha1="d30f56bfa19b4a703e056b970c776c320f201582"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 04 (2004-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 04 (2004-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 04 (2004-04)(T&amp;L Publications)(US).pdf" size="28417866" crc="0224a4f9" md5="b37f7c97f1c55da02cfa1f70ffcdebb7" sha1="bb4bc98974aa99b5dbd5b2c28e1cf5e20c107322"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 05 (2004-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 05 (2004-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 05 (2004-05)(T&amp;L Publications)(US).pdf" size="26245448" crc="0b44af15" md5="9f121fe3d4ba12184b472ca4601a3d3b" sha1="76c933facf4f5433a6277297bfd71160087f9869"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 06 (2004-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 06 (2004-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 06 (2004-06)(T&amp;L Publications)(US).pdf" size="30542251" crc="81d0db72" md5="14bd7dc44e0faf6bc5ecef1580075f4e" sha1="d8f10e4a1d34bb8613254453c6f79873fe2384c4"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 07 (2004-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 07 (2004-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 07 (2004-07)(T&amp;L Publications)(US).pdf" size="27983428" crc="d304d4cb" md5="e3c60617f5cb0862f6a8d328997ed4a0" sha1="d106b020a8797d5ecb88d59d3be73358c2ef2913"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 08 (2004-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 08 (2004-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 08 (2004-08)(T&amp;L Publications)(US).pdf" size="30211737" crc="b4376a0a" md5="af1b8785a6db94685d0a247d497513ae" sha1="874ed64f5c99614e1fa9c5e7868ff5627b7cc636"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 09 (2004-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 09 (2004-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 09 (2004-09)(T&amp;L Publications)(US).pdf" size="29890132" crc="2a707cc3" md5="cf801c4aa335b2f85845c56055123560" sha1="6f581c1e0b97e63f778b7287326093a1af3ff171"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 10 (2004-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 10 (2004-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 10 (2004-10)(T&amp;L Publications)(US).pdf" size="29012225" crc="c74cd591" md5="7691af9a74003e3d3f0b72f0a414f5cb" sha1="2f7a2ddeb1bf32db1da48e19dd684029819699e9"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 11 (2004-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 11 (2004-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 11 (2004-11)(T&amp;L Publications)(US).pdf" size="38931129" crc="382efdc6" md5="6c1c393cb39dcd93e4140ebad02ea073" sha1="0a2b151992f7f7923a4ff84c1d77f428604bb32a"/>
+	</game>
+	<game name="Servo Magazine - Volume 02 Issue 12 (2004-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 02 Issue 12 (2004-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 02 Issue 12 (2004-12)(T&amp;L Publications)(US).pdf" size="35867313" crc="d95d906d" md5="7de0c8f7c89133b99ce64e3ea209b6c5" sha1="f4b71bde9873e1140c1fa9bf9dd380df8fd60816"/>
+	</game>
+	<game name="Servo Magazine - Volume 03 Issue 01 (2005-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 03 Issue 01 (2005-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 03 Issue 01 (2005-01)(T&amp;L Publications)(US).pdf" size="58296462" crc="26e5f95c" md5="48b992da878641b4f344905c8190ac4c" sha1="f7c37a02fd332dff2d3a76cce3b215133e87c731"/>
+	</game>
+	<game name="Servo Magazine - Volume 03 Issue 03 (2005-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 03 Issue 03 (2005-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 03 Issue 03 (2005-03)(T&amp;L Publications)(US).pdf" size="67411703" crc="ce1b3525" md5="ee02d3aeeb59403c95cc3c4cf68e0156" sha1="76eef259a48709bc114177bc3fc0d388d44addd9"/>
+	</game>
+	<game name="Servo Magazine - Volume 03 Issue 04 (2005-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 03 Issue 04 (2005-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 03 Issue 04 (2005-04)(T&amp;L Publications)(US).pdf" size="57748052" crc="d173fe15" md5="b11bf8e432ff62cd65cf0a0d4e5a3b60" sha1="460789eea366b997df2aea095a6d5804d1943cc3"/>
+	</game>
+	<game name="Servo Magazine - Volume 03 Issue 05 (2005-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 03 Issue 05 (2005-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 03 Issue 05 (2005-05)(T&amp;L Publications)(US).pdf" size="61706425" crc="a863207b" md5="cc4623b8bf1fc946db71cc9c5fa4eddb" sha1="1747530b19f58a68100e2a6e111096b0f373369c"/>
+	</game>
+	<game name="Servo Magazine - Volume 03 Issue 06 (2005-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 03 Issue 06 (2005-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 03 Issue 06 (2005-06)(T&amp;L Publications)(US).pdf" size="26310336" crc="380d6b1b" md5="25b8c3e6a985d0b7a42e34d23f34ca20" sha1="6ac7de3deae3e4376f1e2707392734a44df0e992"/>
+	</game>
+	<game name="Servo Magazine - Volume 03 Issue 08 (2005-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 03 Issue 08 (2005-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 03 Issue 08 (2005-08)(T&amp;L Publications)(US).pdf" size="28536338" crc="30818b69" md5="8534513e69f8bb3904b2e30aa511ebb5" sha1="ddc18aa1cfd5977b12bef9530a378dff9c8bb4e8"/>
+	</game>
+	<game name="Servo Magazine - Volume 03 Issue 09 (2005-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 03 Issue 09 (2005-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 03 Issue 09 (2005-09)(T&amp;L Publications)(US).pdf" size="31439147" crc="8b1c9ef3" md5="f1bcd6d443dbeafd1c6e9dce93e8e398" sha1="1e123b164afba7aca060b5947f94c2be9d50e193"/>
+	</game>
+	<game name="Servo Magazine - Volume 03 Issue 10 (2005-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 03 Issue 10 (2005-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 03 Issue 10 (2005-10)(T&amp;L Publications)(US).pdf" size="32923191" crc="966f46d1" md5="9e1575cd8a884afa53e2c4fd725a11b7" sha1="dc9dac72f50b035bf3f6ee921506c15a61d42a75"/>
+	</game>
+	<game name="Servo Magazine - Volume 03 Issue 11 (2005-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 03 Issue 11 (2005-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 03 Issue 11 (2005-11)(T&amp;L Publications)(US).pdf" size="29486031" crc="42f36441" md5="13e3b40e78440b5990a1f2708f7fb17b" sha1="33d1e965f0555eccd8a7d11cf5bfc398a70f84a4"/>
+	</game>
+	<game name="Servo Magazine - Volume 03 Issue 12 (2005-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 03 Issue 12 (2005-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 03 Issue 12 (2005-12)(T&amp;L Publications)(US).pdf" size="37917979" crc="46f828d2" md5="6f86bb05a40b3284b40061f089cb1aad" sha1="b241e9835a11ff1a7e66126f81ab557cf0ab9351"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 01 (2006-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 01 (2006-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 01 (2006-01)(T&amp;L Publications)(US).pdf" size="27884917" crc="d88b8f40" md5="aec44de59528de0e801e7c867f651154" sha1="a05ebb15be38def1a85ad080e0db02279a09ab7f"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 02 (2006-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 02 (2006-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 02 (2006-02)(T&amp;L Publications)(US).pdf" size="32675442" crc="25198f4d" md5="f95732938d89918efd0f196dc6ecdfd9" sha1="e0efd511cfeb0d0f06bea343b4f8065c92244143"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 03 (2006-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 03 (2006-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 03 (2006-03)(T&amp;L Publications)(US).pdf" size="32640833" crc="99aa3912" md5="30185b6dd2eec1e3e21308508dfcd46e" sha1="cd0b9fb12a040bd1275b556edbe92a32b5b00284"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 04 (2006-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 04 (2006-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 04 (2006-04)(T&amp;L Publications)(US).pdf" size="32291897" crc="a09fed38" md5="f7739d46646f801f083c5f0013f3a782" sha1="8c2bb3aac41eca6902fee0271bdc5c295f6c1b09"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 05 (2006-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 05 (2006-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 05 (2006-05)(T&amp;L Publications)(US).pdf" size="31487835" crc="51633d17" md5="640ec3caf6c9f29adec1919a2e28a12d" sha1="ec9f573f2c907493c9c553fa3348994041b8f9f6"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 06 (2006-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 06 (2006-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 06 (2006-06)(T&amp;L Publications)(US).pdf" size="33650016" crc="e012cdd7" md5="ccd58a6223b8ff4c5217665f2102401a" sha1="fe5c1f3cd0b7633283498d06979344a233c624df"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 07 (2006-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 07 (2006-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 07 (2006-07)(T&amp;L Publications)(US).pdf" size="29020546" crc="2387c783" md5="4fd80dc81d3bf25d0108bb7905f619d9" sha1="5e951410a337b1b0810ec4139f1e3b2dacb4ca40"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 08 (2006-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 08 (2006-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 08 (2006-08)(T&amp;L Publications)(US).pdf" size="29986050" crc="abd742b6" md5="2e2a15c694ae6c661c20c651cfab8460" sha1="46f892024b5c25792ceaf41217892e5f9fa8ff86"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 09 (2006-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 09 (2006-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 09 (2006-09)(T&amp;L Publications)(US).pdf" size="37770977" crc="be95ed50" md5="12aa199055a3c6b88679beee93791c17" sha1="fb58bbbd4e061e9213a42244b6c06b1bbe0a5e71"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 10 (2006-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 10 (2006-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 10 (2006-10)(T&amp;L Publications)(US).pdf" size="37342898" crc="fefaa9b9" md5="8cdf6e8d2d4d9bd2beef335bb1b7448a" sha1="6dd179c1bb15819a2bad1bd3e1f71fe542248133"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 11 (2006-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 11 (2006-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 11 (2006-11)(T&amp;L Publications)(US).pdf" size="32684803" crc="25b62512" md5="a471ac189741eb1b4367cf1e0f0fe173" sha1="ad051f0469f6ef55c1ee8a697c5a620e51d47217"/>
+	</game>
+	<game name="Servo Magazine - Volume 04 Issue 12 (2006-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 04 Issue 12 (2006-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 04 Issue 12 (2006-12)(T&amp;L Publications)(US).pdf" size="40772852" crc="bc369b10" md5="e6af7dd63b8a2631db4e8e238b41b757" sha1="c8a07acd7049a818550afcd64e4eb1c61e4cc1dc"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 01 (2007-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 01 (2007-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 01 (2007-01)(T&amp;L Publications)(US).pdf" size="32738528" crc="a8c193be" md5="819fafc777a3766b4a73da85ff08616f" sha1="6fa65b726a1e4080f451e5e74b9c6ca23c81667d"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 02 (2007-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 02 (2007-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 02 (2007-02)(T&amp;L Publications)(US).pdf" size="32122760" crc="3ab10eb1" md5="133c27d567d71674e68f17d20c8c1d6d" sha1="2cce7ff9e3beebc2bc3383d5ac83edada27d3a33"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 03 (2007-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 03 (2007-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 03 (2007-03)(T&amp;L Publications)(US).pdf" size="15036837" crc="ab9d4c28" md5="18fa6120e4144c46fb0b4cb7607a5518" sha1="d46c65fe7308ab20f62ba7406b0d6157ca51cf21"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 04 (2007-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 04 (2007-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 04 (2007-04)(T&amp;L Publications)(US).pdf" size="11882242" crc="e042b376" md5="e69e9a6b980abcc64182a75e508e8041" sha1="16e79656edc42edd602426c0877c928f2cae405a"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 05 (2007-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 05 (2007-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 05 (2007-05)(T&amp;L Publications)(US).pdf" size="11545213" crc="8bf5917c" md5="160e09483c5cab7bd52db2f4233c83a2" sha1="b76e38d38c8b3d59b27d8bee8b645f89731c14db"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 06 (2007-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 06 (2007-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 06 (2007-06)(T&amp;L Publications)(US).pdf" size="29876254" crc="fcff6448" md5="3600c95edf48adb27bf5d50139f91da3" sha1="642ec374a9102ad57e4258501453c4520d139e9e"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 07 (2007-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 07 (2007-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 07 (2007-07)(T&amp;L Publications)(US).pdf" size="11755476" crc="34d7dc37" md5="31077880ba634b69174824378eabd8db" sha1="e1241976ab30b732d6f7aaf6a32526ac69b903fb"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 08 (2007-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 08 (2007-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 08 (2007-08)(T&amp;L Publications)(US).pdf" size="12926495" crc="a4f87652" md5="4b20efc8c53b52bd229ade67a8f70c70" sha1="5bb9ed0fcfbfe54035f5f729691886ea8ddc22aa"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 09 (2007-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 09 (2007-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 09 (2007-09)(T&amp;L Publications)(US).pdf" size="9396635" crc="85aabf80" md5="2b0f47c46a0ecd6c589931ff186776a6" sha1="b2ecd7485b41daff65c5fe3877cd9038a961dfbb"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 10 (2007-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 10 (2007-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 10 (2007-10)(T&amp;L Publications)(US).pdf" size="12536857" crc="e7719038" md5="2811df1013568ca5061598be1d0fc7f3" sha1="6efeb5e1072346281f36395ef9ba5e3d8e144b07"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 11 (2007-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 11 (2007-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 11 (2007-11)(T&amp;L Publications)(US).pdf" size="37616718" crc="9006a405" md5="6a58d0d5d39f37ca895167e29fc04c98" sha1="e97d7c13076400954d1b6017afe8dab8df648a3b"/>
+	</game>
+	<game name="Servo Magazine - Volume 05 Issue 12 (2007-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 05 Issue 12 (2007-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 05 Issue 12 (2007-12)(T&amp;L Publications)(US).pdf" size="38373551" crc="06d43c26" md5="fc0eee84ddcd3e219dcbb0ca6d920549" sha1="cd1a7de9fac248cb761ebbb81257ec27b29245fa"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 01 (2008-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 01 (2008-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 01 (2008-01)(T&amp;L Publications)(US).pdf" size="11244401" crc="f49ae1fb" md5="1c90400bed4c609815ec7f0e8e246c81" sha1="c5098de65b80a0e1da9117d709fae982264bca5e"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 02 (2008-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 02 (2008-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 02 (2008-02)(T&amp;L Publications)(US).pdf" size="16808064" crc="71afd650" md5="6a8826972b2ca3ffeedfee144534a194" sha1="0a77c0de4df02a22736cd1708f984981677f5a62"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 03 (2008-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 03 (2008-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 03 (2008-03)(T&amp;L Publications)(US).pdf" size="16757062" crc="62a8d214" md5="08382499191d3f418df9a147ca575985" sha1="3674474369aaaf4c22e0ed39980da61ce554ff47"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 04 (2008-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 04 (2008-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 04 (2008-04)(T&amp;L Publications)(US).pdf" size="16038020" crc="9dbbba3b" md5="d6f53a03faed1b68e0834a3b18f7d467" sha1="10d729aa6bc55db22aa31e6511ffddd6bb601f3a"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 05 (2008-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 05 (2008-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 05 (2008-05)(T&amp;L Publications)(US).pdf" size="16402008" crc="4b655ba2" md5="cf5602643d235a1d98f575d532e47787" sha1="8ce81e1b6ff905059af7d4de08c38bc142401101"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 06 (2008-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 06 (2008-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 06 (2008-06)(T&amp;L Publications)(US).pdf" size="16137026" crc="39403bac" md5="e7534bcef6daab37fd895b2a37726c0c" sha1="b384b75ec509d3033db881612f2dd82b8d7f6722"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 07 (2008-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 07 (2008-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 07 (2008-07)(T&amp;L Publications)(US).pdf" size="16285846" crc="42f97e70" md5="42dffa86eb5b2adf6c71720fe9c7a33f" sha1="3380cdc213bfac49c3589c8a0c23afbcb8db381d"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 08 (2008-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 08 (2008-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 08 (2008-08)(T&amp;L Publications)(US).pdf" size="13918857" crc="3a60e8f3" md5="80507ea300bfac95c3a5c21950260660" sha1="7acd05d0d5403396800b54e279d013a20983ef0b"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 09 (2008-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 09 (2008-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 09 (2008-09)(T&amp;L Publications)(US).pdf" size="35199935" crc="b6fb57bc" md5="f36e1b2496409aa0c074785fa932050d" sha1="e56c59f03cd51ac3c3dba82902b32a7043ed3280"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 10 (2008-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 10 (2008-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 10 (2008-10)(T&amp;L Publications)(US).pdf" size="14094093" crc="f12787a5" md5="48f08974b2fd26709804dfbd73b81139" sha1="8dfc10b761b6d97849debcfe457edd0a9f569474"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 11 (2008-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 11 (2008-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 11 (2008-11)(T&amp;L Publications)(US).pdf" size="13789960" crc="735c484a" md5="ed08c0186aedba6cf2a248868d04b61b" sha1="56ef049bca1065cbb20623e78ea5fd258adb9d15"/>
+	</game>
+	<game name="Servo Magazine - Volume 06 Issue 12 (2008-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 06 Issue 12 (2008-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 06 Issue 12 (2008-12)(T&amp;L Publications)(US).pdf" size="14877844" crc="a75e766e" md5="f942d9599a7cd2be071a8b93e3436fc9" sha1="ff3dfdf321695529f7182484c30aceb2191a2375"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 01 (2009-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 01 (2009-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 01 (2009-01)(T&amp;L Publications)(US).pdf" size="43614268" crc="c66418c2" md5="6b5589e17896d880c72db4f958340778" sha1="ff4a555bb282b6cffe403d4cda738146f7539db4"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 02 (2009-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 02 (2009-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 02 (2009-02)(T&amp;L Publications)(US).pdf" size="15780088" crc="981192d2" md5="0c07c9406221ec35d994ffc773f35dc8" sha1="1911347fa6c126a6887958d4b8f4fd215fe52e76"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 03 (2009-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 03 (2009-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 03 (2009-03)(T&amp;L Publications)(US).pdf" size="14208098" crc="952ec97b" md5="23954aef45360b68ea7ef774eac3f93a" sha1="9b53827036ff5f8bc9e2fa70e7f749b78097c6ea"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 04 (2009-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 04 (2009-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 04 (2009-04)(T&amp;L Publications)(US).pdf" size="13873904" crc="562b0cbd" md5="255941364be36ec2a59a5e6d81871dc6" sha1="5d8a67f268e5ad515b1fee329bb59c00b5000c97"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 05 (2009-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 05 (2009-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 05 (2009-05)(T&amp;L Publications)(US).pdf" size="13940642" crc="dca0d172" md5="eea133ec40ab20842afc811980e24367" sha1="cc736127151eb40dba644302b08707aa681bc8a1"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 06 (2009-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 06 (2009-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 06 (2009-06)(T&amp;L Publications)(US).pdf" size="14889676" crc="b5078207" md5="634cece5d296d2f7882d934ff308ca71" sha1="ffbfda554ac0f88f2ec06e3c25bcacbc91e3c2e8"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 07 (2009-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 07 (2009-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 07 (2009-07)(T&amp;L Publications)(US).pdf" size="13752634" crc="2bc3b78a" md5="c54a0526b7486bf798ae8634ea231e7f" sha1="50f40c322415573fe0dc24f552b4ef47ed6b8845"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 08 (2009-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 08 (2009-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 08 (2009-08)(T&amp;L Publications)(US).pdf" size="34976620" crc="71cdc60b" md5="da528c3c579e86392b385479d6c8be06" sha1="4195d5a2cafd507146d70653b7eb40ccc7ab530f"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 09 (2009-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 09 (2009-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 09 (2009-09)(T&amp;L Publications)(US).pdf" size="13497830" crc="70a9ea12" md5="b3c543e48189482105b3330c3d0364b9" sha1="05482209f9cd9b07432be6772bf93ee0943eb76f"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 10 (2009-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 10 (2009-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 10 (2009-10)(T&amp;L Publications)(US).pdf" size="12969772" crc="23ae7c27" md5="748cd7ee1a405556ff4911a687db5c9e" sha1="a6dddaacd1421ef853cc48474d796d2a8b7897aa"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 11 (2009-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 11 (2009-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 11 (2009-11)(T&amp;L Publications)(US).pdf" size="14095279" crc="7fca82f1" md5="dac92ed88ec4e4acb46332c5366d9be1" sha1="fd141e656b13c484ab88849d98ff652240c7693e"/>
+	</game>
+	<game name="Servo Magazine - Volume 07 Issue 12 (2009-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 07 Issue 12 (2009-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 07 Issue 12 (2009-12)(T&amp;L Publications)(US).pdf" size="14968757" crc="615ec207" md5="90ed2d7b4bbf42a08c6a8fe7abf4deeb" sha1="b0de9b890c75a52c4246c14f656f31c3bcfac475"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 01 (2010-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 01 (2010-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 01 (2010-01)(T&amp;L Publications)(US).pdf" size="10398143" crc="659bb62b" md5="9ba97d239ff8f9e577f022ac3bbb8ee0" sha1="f28f33a1486ce5a084ac17380b0a3d7f5294185c"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 02 (2010-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 02 (2010-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 02 (2010-02)(T&amp;L Publications)(US).pdf" size="12214281" crc="4385c7c4" md5="7b4ffe444fcb2a7ff4fde743a098004a" sha1="f7d3eeee8f677423870b6499baa9388279df6a4a"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 03 (2010-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 03 (2010-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 03 (2010-03)(T&amp;L Publications)(US).pdf" size="13317885" crc="14cb450c" md5="5e83650f5daa0d6a5ce70a61e86fdc0c" sha1="28840f534a8025c7a146cea0b3eb7f47dfb3c199"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 04 (2010-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 04 (2010-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 04 (2010-04)(T&amp;L Publications)(US).pdf" size="12819789" crc="261b269f" md5="f3dce13cc5af99d37ee1cfda3928d73f" sha1="0454083891dfc913c81f618b94d9aec07b6e5547"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 05 (2010-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 05 (2010-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 05 (2010-05)(T&amp;L Publications)(US).pdf" size="11800625" crc="2834c726" md5="60aba3cf7f55a9b3d71155215881d51a" sha1="e74bf234b7118e9a9cb4aba92df069dbdda8d83a"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 06 (2010-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 06 (2010-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 06 (2010-06)(T&amp;L Publications)(US).pdf" size="11248058" crc="126edca4" md5="dcdf8ddfa5c939a6376ee88115a0404d" sha1="cc875b416d551ebd67b642c2dce8787dbe7223de"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 07 (2010-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 07 (2010-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 07 (2010-07)(T&amp;L Publications)(US).pdf" size="10316924" crc="1cc886f3" md5="6f1a8474e2294519c7e8d95195912a33" sha1="9534108bd7b953cb34e1eb83bc9a2e51308ceab7"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 08 (2010-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 08 (2010-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 08 (2010-08)(T&amp;L Publications)(US).pdf" size="12096205" crc="c701c86a" md5="73e87e73fa1be214c60e675d76033d81" sha1="a8fed6178a26d2b187beb6a1c0191d3b1a570de5"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 09 (2010-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 09 (2010-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 09 (2010-09)(T&amp;L Publications)(US).pdf" size="11351530" crc="05ae1e91" md5="3a98c5cddd8a6dd9850e715193b3314e" sha1="44902b387632e3a4f8e1eaf2b260c16cbf69a151"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 10 (2010-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 10 (2010-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 10 (2010-10)(T&amp;L Publications)(US).pdf" size="12401975" crc="c50606a8" md5="20c76cd822c450ebe49d66e62cc917db" sha1="7073769984be86e0f1e1828cd024d7a9a2b17675"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 11 (2010-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 11 (2010-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 11 (2010-11)(T&amp;L Publications)(US).pdf" size="12608098" crc="f67d2a33" md5="8aff1c3f81fd430f05e491005387cd9f" sha1="fb46670a567ec3ef809acc4f9e53eb6922d5a3c5"/>
+	</game>
+	<game name="Servo Magazine - Volume 08 Issue 12 (2010-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 08 Issue 12 (2010-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 08 Issue 12 (2010-12)(T&amp;L Publications)(US).pdf" size="16300204" crc="e99ae298" md5="ef3ca956020041352ded1e2a07826d80" sha1="23223a599b253f50676843c00653f24446e92c96"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 01 (2011-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 01 (2011-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 01 (2011-01)(T&amp;L Publications)(US).pdf" size="11504666" crc="d8c885b7" md5="278328ccb6ec65d4fd1bdcf4b2032d99" sha1="6c46edec6d500e5f8cf3ef4c08af15ce63e84a04"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 02 (2011-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 02 (2011-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 02 (2011-02)(T&amp;L Publications)(US).pdf" size="30497848" crc="b3bed291" md5="49a1d5e242800dcff7066c4688b765ce" sha1="20230da38c5bddc24c2d29c80a923f08d60eceaa"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 03 (2011-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 03 (2011-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 03 (2011-03)(T&amp;L Publications)(US).pdf" size="14009980" crc="1e09bbd1" md5="5a22b41a06a312bde87d51981b1a80a9" sha1="d934efeca044e5476078824caee6f326a438afcb"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 04 (2011-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 04 (2011-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 04 (2011-04)(T&amp;L Publications)(US).pdf" size="32127264" crc="ac2d0785" md5="c31c73586b0261a6461d3634f10f6440" sha1="07686a7b07536c01a2f015af4b9e08ede71f9c73"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 05 (2011-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 05 (2011-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 05 (2011-05)(T&amp;L Publications)(US).pdf" size="55353677" crc="a156a78c" md5="0079b09e5e55e3b1ce24fc68c89497fd" sha1="d17330759bd3ca013ec89ffb3ecf421b70305a4b"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 06 (2011-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 06 (2011-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 06 (2011-06)(T&amp;L Publications)(US).pdf" size="30864937" crc="3d3570ad" md5="fc0519bf5d2ec1b8409409b0ae4570de" sha1="223d7a300f8bfdf2ac39172b052f671c1f7ed9d3"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 06 (2011-06)(T&amp;L Publications)(US)[a]">
+		<description>Servo Magazine - Volume 09 Issue 06 (2011-06)(T&amp;L Publications)(US)[a]</description>
+		<rom name="Servo Magazine - Volume 09 Issue 06 (2011-06)(T&amp;L Publications)(US)[a].pdf" size="83189626" crc="aa3d3db3" md5="d2632253f099729ceb37cfd7ca586dc3" sha1="18d47ed0b3517df4dfddd7fb7c015f28f3501dd0"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 07 (2011-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 07 (2011-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 07 (2011-07)(T&amp;L Publications)(US).pdf" size="69210354" crc="fd63f798" md5="066e2a428724b40c1a46407b69c33c5d" sha1="ff7e70a31eb1404bb5eb3bfe12e63c7f46b89a16"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 08 (2011-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 08 (2011-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 08 (2011-08)(T&amp;L Publications)(US).pdf" size="15025349" crc="c1e1bbb3" md5="5c6ec3ec9ef1ab42b66c6ef61b2469dc" sha1="961df4a2d9affdb9ddb6498c7f2487f4829f436f"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 09 (2011-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 09 (2011-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 09 (2011-09)(T&amp;L Publications)(US).pdf" size="11810478" crc="a50a8af7" md5="94ed6be61901b45b44435927f54cf3ce" sha1="06f9781f7290ba36fefe400380dd6af738c92f57"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 10 (2011-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 10 (2011-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 10 (2011-10)(T&amp;L Publications)(US).pdf" size="11113385" crc="6ece6c61" md5="c2d0cb1c72de694ffad3d3361c11a709" sha1="0a680fee030a287032a22ebcb2f05218de80fc94"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 11 (2011-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 11 (2011-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 11 (2011-11)(T&amp;L Publications)(US).pdf" size="11503666" crc="fdf7bb12" md5="488e2e59faa355e2b37b9461ed69e9b1" sha1="cac09b47e8bdb304347cf8225edacbb96e690bee"/>
+	</game>
+	<game name="Servo Magazine - Volume 09 Issue 12 (2011-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 09 Issue 12 (2011-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 09 Issue 12 (2011-12)(T&amp;L Publications)(US).pdf" size="13223212" crc="3182f295" md5="73e62e670cce20184bc6ffc62a594515" sha1="0b72e103086eddf8839dfff7fd5e725b5f5a893e"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 01 (2012-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 01 (2012-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 01 (2012-01)(T&amp;L Publications)(US).pdf" size="34632046" crc="18811b4a" md5="f078f9c79581f3e833f5c54bb63b72bf" sha1="de2bb75b36d82cee0914a583dfac7a7b27f85550"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 02 (2012-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 02 (2012-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 02 (2012-02)(T&amp;L Publications)(US).pdf" size="38542285" crc="65fe2682" md5="9b8c5ba4dad22c778cdb6bf50c795f6c" sha1="8e36b012a94d946a5c1069ca4f7a5b6551426e86"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 03 (2012-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 03 (2012-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 03 (2012-03)(T&amp;L Publications)(US).pdf" size="16632992" crc="2733f376" md5="0d364001f8c4879108ca8dde7f3c7b96" sha1="107c0bc579c58f5ab950380e358e75d5662ca037"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 04 (2012-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 04 (2012-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 04 (2012-04)(T&amp;L Publications)(US).pdf" size="20519519" crc="d77ea6f0" md5="7576bd43002be8a1b9643139156d1be7" sha1="e8e2bf18f9dabc3ac6399ccb9496cc7c01db7089"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 05 (2012-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 05 (2012-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 05 (2012-05)(T&amp;L Publications)(US).pdf" size="13238597" crc="fbac3b79" md5="17f02aa0210e5e601a5bc492e64203fd" sha1="54c4685ab7e8b61524ec6c06e0a6550069551e9b"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 06 (2012-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 06 (2012-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 06 (2012-06)(T&amp;L Publications)(US).pdf" size="14747198" crc="497300aa" md5="a9af7d573c718e62e597f43206fed408" sha1="7a946d84ae4e8537cf2def1c16e2d9900ad8f907"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 07 (2012-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 07 (2012-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 07 (2012-07)(T&amp;L Publications)(US).pdf" size="15578529" crc="af170ba7" md5="ae52c1c3be30ae4ba39c95818703e568" sha1="cac9d8419532fc0b2e9484a44d134745fd114ab1"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 08 (2012-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 08 (2012-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 08 (2012-08)(T&amp;L Publications)(US).pdf" size="15184214" crc="4e300914" md5="0974aa49bdcd52331966e1ea3f683cc4" sha1="25de76123b0274edc3927d492689d00b6cede2a8"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 09 (2012-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 09 (2012-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 09 (2012-09)(T&amp;L Publications)(US).pdf" size="14502452" crc="e6cfd227" md5="16112353cde879391f10a268e9867214" sha1="7918170febc44b4aedba5cc31725ff13e4e5af0f"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 10 (2012-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 10 (2012-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 10 (2012-10)(T&amp;L Publications)(US).pdf" size="15777268" crc="74616aad" md5="fd79a206fc31ea3d3ea1bea861148d0a" sha1="27e702dd5a72e7423a811a03c2ca4261b59f64d7"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 11 (2012-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 11 (2012-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 11 (2012-11)(T&amp;L Publications)(US).pdf" size="16571488" crc="c5af8cb7" md5="25481c09601acaa6c75dd4cc4db50fa2" sha1="b52a547fe39ff1fa4363cb3adafa3bcecfbdbcd1"/>
+	</game>
+	<game name="Servo Magazine - Volume 10 Issue 12 (2012-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 10 Issue 12 (2012-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 10 Issue 12 (2012-12)(T&amp;L Publications)(US).pdf" size="14744683" crc="1ad9e992" md5="07c146875867cc7a86c71751a81ef9a9" sha1="0e07cde530268d5d873b9331a6f7c6d37e3fd018"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 01 (2013-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 01 (2013-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 01 (2013-01)(T&amp;L Publications)(US).pdf" size="15538729" crc="27ac869d" md5="73d8d82af77de4ae883e9357b877eab2" sha1="16212a0c0a2cf234988c85469e29323de89c4122"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 02 (2013-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 02 (2013-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 02 (2013-02)(T&amp;L Publications)(US).pdf" size="42287974" crc="c5349019" md5="e5ca6ae1418175dd577c9a92b602fd2a" sha1="9f487fa047b6559c2c9360c6d97039f7dfd64695"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 03 (2013-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 03 (2013-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 03 (2013-03)(T&amp;L Publications)(US).pdf" size="15281746" crc="8978df6c" md5="08462fab8dd8f8cfeb44ac56d797378f" sha1="09aa730edd66e31cacdfee66fed1309698ceb4ac"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 04 (2013-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 04 (2013-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 04 (2013-04)(T&amp;L Publications)(US).pdf" size="56149222" crc="65726172" md5="65680feaab2e156ee237dff1aff4917e" sha1="6cacbfd66e2f925ef9839541b93b41d172223676"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 05 (2013-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 05 (2013-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 05 (2013-05)(T&amp;L Publications)(US).pdf" size="41679934" crc="0f687a07" md5="e5f80816bb465227664085751e9b621d" sha1="b527df582bb53f3669c47136bde59ce757b8101b"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 06 (2013-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 06 (2013-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 06 (2013-06)(T&amp;L Publications)(US).pdf" size="55566703" crc="567fdc85" md5="1c6d0ced6c77b3024c3315d6ddcc6bf2" sha1="a90cd7ae3cc9fb8d9d8ee1a2feec9cbfe254ab78"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 07 (2013-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 07 (2013-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 07 (2013-07)(T&amp;L Publications)(US).pdf" size="53728263" crc="316b27de" md5="4057fd67a6dafd8d5bfb0021cc473481" sha1="c79aa54ea41316d49c98c753c6efae796e9aad53"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 08 (2013-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 08 (2013-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 08 (2013-08)(T&amp;L Publications)(US).pdf" size="55096574" crc="f281aadc" md5="cfbdb78b30e8c98a13d82b26d17e1412" sha1="70d6d984ea6e3bceefffbe07fa0ae0360ca9170d"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 09 (2013-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 09 (2013-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 09 (2013-09)(T&amp;L Publications)(US).pdf" size="52337636" crc="4e7e9403" md5="b3e93b67980daa2ae84ee35bb0c73304" sha1="dde65d6d6252820910f7dcd86e434cf7fead343a"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 10 (2013-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 10 (2013-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 10 (2013-10)(T&amp;L Publications)(US).pdf" size="15767236" crc="8250bdab" md5="461dab3f99937c914677b298e62288b1" sha1="80ff391dff23023e76b9d16aaad6b619b5ec7177"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 11 (2013-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 11 (2013-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 11 (2013-11)(T&amp;L Publications)(US).pdf" size="16156461" crc="eca050dc" md5="860f97153b89218b5d30d6416566087e" sha1="11f346d7bd551dc5a7d0474af7feff32bafc490e"/>
+	</game>
+	<game name="Servo Magazine - Volume 11 Issue 12 (2013-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 11 Issue 12 (2013-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 11 Issue 12 (2013-12)(T&amp;L Publications)(US).pdf" size="64205504" crc="0e2c00e4" md5="56b4a80cc4816e8632641c87ef80ace4" sha1="b330c78631d3e8aeeb925f65dba1065758b3f188"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 01 (2014-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 01 (2014-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 01 (2014-01)(T&amp;L Publications)(US).pdf" size="15949517" crc="dcb6c7e6" md5="f219b1c668276f046eca877b80aa8664" sha1="e5b610515cf33f15c26aac074cc1c20ab45f3678"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 02 (2014-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 02 (2014-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 02 (2014-02)(T&amp;L Publications)(US).pdf" size="15683735" crc="42c359e9" md5="9a41e88283e7549b8d5bb917402d14c0" sha1="035e94a0b4087fa019eff974003104f3aa4e9776"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 03 (2014-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 03 (2014-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 03 (2014-03)(T&amp;L Publications)(US).pdf" size="15606552" crc="cbf7bff0" md5="1eb3506e9512407c88450bb5ceebd29c" sha1="28829f4c5a991f674409dbfd3e9a4c5acab9bfea"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 04 (2014-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 04 (2014-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 04 (2014-04)(T&amp;L Publications)(US).pdf" size="15689185" crc="b307533f" md5="5f3ca25462fb877fc468d87b3aa63dc5" sha1="6b89603b1fcec311740fb09261de52f0628ae7a3"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 05 (2014-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 05 (2014-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 05 (2014-05)(T&amp;L Publications)(US).pdf" size="15667878" crc="f9b8f1cc" md5="51a9c588e26a3449ff56046bc0be290b" sha1="27838639d76b24f6a16fc244d240df4c0bea8c28"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 06 (2014-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 06 (2014-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 06 (2014-06)(T&amp;L Publications)(US).pdf" size="33667323" crc="677f2ccb" md5="bf158d603530f36beb8701b4a293aa29" sha1="0313ef6d3e475cd1ed5db9cb484817159e6f5d61"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 07 (2014-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 07 (2014-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 07 (2014-07)(T&amp;L Publications)(US).pdf" size="35738095" crc="796a0194" md5="4d3ed3c97a1c1b6cccf1e227ba0843bd" sha1="f81dde8522fdab4fa8bfa8b0fc280e4ab7df5be8"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 07 (2014-07)(T&amp;L Publications)(US)[a]">
+		<description>Servo Magazine - Volume 12 Issue 07 (2014-07)(T&amp;L Publications)(US)[a]</description>
+		<rom name="Servo Magazine - Volume 12 Issue 07 (2014-07)(T&amp;L Publications)(US)[a].pdf" size="31076306" crc="93bbabaf" md5="338dfc27a04c3d18eac96137d8c991ed" sha1="4ef0d3588a102e4a9d02c9de72c553ba35127420"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 08 (2014-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 08 (2014-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 08 (2014-08)(T&amp;L Publications)(US).pdf" size="31277386" crc="ae45a022" md5="d80142e2d86d007505a3aab626ccaf1a" sha1="3652b43190f9dbaa1c9a907b95bd0230759c2ba8"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 09 (2014-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 09 (2014-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 09 (2014-09)(T&amp;L Publications)(US).pdf" size="34902790" crc="0deafe0a" md5="e1ba01a1f43a71e13d53443beaabf77c" sha1="13a853e847fc4488967bdee1052d945bc11f6575"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 09 (2014-09)(T&amp;L Publications)(US)[a]">
+		<description>Servo Magazine - Volume 12 Issue 09 (2014-09)(T&amp;L Publications)(US)[a]</description>
+		<rom name="Servo Magazine - Volume 12 Issue 09 (2014-09)(T&amp;L Publications)(US)[a].pdf" size="30281654" crc="4e5fffb7" md5="ceadc1ea713f8394324d10f6744d60ba" sha1="314703b631b4b51a62010f64c964d9c84b35ba8d"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 10 (2014-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 10 (2014-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 10 (2014-10)(T&amp;L Publications)(US).pdf" size="32497557" crc="7642050f" md5="ea44c1a9874886c3605319daf06205de" sha1="7e441a360f6a3b4c5305f3c0e3a0aca47c2e5743"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 11 (2014-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 11 (2014-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 11 (2014-11)(T&amp;L Publications)(US).pdf" size="23636804" crc="eeb88624" md5="2cf070df08430ae858b628432c7bd47d" sha1="09646f3fb82323d4265a200bd027a9207b91f0bb"/>
+	</game>
+	<game name="Servo Magazine - Volume 12 Issue 12 (2014-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 12 Issue 12 (2014-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 12 Issue 12 (2014-12)(T&amp;L Publications)(US).pdf" size="27381215" crc="9a682c98" md5="f7cad2d0b3f77c710818924a5c347319" sha1="6a5f2091c7d636a5cc48af508a83c941d6753cdf"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 01 (2015-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 01 (2015-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 01 (2015-01)(T&amp;L Publications)(US).pdf" size="13556955" crc="4b45cc54" md5="d4206ba482d73d1da75b88665f76d00a" sha1="da079aa2fd8ab8d803e936eedb41fc6dff816b60"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 02 (2015-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 02 (2015-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 02 (2015-02)(T&amp;L Publications)(US).pdf" size="14747570" crc="bee6a4c6" md5="f0ac13b9ca23efd727686a3cbc690c5e" sha1="5fb9da6c0138dc79ae0bb319f3e24be4d5402b9c"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 03 (2015-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 03 (2015-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 03 (2015-03)(T&amp;L Publications)(US).pdf" size="23649281" crc="f63c1ec2" md5="cc0e9b2da0a3109ad0f8abf6df646f28" sha1="cdd4c5c13c2df66de4df2de931df822a37388e8c"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 04 (2015-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 04 (2015-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 04 (2015-04)(T&amp;L Publications)(US).pdf" size="13686806" crc="13efb7e1" md5="f685a08cdb1b8fa666498eb5465c81ce" sha1="9a7ca5e3fbcc9b2441334274e2dfd120d9f3588b"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 05 (2015-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 05 (2015-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 05 (2015-05)(T&amp;L Publications)(US).pdf" size="53523656" crc="b5380daa" md5="a7fbff44a91043da4a9961dc5eae92e4" sha1="2e9021300e12197e407750fe53f3c6b690e09150"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 06 (2015-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 06 (2015-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 06 (2015-06)(T&amp;L Publications)(US).pdf" size="14590216" crc="c282be6e" md5="0b254ec4219d8b5bd4400dbfd45cc094" sha1="235d1bab69c8b0ae4132a70362f98d2f62d53e93"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 07 (2015-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 07 (2015-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 07 (2015-07)(T&amp;L Publications)(US).pdf" size="28692425" crc="de04aff4" md5="fc2105d8027989d46c8ba4c2a8e61324" sha1="d0e5604b0089eb9d3a41d3ebbed4f1720829944a"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 08 (2015-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 08 (2015-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 08 (2015-08)(T&amp;L Publications)(US).pdf" size="64240409" crc="53412067" md5="7003bae54d001738c6ac93b4fccf095f" sha1="13788261cf31eb13462c3035a72001603a92ec9f"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 09 (2015-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 09 (2015-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 09 (2015-09)(T&amp;L Publications)(US).pdf" size="29181244" crc="dc5c9c35" md5="9a49441832e6305e8e951a3c0862c490" sha1="f6bf356879fbe78d8aec7aa9706b45ffe808db34"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 10 (2015-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 10 (2015-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 10 (2015-10)(T&amp;L Publications)(US).pdf" size="28594681" crc="4ca8da7d" md5="d5e895654e849ea2e7e18366df764a84" sha1="087ed76eaaa9e1b1bd088f7e617f949135ca26ce"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 11 (2015-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 11 (2015-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 11 (2015-11)(T&amp;L Publications)(US).pdf" size="28207461" crc="0d4d5dbf" md5="79e03c000ffddf7abbdf282961ebafdb" sha1="fa8af4d6d89c651ba6d4ca24b89c70cc4bcc72a6"/>
+	</game>
+	<game name="Servo Magazine - Volume 13 Issue 12 (2015-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 13 Issue 12 (2015-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 13 Issue 12 (2015-12)(T&amp;L Publications)(US).pdf" size="22928096" crc="83141065" md5="8639a1851c4546f189327983e0aef4d3" sha1="39100c17a4a00c5dd94bf7b2e5346d29a0551ce0"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 01 (2016-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 01 (2016-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 01 (2016-01)(T&amp;L Publications)(US).pdf" size="22567579" crc="41a591b7" md5="0b156e79bbe8ca04cf153614e50846e9" sha1="6ab2ec2078b9a47567df46e76eeb433ccdc875d8"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 02 (2016-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 02 (2016-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 02 (2016-02)(T&amp;L Publications)(US).pdf" size="10367111" crc="846cece6" md5="64ea8d7020e0bef0a71b8f83d97e6f86" sha1="c19fc70ebe2d4965561b2415bfb7b49d051e2003"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 03 (2016-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 03 (2016-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 03 (2016-03)(T&amp;L Publications)(US).pdf" size="10359408" crc="24b25d82" md5="fce27a26a21b883b3f561b261d998d95" sha1="b8ba33040c8b9021a8d01afd6bc8f8e2bf906f56"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 04 (2016-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 04 (2016-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 04 (2016-04)(T&amp;L Publications)(US).pdf" size="10899226" crc="3e5bb56a" md5="c8f61568e90af8db6b999b24e08f7a2e" sha1="9afd3b48572ae8ad8a0e3b1bff02da1df2162585"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 05 (2016-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 05 (2016-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 05 (2016-05)(T&amp;L Publications)(US).pdf" size="33523667" crc="9f9219bf" md5="bf3618a3e4cb1045faa97187e9fae3a4" sha1="413bc73b38dff36fc443a3d904c398eac250df26"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 06 (2016-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 06 (2016-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 06 (2016-06)(T&amp;L Publications)(US).pdf" size="19686932" crc="b290bbdc" md5="72038ef0db19e77d728f9615c6aa9b41" sha1="f39258c2fb533ab6c077d8c39b5aaec27b8421a8"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 07 (2016-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 07 (2016-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 07 (2016-07)(T&amp;L Publications)(US).pdf" size="10705977" crc="7ebe38bf" md5="ee1f390fd3a837fc80c5f5e5a8191f42" sha1="6bccda697a9f9be922273a469aad010f9eda3e3e"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 08 (2016-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 08 (2016-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 08 (2016-08)(T&amp;L Publications)(US).pdf" size="20059868" crc="3eade5fb" md5="73b0efa2a03e40f1564917d855043fcf" sha1="ff1e96807b53785c987d70e83a2993cd92a0c048"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 09 (2016-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 09 (2016-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 09 (2016-09)(T&amp;L Publications)(US).pdf" size="10284925" crc="c8f8f417" md5="62e5d96d7be366260ed1b122ec9a3236" sha1="d3c58f3753dc2df21aeecfa501962825b4878ea5"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 10 (2016-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 10 (2016-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 10 (2016-10)(T&amp;L Publications)(US).pdf" size="9425570" crc="a79b72ec" md5="a5c13345855a2d70f89059fe0b0402d1" sha1="c3d2df25895258f96e14157c7afbd3edc48b0f63"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 11 (2016-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 11 (2016-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 11 (2016-11)(T&amp;L Publications)(US).pdf" size="11742704" crc="93b0b19d" md5="2c022fd9b407cac1a2b3f5db148099e1" sha1="7616515f98a327e8fe94aad4a97aada92021fa9e"/>
+	</game>
+	<game name="Servo Magazine - Volume 14 Issue 12 (2016-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 14 Issue 12 (2016-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 14 Issue 12 (2016-12)(T&amp;L Publications)(US).pdf" size="12336287" crc="1b1ae2ba" md5="b45aa955b64903fd80aaa9cb1a9e8654" sha1="e1c5db90882d59734ca3232d646afcfc47c84a68"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 01 (2017-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 01 (2017-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 01 (2017-01)(T&amp;L Publications)(US).pdf" size="10503192" crc="76de5fdf" md5="fd79147f94e427cf5efb288192664e94" sha1="0571b69ac732b242a13c61de7108b0f0ca105445"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 02 (2017-02)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 02 (2017-02)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 02 (2017-02)(T&amp;L Publications)(US).pdf" size="10496581" crc="5a9f82aa" md5="6c345f279bdf3b4217202589ab308808" sha1="4ce5ad1232230c8cc4bec2319fc14e9316babad9"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 03 (2017-03)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 03 (2017-03)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 03 (2017-03)(T&amp;L Publications)(US).pdf" size="10646795" crc="79022963" md5="edf4d92d2b32d3d6fd2fe64537dbd198" sha1="39ad01ad0ad4c8f448d0e16b9d9b91ec1e6b6e1e"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 04 (2017-04)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 04 (2017-04)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 04 (2017-04)(T&amp;L Publications)(US).pdf" size="10620371" crc="d93b8b59" md5="77d1205cf8d37bde394ad693edd19bec" sha1="c126b44f51c2f7443b1e44057d2bdf2ebbb7cbc8"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 05 (2017-05)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 05 (2017-05)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 05 (2017-05)(T&amp;L Publications)(US).pdf" size="10766773" crc="cbe31298" md5="2a6fb99e581a67081235e1d471e2ccc3" sha1="b79f780d6e1e5f50ed77a4615f5ba6f322607b0a"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 06 (2017-06)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 06 (2017-06)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 06 (2017-06)(T&amp;L Publications)(US).pdf" size="11443999" crc="e4c57d0e" md5="04df39851716f99e85c9fe5ce1113639" sha1="441b2fc852724197e7235b1ef178c3927567b7ce"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 07 (2017-07)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 07 (2017-07)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 07 (2017-07)(T&amp;L Publications)(US).pdf" size="10675295" crc="a9be4337" md5="cf7a4d9bc8cdbaad326563e4c6a8c646" sha1="599fa2bfb8936cb899b43c79d003b66cd4658844"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 08 (2017-08)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 08 (2017-08)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 08 (2017-08)(T&amp;L Publications)(US).pdf" size="10650319" crc="c22eced1" md5="fba85a1f307d48d99afdf53a87b3352a" sha1="5a0ef562b4bca9d22eee91eac1c29e495dc02723"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 09 (2017-09)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 09 (2017-09)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 09 (2017-09)(T&amp;L Publications)(US).pdf" size="11426281" crc="8031ced8" md5="1e894a7eaaba5da42acca9ef347af583" sha1="2a202b19da6977ad785849906637c1e2e3085e0f"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 10 (2017-10)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 10 (2017-10)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 10 (2017-10)(T&amp;L Publications)(US).pdf" size="11270063" crc="2bcf2540" md5="2ae3d2a0d83f5a3e3a9db39cbc8a6e98" sha1="64a860dbc56a0fb334e3c129b25fa9fffe883c24"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 11 (2017-11)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 11 (2017-11)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 11 (2017-11)(T&amp;L Publications)(US).pdf" size="12374289" crc="f475f77b" md5="a3393bc8cfe40831d91694cae6711c3c" sha1="f2582c55045e87be5b269efc17e4613849452805"/>
+	</game>
+	<game name="Servo Magazine - Volume 15 Issue 12 (2017-12)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 15 Issue 12 (2017-12)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 15 Issue 12 (2017-12)(T&amp;L Publications)(US).pdf" size="10350257" crc="00fb347d" md5="94c096166d7f3cd0642b8818aee6f405" sha1="d0dee1b76c328d49fd25471b598670418a096e19"/>
+	</game>
+	<game name="Servo Magazine - Volume 16 Issue 01 (2018-01)(T&amp;L Publications)(US)">
+		<description>Servo Magazine - Volume 16 Issue 01 (2018-01)(T&amp;L Publications)(US)</description>
+		<rom name="Servo Magazine - Volume 16 Issue 01 (2018-01)(T&amp;L Publications)(US).pdf" size="10523825" crc="bdfd07d6" md5="5e36217c0408a40aa057263e2972563a" sha1="0de40e4e22351507bc83733c527a40f1826e8591"/>
+	</game>
+</datafile>

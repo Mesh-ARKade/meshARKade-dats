@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Magazines - Sega Magazine (GB)</name>
+		<description>Sega - Magazines - Sega Magazine (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Magazine - #1 (1994-01)(EMAP Images)(GB)">
+		<description>Sega Magazine - #1 (1994-01)(EMAP Images)(GB)</description>
+		<rom name="Sega Magazine - #1 (1994-01)(EMAP Images)(GB).pdf" size="362615159" crc="4f57ffba" md5="2abb0b11a8482d284e95c0cc4a268ec4" sha1="d2aedb94597c94c62cf857e0f7142971b39a76d8"/>
+	</game>
+	<game name="Sega Magazine - #1 (1994-01)(EMAP Images)(GB)[a]">
+		<description>Sega Magazine - #1 (1994-01)(EMAP Images)(GB)[a]</description>
+		<rom name="Sega Magazine - #1 (1994-01)(EMAP Images)(GB)[a].pdf" size="453538996" crc="2d8bfb7e" md5="9df9339eecd5bf41c16393393d85d112" sha1="ebee560b2a7d60aba06d040e0dea823d8421778a"/>
+	</game>
+	<game name="Sega Magazine - #17 (1995-05)(EMAP Images)(GB)">
+		<description>Sega Magazine - #17 (1995-05)(EMAP Images)(GB)</description>
+		<rom name="Sega Magazine - #17 (1995-05)(EMAP Images)(GB).pdf" size="221878590" crc="68c95b6f" md5="70dfe2be1f6040acea3908fdeb836a98" sha1="a39b8aa6417cd5a0f9de5653c9dabdfcc33c8c1d"/>
+	</game>
+	<game name="Sega Magazine - #18 (1995-06)(EMAP Images)(GB)">
+		<description>Sega Magazine - #18 (1995-06)(EMAP Images)(GB)</description>
+		<rom name="Sega Magazine - #18 (1995-06)(EMAP Images)(GB).pdf" size="218464272" crc="c471352c" md5="27e3d180195664544cf2bd1880165dce" sha1="9bb9e807f6c5c4dd701dd7a0490018ef01b822ad"/>
+	</game>
+	<game name="Sega Magazine - #2 (1994-02)(EMAP Images)(GB)">
+		<description>Sega Magazine - #2 (1994-02)(EMAP Images)(GB)</description>
+		<rom name="Sega Magazine - #2 (1994-02)(EMAP Images)(GB).pdf" size="353296725" crc="b16d80b5" md5="74d0ded11009d684071bda7602568f32" sha1="db73faa841c2837d56a2529a173db03bbff1ed8a"/>
+	</game>
+</datafile>

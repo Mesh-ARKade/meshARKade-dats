@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sord M5 - Games - [WAV]</name>
+		<description>Sord M5 - Games - [WAV] (TOSEC-v2025-01-15)</description>
+		<category>TOSEC</category>
+		<version>2025-01-15</version>
+		<author>Cid - mek1 - mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cross Bomber (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Bomber (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Bomber (2024-11-15)(Caruso, Fabrizio).wav" size="2365403" crc="c2732239" md5="3e764d86b15b9d7cbbc6c3e884e84479" sha1="d01fe013eab68662adc387b8860d9d5560951c62"/>
+	</game>
+	<game name="Cross Bomber (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Bomber (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Bomber (2024-11-15)(Caruso, Fabrizio)[keyboard].wav" size="2424732" crc="734d6a02" md5="050c37b9191502c2fb001f69431d97a6" sha1="39d378c3f2901a86980ee67b666e240e5c5c9f1e"/>
+	</game>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)[full]</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[full].wav" size="4741110" crc="f034ea14" md5="016fcf734873f6f56fb6dfc16cd11c02" sha1="54b3dd008d067c6498220409fdddf352be168acd"/>
+	</game>
+	<game name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny]">
+		<description>Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny]</description>
+		<rom name="Cross Chase (2018-07-19)(Caruso, Fabrizio)[tiny].wav" size="2680647" crc="f2085134" md5="bbf04131093359870d6c5c7a98a7b54d" sha1="55302a4d9b4c2ffac9f58c54e342cf743431a230"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)[full][UDG]">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)[full][UDG]</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio)[full][UDG].wav" size="4535991" crc="c7d5be00" md5="4671c955cfef4bc0c6aa06b852ce37ac" sha1="3925c24e6286df77c7034bcfbf18cfaae36d0a83"/>
+	</game>
+	<game name="Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny]">
+		<description>Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny]</description>
+		<rom name="Cross Chase (2018-08-04)(Caruso, Fabrizio)[tiny].wav" size="2678715" crc="e771aa3b" md5="da30d867221e53a98a78fc4b599a7dcc" sha1="76607a6da5079dc73b2da553a4ff71258e50512c"/>
+	</game>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[full][UDG]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[full][UDG]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[full][UDG].wav" size="4484236" crc="730a3af3" md5="5a02391e0ae14f9c91f3aeed80c5a4f5" sha1="7e119c08ca4076a3172ce9c325cb9d2ea4e93763"/>
+	</game>
+	<game name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny]">
+		<description>Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny]</description>
+		<rom name="Cross Chase (2018-10-29)(Caruso, Fabrizio)[tiny].wav" size="2689915" crc="78bc0679" md5="3b3358d78f8995bbfdee9dcc987a0be8" sha1="d5b61f6596775f73c85831ebbc8e98095fde3c3f"/>
+	</game>
+	<game name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[UDG]">
+		<description>Cross Chase (2020-04-02)(Caruso, Fabrizio)[UDG]</description>
+		<rom name="Cross Chase (2020-04-02)(Caruso, Fabrizio)[UDG].wav" size="4363240" crc="f965b9e7" md5="cc2845d857c87310be2d33dfc7bd2b21" sha1="f2136a4d167c7ab60065aab267a7e3504812e710"/>
+	</game>
+	<game name="Cross Chase (2021-05-13)(Caruso, Fabrizio)">
+		<description>Cross Chase (2021-05-13)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2021-05-13)(Caruso, Fabrizio).wav" size="4045385" crc="7a1a63e3" md5="11dc3a96d1035baa8b20752196c5914f" sha1="cd76645d767be965f67024fdbdb9e9efbe3cef31"/>
+	</game>
+	<game name="Cross Chase (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Chase (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Chase (2024-11-15)(Caruso, Fabrizio).wav" size="4235965" crc="29934298" md5="640bfa7ef6c9b8fdd5799326fecc244d" sha1="6011cbeffde03d91995c1312cf271510c2818ec2"/>
+	</game>
+	<game name="Cross Chase (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Chase (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Chase (2024-11-15)(Caruso, Fabrizio)[keyboard].wav" size="4286782" crc="5528adbd" md5="4bddc6a9d7f02d5bdf42b2a0a7679550" sha1="f42f593a19d41135ad699a8c3a54ebe53fe05f60"/>
+	</game>
+	<game name="Cross Horde (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Horde (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Horde (2024-11-15)(Caruso, Fabrizio).wav" size="3685442" crc="b2338785" md5="d7a304c6cd01e86bd6f41e0a21f8d737" sha1="4a68c7c43cb7fd4c6c18a367070d266964d24a45"/>
+	</game>
+	<game name="Cross Horde (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Horde (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Horde (2024-11-15)(Caruso, Fabrizio)[keyboard].wav" size="3743049" crc="133b4329" md5="6c01232cf5ec3ee34d827145772093a1" sha1="4e60a735bc06cd628970f1a1b45a072682ad5af2"/>
+	</game>
+	<game name="Cross Shoot (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Shoot (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shoot (2024-11-15)(Caruso, Fabrizio).wav" size="5962137" crc="735658ae" md5="9773f3cc7dd94f2c02433a61f20aba55" sha1="ec417d9231892db2691c74f5032b50b749610481"/>
+	</game>
+	<game name="Cross Shoot (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Shoot (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Shoot (2024-11-15)(Caruso, Fabrizio)[keyboard].wav" size="6029754" crc="641f80b3" md5="33ef34cec1e594b4db025a3923b1e9ed" sha1="e34e9ed5dc831926e7028ec95ca70be14f4754be"/>
+	</game>
+	<game name="Cross Shuriken (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Shuriken (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Shuriken (2024-11-15)(Caruso, Fabrizio).wav" size="4379658" crc="603c7c3b" md5="df397212e347ae8483e11316840925e4" sha1="a3d04e1bac00afda9417ba86343ce6ad601a5c1e"/>
+	</game>
+	<game name="Cross Shuriken (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Shuriken (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Shuriken (2024-11-15)(Caruso, Fabrizio)[keyboard].wav" size="4438105" crc="15a223d8" md5="a8295dd790ec71d39828d43b2ce32277" sha1="de6ed35c40ad4fb750a883d717900e8b85f1bb74"/>
+	</game>
+	<game name="Cross Snake (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Snake (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Snake (2024-11-15)(Caruso, Fabrizio).wav" size="4283943" crc="25af40e0" md5="ba19cfd303393604cc43fff391ffd8c1" sha1="cd5f1b65213aa7730f60f3d675f43bdb77b051c4"/>
+	</game>
+	<game name="Cross Snake (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Snake (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Snake (2024-11-15)(Caruso, Fabrizio)[keyboard].wav" size="4353856" crc="413effba" md5="f0d47eb74565a88c8f9c00d711ce68bd" sha1="4f33bc93716b97eccbde787874660db9e2300cfd"/>
+	</game>
+	<game name="Cross Stinger (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Stinger (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Stinger (2024-11-15)(Caruso, Fabrizio).wav" size="4618609" crc="a3141fe9" md5="7cf0c8e1cfaef3d775115ee0f2f19945" sha1="7a113fb7e1e11d89d52e19bfdbbdf847fdf3b517"/>
+	</game>
+	<game name="Cross Stinger (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Stinger (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Stinger (2024-11-15)(Caruso, Fabrizio)[keyboard].wav" size="4673990" crc="dee8cb39" md5="6dbc6625c2ec1081aba585da00374dd0" sha1="ea9cb58fc7734c202658410b87c7955d8db83326"/>
+	</game>
+	<game name="Cross Trex (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Trex (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Trex (2024-11-15)(Caruso, Fabrizio).wav" size="2724065" crc="86503e8e" md5="1198626dcc9df7aacc57d9b01114e2f8" sha1="969a57e7bfc28d835d89aa09c308d59900018d0b"/>
+	</game>
+	<game name="Cross Trex (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Trex (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Trex (2024-11-15)(Caruso, Fabrizio)[keyboard].wav" size="2789078" crc="ccce1a95" md5="373d88ce55ddf43f6d48418af95e71cc" sha1="9b72986c09fff21ada56dc3532394861c917ff2a"/>
+	</game>
+	<game name="Cross Verbix (2024-11-15)(Caruso, Fabrizio)">
+		<description>Cross Verbix (2024-11-15)(Caruso, Fabrizio)</description>
+		<rom name="Cross Verbix (2024-11-15)(Caruso, Fabrizio).wav" size="4227061" crc="f8b55b5d" md5="a1b0d5066b308eddc2f08df13175a5ae" sha1="4b29e873f41f9049f8ab4bae8ac25e1ac9755b6f"/>
+	</game>
+	<game name="Cross Verbix (2024-11-15)(Caruso, Fabrizio)[keyboard]">
+		<description>Cross Verbix (2024-11-15)(Caruso, Fabrizio)[keyboard]</description>
+		<rom name="Cross Verbix (2024-11-15)(Caruso, Fabrizio)[keyboard].wav" size="4280118" crc="13db845f" md5="0fd0adc6385128600b8cfa39ae1a3717" sha1="d532aa65536487e463f41d5a19e7e9161453046d"/>
+	</game>
+	<game name="Solar System Forces (19xx)(-)[Req BASIC-G]">
+		<description>Solar System Forces (19xx)(-)[Req BASIC-G]</description>
+		<rom name="Solar System Forces (19xx)(-)[Req BASIC-G].wav" size="17882692" crc="07b4e0e1" md5="265232ce693d643b1653d29eba5314c9" sha1="c057b7d7b964ee3cef516a1f60692e431dce1616"/>
+	</game>
+	<game name="Solar System Forces - Commando Team (19xx)(-)[Req BASIC-G]">
+		<description>Solar System Forces - Commando Team (19xx)(-)[Req BASIC-G]</description>
+		<rom name="Solar System Forces - Commando Team (19xx)(-)[Req BASIC-G].wav" size="7273520" crc="fb402872" md5="da0a4e1e87ed6d95b2f4aa0fc4afa01d" sha1="cb699eaf40c46a3fb61bdf4cd0faa902e8778abb"/>
+	</game>
+	<game name="Solar System Forces - Operation Maul (19xx)(-)[Req BASIC-G]">
+		<description>Solar System Forces - Operation Maul (19xx)(-)[Req BASIC-G]</description>
+		<rom name="Solar System Forces - Operation Maul (19xx)(-)[Req BASIC-G].wav" size="7348024" crc="389b82e5" md5="5a08e77eaa867df3982c68e684feec50" sha1="baee461d2fde0941eb0c7a5963c5340c32212d76"/>
+	</game>
+	<game name="Solar System Forces - Victory of Mars (19xx)(-)[Req BASIC-G]">
+		<description>Solar System Forces - Victory of Mars (19xx)(-)[Req BASIC-G]</description>
+		<rom name="Solar System Forces - Victory of Mars (19xx)(-)[Req BASIC-G].wav" size="7731210" crc="c711f2bb" md5="ca6580d934f2a95fe2a73a94e8d9630c" sha1="2a266117198bf9290d831941dba7e419e745ccce"/>
+	</game>
+</datafile>

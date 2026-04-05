@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Play (GB)</name>
+		<description>Sony PlayStation - Magazines - Play (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Play - Issue 001 (1995-11)(Paragon Publishing)(GB)">
+		<description>Play - Issue 001 (1995-11)(Paragon Publishing)(GB)</description>
+		<rom name="Play - Issue 001 (1995-11)(Paragon Publishing)(GB).pdf" size="223333522" crc="867b5a02" md5="37ba89cdc27e68e08c040cc2ad650e82" sha1="ec0f6c882200294091e0a70b7ea5f95a790d4e8d"/>
+	</game>
+	<game name="Play - Issue 002 (1995-12)(Paragon Publishing)(GB)">
+		<description>Play - Issue 002 (1995-12)(Paragon Publishing)(GB)</description>
+		<rom name="Play - Issue 002 (1995-12)(Paragon Publishing)(GB).pdf" size="270555904" crc="9a073013" md5="38d2ac4caef427991f4fe42a4f986f1d" sha1="5ca9291c78fe6195673088a6f54664f0be693298"/>
+	</game>
+	<game name="Play - Issue 009 (1996-07)(Paragon Publishing)(GB)">
+		<description>Play - Issue 009 (1996-07)(Paragon Publishing)(GB)</description>
+		<rom name="Play - Issue 009 (1996-07)(Paragon Publishing)(GB).pdf" size="250113337" crc="f2e8a0f9" md5="c42de77cd619758e8d62427ffe83e2b6" sha1="0d648f8a988d35136c7e708cbda93dadbd4e7b2b"/>
+	</game>
+	<game name="Play - Issue 127 (2004-04)(Highbury Entertainment)(GB)">
+		<description>Play - Issue 127 (2004-04)(Highbury Entertainment)(GB)</description>
+		<rom name="Play - Issue 127 (2004-04)(Highbury Entertainment)(GB).pdf" size="283670887" crc="79ab7871" md5="217d179e3fdccdbc20d6eee42b8c69bc" sha1="320c34837595dcf6904673fc46f1af665703b95a"/>
+	</game>
+	<game name="Play - Issue 221 (2012-09)(Imagine Publishing)(GB)">
+		<description>Play - Issue 221 (2012-09)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 221 (2012-09)(Imagine Publishing)(GB).pdf" size="98222518" crc="0ef27103" md5="06def24545af4d9adc9e74bdf638e3d8" sha1="6bd2ddd5962d5daa0078752e0ce791fae20fc420"/>
+	</game>
+	<game name="Play - Issue 231 (2013-06)(Imagine Publishing)(GB)">
+		<description>Play - Issue 231 (2013-06)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 231 (2013-06)(Imagine Publishing)(GB).pdf" size="33725537" crc="df91727c" md5="3452c9e7a6b3f11874e206a030eb5a4c" sha1="10babe5145d99f9ad67509f50e408af07ffeb090"/>
+	</game>
+	<game name="Play - Issue 232 (2013-07)(Imagine Publishing)(GB)">
+		<description>Play - Issue 232 (2013-07)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 232 (2013-07)(Imagine Publishing)(GB).pdf" size="108827656" crc="92dd53ac" md5="02fc7d247105ed5e764e0cb6e75a7e50" sha1="1c73c1e46654d3242285cfa172acbe6cfcbfc88b"/>
+	</game>
+	<game name="Play - Issue 233 (2013-08)(Imagine Publishing)(GB)">
+		<description>Play - Issue 233 (2013-08)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 233 (2013-08)(Imagine Publishing)(GB).pdf" size="31440307" crc="8d0414da" md5="706c67a613876f42f4ce49084b12541d" sha1="d459cda5f01be170ea163651501dcbc2a2a5cb04"/>
+	</game>
+	<game name="Play - Issue 234 (2013-09)(Imagine Publishing)(GB)">
+		<description>Play - Issue 234 (2013-09)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 234 (2013-09)(Imagine Publishing)(GB).pdf" size="28818419" crc="ea45e643" md5="0606db843694bf72928e3d121fd3d3aa" sha1="3132b8ecf9a159a3c2c359c6026633ffa07525db"/>
+	</game>
+	<game name="Play - Issue 235 (2013-10)(Imagine Publishing)(GB)">
+		<description>Play - Issue 235 (2013-10)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 235 (2013-10)(Imagine Publishing)(GB).pdf" size="48281764" crc="922318a7" md5="692372040183fa8bc5f809c6b7bc5b04" sha1="8b1a67f23f6c237c0a0233b39e9338fa13f76f52"/>
+	</game>
+	<game name="Play - Issue 238 (2013)(Imagine Publishing)(GB)[christmas edition]">
+		<description>Play - Issue 238 (2013)(Imagine Publishing)(GB)[christmas edition]</description>
+		<rom name="Play - Issue 238 (2013)(Imagine Publishing)(GB)[christmas edition].pdf" size="43537509" crc="02f8eabe" md5="f4934364ff71f718aa83e3b18fa6a5ec" sha1="932f0089f85e3e6c7ec1dfad9bb8cb671590e9de"/>
+	</game>
+	<game name="Play - Issue 239 (2014-01)(Imagine Publishing)(GB)">
+		<description>Play - Issue 239 (2014-01)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 239 (2014-01)(Imagine Publishing)(GB).pdf" size="48162340" crc="a15b7ad5" md5="e54b962574aa66ec82fcd861c63c5ee2" sha1="ed6c1b5b80f7136f59685fe3374fc054ed86d8fd"/>
+	</game>
+	<game name="Play - Issue 240 (2014-02)(Imagine Publishing)(GB)">
+		<description>Play - Issue 240 (2014-02)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 240 (2014-02)(Imagine Publishing)(GB).pdf" size="20419884" crc="6d7fe7b7" md5="c6c9f541d1de76946cd3eee54b49f963" sha1="964dd01ad7ea12e096e7268ffa271ead9c4bcedb"/>
+	</game>
+	<game name="Play - Issue 241 (2014-03)(Imagine Publishing)(GB)">
+		<description>Play - Issue 241 (2014-03)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 241 (2014-03)(Imagine Publishing)(GB).pdf" size="47590396" crc="e03369e5" md5="d74ee8b11e5f0d07bf6e1fcd0d895034" sha1="8c7d5ab7c5e5df8242c28e1750142db3daa05bb2"/>
+	</game>
+	<game name="Play - Issue 243 (2014-05)(Imagine Publishing)(GB)">
+		<description>Play - Issue 243 (2014-05)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 243 (2014-05)(Imagine Publishing)(GB).pdf" size="51472299" crc="90333572" md5="2f93b24adafa2f8b49e7cb48dbe802af" sha1="01faee2ede063a95d740d217fdd3d968da3880ea"/>
+	</game>
+	<game name="Play - Issue 244 (2014-06)(Imagine Publishing)(GB)">
+		<description>Play - Issue 244 (2014-06)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 244 (2014-06)(Imagine Publishing)(GB).pdf" size="51057275" crc="3142366c" md5="684a1eff70ad1a2f72027e001569d5f2" sha1="4222f7e0e9d286529c7815e818ade8419d3b71a8"/>
+	</game>
+	<game name="Play - Issue 245 (2014-07)(Imagine Publishing)(GB)">
+		<description>Play - Issue 245 (2014-07)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 245 (2014-07)(Imagine Publishing)(GB).pdf" size="67047772" crc="eb7288e0" md5="47df136061435df0ac69cc2dc792e3d0" sha1="fdabaf8104d7583f129dfad41329bb5f493d5ef0"/>
+	</game>
+	<game name="Play - Issue 246 (2014-08)(Imagine Publishing)(GB)">
+		<description>Play - Issue 246 (2014-08)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 246 (2014-08)(Imagine Publishing)(GB).pdf" size="29626588" crc="2b8da46d" md5="c1c0299b5aba5511098999b114640a49" sha1="27e97ac2d57feaf85a050692d5833ca7129ba7b5"/>
+	</game>
+	<game name="Play - Issue 247 (2014-09)(Imagine Publishing)(GB)">
+		<description>Play - Issue 247 (2014-09)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 247 (2014-09)(Imagine Publishing)(GB).pdf" size="64632038" crc="dcd60d6a" md5="a83288f04c7372553f0c99ae3af718b8" sha1="835e5b0d07d955d3c83080e352f050f638dd222f"/>
+	</game>
+	<game name="Play - Issue 248 (2014-10)(Imagine Publishing)(GB)">
+		<description>Play - Issue 248 (2014-10)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 248 (2014-10)(Imagine Publishing)(GB).pdf" size="65980118" crc="c58d3149" md5="bd93353b2b839744bc2c77d32a4ca1e0" sha1="e7f093b0a5b1cfd22abba9ca168eaa0d9e43a5c5"/>
+	</game>
+	<game name="Play - Issue 249 (2014-11)(Imagine Publishing)(GB)">
+		<description>Play - Issue 249 (2014-11)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 249 (2014-11)(Imagine Publishing)(GB).pdf" size="29748131" crc="151e27a0" md5="c0698e5d1828b599cc8816c033d6dcae" sha1="f2f469b556f26f6cb7b7331eca8651aa1bfafefc"/>
+	</game>
+	<game name="Play - Issue 250 (2014-12)(Imagine Publishing)(GB)">
+		<description>Play - Issue 250 (2014-12)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 250 (2014-12)(Imagine Publishing)(GB).pdf" size="68046249" crc="ea6d04b1" md5="57201d7a2b97a6e516671ca78aa51026" sha1="dc351a90d656b0a8fda8c8c9f3615a9cebad3247"/>
+	</game>
+	<game name="Play - Issue 251 (2015)(Imagine Publishing)(GB)[christmas edition]">
+		<description>Play - Issue 251 (2015)(Imagine Publishing)(GB)[christmas edition]</description>
+		<rom name="Play - Issue 251 (2015)(Imagine Publishing)(GB)[christmas edition].pdf" size="42570071" crc="29542786" md5="3b4a2b14b414f4f3c194e4a141226b78" sha1="2dc74afcae02de2516f852655c1e1435343f3e18"/>
+	</game>
+	<game name="Play - Issue 252 (2015-01)(Imagine Publishing)(GB)">
+		<description>Play - Issue 252 (2015-01)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 252 (2015-01)(Imagine Publishing)(GB).pdf" size="33321782" crc="5b7ac074" md5="9c75c1fa260efe53a562cfbf515f6de5" sha1="db6579621fd282b12fff4145ff6fed5121650fad"/>
+	</game>
+	<game name="Play - Issue 252 (2015-01)(Imagine Publishing)(GB)[a]">
+		<description>Play - Issue 252 (2015-01)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Play - Issue 252 (2015-01)(Imagine Publishing)(GB)[a].pdf" size="75995767" crc="a58dfa0b" md5="bb7a9966ce31f2ed0c4ff108ef7805d5" sha1="6dd341c210a163b4630665ae1dd1a7d1be5552a1"/>
+	</game>
+	<game name="Play - Issue 253 (2015-02)(Imagine Publishing)(GB)">
+		<description>Play - Issue 253 (2015-02)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 253 (2015-02)(Imagine Publishing)(GB).pdf" size="32544890" crc="40a7e5c4" md5="bd78113f5690f93d61287474eb2f1ec1" sha1="708ad86b3962748c78995ecfe16cc18ad93a99ca"/>
+	</game>
+	<game name="Play - Issue 254 (2015-03)(Imagine Publishing)(GB)">
+		<description>Play - Issue 254 (2015-03)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 254 (2015-03)(Imagine Publishing)(GB).pdf" size="33327298" crc="9bd28d9f" md5="dc3d0aaa9ac4a6a2ee1eae058c0c0fac" sha1="228a12b50338698736623707da0702ad6cc4d9f6"/>
+	</game>
+	<game name="Play - Issue 254 (2015-03)(Imagine Publishing)(GB)[a]">
+		<description>Play - Issue 254 (2015-03)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Play - Issue 254 (2015-03)(Imagine Publishing)(GB)[a].pdf" size="70043630" crc="32d18bb8" md5="c192b90a6eff8a75a985fbae5db747f4" sha1="3043c3cabde9c79c5f9568dbd82aa03f003ac435"/>
+	</game>
+	<game name="Play - Issue 255 (2015-04)(Imagine Publishing)(GB)">
+		<description>Play - Issue 255 (2015-04)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 255 (2015-04)(Imagine Publishing)(GB).pdf" size="36704430" crc="eb9d42c9" md5="7a4652c7919cf386142acca812cc598a" sha1="fadf821791a2d5dceb9245747dcd3ccf0a754195"/>
+	</game>
+	<game name="Play - Issue 256 (2015-05)(Imagine Publishing)(GB)">
+		<description>Play - Issue 256 (2015-05)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 256 (2015-05)(Imagine Publishing)(GB).pdf" size="34728476" crc="e05445e0" md5="29fea20ed72592bea3873fd3bfdc6b85" sha1="8c0749a736ed5b8aaddbea71e37351c6cdc05891"/>
+	</game>
+	<game name="Play - Issue 257 (2015-06)(Imagine Publishing)(GB)">
+		<description>Play - Issue 257 (2015-06)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 257 (2015-06)(Imagine Publishing)(GB).pdf" size="33897518" crc="cb834085" md5="bf0bc7b6256cee2c8eb0d9b917e247b5" sha1="4f751783232637ec678f0c449b8e723081c3f441"/>
+	</game>
+	<game name="Play - Issue 258 (2015-07)(Imagine Publishing)(GB)">
+		<description>Play - Issue 258 (2015-07)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 258 (2015-07)(Imagine Publishing)(GB).pdf" size="34068602" crc="54d2a5b0" md5="49f187e0e2664a46b2f6446062f27ca1" sha1="4bc66c7f3c583c13c0dae86a12eef7b67fa4919e"/>
+	</game>
+	<game name="Play - Issue 258 (2015-07)(Imagine Publishing)(GB)[a]">
+		<description>Play - Issue 258 (2015-07)(Imagine Publishing)(GB)[a]</description>
+		<rom name="Play - Issue 258 (2015-07)(Imagine Publishing)(GB)[a].pdf" size="69492968" crc="1f0b5b8b" md5="d3d08693582a1d1da1dc125bd205e22c" sha1="7232f1532abfa1609730efd146481903687d3312"/>
+	</game>
+	<game name="Play - Issue 259 (2015-08)(Imagine Publishing)(GB)">
+		<description>Play - Issue 259 (2015-08)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 259 (2015-08)(Imagine Publishing)(GB).pdf" size="73090672" crc="e33d974f" md5="d86cada2d3f5291b53a4265faaa3379d" sha1="83c43a33b0095c16364436666e2c238a671b0c3a"/>
+	</game>
+	<game name="Play - Issue 260 (2015-09)(Imagine Publishing)(GB)">
+		<description>Play - Issue 260 (2015-09)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 260 (2015-09)(Imagine Publishing)(GB).pdf" size="67427407" crc="c4bd356c" md5="a7e1596d2f27e0a23aa35efd08340dbc" sha1="ee0db3b8dd0c3b384a4124c0b77b5d002d8aa809"/>
+	</game>
+	<game name="Play - Issue 261 (2015-10)(Imagine Publishing)(GB)">
+		<description>Play - Issue 261 (2015-10)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 261 (2015-10)(Imagine Publishing)(GB).pdf" size="79220733" crc="67cc94d3" md5="119b39f5b91d6656024bb3e1abf630be" sha1="02743fbe7b6abff067a2652637144dce77720191"/>
+	</game>
+	<game name="Play - Issue 262 (2015-11)(Imagine Publishing)(GB)">
+		<description>Play - Issue 262 (2015-11)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 262 (2015-11)(Imagine Publishing)(GB).pdf" size="54711090" crc="4055bb9b" md5="1c2369f25cef6afbdb407898b5babdf0" sha1="0616c869859f0986e11e9652634578e37df793b0"/>
+	</game>
+	<game name="Play - Issue 263 (2016-12)(Imagine Publishing)(GB)">
+		<description>Play - Issue 263 (2016-12)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 263 (2016-12)(Imagine Publishing)(GB).pdf" size="22529091" crc="51e581d7" md5="57c0e8dec5b38b368118c6352376fe84" sha1="7add827343712b0bb5052591f09d3aa73c585579"/>
+	</game>
+	<game name="Play - Issue 264 (2015)(Imagine Publishing)(GB)[christmas edition]">
+		<description>Play - Issue 264 (2015)(Imagine Publishing)(GB)[christmas edition]</description>
+		<rom name="Play - Issue 264 (2015)(Imagine Publishing)(GB)[christmas edition].pdf" size="59118591" crc="f1945838" md5="2876cbe5c162676e5e15a7b5749247c0" sha1="55c0e94c0836fea1ac374d54535470e792a354f2"/>
+	</game>
+	<game name="Play - Issue 265 (2016-01)(Imagine Publishing)(GB)">
+		<description>Play - Issue 265 (2016-01)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 265 (2016-01)(Imagine Publishing)(GB).pdf" size="63615464" crc="49aed020" md5="3246ce4a1b45894f7878bd7c0ad022bf" sha1="c6517b8410d735875acbcb2862f099606ddc1b4d"/>
+	</game>
+	<game name="Play - Issue 266 (2016-02)(Imagine Publishing)(GB)">
+		<description>Play - Issue 266 (2016-02)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 266 (2016-02)(Imagine Publishing)(GB).pdf" size="65624907" crc="bb5938ad" md5="3f54c5d2ad5cf6b873e10fc229fc247e" sha1="5e53576e8952b5884db52abc1e5790a6128b364b"/>
+	</game>
+	<game name="Play - Issue 267 (2016-03)(Imagine Publishing)(GB)">
+		<description>Play - Issue 267 (2016-03)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 267 (2016-03)(Imagine Publishing)(GB).pdf" size="84369173" crc="9c6f4d6f" md5="7a6c1f482b56104fb27b468c8a976b26" sha1="035a4c75ae625137715aa2a77d084f0cf16726ca"/>
+	</game>
+	<game name="Play - Issue 268 (2016-04)(Imagine Publishing)(GB)">
+		<description>Play - Issue 268 (2016-04)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 268 (2016-04)(Imagine Publishing)(GB).pdf" size="61131989" crc="ff3f175d" md5="d6319b10c3a2011c68ac9e6de5b1c7d3" sha1="0c0a258ed46ba01c5537958ca92437fc1862717b"/>
+	</game>
+	<game name="Play - Issue 269 (2016-05)(Imagine Publishing)(GB)">
+		<description>Play - Issue 269 (2016-05)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 269 (2016-05)(Imagine Publishing)(GB).pdf" size="51159156" crc="64aa9b04" md5="dac8b5bb80ac9713dd3e8775267e48d1" sha1="c51cc48eee3fda8fe0aad2d61cd7a5e09d48e10d"/>
+	</game>
+	<game name="Play - Issue 270 (2016-06)(Imagine Publishing)(GB)">
+		<description>Play - Issue 270 (2016-06)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 270 (2016-06)(Imagine Publishing)(GB).pdf" size="29204616" crc="b271da15" md5="fbfb2e738652695d1dcbef31aa64fb3d" sha1="c63583dd180716f18557e6cf6769d5ec61c97e54"/>
+	</game>
+	<game name="Play - Issue 271 (2016-07)(Imagine Publishing)(GB)">
+		<description>Play - Issue 271 (2016-07)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 271 (2016-07)(Imagine Publishing)(GB).pdf" size="29872537" crc="7992ec1a" md5="4019c54a09d11b0c34d446c758399933" sha1="f2642bce3a5dc56b8fb24834f79b528b80b9dfb6"/>
+	</game>
+	<game name="Play - Issue 272 (2016-08)(Imagine Publishing)(GB)">
+		<description>Play - Issue 272 (2016-08)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 272 (2016-08)(Imagine Publishing)(GB).pdf" size="27681067" crc="23e846f4" md5="296d96d7fac9bc925682d9349e9e1709" sha1="b2b2423a3287846557e400ff79d3e1e1c718a6c8"/>
+	</game>
+	<game name="Play - Issue 273 (2016-09)(Imagine Publishing)(GB)">
+		<description>Play - Issue 273 (2016-09)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 273 (2016-09)(Imagine Publishing)(GB).pdf" size="46008612" crc="5ba2051b" md5="c49973787de278fc87eef0543dc139f1" sha1="39fd367fd7cc301c25d4112099d1538e2700f08e"/>
+	</game>
+	<game name="Play - Issue 274 (2016-10)(Imagine Publishing)(GB)">
+		<description>Play - Issue 274 (2016-10)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 274 (2016-10)(Imagine Publishing)(GB).pdf" size="70741051" crc="4c954129" md5="12dd64dd40092e3fc205e130ecded987" sha1="4d282623097d38f2eb6014f6e539c974ee3705c1"/>
+	</game>
+	<game name="Play - Issue 275 (2016-11)(Imagine Publishing)(GB)">
+		<description>Play - Issue 275 (2016-11)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 275 (2016-11)(Imagine Publishing)(GB).pdf" size="31005467" crc="aeda7872" md5="24544b7623d3f3ab82c98e3806fdb44a" sha1="78e6685e6f5673ddc18c5bcc64fcd7feb418877e"/>
+	</game>
+	<game name="Play - Issue 277 (2017-01)(Imagine Publishing)(GB)">
+		<description>Play - Issue 277 (2017-01)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 277 (2017-01)(Imagine Publishing)(GB).pdf" size="38155932" crc="19cc50d5" md5="76df88160b8382d634883f6ac944dda0" sha1="6dca700e157475631089e807c178433774d81b4d"/>
+	</game>
+	<game name="Play - Issue 281 (2017-05)(Imagine Publishing)(GB)">
+		<description>Play - Issue 281 (2017-05)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 281 (2017-05)(Imagine Publishing)(GB).pdf" size="28757421" crc="6f13b8ae" md5="f19350aac9bdc522a4f65f62481d5809" sha1="f6702f6eb42c710214b06d48013b988a963a140d"/>
+	</game>
+	<game name="Play - Issue 282 (2017-06)(Imagine Publishing)(GB)">
+		<description>Play - Issue 282 (2017-06)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 282 (2017-06)(Imagine Publishing)(GB).pdf" size="15253031" crc="6295e332" md5="e16367c2bdc85c2e558e61648b6e1906" sha1="b8c9ee6b5171ffb097ddaca2ed4b06fa4357c5cb"/>
+	</game>
+	<game name="Play - Issue 283 (2017-07)(Imagine Publishing)(GB)">
+		<description>Play - Issue 283 (2017-07)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 283 (2017-07)(Imagine Publishing)(GB).pdf" size="14862193" crc="f736a029" md5="210a045c63c760be0a2eaf589df3cffa" sha1="cf0248eda8a5a5c2e90ffe5d21968a0c27301db6"/>
+	</game>
+	<game name="Play - Issue 284 (2017-08)(Imagine Publishing)(GB)">
+		<description>Play - Issue 284 (2017-08)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 284 (2017-08)(Imagine Publishing)(GB).pdf" size="27457877" crc="e8bf1e23" md5="2b05da9d59cd6a966b2c311c65fb92cb" sha1="110017ee5cdabee4e92535e2c51a087d3c4274de"/>
+	</game>
+	<game name="Play - Issue 285 (2017-09)(Imagine Publishing)(GB)">
+		<description>Play - Issue 285 (2017-09)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 285 (2017-09)(Imagine Publishing)(GB).pdf" size="28041186" crc="c59f6790" md5="5327783ee3d1172eab4e35495d275e45" sha1="d7c07ff04106ba53e1ff7e87aa2eb2a8b0e87b72"/>
+	</game>
+	<game name="Play - Issue 286 (2017-10)(Imagine Publishing)(GB)">
+		<description>Play - Issue 286 (2017-10)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 286 (2017-10)(Imagine Publishing)(GB).pdf" size="27637720" crc="da51bf98" md5="2cb98398fb7cb678126f977cd7ae4d20" sha1="780030155fcd029650fee829b858e4f516bb6b0c"/>
+	</game>
+	<game name="Play - Issue 287 (2017-11)(Imagine Publishing)(GB)">
+		<description>Play - Issue 287 (2017-11)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 287 (2017-11)(Imagine Publishing)(GB).pdf" size="29558016" crc="15cf3fc5" md5="ee198d573632841d6e555354aabf7109" sha1="987cee04f6822ac70f77d6321edb2ec10e2e2b7f"/>
+	</game>
+	<game name="Play - Issue 288 (2017-12)(Imagine Publishing)(GB)">
+		<description>Play - Issue 288 (2017-12)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 288 (2017-12)(Imagine Publishing)(GB).pdf" size="26174413" crc="0a7046f7" md5="aff0bf153c26ad1863af8e4c6fa2440d" sha1="286a2e0e988070999d21a4a1f465939088d50ca5"/>
+	</game>
+	<game name="Play - Issue 289 (2018-01)(Imagine Publishing)(GB)">
+		<description>Play - Issue 289 (2018-01)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 289 (2018-01)(Imagine Publishing)(GB).pdf" size="15902747" crc="ea6b1aee" md5="0fd5011b1c267a10719bf51f594e0935" sha1="f4c571e5657e9467dffaebdf3bd2074f81391b64"/>
+	</game>
+	<game name="Play - Issue 290 (2018-02)(Imagine Publishing)(GB)">
+		<description>Play - Issue 290 (2018-02)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 290 (2018-02)(Imagine Publishing)(GB).pdf" size="14840317" crc="12de1e28" md5="c0a9a27f1fc941f6be274121fad80800" sha1="7320cb99a87dec79a11d8053f809c19c4e4a5dcd"/>
+	</game>
+	<game name="Play - Issue 291 (2018-03)(Imagine Publishing)(GB)">
+		<description>Play - Issue 291 (2018-03)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 291 (2018-03)(Imagine Publishing)(GB).pdf" size="29897514" crc="829d9b54" md5="ec9284304f4ffc66f830f2d90a6a01e4" sha1="a5a0076ce9d6fe8a12f695ca6856a111a1585bcd"/>
+	</game>
+	<game name="Play - Issue 292 (2018-04)(Imagine Publishing)(GB)">
+		<description>Play - Issue 292 (2018-04)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 292 (2018-04)(Imagine Publishing)(GB).pdf" size="22026860" crc="da504ef2" md5="2630e4d644c0148f5ed158d55eb3ec34" sha1="05dfa06eb713f946fbf810a1c638a4da8782e18a"/>
+	</game>
+	<game name="Play - Issue 293 (2018-05)(Imagine Publishing)(GB)">
+		<description>Play - Issue 293 (2018-05)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 293 (2018-05)(Imagine Publishing)(GB).pdf" size="33830359" crc="dc6add3b" md5="9d0084cad27f7e120d59f7dd65a70dc3" sha1="eedb049be07c5b672071ebbd015d6682b79857c2"/>
+	</game>
+	<game name="Play - Issue 294 (2018-06)(Imagine Publishing)(GB)">
+		<description>Play - Issue 294 (2018-06)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 294 (2018-06)(Imagine Publishing)(GB).pdf" size="15301607" crc="e8df3fd9" md5="f7064d38c8e3fa1d8909b4bbcad23e29" sha1="7835f0567641265c0db795adfa02eecfa0acd16e"/>
+	</game>
+	<game name="Play - Issue 295 (2018-07)(Imagine Publishing)(GB)">
+		<description>Play - Issue 295 (2018-07)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 295 (2018-07)(Imagine Publishing)(GB).pdf" size="17801245" crc="3b013c12" md5="7761b26401b05ba2668b1094e7e5f396" sha1="eda6eddf209366b4f57395df7587fc91aa1d6408"/>
+	</game>
+	<game name="Play - Issue 296 (2018-08)(Imagine Publishing)(GB)">
+		<description>Play - Issue 296 (2018-08)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 296 (2018-08)(Imagine Publishing)(GB).pdf" size="41850774" crc="6912e0c6" md5="d582b30818228839d662043806f7a9f5" sha1="9217f72c972105ed875b944bf48b86cb9ab9ea41"/>
+	</game>
+	<game name="Play - Issue 297 (2018-09)(Imagine Publishing)(GB)">
+		<description>Play - Issue 297 (2018-09)(Imagine Publishing)(GB)</description>
+		<rom name="Play - Issue 297 (2018-09)(Imagine Publishing)(GB).pdf" size="17199964" crc="8421f139" md5="dd9a3ec1290daee46c0e2beb2fc1c80c" sha1="1de6c2f411ea6d635c26d2f2092c6b987306e9f3"/>
+	</game>
+</datafile>

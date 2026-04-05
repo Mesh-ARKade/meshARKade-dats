@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Switch - Magazines - Switch Player (GB)</name>
+		<description>Nintendo Switch - Magazines - Switch Player (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Switch Player - Issue 01 (2017-02)(Switch Player)(GB)">
+		<description>Switch Player - Issue 01 (2017-02)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 01 (2017-02)(Switch Player)(GB).pdf" size="17748065" crc="e81ddbd1" md5="f98a816a513a88f9b982a6562efaf2ac" sha1="10df7b4f76fdfdadaa837d40ed1b77abd570b1e5"/>
+	</game>
+	<game name="Switch Player - Issue 02 (2017-04)(Switch Player)(GB)">
+		<description>Switch Player - Issue 02 (2017-04)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 02 (2017-04)(Switch Player)(GB).pdf" size="25354582" crc="b741b9f6" md5="2f9010e0fa376002a395180745025b3c" sha1="158e960091f57e8eb7ca9066e53697c131ee338c"/>
+	</game>
+	<game name="Switch Player - Issue 03 (2017-05)(Switch Player)(GB)">
+		<description>Switch Player - Issue 03 (2017-05)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 03 (2017-05)(Switch Player)(GB).pdf" size="24664352" crc="8fc7a217" md5="3ee645a6837bc08c67e37413164063c2" sha1="48918886769a77641e8aa075bfbce2a8e0d673f0"/>
+	</game>
+	<game name="Switch Player - Issue 04 (2017-06)(Switch Player)(GB)">
+		<description>Switch Player - Issue 04 (2017-06)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 04 (2017-06)(Switch Player)(GB).pdf" size="24191165" crc="0a7f3bc9" md5="c0d187920b3890620e9bfefa4346babf" sha1="01bb75129b632252c667364bd4bd8da1a8a66a18"/>
+	</game>
+	<game name="Switch Player - Issue 05 (2017-07)(Switch Player)(GB)">
+		<description>Switch Player - Issue 05 (2017-07)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 05 (2017-07)(Switch Player)(GB).pdf" size="25781402" crc="f0fd8831" md5="e2ead125ea538e40863efa4ec1e71384" sha1="4ac0b8ba317f5e99bb265de14c036debd8f3536a"/>
+	</game>
+	<game name="Switch Player - Issue 06 (2017-08)(Switch Player)(GB)">
+		<description>Switch Player - Issue 06 (2017-08)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 06 (2017-08)(Switch Player)(GB).pdf" size="19443902" crc="667c15fc" md5="2cf99ed9eccdf04621103d5def4aa54b" sha1="9c29fab230587647b49e211d5c9912bac86ce625"/>
+	</game>
+	<game name="Switch Player - Issue 07 (2017-09)(Switch Player)(GB)">
+		<description>Switch Player - Issue 07 (2017-09)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 07 (2017-09)(Switch Player)(GB).pdf" size="25101179" crc="fb50e0c1" md5="b19bc5364f051e6158c5b6ae29cadbb8" sha1="a8b96b59d15622a818fa6784a10fa41480c5f109"/>
+	</game>
+	<game name="Switch Player - Issue 08 (2017-10)(Switch Player)(GB)">
+		<description>Switch Player - Issue 08 (2017-10)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 08 (2017-10)(Switch Player)(GB).pdf" size="20698663" crc="cc4e0358" md5="2b58fe4baa9c30ded1b88db7d7c844f6" sha1="01a8b721c32f2d6bf753964d5b718ed0e8f5e691"/>
+	</game>
+	<game name="Switch Player - Issue 09 (2017-11)(Switch Player)(GB)">
+		<description>Switch Player - Issue 09 (2017-11)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 09 (2017-11)(Switch Player)(GB).pdf" size="22147096" crc="f9b30695" md5="020bfc2564b793b3e9beeaf8e3e4fcf3" sha1="9c4c2ce86d3dad57a21d1a8a391979a65c33bc20"/>
+	</game>
+	<game name="Switch Player - Issue 10 (2017-12)(Switch Player)(GB)">
+		<description>Switch Player - Issue 10 (2017-12)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 10 (2017-12)(Switch Player)(GB).pdf" size="21151289" crc="ccf50a79" md5="2eecc59aafca9f1072fb7efb23791fd5" sha1="c48fcfe10b9b5f616c1f59f0fe56b1fa3dec23eb"/>
+	</game>
+	<game name="Switch Player - Issue 11 (2018-01)(Switch Player)(GB)">
+		<description>Switch Player - Issue 11 (2018-01)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 11 (2018-01)(Switch Player)(GB).pdf" size="19238595" crc="cf7e1638" md5="9b2eaabee6a0bfb2a0592fa60c7295e0" sha1="410634e175c37e6658fb71b77cc4a284fee1311b"/>
+	</game>
+	<game name="Switch Player - Issue 12 (2018-02)(Switch Player)(GB)">
+		<description>Switch Player - Issue 12 (2018-02)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 12 (2018-02)(Switch Player)(GB).pdf" size="19413423" crc="d8128532" md5="0867b8c605c33a275779f5c3485f76b7" sha1="1531d052aba7534eee6f909b27858e9952c93843"/>
+	</game>
+	<game name="Switch Player - Issue 13 (2018-03)(Switch Player)(GB)">
+		<description>Switch Player - Issue 13 (2018-03)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 13 (2018-03)(Switch Player)(GB).pdf" size="18958851" crc="434984a8" md5="6e66e1343842007f855e3b30cc74e979" sha1="e8dbeb77791976f2653cfadbf4afcb9821894ba1"/>
+	</game>
+	<game name="Switch Player - Issue 14 (2018-04)(Switch Player)(GB)">
+		<description>Switch Player - Issue 14 (2018-04)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 14 (2018-04)(Switch Player)(GB).pdf" size="19012499" crc="ae37e417" md5="fd2189ef0f1f6b004f25fa8c3e22b0d0" sha1="5f0b69b7e5d9b1c6ba784a6c5881d0f54fb95c5c"/>
+	</game>
+	<game name="Switch Player - Issue 15 (2018-05)(Switch Player)(GB)">
+		<description>Switch Player - Issue 15 (2018-05)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 15 (2018-05)(Switch Player)(GB).pdf" size="24380657" crc="475f16b4" md5="ab0b5d09f82c5e2f7f1b8451745018f3" sha1="57e270a5a8e7b99074aef97eb254c56fa4f619ee"/>
+	</game>
+	<game name="Switch Player - Issue 16 (2018-06)(Switch Player)(GB)">
+		<description>Switch Player - Issue 16 (2018-06)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 16 (2018-06)(Switch Player)(GB).pdf" size="22077861" crc="cf242eb3" md5="3a03a5af5b99177ea1dde24ad2c13ab9" sha1="c079a0583e433d3c5b0ef9a28495295d9abdbf57"/>
+	</game>
+	<game name="Switch Player - Issue 17 (2018-07)(Switch Player)(GB)">
+		<description>Switch Player - Issue 17 (2018-07)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 17 (2018-07)(Switch Player)(GB).pdf" size="18077404" crc="bed10e98" md5="5de4de670e71538d547a203bf5c1b19d" sha1="647da6ffe2b78ceb0a07dad4a9b55c754e41a168"/>
+	</game>
+	<game name="Switch Player - Issue 21 (2018-11)(Switch Player)(GB)">
+		<description>Switch Player - Issue 21 (2018-11)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 21 (2018-11)(Switch Player)(GB).pdf" size="23555914" crc="912a5152" md5="5cccba15e6f6d3f555ce49bc269e83ff" sha1="f0548628ea2677987d60b5f98e492275827a27b3"/>
+	</game>
+	<game name="Switch Player - Issue 22 (2018-12)(Switch Player)(GB)">
+		<description>Switch Player - Issue 22 (2018-12)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 22 (2018-12)(Switch Player)(GB).pdf" size="24408007" crc="7a8bdfab" md5="8d1b37c771b8b8fa58b1d24cf589c47b" sha1="2ac90ce52e0d9982b778cff6679ebb0291199137"/>
+	</game>
+	<game name="Switch Player - Issue 23 (2019-01)(Switch Player)(GB)">
+		<description>Switch Player - Issue 23 (2019-01)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 23 (2019-01)(Switch Player)(GB).pdf" size="24551215" crc="5452e8ee" md5="30628a269b21123b89ec40c32be9df3e" sha1="a1e242c3f2bfa8eba418d6ace880caed3236bf71"/>
+	</game>
+	<game name="Switch Player - Issue 25 (2019-02)(Switch Player)(GB)">
+		<description>Switch Player - Issue 25 (2019-02)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 25 (2019-02)(Switch Player)(GB).pdf" size="22370531" crc="38b4f701" md5="79badd6f40c717415e7d533a5e6b3a95" sha1="8553d3dab5a9d6078f268461aa1b969ff5d96d6b"/>
+	</game>
+	<game name="Switch Player - Issue 26 (2019-03)(Switch Player)(GB)">
+		<description>Switch Player - Issue 26 (2019-03)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 26 (2019-03)(Switch Player)(GB).pdf" size="23233537" crc="d7a0663e" md5="2713309d13e9c91073011b8429a37152" sha1="64f85bcf853f9f3e450621c912d739188fe2c290"/>
+	</game>
+	<game name="Switch Player - Issue 27 (2019-04)(Switch Player)(GB)">
+		<description>Switch Player - Issue 27 (2019-04)(Switch Player)(GB)</description>
+		<rom name="Switch Player - Issue 27 (2019-04)(Switch Player)(GB).pdf" size="24082320" crc="fc9b53ee" md5="a135848e5179dcec3cd0a2fd29238658" sha1="e4fe3fa6e6fce71b71cb960c526d8158c6bf219a"/>
+	</game>
+</datafile>

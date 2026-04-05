@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - SuperPlay (GB)</name>
+		<description>Nintendo - Magazines - SuperPlay (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="SuperPlay - Issue 18 (1994-04)(Future Publishing)(GB)">
+		<description>SuperPlay - Issue 18 (1994-04)(Future Publishing)(GB)</description>
+		<rom name="SuperPlay - Issue 18 (1994-04)(Future Publishing)(GB).pdf" size="256574197" crc="f5ac8322" md5="d49eae17b5e11ca09fe6cab525d7c310" sha1="a8fe0931b7904a18d446aafa7170644eaca62b0b"/>
+	</game>
+	<game name="SuperPlay - Issue 24 (1994-10)(Future Publishing)(GB)">
+		<description>SuperPlay - Issue 24 (1994-10)(Future Publishing)(GB)</description>
+		<rom name="SuperPlay - Issue 24 (1994-10)(Future Publishing)(GB).pdf" size="370264552" crc="7ebf07f2" md5="d2be771ae4c64188ead06cca16c08e2c" sha1="cd1f7df25893b89e5ddd57d1fa1ca727aa1fa841"/>
+	</game>
+	<game name="SuperPlay - Issue 26 (1994-12)(Future Publishing)(GB)">
+		<description>SuperPlay - Issue 26 (1994-12)(Future Publishing)(GB)</description>
+		<rom name="SuperPlay - Issue 26 (1994-12)(Future Publishing)(GB).pdf" size="343380791" crc="7c879b15" md5="c3e0bb545c7e28ce89ac5c0232867d8c" sha1="8a21158a85ee252592eb65d6bc59030f3bb24136"/>
+	</game>
+	<game name="SuperPlay - Issue 27 (1995-01)(Future Publishing)(GB)">
+		<description>SuperPlay - Issue 27 (1995-01)(Future Publishing)(GB)</description>
+		<rom name="SuperPlay - Issue 27 (1995-01)(Future Publishing)(GB).pdf" size="243580497" crc="471821f5" md5="770248548624f4821fba0efd7391813d" sha1="c812b04a6a74a0fc3c647a45dc5363c4da65139f"/>
+	</game>
+</datafile>

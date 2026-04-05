@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - GameFan Sports Network (US)</name>
+		<description>Multi-format - Magazines - GameFan Sports Network (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Gamefan Sports Network - Volume 1 Issue 1 (1997)(Metropolis Publications)(US)[summer edition]">
+		<description>Gamefan Sports Network - Volume 1 Issue 1 (1997)(Metropolis Publications)(US)[summer edition]</description>
+		<rom name="Gamefan Sports Network - Volume 1 Issue 1 (1997)(Metropolis Publications)(US)[summer edition].pdf" size="371597123" crc="c7452627" md5="d9459d28c7371d9d44fe4c9989a3f00e" sha1="eb6d7fa5da80d4d4e9f3ee9f87be5c131798977c"/>
+	</game>
+</datafile>

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - PC Zone (GB)</name>
+		<description>IBM PC Compatibles - Magazines - PC Zone (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC Zone - Issue 001 (1993-04)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 001 (1993-04)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 001 (1993-04)(Dennis Publishing)(GB).pdf" size="116839555" crc="219ae2f2" md5="0588dffb8ee1688e22f1e29d0b5e459b" sha1="d8a8655b806ca90e468224e698eb9437e0d44121"/>
+	</game>
+	<game name="PC Zone - Issue 005 (1993-08)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 005 (1993-08)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 005 (1993-08)(Dennis Publishing)(GB).pdf" size="162705907" crc="78b0126b" md5="266640c0a3f4f4ab8c76099c5ca52f44" sha1="88fa2b9d8649b217a5d4bd6de864f14234a84d8a"/>
+	</game>
+	<game name="PC Zone - Issue 009 (1993-12)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 009 (1993-12)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 009 (1993-12)(Dennis Publishing)(GB).pdf" size="138697567" crc="06b7cd06" md5="4898aba7f2d818434c1daed0cf39a72e" sha1="2a217a186785c241971f758125212d920e796f4a"/>
+	</game>
+	<game name="PC Zone - Issue 024 (1995-03)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 024 (1995-03)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 024 (1995-03)(Dennis Publishing)(GB).pdf" size="68219611" crc="9a6ea2f6" md5="ee13fd78c771f659193f6f8de46cfba5" sha1="242eaff7c21baec4b2db0e5cbb523b2f3951286e"/>
+	</game>
+	<game name="PC Zone - Issue 025 (1995-04)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 025 (1995-04)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 025 (1995-04)(Dennis Publishing)(GB).pdf" size="63399893" crc="c481a6dc" md5="9b865550cda59f48c72b00ebace30f43" sha1="4940194b9a59a9eb849bf0197026a72041c7ed2f"/>
+	</game>
+	<game name="PC Zone - Issue 029 (1995-08)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 029 (1995-08)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 029 (1995-08)(Dennis Publishing)(GB).pdf" size="65841787" crc="c6869199" md5="0d6cf7d75e7686eabfc89e5273d9a3c7" sha1="85de05d0657ead474a56c0bde9b344fcc4c3a022"/>
+	</game>
+	<game name="PC Zone - Issue 034 (1996-01)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 034 (1996-01)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 034 (1996-01)(Dennis Publishing)(GB).pdf" size="83888815" crc="2710df8f" md5="fd1bd128768c1f0250d0832aa5e1b835" sha1="4d760c79f548511731f0765df4ab29ec945a447e"/>
+	</game>
+	<game name="PC Zone - Issue 035 (1996-02)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 035 (1996-02)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 035 (1996-02)(Dennis Publishing)(GB).pdf" size="244910923" crc="956e76f0" md5="f4a6a83f4a145618fdf48116c2bedf18" sha1="157b4f51d6593a749804e7c3b413a4912c3842d2"/>
+	</game>
+	<game name="PC Zone - Issue 038 (1996-05)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 038 (1996-05)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 038 (1996-05)(Dennis Publishing)(GB).pdf" size="79515816" crc="6d3dc303" md5="8f756f426e90dfda4ab5d5357bda3bef" sha1="316b732272f38296f7fca760535737c2d951bbd1"/>
+	</game>
+	<game name="PC Zone - Issue 047 (1997-02)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 047 (1997-02)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 047 (1997-02)(Dennis Publishing)(GB).pdf" size="170932705" crc="c5fede26" md5="df8a7a6707e48aadf99261b079a2314d" sha1="49c5e5d7295f4d296474b6664419b007c4603d95"/>
+	</game>
+	<game name="PC Zone - Issue 050 (1997-05)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 050 (1997-05)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 050 (1997-05)(Dennis Publishing)(GB).pdf" size="81183290" crc="34fcddf4" md5="88ae831507332d188ade8d13a2f20a8c" sha1="c031e5b44ceeda28d10cd982c58560ce6c218193"/>
+	</game>
+	<game name="PC Zone - Issue 055 (1997-10)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 055 (1997-10)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 055 (1997-10)(Dennis Publishing)(GB).pdf" size="85329727" crc="8963660b" md5="75eb8c9a274e6cfd696c0a1ad606ff82" sha1="b42bac5acb19789aa8dc39004f19be5d2c7e2777"/>
+	</game>
+	<game name="PC Zone - Issue 060 (1998-02)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 060 (1998-02)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 060 (1998-02)(Dennis Publishing)(GB).pdf" size="172649507" crc="48b061b9" md5="f607170a52d21313553a6790f215ca79" sha1="c5237ea2b69a9c5c828dbb5e64381e9186cef7b7"/>
+	</game>
+	<game name="PC Zone - Issue 062 (1998-04)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 062 (1998-04)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 062 (1998-04)(Dennis Publishing)(GB).pdf" size="75160518" crc="8fa2fcb5" md5="1d64e7f6403e0d1520e34ec4621bcfca" sha1="0f7c66623437b6227d4dc043dafa9cbd8b204e9b"/>
+	</game>
+	<game name="PC Zone - Issue 066 (1998-08)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 066 (1998-08)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 066 (1998-08)(Dennis Publishing)(GB).pdf" size="77971701" crc="ef1d1b40" md5="694d3340e5bb801673784d8a78d5104f" sha1="b5220c1f45261c2ad7f6d3b5f4233ef5ce7b68cc"/>
+	</game>
+	<game name="PC Zone - Issue 069 (1998-11)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 069 (1998-11)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 069 (1998-11)(Dennis Publishing)(GB).pdf" size="208242724" crc="7ba1aa9d" md5="15f3d3b8b491ff293c32f23171ad126e" sha1="daf04ccd46c5b53869ca44ec958140b6b65787b4"/>
+	</game>
+	<game name="PC Zone - Issue 070 (1998-11)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 070 (1998-11)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 070 (1998-11)(Future Publishing)(GB).pdf" size="101802298" crc="49895ed0" md5="f94bcc90169727ad982579d853b223ad" sha1="6e861f68fc8fbdc55ceb10379342522fdea8508e"/>
+	</game>
+	<game name="PC Zone - Issue 071 (1998)(Dennis Publishing)(GB)[christmas edition]">
+		<description>PC Zone - Issue 071 (1998)(Dennis Publishing)(GB)[christmas edition]</description>
+		<rom name="PC Zone - Issue 071 (1998)(Dennis Publishing)(GB)[christmas edition].pdf" size="117190993" crc="3bcfa21b" md5="6fbc34477864d7a9b87ba05c70df5e09" sha1="2b4ac0896d31a83789b580037d4f5da89db5fcc1"/>
+	</game>
+	<game name="PC Zone - Issue 072 (1999-01)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 072 (1999-01)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 072 (1999-01)(Dennis Publishing)(GB).pdf" size="140416444" crc="7b6c60a6" md5="8bad12150946b3a642b2823f177775a0" sha1="c16d7144d3d6e26df3a542a7ce3403c965272bae"/>
+	</game>
+	<game name="PC Zone - Issue 073 (1999-02)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 073 (1999-02)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 073 (1999-02)(Dennis Publishing)(GB).pdf" size="126910549" crc="309c5f90" md5="441ea3d47bab363f17e7d8026d74bd5f" sha1="15db1a2b737334c1e165e062186c3f9727994a61"/>
+	</game>
+	<game name="PC Zone - Issue 074 (1999-03)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 074 (1999-03)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 074 (1999-03)(Dennis Publishing)(GB).pdf" size="126503540" crc="5d467bf9" md5="04b3ef3b4f7e88498909566830b1d208" sha1="c7b0deeaa32c4c3fc386c07153852042d27456c4"/>
+	</game>
+	<game name="PC Zone - Issue 075 (1999-04)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 075 (1999-04)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 075 (1999-04)(Dennis Publishing)(GB).pdf" size="130973369" crc="8afe5b94" md5="429e6c03cfdbe20bc8f0d29639abe30a" sha1="c86e506da8c8073b84f924006a4e66f191fe0028"/>
+	</game>
+	<game name="PC Zone - Issue 076 (1999-05)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 076 (1999-05)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 076 (1999-05)(Dennis Publishing)(GB).pdf" size="139638740" crc="a2e3491a" md5="1c44e6781caecd398401a4b84d643ac2" sha1="f150fd235085d64c50204bc44369789a166f2728"/>
+	</game>
+	<game name="PC Zone - Issue 077 (1999-06)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 077 (1999-06)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 077 (1999-06)(Dennis Publishing)(GB).pdf" size="133594839" crc="c266fd64" md5="57c53f5d95e30e4a4aee4ab423cf3f8f" sha1="cf1d8104c4accaf0398d9692d3509a567522cb6a"/>
+	</game>
+	<game name="PC Zone - Issue 078 (1999-07)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 078 (1999-07)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 078 (1999-07)(Dennis Publishing)(GB).pdf" size="129851359" crc="4c7a0a65" md5="4ca609d6854d0e347392c25d231634a7" sha1="3b5a923a912b179470c5b5615d2af3b2e4df607a"/>
+	</game>
+	<game name="PC Zone - Issue 079 (1999-08)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 079 (1999-08)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 079 (1999-08)(Dennis Publishing)(GB).pdf" size="123903791" crc="470308e3" md5="6072074d78df2cfc87bae2a389868216" sha1="dcfc29ba78276d668dcd989c99f815282dfd54ce"/>
+	</game>
+	<game name="PC Zone - Issue 080 (1999-09)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 080 (1999-09)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 080 (1999-09)(Dennis Publishing)(GB).pdf" size="116890214" crc="26a06069" md5="46d0fbedc2a471492af0ed3991a54fa4" sha1="d99840ee4a2829eb60f8f9fe00411feb3b73c975"/>
+	</game>
+	<game name="PC Zone - Issue 081 (1999-10)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 081 (1999-10)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 081 (1999-10)(Dennis Publishing)(GB).pdf" size="139641535" crc="04fb421b" md5="4946002310045942975a37b527175893" sha1="3543269934cafeb4eb455d2228821b41136cb6f4"/>
+	</game>
+	<game name="PC Zone - Issue 082 (1999-11)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 082 (1999-11)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 082 (1999-11)(Dennis Publishing)(GB).pdf" size="154093005" crc="e893aa5a" md5="b27acd8a1b207196262525d97349b199" sha1="e64687608263dc8871b7640fd5239adca21e5dd8"/>
+	</game>
+	<game name="PC Zone - Issue 083 (1999-12)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 083 (1999-12)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 083 (1999-12)(Dennis Publishing)(GB).pdf" size="141161991" crc="a5fdfc89" md5="6da1f468b04ae926822c29e4ab06308c" sha1="393e5690ce74bc10fb5289faab4e90846706a191"/>
+	</game>
+	<game name="PC Zone - Issue 084 (1999)(Dennis Publishing)(GB)[christmas edition]">
+		<description>PC Zone - Issue 084 (1999)(Dennis Publishing)(GB)[christmas edition]</description>
+		<rom name="PC Zone - Issue 084 (1999)(Dennis Publishing)(GB)[christmas edition].pdf" size="154367326" crc="efdb0782" md5="4ea7d02369723ba9f42b7d32ce5c25f1" sha1="dcfc2d17ba6f2d6f14397e31ae1940336d3530d2"/>
+	</game>
+	<game name="PC Zone - Issue 085 (2000-01)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 085 (2000-01)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 085 (2000-01)(Dennis Publishing)(GB).pdf" size="120331873" crc="1275be76" md5="77a40ee8268190625246cf0e4eb743c4" sha1="6fb0744500f31c229cc2e0050d86dde11293006b"/>
+	</game>
+	<game name="PC Zone - Issue 086 (2000-02)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 086 (2000-02)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 086 (2000-02)(Dennis Publishing)(GB).pdf" size="140850169" crc="56cf27e1" md5="1253237e4297542b635b1fd299fb925a" sha1="68feaf75dd245f902781dec91c58cf4d0bf7e73d"/>
+	</game>
+	<game name="PC Zone - Issue 087 (2000-03)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 087 (2000-03)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 087 (2000-03)(Dennis Publishing)(GB).pdf" size="137611530" crc="af30a250" md5="890521488b70c5bf73b09df72c4666bd" sha1="9b537c47783e3a1ee44ebedb59777c416a40d7b8"/>
+	</game>
+	<game name="PC Zone - Issue 088 (2000-04)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 088 (2000-04)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 088 (2000-04)(Dennis Publishing)(GB).pdf" size="152146597" crc="9af090b9" md5="a4d5abc6ba3c38fa205a1c6b29887387" sha1="3a7c578821daa25155961e8049f4fa60f8971de7"/>
+	</game>
+	<game name="PC Zone - Issue 089 (2000-05)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 089 (2000-05)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 089 (2000-05)(Dennis Publishing)(GB).pdf" size="157356783" crc="3cadb696" md5="6964c160d2538cdb6bed90b7f074d462" sha1="4001d16f99043fc5ced576ea70e2cac059bcb9e2"/>
+	</game>
+	<game name="PC Zone - Issue 090 (2000-06)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 090 (2000-06)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 090 (2000-06)(Dennis Publishing)(GB).pdf" size="150942112" crc="55338d31" md5="5c7c6e8e398ceca040d754bd1d57b220" sha1="265dd704b23eb312c92f218b1fb55b49226bb488"/>
+	</game>
+	<game name="PC Zone - Issue 091 (2000-07)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 091 (2000-07)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 091 (2000-07)(Dennis Publishing)(GB).pdf" size="151998838" crc="e9a6a282" md5="8f02705d3978f265e6f9104725d97615" sha1="cfb1c1fd721b99c9dc7516afb145e97d96059bd3"/>
+	</game>
+	<game name="PC Zone - Issue 092 (2000-08)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 092 (2000-08)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 092 (2000-08)(Dennis Publishing)(GB).pdf" size="154268795" crc="7e2f0ebf" md5="67d603867763ab1207f2bfa4840db22b" sha1="4d241d61cbbef5014b7a4bbf558b337dc08a839c"/>
+	</game>
+	<game name="PC Zone - Issue 093 (2000-09)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 093 (2000-09)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 093 (2000-09)(Dennis Publishing)(GB).pdf" size="149945375" crc="009ddf35" md5="8907269fdd0231f59a10cc8a60982c85" sha1="8cb9c4d903dfcf88127268060bb4c9ad325ae08c"/>
+	</game>
+	<game name="PC Zone - Issue 094 (2000-10)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 094 (2000-10)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 094 (2000-10)(Dennis Publishing)(GB).pdf" size="151154801" crc="a940e82c" md5="fb59f6aa996b1388632f46c592035bb3" sha1="0f64002cc8f32fb9843fc5b136dbfb4aed54aaa6"/>
+	</game>
+	<game name="PC Zone - Issue 095 (2000-11)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 095 (2000-11)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 095 (2000-11)(Dennis Publishing)(GB).pdf" size="152286935" crc="0f52e165" md5="f2fa3a8c871741f02e266c6c289e24e8" sha1="4570c3ff2ba1b9dd74cf13fe4f7c3641a3eb353b"/>
+	</game>
+	<game name="PC Zone - Issue 096 (2000-12)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 096 (2000-12)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 096 (2000-12)(Dennis Publishing)(GB).pdf" size="150054994" crc="7bc5e1ae" md5="69e98532545ec0af13a77c8c3f518322" sha1="aae409a81b4826e03732148bfa0146cf891b7601"/>
+	</game>
+	<game name="PC Zone - Issue 097 (2000)(Dennis Publishing)(GB)[christmas edition]">
+		<description>PC Zone - Issue 097 (2000)(Dennis Publishing)(GB)[christmas edition]</description>
+		<rom name="PC Zone - Issue 097 (2000)(Dennis Publishing)(GB)[christmas edition].pdf" size="148415696" crc="7144143f" md5="095da4d1618a5f579ec065f65510c25c" sha1="c5c037b7039d935b9a327116ae7832892e3abcba"/>
+	</game>
+	<game name="PC Zone - Issue 098 (2001-01)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 098 (2001-01)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 098 (2001-01)(Dennis Publishing)(GB).pdf" size="132401124" crc="f45fc5e4" md5="6095df69e4dd1027e7aac33331d0d0cb" sha1="bfc0f98237c99db19c45551db1b08de084bce3cf"/>
+	</game>
+	<game name="PC Zone - Issue 099 (2001-02)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 099 (2001-02)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 099 (2001-02)(Dennis Publishing)(GB).pdf" size="105448023" crc="abcfba3f" md5="5973734ded9fc9d60ff5e7e021f1cd34" sha1="e1f8c5e423ac225bab9d353802d0ced972eee59c"/>
+	</game>
+	<game name="PC Zone - Issue 100 (2001-03)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 100 (2001-03)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 100 (2001-03)(Dennis Publishing)(GB).pdf" size="106869404" crc="60cd9d49" md5="7d2345aa7f0cca1717b4643924d656ee" sha1="22d1b6809a5d4b30cb6d45f6bcb2baf9467a66d9"/>
+	</game>
+	<game name="PC Zone - Issue 101 (2001-04)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 101 (2001-04)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 101 (2001-04)(Dennis Publishing)(GB).pdf" size="108472820" crc="06ce96e0" md5="3b77902c36f9faa4e34bc0e19b6379d3" sha1="cfb0b75665d611e6b7facb9915b9c4bad6f0675c"/>
+	</game>
+	<game name="PC Zone - Issue 102 (2001-05)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 102 (2001-05)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 102 (2001-05)(Dennis Publishing)(GB).pdf" size="109852685" crc="5d835afb" md5="b9e8600b23350b8dab3bbb2a3b3daa78" sha1="8e5e5292b15db7231436ab9470463ca64ea6a720"/>
+	</game>
+	<game name="PC Zone - Issue 103 (2001-06)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 103 (2001-06)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 103 (2001-06)(Dennis Publishing)(GB).pdf" size="106823783" crc="3473713f" md5="69ba1dac13de0e848804d158d193a707" sha1="da08f6762c8d700a76e45e1dfdea2500bea01d39"/>
+	</game>
+	<game name="PC Zone - Issue 104 (2001-07)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 104 (2001-07)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 104 (2001-07)(Dennis Publishing)(GB).pdf" size="108631684" crc="6c173cab" md5="e7d9ea9b29243f595fd17de25f512905" sha1="db2cc0a3eea19d00c231b53a526fa8f47d869d7c"/>
+	</game>
+	<game name="PC Zone - Issue 105 (2001-08)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 105 (2001-08)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 105 (2001-08)(Dennis Publishing)(GB).pdf" size="106990446" crc="b9362659" md5="af6c528e025509b2c8c194b85e1c629f" sha1="47488372858059537022dde4d7a63a3b384c39e4"/>
+	</game>
+	<game name="PC Zone - Issue 106 (2001-09)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 106 (2001-09)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 106 (2001-09)(Dennis Publishing)(GB).pdf" size="106997649" crc="1443862d" md5="cadd97030d05b9c29a297480c698f73a" sha1="741b86900458c3b366779053087abafe87e6bb47"/>
+	</game>
+	<game name="PC Zone - Issue 107 (2001-10)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 107 (2001-10)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 107 (2001-10)(Dennis Publishing)(GB).pdf" size="93745931" crc="322c488f" md5="30dde683c188f80bf603135ff0449dda" sha1="0c73f30606563c08bfd494039ccb6883f1ae379c"/>
+	</game>
+	<game name="PC Zone - Issue 108 (2001-11)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 108 (2001-11)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 108 (2001-11)(Dennis Publishing)(GB).pdf" size="108556159" crc="66bfc40a" md5="fee75e9803ba7ba6525d9188ed42c081" sha1="64ff23dd370842f12ff16648bc0d588e5c451d7a"/>
+	</game>
+	<game name="PC Zone - Issue 109 (2001-12)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 109 (2001-12)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 109 (2001-12)(Dennis Publishing)(GB).pdf" size="108470628" crc="6b12ca28" md5="6d054f9bc0f91df2bb27b8aff4094c66" sha1="b49563ceb3cd86e3e9dbb6c3f9d3f226ed38c553"/>
+	</game>
+	<game name="PC Zone - Issue 110 (2001)(Dennis Publishing)(GB)[christmas edition]">
+		<description>PC Zone - Issue 110 (2001)(Dennis Publishing)(GB)[christmas edition]</description>
+		<rom name="PC Zone - Issue 110 (2001)(Dennis Publishing)(GB)[christmas edition].pdf" size="125496168" crc="46d92040" md5="1612a4a08940803cfafb404f88916141" sha1="52737c0ea15fd86f7b1ca755b25cf0d88b3306e9"/>
+	</game>
+	<game name="PC Zone - Issue 111 (2002-01)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 111 (2002-01)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 111 (2002-01)(Future Publishing)(GB).pdf" size="316925298" crc="71d69727" md5="d9606ba62ce6f0a3b56a00b6d5b91ba2" sha1="ba583b0dc8bf3880ef5ad7ee7d51e3adc6ac39f9"/>
+	</game>
+	<game name="PC Zone - Issue 112 (2002-02)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 112 (2002-02)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 112 (2002-02)(Future Publishing)(GB).pdf" size="164235376" crc="cab2d942" md5="7e772fece2a068fff34ca5afdddcefa8" sha1="7d6e35faeda23ba7148eb106287981aa70c34056"/>
+	</game>
+	<game name="PC Zone - Issue 113 (2002-03)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 113 (2002-03)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 113 (2002-03)(Future Publishing)(GB).pdf" size="288824236" crc="cd0e7007" md5="cb2fa59eeeefd49d2f6e183d95a93c4b" sha1="7e853b05417b6568eb69fe7c59cd822767560506"/>
+	</game>
+	<game name="PC Zone - Issue 114 (2002-04)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 114 (2002-04)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 114 (2002-04)(Future Publishing)(GB).pdf" size="323918747" crc="63dc7440" md5="ee191c5c48133eeea11e8ae77e5f661e" sha1="1b06482def1618d549879a216b82a67d35600290"/>
+	</game>
+	<game name="PC Zone - Issue 115 (2002-05)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 115 (2002-05)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 115 (2002-05)(Future Publishing)(GB).pdf" size="299383829" crc="d16f57d2" md5="6ff0d4042c493a96cd93698a3370134a" sha1="2b1ae07a1816d15389c5fd670d766fd6a32da6bf"/>
+	</game>
+	<game name="PC Zone - Issue 116 (2002-06)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 116 (2002-06)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 116 (2002-06)(Future Publishing)(GB).pdf" size="286989162" crc="6adc7671" md5="be7ab6c7f30e3a19353ed222fdff81ca" sha1="cb9dd424751a8f567b58f1b31e0bd733de209672"/>
+	</game>
+	<game name="PC Zone - Issue 117 (2002-07)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 117 (2002-07)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 117 (2002-07)(Future Publishing)(GB).pdf" size="301288799" crc="5cce77de" md5="41dbe84dd1c6ba21b73bc1e52e7c99b0" sha1="124ef56a9659cfe5c84a673df03f6c8659423737"/>
+	</game>
+	<game name="PC Zone - Issue 118 (2002-08)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 118 (2002-08)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 118 (2002-08)(Future Publishing)(GB).pdf" size="289272097" crc="158e2607" md5="185e314e001d3d073a7ce0e14cf2b6bb" sha1="a59223d58b12940dc3dd8a5f77e39d2947e8edee"/>
+	</game>
+	<game name="PC Zone - Issue 119 (2002-09)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 119 (2002-09)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 119 (2002-09)(Future Publishing)(GB).pdf" size="169927130" crc="c2d04240" md5="3406f8f75e9fbc77399d196a7790b7e5" sha1="600a80dc439660d33b7eaf8131cfd9c1df2b5e5e"/>
+	</game>
+	<game name="PC Zone - Issue 120 (2002-10)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 120 (2002-10)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 120 (2002-10)(Future Publishing)(GB).pdf" size="158138990" crc="edb2dff4" md5="cb766f6fd52e5d60d29faff8192929c9" sha1="a112cc0144e6ed41e72f055ad3546adbcd50d7c2"/>
+	</game>
+	<game name="PC Zone - Issue 121 (2002-11)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 121 (2002-11)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 121 (2002-11)(Future Publishing)(GB).pdf" size="166280233" crc="5717c01a" md5="0edf3b96bb8a39878c72aacac361913b" sha1="46107df57b80b083f91fd448578cdc14c54fb383"/>
+	</game>
+	<game name="PC Zone - Issue 122 (2002-12)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 122 (2002-12)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 122 (2002-12)(Future Publishing)(GB).pdf" size="165483627" crc="30697c9d" md5="c7819c2f594cb74ba67cce24224f1afa" sha1="c9ffffa3ca087d10f9d26ca79fed9d7a5e07ef44"/>
+	</game>
+	<game name="PC Zone - Issue 123 (2002)(Future Publishing)(GB)[xmas edition]">
+		<description>PC Zone - Issue 123 (2002)(Future Publishing)(GB)[xmas edition]</description>
+		<rom name="PC Zone - Issue 123 (2002)(Future Publishing)(GB)[xmas edition].pdf" size="387580199" crc="cb9f1301" md5="31452fd47d7a77c8edf7728458203961" sha1="3f48c831be1acd2ed0fe9a06b26eb0f3e58cf937"/>
+	</game>
+	<game name="PC Zone - Issue 124 (2003-01)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 124 (2003-01)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 124 (2003-01)(Future Publishing)(GB).pdf" size="165913181" crc="8c4cc814" md5="71169a16229457aecb66676eee449261" sha1="b5b01f57f624c267271e94ebe3a3ddd64e98f30d"/>
+	</game>
+	<game name="PC Zone - Issue 125 (2003-02)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 125 (2003-02)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 125 (2003-02)(Future Publishing)(GB).pdf" size="139232391" crc="6323cbcd" md5="16ad299283c253aec76a8ac51000d231" sha1="7819c55bb6f4422c01e68b75e02881581306c545"/>
+	</game>
+	<game name="PC Zone - Issue 126 (2003-03)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 126 (2003-03)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 126 (2003-03)(Future Publishing)(GB).pdf" size="152872365" crc="e03e24d0" md5="8341a046979dddd4db5924d64c3646b0" sha1="099d83745e4a5d4ab6cd7450db7448034a3c68cc"/>
+	</game>
+	<game name="PC Zone - Issue 127 (2003-04)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 127 (2003-04)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 127 (2003-04)(Future Publishing)(GB).pdf" size="179354987" crc="7e617b00" md5="bb7f2c933aeaf7a9e3383a5aaff33c5d" sha1="2e62bcd9edf96cbf271123cfa8d78cf11d8cb158"/>
+	</game>
+	<game name="PC Zone - Issue 128 (2003-05)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 128 (2003-05)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 128 (2003-05)(Future Publishing)(GB).pdf" size="151443457" crc="b85347cc" md5="2a2e98c26e11be7bb19fa997f9a0ea25" sha1="8230bf652911ff6dae9a2c936ae926d5c39e2179"/>
+	</game>
+	<game name="PC Zone - Issue 129 (2003-06)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 129 (2003-06)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 129 (2003-06)(Future Publishing)(GB).pdf" size="146538826" crc="f6b995c2" md5="e9a1e9287d6486afcb4db57aaefb340b" sha1="8baef69cf88073457eb90da470f818a3c33c1bbe"/>
+	</game>
+	<game name="PC Zone - Issue 130 (2003-07)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 130 (2003-07)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 130 (2003-07)(Future Publishing)(GB).pdf" size="151941749" crc="76d79655" md5="de88a5addbd770d56cf1ef107674319a" sha1="efbc60bbfacf07de9233b8789708a30d992eb37f"/>
+	</game>
+	<game name="PC Zone - Issue 131 (2003-08)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 131 (2003-08)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 131 (2003-08)(Future Publishing)(GB).pdf" size="145933526" crc="2bf4eba8" md5="e38d2a5c4d2406b931743c876722c261" sha1="b9fc65fb21b895934e0b6eb6ea2deed8ba32faa2"/>
+	</game>
+	<game name="PC Zone - Issue 132 (2003-09)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 132 (2003-09)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 132 (2003-09)(Future Publishing)(GB).pdf" size="338499248" crc="ec2a25be" md5="0f55a691cf7009f64078fdd512bc7f99" sha1="506cbefe9f11cb108731d87a266c0f111c8484a4"/>
+	</game>
+	<game name="PC Zone - Issue 133 (2003-10)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 133 (2003-10)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 133 (2003-10)(Future Publishing)(GB).pdf" size="155383568" crc="f2b7c760" md5="e879808ba78ff9d4e30acba53f5e3d65" sha1="e379b6aae23e32906257708b486f88b38554193c"/>
+	</game>
+	<game name="PC Zone - Issue 134 (2003-11)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 134 (2003-11)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 134 (2003-11)(Future Publishing)(GB).pdf" size="160869942" crc="fbed0723" md5="26e4d116f98a15e1b1835b280c99e9c7" sha1="5967bc182abeb4d736b32fc75a36d1999afd8674"/>
+	</game>
+	<game name="PC Zone - Issue 135 (2003-12)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 135 (2003-12)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 135 (2003-12)(Future Publishing)(GB).pdf" size="188021746" crc="57a93a51" md5="94da4feacc8d1d59ba735bc72fe01d89" sha1="f3091aac5b3f7a89d9213d23dae7d3d4df12c54b"/>
+	</game>
+	<game name="PC Zone - Issue 136 (2003)(Future Publishing)(GB)[xmas edition]">
+		<description>PC Zone - Issue 136 (2003)(Future Publishing)(GB)[xmas edition]</description>
+		<rom name="PC Zone - Issue 136 (2003)(Future Publishing)(GB)[xmas edition].pdf" size="181629036" crc="f8b70d62" md5="b87e09743f36776b23c13d4a3034b7d8" sha1="0fbbe45ff16f4e76865f7e4bd79156173b7ee0e2"/>
+	</game>
+	<game name="PC Zone - Issue 137 (2004-01)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 137 (2004-01)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 137 (2004-01)(Future Publishing)(GB).pdf" size="169877921" crc="4a964648" md5="230f070c0ffbc28ce5ee1619f64dff92" sha1="bde6588c68bc29515dba0a44a2fec4df19fad11f"/>
+	</game>
+	<game name="PC Zone - Issue 138 (2004-02)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 138 (2004-02)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 138 (2004-02)(Future Publishing)(GB).pdf" size="301950626" crc="fce25321" md5="a3283869d4bf0c1e59ce14153d7b3a06" sha1="ccac873aeb638c42312bf3129daf4649dc08d7b6"/>
+	</game>
+	<game name="PC Zone - Issue 139 (2004-03)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 139 (2004-03)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 139 (2004-03)(Future Publishing)(GB).pdf" size="319613926" crc="b61dfc51" md5="98d0cf997d094006a9cb5ddc007a1989" sha1="7dd9244e5d6b35e683b7ee62c9ec4a09178da671"/>
+	</game>
+	<game name="PC Zone - Issue 140 (2004-04)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 140 (2004-04)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 140 (2004-04)(Future Publishing)(GB).pdf" size="325937230" crc="bc9b2a2e" md5="c232a0b3c62749b2c664e374e1e02c8c" sha1="8f6be97c76570eccf0e0bb1d6dc53155fc344ae9"/>
+	</game>
+	<game name="PC Zone - Issue 141 (2004-05)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 141 (2004-05)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 141 (2004-05)(Future Publishing)(GB).pdf" size="161987175" crc="3c678878" md5="e630c4affb78c01b34b3f53b3df71ae2" sha1="b8b0c2219c2fc21b8286e4844b2c669ffe4811e9"/>
+	</game>
+	<game name="PC Zone - Issue 142 (2004-06)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 142 (2004-06)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 142 (2004-06)(Future Publishing)(GB).pdf" size="195357882" crc="7e518bc3" md5="5eaffd0e81be46076a5041912625075c" sha1="7c928b6aabc77759598e85cc305100772a33c6ef"/>
+	</game>
+	<game name="PC Zone - Issue 143 (2004-07)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 143 (2004-07)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 143 (2004-07)(Future Publishing)(GB).pdf" size="194500834" crc="efcb819a" md5="990f612229ce664902928ceac1f4e781" sha1="b757613cba66663eaf5e6eae579c5be5afde2e4f"/>
+	</game>
+	<game name="PC Zone - Issue 144 (2004-08)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 144 (2004-08)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 144 (2004-08)(Future Publishing)(GB).pdf" size="176685940" crc="65fb31f9" md5="5523bbd3d83b288f31a611da0a1af888" sha1="edad3faae3f986490bffaef8bb452d27e48ea635"/>
+	</game>
+	<game name="PC Zone - Issue 145 (2004-09)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 145 (2004-09)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 145 (2004-09)(Future Publishing)(GB).pdf" size="174722978" crc="e723549f" md5="423dd65f12759e383833257e0004492d" sha1="69565655958140c72081d4895515d93dd03f259b"/>
+	</game>
+	<game name="PC Zone - Issue 146 (2004-10)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 146 (2004-10)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 146 (2004-10)(Future Publishing)(GB).pdf" size="146605379" crc="9031e8fc" md5="bc36f8231423796aade65a8e68e0904b" sha1="ab36689c8d4bb0ce903c15c13eef6665aea968bd"/>
+	</game>
+	<game name="PC Zone - Issue 147 (2004-11)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 147 (2004-11)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 147 (2004-11)(Future Publishing)(GB).pdf" size="154265606" crc="1ce0f80d" md5="db105bc4b1bb1eee9a4a4d8e4743b2f7" sha1="086f31e106a0491d3bb1b0c507b64be5b4f406fc"/>
+	</game>
+	<game name="PC Zone - Issue 148 (2004-12)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 148 (2004-12)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 148 (2004-12)(Future Publishing)(GB).pdf" size="163548647" crc="1bb86a0b" md5="354321c4704c8e0a6c52a3025e23d329" sha1="923a6c8f43b745e39fe722a0a28da6ace5dd5eaa"/>
+	</game>
+	<game name="PC Zone - Issue 149 (2004)(Future Publishing)(GB)[xmas edition]">
+		<description>PC Zone - Issue 149 (2004)(Future Publishing)(GB)[xmas edition]</description>
+		<rom name="PC Zone - Issue 149 (2004)(Future Publishing)(GB)[xmas edition].pdf" size="216523506" crc="5bc4bf59" md5="24dc3d1dc89fd25c4f04ae9bd80e7b1e" sha1="9501206551a7c68539c82d0b6539421166d7cac7"/>
+	</game>
+	<game name="PC Zone - Issue 150 (2005-01)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 150 (2005-01)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 150 (2005-01)(Future Publishing)(GB).pdf" size="150464086" crc="85b728f4" md5="63ac338d031ccca971f815c7ca43eaef" sha1="7412f2f436651bb8f7034b3b0659888ca41d46c9"/>
+	</game>
+	<game name="PC Zone - Issue 151 (2005-02)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 151 (2005-02)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 151 (2005-02)(Future Publishing)(GB).pdf" size="144464732" crc="5329577f" md5="f813b9fadbd4e12c3faa2e993ccbbfa2" sha1="d21b3c58d1da1ea17362dd2b94a6318d7635d73a"/>
+	</game>
+	<game name="PC Zone - Issue 152 (2005-03)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 152 (2005-03)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 152 (2005-03)(Future Publishing)(GB).pdf" size="143188399" crc="bab4f715" md5="8b436cc729e4a60be35026a931dc2300" sha1="0221c9f9467ae5aaeaba5d11b1bb2208a4f6041b"/>
+	</game>
+	<game name="PC Zone - Issue 153 (2005-04)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 153 (2005-04)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 153 (2005-04)(Future Publishing)(GB).pdf" size="151691598" crc="ff769045" md5="72ddcbd19d5076ed5cacb2556ce20b71" sha1="fca6d47b87f58b84f43fb45ff8330c6cae637bbc"/>
+	</game>
+	<game name="PC Zone - Issue 154 (2005-05)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 154 (2005-05)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 154 (2005-05)(Future Publishing)(GB).pdf" size="149315463" crc="b3fc605f" md5="951279dfe29feb27e8c3018745f19856" sha1="21d6ff9da412497ee30105964c3e7b484d6b8651"/>
+	</game>
+	<game name="PC Zone - Issue 155 (2005-06)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 155 (2005-06)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 155 (2005-06)(Future Publishing)(GB).pdf" size="149572189" crc="c1cecd9b" md5="9de70920fe81e29996460a9f29788e38" sha1="45ee2c6cc526f8b6db76a1c4200faf518f93c736"/>
+	</game>
+	<game name="PC Zone - Issue 156 (2005-07)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 156 (2005-07)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 156 (2005-07)(Future Publishing)(GB).pdf" size="150198730" crc="50b2b0e0" md5="4831afb6a56aa43984909ab7748ae972" sha1="55492bf0e4fa77dae7194d65ace89d3123a06dd6"/>
+	</game>
+	<game name="PC Zone - Issue 157 (2005-08)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 157 (2005-08)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 157 (2005-08)(Future Publishing)(GB).pdf" size="207944449" crc="1bbb8cd9" md5="6d553cc0ed1c1ef7f40fa13e9cea4cbf" sha1="732267ab07363ae967599bd6237b5da801990e94"/>
+	</game>
+	<game name="PC Zone - Issue 158 (2005-09)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 158 (2005-09)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 158 (2005-09)(Future Publishing)(GB).pdf" size="194286111" crc="10576aa5" md5="83690775ca0a7e8154ab30bf49f70f0c" sha1="a411f2846d43789a72cb9795dae49949306dcbb3"/>
+	</game>
+	<game name="PC Zone - Issue 159 (2005-10)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 159 (2005-10)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 159 (2005-10)(Future Publishing)(GB).pdf" size="173479993" crc="046fca26" md5="8f0d41bdcea67a1d1a1a07bb6a3a1a2c" sha1="4845ebb984012e447a504ede72f558b0f8f72943"/>
+	</game>
+	<game name="PC Zone - Issue 160 (2005-11)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 160 (2005-11)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 160 (2005-11)(Future Publishing)(GB).pdf" size="179977629" crc="232ce106" md5="1107c9f27d0051e47a22936e8b0121c6" sha1="5e0e7881ca33f8cffe505c1092f3ddad78adfc9c"/>
+	</game>
+	<game name="PC Zone - Issue 161 (2005-12)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 161 (2005-12)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 161 (2005-12)(Future Publishing)(GB).pdf" size="183973360" crc="99b4be1f" md5="35342424081d4311050abaea8b4daa81" sha1="fb7511a3def84ca34889e74e081dc7a4c7af2cef"/>
+	</game>
+	<game name="PC Zone - Issue 162 (2005)(Future Publishing)(GB)[xmas edition]">
+		<description>PC Zone - Issue 162 (2005)(Future Publishing)(GB)[xmas edition]</description>
+		<rom name="PC Zone - Issue 162 (2005)(Future Publishing)(GB)[xmas edition].pdf" size="176780266" crc="9403c090" md5="67def56a5905963d16d31b40bcac6d35" sha1="7a93c72bd414ba2183f8265756b4f76211432cee"/>
+	</game>
+	<game name="PC Zone - Issue 163 (2006-01)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 163 (2006-01)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 163 (2006-01)(Dennis Publishing)(GB).pdf" size="180200285" crc="e03c03c7" md5="5e9cd8c66d9ad7f7a7868a47d6f9f3fc" sha1="492d99d5dd3324fb5063245f23561eb0406cd7e6"/>
+	</game>
+	<game name="PC Zone - Issue 164 (2006-02)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 164 (2006-02)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 164 (2006-02)(Dennis Publishing)(GB).pdf" size="256448331" crc="a9a6ef66" md5="137a408fa0e742e28f180f05bbbad59a" sha1="f9e500bfbba4e71473cc0494a84253cd25edab86"/>
+	</game>
+	<game name="PC Zone - Issue 165 (2006-03)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 165 (2006-03)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 165 (2006-03)(Dennis Publishing)(GB).pdf" size="216639930" crc="74debb6e" md5="2add4816b80b440c18560e881f310c52" sha1="a5b08f3e375e64734118056dcefcbeb05c056a36"/>
+	</game>
+	<game name="PC Zone - Issue 166 (2006-04)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 166 (2006-04)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 166 (2006-04)(Dennis Publishing)(GB).pdf" size="226278037" crc="c2cd7008" md5="141fd282656dc3765af7e0800f105895" sha1="273de436dfcc68c0c58e7efeacb813135e457172"/>
+	</game>
+	<game name="PC Zone - Issue 167 (2006-05)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 167 (2006-05)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 167 (2006-05)(Dennis Publishing)(GB).pdf" size="222200317" crc="03718e2f" md5="84b70a859ca3965583b68498749b109e" sha1="00c8bfd9ca99d57930d90412d680499ecdc1be80"/>
+	</game>
+	<game name="PC Zone - Issue 168 (2006-06)(Dennis Publishing)(GB)">
+		<description>PC Zone - Issue 168 (2006-06)(Dennis Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 168 (2006-06)(Dennis Publishing)(GB).pdf" size="226328485" crc="c488f503" md5="88c1e41c9fa0dbeedf674a940d7bf3c4" sha1="25e06ca689a3bc9400327b7c39f5f62b139d4b4e"/>
+	</game>
+	<game name="PC Zone - Issue 169 (2006-07)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 169 (2006-07)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 169 (2006-07)(Future Publishing)(GB).pdf" size="193866090" crc="a8c40ad3" md5="1a1c8e7b69181524225b52d6fb8dcce3" sha1="45d1afa5075651be5aa474a4bb00fd1435b4b575"/>
+	</game>
+	<game name="PC Zone - Issue 170 (2006-08)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 170 (2006-08)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 170 (2006-08)(Future Publishing)(GB).pdf" size="200986502" crc="8e518e52" md5="9e6389019e06b65542d44e46f90c5b6d" sha1="4bf4f75673cbf475cddc9b3481a9790ea836c561"/>
+	</game>
+	<game name="PC Zone - Issue 171 (2006-09)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 171 (2006-09)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 171 (2006-09)(Future Publishing)(GB).pdf" size="157887539" crc="b63da907" md5="d50721e692c12b352393e732f148fa92" sha1="5a807c0a7e8409ce9e88825847a69ceb89a84e55"/>
+	</game>
+	<game name="PC Zone - Issue 172 (2006-10)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 172 (2006-10)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 172 (2006-10)(Future Publishing)(GB).pdf" size="156916938" crc="359d84f2" md5="8e2545b4677894c02f45fb88287efa34" sha1="2fbf8a611ed7dcc91b8fe0c550f7ff79da917d7c"/>
+	</game>
+	<game name="PC Zone - Issue 173 (2006-11)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 173 (2006-11)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 173 (2006-11)(Future Publishing)(GB).pdf" size="174256647" crc="9f72a1b7" md5="9f7a8943fad3b4e1a8511235ef6d083e" sha1="974dd665654568d5a025fcbbce297afd0e36bca5"/>
+	</game>
+	<game name="PC Zone - Issue 174 (2006-12)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 174 (2006-12)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 174 (2006-12)(Future Publishing)(GB).pdf" size="191589020" crc="c685476c" md5="cd80aaab104f0bd58c8f17adccecf2e5" sha1="04a9a5819a090acfbac641ddd9bf8ae15660e200"/>
+	</game>
+	<game name="PC Zone - Issue 175 (2006)(Future Publishing)(GB)[xmas edition]">
+		<description>PC Zone - Issue 175 (2006)(Future Publishing)(GB)[xmas edition]</description>
+		<rom name="PC Zone - Issue 175 (2006)(Future Publishing)(GB)[xmas edition].pdf" size="170943236" crc="562f58af" md5="d2465ff47390882a88de086131124c05" sha1="8895eec255a1513d5192bf61ece99c47c40011fe"/>
+	</game>
+	<game name="PC Zone - Issue 176 (2007-01)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 176 (2007-01)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 176 (2007-01)(Future Publishing)(GB).pdf" size="164258567" crc="f18aa1e1" md5="aca9598d31e7690e236593c66daa55af" sha1="af4b1716f2c41348561e29fa5475c61b7884e361"/>
+	</game>
+	<game name="PC Zone - Issue 177 (2007-02)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 177 (2007-02)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 177 (2007-02)(Future Publishing)(GB).pdf" size="155331543" crc="8a0a7fe0" md5="9aba40913c7d1219e11c28bf05dfcc47" sha1="f928bb9a1b9c195ccfe89381227b20bc8b9d3373"/>
+	</game>
+	<game name="PC Zone - Issue 178 (2007-03)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 178 (2007-03)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 178 (2007-03)(Future Publishing)(GB).pdf" size="171692345" crc="9296d396" md5="156fe9da2e68e8cb3f1e46f026e7f023" sha1="d4eda6fef5059bdb16fe88535c9e0e1840c22aac"/>
+	</game>
+	<game name="PC Zone - Issue 179 (2007-04)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 179 (2007-04)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 179 (2007-04)(Future Publishing)(GB).pdf" size="149039622" crc="50a8aef3" md5="93f5bc18599edcc80fbdbd64228de3e0" sha1="b048638ef5dfaa25b65bcfe90a3e272f3bfa72f8"/>
+	</game>
+	<game name="PC Zone - Issue 180 (2007-05)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 180 (2007-05)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 180 (2007-05)(Future Publishing)(GB).pdf" size="149956557" crc="a1a88ed1" md5="98d54f4c9040ddb8e1f09c225288ed8f" sha1="26551e71f7bc72214507ed4eeafd859112f241d9"/>
+	</game>
+	<game name="PC Zone - Issue 181 (2007-06)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 181 (2007-06)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 181 (2007-06)(Future Publishing)(GB).pdf" size="147914208" crc="cc175818" md5="36eb7181f40f8ac48dbcf74b62395e53" sha1="289bbeeba4ff3e774fc53abc884c8cebc01468ee"/>
+	</game>
+	<game name="PC Zone - Issue 182 (2007-07)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 182 (2007-07)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 182 (2007-07)(Future Publishing)(GB).pdf" size="149071927" crc="f3981368" md5="4306f60b78d2f21240505f63c31a091f" sha1="628ddc3189e85d3606ced84a3bb8c08d4ba9477b"/>
+	</game>
+	<game name="PC Zone - Issue 183 (2007-08)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 183 (2007-08)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 183 (2007-08)(Future Publishing)(GB).pdf" size="158804410" crc="aae6ccf7" md5="89b90535f28de882acf61b37fe4ff165" sha1="dd9266b2c15229950da0ff80e58750bf5336cd50"/>
+	</game>
+	<game name="PC Zone - Issue 184 (2007-09)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 184 (2007-09)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 184 (2007-09)(Future Publishing)(GB).pdf" size="157434944" crc="ff44699b" md5="a7758fd9135fe4390fe6ea1b710556df" sha1="746207af2ddbef5492fe8fae7d455e277981e67f"/>
+	</game>
+	<game name="PC Zone - Issue 185 (2007-10)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 185 (2007-10)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 185 (2007-10)(Future Publishing)(GB).pdf" size="264855969" crc="9a424b54" md5="835f5501a094dc454f20627715afa231" sha1="704cd95d7746faa94de75cf96114a297c3e9a19d"/>
+	</game>
+	<game name="PC Zone - Issue 186 (2007-11)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 186 (2007-11)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 186 (2007-11)(Future Publishing)(GB).pdf" size="258791058" crc="a235530f" md5="bdf74b1dd9ab24040c5ab6280f984dc5" sha1="7eb18244046bcd4b66afd347d27b1b74b33ea7a0"/>
+	</game>
+	<game name="PC Zone - Issue 187 (2007-12)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 187 (2007-12)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 187 (2007-12)(Future Publishing)(GB).pdf" size="155442069" crc="e7ed7f9e" md5="c989620e0e5230c29836714526fd87ae" sha1="e6c5217b953cff2a7bd858d675f110a3022a4d39"/>
+	</game>
+	<game name="PC Zone - Issue 188 (2007)(Future Publishing)(GB)[xmas edition]">
+		<description>PC Zone - Issue 188 (2007)(Future Publishing)(GB)[xmas edition]</description>
+		<rom name="PC Zone - Issue 188 (2007)(Future Publishing)(GB)[xmas edition].pdf" size="154464833" crc="41a02c29" md5="51385a9aaff32f138c056ba76d05ad68" sha1="9e28c6970c1ad210b4ccb7d2ac85d7b991772ab1"/>
+	</game>
+	<game name="PC Zone - Issue 189 (2008-01)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 189 (2008-01)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 189 (2008-01)(Future Publishing)(GB).pdf" size="152021684" crc="02814aae" md5="fa4bff5dcdf479e93a0d9563ba9188dc" sha1="14084b13736046d3401fed7c915b3b87abc0d0f5"/>
+	</game>
+	<game name="PC Zone - Issue 190 (2008-02)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 190 (2008-02)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 190 (2008-02)(Future Publishing)(GB).pdf" size="255370709" crc="6b5b4aef" md5="3a64026b7eda68c7290ef26c67a913b8" sha1="6da134d6a4092aa5ecbbc5c975485b2fa42632a8"/>
+	</game>
+	<game name="PC Zone - Issue 191 (2008-03)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 191 (2008-03)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 191 (2008-03)(Future Publishing)(GB).pdf" size="248348083" crc="0b6f16a5" md5="b72a5ffa73ca036c565544c8755a8420" sha1="294fd42943f28601053be16b30f534fb42476012"/>
+	</game>
+	<game name="PC Zone - Issue 192 (2008-04)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 192 (2008-04)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 192 (2008-04)(Future Publishing)(GB).pdf" size="252719443" crc="643c4551" md5="273cf09561c9664979f6885827e6bfed" sha1="a9cbf526e673c09cc7ff70a52609f740c0071612"/>
+	</game>
+	<game name="PC Zone - Issue 193 (2008-05)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 193 (2008-05)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 193 (2008-05)(Future Publishing)(GB).pdf" size="154382367" crc="dfe8acdf" md5="50f4f4b97f5fb88f69686f644a174605" sha1="83fa4368323799b7e2b8f9fec34f187a1562ef92"/>
+	</game>
+	<game name="PC Zone - Issue 194 (2008-06)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 194 (2008-06)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 194 (2008-06)(Future Publishing)(GB).pdf" size="151978020" crc="207401f7" md5="06ccfcebf9b2d3115f1175ec73ed2c90" sha1="6439a75b453dce3f9e39f89ef9eacae3bfe9ef2c"/>
+	</game>
+	<game name="PC Zone - Issue 195 (2008-07)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 195 (2008-07)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 195 (2008-07)(Future Publishing)(GB).pdf" size="144371216" crc="8b44a877" md5="406ff63645cfba5106bf2f3909bb3eeb" sha1="54a666837ae245914116974fec61d3d1d0c4ed8f"/>
+	</game>
+	<game name="PC Zone - Issue 196 (2008-08)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 196 (2008-08)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 196 (2008-08)(Future Publishing)(GB).pdf" size="125832907" crc="6db8e0a6" md5="34601b2503f86bd9a06b27515b98e834" sha1="f5dd3d990db9f0d36af91e394a1e781d05f31bcf"/>
+	</game>
+	<game name="PC Zone - Issue 197 (2008-09)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 197 (2008-09)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 197 (2008-09)(Future Publishing)(GB).pdf" size="122118493" crc="e9954ac9" md5="c53f48cd1fd9fd89a93c66cd479bf1bd" sha1="63bf1efbe25cefd79417207e6eafad602d98207d"/>
+	</game>
+	<game name="PC Zone - Issue 198 (2008-10)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 198 (2008-10)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 198 (2008-10)(Future Publishing)(GB).pdf" size="199512618" crc="b0c79a1c" md5="f750c62e9b69ed52ac46f08c3cfd75fe" sha1="0eed8d1cc66af965c28a2686e9e85a678f1b2770"/>
+	</game>
+	<game name="PC Zone - Issue 199 (2008-11)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 199 (2008-11)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 199 (2008-11)(Future Publishing)(GB).pdf" size="213494378" crc="79cd529e" md5="4539d0e63b286103ddc543e66723596e" sha1="0aafdcd0bb04e0bfbddc55efc2289ef067a96343"/>
+	</game>
+	<game name="PC Zone - Issue 200 (2008-12)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 200 (2008-12)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 200 (2008-12)(Future Publishing)(GB).pdf" size="223787265" crc="ac2686de" md5="6068ed98f60f20afca3991bccf2e0ac2" sha1="b0b0f702a14d9890dadbcecf211b5432343ee5bf"/>
+	</game>
+	<game name="PC Zone - Issue 201 (2008)(Future Publishing)(GB)[xmas edition]">
+		<description>PC Zone - Issue 201 (2008)(Future Publishing)(GB)[xmas edition]</description>
+		<rom name="PC Zone - Issue 201 (2008)(Future Publishing)(GB)[xmas edition].pdf" size="207298246" crc="c0d2a3d0" md5="389cded0afcc7a3eeee95ea12f05087d" sha1="f4f88e8441c05848a98fdccf730efaa1d35ddcb8"/>
+	</game>
+	<game name="PC Zone - Issue 202 (2009-01)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 202 (2009-01)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 202 (2009-01)(Future Publishing)(GB).pdf" size="124511321" crc="a45230bb" md5="58ee158e61f27c338751c35b0a165f74" sha1="6d8e6bc2cd4123096d68274ac1a5a2265e5b0d80"/>
+	</game>
+	<game name="PC Zone - Issue 203 (2009-02)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 203 (2009-02)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 203 (2009-02)(Future Publishing)(GB).pdf" size="202223477" crc="8ca65b73" md5="66f5ec8297285d83e7cc8c87f799eeb7" sha1="dfbd95befc9e42e8df1f2bec62a2df363f8dbbb5"/>
+	</game>
+	<game name="PC Zone - Issue 204 (2009-03)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 204 (2009-03)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 204 (2009-03)(Future Publishing)(GB).pdf" size="201368113" crc="6e2f6733" md5="cf415ac7b65d8480514386e12c7fbc46" sha1="6e14adf5db713763af96c2d4c02edadcd190dd42"/>
+	</game>
+	<game name="PC Zone - Issue 205 (2009-04)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 205 (2009-04)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 205 (2009-04)(Future Publishing)(GB).pdf" size="200422991" crc="f74a3af8" md5="9dba142e950aecadba0c9052f9eb0f22" sha1="94a2c6334007db7b634bf28a7e5a5d13170a07f0"/>
+	</game>
+	<game name="PC Zone - Issue 206 (2009-05)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 206 (2009-05)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 206 (2009-05)(Future Publishing)(GB).pdf" size="204793059" crc="ba645a03" md5="cb5b461114d47b1868aa6ed1dcf448bc" sha1="19b8cd15d62f9b871c36e5834fb6648549017e09"/>
+	</game>
+	<game name="PC Zone - Issue 207 (2009-06)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 207 (2009-06)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 207 (2009-06)(Future Publishing)(GB).pdf" size="204170722" crc="94061c66" md5="74eb8ba180accc5f19e112f51b133d7d" sha1="eb2e9b4dd8ff976cae3f03055f9d7270025c96f3"/>
+	</game>
+	<game name="PC Zone - Issue 208 (2009-07)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 208 (2009-07)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 208 (2009-07)(Future Publishing)(GB).pdf" size="204029200" crc="309879b6" md5="9eeb489bc53a08c487bfa8e95aca7966" sha1="7285cd3d9826ee933df2ab19575dad837c6f38b8"/>
+	</game>
+	<game name="PC Zone - Issue 209 (2009-08)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 209 (2009-08)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 209 (2009-08)(Future Publishing)(GB).pdf" size="205795965" crc="ddd6d1c9" md5="d758592ef615974cab241babdf929cf2" sha1="c87801cc59b8063778ae8014e9376794d75ea416"/>
+	</game>
+	<game name="PC Zone - Issue 210 (2009-09)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 210 (2009-09)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 210 (2009-09)(Future Publishing)(GB).pdf" size="208095810" crc="e9b39074" md5="7a81796271558c31a5e98016e65bd47f" sha1="f692a7c5982022d870b7383150f1fc0a0b0dee88"/>
+	</game>
+	<game name="PC Zone - Issue 211 (2009-10)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 211 (2009-10)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 211 (2009-10)(Future Publishing)(GB).pdf" size="124768123" crc="7cf69027" md5="495d5f32a6e234bf41469316ac18a39b" sha1="8dfed9887e1b36d9c6bcd0b067b37e4f511964f5"/>
+	</game>
+	<game name="PC Zone - Issue 212 (2009-11)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 212 (2009-11)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 212 (2009-11)(Future Publishing)(GB).pdf" size="216381168" crc="9567391a" md5="da9086d9e67bae99bb5613701b3a4ff5" sha1="6234fc941ceb9c5632ebde3d8c16324cd2900b1c"/>
+	</game>
+	<game name="PC Zone - Issue 213 (2009-12)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 213 (2009-12)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 213 (2009-12)(Future Publishing)(GB).pdf" size="194019896" crc="163e57fa" md5="bfd85bea36298f127a2fcd502c396a5c" sha1="1e8d71d7c1809044d9f5de81e26e5d42a8e04b98"/>
+	</game>
+	<game name="PC Zone - Issue 214 (2009)(Future Publishing)(GB)[christmas edition]">
+		<description>PC Zone - Issue 214 (2009)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="PC Zone - Issue 214 (2009)(Future Publishing)(GB)[christmas edition].pdf" size="232468513" crc="c726000a" md5="214b128a3c1c498ad4547b770959fa2b" sha1="943e2a92051f1eb15920188c6fcd6da5c2036f8d"/>
+	</game>
+	<game name="PC Zone - Issue 215 (2010-01)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 215 (2010-01)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 215 (2010-01)(Future Publishing)(GB).pdf" size="224785926" crc="5bcc5bd9" md5="67f073b9602f70be6f3708ae23ec869a" sha1="f186aa27f07a4318f55d92fec71f37b8b1b45725"/>
+	</game>
+	<game name="PC Zone - Issue 216 (2010-02)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 216 (2010-02)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 216 (2010-02)(Future Publishing)(GB).pdf" size="236366698" crc="91188dd9" md5="63f58294e1692bd6e5f18f31dd9dfed0" sha1="29591682d7ce2325e045d1202334bfe91ef541b5"/>
+	</game>
+	<game name="PC Zone - Issue 217 (2010-03)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 217 (2010-03)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 217 (2010-03)(Future Publishing)(GB).pdf" size="134001226" crc="0dde8d77" md5="b6046d212f3df46ff1309882a954233b" sha1="ea2a6976a4c84dcca62a8e8e995394b0ddae3c1e"/>
+	</game>
+	<game name="PC Zone - Issue 218 (2010-04)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 218 (2010-04)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 218 (2010-04)(Future Publishing)(GB).pdf" size="143100480" crc="ca5690ee" md5="985a7e426f420cbe766135f09cd23dc8" sha1="23d687db5db0387c731e6ad767505a870236aa31"/>
+	</game>
+	<game name="PC Zone - Issue 219 (2010-05)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 219 (2010-05)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 219 (2010-05)(Future Publishing)(GB).pdf" size="219977526" crc="5caa7e7e" md5="db8cc5c5a16d8e9044f854104b65255e" sha1="02e03756843a64d06f63f28d7ad69c361f5d3992"/>
+	</game>
+	<game name="PC Zone - Issue 220 (2010-06)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 220 (2010-06)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 220 (2010-06)(Future Publishing)(GB).pdf" size="233281354" crc="ef298a22" md5="c4ad71e38ee71fdc60ff1e53011e597f" sha1="763a1d4e7a6d26dde77d8ab8dce21037e77eaef6"/>
+	</game>
+	<game name="PC Zone - Issue 221 (2010-07)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 221 (2010-07)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 221 (2010-07)(Future Publishing)(GB).pdf" size="224234924" crc="75878dd3" md5="2ffabde9999db7ff939f1e854eca947d" sha1="72e7ca996f2b200885b969e8f5d912a897ba3000"/>
+	</game>
+	<game name="PC Zone - Issue 222 (2010-08)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 222 (2010-08)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 222 (2010-08)(Future Publishing)(GB).pdf" size="226258354" crc="d38ea4aa" md5="a4359c016adfff2d70cbaecb1315c07d" sha1="6dfd6e63fe0fdad1298fe3732cda39c45a020494"/>
+	</game>
+	<game name="PC Zone - Issue 223 (2010-09)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 223 (2010-09)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 223 (2010-09)(Future Publishing)(GB).pdf" size="224095955" crc="fb090358" md5="b1753ee4e583e2686f8b7a12327a80e9" sha1="ab3f39e650eb82968ae333d58c36eb3192de5a65"/>
+	</game>
+	<game name="PC Zone - Issue 224 (2010-10)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 224 (2010-10)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 224 (2010-10)(Future Publishing)(GB).pdf" size="228423840" crc="a9911dbd" md5="13cce7f13d21051344aae2c446a53ba8" sha1="663fa5a4868f450dec022bd07d82b495c331ffa9"/>
+	</game>
+	<game name="PC Zone - Issue 225 (2010-11)(Future Publishing)(GB)">
+		<description>PC Zone - Issue 225 (2010-11)(Future Publishing)(GB)</description>
+		<rom name="PC Zone - Issue 225 (2010-11)(Future Publishing)(GB).pdf" size="191920080" crc="8f0c424b" md5="e44ac598bbc0e5f121b696fb4cc18d46" sha1="62392a271389b7b46a0265eaf6f07c5f664f07e9"/>
+	</game>
+</datafile>

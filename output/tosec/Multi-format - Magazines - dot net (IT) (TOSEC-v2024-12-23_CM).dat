@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - dot net (IT)</name>
+		<description>Multi-format - Magazines - dot net (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="dot net - Numero 005 (2012-07)(Sprea Editori)(IT)">
+		<description>dot net - Numero 005 (2012-07)(Sprea Editori)(IT)</description>
+		<rom name="dot net - Numero 005 (2012-07)(Sprea Editori)(IT).pdf" size="34120488" crc="3eaf9fce" md5="d52206aef649fb474c047ad64da3ec8d" sha1="6f7b4725158bcd995d44e3439c3e14f4f677ffca"/>
+	</game>
+	<game name="dot net - Numero 007 (2012-09)(Sprea Editori)(IT)">
+		<description>dot net - Numero 007 (2012-09)(Sprea Editori)(IT)</description>
+		<rom name="dot net - Numero 007 (2012-09)(Sprea Editori)(IT).pdf" size="14996800" crc="c633949f" md5="4f03c76f2d82926caa1ea1dc7330f65d" sha1="30fb70dbc682ea9042dd43691ce823b0663e6b63"/>
+	</game>
+	<game name="dot net - Numero 008 (2012-10)(Sprea Editori)(IT)">
+		<description>dot net - Numero 008 (2012-10)(Sprea Editori)(IT)</description>
+		<rom name="dot net - Numero 008 (2012-10)(Sprea Editori)(IT).pdf" size="43675759" crc="a6238c96" md5="186f19cef73be19edd4473cfaa9ca688" sha1="ed7b3a6b1cff02f2a0b000c22458ca47a48007b3"/>
+	</game>
+</datafile>

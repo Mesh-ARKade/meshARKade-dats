@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - WhichMicro (GB)</name>
+		<description>Multi-format - Magazines - WhichMicro (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="WhichMicro (1983-04)(EMAP)(GB)">
+		<description>WhichMicro (1983-04)(EMAP)(GB)</description>
+		<rom name="WhichMicro (1983-04)(EMAP)(GB).pdf" size="20702886" crc="daa47309" md5="baa497b35b3861d5f48179c0b1832580" sha1="22e8c89df6fbbb5a56df22e5826002bb5d23bbbd"/>
+	</game>
+	<game name="WhichMicro (1984-04)(EMAP)(GB)">
+		<description>WhichMicro (1984-04)(EMAP)(GB)</description>
+		<rom name="WhichMicro (1984-04)(EMAP)(GB).pdf" size="236330572" crc="054d0a2f" md5="06fa9a5f2022095ed4c152cdaa9004a3" sha1="8bc1ad4b66e0a69b0f4adb5d96336089b3b99b3c"/>
+	</game>
+</datafile>

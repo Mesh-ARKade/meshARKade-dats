@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo GameCube - Magazines - NGC (GB)</name>
+		<description>Nintendo GameCube - Magazines - NGC (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="NGC - Issue 060 (2001-11)(Future Publishing)">
+		<description>NGC - Issue 060 (2001-11)(Future Publishing)</description>
+		<rom name="NGC - Issue 060 (2001-11)(Future Publishing).pdf" size="211659923" crc="1c1e0095" md5="5b05f2e832baa1d02fdf171010549a96" sha1="9b5eaac5689b7cfc58de115115e78b7f89720f26"/>
+	</game>
+	<game name="NGC - Issue 061 (2001-12)(Future Publishing)">
+		<description>NGC - Issue 061 (2001-12)(Future Publishing)</description>
+		<rom name="NGC - Issue 061 (2001-12)(Future Publishing).pdf" size="204501549" crc="c26878fe" md5="7618f347ef229a41c0d2fa7754cca857" sha1="cb63d26db155f5bbdadf2d1806bf3e8f24da80f7"/>
+	</game>
+	<game name="NGC - Issue 062 (2001)(Future Publishing)[christmas edition]">
+		<description>NGC - Issue 062 (2001)(Future Publishing)[christmas edition]</description>
+		<rom name="NGC - Issue 062 (2001)(Future Publishing)[christmas edition].pdf" size="209867192" crc="0365b123" md5="492e813c315399bcac2a699536d87026" sha1="864c6c949a54e003bca630a32d1caed43de8a639"/>
+	</game>
+	<game name="NGC - Issue 063 (2002-01)(Future Publishing)">
+		<description>NGC - Issue 063 (2002-01)(Future Publishing)</description>
+		<rom name="NGC - Issue 063 (2002-01)(Future Publishing).pdf" size="202601629" crc="4520b40c" md5="c3077355c51b6f150c58e4ee6d7ab6c8" sha1="0ea17b591ceda8b15ef90bb816a8aec12c09435f"/>
+	</game>
+	<game name="NGC - Issue 064 (2002-02)(Future Publishing)">
+		<description>NGC - Issue 064 (2002-02)(Future Publishing)</description>
+		<rom name="NGC - Issue 064 (2002-02)(Future Publishing).pdf" size="202765454" crc="e323ebd7" md5="a9e00956b0117ff468f0bf7fff611253" sha1="b10e2c087df79cfa980de9c1286c2ae861e615ec"/>
+	</game>
+	<game name="NGC - Issue 065 (2002-03)(Future Publishing)">
+		<description>NGC - Issue 065 (2002-03)(Future Publishing)</description>
+		<rom name="NGC - Issue 065 (2002-03)(Future Publishing).pdf" size="210440529" crc="1a8a7733" md5="1c3dbabedef2207cbfa80706e0a53503" sha1="00f897d0cb817a65462cfc093b1187fa0c112ee2"/>
+	</game>
+	<game name="NGC - Issue 066 (2002-04)(Future Publishing)">
+		<description>NGC - Issue 066 (2002-04)(Future Publishing)</description>
+		<rom name="NGC - Issue 066 (2002-04)(Future Publishing).pdf" size="230013003" crc="fa9a4325" md5="9a8485e7e88db731a8baa79cc95b5eee" sha1="fc0e3b572d8120afe9d24193a4b091cbbeb0433c"/>
+	</game>
+	<game name="NGC - Issue 067 (2002-05)(Future Publishing)">
+		<description>NGC - Issue 067 (2002-05)(Future Publishing)</description>
+		<rom name="NGC - Issue 067 (2002-05)(Future Publishing).pdf" size="215201511" crc="01168531" md5="f4fc770257ad91d2ecdaf3a9084c7bcc" sha1="5956042868059d85d6b67ed73b3de876cc994e9a"/>
+	</game>
+	<game name="NGC - Issue 068 (2002-06)(Future Publishing)">
+		<description>NGC - Issue 068 (2002-06)(Future Publishing)</description>
+		<rom name="NGC - Issue 068 (2002-06)(Future Publishing).pdf" size="269939982" crc="31ded4ea" md5="2b8d69d173b227650c75cd31cc2fd034" sha1="7b3f82b1c39e95cb6f671e9469d18f823dd07dfd"/>
+	</game>
+	<game name="NGC - Issue 069 (2002-07)(Future Publishing)">
+		<description>NGC - Issue 069 (2002-07)(Future Publishing)</description>
+		<rom name="NGC - Issue 069 (2002-07)(Future Publishing).pdf" size="284480381" crc="18e6567f" md5="e946bb4b85be82d36e1b1f0f7ca55fe8" sha1="ee0ea2f5c1c556cacee4d3417044d8cdf017e634"/>
+	</game>
+	<game name="NGC - Issue 070 (2002-08)(Future Publishing)">
+		<description>NGC - Issue 070 (2002-08)(Future Publishing)</description>
+		<rom name="NGC - Issue 070 (2002-08)(Future Publishing).pdf" size="259062843" crc="520b0dca" md5="2806cdf2b8bea45d10359e0cc75dbda3" sha1="da7b3865e75d16a38db38e16c922ec7dc7e4fa1e"/>
+	</game>
+	<game name="NGC - Issue 071 (2002-09)(Future Publishing)">
+		<description>NGC - Issue 071 (2002-09)(Future Publishing)</description>
+		<rom name="NGC - Issue 071 (2002-09)(Future Publishing).pdf" size="287223996" crc="b1e6f983" md5="511837ba7052b679ea8116d57a0f5a60" sha1="59bcdbb714108073065dacf2c4c9cff74e0bdd5f"/>
+	</game>
+	<game name="NGC - Issue 072 (2002-10)(Future Publishing)">
+		<description>NGC - Issue 072 (2002-10)(Future Publishing)</description>
+		<rom name="NGC - Issue 072 (2002-10)(Future Publishing).pdf" size="283528445" crc="2155b697" md5="08f76a96b0f94c9ca30a8aab1ad70870" sha1="412f9107bbef6b03ea4f94a83829bd6025ed6351"/>
+	</game>
+	<game name="NGC - Issue 073 (2002-11)(Future Publishing)">
+		<description>NGC - Issue 073 (2002-11)(Future Publishing)</description>
+		<rom name="NGC - Issue 073 (2002-11)(Future Publishing).pdf" size="275341755" crc="18410f1b" md5="8cc674f2aaa3bb0c8d0d530449b2d111" sha1="92b53fb4996fd2390c6e026c4ebc50b972ac281c"/>
+	</game>
+	<game name="NGC - Issue 074 (2002-12)(Future Publishing)">
+		<description>NGC - Issue 074 (2002-12)(Future Publishing)</description>
+		<rom name="NGC - Issue 074 (2002-12)(Future Publishing).pdf" size="288422657" crc="1ed24384" md5="27f0a430d1a2c88ebb1a2b04cb617dde" sha1="a7680dce2210d01807efc3f5005736f93474efe0"/>
+	</game>
+	<game name="NGC - Issue 075 (2002)(Future Publishing)[christmas edition]">
+		<description>NGC - Issue 075 (2002)(Future Publishing)[christmas edition]</description>
+		<rom name="NGC - Issue 075 (2002)(Future Publishing)[christmas edition].pdf" size="285768268" crc="c15972ea" md5="f044c851014a59973ea280cad8f2a24d" sha1="9884b2054b45d02880cbb253fc36e735213d8b12"/>
+	</game>
+	<game name="NGC - Issue 076 (2003-01)(Future Publishing)">
+		<description>NGC - Issue 076 (2003-01)(Future Publishing)</description>
+		<rom name="NGC - Issue 076 (2003-01)(Future Publishing).pdf" size="285883521" crc="fe016499" md5="5bfa44041d22ce7bff3cb06ec43a850b" sha1="f76def37ad32107b3a11199772e5d45d1116ab47"/>
+	</game>
+	<game name="NGC - Issue 077 (2003-02)(Future Publishing)">
+		<description>NGC - Issue 077 (2003-02)(Future Publishing)</description>
+		<rom name="NGC - Issue 077 (2003-02)(Future Publishing).pdf" size="277618283" crc="406307ec" md5="20ecb1ef6304f3598080058df4f00758" sha1="d2d4523bce74eacbd6aed9c209e803e50ed0fdbb"/>
+	</game>
+	<game name="NGC - Issue 078 (2003-03)(Future Publishing)">
+		<description>NGC - Issue 078 (2003-03)(Future Publishing)</description>
+		<rom name="NGC - Issue 078 (2003-03)(Future Publishing).pdf" size="256343397" crc="843e473e" md5="fc526fe22533402a074142d661582b56" sha1="c07417844b8a90ecdedbb2c25968e1bfb239db7d"/>
+	</game>
+	<game name="NGC - Issue 079 (2003-04)(Future Publishing)">
+		<description>NGC - Issue 079 (2003-04)(Future Publishing)</description>
+		<rom name="NGC - Issue 079 (2003-04)(Future Publishing).pdf" size="283474033" crc="679ebd49" md5="e742269708eaf902563c8ee53708208c" sha1="eb3752c76cbcd110c3958449109529cdfb1ce042"/>
+	</game>
+	<game name="NGC - Issue 080 (2003-05)(Future Publishing)">
+		<description>NGC - Issue 080 (2003-05)(Future Publishing)</description>
+		<rom name="NGC - Issue 080 (2003-05)(Future Publishing).pdf" size="250993351" crc="1c91457b" md5="420d72b268a8eae80ebf30ad83a23fd0" sha1="aa41f997c4d53dc9624519cd3d357ff5d583ac3e"/>
+	</game>
+	<game name="NGC - Issue 081 (2003-06)(Future Publishing)">
+		<description>NGC - Issue 081 (2003-06)(Future Publishing)</description>
+		<rom name="NGC - Issue 081 (2003-06)(Future Publishing).pdf" size="246560391" crc="7e2222a2" md5="789cbcd0eb51b04fa97094680ad0368d" sha1="49380e8dfb9a3f0d22b591b13d99c6b0fdabf71b"/>
+	</game>
+	<game name="NGC - Issue 082 (2003-07)(Future Publishing)">
+		<description>NGC - Issue 082 (2003-07)(Future Publishing)</description>
+		<rom name="NGC - Issue 082 (2003-07)(Future Publishing).pdf" size="263657736" crc="1e539469" md5="1cc7c90e69c81037be4a05b9a7550f28" sha1="97d81118701ecb6549f3dec930956d02b4096c98"/>
+	</game>
+	<game name="NGC - Issue 083 (2003-08)(Future Publishing)">
+		<description>NGC - Issue 083 (2003-08)(Future Publishing)</description>
+		<rom name="NGC - Issue 083 (2003-08)(Future Publishing).pdf" size="250444752" crc="aa124b69" md5="5b100ebf29c692e3d5088b5a1252f4b6" sha1="ac684aa1b34fe013f036f44c6123de43fae9977c"/>
+	</game>
+	<game name="NGC - Issue 084 (2003-09)(Future Publishing)">
+		<description>NGC - Issue 084 (2003-09)(Future Publishing)</description>
+		<rom name="NGC - Issue 084 (2003-09)(Future Publishing).pdf" size="246271414" crc="6d36f03c" md5="e7c9e4c02d7c37a1341afbd1e76815d8" sha1="8bbb6fc12a88f1da671fd34d559d6840be3652ca"/>
+	</game>
+	<game name="NGC - Issue 085 (2003-10)(Future Publishing)">
+		<description>NGC - Issue 085 (2003-10)(Future Publishing)</description>
+		<rom name="NGC - Issue 085 (2003-10)(Future Publishing).pdf" size="252484337" crc="74fd657c" md5="316f9e2bf324e198c6a71f42624ac95e" sha1="0581bea7b97aa3e077eaf6fcf935652a6a0bacb7"/>
+	</game>
+	<game name="NGC - Issue 086 (2003-11)(Future Publishing)">
+		<description>NGC - Issue 086 (2003-11)(Future Publishing)</description>
+		<rom name="NGC - Issue 086 (2003-11)(Future Publishing).pdf" size="243607214" crc="4dee5dec" md5="8513cd7d6dea95b7228a7dbb0080bbeb" sha1="6dd096176edfd0f2feca68d0003f38117c4fdb55"/>
+	</game>
+	<game name="NGC - Issue 087 (2003-12)(Future Publishing)">
+		<description>NGC - Issue 087 (2003-12)(Future Publishing)</description>
+		<rom name="NGC - Issue 087 (2003-12)(Future Publishing).pdf" size="255254003" crc="57ef878a" md5="fbb8ddadff57ba123264741031fbd563" sha1="ba849f0312d2c5f8d0e9008ed84c68936a2f035e"/>
+	</game>
+	<game name="NGC - Issue 088 (2003)(Future Publishing)[christmas edition]">
+		<description>NGC - Issue 088 (2003)(Future Publishing)[christmas edition]</description>
+		<rom name="NGC - Issue 088 (2003)(Future Publishing)[christmas edition].pdf" size="335569720" crc="584c3e08" md5="7b9fb9ffb7ccfca744d3a6bc026fe7a2" sha1="954c6c2cdf95291a0c9b5dcd5efa7e060dba7b58"/>
+	</game>
+	<game name="NGC - Issue 089 (2004-01)(Future Publishing)">
+		<description>NGC - Issue 089 (2004-01)(Future Publishing)</description>
+		<rom name="NGC - Issue 089 (2004-01)(Future Publishing).pdf" size="253100122" crc="fcf54b7d" md5="1257f177f182f2b3e8fba796f8ba7979" sha1="168339465d19b891d8d5977fafde38589fb9a2c8"/>
+	</game>
+	<game name="NGC - Issue 090 (2004-02)(Future Publishing)">
+		<description>NGC - Issue 090 (2004-02)(Future Publishing)</description>
+		<rom name="NGC - Issue 090 (2004-02)(Future Publishing).pdf" size="244810336" crc="e4c2bbce" md5="ec685375424f3d5709cc09758f8dfa3a" sha1="0ea72b458bbc7cc198a26faa336509bd0baa21e1"/>
+	</game>
+	<game name="NGC - Issue 091 (2004-03)(Future Publishing)">
+		<description>NGC - Issue 091 (2004-03)(Future Publishing)</description>
+		<rom name="NGC - Issue 091 (2004-03)(Future Publishing).pdf" size="237405416" crc="7edde287" md5="570d40539e4b9367162645a349ca4ea0" sha1="cb482181275b9ee9f0d236c80856ef5a9b9bb19b"/>
+	</game>
+	<game name="NGC - Issue 092 (2004-04)(Future Publishing)">
+		<description>NGC - Issue 092 (2004-04)(Future Publishing)</description>
+		<rom name="NGC - Issue 092 (2004-04)(Future Publishing).pdf" size="201442228" crc="649d71e8" md5="546b8f7c962ae21cedcb1bbe0c3cb03f" sha1="ddc46fb62fd6bef5fdf02a8faf88fc58e1932a2c"/>
+	</game>
+	<game name="NGC - Issue 093 (2004-05)(Future Publishing)">
+		<description>NGC - Issue 093 (2004-05)(Future Publishing)</description>
+		<rom name="NGC - Issue 093 (2004-05)(Future Publishing).pdf" size="203139909" crc="6515a629" md5="23513face3b72df4a3c1fe4c8cf1d9b2" sha1="6e2411760d00a5205e86b0ba85007740370d4574"/>
+	</game>
+	<game name="NGC - Issue 094 (2004-06)(Future Publishing)">
+		<description>NGC - Issue 094 (2004-06)(Future Publishing)</description>
+		<rom name="NGC - Issue 094 (2004-06)(Future Publishing).pdf" size="207455737" crc="57654c7f" md5="06f75d02fc264519955be94d62bc6208" sha1="ef6278bbf5ae7d020cc4fdd0114902fdaadf7fab"/>
+	</game>
+	<game name="NGC - Issue 095 (2004-07)(Future Publishing)">
+		<description>NGC - Issue 095 (2004-07)(Future Publishing)</description>
+		<rom name="NGC - Issue 095 (2004-07)(Future Publishing).pdf" size="205315263" crc="71c88a7e" md5="03f8387a5c761e3afc51e57f3a44bd27" sha1="1393e6ae2133e7196fa85327c37764ac07fa0d15"/>
+	</game>
+	<game name="NGC - Issue 096 (2004-08)(Future Publishing)">
+		<description>NGC - Issue 096 (2004-08)(Future Publishing)</description>
+		<rom name="NGC - Issue 096 (2004-08)(Future Publishing).pdf" size="210508020" crc="253d5fa6" md5="9405db00e8b457644b65087e43f6018b" sha1="27a70ae67153efa2ba30ad309782247cbc252260"/>
+	</game>
+	<game name="NGC - Issue 097 (2004-09)(Future Publishing)">
+		<description>NGC - Issue 097 (2004-09)(Future Publishing)</description>
+		<rom name="NGC - Issue 097 (2004-09)(Future Publishing).pdf" size="207606492" crc="a972c129" md5="ffe89e84b9c3ee6e87db24975af271ea" sha1="b4bf8106c8f423fc2344e3752dd049124bdf8cf3"/>
+	</game>
+	<game name="NGC - Issue 098 (2004-10)(Future Publishing)">
+		<description>NGC - Issue 098 (2004-10)(Future Publishing)</description>
+		<rom name="NGC - Issue 098 (2004-10)(Future Publishing).pdf" size="201254117" crc="75c5f759" md5="c10534c130e166c3fcd43e85892f8dd0" sha1="5ad46cdfe21e6ab827a9a9babb0eb32ba0f43844"/>
+	</game>
+	<game name="NGC - Issue 099 (2004-11)(Future Publishing)">
+		<description>NGC - Issue 099 (2004-11)(Future Publishing)</description>
+		<rom name="NGC - Issue 099 (2004-11)(Future Publishing).pdf" size="209484759" crc="4f08fd5b" md5="fae936c481808933d5f2660523faae5d" sha1="32c4917d7cbd0ae3ef9a597580a4641569c1fb3d"/>
+	</game>
+	<game name="NGC - Issue 100 (2004-12)(Future Publishing)">
+		<description>NGC - Issue 100 (2004-12)(Future Publishing)</description>
+		<rom name="NGC - Issue 100 (2004-12)(Future Publishing).pdf" size="210608642" crc="4069547f" md5="24a74672a2491ff2b1d0cc6554ae146f" sha1="897b12204355e0a208b364402a8f5564da87a98a"/>
+	</game>
+	<game name="NGC - Issue 101 (2004)(Future Publishing)[christmas edition]">
+		<description>NGC - Issue 101 (2004)(Future Publishing)[christmas edition]</description>
+		<rom name="NGC - Issue 101 (2004)(Future Publishing)[christmas edition].pdf" size="219151979" crc="a5880e6c" md5="b155df64fae54a9aa661883dee01dafa" sha1="813513576a0b4ed46dfb0d8dd11877f11de5d178"/>
+	</game>
+	<game name="NGC - Issue 102 (2005-01)(Future Publishing)">
+		<description>NGC - Issue 102 (2005-01)(Future Publishing)</description>
+		<rom name="NGC - Issue 102 (2005-01)(Future Publishing).pdf" size="218553087" crc="8b201851" md5="c059b089c21f1d40c3504864fb04f2bf" sha1="c9521039489e1d6c9c1de7d74183b779a7870424"/>
+	</game>
+	<game name="NGC - Issue 103 (2005-02)(Future Publishing)">
+		<description>NGC - Issue 103 (2005-02)(Future Publishing)</description>
+		<rom name="NGC - Issue 103 (2005-02)(Future Publishing).pdf" size="223882501" crc="00b89ec9" md5="e8b1ffc309729f260c1f55c3b1266b18" sha1="005ba6ea9971a6b37c105bccaecfc09682f44a26"/>
+	</game>
+	<game name="NGC - Issue 104 (2005-03)(Future Publishing)">
+		<description>NGC - Issue 104 (2005-03)(Future Publishing)</description>
+		<rom name="NGC - Issue 104 (2005-03)(Future Publishing).pdf" size="221131666" crc="a86eb785" md5="63ea465792b2e4376d10cb83117457ac" sha1="fc942d6f9ce0c129aa3050b46fd9d0850e62df47"/>
+	</game>
+	<game name="NGC - Issue 105 (2005-04)(Future Publishing)">
+		<description>NGC - Issue 105 (2005-04)(Future Publishing)</description>
+		<rom name="NGC - Issue 105 (2005-04)(Future Publishing).pdf" size="227554493" crc="b4da4d26" md5="5cad530566ef8ac8cd885219ae6a1a5c" sha1="58798e34b632e2af1d9e6c52ff093ef7e286ef5e"/>
+	</game>
+	<game name="NGC - Issue 106 (2005-05)(Future Publishing)">
+		<description>NGC - Issue 106 (2005-05)(Future Publishing)</description>
+		<rom name="NGC - Issue 106 (2005-05)(Future Publishing).pdf" size="221352314" crc="228025f6" md5="0b4614e6b2670aecf8849e420fc6c0e8" sha1="05c31bdc40f787a13a47aab2d593b263ad6db61e"/>
+	</game>
+	<game name="NGC - Issue 107 (2005-06)(Future Publishing)">
+		<description>NGC - Issue 107 (2005-06)(Future Publishing)</description>
+		<rom name="NGC - Issue 107 (2005-06)(Future Publishing).pdf" size="251108757" crc="ddd38721" md5="3a48bf68788c699791a4683b59f5babd" sha1="951d4e1907adf2c29b696e4cef8657dd1a42b20a"/>
+	</game>
+	<game name="NGC - Issue 108 (2005-07)(Future Publishing)">
+		<description>NGC - Issue 108 (2005-07)(Future Publishing)</description>
+		<rom name="NGC - Issue 108 (2005-07)(Future Publishing).pdf" size="253112337" crc="a0da0411" md5="2dc7d724ed3cb646e6778cd076c7d65e" sha1="6701548326b95eb5b5c4ef54c8a64cc83276cc8f"/>
+	</game>
+	<game name="NGC - Issue 109 (2005-08)(Future Publishing)">
+		<description>NGC - Issue 109 (2005-08)(Future Publishing)</description>
+		<rom name="NGC - Issue 109 (2005-08)(Future Publishing).pdf" size="240588314" crc="cb8b833a" md5="0d8950940dd52a76759c616821659baa" sha1="de1234e0210ed96242e4dea4b34a79fde1921509"/>
+	</game>
+	<game name="NGC - Issue 110 (2005-09)(Future Publishing)">
+		<description>NGC - Issue 110 (2005-09)(Future Publishing)</description>
+		<rom name="NGC - Issue 110 (2005-09)(Future Publishing).pdf" size="246469580" crc="2ff254e1" md5="52ddabd4950a6499f43ac367f9712e35" sha1="24c7b7ca7d4c5ce8b1eb85e0c164492a5e6a52d8"/>
+	</game>
+	<game name="NGC - Issue 111 (2005-10)(Future Publishing)">
+		<description>NGC - Issue 111 (2005-10)(Future Publishing)</description>
+		<rom name="NGC - Issue 111 (2005-10)(Future Publishing).pdf" size="228770424" crc="f4db4c37" md5="89ad9e9f1759b752b701a9164269dc4d" sha1="dd54b913e90eb9156a4ca7c6441f0f44d4742d0a"/>
+	</game>
+	<game name="NGC - Issue 112 (2005-11)(Future Publishing)">
+		<description>NGC - Issue 112 (2005-11)(Future Publishing)</description>
+		<rom name="NGC - Issue 112 (2005-11)(Future Publishing).pdf" size="234133021" crc="1bb11830" md5="1b895b1c86ca097a0dbe22c9289aa291" sha1="19507875d50d4e8b3659cf5d58350814e3ea353d"/>
+	</game>
+	<game name="NGC - Issue 113 (2005-12)(Future Publishing)">
+		<description>NGC - Issue 113 (2005-12)(Future Publishing)</description>
+		<rom name="NGC - Issue 113 (2005-12)(Future Publishing).pdf" size="186964410" crc="c5c780f8" md5="47072b49f3af22ad7c34cd1d0d4aa596" sha1="6d52af466849628ec488fb8a58337c47d4f4b639"/>
+	</game>
+	<game name="NGC - Issue 114 (2005)(Future Publishing)[christmas edition]">
+		<description>NGC - Issue 114 (2005)(Future Publishing)[christmas edition]</description>
+		<rom name="NGC - Issue 114 (2005)(Future Publishing)[christmas edition].pdf" size="184145092" crc="5a26553d" md5="a82f064a8dc5031cafd2868aacf5ae68" sha1="f95534508ee5069d9b64397fd63b441ab2cf3fb0"/>
+	</game>
+	<game name="NGC - Issue 115 (2006-01)(Future Publishing)">
+		<description>NGC - Issue 115 (2006-01)(Future Publishing)</description>
+		<rom name="NGC - Issue 115 (2006-01)(Future Publishing).pdf" size="216813771" crc="1442aef5" md5="34bf75e574977de324b97c10156992e7" sha1="f6cec4df0280a3efd26de477cdd1411a3cc759c3"/>
+	</game>
+	<game name="NGC - Issue 116 (2006-02)(Future Publishing)">
+		<description>NGC - Issue 116 (2006-02)(Future Publishing)</description>
+		<rom name="NGC - Issue 116 (2006-02)(Future Publishing).pdf" size="187056412" crc="14162f13" md5="c12a59ce7697b494f6c5e67c185f44fd" sha1="e8ae38fc5945c3a747a2b6ccfce65ad2df75c1b5"/>
+	</game>
+	<game name="NGC - Issue 117 (2006-03)(Future Publishing)">
+		<description>NGC - Issue 117 (2006-03)(Future Publishing)</description>
+		<rom name="NGC - Issue 117 (2006-03)(Future Publishing).pdf" size="182416603" crc="8176f8df" md5="ccd021b777668daca45486d740c095c5" sha1="35015065608927bda66f797f590b799a4be79ae9"/>
+	</game>
+	<game name="NGC - Issue 118 (2006-04)(Future Publishing)">
+		<description>NGC - Issue 118 (2006-04)(Future Publishing)</description>
+		<rom name="NGC - Issue 118 (2006-04)(Future Publishing).pdf" size="159380611" crc="d4946742" md5="c540fadb8e3026d2f97e8477fb72af77" sha1="0e73f3e601984b252680cdd8d342af194c81e5af"/>
+	</game>
+	<game name="NGC - Issue 119 (2006-05)(Future Publishing)">
+		<description>NGC - Issue 119 (2006-05)(Future Publishing)</description>
+		<rom name="NGC - Issue 119 (2006-05)(Future Publishing).pdf" size="163947751" crc="6205e28e" md5="332ae680704a3e5795d7db29e07deb7d" sha1="071ed959f749574df92c8eb04c03a24d2091feaa"/>
+	</game>
+	<game name="NGC - Issue 120 (2006-06)(Future Publishing)">
+		<description>NGC - Issue 120 (2006-06)(Future Publishing)</description>
+		<rom name="NGC - Issue 120 (2006-06)(Future Publishing).pdf" size="159802070" crc="6347dc16" md5="44cfdb5d86a7db99b00e78e2473b889a" sha1="f5de40b8f60004d755160a9acc66417857f4fa40"/>
+	</game>
+</datafile>

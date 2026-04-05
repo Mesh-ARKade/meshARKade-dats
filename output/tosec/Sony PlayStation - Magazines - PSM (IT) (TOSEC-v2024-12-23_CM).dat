@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PSM (IT)</name>
+		<description>Sony PlayStation - Magazines - PSM (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PSM (2016-02)(Sprea)(IT)">
+		<description>PSM (2016-02)(Sprea)(IT)</description>
+		<rom name="PSM (2016-02)(Sprea)(IT).pdf" size="44828757" crc="d7d52950" md5="1ce906ca06b0daf34401d00a27f96f78" sha1="08b6b15fe4312155ab6147555b04048e217ef2a2"/>
+	</game>
+	<game name="PSM (2016-04)(Sprea)(IT)">
+		<description>PSM (2016-04)(Sprea)(IT)</description>
+		<rom name="PSM (2016-04)(Sprea)(IT).pdf" size="44853646" crc="370ec277" md5="e0e68a608f4033a50b012f65ed0f5986" sha1="d1be2fd7412a710838bbb99d609652c76670563f"/>
+	</game>
+	<game name="PSM (2016-06)(Sprea)(IT)">
+		<description>PSM (2016-06)(Sprea)(IT)</description>
+		<rom name="PSM (2016-06)(Sprea)(IT).pdf" size="45004280" crc="7630eb9d" md5="ba79afa91a34ce1f78b081d3a8e0eb28" sha1="e0f3e645a443bcb50b7604d475a12baa4780a7e3"/>
+	</game>
+	<game name="PSM (2016-11)(Sprea)(IT)">
+		<description>PSM (2016-11)(Sprea)(IT)</description>
+		<rom name="PSM (2016-11)(Sprea)(IT).pdf" size="47524733" crc="a8e5f99a" md5="086c6cde140d0fda8333cde81bd6e10e" sha1="bb7d28baa61ec779c7c2a2d7f50afdaef18e8022"/>
+	</game>
+	<game name="PSM (2016-12)(Sprea)(IT)">
+		<description>PSM (2016-12)(Sprea)(IT)</description>
+		<rom name="PSM (2016-12)(Sprea)(IT).pdf" size="44273122" crc="4e5da5b8" md5="9be8479c2c75e9a022dd5c82031f56f1" sha1="b25ac75659fbf34980299f3ffb555258529281ba"/>
+	</game>
+	<game name="PSM - Anno 01 N.001 (1998-04)(Play Press)(IT)">
+		<description>PSM - Anno 01 N.001 (1998-04)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 01 N.001 (1998-04)(Play Press)(IT).pdf" size="202744254" crc="4af4394f" md5="7f3c6a03b77dd7826ee94181b1a22a50" sha1="e71ee8dd6dbcd06ff82a771cbd4ec04c0ea8c1d2"/>
+	</game>
+	<game name="PSM - Anno 01 N.002 (1998-05)(Play Press)(IT)">
+		<description>PSM - Anno 01 N.002 (1998-05)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 01 N.002 (1998-05)(Play Press)(IT).pdf" size="267836773" crc="7a7fb6f1" md5="133d09dc370256b2bdd8069dc3662962" sha1="b05349d150ad6c9d904ae82d9c133415321bd1e2"/>
+	</game>
+	<game name="PSM - Anno 01 N.003 (1998-06)(Play Press)(IT)">
+		<description>PSM - Anno 01 N.003 (1998-06)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 01 N.003 (1998-06)(Play Press)(IT).pdf" size="295650949" crc="a2da0395" md5="e934f73d5df0dbcb47df1854a37496d7" sha1="bd1a8f533addbc3df36b25a423670caedf82196b"/>
+	</game>
+	<game name="PSM - Anno 01 N.004 (1998-07)(Play Press)(IT)">
+		<description>PSM - Anno 01 N.004 (1998-07)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 01 N.004 (1998-07)(Play Press)(IT).pdf" size="276939254" crc="846162ac" md5="63e5946292a73f4484be6c9687d2241a" sha1="1b721c398c811efc7fa18d09c2692816e4be62d8"/>
+	</game>
+	<game name="PSM - Anno 01 N.005 (1998-08)(Play Press)(IT)">
+		<description>PSM - Anno 01 N.005 (1998-08)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 01 N.005 (1998-08)(Play Press)(IT).pdf" size="297678645" crc="bf0a4e7a" md5="d3f5ad4b1cd9fdce8086127393c735bb" sha1="8abbdc81a9ba3b097668097645d096cde87474d8"/>
+	</game>
+	<game name="PSM - Anno 01 N.008 (1998-11)(Play Press)(IT)">
+		<description>PSM - Anno 01 N.008 (1998-11)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 01 N.008 (1998-11)(Play Press)(IT).pdf" size="137283612" crc="6ac485e3" md5="6794d34224d7e4b03a86f9abfe3f0ebd" sha1="b17592fab1392987cbff39b329c5fda91829f3f5"/>
+	</game>
+	<game name="PSM - Anno 02 N.008 (1999-01)(Play Press)(IT)">
+		<description>PSM - Anno 02 N.008 (1999-01)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 02 N.008 (1999-01)(Play Press)(IT).pdf" size="248099645" crc="f58a429e" md5="dc5d4001a7fe4b1f8cc59c2111a2d23c" sha1="e229ebd6ff6cdc197abdbb5ae89258228808fc5d"/>
+	</game>
+	<game name="PSM - Anno 02 N.015 (1999-06)(Play Press)(IT)">
+		<description>PSM - Anno 02 N.015 (1999-06)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 02 N.015 (1999-06)(Play Press)(IT).pdf" size="245937037" crc="94fb11e0" md5="fe35a139db372c1a3c2839741b01442c" sha1="f59b043b76d89220131024df2ae6d1110bf037c7"/>
+	</game>
+	<game name="PSM - Anno 06 N.063 (2003-04)(Play Press)(IT)">
+		<description>PSM - Anno 06 N.063 (2003-04)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 06 N.063 (2003-04)(Play Press)(IT).pdf" size="299223187" crc="496ba114" md5="b3421c12b880d1f82f2daf5c0cce901e" sha1="372d90eba6618f2a4668038ef4c6c003bd85d716"/>
+	</game>
+	<game name="PSM - Anno 1 N.01 (1998-04)(Play Press)(IT)">
+		<description>PSM - Anno 1 N.01 (1998-04)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 1 N.01 (1998-04)(Play Press)(IT).pdf" size="202744254" crc="7ee94a24" md5="7ac0ea5c79f28c6833a8c70a0445c060" sha1="a632be3da24b71f2091fb5170a9e4410971871b7"/>
+	</game>
+	<game name="PSM - Anno 1 N.02 (1998-05)(Play Press)(IT)">
+		<description>PSM - Anno 1 N.02 (1998-05)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 1 N.02 (1998-05)(Play Press)(IT).pdf" size="267836773" crc="7091f024" md5="885173a7f8b9c32664026e5a6519efca" sha1="1dabda4074b83631cfda48f93c358f7ad4199428"/>
+	</game>
+	<game name="PSM - Anno 1 N.03 (1998-06)(Play Press)(IT)">
+		<description>PSM - Anno 1 N.03 (1998-06)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 1 N.03 (1998-06)(Play Press)(IT).pdf" size="295650949" crc="157c2b1e" md5="881c575b8f378de36d495935cb76b60b" sha1="0b3a33b0e74421a4226cf4f0b29007098870cc51"/>
+	</game>
+	<game name="PSM - Anno 1 N.04 (1998-07)(Play Press)(IT)">
+		<description>PSM - Anno 1 N.04 (1998-07)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 1 N.04 (1998-07)(Play Press)(IT).pdf" size="276939254" crc="3bf0a27f" md5="d41739c7178fd078f86247dea0cbed46" sha1="bec52ab60b96c3b5b944da0ad33f7a7a001ee3e9"/>
+	</game>
+	<game name="PSM - Anno 1 N.05 (1998-08)(Play Press)(IT)">
+		<description>PSM - Anno 1 N.05 (1998-08)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 1 N.05 (1998-08)(Play Press)(IT).pdf" size="297678645" crc="000c6d32" md5="55012c7549d033615f0e5fd2f0ab1df5" sha1="b97ca0771cc6cd7f24a85ed122265eedb7b4e824"/>
+	</game>
+	<game name="PSM - Anno 1 N.08 (1998-11)(Play Press)(IT)">
+		<description>PSM - Anno 1 N.08 (1998-11)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 1 N.08 (1998-11)(Play Press)(IT).pdf" size="137283612" crc="b47b67f2" md5="5088d14609271fd898b57bc67a3fe872" sha1="b08fa45a85fd3ca735eab148720f390bd9be012c"/>
+	</game>
+	<game name="PSM - Anno 10 N.123 (2007-12)(Play Press)(IT)">
+		<description>PSM - Anno 10 N.123 (2007-12)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 10 N.123 (2007-12)(Play Press)(IT).pdf" size="310802521" crc="e53f5346" md5="d68c72981118d05a17a4613e2422fce0" sha1="eea53d729229b4e81643c5a611d3505a1c06d37a"/>
+	</game>
+	<game name="PSM - Anno 2 N.08 (1999-01)(Play Press)(IT)">
+		<description>PSM - Anno 2 N.08 (1999-01)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 2 N.08 (1999-01)(Play Press)(IT).pdf" size="248099645" crc="68f56668" md5="1f52b89c7f70d9cf645676ec9f7d2c75" sha1="cd3585bf6f037a00ce901b0d8298387d4be3af7e"/>
+	</game>
+	<game name="PSM - Anno 2 N.15 (1999-06)(Play Press)(IT)">
+		<description>PSM - Anno 2 N.15 (1999-06)(Play Press)(IT)</description>
+		<rom name="PSM - Anno 2 N.15 (1999-06)(Play Press)(IT).pdf" size="245937037" crc="553c0bc9" md5="202bd12d3ec7989b90cc5fa840a80ffb" sha1="75abffafda716d01c6d7a89eb7bdfbb0c264796f"/>
+	</game>
+	<game name="PSM Speciale - La Bibbia di Resident Evil 2 (1998-10)(Play Press)(IT)[Supp. PSM n.7]">
+		<description>PSM Speciale - La Bibbia di Resident Evil 2 (1998-10)(Play Press)(IT)[Supp. PSM n.7]</description>
+		<rom name="PSM Speciale - La Bibbia di Resident Evil 2 (1998-10)(Play Press)(IT)[Supp. PSM n.7].pdf" size="29490491" crc="ab0aedab" md5="623787b4b7fc7572385e8a20f8c42f79" sha1="c5c6a45a788a5872edee92f778d7e2359353d83b"/>
+	</game>
+	<game name="PSM Speciale - La Bibbia di Silent Hill (1999-08)(Play Press)(IT)[Supp. PSM n.17]">
+		<description>PSM Speciale - La Bibbia di Silent Hill (1999-08)(Play Press)(IT)[Supp. PSM n.17]</description>
+		<rom name="PSM Speciale - La Bibbia di Silent Hill (1999-08)(Play Press)(IT)[Supp. PSM n.17].pdf" size="32011634" crc="63c943ce" md5="598ec591a15d87ce1557dc701ed99a6d" sha1="78e94d8f5008187a9212ab0b7b7fa8bb0e4cf5f9"/>
+	</game>
+	<game name="PSM Speciale - La Bibbia di Tekken 3 (1999-08)(Play Press)(IT)[Supp. PSM n.17]">
+		<description>PSM Speciale - La Bibbia di Tekken 3 (1999-08)(Play Press)(IT)[Supp. PSM n.17]</description>
+		<rom name="PSM Speciale - La Bibbia di Tekken 3 (1999-08)(Play Press)(IT)[Supp. PSM n.17].pdf" size="35617361" crc="67f26e44" md5="6bac35e4d5542d10076f00e30f96d4f7" sha1="bfbd1c74e139b2272629010856fe9206b1041ec2"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Computer 3000 - Magazines - South Australia Sega Magazine (AU)</name>
+		<description>Sega Computer 3000 - Magazines - South Australia Sega Magazine (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="South Australian Sega Magazine Vol 1 No 1 (1984)(Adelaide Sega User Club)(AU)">
+		<description>South Australian Sega Magazine Vol 1 No 1 (1984)(Adelaide Sega User Club)(AU)</description>
+		<rom name="South Australian Sega Magazine Vol 1 No 1 (1984)(Adelaide Sega User Club)(AU).pdf" size="36994683" crc="0fa41792" md5="547dd40321127d40a3f16d774939c98e" sha1="2b90511b758dfa68dd3252c8bdfc9a029798b202"/>
+	</game>
+	<game name="South Australian Sega Magazine Vol 1 No 2 (1985)(Adelaide Sega User Club)(AU)">
+		<description>South Australian Sega Magazine Vol 1 No 2 (1985)(Adelaide Sega User Club)(AU)</description>
+		<rom name="South Australian Sega Magazine Vol 1 No 2 (1985)(Adelaide Sega User Club)(AU).pdf" size="48164276" crc="7d33765e" md5="9801c5987f0d9bec07ca76f0564bff23" sha1="e19b56e645464316c3e7fe31e3852214c8e70f4c"/>
+	</game>
+</datafile>

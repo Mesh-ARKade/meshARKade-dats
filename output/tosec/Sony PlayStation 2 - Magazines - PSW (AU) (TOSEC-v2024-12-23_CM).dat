@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - PSW (AU)</name>
+		<description>Sony PlayStation 2 - Magazines - PSW (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PSW - Issue 001 (2002-07)(Next Gaming)(AU)">
+		<description>PSW - Issue 001 (2002-07)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 001 (2002-07)(Next Gaming)(AU).pdf" size="175978257" crc="60a544b2" md5="4e3f9d7191256bbcb65696953d6f4b78" sha1="729cfc187894b2837624842b061fd8eb551dfccb"/>
+	</game>
+	<game name="PSW - Issue 002 (2002-08)(Next Gaming)(AU)">
+		<description>PSW - Issue 002 (2002-08)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 002 (2002-08)(Next Gaming)(AU).pdf" size="173256029" crc="e1484a5a" md5="2f966a51546a948764245fb1b1dcb051" sha1="6fb71a7ba335672234f2c9722d93b7addd11b951"/>
+	</game>
+	<game name="PSW - Issue 003 (2002-09)(Next Gaming)(AU)">
+		<description>PSW - Issue 003 (2002-09)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 003 (2002-09)(Next Gaming)(AU).pdf" size="282173990" crc="60600b3c" md5="03e41e13a82a899da741199bf13473dd" sha1="c52c09a964695f09c3f66312da4abd2f2db6b60e"/>
+	</game>
+	<game name="PSW - Issue 004 (2002-10)(Next Gaming)(AU)">
+		<description>PSW - Issue 004 (2002-10)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 004 (2002-10)(Next Gaming)(AU).pdf" size="263901614" crc="47e62a52" md5="ad05232821f1ec81cbc5e097caae1f85" sha1="4b881f693748a37379a473c0a2c538f57b638d9d"/>
+	</game>
+	<game name="PSW - Issue 005 (2002-11)(Next Gaming)(AU)">
+		<description>PSW - Issue 005 (2002-11)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 005 (2002-11)(Next Gaming)(AU).pdf" size="307250268" crc="2f465b92" md5="4522af3da272867f785cc90d35c1ba10" sha1="d626a63f12d9b447e1af0a271593be7ccbbd9385"/>
+	</game>
+	<game name="PSW - Issue 006 (2002-12)(Next Gaming)(AU)">
+		<description>PSW - Issue 006 (2002-12)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 006 (2002-12)(Next Gaming)(AU).pdf" size="252629873" crc="f703bc86" md5="288219618a1d8e1f6a62d704c4d2beb5" sha1="0e3d1de87e52c8ad521d275a4caadc6b347a3e8a"/>
+	</game>
+	<game name="PSW - Issue 007 (2003-01)(Next Gaming)(AU)">
+		<description>PSW - Issue 007 (2003-01)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 007 (2003-01)(Next Gaming)(AU).pdf" size="256273167" crc="1e1f895b" md5="6e5155284bfee2c03ad951a2722f9751" sha1="20569f7615bafc37944fb60493f31c970333946b"/>
+	</game>
+	<game name="PSW - Issue 008 (2003-02)(Next Gaming)(AU)">
+		<description>PSW - Issue 008 (2003-02)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 008 (2003-02)(Next Gaming)(AU).pdf" size="317386055" crc="3aae24e3" md5="98e5864fe0b41813da20b526bda80d44" sha1="ae79b91117f07ae2668b179081b9707898dd9f4b"/>
+	</game>
+	<game name="PSW - Issue 009 (2003-03)(Next Gaming)(AU)">
+		<description>PSW - Issue 009 (2003-03)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 009 (2003-03)(Next Gaming)(AU).pdf" size="327336532" crc="a5e96ab8" md5="4243cd9b83939e946d1ed5ff57f74f9f" sha1="90211038ddbd43263ef8b18ac1cb67ad52561a45"/>
+	</game>
+	<game name="PSW - Issue 010 (2003-04)(Next Gaming)(AU)">
+		<description>PSW - Issue 010 (2003-04)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 010 (2003-04)(Next Gaming)(AU).pdf" size="293000050" crc="229fcfb0" md5="58a672afee86abe223e82bf50d0c893f" sha1="f7486c8606ea2a1cd3dd8dc52c75a726f2022f00"/>
+	</game>
+	<game name="PSW - Issue 011 (2003-05)(Next Gaming)(AU)">
+		<description>PSW - Issue 011 (2003-05)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 011 (2003-05)(Next Gaming)(AU).pdf" size="300945869" crc="3019fa02" md5="f5c16a1985ba48cb2bde994207bc3db6" sha1="ade08c864bd709437e29495e6d50948a8cc5784d"/>
+	</game>
+	<game name="PSW - Issue 012 (2003-06)(Next Gaming)(AU)">
+		<description>PSW - Issue 012 (2003-06)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 012 (2003-06)(Next Gaming)(AU).pdf" size="306418332" crc="8b60c728" md5="a36650d3951dc9d6f9bbbc25173cbd69" sha1="6b7b93febede0f07301be14a465fe346f6ee552f"/>
+	</game>
+	<game name="PSW - Issue 013 (2003-07)(Next Gaming)(AU)">
+		<description>PSW - Issue 013 (2003-07)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 013 (2003-07)(Next Gaming)(AU).pdf" size="169971724" crc="cecd3e76" md5="5b5b40d7d6933793a23979f98c3aacd2" sha1="66d510d5e87fec950cbc476484320157319846c1"/>
+	</game>
+	<game name="PSW - Issue 014 (2003-09)(Next Gaming)(AU)">
+		<description>PSW - Issue 014 (2003-09)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 014 (2003-09)(Next Gaming)(AU).pdf" size="293255525" crc="85e09652" md5="7c066561d93d84c2eb7057e506627f31" sha1="37c5d5f96b97a400174e2b167d46fff520723145"/>
+	</game>
+	<game name="PSW - Issue 015 (2003-10)(Next Gaming)(AU)">
+		<description>PSW - Issue 015 (2003-10)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 015 (2003-10)(Next Gaming)(AU).pdf" size="287329965" crc="ab2ba279" md5="407c3ad8a69bcf316e315371d41fb1c2" sha1="f4ce988eb62545b6b491f558d3887ca5775c4e09"/>
+	</game>
+	<game name="PSW - Issue 016 (2003-11)(Next Gaming)(AU)">
+		<description>PSW - Issue 016 (2003-11)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 016 (2003-11)(Next Gaming)(AU).pdf" size="282542703" crc="a7b45423" md5="45ac285080e563baa342a748de777449" sha1="0307eafe9014e68d444c385b33e213b28966fc50"/>
+	</game>
+	<game name="PSW - Issue 017 (2003-12)(Next Gaming)(AU)">
+		<description>PSW - Issue 017 (2003-12)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 017 (2003-12)(Next Gaming)(AU).pdf" size="262214331" crc="7ac70152" md5="b2e829f78aee1c1b6c047b9a32b5666a" sha1="dfc12d70b01cf122940cb024d20524ecf1b8832b"/>
+	</game>
+	<game name="PSW - Issue 019 (2004-02)(Next Gaming)(AU)">
+		<description>PSW - Issue 019 (2004-02)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 019 (2004-02)(Next Gaming)(AU).pdf" size="283887774" crc="94dc37ea" md5="a1ddbe181a197892dea527e441f32028" sha1="60e9499336941e514981d6d34b3c8455e798c740"/>
+	</game>
+	<game name="PSW - Issue 020 (2004-03)(Next Gaming)(AU)">
+		<description>PSW - Issue 020 (2004-03)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 020 (2004-03)(Next Gaming)(AU).pdf" size="272992432" crc="435ee09d" md5="f1ec9e7749cc40ee2fd07c0c4eeb2b16" sha1="6fc7112d6ea0eb3627f107b3f4e7d047b2a2fa83"/>
+	</game>
+	<game name="PSW - Issue 021 (2004-04)(Next Gaming)(AU)">
+		<description>PSW - Issue 021 (2004-04)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 021 (2004-04)(Next Gaming)(AU).pdf" size="261897955" crc="ec20c9d5" md5="3bc9257f2e0a547a90384de59107556b" sha1="c7c3c5bd9c2bcc312815d8e6a32f9bac10dacbcb"/>
+	</game>
+	<game name="PSW - Issue 022 (2004-05)(Next Gaming)(AU)">
+		<description>PSW - Issue 022 (2004-05)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 022 (2004-05)(Next Gaming)(AU).pdf" size="259613679" crc="ca36c33f" md5="7d5ae22689a22cd44ebdbd9a22121c48" sha1="e243d1b3056a6295e62fa9e77f402c9f232deab5"/>
+	</game>
+	<game name="PSW - Issue 023 (2004-06)(Next Gaming)(AU)">
+		<description>PSW - Issue 023 (2004-06)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 023 (2004-06)(Next Gaming)(AU).pdf" size="262956761" crc="e9ecfab2" md5="f2a69ebb8ca762960f2e2352408c942b" sha1="d19949522f89abbbd616c3c0e667dc0211541964"/>
+	</game>
+	<game name="PSW - Issue 024 (2004-07)(Next Gaming)(AU)">
+		<description>PSW - Issue 024 (2004-07)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 024 (2004-07)(Next Gaming)(AU).pdf" size="265022036" crc="3dcb6da8" md5="e87f864e100cd434087641b4bf8973f0" sha1="61a2f3b706db120da8c96cdb87512b22cb39ce4c"/>
+	</game>
+	<game name="PSW - Issue 025 (2004-08)(Next Gaming)(AU)">
+		<description>PSW - Issue 025 (2004-08)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 025 (2004-08)(Next Gaming)(AU).pdf" size="265979957" crc="a943d99d" md5="7d77ad8d5b5675cdf9fc90b7abac6090" sha1="97b1415c68d2f9927ef00305c4c0419385e8b687"/>
+	</game>
+	<game name="PSW - Issue 026 (2004-09)(Next Gaming)(AU)">
+		<description>PSW - Issue 026 (2004-09)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 026 (2004-09)(Next Gaming)(AU).pdf" size="258605076" crc="f15bbe87" md5="fcfc60a8d07ec8e27f46758640e861ea" sha1="8a18e6f58b902c1d510827aa2a13bb6a54af852c"/>
+	</game>
+	<game name="PSW - Issue 027 (2004-10)(Next Gaming)(AU)">
+		<description>PSW - Issue 027 (2004-10)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 027 (2004-10)(Next Gaming)(AU).pdf" size="275441661" crc="11c391d2" md5="5cc2463af289b429891e344ee20a18c8" sha1="c84d9bbaf6071f1b78aa5df6f2a810fb11aa1cd0"/>
+	</game>
+	<game name="PSW - Issue 028 (2004-11)(Next Gaming)(AU)">
+		<description>PSW - Issue 028 (2004-11)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 028 (2004-11)(Next Gaming)(AU).pdf" size="196024051" crc="e1858159" md5="dbc040f52a6f02fbf2074fed065baf26" sha1="aef37855eec79e53d0e5ac32f6ee25dd1b0dd668"/>
+	</game>
+	<game name="PSW - Issue 031 (2005-02)(Next Gaming)(AU)">
+		<description>PSW - Issue 031 (2005-02)(Next Gaming)(AU)</description>
+		<rom name="PSW - Issue 031 (2005-02)(Next Gaming)(AU).pdf" size="275749058" crc="3be81036" md5="f1b207eafa4e424e6730003f42ff908a" sha1="b4dbcf6591ec15cfb6bb7e86b0f779424a27243d"/>
+	</game>
+</datafile>

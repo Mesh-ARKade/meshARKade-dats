@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - Computer Choice (AU)</name>
+		<description>IBM PC Compatibles - Magazines - Computer Choice (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Computer Choice - Vol 1 No 2 (1996)(Australian Consumers Association)(AU)[summer edition]">
+		<description>Computer Choice - Vol 1 No 2 (1996)(Australian Consumers Association)(AU)[summer edition]</description>
+		<rom name="Computer Choice - Vol 1 No 2 (1996)(Australian Consumers Association)(AU)[summer edition].pdf" size="7569648" crc="9976ef17" md5="654862b6952bcc7d85b6e83de0e06718" sha1="cc68448b9efd9847f60c125f0438aaff7767b666"/>
+	</game>
+</datafile>

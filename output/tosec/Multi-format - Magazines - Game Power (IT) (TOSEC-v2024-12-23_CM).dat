@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Game Power (IT)</name>
+		<description>Multi-format - Magazines - Game Power (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Power - Anno 07 N.66 (1997-11)(Studio Vit)(IT)">
+		<description>Game Power - Anno 07 N.66 (1997-11)(Studio Vit)(IT)</description>
+		<rom name="Game Power - Anno 07 N.66 (1997-11)(Studio Vit)(IT).pdf" size="14346371" crc="4dad93cd" md5="b1c7f9dceea6b09b92373dd0bb0b60b5" sha1="1f5d18fe50560eecda5022518cfab5b1f985f8ca"/>
+	</game>
+</datafile>

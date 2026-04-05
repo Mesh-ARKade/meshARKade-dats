@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Revolution (GB)</name>
+		<description>Nintendo - Magazines - Revolution (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Pocket Revolution - Issue 01 (2006-09)(Imagine Publishing)(GB)[supplement Revolution issue 01]">
+		<description>Pocket Revolution - Issue 01 (2006-09)(Imagine Publishing)(GB)[supplement Revolution issue 01]</description>
+		<rom name="Pocket Revolution - Issue 01 (2006-09)(Imagine Publishing)(GB)[supplement Revolution issue 01].pdf" size="19879982" crc="40a7589a" md5="92368080535007c05d0f079d2d08b0b0" sha1="513b7da5e12a683f4a9547aee0da609103dcd1a4"/>
+	</game>
+	<game name="Pocket Revolution - Issue 05 (2007-01)(Imagine Publishing)(GB)[supplement Revolution issue 05]">
+		<description>Pocket Revolution - Issue 05 (2007-01)(Imagine Publishing)(GB)[supplement Revolution issue 05]</description>
+		<rom name="Pocket Revolution - Issue 05 (2007-01)(Imagine Publishing)(GB)[supplement Revolution issue 05].pdf" size="36160820" crc="9bf50ee8" md5="74e99be8e2ae2441a41ae70962d20957" sha1="6ce95d6d2a11a09b4e50e885968fee081322d3d6"/>
+	</game>
+	<game name="Pocket Revolution - Issue 06 (2007-02)(Imagine Publishing)(GB)[supplement Revolution issue 06]">
+		<description>Pocket Revolution - Issue 06 (2007-02)(Imagine Publishing)(GB)[supplement Revolution issue 06]</description>
+		<rom name="Pocket Revolution - Issue 06 (2007-02)(Imagine Publishing)(GB)[supplement Revolution issue 06].pdf" size="36322396" crc="c9d9d731" md5="7a255394aef7cf38c45a08362cb7aafa" sha1="2113806c8e6382520bd9b1629f7ef9ae2b234fc6"/>
+	</game>
+	<game name="Retro Revolution - Issue 01 (2006-09)(Imagine Publishing)(GB)[supplement Revolution issue 01]">
+		<description>Retro Revolution - Issue 01 (2006-09)(Imagine Publishing)(GB)[supplement Revolution issue 01]</description>
+		<rom name="Retro Revolution - Issue 01 (2006-09)(Imagine Publishing)(GB)[supplement Revolution issue 01].pdf" size="35663964" crc="966bde92" md5="215bcb66dccaff465d54eeeca7258e04" sha1="83c7c5fd3831ec0e095ef9d80983201ad738a231"/>
+	</game>
+	<game name="Retro Revolution - Issue 02 (2006-10)(Imagine Publishing)(GB)[supplement Revolution issue 02]">
+		<description>Retro Revolution - Issue 02 (2006-10)(Imagine Publishing)(GB)[supplement Revolution issue 02]</description>
+		<rom name="Retro Revolution - Issue 02 (2006-10)(Imagine Publishing)(GB)[supplement Revolution issue 02].pdf" size="34290658" crc="4f5360b1" md5="651469b1fdbe321de39beded418efb39" sha1="7e19e4525ce92b3749135e1b4389521e11182880"/>
+	</game>
+	<game name="Retro Revolution - Issue 05 (2007-01)(Imagine Publishing)(GB)[supplement Revolution issue 05]">
+		<description>Retro Revolution - Issue 05 (2007-01)(Imagine Publishing)(GB)[supplement Revolution issue 05]</description>
+		<rom name="Retro Revolution - Issue 05 (2007-01)(Imagine Publishing)(GB)[supplement Revolution issue 05].pdf" size="35316843" crc="e69eb1f9" md5="ca40a1f4b43563991068ee0805f6c70a" sha1="bebc24e6638ecb06492fbb2646ee30c5e3dc0f50"/>
+	</game>
+	<game name="Retro Revolution - Issue 06 (2007-02)(Imagine Publishing)(GB)[supplement Revolution issue 06]">
+		<description>Retro Revolution - Issue 06 (2007-02)(Imagine Publishing)(GB)[supplement Revolution issue 06]</description>
+		<rom name="Retro Revolution - Issue 06 (2007-02)(Imagine Publishing)(GB)[supplement Revolution issue 06].pdf" size="35622075" crc="612dcd66" md5="8f59663414d7f70bce84ab5f7c330fea" sha1="f5e58a3e9e2ed0b060f9169ec643e6990f00f53a"/>
+	</game>
+	<game name="Revolution - Issue 01 (2006-09)(Imagine Publishing)(GB)">
+		<description>Revolution - Issue 01 (2006-09)(Imagine Publishing)(GB)</description>
+		<rom name="Revolution - Issue 01 (2006-09)(Imagine Publishing)(GB).pdf" size="285019218" crc="78ede430" md5="3de30b4badaf927841f11fc63fb83352" sha1="0d021b4526edd36e9c828cd8878475e7feb9eb49"/>
+	</game>
+	<game name="Revolution - Issue 02 (2006-10)(Imagine Publishing)(GB)">
+		<description>Revolution - Issue 02 (2006-10)(Imagine Publishing)(GB)</description>
+		<rom name="Revolution - Issue 02 (2006-10)(Imagine Publishing)(GB).pdf" size="307213145" crc="86d25edb" md5="5d1056a637f1256b3cc40b25542c5bb7" sha1="1afa98bfdf75b25384a1303e150e39b639719730"/>
+	</game>
+	<game name="Revolution - Issue 03 (2006-11)(Imagine Publishing)(GB)">
+		<description>Revolution - Issue 03 (2006-11)(Imagine Publishing)(GB)</description>
+		<rom name="Revolution - Issue 03 (2006-11)(Imagine Publishing)(GB).pdf" size="305735143" crc="c1bd8f24" md5="44fe5fa00d33e2d7b0410acee5c02233" sha1="03b906af87c0426ec30db4c5b14bea423d1b3bc8"/>
+	</game>
+	<game name="Revolution - Issue 04 (2006-12)(Imagine Publishing)(GB)">
+		<description>Revolution - Issue 04 (2006-12)(Imagine Publishing)(GB)</description>
+		<rom name="Revolution - Issue 04 (2006-12)(Imagine Publishing)(GB).pdf" size="312510405" crc="3e73c50d" md5="844bd45286968a53508299835d04949d" sha1="c813e22517a2575a6d5fca8ff65296ec209004d3"/>
+	</game>
+</datafile>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Ultimate Guide to Minecraft, The (GB)</name>
+		<description>Multi-format - Magazines - Ultimate Guide to Minecraft, The (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ultimate Guide to Minecraft, The (2014)(Future Publishing)(GB)">
+		<description>Ultimate Guide to Minecraft, The (2014)(Future Publishing)(GB)</description>
+		<rom name="Ultimate Guide to Minecraft, The (2014)(Future Publishing)(GB).pdf" size="64517814" crc="a258c424" md5="514bec88a2cd704717dee041c586f20c" sha1="e5f9aa32f6a51553281c9798b090f87c25545e6c"/>
+	</game>
+	<game name="Ultimate Guide to Minecraft, The - Volume 09 (2016-01)(Future Publishing)(GB)">
+		<description>Ultimate Guide to Minecraft, The - Volume 09 (2016-01)(Future Publishing)(GB)</description>
+		<rom name="Ultimate Guide to Minecraft, The - Volume 09 (2016-01)(Future Publishing)(GB).pdf" size="47228139" crc="8aef0837" md5="985f042d16e7674ee153d43438d1330d" sha1="f3b5bceea7fdcdb450f49f4fc5b97d196b47bd07"/>
+	</game>
+	<game name="Ultimate Guide to Minecraft, The - Volume 11 (2016-05)(Future Publishing)(GB)">
+		<description>Ultimate Guide to Minecraft, The - Volume 11 (2016-05)(Future Publishing)(GB)</description>
+		<rom name="Ultimate Guide to Minecraft, The - Volume 11 (2016-05)(Future Publishing)(GB).pdf" size="45656642" crc="b9c12744" md5="878f27665baf7f1a6fe61363e0ea25ff" sha1="ff33905030fa9731fb278918fca7495d11a12270"/>
+	</game>
+	<game name="Ultimate Guide to Minecraft, The - Volume 13 (2016-09)(Future Publishing)(GB)">
+		<description>Ultimate Guide to Minecraft, The - Volume 13 (2016-09)(Future Publishing)(GB)</description>
+		<rom name="Ultimate Guide to Minecraft, The - Volume 13 (2016-09)(Future Publishing)(GB).pdf" size="43733248" crc="1fdb475c" md5="dcb70f6d2fd9e333b36b41714709b34e" sha1="39a00ce72dcb5b1258bb733bf559d3599d12ffc2"/>
+	</game>
+	<game name="Ultimate Guide to Minecraft, The - Volume 26 (2018-04)(Future Publishing)(GB)">
+		<description>Ultimate Guide to Minecraft, The - Volume 26 (2018-04)(Future Publishing)(GB)</description>
+		<rom name="Ultimate Guide to Minecraft, The - Volume 26 (2018-04)(Future Publishing)(GB).pdf" size="57655470" crc="bee3bd81" md5="f03fc235e3c4dd1e85e61c7733dd8112" sha1="5e8803ad488c3ecc4d6c32793b282d84a3264f60"/>
+	</game>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Station Solutions (GB)</name>
+		<description>Sony PlayStation - Magazines - Station Solutions (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Station Solutions - Issue 047 (2000-07)(Polestar Publications)(GB)">
+		<description>Station Solutions - Issue 047 (2000-07)(Polestar Publications)(GB)</description>
+		<rom name="Station Solutions - Issue 047 (2000-07)(Polestar Publications)(GB).pdf" size="228210425" crc="dac71c0b" md5="dc098d4c1b3c29053f6c9bea43620b09" sha1="07f19b53766cef14f5a16702bd1a6b9ab4bb2d51"/>
+	</game>
+	<game name="Station Solutions - Issue 053 (2001-01)(Polestar Publications)(GB)">
+		<description>Station Solutions - Issue 053 (2001-01)(Polestar Publications)(GB)</description>
+		<rom name="Station Solutions - Issue 053 (2001-01)(Polestar Publications)(GB).pdf" size="268947268" crc="a0dbcdba" md5="fec045df7720626d9279edb52a7e4bff" sha1="e56db89a5dd920e3bdfc1592e9994fb94c765af2"/>
+	</game>
+</datafile>

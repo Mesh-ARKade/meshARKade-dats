@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Player One (FR)</name>
+		<description>Multi-format - Magazines - Player One (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Player One - Hors-Serie 4 La Compil Player One (1995-04)(Media Systeme Edition)(FR)">
+		<description>Player One - Hors-Serie 4 La Compil Player One (1995-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - Hors-Serie 4 La Compil Player One (1995-04)(Media Systeme Edition)(FR).pdf" size="15525858" crc="1d50487e" md5="8bdb2aee840dc6805cb14f5ac7699494" sha1="dec945616aa8d2903a05c6e77a18c024811ffea2"/>
+	</game>
+	<game name="Player One - Hors-Serie 6 Consoles et PC - Les Meilleurs Jeux de l'Annee 1996 Testes et Commentes (1996-12)(Media Systeme Edition)(FR)">
+		<description>Player One - Hors-Serie 6 Consoles et PC - Les Meilleurs Jeux de l'Annee 1996 Testes et Commentes (1996-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - Hors-Serie 6 Consoles et PC - Les Meilleurs Jeux de l'Annee 1996 Testes et Commentes (1996-12)(Media Systeme Edition)(FR).pdf" size="70566896" crc="394c53ed" md5="d6862b5d51d056fb09975d7291b5741d" sha1="d62af51f04df95fe8db17ec08445a964a2f057c7"/>
+	</game>
+	<game name="Player One - N.001 (1990-09)(Media Systeme Edition)(FR)">
+		<description>Player One - N.001 (1990-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.001 (1990-09)(Media Systeme Edition)(FR).pdf" size="29585152" crc="99b4eb82" md5="93439c462413f7f7d277c209164d0673" sha1="6a1924d37689a927a0522646307c0a16137c53a6"/>
+	</game>
+	<game name="Player One - N.002 (1990-10)(Media Systeme Edition)(FR)">
+		<description>Player One - N.002 (1990-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.002 (1990-10)(Media Systeme Edition)(FR).pdf" size="30240726" crc="54e80944" md5="b6245212e5d5f537f221292483f5158f" sha1="636e99b906db121ed7cdcc288f43fd08baf6680f"/>
+	</game>
+	<game name="Player One - N.003 (1990-11)(Media Systeme Edition)(FR)">
+		<description>Player One - N.003 (1990-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.003 (1990-11)(Media Systeme Edition)(FR).pdf" size="30958896" crc="92ebaf42" md5="bc483392c06b21021cd79861f47538f5" sha1="85d51b99df8863e35a8dfc1a25c4ccc6f3e8b805"/>
+	</game>
+	<game name="Player One - N.004 (1990-12)(Media Systeme Edition)(FR)">
+		<description>Player One - N.004 (1990-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.004 (1990-12)(Media Systeme Edition)(FR).pdf" size="31301521" crc="96a59d0b" md5="f2ba7a070ba04e553bc2b3d7edbb4002" sha1="105510d5d04bef62341624f6f643d6d649bd657e"/>
+	</game>
+	<game name="Player One - N.005 (1991-01)(Media Systeme Edition)(FR)">
+		<description>Player One - N.005 (1991-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.005 (1991-01)(Media Systeme Edition)(FR).pdf" size="29982948" crc="75e98a14" md5="61a9783a8ff5cc8cc9edc4858a13f859" sha1="e774a90f233d37054ef071c20857aa2c7a9ffa99"/>
+	</game>
+	<game name="Player One - N.006 (1991-02)(Media Systeme Edition)(FR)">
+		<description>Player One - N.006 (1991-02)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.006 (1991-02)(Media Systeme Edition)(FR).pdf" size="30519578" crc="3fb675f6" md5="77e695145e39bda89ef6e8bcdb3b4e46" sha1="cd84c440a11ead13590aef6747af919656bcc474"/>
+	</game>
+	<game name="Player One - N.007 (1991-03)(Media Systeme Edition)(FR)">
+		<description>Player One - N.007 (1991-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.007 (1991-03)(Media Systeme Edition)(FR).pdf" size="30533082" crc="c9639437" md5="a777ea1e094616fc1d8c12390ad83a11" sha1="007becdbec5b20ae890719cc64d64a86ac128638"/>
+	</game>
+	<game name="Player One - N.008 (1991-04)(Media Systeme Edition)(FR)">
+		<description>Player One - N.008 (1991-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.008 (1991-04)(Media Systeme Edition)(FR).pdf" size="28664323" crc="41af6196" md5="f5cd7362e86a30c9ac57d3bc67ed4a02" sha1="3f1f8557765ad4eb70005b763840670480547492"/>
+	</game>
+	<game name="Player One - N.009 (1991-05)(Media Systeme Edition)(FR)">
+		<description>Player One - N.009 (1991-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.009 (1991-05)(Media Systeme Edition)(FR).pdf" size="30837144" crc="0fc86c41" md5="b8b6f96e6e7cc5170ebc489578aa4831" sha1="d368e78c767ca1d031eba1e7530edc84ad59e67a"/>
+	</game>
+	<game name="Player One - N.010 (1991-06)(Media Systeme Edition)(FR)">
+		<description>Player One - N.010 (1991-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.010 (1991-06)(Media Systeme Edition)(FR).pdf" size="30686306" crc="b9fc13a9" md5="f49878167eaf9d4d3d838dde03ad7698" sha1="aac2f5617b6055bf31f3e66893aa6168a235517b"/>
+	</game>
+	<game name="Player One - N.011 (1991-07)(Media Systeme Edition)(FR)">
+		<description>Player One - N.011 (1991-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.011 (1991-07)(Media Systeme Edition)(FR).pdf" size="46509879" crc="5248809e" md5="745fc22fd3759296dde96cdcf3ca946a" sha1="adeee3c7e81982d7d2031a3214cde1911dd212bf"/>
+	</game>
+	<game name="Player One - N.012 (1991-09)(Media Systeme Edition)(FR)">
+		<description>Player One - N.012 (1991-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.012 (1991-09)(Media Systeme Edition)(FR).pdf" size="46020493" crc="bae12bf6" md5="f830ab71b91b2b51aac6e8547ff5e777" sha1="5390dc490e865167c4b0a49e745e5984b93a1573"/>
+	</game>
+	<game name="Player One - N.013 (1991-10)(Media Systeme Edition)(FR)">
+		<description>Player One - N.013 (1991-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.013 (1991-10)(Media Systeme Edition)(FR).pdf" size="44499093" crc="cc149ab2" md5="fdf5d7ee88c47e7b4b0f7dca35a3764e" sha1="9b3b4f3d7e3f5c02f055162786d1c96f2734dfe6"/>
+	</game>
+	<game name="Player One - N.014 (1991-11)(Media Systeme Edition)(FR)">
+		<description>Player One - N.014 (1991-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.014 (1991-11)(Media Systeme Edition)(FR).pdf" size="50753729" crc="b827f4cf" md5="db7c0a8154dcd4e01c36e1ff0b630807" sha1="1f7fd3c70c6e9f703c2c0d9c4779e70aa2690182"/>
+	</game>
+	<game name="Player One - N.015 (1991-12)(Media Systeme Edition)(FR)">
+		<description>Player One - N.015 (1991-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.015 (1991-12)(Media Systeme Edition)(FR).pdf" size="57177804" crc="f7cacc0f" md5="37038b46ab02e32d3e66cafab8c90115" sha1="77edffc1e2a1f3b0b69a84eacb7c0e1b15a1b99b"/>
+	</game>
+	<game name="Player One - N.016 (1992-01)(Media Systeme Edition)(FR)">
+		<description>Player One - N.016 (1992-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.016 (1992-01)(Media Systeme Edition)(FR).pdf" size="48812714" crc="97f3ca1e" md5="f293c4c12da3faade917356e72bffee1" sha1="f8bc30cb38b7b541131888110bc9218320c7dfe7"/>
+	</game>
+	<game name="Player One - N.017 (1992-02)(Media Systeme Edition)(FR)">
+		<description>Player One - N.017 (1992-02)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.017 (1992-02)(Media Systeme Edition)(FR).pdf" size="51963958" crc="3fd5bf4e" md5="ca7dbcb7b74731fe460170b41266a693" sha1="7e1d06b7d32f43a9dddcfa598c147fa53c5ee092"/>
+	</game>
+	<game name="Player One - N.018 (1992-03)(Media Systeme Edition)(FR)">
+		<description>Player One - N.018 (1992-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.018 (1992-03)(Media Systeme Edition)(FR).pdf" size="51639198" crc="e5b94af7" md5="e08cc135a6b7589338eb3b0972889246" sha1="6e0fec1f09138863226a091f54f335f7c8364e4a"/>
+	</game>
+	<game name="Player One - N.019 (1992-04)(Media Systeme Edition)(FR)">
+		<description>Player One - N.019 (1992-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.019 (1992-04)(Media Systeme Edition)(FR).pdf" size="50636872" crc="0d2e2092" md5="1c78b4432397e48e4648c5c7c606aba4" sha1="6f7c1c0b671ce1851d2c0319eeb119335b0ec02b"/>
+	</game>
+	<game name="Player One - N.020 (1992-05)(Media Systeme Edition)(FR)">
+		<description>Player One - N.020 (1992-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.020 (1992-05)(Media Systeme Edition)(FR).pdf" size="58161766" crc="cc4e3fbf" md5="ecf4c878c0ad2645923fc1711a12233a" sha1="fd74d8a4d772e69f7fbf59bdb90f5bdd537426e9"/>
+	</game>
+	<game name="Player One - N.021 (1992-06)(Media Systeme Edition)(FR)">
+		<description>Player One - N.021 (1992-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.021 (1992-06)(Media Systeme Edition)(FR).pdf" size="59047831" crc="efd74c99" md5="6adafde26e7d779a3b663e6ba7132d13" sha1="300b0d65c4babbd735bf1eb1dc4e458ec5a6204d"/>
+	</game>
+	<game name="Player One - N.022 (1992-07)(Media Systeme Edition)(FR)">
+		<description>Player One - N.022 (1992-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.022 (1992-07)(Media Systeme Edition)(FR).pdf" size="72219123" crc="7446ff99" md5="9bc2ba45e6cf5441c0a0d67e4550d7c8" sha1="22cfe161b29c3c7396de84e1c1e32624ccc80f69"/>
+	</game>
+	<game name="Player One - N.022 (1992-07-08)(Media Systeme Edition)(FR)">
+		<description>Player One - N.022 (1992-07-08)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.022 (1992-07-08)(Media Systeme Edition)(FR).pdf" size="72190854" crc="89fb1c6b" md5="1f150ae957169f62047685f3adcf1a54" sha1="1c1a7e1bfdab3bd2f47513e2c3fd693c2b922383"/>
+	</game>
+	<game name="Player One - N.023 (1992-09)(Media Systeme Edition)(FR)">
+		<description>Player One - N.023 (1992-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.023 (1992-09)(Media Systeme Edition)(FR).pdf" size="81829874" crc="6edb9a68" md5="e02a988f56c406495fed72b9819cbbdf" sha1="6d2c68d0586aba0353833d3398a3dac5bc2109ee"/>
+	</game>
+	<game name="Player One - N.024 (1992-10)(Media Systeme Edition)(FR)">
+		<description>Player One - N.024 (1992-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.024 (1992-10)(Media Systeme Edition)(FR).pdf" size="87404879" crc="94db9046" md5="16e0c69ad061ab44227d5b9f4f1e13ad" sha1="1046351116d9ef6873f1a76be81b658bd68fa602"/>
+	</game>
+	<game name="Player One - N.025 (1992-11)(Media Systeme Edition)(FR)">
+		<description>Player One - N.025 (1992-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.025 (1992-11)(Media Systeme Edition)(FR).pdf" size="87153091" crc="66ce86b5" md5="aa04fa341364bb92918c45a7f354bebb" sha1="c386cd3c8a85418dc96f1e6c90d19d832a609682"/>
+	</game>
+	<game name="Player One - N.026 (1992-12)(Media Systeme Edition)(FR)">
+		<description>Player One - N.026 (1992-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.026 (1992-12)(Media Systeme Edition)(FR).pdf" size="88036721" crc="8f9f03cb" md5="486e07eab57b4cc1fa1bfbf4dcd4b2ae" sha1="ae2e5246eb5da1928c237e36eccdce600fc4af00"/>
+	</game>
+	<game name="Player One - N.027 (1993-01)(Media Systeme Edition)(FR)">
+		<description>Player One - N.027 (1993-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.027 (1993-01)(Media Systeme Edition)(FR).pdf" size="85157267" crc="29a94eee" md5="e68c3c1d9c9ddcfc0c7f3bb30dc107bc" sha1="3345e57efb720aaf74fbbb51c9ac524f8cde7352"/>
+	</game>
+	<game name="Player One - N.028 (1993-02)(Media Systeme Edition)(FR)">
+		<description>Player One - N.028 (1993-02)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.028 (1993-02)(Media Systeme Edition)(FR).pdf" size="87966842" crc="14f510e5" md5="e0983dc7fdc4ccf6aa1a59b778e55513" sha1="ac4330422483c879c1aa4671419ad6b23e36b407"/>
+	</game>
+	<game name="Player One - N.029 (1993-03)(Media Systeme Edition)(FR)">
+		<description>Player One - N.029 (1993-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.029 (1993-03)(Media Systeme Edition)(FR).pdf" size="105224068" crc="5f250d80" md5="fbae7033fc938f728c75ef1da759cf03" sha1="43acee2681818aea9f7c4d2c707aea6f6c959759"/>
+	</game>
+	<game name="Player One - N.030 (1993-04)(Media Systeme Edition)(FR)">
+		<description>Player One - N.030 (1993-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.030 (1993-04)(Media Systeme Edition)(FR).pdf" size="108581829" crc="3a2a6bfe" md5="8f5aa271085b4246458b189052e386f8" sha1="541e64c7c13db508710359f41bb773c5329418bb"/>
+	</game>
+	<game name="Player One - N.031 (1993-05)(Media Systeme Edition)(FR)">
+		<description>Player One - N.031 (1993-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.031 (1993-05)(Media Systeme Edition)(FR).pdf" size="106993137" crc="a7e19155" md5="8a7c49d64e80e04cc6892e668f6a92bf" sha1="971cd042dd902576f9fab072379612f16527074a"/>
+	</game>
+	<game name="Player One - N.032 (1993-06)(Media Systeme Edition)(FR)">
+		<description>Player One - N.032 (1993-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.032 (1993-06)(Media Systeme Edition)(FR).pdf" size="86436373" crc="0713e5a6" md5="5e816271cdf2f173ca2ea5d5d99a0756" sha1="eacb8f630ad963f3adbaf2fd9eb1ce8c77256791"/>
+	</game>
+	<game name="Player One - N.033 (1993)(Media Systeme Edition)(FR)">
+		<description>Player One - N.033 (1993)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.033 (1993)(Media Systeme Edition)(FR).pdf" size="155635480" crc="4b5ccf68" md5="f62e1e45fd0cb9726507a545ca5591ea" sha1="f47a1e84069afb26bf126944d3c8bcd50655cb4c"/>
+	</game>
+	<game name="Player One - N.034 (1993-09)(Media Systeme Edition)(FR)">
+		<description>Player One - N.034 (1993-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.034 (1993-09)(Media Systeme Edition)(FR).pdf" size="112735462" crc="7104e371" md5="9240484c4f6e92519b2cafee5560779f" sha1="b9438cd306658119b792bc92d5da6cc7fc65e9f4"/>
+	</game>
+	<game name="Player One - N.035 (1993-10)(Media Systeme Edition)(FR)">
+		<description>Player One - N.035 (1993-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.035 (1993-10)(Media Systeme Edition)(FR).pdf" size="112025297" crc="b92a10d3" md5="939a1d928ff5a2176305805a8df56b4e" sha1="8380074df97de59151d9f23dc066e0ef7231cdf1"/>
+	</game>
+	<game name="Player One - N.036 (1993-11)(Media Systeme Edition)(FR)">
+		<description>Player One - N.036 (1993-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.036 (1993-11)(Media Systeme Edition)(FR).pdf" size="98865187" crc="83ced011" md5="264a8dbd255776ab44cc3f1d5a24f603" sha1="cbfeec6ae34fe3a8c542a1db552a2b02ebbf6fba"/>
+	</game>
+	<game name="Player One - N.037 (1993-12)(Media Systeme Edition)(FR)">
+		<description>Player One - N.037 (1993-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.037 (1993-12)(Media Systeme Edition)(FR).pdf" size="140174958" crc="2b41ebfe" md5="c835706cdef8c11062c40f01fae43549" sha1="270145e4ff5ad58fcfb3c71accd026b5dd114f0b"/>
+	</game>
+	<game name="Player One - N.038 (1994-01)(Media Systeme Edition)(FR)">
+		<description>Player One - N.038 (1994-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.038 (1994-01)(Media Systeme Edition)(FR).pdf" size="112645136" crc="cf45af25" md5="117d5f419eb4e985a7fe7ed6a3a6797a" sha1="7e0b4ccf5c2e086050ae6c0dad2aea1b9af0128e"/>
+	</game>
+	<game name="Player One - N.039 (1994-02)(Media Systeme Edition)(FR)">
+		<description>Player One - N.039 (1994-02)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.039 (1994-02)(Media Systeme Edition)(FR).pdf" size="91089541" crc="41689d98" md5="febe0a143ef382dce0498e4155efcf4c" sha1="9683107963b096687314557f48e11f93b869beda"/>
+	</game>
+	<game name="Player One - N.040 (1994-03)(Media Systeme Edition)(FR)">
+		<description>Player One - N.040 (1994-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.040 (1994-03)(Media Systeme Edition)(FR).pdf" size="102950380" crc="fdef7e60" md5="5d495cf33f4ded6a5b3df08aa56a991b" sha1="adc77e3db91c81c9848feb2b21fe4acbd60e33da"/>
+	</game>
+	<game name="Player One - N.041 (1994-04)(Media Systeme Edition)(FR)">
+		<description>Player One - N.041 (1994-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.041 (1994-04)(Media Systeme Edition)(FR).pdf" size="50794800" crc="2c171309" md5="58d743e70c765b36c4459c195cdb8122" sha1="304ed5e18d0e521dc923076c38c92674632eaf98"/>
+	</game>
+	<game name="Player One - N.042 (1994-05)(Media Systeme Edition)(FR)">
+		<description>Player One - N.042 (1994-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.042 (1994-05)(Media Systeme Edition)(FR).pdf" size="97288412" crc="6f20918d" md5="6bc972f820acf4e292e20ce4a6b9894b" sha1="49daddcecae306de1ca6c5146816ab80e44cb8e4"/>
+	</game>
+	<game name="Player One - N.043 (1994-06)(Media Systeme Edition)(FR)">
+		<description>Player One - N.043 (1994-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.043 (1994-06)(Media Systeme Edition)(FR).pdf" size="79101747" crc="c5910cd9" md5="5e5c0bd05c1ca8a8a0be166f56ec1822" sha1="495fae1946636dd805dbc67fffb191cba9e76cdf"/>
+	</game>
+	<game name="Player One - N.044 (1994-08)(Media Systeme Edition)(FR)">
+		<description>Player One - N.044 (1994-08)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.044 (1994-08)(Media Systeme Edition)(FR).pdf" size="75589035" crc="5bf99d11" md5="a01a709a7ae328727b26817bc4fc7e68" sha1="2b17c0791d8cf538bba28121e7a1b10f26c3d0c1"/>
+	</game>
+	<game name="Player One - N.045 (1994-09)(Media Systeme Edition)(FR)">
+		<description>Player One - N.045 (1994-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.045 (1994-09)(Media Systeme Edition)(FR).pdf" size="102093332" crc="d50ac25b" md5="c236c624beb652eb5fb8ca7f2587d1e4" sha1="5a78883bce8425d8aafa204330d728ad85463014"/>
+	</game>
+	<game name="Player One - N.046 (1994-10)(Media Systeme Edition)(FR)">
+		<description>Player One - N.046 (1994-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.046 (1994-10)(Media Systeme Edition)(FR).pdf" size="110203458" crc="1f6e9ea7" md5="cee7203d2c7928afb04c4ec902ba6713" sha1="2067de6d11614e6cd07cb96b2ed4f4083db9f994"/>
+	</game>
+	<game name="Player One - N.047 (1994-11)(Media Systeme Edition)(FR)">
+		<description>Player One - N.047 (1994-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.047 (1994-11)(Media Systeme Edition)(FR).pdf" size="93409278" crc="cead161c" md5="c308c9b54b088f337ce16eb911cba0af" sha1="224af98f9770ae4bc924d6e169ea9bc5ce5caea1"/>
+	</game>
+	<game name="Player One - N.048 (1994-12)(Media Systeme Edition)(FR)">
+		<description>Player One - N.048 (1994-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.048 (1994-12)(Media Systeme Edition)(FR).pdf" size="121275838" crc="b04d305e" md5="ff5d34013d2e0d837da9dfc3794644c3" sha1="7b2820e28e5f184be38a0b3eee7d649884850e23"/>
+	</game>
+	<game name="Player One - N.049 (1995-01)(Media Systeme Edition)(FR)">
+		<description>Player One - N.049 (1995-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.049 (1995-01)(Media Systeme Edition)(FR).pdf" size="109071072" crc="f12b0d4f" md5="739bb97821d0a18cb7c587f2ac8e48a5" sha1="9d627e9838fdb160ca3529519f21f118f0492ae3"/>
+	</game>
+	<game name="Player One - N.050 (1995-02)(Media Systeme Edition)(FR)">
+		<description>Player One - N.050 (1995-02)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.050 (1995-02)(Media Systeme Edition)(FR).pdf" size="100964107" crc="cde3800c" md5="9c3051dd7d5cbd4ebdb319e755fd91a3" sha1="3724fc444050d845cedf7ed334031b41bd6046ab"/>
+	</game>
+	<game name="Player One - N.051 (1995-03)(Media Systeme Edition)(FR)">
+		<description>Player One - N.051 (1995-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.051 (1995-03)(Media Systeme Edition)(FR).pdf" size="106556921" crc="74ab15e7" md5="f72eccf93611949e0062d661fa8c162d" sha1="dada57fa54fd3e6de07669c592f76dabb63c4f62"/>
+	</game>
+	<game name="Player One - N.052 (1995-04)(Media Systeme Edition)(FR)">
+		<description>Player One - N.052 (1995-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.052 (1995-04)(Media Systeme Edition)(FR).pdf" size="105251041" crc="ec966db8" md5="aba22eb272f2e1963b3604ffa57cde69" sha1="8cc41fba9de2093b77e2947fc762db2803c33c59"/>
+	</game>
+	<game name="Player One - N.053 (1995-05)(Media Systeme Edition)(FR)">
+		<description>Player One - N.053 (1995-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.053 (1995-05)(Media Systeme Edition)(FR).pdf" size="104929039" crc="04aa4978" md5="519a2e6ae6b4db09a0f802af33c5bbeb" sha1="ec7c12c0261fb48485d67a42119539164344b889"/>
+	</game>
+	<game name="Player One - N.054 (1995-06)(Media Systeme Edition)(FR)">
+		<description>Player One - N.054 (1995-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.054 (1995-06)(Media Systeme Edition)(FR).pdf" size="108796815" crc="84b72945" md5="a90711e04553902ea026cd817086af26" sha1="ef31bdfb5738d1f20de3bc4ed9894138975ffac7"/>
+	</game>
+	<game name="Player One - N.055 (1995-07)(Media Systeme Edition)(FR)">
+		<description>Player One - N.055 (1995-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.055 (1995-07)(Media Systeme Edition)(FR).pdf" size="121130757" crc="a48d8f78" md5="f93956329d7038e2a1d4b9369fe7cfa8" sha1="6478455e11362ca7b37dbc2be825278b964c3f11"/>
+	</game>
+	<game name="Player One - N.056 (1995-09)(Media Systeme Edition)(FR)">
+		<description>Player One - N.056 (1995-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.056 (1995-09)(Media Systeme Edition)(FR).pdf" size="113587996" crc="f30ef95b" md5="40569ccc7621c8e29f49d77f625e63e2" sha1="3a82d128e25aecb6ffccbacc4b2bc3d487104106"/>
+	</game>
+	<game name="Player One - N.057 (1995-10)(Media Systeme Edition)(FR)">
+		<description>Player One - N.057 (1995-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.057 (1995-10)(Media Systeme Edition)(FR).pdf" size="113354598" crc="0a3e6771" md5="93b1e2a31509ebed0aef3890182e1ae4" sha1="8d90f97731f9baebdb2186b1bdfb0b15a4c00086"/>
+	</game>
+	<game name="Player One - N.058 (1995-11)(Media Systeme Edition)(FR)">
+		<description>Player One - N.058 (1995-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.058 (1995-11)(Media Systeme Edition)(FR).pdf" size="148388123" crc="8aff29f7" md5="52f4a09597d8b5be0af9a625a4a06ddc" sha1="58ec18b2ef6d1a86e86a2e607b6da11385de6ea7"/>
+	</game>
+	<game name="Player One - N.059 (1995-12)(Media Systeme Edition)(FR)">
+		<description>Player One - N.059 (1995-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.059 (1995-12)(Media Systeme Edition)(FR).pdf" size="90953154" crc="29d8192b" md5="eac5a2b4b0cdb927df0d98904ea211d5" sha1="8099ca117e77a88b8e9b3f4820b1189274a0dbaf"/>
+	</game>
+	<game name="Player One - N.060 (1996-01)(Media Systeme Edition)(FR)">
+		<description>Player One - N.060 (1996-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.060 (1996-01)(Media Systeme Edition)(FR).pdf" size="102344282" crc="1955007a" md5="1c0be26f1ee5309b45cb380e7a1d542c" sha1="78b1f23b24e02c6df92c893d2402e8fa89ffce26"/>
+	</game>
+	<game name="Player One - N.061 (1996-02)(Media Systeme Edition)(FR)">
+		<description>Player One - N.061 (1996-02)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.061 (1996-02)(Media Systeme Edition)(FR).pdf" size="103309785" crc="8980b006" md5="4d90582176c6fc261e0a30bd8f84bef9" sha1="7955f92ea689c1dabf882d1fedb49bb7c6c6fc74"/>
+	</game>
+	<game name="Player One - N.062 (1996-03)(Media Systeme Edition)(FR)">
+		<description>Player One - N.062 (1996-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.062 (1996-03)(Media Systeme Edition)(FR).pdf" size="104794716" crc="ef33e647" md5="215deb1e6631704c8a0b0b4263207ba1" sha1="a81a754a3b931b322d5696b559f5d352d0309a5d"/>
+	</game>
+	<game name="Player One - N.063 (1996-04)(Media Systeme Edition)(FR)">
+		<description>Player One - N.063 (1996-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.063 (1996-04)(Media Systeme Edition)(FR).pdf" size="55731802" crc="a32f11c9" md5="a03633351b7da926c5b63572bde2190e" sha1="4fcf0b0aaeef7615309b50a3c54edacc4cfe7943"/>
+	</game>
+	<game name="Player One - N.064 (1996-05)(Media Systeme Edition)(FR)">
+		<description>Player One - N.064 (1996-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.064 (1996-05)(Media Systeme Edition)(FR).pdf" size="114364514" crc="5ac16912" md5="5a0f000dc78e32174544b3b60a0b6533" sha1="6b2c3df9e4b6ec79f5582470e7271b8ce9c53f88"/>
+	</game>
+	<game name="Player One - N.065 (1996-06)(Media Systeme Edition)(FR)">
+		<description>Player One - N.065 (1996-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.065 (1996-06)(Media Systeme Edition)(FR).pdf" size="101281414" crc="a7243771" md5="e70826d101e9510f24844431e90c88b7" sha1="b49463a9f19f28b44b6c3391252153ad9f4f5872"/>
+	</game>
+	<game name="Player One - N.066 (1996-07)(Media Systeme Edition)(FR)">
+		<description>Player One - N.066 (1996-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.066 (1996-07)(Media Systeme Edition)(FR).pdf" size="98527912" crc="b9e70146" md5="4f4c2d88f6b2a9117e7103a99ab875f2" sha1="dc1fd6daf4144747a56fa28fd8b565edc76ee68a"/>
+	</game>
+	<game name="Player One - N.066 (1996-07-08)(Media Systeme Edition)(FR)">
+		<description>Player One - N.066 (1996-07-08)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.066 (1996-07-08)(Media Systeme Edition)(FR).pdf" size="99995945" crc="927805dd" md5="7387e54ae9b601bc06c7f03694c45d0f" sha1="d8a63210886fcdbe1405e879ac61d2b6a78d6eaa"/>
+	</game>
+	<game name="Player One - N.067 (1996-09)(Media Systeme Edition)(FR)">
+		<description>Player One - N.067 (1996-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.067 (1996-09)(Media Systeme Edition)(FR).pdf" size="122047512" crc="81033896" md5="d28fc8fcbcbfd75e52ef94ad2f31047a" sha1="f9d2900f1981013066b7afad8a554f4ffb6613d3"/>
+	</game>
+	<game name="Player One - N.068 (1996-10)(Media Systeme Edition)(FR)">
+		<description>Player One - N.068 (1996-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.068 (1996-10)(Media Systeme Edition)(FR).pdf" size="101214533" crc="3c78fdda" md5="31f1f7457575ef8f0e9973c10967b124" sha1="74e2b1f3b4229d50276caa2b33ea03288ee54343"/>
+	</game>
+	<game name="Player One - N.069 (1996-11)(Media Systeme Edition)(FR)">
+		<description>Player One - N.069 (1996-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.069 (1996-11)(Media Systeme Edition)(FR).pdf" size="132794004" crc="d0c4ccd6" md5="b49e8249fbb31f9fe1e3d012d2cb1b85" sha1="3508ffebc704c53218449f0daef7aa0f1c353b49"/>
+	</game>
+	<game name="Player One - N.070 (1996-12)(Media Systeme Edition)(FR)">
+		<description>Player One - N.070 (1996-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.070 (1996-12)(Media Systeme Edition)(FR).pdf" size="149088971" crc="e1004763" md5="88279f46c7f16212c02a885a6c35a914" sha1="823d7f2401b07e8397548cb5ed199fd542d74ea6"/>
+	</game>
+	<game name="Player One - N.071 (1997-01)(Media Systeme Edition)(FR)">
+		<description>Player One - N.071 (1997-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.071 (1997-01)(Media Systeme Edition)(FR).pdf" size="107704471" crc="bfbe7982" md5="e899943b23cd7db7caf3bbde824f4b2a" sha1="7a084287001061f16c5ee928842395985ff1bffa"/>
+	</game>
+	<game name="Player One - N.072 (1997-02)(Media Systeme Edition)(FR)">
+		<description>Player One - N.072 (1997-02)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.072 (1997-02)(Media Systeme Edition)(FR).pdf" size="100180472" crc="027d89b4" md5="c68ae22f198311f8a56c7fd754bc12ff" sha1="1f3c7e62500ff694164d6ef54fae44f0936df74f"/>
+	</game>
+	<game name="Player One - N.073 (1997-03)(Media Systeme Edition)(FR)">
+		<description>Player One - N.073 (1997-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.073 (1997-03)(Media Systeme Edition)(FR).pdf" size="116830184" crc="65c465ff" md5="98ea47ce9f233617a83d0d514b4b81b4" sha1="c04ea6a7e1b7dc237a65cacedde71dc6b4f9dc64"/>
+	</game>
+	<game name="Player One - N.074 (1997-04)(Media Systeme Edition)(FR)">
+		<description>Player One - N.074 (1997-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.074 (1997-04)(Media Systeme Edition)(FR).pdf" size="107834837" crc="1a20da8b" md5="75dc9c243f523e7862645f7c8ce3aa30" sha1="e716ae30134401f83e8534e1345e707f224de25c"/>
+	</game>
+	<game name="Player One - N.075 (1997-05)(Media Systeme Edition)(FR)">
+		<description>Player One - N.075 (1997-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.075 (1997-05)(Media Systeme Edition)(FR).pdf" size="113435471" crc="0824d72d" md5="d3d1f74de11d24281a72e354a6414bdd" sha1="0ec0c469adb6ad0e9031f8b7ee92226cd139abcd"/>
+	</game>
+	<game name="Player One - N.076 (1997-06)(Media Systeme Edition)(FR)">
+		<description>Player One - N.076 (1997-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.076 (1997-06)(Media Systeme Edition)(FR).pdf" size="96931364" crc="c9677f41" md5="244e02499fd3591ef79db82cb3914057" sha1="7d4745cc089a51910bdcca04e41bc31cd7754bc0"/>
+	</game>
+	<game name="Player One - N.077 (1997-07)(Media Systeme Edition)(FR)">
+		<description>Player One - N.077 (1997-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.077 (1997-07)(Media Systeme Edition)(FR).pdf" size="98756925" crc="7f0984b9" md5="a8d4fec7432a9e7de99fd10b0ecb2043" sha1="7a6979cc86cf43a5cd5ffbe8e01d4ad56fe1a589"/>
+	</game>
+	<game name="Player One - N.078 (1997-09)(Media Systeme Edition)(FR)">
+		<description>Player One - N.078 (1997-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.078 (1997-09)(Media Systeme Edition)(FR).pdf" size="66086082" crc="bb96dc08" md5="36caa975616044758067c90b5a13e4f3" sha1="569b41c33e546f2ff645ee8057ed7dae356e1708"/>
+	</game>
+	<game name="Player One - N.079 (1997-10)(Media Systeme Edition)(FR)">
+		<description>Player One - N.079 (1997-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.079 (1997-10)(Media Systeme Edition)(FR).pdf" size="100732740" crc="09a362b2" md5="efa4459a09bdc128ff96c6f54d7ec4e3" sha1="07ba33f317e0daf53360a0577a43b941627db9f9"/>
+	</game>
+	<game name="Player One - N.080 (1997-11)(Media Systeme Edition)(FR)">
+		<description>Player One - N.080 (1997-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.080 (1997-11)(Media Systeme Edition)(FR).pdf" size="85914821" crc="f32b6ba1" md5="294c8bd757220192b19101dc1443a18a" sha1="ac7babdffdd6f0f1cc59e9d7eb44c9eb0e34aae0"/>
+	</game>
+	<game name="Player One - N.081 (1997-12)(Media Systeme Edition)(FR)">
+		<description>Player One - N.081 (1997-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.081 (1997-12)(Media Systeme Edition)(FR).pdf" size="102901070" crc="94e100ed" md5="c5e24035918ee4e0bc8eab77ab9c2fe9" sha1="e35c13d4c607ef003186a0757b4288a9ad15571f"/>
+	</game>
+	<game name="Player One - N.082 (1998-01)(Media Systeme Edition)(FR)">
+		<description>Player One - N.082 (1998-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.082 (1998-01)(Media Systeme Edition)(FR).pdf" size="114754124" crc="0d046926" md5="c107ac9b8be4479b3f5b0d9f386bf585" sha1="4029f179dcc66e267630940a362c18ab50707b4e"/>
+	</game>
+	<game name="Player One - N.083 (1998-02)(Media Systeme Edition)(FR)">
+		<description>Player One - N.083 (1998-02)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.083 (1998-02)(Media Systeme Edition)(FR).pdf" size="79286208" crc="887fba86" md5="96c48a80a4bf900b15bd8aea1e5a902e" sha1="3298db2ac651b529ff41554675f86fdf96ff89c2"/>
+	</game>
+	<game name="Player One - N.084 (1998-03)(Media Systeme Edition)(FR)">
+		<description>Player One - N.084 (1998-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.084 (1998-03)(Media Systeme Edition)(FR).pdf" size="67339638" crc="c8a5e7d4" md5="a8dce07e8f10cb8a2bb4182022c6d268" sha1="55465d609b4d605756df03b654c448c8a3cacc6d"/>
+	</game>
+	<game name="Player One - N.085 (1998-04)(Media Systeme Edition)(FR)">
+		<description>Player One - N.085 (1998-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.085 (1998-04)(Media Systeme Edition)(FR).pdf" size="93896840" crc="3f882d16" md5="96bf247d32de8f9660ab231fe7ec9bfd" sha1="bb9b2ec1960311c8b90cbe9352c12457e2c065bf"/>
+	</game>
+	<game name="Player One - N.086 (1998-05)(Media Systeme Edition)(FR)">
+		<description>Player One - N.086 (1998-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.086 (1998-05)(Media Systeme Edition)(FR).pdf" size="98766593" crc="063a263e" md5="d8a8be0a5fae5fecfb83a34b159a6c4c" sha1="e7a9c023949baf1fb2703902a8fbe711ff8825e0"/>
+	</game>
+	<game name="Player One - N.087 (1998-06)(Media Systeme Edition)(FR)">
+		<description>Player One - N.087 (1998-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.087 (1998-06)(Media Systeme Edition)(FR).pdf" size="82067471" crc="2488c8e2" md5="714c8cbd5a833a49acb93db2757827db" sha1="7bec165e4f9d793d428fd6da7e467a562f59be0d"/>
+	</game>
+	<game name="Player One - N.088 (1998-07)(Media Systeme Edition)(FR)">
+		<description>Player One - N.088 (1998-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.088 (1998-07)(Media Systeme Edition)(FR).pdf" size="115407857" crc="0206673d" md5="e58a3d60989093c3b9f949741c47add6" sha1="c739e5454503154678d3aed7fbd136a8c0f1dff8"/>
+	</game>
+	<game name="Player One - N.089 (1998-09)(Media Systeme Edition)(FR)">
+		<description>Player One - N.089 (1998-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.089 (1998-09)(Media Systeme Edition)(FR).pdf" size="111700848" crc="1364de01" md5="e7485ebbcbd7d25b73b6cffae27189e1" sha1="b88decf1130e26d97379b8cd96a3b6260e58feb7"/>
+	</game>
+	<game name="Player One - N.090 (1998-10)(Media Systeme Edition)(FR)[a]">
+		<description>Player One - N.090 (1998-10)(Media Systeme Edition)(FR)[a]</description>
+		<rom name="Player One - N.090 (1998-10)(Media Systeme Edition)(FR)[a].pdf" size="93556541" crc="61853fa9" md5="b1e250dadef7bd93903d2d44432a7a13" sha1="58be4585fc7d2e69be2d233f3165d6371cf8a748"/>
+	</game>
+	<game name="Player One - N.090 (1998-10)(Media Systeme Edition)(FR)">
+		<description>Player One - N.090 (1998-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.090 (1998-10)(Media Systeme Edition)(FR).pdf" size="92292374" crc="a109e9d1" md5="b3b673d8a31cb54085c2a4509818d9ba" sha1="978b6529f5867bb4a99aa0f0e94017833e47f3fb"/>
+	</game>
+	<game name="Player One - N.091 (1998-11)(Media Systeme Edition)(FR)">
+		<description>Player One - N.091 (1998-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.091 (1998-11)(Media Systeme Edition)(FR).pdf" size="91928686" crc="5f42e454" md5="f6d28d5404800153533f43e7030a7892" sha1="28e1f30e7ca769557a87695e34db96e2ce173564"/>
+	</game>
+	<game name="Player One - N.092 (1998-12)(Media Systeme Edition)(FR)">
+		<description>Player One - N.092 (1998-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.092 (1998-12)(Media Systeme Edition)(FR).pdf" size="69386171" crc="0db5a93b" md5="e77b1d5e1fb63b23662385c92ccf80f1" sha1="a07710b7823608bf2a9164a55817088a67920892"/>
+	</game>
+	<game name="Player One - N.093 (1999-01)(Media Systeme Edition)(FR)">
+		<description>Player One - N.093 (1999-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.093 (1999-01)(Media Systeme Edition)(FR).pdf" size="103864453" crc="5fb40335" md5="3fae50a4e72977d6d9d0f6723ea047ef" sha1="a5425ed3d2588312d2f27f4aef683f75e6501eca"/>
+	</game>
+	<game name="Player One - N.094 (1999-02)(Media Systeme Edition)(FR)">
+		<description>Player One - N.094 (1999-02)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.094 (1999-02)(Media Systeme Edition)(FR).pdf" size="92793657" crc="d3e2ab52" md5="9a4e88540430db426785bffb58a746fa" sha1="e1396875c8de818f6ca3f887c8c03a2a4323b969"/>
+	</game>
+	<game name="Player One - N.095 (1999-03)(Media Systeme Edition)(FR)">
+		<description>Player One - N.095 (1999-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.095 (1999-03)(Media Systeme Edition)(FR).pdf" size="69579293" crc="a5b402ab" md5="1e4af15d34ba9b9f9b0614db6db2a4e2" sha1="2951eb030bd5f548467f5becdd01204ffc7122e9"/>
+	</game>
+	<game name="Player One - N.096 (1999-04)(Media Systeme Edition)(FR)">
+		<description>Player One - N.096 (1999-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.096 (1999-04)(Media Systeme Edition)(FR).pdf" size="97632368" crc="9b42b88d" md5="a9858dc8718b55cb965dd053ef7c6a71" sha1="3776cfe7a0358cc9bc7a2d6c79fc1018b6716d5b"/>
+	</game>
+	<game name="Player One - N.096 (1999-04)(Media Systeme Edition)(FR)[Supplement]">
+		<description>Player One - N.096 (1999-04)(Media Systeme Edition)(FR)[Supplement]</description>
+		<rom name="Player One - N.096 (1999-04)(Media Systeme Edition)(FR)[Supplement].pdf" size="13203416" crc="89eda6b6" md5="b8141b6c771712c09831810c7d429b87" sha1="5b1e84ff33bae7534d2dc1f7e999a75dba17ea26"/>
+	</game>
+	<game name="Player One - N.097 (1999-05)(Media Systeme Edition)(FR)">
+		<description>Player One - N.097 (1999-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.097 (1999-05)(Media Systeme Edition)(FR).pdf" size="108550795" crc="c90e9016" md5="3bbab197233d17cf5428e5f18c81b2f6" sha1="ff13a774232eb93627ed7a4ed728ebbac7f866af"/>
+	</game>
+	<game name="Player One - N.098 (1999-06)(Media Systeme Edition)(FR)">
+		<description>Player One - N.098 (1999-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.098 (1999-06)(Media Systeme Edition)(FR).pdf" size="84483867" crc="c6d3042d" md5="b259e48521861110b39995bc5eb55778" sha1="8281ecf1eb49b3091fa1aa7feae7e6b1ef55b9d0"/>
+	</game>
+	<game name="Player One - N.099 (1999-07)(Media Systeme Edition)(FR)">
+		<description>Player One - N.099 (1999-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.099 (1999-07)(Media Systeme Edition)(FR).pdf" size="110694887" crc="05655e08" md5="9820717fa5f677377ad68c69788974d0" sha1="3e9b55c7bfa4cee921c83ca8beb7c85c37a00378"/>
+	</game>
+	<game name="Player One - N.100 (1999-09)(Media Systeme Edition)(FR)">
+		<description>Player One - N.100 (1999-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.100 (1999-09)(Media Systeme Edition)(FR).pdf" size="110822731" crc="eadd75ee" md5="31cf95ace11543a1132fe7d13903027c" sha1="eea09758329a5703b11927f30e9770982f0f8bbc"/>
+	</game>
+	<game name="Player One - N.101 (1999-10)(Media Systeme Edition)(FR)">
+		<description>Player One - N.101 (1999-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.101 (1999-10)(Media Systeme Edition)(FR).pdf" size="81522628" crc="934ef0fa" md5="0f13f7e39989ef7d3b4d499f5b285cb4" sha1="120f84edbebf0160cfe42b554e9947071d089816"/>
+	</game>
+	<game name="Player One - N.102 (1999-11)(Media Systeme Edition)(FR)">
+		<description>Player One - N.102 (1999-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.102 (1999-11)(Media Systeme Edition)(FR).pdf" size="94989347" crc="2ff3535f" md5="6ef64bc1c1e0e0ffbed3c548765ea68a" sha1="13b36096e1b68c4d0025eefe5edbd5150ebbd937"/>
+	</game>
+	<game name="Player One - N.103 (1999-12)(Media Systeme Edition)(FR)">
+		<description>Player One - N.103 (1999-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.103 (1999-12)(Media Systeme Edition)(FR).pdf" size="130142421" crc="5ec5f430" md5="b9325394515e947fc56f5a58e2bf523f" sha1="aa70160d2af5eb0d94dc39df3f5386c157a94fdd"/>
+	</game>
+	<game name="Player One - N.104 (2000-01)(Media Systeme Edition)(FR)">
+		<description>Player One - N.104 (2000-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Player One - N.104 (2000-01)(Media Systeme Edition)(FR).pdf" size="110106747" crc="99cd5a53" md5="4853ecd0bf040836aaee5cff0b4914cf" sha1="b55b311f925d3f112bcf53a4e4265e016dd6d094"/>
+	</game>
+	<game name="Player One - Zelda III - N.03 (1992-12)(Media Systeme Edition)(FR)[Supplement N.026]">
+		<description>Player One - Zelda III - N.03 (1992-12)(Media Systeme Edition)(FR)[Supplement N.026]</description>
+		<rom name="Player One - Zelda III - N.03 (1992-12)(Media Systeme Edition)(FR)[Supplement N.026].pdf" size="8471392" crc="0efabb71" md5="514b1e87a2cec1beb6d139bca068a020" sha1="11997705ad145104ff6c8aa299b211c4416067ed"/>
+	</game>
+	<game name="Player One - Zelda III - N.04 (1993-01)(Media Systeme Edition)(FR)[Supplement N.027]">
+		<description>Player One - Zelda III - N.04 (1993-01)(Media Systeme Edition)(FR)[Supplement N.027]</description>
+		<rom name="Player One - Zelda III - N.04 (1993-01)(Media Systeme Edition)(FR)[Supplement N.027].pdf" size="7231941" crc="4fd14f80" md5="b675ce4ac02200e0b47619d4805e436a" sha1="97643009d61fb1ad3615c6220783649a50cd1d4e"/>
+	</game>
+	<game name="Player Two - HS 01 (2006)(Media Systeme Edition)(FR)">
+		<description>Player Two - HS 01 (2006)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Two - HS 01 (2006)(Media Systeme Edition)(FR).pdf" size="7325906" crc="909808c8" md5="49e72a811bcf8918da725e65c4ec531d" sha1="3223c1623b8491a4d249e52fd1b6fbae1c0b09f4"/>
+	</game>
+	<game name="Player Two - HS 02 (2010)(Media Systeme Edition)(FR)">
+		<description>Player Two - HS 02 (2010)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Two - HS 02 (2010)(Media Systeme Edition)(FR).pdf" size="32166124" crc="7ae079c7" md5="ee778dfe9aa61464a1005e0c84d0594a" sha1="165ef80b08d41d3dfaf62d7d5e89c1b8d6be093d"/>
+	</game>
+	<game name="Player Two - No.01 (1996)(Media Systeme Edition)(FR)">
+		<description>Player Two - No.01 (1996)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Two - No.01 (1996)(Media Systeme Edition)(FR).pdf" size="4836572" crc="f4d9f83a" md5="63a97be7dea559dd5dcd772020a0eebd" sha1="d200b4e5d23d582eea207257dde77bfe2dccb5db"/>
+	</game>
+	<game name="Player Two - No.02 (2006)(Media Systeme Edition)(FR)">
+		<description>Player Two - No.02 (2006)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Two - No.02 (2006)(Media Systeme Edition)(FR).pdf" size="6263008" crc="96876e64" md5="eb76d871cd44224bdd65f59a510d33e0" sha1="8ee1dd213cd2bcd0197d059d5640605a87ab9c21"/>
+	</game>
+	<game name="Player Two - No.03 (2007)(Media Systeme Edition)(FR)">
+		<description>Player Two - No.03 (2007)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Two - No.03 (2007)(Media Systeme Edition)(FR).pdf" size="9754400" crc="a5da3437" md5="a37f357a0a36df782d6d664442d1e8e3" sha1="ff2699b4d8a1cabac846dd4542d2620d0b3033d7"/>
+	</game>
+	<game name="Player Two - No.04 (2009-06)(Media Systeme Edition)(FR)">
+		<description>Player Two - No.04 (2009-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Two - No.04 (2009-06)(Media Systeme Edition)(FR).pdf" size="88417918" crc="4b79d117" md5="08130ddef867a0ddf50a1128b9656e09" sha1="2defc9b6c2690101a4450a9feacf46b54c37d481"/>
+	</game>
+	<game name="Player Two - No.05 (2009-11)(Media Systeme Edition)(FR)">
+		<description>Player Two - No.05 (2009-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Two - No.05 (2009-11)(Media Systeme Edition)(FR).pdf" size="39774410" crc="16068161" md5="b06b39af9f7f6aed8b54b215541fc179" sha1="b22eb79889c0809c94f58d43db41f9ae6fa4a74a"/>
+	</game>
+	<game name="Player Two - No.06 (2011-07)(Media Systeme Edition)(FR)">
+		<description>Player Two - No.06 (2011-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Player Two - No.06 (2011-07)(Media Systeme Edition)(FR).pdf" size="22935486" crc="d14f3b40" md5="555235eb2dfaf1258bdf5361e6241364" sha1="a76248971a969a512f0ee58d4dd8a1a4a66ffa79"/>
+	</game>
+</datafile>
