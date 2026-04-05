@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile>
+  <header>
+    <name>Nintendo - Nintendo Entertainment System</name>
+    <description>Nintendo - Nintendo Entertainment System</description>
+    <category>No-Intro</category>
+    <version>2024-01-01</version>
+  </header>
+  <game name="Super Mario Bros.">
+    <description>Super Mario Bros.</description>
+    <release name="USA" region="USA"/>
+    <rom name="Super Mario Bros. (USA).nes" size="40976" crc="6c3a2a9c" md5="eb1a6e80c2d67e9f1e2f4b1c1c2d6e9f" sha1="a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0"/>
+  </game>
+  <game name="The Legend of Zelda">
+    <description>The Legend of Zelda</description>
+    <release name="USA" region="USA"/>
+    <rom name="The Legend of Zelda (USA).nes" size="131072" crc="c1d2e3f4" md5="a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6" sha1="1234567890abcdef1234567890abcdef12345678"/>
+  </game>
+</datafile>

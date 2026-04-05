@@ -9,6 +9,8 @@ jobs:
   relay:
     runs-on: ubuntu-latest
     if: success()
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     
     steps:
       - name: Checkout meshARKade-dats
@@ -20,10 +22,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Identify new archives
         id: find_zips
