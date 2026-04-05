@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clrmamepro>
+  <header>
+    <name>Test System</name>
+    <description>Mock DAT for Relay Test</description>
+    <version>2026-04-05</version>
+    <author>RelayBot</author>
+  </header>
+  <game name="Relay Mock Game">
+    <description>Relay Mock Game Description</description>
+    <rom name="relay-test-file.bin" size="32" crc="deadbeef" md5="0123456789abcdef0123456789abcdef" sha1="0123456789abcdef0123456789abcdef01234567"/>
+  </game>
+</clrmamepro>
