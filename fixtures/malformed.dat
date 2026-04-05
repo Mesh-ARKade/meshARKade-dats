@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile>
+  <header>
+    <name>Invalid</name>
+  </header>
+  <game>
+    <description>Broken XML</description>
+    <rom name="test.nes" size="40976"/>
+  </game>
+  <unclosed>

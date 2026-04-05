@@ -1,0 +1,21 @@
+{
+  "name": "mesharkade-dats",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "DAT file ingestion and validation tools for Mesh ARKade",
+  "scripts": {
+    "extract": "node scripts/extract.js",
+    "validate": "node scripts/validate.js",
+    "sort": "node scripts/sort.js",
+    "process": "node scripts/process.js",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "fast-xml-parser": "^4.5.0",
+    "playwright": "^1.59.1",
+    "vitest": "^2.1.0"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16"
+  }
+}
