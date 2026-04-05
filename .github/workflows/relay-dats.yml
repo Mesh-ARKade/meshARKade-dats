@@ -1,4 +1,4 @@
-name: Relay Validated DATs
+name: DAT Relay
 
 on:
   push:
@@ -9,21 +9,22 @@ jobs:
   relay:
     runs-on: ubuntu-latest
     if: success()
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     
     steps:
       - name: Checkout meshARKade-dats
-        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11
+        uses: actions/checkout@v4
         with:
           fetch-depth: 2
 
       - name: Setup Node.js
-        uses: actions/setup-node@60edb5dd545a775178f52524742c74062a097d5b
+        uses: actions/setup-node@v4
         with:
-          node-version: 24
-          cache: 'npm'
+          node-version: 22
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Identify new archives
         id: find_zips

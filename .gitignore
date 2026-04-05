@@ -5,3 +5,4 @@ output/
 *.rar
 .DS_Store
 Thumbs.db
+gha-log.txt
