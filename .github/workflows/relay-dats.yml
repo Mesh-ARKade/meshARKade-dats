@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@60edb5dd545a775178f52524742c74062a097d5b
         with:
-          node-version: 20
+          node-version: 24
           cache: 'npm'
 
       - name: Install dependencies
@@ -62,17 +62,24 @@ jobs:
             echo "--- Processing: $archive ---"
             
             # 1. Run local extraction & validation
-            # We use a temporary local directory for validated files
-            rm -rf temp_validated
-            mkdir -p temp_validated
+            # We use temporary staging directories
+            rm -rf temp_staging temp_validated
+            mkdir -p temp_staging temp_validated
             
-            # Use our existing extraction logic
-            # We'll run a custom relay script that leverages our existing libs
-            node scripts/internal/relay-check.js "$archive" temp_validated
+            # Extract
+            node scripts/extract.js "$archive" temp_staging
+            
+            # Validate contents of extracted folder (source-specific path)
+            # Find the source folder created by extract.js (staging/output/{source})
+            STAGING_OUTPUT=$(find temp_staging/output -maxdepth 1 -mindepth 1 -type d | head -n 1)
+            node scripts/validate.js --input "$STAGING_OUTPUT"
+            
+            # If validation passes, move verified files to flattened directory
+            cp "$STAGING_OUTPUT"/*.dat temp_validated/
             
             # 2. Hand-off to database repo
-            # Identify source
-            SOURCE=$(node -e "import { detectSource } from './scripts/lib/detect-source.js'; console.log(detectSource('$archive'))")
+            # Identify source using the CLI wrapper
+            SOURCE=$(node scripts/lib/detect-source-cli.js "$archive")
             echo "Detected source: $SOURCE"
             
             # Prep target dir
@@ -99,7 +106,7 @@ jobs:
             
             # 4. Create PR via gh CLI
             echo "Opening PR on database repo..."
-            gh pr create \
+            GH_TOKEN=${{ secrets.MESH_DATABASE_TOKEN }} gh pr create \
               --repo Mesh-ARKade/meshARKade-database \
               --title "feat: update $SOURCE DATs ($DATE_STAMP)" \
               --body "Automated relay from curator upload: \`$archive\`
