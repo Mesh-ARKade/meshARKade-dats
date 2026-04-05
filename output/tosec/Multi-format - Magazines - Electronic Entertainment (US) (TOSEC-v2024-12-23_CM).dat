@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Electronic Entertainment (US)</name>
+		<description>Multi-format - Magazines - Electronic Entertainment (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Electronic Entertainment - Issue 016 (1995-04)(IDG Communications)(US)">
+		<description>Electronic Entertainment - Issue 016 (1995-04)(IDG Communications)(US)</description>
+		<rom name="Electronic Entertainment - Issue 016 (1995-04)(IDG Communications)(US).pdf" size="246608662" crc="9a4ba0a2" md5="7058433f066ff092ab1581f289f4bb1f" sha1="9fe3c00a0b721d81409b795aee87c12b2d836dcc"/>
+	</game>
+	<game name="Electronic Entertainment - Issue 019 (1995-07)(IDG Communications)(US)">
+		<description>Electronic Entertainment - Issue 019 (1995-07)(IDG Communications)(US)</description>
+		<rom name="Electronic Entertainment - Issue 019 (1995-07)(IDG Communications)(US).pdf" size="264449049" crc="630d8230" md5="b4f6250a6f52e613f16fc1613462cc6a" sha1="e9b4de28330f18f9c733f357a8413b6b1f7a9c99"/>
+	</game>
+	<game name="Electronic Entertainment - Issue 020 (1995-08)(IDG Communications)(US)">
+		<description>Electronic Entertainment - Issue 020 (1995-08)(IDG Communications)(US)</description>
+		<rom name="Electronic Entertainment - Issue 020 (1995-08)(IDG Communications)(US).pdf" size="237568365" crc="3efe3b9e" md5="32d67e4a37151203d44a183ec36bda0f" sha1="fa16502255f3455b288111280b7d72561d3113d3"/>
+	</game>
+	<game name="Electronic Entertainment - Issue 021 (1995-09)(IDG Communications)(US)">
+		<description>Electronic Entertainment - Issue 021 (1995-09)(IDG Communications)(US)</description>
+		<rom name="Electronic Entertainment - Issue 021 (1995-09)(IDG Communications)(US).pdf" size="229455018" crc="4574b4ab" md5="ae79def7ca2cfdc9497ba1b9377e0066" sha1="a9943b5711f5f939c361d3dfceb6cc94ec277abf"/>
+	</game>
+	<game name="Electronic Entertainment - Issue 024 (1995-12)(IDG Communications)(US)">
+		<description>Electronic Entertainment - Issue 024 (1995-12)(IDG Communications)(US)</description>
+		<rom name="Electronic Entertainment - Issue 024 (1995-12)(IDG Communications)(US).pdf" size="406725481" crc="6e7af279" md5="49cbf96669476a6130afc174d6f75885" sha1="61219ae3b3aab12a14ec8fec74aadde9005c3aa9"/>
+	</game>
+</datafile>

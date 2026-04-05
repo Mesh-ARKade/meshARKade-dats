@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - PC Gamer (RU)</name>
+		<description>IBM PC Compatibles - Magazines - PC Gamer (RU) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC Gamer - Issue 077 (2009-01)(Gameland Publishing)(RU)">
+		<description>PC Gamer - Issue 077 (2009-01)(Gameland Publishing)(RU)</description>
+		<rom name="PC Gamer - Issue 077 (2009-01)(Gameland Publishing)(RU).pdf" size="115220008" crc="ab6a3b84" md5="232df10d49fd47e4bac9d02c03fc2f32" sha1="377d743120987edd282e4c26999023eeee6bb5d7"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PlayStation Zone (GB)</name>
+		<description>Sony PlayStation - Magazines - PlayStation Zone (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation Zone - Issue 1 (1998)(IDG Media)(GB)">
+		<description>PlayStation Zone - Issue 1 (1998)(IDG Media)(GB)</description>
+		<rom name="PlayStation Zone - Issue 1 (1998)(IDG Media)(GB).pdf" size="183608280" crc="7b6a8935" md5="2602faaa814630320096d7cf7b5399da" sha1="d09cd54911f22585b74df55be25b7154bec959c6"/>
+	</game>
+</datafile>

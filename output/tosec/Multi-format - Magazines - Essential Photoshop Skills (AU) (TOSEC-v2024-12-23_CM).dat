@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Essential Photoshop Skills (AU)</name>
+		<description>Multi-format - Magazines - Essential Photoshop Skills (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Essential Photoshop Skills - Issue 08 (2009)(Derwent Howard)(AU)">
+		<description>Essential Photoshop Skills - Issue 08 (2009)(Derwent Howard)(AU)</description>
+		<rom name="Essential Photoshop Skills - Issue 08 (2009)(Derwent Howard)(AU).pdf" size="268843785" crc="cc45f59b" md5="9fbfbbd671394b17bc0f026584e10e1f" sha1="39b8464e217bcdd1a277e9c4c64038492969c910"/>
+	</game>
+</datafile>

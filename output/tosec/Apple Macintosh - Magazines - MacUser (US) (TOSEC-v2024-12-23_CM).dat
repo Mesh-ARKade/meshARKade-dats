@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Magazines - MacUser (US)</name>
+		<description>Apple Macintosh - Magazines - MacUser (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MacUser - Vol 01 No 01 (1985-10)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 01 (1985-10)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 01 (1985-10)(MacUser Publications)(US).pdf" size="43455585" crc="4cd6f3b8" md5="7f4247c5c38e6fd3084547294db03b73" sha1="6b456feca0bc09d9078ebf92b1a9ab5138cac106"/>
+	</game>
+	<game name="MacUser - Vol 01 No 02 (1985-11)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 02 (1985-11)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 02 (1985-11)(MacUser Publications)(US).pdf" size="45739827" crc="d7f06e93" md5="0c092736111ead02e0300c19becbaee3" sha1="af47d9cd8707669a9b9e32e693a71cf1e0dc7a62"/>
+	</game>
+	<game name="MacUser - Vol 01 No 03 (1985-12)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 03 (1985-12)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 03 (1985-12)(MacUser Publications)(US).pdf" size="51071854" crc="7aada55b" md5="cc31aceb7eb05a0b42b98e2401bda557" sha1="20e74089c11f056852ed46e030a37a6019294a9b"/>
+	</game>
+	<game name="MacUser - Vol 01 No 04 (1986-01)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 04 (1986-01)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 04 (1986-01)(MacUser Publications)(US).pdf" size="50000609" crc="160f06ba" md5="15a007941bd113efb4293c670af7cc5a" sha1="ae36f59e14e9781dd87a36a243660110099d5678"/>
+	</game>
+	<game name="MacUser - Vol 01 No 05 (1986-02)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 05 (1986-02)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 05 (1986-02)(MacUser Publications)(US).pdf" size="50908572" crc="94b2ed1e" md5="a4aa3867be4f6192ef0407235dd54278" sha1="2a162431ad433e9cce19c376ecf97c44123c4605"/>
+	</game>
+	<game name="MacUser - Vol 01 No 06 (1986-03)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 06 (1986-03)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 06 (1986-03)(MacUser Publications)(US).pdf" size="33886722" crc="8bdb4417" md5="ff95119f6fea883113e9ec17d6bb1ca0" sha1="106682957d0d52c53392718a7550995916517868"/>
+	</game>
+	<game name="MacUser - Vol 01 No 07 (1986-04)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 07 (1986-04)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 07 (1986-04)(MacUser Publications)(US).pdf" size="33959311" crc="c03e5234" md5="bb6c7e582347f1293df5c434d73f762f" sha1="5a5c496cb953e3995c3ebb553891fa0089677e06"/>
+	</game>
+	<game name="MacUser - Vol 01 No 08 (1986-05)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 08 (1986-05)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 08 (1986-05)(MacUser Publications)(US).pdf" size="50973268" crc="fa3c1ddf" md5="8ed32b6a99bfc5ce123129fc9f88ef4e" sha1="8b108033a509e25d9de7aff32745c97f78a6aac1"/>
+	</game>
+	<game name="MacUser - Vol 01 No 09 (1986-06)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 09 (1986-06)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 09 (1986-06)(MacUser Publications)(US).pdf" size="45460244" crc="c23556ee" md5="b90552a9ae1ecd89d689e1a4998eef88" sha1="41327ea4df0dfdb07441b669c0b2cb0215cae2e6"/>
+	</game>
+	<game name="MacUser - Vol 01 No 10 (1986-07)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 10 (1986-07)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 10 (1986-07)(MacUser Publications)(US).pdf" size="38581928" crc="b5f8f5d6" md5="3b65703d21b5d444d3b534d38309df82" sha1="368f631ee4a57bb395a81e0fa971a3f873e2a779"/>
+	</game>
+	<game name="MacUser - Vol 01 No 11 (1986-08)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 11 (1986-08)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 11 (1986-08)(MacUser Publications)(US).pdf" size="45406093" crc="694b5eee" md5="942fd17790432881e8ee56b21cc6da3b" sha1="f993d291228bda8824250764bf382cb687126058"/>
+	</game>
+	<game name="MacUser - Vol 01 No 12 (1986-09)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 12 (1986-09)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 12 (1986-09)(MacUser Publications)(US).pdf" size="54948422" crc="e9f17b2a" md5="4803c397a532d3f7bbedab584b79b8da" sha1="fea5a121fb6a07ef3c309a04135114d032889b18"/>
+	</game>
+	<game name="MacUser - Vol 01 No 13 (1986-10)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 13 (1986-10)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 13 (1986-10)(MacUser Publications)(US).pdf" size="45118849" crc="8ff7a521" md5="53deb0e5f5f4b464e173511cde13359f" sha1="594280b9fb7e2b5c0b47eb5302e93396d6cc158a"/>
+	</game>
+	<game name="MacUser - Vol 01 No 14 (1986-11)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 14 (1986-11)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 14 (1986-11)(MacUser Publications)(US).pdf" size="60324911" crc="4cbc49e2" md5="cbf5c0b02fd5b0702154e7766bc35772" sha1="3e1b9fef4d119bfa1a24c98245d829a2fc25aff0"/>
+	</game>
+	<game name="MacUser - Vol 01 No 15 (1986-12)(MacUser Publications)(US)">
+		<description>MacUser - Vol 01 No 15 (1986-12)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 01 No 15 (1986-12)(MacUser Publications)(US).pdf" size="61473040" crc="848e808e" md5="5e9d7d070656d19ad6690877e4bef7cf" sha1="fa8f3087affeb33f31b372d8ed327e6fbddd0b78"/>
+	</game>
+	<game name="MacUser - Vol 03 No 01 (1987-01)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 01 (1987-01)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 01 (1987-01)(MacUser Publications)(US).pdf" size="50775636" crc="326ea916" md5="913cdf4509aaf8c96e6d60497fe44836" sha1="1d4239682625142e78b8378230d6c0931262ea86"/>
+	</game>
+	<game name="MacUser - Vol 03 No 02 (1987-02)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 02 (1987-02)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 02 (1987-02)(MacUser Publications)(US).pdf" size="54624070" crc="b4bc0c9d" md5="a998a619c06ee3f5ff717d46a535f561" sha1="a4452b1e0529ab8ef5a990200a92cdc343fae3b2"/>
+	</game>
+	<game name="MacUser - Vol 03 No 03 (1987-03)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 03 (1987-03)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 03 (1987-03)(MacUser Publications)(US).pdf" size="57588879" crc="1073f7bd" md5="93568c6780ab2b969d5a21f956769c30" sha1="543c0c98ed4b0c81803f744e9127fa98ecdf9fc7"/>
+	</game>
+	<game name="MacUser - Vol 03 No 04 (1987-04)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 04 (1987-04)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 04 (1987-04)(MacUser Publications)(US).pdf" size="50242758" crc="7214907f" md5="8d45689084894019c42efacf9ac0ab20" sha1="75de63ca266e34973780ceaa0158dc84c304bf5b"/>
+	</game>
+	<game name="MacUser - Vol 03 No 05 (1987-05)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 05 (1987-05)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 05 (1987-05)(MacUser Publications)(US).pdf" size="50532945" crc="1bdd678d" md5="a17473e38a0642a681c4be478d2a3cca" sha1="2d9dfab429373d4f97006dc3a5401e01eb7f59ad"/>
+	</game>
+	<game name="MacUser - Vol 03 No 06 (1987-06)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 06 (1987-06)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 06 (1987-06)(MacUser Publications)(US).pdf" size="61267216" crc="01ed52ba" md5="f57688526f0f60664bf7d904fca6fa61" sha1="ce272f1251150acf154ba3761cb8127bfe8820eb"/>
+	</game>
+	<game name="MacUser - Vol 03 No 07 (1987-07)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 07 (1987-07)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 07 (1987-07)(MacUser Publications)(US).pdf" size="60669750" crc="d05dead6" md5="16cabb1cd4e2188d7dc3d58af68de1a7" sha1="92542013ead59e1e1758b90c61339127de40bc12"/>
+	</game>
+	<game name="MacUser - Vol 03 No 08 (1987-08)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 08 (1987-08)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 08 (1987-08)(MacUser Publications)(US).pdf" size="54961811" crc="a3cce357" md5="03932c12349cb5c321038e475e15d517" sha1="386800bb81687f0992677268e384156060ad3231"/>
+	</game>
+	<game name="MacUser - Vol 03 No 09 (1987-09)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 09 (1987-09)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 09 (1987-09)(MacUser Publications)(US).pdf" size="67367642" crc="a89264e0" md5="e5a76f0300a8243862d3a93ea435aa83" sha1="d90cae994d057e60605a6b8851ae8da612519cf3"/>
+	</game>
+	<game name="MacUser - Vol 03 No 10 (1987-10)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 10 (1987-10)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 10 (1987-10)(MacUser Publications)(US).pdf" size="66003635" crc="cc271382" md5="f4429dcaea5e7e76cee1358a56dd870c" sha1="1faf3ba50d7da7058607a293dde7aa1604fd5ef7"/>
+	</game>
+	<game name="MacUser - Vol 03 No 11 (1987-11)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 11 (1987-11)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 11 (1987-11)(MacUser Publications)(US).pdf" size="69825382" crc="6ce56882" md5="43fc46ac07b2a808c8e85277ed249514" sha1="b6fbafe3cb2fe60d66064f5a80c22836a6f4e4fa"/>
+	</game>
+	<game name="MacUser - Vol 03 No 12 (1987-12)(MacUser Publications)(US)">
+		<description>MacUser - Vol 03 No 12 (1987-12)(MacUser Publications)(US)</description>
+		<rom name="MacUser - Vol 03 No 12 (1987-12)(MacUser Publications)(US).pdf" size="73686308" crc="7b98a449" md5="4c61234fce9bd3fd48f952f613587d48" sha1="826a4d8e9f2053ce9e53fbf5b667fce4f70805f5"/>
+	</game>
+	<game name="MacUser - Vol 04 No 01 (1988-01)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 01 (1988-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 01 (1988-01)(Ziff-Davis Publishing)(US).pdf" size="78202754" crc="b709b5f8" md5="48804d83d6364663c074e80371aa3ad8" sha1="91539745d7d9b195e6472b2b10b132cc3c281e11"/>
+	</game>
+	<game name="MacUser - Vol 04 No 02 (1988-02)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 02 (1988-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 02 (1988-02)(Ziff-Davis Publishing)(US).pdf" size="98636769" crc="655bdec4" md5="9d2dc78824d95ee1ddff1dbdd4efe6ac" sha1="292437b654b65b4d89599382924317241a01c35f"/>
+	</game>
+	<game name="MacUser - Vol 04 No 03 (1988-03)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 03 (1988-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 03 (1988-03)(Ziff-Davis Publishing)(US).pdf" size="78133447" crc="a057a752" md5="b64473a22a45ba7518b0cba4e5fafb09" sha1="0cebf9b4044c0b30e65db607c7d11afe8b3976ff"/>
+	</game>
+	<game name="MacUser - Vol 04 No 04 (1988-04)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 04 (1988-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 04 (1988-04)(Ziff-Davis Publishing)(US).pdf" size="77198973" crc="3ad02873" md5="11e823afdf3c075f529be385f119cecf" sha1="9a5aa6bb9cea6987e8af4a8086e56ddee522e51b"/>
+	</game>
+	<game name="MacUser - Vol 04 No 05 (1988-05)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 05 (1988-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 05 (1988-05)(Ziff-Davis Publishing)(US).pdf" size="89013049" crc="62338437" md5="952c1c30c2c2231a8afdc4fda019fbb0" sha1="7e44a1972d9ea5fecd5ae687c1cbaf1085d236d9"/>
+	</game>
+	<game name="MacUser - Vol 04 No 06 (1988-06)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 06 (1988-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 06 (1988-06)(Ziff-Davis Publishing)(US).pdf" size="88912196" crc="11c1917f" md5="18c197eb1b8f52bf2aa20198f01747e4" sha1="5b0fbd3a94265e2b77bf6b36683cb5184d8758de"/>
+	</game>
+	<game name="MacUser - Vol 04 No 07 (1988-07)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 07 (1988-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 07 (1988-07)(Ziff-Davis Publishing)(US).pdf" size="85100003" crc="f0933a4e" md5="44184f5d987429008ee263a47f515d29" sha1="e1e9387c5834c54d6be565e57e1f3274647abd7a"/>
+	</game>
+	<game name="MacUser - Vol 04 No 08 (1988-08)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 08 (1988-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 08 (1988-08)(Ziff-Davis Publishing)(US).pdf" size="83553552" crc="596e9088" md5="81ee27f63ccc91723f3f76dac674ceab" sha1="cfe8acdb44b5ddd07271931daee5308aad155ade"/>
+	</game>
+	<game name="MacUser - Vol 04 No 09 (1988-09)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 09 (1988-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 09 (1988-09)(Ziff-Davis Publishing)(US).pdf" size="91905416" crc="0716f737" md5="ce0930e10fafab2a434b55714a9a2489" sha1="d2f7d0a920981b42a679c022c6ed8c6f23879539"/>
+	</game>
+	<game name="MacUser - Vol 04 No 10 (1988-10)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 10 (1988-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 10 (1988-10)(Ziff-Davis Publishing)(US).pdf" size="102089298" crc="df501f97" md5="e1107cd59118d7af50289418cce4f562" sha1="d2ea96e35965357fb95bee4a89519867b90ed2ef"/>
+	</game>
+	<game name="MacUser - Vol 04 No 11 (1988-11)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 11 (1988-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 11 (1988-11)(Ziff-Davis Publishing)(US).pdf" size="100721441" crc="cefd5f3e" md5="3e922028580f099e61287264f371ac14" sha1="f7d880f2bdfc4240124ff0b4d9bdfac3ddc35061"/>
+	</game>
+	<game name="MacUser - Vol 04 No 12 (1988-12)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 04 No 12 (1988-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 04 No 12 (1988-12)(Ziff-Davis Publishing)(US).pdf" size="48459656" crc="21c52cff" md5="0ab03299ca3e7ff922742c72c39aa353" sha1="b018f7d24d29762f371f2e46e6f7999a0a75a3bc"/>
+	</game>
+	<game name="MacUser - Vol 05 No 01 (1989-01)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 01 (1989-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 01 (1989-01)(Ziff-Davis Publishing)(US).pdf" size="75244995" crc="42a65a83" md5="f8c808fb80c7d6b7bd55ab3ab2f57d03" sha1="1d07764ac59af343af1c821b81b6ece8735b8d39"/>
+	</game>
+	<game name="MacUser - Vol 05 No 02 (1989-02)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 02 (1989-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 02 (1989-02)(Ziff-Davis Publishing)(US).pdf" size="83016157" crc="3c4f1e79" md5="7f53e3d71ae80d0500906622a89d8a2d" sha1="2f0142a880a2ee4a204c38c1f35324d9a7e35fdc"/>
+	</game>
+	<game name="MacUser - Vol 05 No 03 (1989-03)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 03 (1989-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 03 (1989-03)(Ziff-Davis Publishing)(US).pdf" size="79604527" crc="de1ed4dd" md5="94074f09bb4169ab704bdae5bcbcda37" sha1="866b550e4778104d6bbe2de59b66fadfce330639"/>
+	</game>
+	<game name="MacUser - Vol 05 No 04 (1989-04)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 04 (1989-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 04 (1989-04)(Ziff-Davis Publishing)(US).pdf" size="75880089" crc="d4df3e33" md5="451487563a2605c0d1241704b700c295" sha1="3cf7e6276a2829f4fe97f9cb231899804e886a90"/>
+	</game>
+	<game name="MacUser - Vol 05 No 05 (1989-05)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 05 (1989-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 05 (1989-05)(Ziff-Davis Publishing)(US).pdf" size="77319104" crc="5dee66ab" md5="f8069f8d1bb35bc361f67c41c749cb40" sha1="06c30e43a9e5f00e27ee25aed86d039469ec5313"/>
+	</game>
+	<game name="MacUser - Vol 05 No 06 (1989-06)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 06 (1989-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 06 (1989-06)(Ziff-Davis Publishing)(US).pdf" size="66680595" crc="d71585aa" md5="5a8b246dd530e50f4e15b5e364357c6e" sha1="cbf184fe8819b06479573919748b6b76efb3b96a"/>
+	</game>
+	<game name="MacUser - Vol 05 No 07 (1989-07)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 07 (1989-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 07 (1989-07)(Ziff-Davis Publishing)(US).pdf" size="63108267" crc="cbecc504" md5="36f6cf10f8b424eda6002df111909fc8" sha1="1351476eb7f06e6e5e1275636e3a79a9b3a17c1b"/>
+	</game>
+	<game name="MacUser - Vol 05 No 08 (1989-08)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 08 (1989-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 08 (1989-08)(Ziff-Davis Publishing)(US).pdf" size="56796185" crc="0d627366" md5="8061745bd3d6cfdd7fb98cfba9530dfd" sha1="b8e964168b0e9ce883bc98b7c057c6437ed3bf4e"/>
+	</game>
+	<game name="MacUser - Vol 05 No 09 (1989-09)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 09 (1989-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 09 (1989-09)(Ziff-Davis Publishing)(US).pdf" size="69543749" crc="d8e7f41e" md5="d571fca98f1c9a0dcc3eb6b03d7674d4" sha1="52c4b82cac57e1446e7e126dcf1d9c311b31eca7"/>
+	</game>
+	<game name="MacUser - Vol 05 No 10 (1989-10)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 10 (1989-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 10 (1989-10)(Ziff-Davis Publishing)(US).pdf" size="63756641" crc="d066af77" md5="949c076332819f643e72ed6a534e099a" sha1="31c0e1b51eb026861a149227729bca51410137cf"/>
+	</game>
+	<game name="MacUser - Vol 05 No 11 (1989-11)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 11 (1989-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 11 (1989-11)(Ziff-Davis Publishing)(US).pdf" size="72091655" crc="c6ff322f" md5="25019cd3521a12be2ce7c5fb2c6d87e2" sha1="72ac16245d2be85043bfabd3ffd32ef6d6dca5ec"/>
+	</game>
+	<game name="MacUser - Vol 05 No 12 (1989-12)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 05 No 12 (1989-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 05 No 12 (1989-12)(Ziff-Davis Publishing)(US).pdf" size="72410988" crc="a216a8b2" md5="17ad46e8a767a80cb7e26392e6661f9e" sha1="6e1f4faac34108204d9f14f45f909e7b09d8961e"/>
+	</game>
+	<game name="MacUser - Vol 06 No 01 (1990-01)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 01 (1990-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 01 (1990-01)(Ziff-Davis Publishing)(US).pdf" size="74034020" crc="c31cae90" md5="d565e4ba5971666499bd456398344ade" sha1="a3c9642e01aa528e9f3f0c27d455d653891b10aa"/>
+	</game>
+	<game name="MacUser - Vol 06 No 02 (1990-02)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 02 (1990-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 02 (1990-02)(Ziff-Davis Publishing)(US).pdf" size="70962623" crc="ceecbcc3" md5="9d01aa8c02b4aef7216b6b8f8cd7cdc3" sha1="1d6139ecd129a6ba7e27883dfb43154d49661221"/>
+	</game>
+	<game name="MacUser - Vol 06 No 03 (1990-03)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 03 (1990-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 03 (1990-03)(Ziff-Davis Publishing)(US).pdf" size="71479332" crc="17e3331c" md5="579a55e5e220a2a03df3bd61125f2558" sha1="a38307257fd7a0738ef3cbe93f5254a5c3eb3193"/>
+	</game>
+	<game name="MacUser - Vol 06 No 04 (1990-04)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 04 (1990-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 04 (1990-04)(Ziff-Davis Publishing)(US).pdf" size="71267689" crc="ee810377" md5="ec81d4ce94f8694435cd7b53a3fab14a" sha1="b949f0e39c9971c39dda9ca2aec4fa5bf826462b"/>
+	</game>
+	<game name="MacUser - Vol 06 No 05 (1990-05)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 05 (1990-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 05 (1990-05)(Ziff-Davis Publishing)(US).pdf" size="95781775" crc="9c8cf696" md5="3a1b06b407554d1b68c7802643747ded" sha1="ea2b99be1c9e71a51e87432e478066b82ca15b52"/>
+	</game>
+	<game name="MacUser - Vol 06 No 06 (1990-06)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 06 (1990-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 06 (1990-06)(Ziff-Davis Publishing)(US).pdf" size="70576945" crc="47da3ba0" md5="ca92935d8915061a4dfe70eaf49e54c1" sha1="90343e9d4970ba52571e724aeaf8f9fb9047bb53"/>
+	</game>
+	<game name="MacUser - Vol 06 No 07 (1990-07)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 07 (1990-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 07 (1990-07)(Ziff-Davis Publishing)(US).pdf" size="69262874" crc="27aef4ab" md5="ce3fdeb13965ea9dfa05596042e54753" sha1="b1ec644ad3d87a0e6e731462c2acd9a9a50a38d2"/>
+	</game>
+	<game name="MacUser - Vol 06 No 08 (1990-08)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 08 (1990-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 08 (1990-08)(Ziff-Davis Publishing)(US).pdf" size="74824135" crc="b5ac8df4" md5="ff8005991bfbdceb0014d7c5f17c3483" sha1="70bc0a6ccc287e437512f1bd7fd587fbe66b31b6"/>
+	</game>
+	<game name="MacUser - Vol 06 No 09 (1990-09)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 09 (1990-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 09 (1990-09)(Ziff-Davis Publishing)(US).pdf" size="89432125" crc="7e38dc41" md5="d670536d4f7e5d3045d114324e6f30cb" sha1="1b76729be2b82d023ccc91a8b386601f715df61b"/>
+	</game>
+	<game name="MacUser - Vol 06 No 10 (1990-10)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 10 (1990-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 10 (1990-10)(Ziff-Davis Publishing)(US).pdf" size="92478203" crc="d8882523" md5="baa2a76755d6dcfb72387a20f475f5a7" sha1="a525c3f507fc9913b61c0676e98743e614286bac"/>
+	</game>
+	<game name="MacUser - Vol 06 No 11 (1990-11)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 11 (1990-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 11 (1990-11)(Ziff-Davis Publishing)(US).pdf" size="75135823" crc="7d180fe8" md5="d14529ce33e4cf133ea84250e8152318" sha1="f3b45192979a7573f105af9083b6012982bb827d"/>
+	</game>
+	<game name="MacUser - Vol 06 No 12 (1990-12)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 06 No 12 (1990-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 06 No 12 (1990-12)(Ziff-Davis Publishing)(US).pdf" size="100734330" crc="7e3ee5ea" md5="2c955421cc4a460b8a39a0d6822b6abb" sha1="72a555b8a8048860b62c5bce1df4cea2287669b8"/>
+	</game>
+	<game name="MacUser - Vol 07 No 01 (1991-01)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 01 (1991-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 01 (1991-01)(Ziff-Davis Publishing)(US).pdf" size="78257423" crc="e62bd187" md5="88c837d9548eb68d1ec659d0971f7ddc" sha1="1cd11b7233f88f8975596c2f197d29c15857e7e2"/>
+	</game>
+	<game name="MacUser - Vol 07 No 02 (1991-02)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 02 (1991-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 02 (1991-02)(Ziff-Davis Publishing)(US).pdf" size="91559297" crc="6b3da712" md5="46215d300bda9045c88fd0088993db62" sha1="b5b9833743d3c63f0705e27b1010ece1be0d6271"/>
+	</game>
+	<game name="MacUser - Vol 07 No 03 (1991-03)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 03 (1991-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 03 (1991-03)(Ziff-Davis Publishing)(US).pdf" size="79622753" crc="d0b13405" md5="c114d1e7d4330d9eb77f99d584c16765" sha1="ef08877cf6199d8d666cd12bc5d2b45f3b68eb22"/>
+	</game>
+	<game name="MacUser - Vol 07 No 04 (1991-04)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 04 (1991-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 04 (1991-04)(Ziff-Davis Publishing)(US).pdf" size="80546659" crc="8015566e" md5="64056af98718b1901e3f04eb2b7a1549" sha1="68719f2482fb5164492b5ece97a10588babb9cbf"/>
+	</game>
+	<game name="MacUser - Vol 07 No 05 (1991-05)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 05 (1991-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 05 (1991-05)(Ziff-Davis Publishing)(US).pdf" size="82773361" crc="9e53d967" md5="fe9ef8d6c67beb7d31c232f04e5ec359" sha1="b4700e4625deea327a45d6a2d5ee7797bdad01f4"/>
+	</game>
+	<game name="MacUser - Vol 07 No 06 (1991-06)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 06 (1991-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 06 (1991-06)(Ziff-Davis Publishing)(US).pdf" size="81014810" crc="7fe7019f" md5="1926781d3a8a2d5be0df109aeb8c0f3d" sha1="b79642ae7204b911989de23f1502d46055e05014"/>
+	</game>
+	<game name="MacUser - Vol 07 No 07 (1991-07)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 07 (1991-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 07 (1991-07)(Ziff-Davis Publishing)(US).pdf" size="70993747" crc="53215a0e" md5="9ac694bf43f3aa3a912d3b73d90cc46d" sha1="90b5a6d5eb4df31caf27462970bc673e633dc508"/>
+	</game>
+	<game name="MacUser - Vol 07 No 08 (1991-08)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 08 (1991-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 08 (1991-08)(Ziff-Davis Publishing)(US).pdf" size="81514756" crc="77afb28d" md5="208eca97f4ba095c5486d8a663463254" sha1="e2ea5a80ed20cba3b61be4b0f212a57b1398b7c3"/>
+	</game>
+	<game name="MacUser - Vol 07 No 09 (1991-09)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 09 (1991-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 09 (1991-09)(Ziff-Davis Publishing)(US).pdf" size="80205075" crc="f9fdb1b5" md5="4a70074a3543fd86d8eb8aa71dee8108" sha1="96c2e5c33bac9ae5b393c67e3ec88f1240011812"/>
+	</game>
+	<game name="MacUser - Vol 07 No 10 (1991-10)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 10 (1991-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 10 (1991-10)(Ziff-Davis Publishing)(US).pdf" size="78809922" crc="66c93635" md5="d3cf82d9bd1960b82bc5a4c5bb72ce78" sha1="3940ed722b9dc867897bb9f9785430c1acc8d639"/>
+	</game>
+	<game name="MacUser - Vol 07 No 11 (1991-11)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 11 (1991-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 11 (1991-11)(Ziff-Davis Publishing)(US).pdf" size="81751932" crc="ce2052b9" md5="3b097a52b298196e0415ac56be60d1f1" sha1="97fda7869c00b1cfab7c9f8b5c2471ff215caa6c"/>
+	</game>
+	<game name="MacUser - Vol 07 No 12 (1991-12)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 07 No 12 (1991-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 07 No 12 (1991-12)(Ziff-Davis Publishing)(US).pdf" size="69728955" crc="ff866b57" md5="56576ced57e42289e5848ca99b557359" sha1="6506da5255fb14fca4e742771fefce4c7c97cb1b"/>
+	</game>
+	<game name="MacUser - Vol 08 No 01 (1992-01)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 01 (1992-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 01 (1992-01)(Ziff-Davis Publishing)(US).pdf" size="73484717" crc="4ecfb7eb" md5="d6acaf7a932d506fad9109e5b545fcd0" sha1="61cd8a81d342349ef952871737fd5400c30e7c91"/>
+	</game>
+	<game name="MacUser - Vol 08 No 02 (1992-02)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 02 (1992-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 02 (1992-02)(Ziff-Davis Publishing)(US).pdf" size="89860982" crc="6fa27939" md5="1df093de152e732163873cfe7b39162d" sha1="5c6169df5a677ef39d027b551a4ef9a41de85eda"/>
+	</game>
+	<game name="MacUser - Vol 08 No 03 (1992-03)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 03 (1992-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 03 (1992-03)(Ziff-Davis Publishing)(US).pdf" size="76012442" crc="4b410095" md5="bdfc9aed8b622179bd2128edcc0ea6a7" sha1="6abaf64c527cfb4e488f25e25329d94ab3179597"/>
+	</game>
+	<game name="MacUser - Vol 08 No 04 (1992-04)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 04 (1992-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 04 (1992-04)(Ziff-Davis Publishing)(US).pdf" size="78860710" crc="b56b2ba0" md5="d3b3b284b9e6de0310ac93ba8d8e2eda" sha1="c33ba69fc016823a2cbf803a882071bb7216daf8"/>
+	</game>
+	<game name="MacUser - Vol 08 No 05 (1992-05)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 05 (1992-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 05 (1992-05)(Ziff-Davis Publishing)(US).pdf" size="79929911" crc="01ecf1dc" md5="1048ad10e9ef42434e0a6f5c168b6fc4" sha1="382affb826012f398d2876bb2fcc28c451118a6b"/>
+	</game>
+	<game name="MacUser - Vol 08 No 06 (1992-06)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 06 (1992-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 06 (1992-06)(Ziff-Davis Publishing)(US).pdf" size="82574041" crc="84172aee" md5="19797a29164e27646c23d670d5826018" sha1="3b39e3205f7af88dc94975be37e43bf4657e091a"/>
+	</game>
+	<game name="MacUser - Vol 08 No 07 (1992-07)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 07 (1992-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 07 (1992-07)(Ziff-Davis Publishing)(US).pdf" size="82415090" crc="6105baee" md5="9a6a4afb552591bfe3840e6d7f81a858" sha1="4998f821c6d735423b91d03e099a1fe012966d43"/>
+	</game>
+	<game name="MacUser - Vol 08 No 08 (1992-08)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 08 (1992-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 08 (1992-08)(Ziff-Davis Publishing)(US).pdf" size="92375284" crc="8ac79141" md5="f41a817d960460d7e23de2379dba806c" sha1="4362671dd3271d01e6aebf6c67dfd98f19940113"/>
+	</game>
+	<game name="MacUser - Vol 08 No 09 (1992-09)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 09 (1992-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 09 (1992-09)(Ziff-Davis Publishing)(US).pdf" size="93434039" crc="799c5715" md5="4846898ab8cc72ea7e73b35fc07a17d9" sha1="f261c8d957b968a5dd73544100296e48fd6fd579"/>
+	</game>
+	<game name="MacUser - Vol 08 No 10 (1992-10)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 10 (1992-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 10 (1992-10)(Ziff-Davis Publishing)(US).pdf" size="89358482" crc="92f2fbd8" md5="dc990e7cf16afb04d864f59f9599ca51" sha1="63c39cd8c0a2e49b00744054b95915bb6d45b38e"/>
+	</game>
+	<game name="MacUser - Vol 08 No 11 (1992-11)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 11 (1992-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 11 (1992-11)(Ziff-Davis Publishing)(US).pdf" size="79937892" crc="f99ebfdb" md5="fa7547b9a1e9371d000834bd4b6ff9f1" sha1="e341dc7102ac73e65f68b7318e072d0aacc05cc2"/>
+	</game>
+	<game name="MacUser - Vol 08 No 12 (1992-12)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 08 No 12 (1992-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 08 No 12 (1992-12)(Ziff-Davis Publishing)(US).pdf" size="79979788" crc="65f63211" md5="cce5962507a364ba4c65ebe769c1fd1a" sha1="c106e24ea5e6fbad4b136668012d6f02d9200ffe"/>
+	</game>
+	<game name="MacUser - Vol 09 No 01 (1993-01)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 01 (1993-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 01 (1993-01)(Ziff-Davis Publishing)(US).pdf" size="81543543" crc="8d0755db" md5="6184a691daace886ba8083c38be16d0a" sha1="b93c810d1fda121b944af1c9c833c8f77103f256"/>
+	</game>
+	<game name="MacUser - Vol 09 No 02 (1993-02)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 02 (1993-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 02 (1993-02)(Ziff-Davis Publishing)(US).pdf" size="89295609" crc="890bc6fc" md5="d6724441d3be7bd288c4895a63e8c6e0" sha1="b4d18dafc93afdc7427f0c77c65754a480e4afbd"/>
+	</game>
+	<game name="MacUser - Vol 09 No 03 (1993-03)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 03 (1993-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 03 (1993-03)(Ziff-Davis Publishing)(US).pdf" size="82271038" crc="0a32432e" md5="7db8f4135f843a66aa55507dfafd884e" sha1="fb19bffffc560b350ced66360677d132417fcf28"/>
+	</game>
+	<game name="MacUser - Vol 09 No 04 (1993-04)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 04 (1993-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 04 (1993-04)(Ziff-Davis Publishing)(US).pdf" size="83765794" crc="a9fd4e00" md5="159657946d7d5811f289cc4f8bc19adf" sha1="f6f17fce3c7360390dc01d73fa062b26aaec444b"/>
+	</game>
+	<game name="MacUser - Vol 09 No 05 (1993-05)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 05 (1993-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 05 (1993-05)(Ziff-Davis Publishing)(US).pdf" size="88462976" crc="0984f045" md5="df662824690029f38cb7204e325f4474" sha1="cca4d4c8bc02b080b314eb7d50ad1ff5e5eaac5e"/>
+	</game>
+	<game name="MacUser - Vol 09 No 06 (1993-06)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 06 (1993-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 06 (1993-06)(Ziff-Davis Publishing)(US).pdf" size="80224457" crc="b678161e" md5="ccf9ddb2e2ba5dc72a6ffc079b64afae" sha1="5ee8be84324f00801d00d899dc22fb6be0453357"/>
+	</game>
+	<game name="MacUser - Vol 09 No 07 (1993-07)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 07 (1993-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 07 (1993-07)(Ziff-Davis Publishing)(US).pdf" size="87170608" crc="a0f52e16" md5="d02046c93d603580d7b7b3660c021fdf" sha1="40a59115e885e2ac2dc667ff3627014452a09903"/>
+	</game>
+	<game name="MacUser - Vol 09 No 08 (1993-08)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 08 (1993-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 08 (1993-08)(Ziff-Davis Publishing)(US).pdf" size="77406598" crc="ee654947" md5="f8778713df59c2acfc521e5b792dddf7" sha1="115a55716b6571f933bd5c9e62bfc5d5ec65ea1a"/>
+	</game>
+	<game name="MacUser - Vol 09 No 09 (1993-09)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 09 (1993-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 09 (1993-09)(Ziff-Davis Publishing)(US).pdf" size="93037776" crc="516bd502" md5="fda1ca38bc680d9e9308e92b7fa13381" sha1="9064893180322eda4f37a4bb13f6f141c7e4dd67"/>
+	</game>
+	<game name="MacUser - Vol 09 No 10 (1993-10)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 10 (1993-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 10 (1993-10)(Ziff-Davis Publishing)(US).pdf" size="57921946" crc="5b9e57de" md5="4c90c657ede18a242e98044afe291af8" sha1="227018f70242ba5764f6a98ed6bd787a1a6619f8"/>
+	</game>
+	<game name="MacUser - Vol 09 No 11 (1993-11)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 11 (1993-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 11 (1993-11)(Ziff-Davis Publishing)(US).pdf" size="62330557" crc="ed82a409" md5="1e7756f794c4baf0f3561f6ad14502a2" sha1="1f8a20b7db69aece760225b2196724c5eafab056"/>
+	</game>
+	<game name="MacUser - Vol 09 No 12 (1993-12)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 09 No 12 (1993-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 09 No 12 (1993-12)(Ziff-Davis Publishing)(US).pdf" size="68718452" crc="2641e037" md5="cc774251578003c5d03c8e58f231b99a" sha1="a8e736b83bff8ac5ec0e54a16b06f5934e93a2e4"/>
+	</game>
+	<game name="MacUser - Vol 10 No 01 (1994-01)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 01 (1994-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 01 (1994-01)(Ziff-Davis Publishing)(US).pdf" size="65428039" crc="f7cbdf76" md5="f95fa3c6392ea4f1530b3afaaf0d2784" sha1="ff7825fd8b1557d97b2e7b1659872e75011a11eb"/>
+	</game>
+	<game name="MacUser - Vol 10 No 02 (1994-02)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 02 (1994-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 02 (1994-02)(Ziff-Davis Publishing)(US).pdf" size="67844753" crc="a7f5ae31" md5="6acf7befab8829166bd37a43f57da30f" sha1="ae07b58e6a365cd8e0a59bfffc144625ee0e49dd"/>
+	</game>
+	<game name="MacUser - Vol 10 No 03 (1994-03)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 03 (1994-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 03 (1994-03)(Ziff-Davis Publishing)(US).pdf" size="55965732" crc="8136a22f" md5="7cb05143e0fc14e049ad36d9bfb9a573" sha1="03fe8d505a48ad238de341cd79072a6d24fb7bcc"/>
+	</game>
+	<game name="MacUser - Vol 10 No 04 (1994-04)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 04 (1994-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 04 (1994-04)(Ziff-Davis Publishing)(US).pdf" size="53752880" crc="4168f053" md5="8323ff5fc3481163abcdcd55b76b3436" sha1="289328645c405fa5b2d2254c1db96882f722c871"/>
+	</game>
+	<game name="MacUser - Vol 10 No 05 (1994-05)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 05 (1994-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 05 (1994-05)(Ziff-Davis Publishing)(US).pdf" size="56036014" crc="7a2eb82b" md5="6db48fe8a047dfe0f90aed6c41259a33" sha1="08a38027087479f7af35500cf09b6c8b72b0080e"/>
+	</game>
+	<game name="MacUser - Vol 10 No 06 (1994-06)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 06 (1994-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 06 (1994-06)(Ziff-Davis Publishing)(US).pdf" size="51717622" crc="6565dd61" md5="a6e6615800c9a50d73d27a98c0ce9f50" sha1="2b887e2dd144211447e7c6b6c06cc2a6947fd9a5"/>
+	</game>
+	<game name="MacUser - Vol 10 No 07 (1994-07)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 07 (1994-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 07 (1994-07)(Ziff-Davis Publishing)(US).pdf" size="63032830" crc="b1263702" md5="6bdbeb5ae74a321b2075a6f36014cadd" sha1="9a8d341e41bddc1fb653658c95e75a7c8483d1b6"/>
+	</game>
+	<game name="MacUser - Vol 10 No 08 (1994-08)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 08 (1994-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 08 (1994-08)(Ziff-Davis Publishing)(US).pdf" size="46233552" crc="4c9769b5" md5="32865fc2612dbe30a9576b535d5f259f" sha1="2a7b5c7b719d396757b6b1343152adfd1db3e5da"/>
+	</game>
+	<game name="MacUser - Vol 10 No 09 (1994-09)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 09 (1994-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 09 (1994-09)(Ziff-Davis Publishing)(US).pdf" size="61366484" crc="f0fb1747" md5="553d879f51b3cbd7133baffff4d4ead1" sha1="003ff86ea05e11af209705f916ebb50b841158de"/>
+	</game>
+	<game name="MacUser - Vol 10 No 10 (1994-10)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 10 (1994-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 10 (1994-10)(Ziff-Davis Publishing)(US).pdf" size="53569881" crc="7636e4c1" md5="30719cc41eef825f0654b40d7fef2896" sha1="1c0dcc0f48cd0abbc5397da350cb62f55992046a"/>
+	</game>
+	<game name="MacUser - Vol 10 No 11 (1994-11)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 11 (1994-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 11 (1994-11)(Ziff-Davis Publishing)(US).pdf" size="56746628" crc="43cc51d7" md5="4db2209e8e26e5afef3f45df838d48d3" sha1="870de1b6687d21ab229026e0d88b2eb5d26ccef1"/>
+	</game>
+	<game name="MacUser - Vol 10 No 12 (1994-12)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 10 No 12 (1994-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 10 No 12 (1994-12)(Ziff-Davis Publishing)(US).pdf" size="56901618" crc="d6d34012" md5="c26be272a843babcf2468cdfb2cacf0b" sha1="e1beaff2db203bb36e3ddd5a40e82f96dc13d1a5"/>
+	</game>
+	<game name="MacUser - Vol 11 No 01 (1995-01)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 01 (1995-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 01 (1995-01)(Ziff-Davis Publishing)(US).pdf" size="12117203" crc="1778ef0d" md5="01cd9c2dd672983984dd45ba6a4ce29f" sha1="35cf3ff6731eee67f6d723930aee01d7c84fcdb0"/>
+	</game>
+	<game name="MacUser - Vol 11 No 02 (1995-02)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 02 (1995-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 02 (1995-02)(Ziff-Davis Publishing)(US).pdf" size="11197937" crc="ee67b401" md5="2bb1d43e6b4dfa997082708251e43027" sha1="ec8d3c789815db653d89835abe00f5c7dad8f531"/>
+	</game>
+	<game name="MacUser - Vol 11 No 03 (1995-03)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 03 (1995-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 03 (1995-03)(Ziff-Davis Publishing)(US).pdf" size="8616413" crc="c628c14d" md5="3195d393814e85f4845e15f6728baa79" sha1="ede668d0c80108627d3276fcf1eb9bea3f74787c"/>
+	</game>
+	<game name="MacUser - Vol 11 No 04 (1995-04)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 04 (1995-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 04 (1995-04)(Ziff-Davis Publishing)(US).pdf" size="11200030" crc="855f9320" md5="1cb519967d49e44f1776907a4a40f3d4" sha1="a17aaee386abdc8967682232be3ce8b63bd4fc70"/>
+	</game>
+	<game name="MacUser - Vol 11 No 05 (1995-05)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 05 (1995-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 05 (1995-05)(Ziff-Davis Publishing)(US).pdf" size="6298009" crc="947f21c7" md5="0952079db1f72381a9e32d113e22907c" sha1="2d4846f85a5497cedc34bbf59da8d48b5981eaf9"/>
+	</game>
+	<game name="MacUser - Vol 11 No 06 (1995-06)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 06 (1995-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 06 (1995-06)(Ziff-Davis Publishing)(US).pdf" size="10702251" crc="194fd998" md5="e20882b410161765222c0057f1b44669" sha1="0cd54030ea54fae79aac79fe79653711adc696e7"/>
+	</game>
+	<game name="MacUser - Vol 11 No 06 (1995-06)(Ziff-Davis Publishing)(US)[a]">
+		<description>MacUser - Vol 11 No 06 (1995-06)(Ziff-Davis Publishing)(US)[a]</description>
+		<rom name="MacUser - Vol 11 No 06 (1995-06)(Ziff-Davis Publishing)(US)[a].pdf" size="3442750" crc="3be75951" md5="e29a1684693f29d2aab10d0cef2d20b1" sha1="a9e52cdc69ea5833b6af78f729803a82a0a5d873"/>
+	</game>
+	<game name="MacUser - Vol 11 No 07 (1995-07)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 07 (1995-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 07 (1995-07)(Ziff-Davis Publishing)(US).pdf" size="11167802" crc="cb001a8b" md5="13e597e7b55c8e29472f97ae4c4ec84b" sha1="d1d3a08320d072f8b9e23e41ca3b8ae7f98e4259"/>
+	</game>
+	<game name="MacUser - Vol 11 No 08 (1995-08)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 08 (1995-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 08 (1995-08)(Ziff-Davis Publishing)(US).pdf" size="10351710" crc="81df0e0c" md5="436afb3d22326ef1d544380e34e24fe9" sha1="d18d61a8edf7ff7494f9de9b89270d575575bee0"/>
+	</game>
+	<game name="MacUser - Vol 11 No 09 (1995-09)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 09 (1995-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 09 (1995-09)(Ziff-Davis Publishing)(US).pdf" size="12064436" crc="15bec7e9" md5="d7ac04e85cbd3721532d8c4c30ac7d50" sha1="a6ac6a36304d3e0ec644cfffbde2964f7f1622ad"/>
+	</game>
+	<game name="MacUser - Vol 11 No 10 (1995-10)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 10 (1995-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 10 (1995-10)(Ziff-Davis Publishing)(US).pdf" size="7081740" crc="a74da4d2" md5="8812d4489a2c19f7aabdbbcb6f252deb" sha1="86e49738eb75db8332ff0fcf0ec3849e9586ba47"/>
+	</game>
+	<game name="MacUser - Vol 11 No 11 (1995-11)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 11 (1995-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 11 (1995-11)(Ziff-Davis Publishing)(US).pdf" size="10880317" crc="1e4c325f" md5="2c16aba643b71748028964682518c42f" sha1="9c5cfc1c5d4140702d1bf01b745fe2f0fb018173"/>
+	</game>
+	<game name="MacUser - Vol 11 No 12 (1995-12)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 11 No 12 (1995-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 11 No 12 (1995-12)(Ziff-Davis Publishing)(US).pdf" size="11447029" crc="fb3c50c6" md5="916b813fc45108879ec5f5696c8509d0" sha1="7347810b6c4257f6cc8451ebf34910bbc2621e56"/>
+	</game>
+	<game name="MacUser - Vol 12 No 01 (1996-01)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 01 (1996-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 01 (1996-01)(Ziff-Davis Publishing)(US).pdf" size="59548301" crc="a10ea5c9" md5="f8302e3850a82e6c67b4cfcb80a134ef" sha1="960f76f1cfd0774b62aeba1a7408d5cd54fe72d2"/>
+	</game>
+	<game name="MacUser - Vol 12 No 02 (1996-02)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 02 (1996-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 02 (1996-02)(Ziff-Davis Publishing)(US).pdf" size="56377130" crc="73876b22" md5="111f19cb6f0a079546e37b2615efa1ff" sha1="62fe8c46eae3efb7f9bf1dedcb4977657913377b"/>
+	</game>
+	<game name="MacUser - Vol 12 No 03 (1996-03)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 03 (1996-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 03 (1996-03)(Ziff-Davis Publishing)(US).pdf" size="60799234" crc="a19f4019" md5="4b2a3e5b68a3cb4cef6b14d821a66cfa" sha1="d5027e8423afde95db88281ce687676dc362e8ad"/>
+	</game>
+	<game name="MacUser - Vol 12 No 04 (1996-04)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 04 (1996-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 04 (1996-04)(Ziff-Davis Publishing)(US).pdf" size="48104181" crc="2027ac57" md5="d2a1693d0f7763b59f4bcc07cc87987f" sha1="fc1300a7268f10fab8a0518a35338c9438db856f"/>
+	</game>
+	<game name="MacUser - Vol 12 No 05 (1996-05)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 05 (1996-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 05 (1996-05)(Ziff-Davis Publishing)(US).pdf" size="56130839" crc="c1bae714" md5="e88a0dcb0f60c820889b24ea12051588" sha1="3ba9e43b4bb4e00baa9c7c052e08d68c15909c46"/>
+	</game>
+	<game name="MacUser - Vol 12 No 06 (1996-06)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 06 (1996-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 06 (1996-06)(Ziff-Davis Publishing)(US).pdf" size="57510546" crc="8fb43e30" md5="ca4d257f37cf84d5008721fe2dd831ee" sha1="a0824d5eea968481fffcf01f476677c7b4b3129c"/>
+	</game>
+	<game name="MacUser - Vol 12 No 07 (1996-07)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 07 (1996-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 07 (1996-07)(Ziff-Davis Publishing)(US).pdf" size="53878390" crc="ee7ffaec" md5="4e52a5fc0abd92039a54186fc2166b47" sha1="517e862e52e53b462589aac67cf3190c42286261"/>
+	</game>
+	<game name="MacUser - Vol 12 No 08 (1996-08)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 08 (1996-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 08 (1996-08)(Ziff-Davis Publishing)(US).pdf" size="56511996" crc="97adc942" md5="baba447064362a2e116479df210683bd" sha1="666f80189ef91d86bb25474b56e0a83188e9cf4b"/>
+	</game>
+	<game name="MacUser - Vol 12 No 09 (1996-09)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 09 (1996-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 09 (1996-09)(Ziff-Davis Publishing)(US).pdf" size="45136459" crc="7fd761cb" md5="4daf843391acb9e3067488c10216a396" sha1="becec6c9afa61787e503219fe368801bee2e0641"/>
+	</game>
+	<game name="MacUser - Vol 12 No 10 (1996-10)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 10 (1996-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 10 (1996-10)(Ziff-Davis Publishing)(US).pdf" size="52256134" crc="d1cd646e" md5="840aa99d763061df28d316c46478dc79" sha1="8535a169923ad82124dc58761d50481e13b88a5a"/>
+	</game>
+	<game name="MacUser - Vol 12 No 11 (1996-11)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 11 (1996-11)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 11 (1996-11)(Ziff-Davis Publishing)(US).pdf" size="86431006" crc="2adb1225" md5="f40918bfd5d8a04940d835e65478726d" sha1="189b672f384f0d52a99f62a8fe5c49897867ebf0"/>
+	</game>
+	<game name="MacUser - Vol 12 No 12 (1996-12)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 12 No 12 (1996-12)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 12 No 12 (1996-12)(Ziff-Davis Publishing)(US).pdf" size="55393159" crc="deb0297a" md5="bcfd83336fcc50f579625a8ed8380d7c" sha1="c3179f5a7fb8ee9f5dca70052f9886a10632745c"/>
+	</game>
+	<game name="MacUser - Vol 13 No 01 (1997-01)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 13 No 01 (1997-01)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 13 No 01 (1997-01)(Ziff-Davis Publishing)(US).pdf" size="57725924" crc="bad84ea7" md5="dfc5fcc138df0432284d8908485e6c93" sha1="a730bc2679700612da8a494c63eb8318bae6734b"/>
+	</game>
+	<game name="MacUser - Vol 13 No 02 (1997-02)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 13 No 02 (1997-02)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 13 No 02 (1997-02)(Ziff-Davis Publishing)(US).pdf" size="55873703" crc="1f25a99c" md5="1a07a4ee1d019c3817431731668491d7" sha1="055235515be20019c722598dbedcda0cf371c738"/>
+	</game>
+	<game name="MacUser - Vol 13 No 03 (1997-03)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 13 No 03 (1997-03)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 13 No 03 (1997-03)(Ziff-Davis Publishing)(US).pdf" size="51093635" crc="cd05b6fb" md5="1d4298682330ee062fe4cf08473582fd" sha1="e057925da38178c499b44d21bcb3c2dcab51a091"/>
+	</game>
+	<game name="MacUser - Vol 13 No 04 (1997-04)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 13 No 04 (1997-04)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 13 No 04 (1997-04)(Ziff-Davis Publishing)(US).pdf" size="39738389" crc="c4b455c5" md5="74b871b76f1225975b5f5f8b53a1a1cb" sha1="ba97f64d905b48fb863effe0ace1fee91a4f2fcb"/>
+	</game>
+	<game name="MacUser - Vol 13 No 05 (1997-05)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 13 No 05 (1997-05)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 13 No 05 (1997-05)(Ziff-Davis Publishing)(US).pdf" size="43630306" crc="5bf4670a" md5="7d97770f8eec696b96dac16ff1b236db" sha1="4107fe292d6fd0a8c4464e7eac8108eda523b7d1"/>
+	</game>
+	<game name="MacUser - Vol 13 No 06 (1997-06)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 13 No 06 (1997-06)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 13 No 06 (1997-06)(Ziff-Davis Publishing)(US).pdf" size="38634569" crc="d9941ab0" md5="1a3949427e25f3bdbfcffc3ff24b08e2" sha1="bf18bb687655cb3dc4ede24fb3f519960ca108b0"/>
+	</game>
+	<game name="MacUser - Vol 13 No 07 (1997-07)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 13 No 07 (1997-07)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 13 No 07 (1997-07)(Ziff-Davis Publishing)(US).pdf" size="44287968" crc="847c5c8c" md5="12e44c3603174d09cb67623fdcab7191" sha1="76c279c91e70402f1e774d4294e515f2721dc206"/>
+	</game>
+	<game name="MacUser - Vol 13 No 08 (1997-08)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 13 No 08 (1997-08)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 13 No 08 (1997-08)(Ziff-Davis Publishing)(US).pdf" size="43192615" crc="8933cda0" md5="713dd475345b333e000b72bf239765b3" sha1="3198a637c2e9a2e347ca53c3cf5bda04e265a6dd"/>
+	</game>
+	<game name="MacUser - Vol 13 No 09 (1997-09)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 13 No 09 (1997-09)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 13 No 09 (1997-09)(Ziff-Davis Publishing)(US).pdf" size="37238424" crc="2c42249e" md5="4fc1f98ff050faf9ee85bf26d931ebb8" sha1="487a5a2d2e539437aaf76a3668a2a87e769293af"/>
+	</game>
+	<game name="MacUser - Vol 13 No 10 (1997-10)(Ziff-Davis Publishing)(US)">
+		<description>MacUser - Vol 13 No 10 (1997-10)(Ziff-Davis Publishing)(US)</description>
+		<rom name="MacUser - Vol 13 No 10 (1997-10)(Ziff-Davis Publishing)(US).pdf" size="41848704" crc="216d28cc" md5="c8e0371ca3b74e3b13e014b924927513" sha1="9d7f44bc0c94190da3a6d9fd0eac2be52b2c3625"/>
+	</game>
+</datafile>

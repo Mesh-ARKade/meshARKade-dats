@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Game Players (US)</name>
+		<description>Multi-format - Magazines - Game Players (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Players - Vol 02 No 02 (1990-02)(Signal Research Publications)(US)">
+		<description>Game Players - Vol 02 No 02 (1990-02)(Signal Research Publications)(US)</description>
+		<rom name="Game Players - Vol 02 No 02 (1990-02)(Signal Research Publications)(US).pdf" size="172194021" crc="12e0d056" md5="ad85552ce18309e1762427516255874d" sha1="34c2f831d32f492676422e00a85c9f5d955ed11b"/>
+	</game>
+	<game name="Game Players - Vol 02 No 08 (1990-08)(Signal Research Publications)(US)">
+		<description>Game Players - Vol 02 No 08 (1990-08)(Signal Research Publications)(US)</description>
+		<rom name="Game Players - Vol 02 No 08 (1990-08)(Signal Research Publications)(US).pdf" size="123544683" crc="50f74723" md5="b61b10f66e72ec6cc2e729bad8ff8e04" sha1="8d1459597295506302264c812ec5729c0375c268"/>
+	</game>
+	<game name="Game Players - Vol 03 No 01 (1991-01)(Signal Research Publications)(US)">
+		<description>Game Players - Vol 03 No 01 (1991-01)(Signal Research Publications)(US)</description>
+		<rom name="Game Players - Vol 03 No 01 (1991-01)(Signal Research Publications)(US).pdf" size="138602752" crc="6ead76c2" md5="c051b215f6e803929810326c4ff9f459" sha1="c83685cb9da20366284de5eb41e124079fe131fd"/>
+	</game>
+	<game name="Game Players - Vol 03 No 02 (1991-02)(Signal Research Publications)(US)">
+		<description>Game Players - Vol 03 No 02 (1991-02)(Signal Research Publications)(US)</description>
+		<rom name="Game Players - Vol 03 No 02 (1991-02)(Signal Research Publications)(US).pdf" size="144042013" crc="9ead1d0c" md5="96503d367173d995d0fd17d0ed155938" sha1="8cc5d7f7fbf7bc92635778f49ff6543bea019096"/>
+	</game>
+	<game name="Game Players - Vol 03 No 03 (1991-03)(Signal Research Publications)(US)">
+		<description>Game Players - Vol 03 No 03 (1991-03)(Signal Research Publications)(US)</description>
+		<rom name="Game Players - Vol 03 No 03 (1991-03)(Signal Research Publications)(US).pdf" size="144847705" crc="dec825fc" md5="36d76d0eb172896b14ce8a3e854af4a0" sha1="022375acf00747302a82784a6afd6aa396095e30"/>
+	</game>
+	<game name="Game Players - Vol 03 No 06 (1991-06)(Signal Research Publications)(US)">
+		<description>Game Players - Vol 03 No 06 (1991-06)(Signal Research Publications)(US)</description>
+		<rom name="Game Players - Vol 03 No 06 (1991-06)(Signal Research Publications)(US).pdf" size="136390737" crc="ca0e7c24" md5="a7f177f0055dec85d728a4911acc598c" sha1="625e330946d0465f0aa194e006cff31be7e2d39b"/>
+	</game>
+	<game name="Game Players Buyers Guide to Game Boy Games - Volume 02 (1990)(Signal Research Publications)(US)">
+		<description>Game Players Buyers Guide to Game Boy Games - Volume 02 (1990)(Signal Research Publications)(US)</description>
+		<rom name="Game Players Buyers Guide to Game Boy Games - Volume 02 (1990)(Signal Research Publications)(US).pdf" size="393472352" crc="f3473046" md5="24fdfc8ff690fbde610ffde0b0d15cb2" sha1="a59815a45be47dee514fe0f2b3b892ce8a30d5ad"/>
+	</game>
+	<game name="Game Players Buyers Guide to Nintendo Games - Vol 01 No 01 (1989)(Signal Research Publications)(US)">
+		<description>Game Players Buyers Guide to Nintendo Games - Vol 01 No 01 (1989)(Signal Research Publications)(US)</description>
+		<rom name="Game Players Buyers Guide to Nintendo Games - Vol 01 No 01 (1989)(Signal Research Publications)(US).pdf" size="590737207" crc="94b9221f" md5="b437e223ac86084af251d98c4b39b806" sha1="ac736b171939c75282bc4070a2222d563d7bf4f8"/>
+	</game>
+	<game name="Game Players Encyclopedia of Nintendo Games - Volume 3 (1991)(Signal Research Publications)(US)">
+		<description>Game Players Encyclopedia of Nintendo Games - Volume 3 (1991)(Signal Research Publications)(US)</description>
+		<rom name="Game Players Encyclopedia of Nintendo Games - Volume 3 (1991)(Signal Research Publications)(US).pdf" size="360961704" crc="ee2eaeec" md5="2f83c2767dcecb2bfe17b5d5ac285ee9" sha1="5e951d1dc851d1dd32f08be6968402d4319cb114"/>
+	</game>
+	<game name="Game Players Sega Genesis Strategy Guide - Vol 2 No 3 (1991-07)(Signal Research)(US)">
+		<description>Game Players Sega Genesis Strategy Guide - Vol 2 No 3 (1991-07)(Signal Research)(US)</description>
+		<rom name="Game Players Sega Genesis Strategy Guide - Vol 2 No 3 (1991-07)(Signal Research)(US).pdf" size="137230479" crc="4310bb64" md5="ba22febdb9a11995f43cea979120ef09" sha1="8db6398814a748253f2964ffa84ee6bbd5d28c96"/>
+	</game>
+	<game name="Game Players Sega Genesis Strategy Guide - Vol 2 No 4 (1991-09)(Signal Research)(US)">
+		<description>Game Players Sega Genesis Strategy Guide - Vol 2 No 4 (1991-09)(Signal Research)(US)</description>
+		<rom name="Game Players Sega Genesis Strategy Guide - Vol 2 No 4 (1991-09)(Signal Research)(US).pdf" size="138122978" crc="f7c82e53" md5="a965d4fbe4bc5f61357d7098a64f7b5c" sha1="9f830c77d4458d885e0c16fd9767489b99d4f532"/>
+	</game>
+</datafile>

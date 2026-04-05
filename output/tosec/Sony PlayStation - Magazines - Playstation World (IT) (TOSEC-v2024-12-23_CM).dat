@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Playstation World (IT)</name>
+		<description>Sony PlayStation - Magazines - Playstation World (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Playstation World N.01 (1999-06)(Il Faro)(IT)">
+		<description>Playstation World N.01 (1999-06)(Il Faro)(IT)</description>
+		<rom name="Playstation World N.01 (1999-06)(Il Faro)(IT).pdf" size="317681424" crc="d6c25364" md5="054407f62cce495d1d461225d0a8b6ab" sha1="b4df86f37ae4f62beaa508a82a61dd4e7bd0ba6f"/>
+	</game>
+	<game name="Playstation World N.02 (1999-08)(Il Faro)(IT)">
+		<description>Playstation World N.02 (1999-08)(Il Faro)(IT)</description>
+		<rom name="Playstation World N.02 (1999-08)(Il Faro)(IT).pdf" size="248341737" crc="afe09bbd" md5="e7c4c2e5a560b91aea948e72f144159e" sha1="0751eb059eb304d3ab376958158a788bc45bae07"/>
+	</game>
+	<game name="Playstation World N.04 (1999-10)(Il Faro)(IT)">
+		<description>Playstation World N.04 (1999-10)(Il Faro)(IT)</description>
+		<rom name="Playstation World N.04 (1999-10)(Il Faro)(IT).pdf" size="235634756" crc="cd0a789d" md5="bad5fd7b68a6b4cd2e0d70acaf3e82bb" sha1="bb8d90604367decec935aaf243c9b9eb19a046d1"/>
+	</game>
+	<game name="Playstation World N.05 (1999-11)(Il Faro)(IT)">
+		<description>Playstation World N.05 (1999-11)(Il Faro)(IT)</description>
+		<rom name="Playstation World N.05 (1999-11)(Il Faro)(IT).pdf" size="510705776" crc="aa9bdea1" md5="8b75c3de29fc2ae10d258b5284a170a8" sha1="4f8cdcb588ef7f93d99bf11ead0592ef05b6540f"/>
+	</game>
+	<game name="Playstation World N.06 (1999-12)(Il Faro)(IT)">
+		<description>Playstation World N.06 (1999-12)(Il Faro)(IT)</description>
+		<rom name="Playstation World N.06 (1999-12)(Il Faro)(IT).pdf" size="175422880" crc="60491fec" md5="d909d59c26e21d74133be0be44a93de3" sha1="d97005d5fa6fdf71fc6938a179bc7008d603dabf"/>
+	</game>
+	<game name="Playstation World N.08 (2000-02)(Il Faro)(IT)">
+		<description>Playstation World N.08 (2000-02)(Il Faro)(IT)</description>
+		<rom name="Playstation World N.08 (2000-02)(Il Faro)(IT).pdf" size="476746374" crc="683e394c" md5="02eed9ebae95f9978c010bada7c7b05f" sha1="522506cd13016cfe556ad25351d867e07b5b2173"/>
+	</game>
+</datafile>

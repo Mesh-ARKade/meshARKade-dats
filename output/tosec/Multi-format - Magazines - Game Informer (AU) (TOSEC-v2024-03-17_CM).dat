@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Game Informer (AU)</name>
+		<description>Multi-format - Magazines - Game Informer (AU) (TOSEC-v2024-03-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-03-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Informer - Issue 007 (2010-07)(Media Factory)(AU)">
+		<description>Game Informer - Issue 007 (2010-07)(Media Factory)(AU)</description>
+		<rom name="Game Informer - Issue 007 (2010-07)(Media Factory)(AU).pdf" size="308376897" crc="77b7e35a" md5="827805bd4aa7f8f3c59d637b39f85ca4" sha1="56d7dd169f36e13f71c929d88305e654362b3839"/>
+	</game>
+	<game name="Game Informer - Issue 008 (2010-08)(Media Factory)(AU)">
+		<description>Game Informer - Issue 008 (2010-08)(Media Factory)(AU)</description>
+		<rom name="Game Informer - Issue 008 (2010-08)(Media Factory)(AU).pdf" size="420735397" crc="70f60037" md5="fa3ad3551f633bd0c00bca01a8c34991" sha1="2b51d4a186c79ebaf947d72c3423e6c2a8cefc95"/>
+	</game>
+	<game name="Game Informer - Issue 012 (2010-12)(Media Factory)(AU)">
+		<description>Game Informer - Issue 012 (2010-12)(Media Factory)(AU)</description>
+		<rom name="Game Informer - Issue 012 (2010-12)(Media Factory)(AU).pdf" size="398910800" crc="e6cd0767" md5="0934f3efd90643eb3b590a8ce92d5383" sha1="8fff3e753311ff51032c9d225f3b88b9866965df"/>
+	</game>
+	<game name="Game Informer - Issue 013 (2011-01)(Media Factory)(AU)">
+		<description>Game Informer - Issue 013 (2011-01)(Media Factory)(AU)</description>
+		<rom name="Game Informer - Issue 013 (2011-01)(Media Factory)(AU).pdf" size="388037123" crc="2fff0b42" md5="89bdb062dd1ed9196fddb684b26b25fa" sha1="52ea449aa0696bdc859696b4cf3314b6c5c360aa"/>
+	</game>
+	<game name="Game Informer - Issue 028 (2012-04)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 028 (2012-04)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 028 (2012-04)(Citrus Media)(AU).pdf" size="305243761" crc="7a3764be" md5="48619a94496b9217d9621a00bcab1bf0" sha1="87f04c0d0b94a73456273a487de274e5a77195d1"/>
+	</game>
+	<game name="Game Informer - Issue 030 (2012-06)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 030 (2012-06)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 030 (2012-06)(Citrus Media)(AU).pdf" size="269641174" crc="d79e1d84" md5="116e78aded1fcf565bea98edad988f64" sha1="6341b61bc76b2131f840b6c6ec54ecadf0bd58a0"/>
+	</game>
+	<game name="Game Informer - Issue 046 (2013-10)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 046 (2013-10)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 046 (2013-10)(Citrus Media)(AU).pdf" size="215925382" crc="c46c290c" md5="57390fd95e1f625002c8e820d58f307d" sha1="c8d29ecd83164e44f72562e204bcc0f397d5c274"/>
+	</game>
+	<game name="Game Informer - Issue 054 (2014-06)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 054 (2014-06)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 054 (2014-06)(Citrus Media)(AU).pdf" size="336244190" crc="fa1b77ad" md5="7a3d473493361a9d0a1dee54c34e7e71" sha1="9eba4c8839fa4d0a452bb8452198a779b1677324"/>
+	</game>
+	<game name="Game Informer - Issue 056 (2014-08)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 056 (2014-08)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 056 (2014-08)(Citrus Media)(AU).pdf" size="316116575" crc="64b173f2" md5="a0eabbe860780e916d122ca444423386" sha1="cc940b5bd33590c6456df2c0091b954e1de647c7"/>
+	</game>
+	<game name="Game Informer - Issue 057 (2014-09)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 057 (2014-09)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 057 (2014-09)(Citrus Media)(AU).pdf" size="339662937" crc="744514ed" md5="55f79cb724f3bf54dcddfc06227448cc" sha1="f1b2f90695819a343d00de521c0e9afa31385728"/>
+	</game>
+	<game name="Game Informer - Issue 058 (2014-10)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 058 (2014-10)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 058 (2014-10)(Citrus Media)(AU).pdf" size="331653288" crc="a9b45c9c" md5="7f28163b5e57140c2bdd0ec5bd98f524" sha1="13ff6eae8731d892f41044f7b1e572e71e7efc32"/>
+	</game>
+	<game name="Game Informer - Issue 069 (2015-09)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 069 (2015-09)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 069 (2015-09)(Citrus Media)(AU).pdf" size="328850588" crc="67214f59" md5="1ac822e2fbbafaea3f34decdaaeda3eb" sha1="cb8daf09f371a1df722b5e039c66ed1a48e6915b"/>
+	</game>
+	<game name="Game Informer - Issue 070 (2015-10)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 070 (2015-10)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 070 (2015-10)(Citrus Media)(AU).pdf" size="337538048" crc="fbb1f0c9" md5="130764631368c5fdbf73b1e32e5c2f72" sha1="d96887b782c9cb414fcedafe9ffb90d4eb2b48ca"/>
+	</game>
+	<game name="Game Informer - Issue 071 (2015-11)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 071 (2015-11)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 071 (2015-11)(Citrus Media)(AU).pdf" size="303088990" crc="72424d46" md5="c6d32f95cdc740aa0c7a6dbe3cfaee8c" sha1="8b930ebe99a6b2bd63a89f8cdecb825b5a174959"/>
+	</game>
+	<game name="Game Informer - Issue 072 (2015-12)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 072 (2015-12)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 072 (2015-12)(Citrus Media)(AU).pdf" size="330250092" crc="ef5c163c" md5="c69a0e74d58f5aaecff84fa3c5da7e49" sha1="7c96708a9924f4d5d8b380371cd9e7cf937b05f6"/>
+	</game>
+	<game name="Game Informer - Issue 073 (2016-01)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 073 (2016-01)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 073 (2016-01)(Citrus Media)(AU).pdf" size="285393108" crc="d199e1bc" md5="f5e2d0f200bb839c4d1d02088ec0686a" sha1="770c355614e6ed75cd0b8d0036bf86e7152b8b9c"/>
+	</game>
+	<game name="Game Informer - Issue 074 (2016-02)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 074 (2016-02)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 074 (2016-02)(Citrus Media)(AU).pdf" size="331888553" crc="8d33adb3" md5="48225f3faca4196bb3728602577af36f" sha1="dde324c469ea4a7c8012c0468f70d891ac763f58"/>
+	</game>
+	<game name="Game Informer - Issue 075 (2016-03)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 075 (2016-03)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 075 (2016-03)(Citrus Media)(AU).pdf" size="334638958" crc="29372704" md5="b0347cc13cd212e1b4e6e89615731828" sha1="7eb855cbfc7cf2c85ba185ba751a2b549ae99185"/>
+	</game>
+	<game name="Game Informer - Issue 076 (2016-04)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 076 (2016-04)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 076 (2016-04)(Citrus Media)(AU).pdf" size="409578213" crc="0090f040" md5="9d1a3e3076d5f44fbe347f7adb024598" sha1="fe10bb0eb12dcbeb7f07ed29d7fe7a8d4dceb512"/>
+	</game>
+	<game name="Game Informer - Issue 077 (2016-05)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 077 (2016-05)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 077 (2016-05)(Citrus Media)(AU).pdf" size="392408525" crc="427f873a" md5="f6915bc9b62ac4689a593ee3566dfdec" sha1="72172d7026435fbc712607dda378b04a7b3eb5d4"/>
+	</game>
+	<game name="Game Informer - Issue 078 (2016-06)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 078 (2016-06)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 078 (2016-06)(Citrus Media)(AU).pdf" size="416098709" crc="c4a77da1" md5="b42bb628a847031190a84ca46c4dd909" sha1="8f20ff13c183a457f6ad86b26cde97fb73076401"/>
+	</game>
+	<game name="Game Informer - Issue 079 (2016-07)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 079 (2016-07)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 079 (2016-07)(Citrus Media)(AU).pdf" size="402564649" crc="b840bf0c" md5="c756bbe41681e0cb943edcfbbc300ff4" sha1="ac043fba642e5d5d1bd56f70617cfba0aceb1f92"/>
+	</game>
+	<game name="Game Informer - Issue 080 (2016-08)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 080 (2016-08)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 080 (2016-08)(Citrus Media)(AU).pdf" size="396970703" crc="ca72bcdb" md5="96432b142f7d56d588431018ca204b5c" sha1="30caa06aef617c2ec7921da5e4f4ebda45f46378"/>
+	</game>
+	<game name="Game Informer - Issue 081 (2016-09)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 081 (2016-09)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 081 (2016-09)(Citrus Media)(AU).pdf" size="399791847" crc="a3ff0f13" md5="7882c9d254c86d976b087879378c1203" sha1="1b007d1eacc388cd783f3bd51d83dc19f83ce21f"/>
+	</game>
+	<game name="Game Informer - Issue 082 (2016-10)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 082 (2016-10)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 082 (2016-10)(Citrus Media)(AU).pdf" size="391594976" crc="c752766d" md5="e90cfca03bb96e22c53d98d99cd91548" sha1="d7750538bfb166ab0a0e1675c8db191006bfd3b2"/>
+	</game>
+	<game name="Game Informer - Issue 083 (2016-11)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 083 (2016-11)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 083 (2016-11)(Citrus Media)(AU).pdf" size="326425293" crc="27e7b78e" md5="75a0499dd46966aa4afc3a67c8886361" sha1="c5cf1a6168517ddc88e61acedef3b55a318eda45"/>
+	</game>
+	<game name="Game Informer - Issue 084 (2016-12)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 084 (2016-12)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 084 (2016-12)(Citrus Media)(AU).pdf" size="248270021" crc="a1e215e0" md5="8f7c761df98e5c96410e7d6a089f8d02" sha1="4e6802d12ddf7912390e979f3976dbfa3d76592b"/>
+	</game>
+	<game name="Game Informer - Issue 085 (2017-01)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 085 (2017-01)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 085 (2017-01)(Citrus Media)(AU).pdf" size="294625924" crc="b5f81c35" md5="53dc06b17b659b13561d7290b0809d58" sha1="90f34ffc2905646afaeb606724717477b50b4af4"/>
+	</game>
+	<game name="Game Informer - Issue 086 (2017-02)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 086 (2017-02)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 086 (2017-02)(Citrus Media)(AU).pdf" size="296520596" crc="7b8200c5" md5="2d69f0091822afebf9a40c0f6298ee1e" sha1="329943e506a89b60e09a24f1ed707eba0021ab34"/>
+	</game>
+	<game name="Game Informer - Issue 087 (2017-03)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 087 (2017-03)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 087 (2017-03)(Citrus Media)(AU).pdf" size="259895842" crc="a509e781" md5="d8e2350cc6894d66bff6244a395e0b1a" sha1="a9e7f78189173b7e444d2dc8be3f4c2350b1ae18"/>
+	</game>
+	<game name="Game Informer - Issue 088 (2017-04)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 088 (2017-04)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 088 (2017-04)(Citrus Media)(AU).pdf" size="258200244" crc="90fca603" md5="1c2a974e04a51813280f9b901afc9a49" sha1="a8b933309d97afb84ac698b0989ce696a77f400a"/>
+	</game>
+	<game name="Game Informer - Issue 089 (2017-05)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 089 (2017-05)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 089 (2017-05)(Citrus Media)(AU).pdf" size="256737946" crc="692d1999" md5="a13edb5dad4b483fbf59e1116f125597" sha1="2e33e8c48ecedf9ac666e2fd312e009afc97971d"/>
+	</game>
+	<game name="Game Informer - Issue 090 (2017-06)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 090 (2017-06)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 090 (2017-06)(Citrus Media)(AU).pdf" size="301401013" crc="61dd98c0" md5="a78c6a1a771d0db4dd5d8e4e0b4685b6" sha1="860cd73dbeac4f2e354890fd7db8b6dab1924212"/>
+	</game>
+	<game name="Game Informer - Issue 091 (2017-07)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 091 (2017-07)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 091 (2017-07)(Citrus Media)(AU).pdf" size="324973669" crc="92937bff" md5="206cce584d94e80e7971b599b26ca4f3" sha1="0aa4dba14d9eb1a755e1e9975f54b117be5fe77b"/>
+	</game>
+	<game name="Game Informer - Issue 092 (2017-08)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 092 (2017-08)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 092 (2017-08)(Citrus Media)(AU).pdf" size="316059025" crc="d99446a6" md5="13506ff2ce449a1ce6dd8ee8f2c20ed1" sha1="a3a8e7db35716e4fd2acddba40776b3c380427fc"/>
+	</game>
+	<game name="Game Informer - Issue 093 (2017-09)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 093 (2017-09)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 093 (2017-09)(Citrus Media)(AU).pdf" size="321029093" crc="02f13565" md5="33d4a76dba11c6e568e8953818460f84" sha1="256c3e7ef34bdc8a1f0b360077c97f3d9451b1b0"/>
+	</game>
+	<game name="Game Informer - Issue 094 (2017-10)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 094 (2017-10)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 094 (2017-10)(Citrus Media)(AU).pdf" size="274897032" crc="c1eb3a23" md5="60b2bd582d62587a7e7621b5d35fbde1" sha1="e9f82b1b3c87be1d4896b8c7702bd972153f6d6c"/>
+	</game>
+	<game name="Game Informer - Issue 095 (2017-11)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 095 (2017-11)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 095 (2017-11)(Citrus Media)(AU).pdf" size="259943626" crc="8f56aef2" md5="d7e2823faa8fac1b452f51665f5cca0c" sha1="4850f9f42551bcf6ce142d84fbcc35d49527fc4f"/>
+	</game>
+	<game name="Game Informer - Issue 096 (2017-12)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 096 (2017-12)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 096 (2017-12)(Citrus Media)(AU).pdf" size="297378385" crc="91d9e0be" md5="084412a91fe79b53bb3f2902d29330eb" sha1="44f9c4d32d2c744f70dd9712b062e8f6288e17c0"/>
+	</game>
+	<game name="Game Informer - Issue 097 (2018-01)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 097 (2018-01)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 097 (2018-01)(Citrus Media)(AU).pdf" size="299196918" crc="83feb9c7" md5="e4bc1e542468f0bb614a070f5812634a" sha1="c7db717e17bf739a995824d3a73173c5ab9756a9"/>
+	</game>
+	<game name="Game Informer - Issue 098 (2018-02)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 098 (2018-02)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 098 (2018-02)(Citrus Media)(AU).pdf" size="320317235" crc="739a1bc8" md5="e4d71d8577d84e72c8f729ffb8a3743b" sha1="3c7865420350b2d625dc01fecbbe057094347c99"/>
+	</game>
+	<game name="Game Informer - Issue 099 (2018-03)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 099 (2018-03)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 099 (2018-03)(Citrus Media)(AU).pdf" size="309579278" crc="4120f397" md5="2b8b7b846a9f52b0f13769c511d0d948" sha1="15454d2663de7525ca20beccc5026185c90def60"/>
+	</game>
+	<game name="Game Informer - Issue 100 (2018-04)(Citrus Media)(AU)">
+		<description>Game Informer - Issue 100 (2018-04)(Citrus Media)(AU)</description>
+		<rom name="Game Informer - Issue 100 (2018-04)(Citrus Media)(AU).pdf" size="301623274" crc="2db495e0" md5="a74e29716a7a89c5e07ebba3938c28d9" sha1="0b647e56a15314fdfde43f887be43f08a8cf45bc"/>
+	</game>
+</datafile>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Magazines - Official Dreamcast Magazine (US)</name>
+		<description>Sega Dreamcast - Magazines - Official Dreamcast Magazine (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Official Dreamcast Magazine, The - Issue 00 (1999-06)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 00 (1999-06)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 00 (1999-06)(Imagine Publishing)(US).pdf" size="46477850" crc="d5c8853a" md5="733523d466d6cc1b9e98d51b67584cd4" sha1="05fe3587374e878b2258f7d81539f70e84fcf4bb"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 01 (1999-09)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 01 (1999-09)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 01 (1999-09)(Imagine Publishing)(US).pdf" size="118266287" crc="c3be9431" md5="a548444d1bb174c4a480b227524bade9" sha1="13a39dad6adb126be040d957e6984fb2c4c5996b"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 01 (1999-09)(Imagine Publishing)(US)[a]">
+		<description>Official Dreamcast Magazine, The - Issue 01 (1999-09)(Imagine Publishing)(US)[a]</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 01 (1999-09)(Imagine Publishing)(US)[a].pdf" size="264851369" crc="b6b4c188" md5="3b4a035d76778566703102329c5be42b" sha1="a11e3d2e57f42add20f58bddef897138e2879614"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 02 (1999-11)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 02 (1999-11)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 02 (1999-11)(Imagine Publishing)(US).pdf" size="263911277" crc="634fd2fd" md5="f9b462ecfe15f57eaf9639ae3ac7165e" sha1="19bce5535368bb1f53add4bfc0a1f0e8bb186fc0"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 03 (2000-01)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 03 (2000-01)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 03 (2000-01)(Imagine Publishing)(US).pdf" size="307919010" crc="d848ef4c" md5="2c15a6cf35b739ee596adca2ff081bf3" sha1="bc790580d81cbb224cca7e84f7ce1d54458d9cc0"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 04 (2000-03)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 04 (2000-03)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 04 (2000-03)(Imagine Publishing)(US).pdf" size="267679796" crc="a38cdcb8" md5="e0d737475ec42f05c8fff4b72465738b" sha1="290777dfd38d08984da78c885b43ddd75e576ac6"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 05 (2000-06)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 05 (2000-06)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 05 (2000-06)(Imagine Publishing)(US).pdf" size="283912263" crc="45332ec2" md5="2ff347028bfb23cefeab5d03ea174e1b" sha1="9139a022da747bdedc48d5ddc6f3a1dc57586d31"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 06 (2000-08)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 06 (2000-08)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 06 (2000-08)(Imagine Publishing)(US).pdf" size="301172007" crc="ee47b030" md5="02519bdf70be06a047207079ba7af089" sha1="faa5dab08a2a0ce0b0c3014494cf1ef795b6e1d6"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 07 (2000-10)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 07 (2000-10)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 07 (2000-10)(Imagine Publishing)(US).pdf" size="321921313" crc="acfb2dfd" md5="12e694f717620b53c3aa78013b92d02c" sha1="aa67077f01d1d0784ba6d840097cb0329ac883fb"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 08 (2000-11)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 08 (2000-11)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 08 (2000-11)(Imagine Publishing)(US).pdf" size="336764127" crc="3458deee" md5="d9b73873f0d32f3de60707caeec4041f" sha1="1d30dbf453866750714bc0720c53e890511770bb"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 09 (2000-12)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 09 (2000-12)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 09 (2000-12)(Imagine Publishing)(US).pdf" size="310322739" crc="adf43286" md5="c39dcc3b7dd7dd660c4b02ee5526faee" sha1="6ad7d9e218b56508e61014d6cc0fd4cc09bc86d8"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 10 (2000)(Imagine Publishing)(US)[holiday edition]">
+		<description>Official Dreamcast Magazine, The - Issue 10 (2000)(Imagine Publishing)(US)[holiday edition]</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 10 (2000)(Imagine Publishing)(US)[holiday edition].pdf" size="299571302" crc="b021bc4e" md5="06faae173be3f567d68068a7810ccf71" sha1="85c3de8e01859052bc54751445390c8e05500593"/>
+	</game>
+	<game name="Official Dreamcast Magazine, The - Issue 12 (2001-03)(Imagine Publishing)(US)">
+		<description>Official Dreamcast Magazine, The - Issue 12 (2001-03)(Imagine Publishing)(US)</description>
+		<rom name="Official Dreamcast Magazine, The - Issue 12 (2001-03)(Imagine Publishing)(US).pdf" size="81012363" crc="02048d51" md5="93100b187f4f2e790f066403b558d68d" sha1="1cd25a471d462865eb7ac065438d5547b77bcf5a"/>
+	</game>
+</datafile>

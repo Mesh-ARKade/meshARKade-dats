@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - PC World (US)</name>
+		<description>IBM PC Compatibles - Magazines - PC World (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC World (1984-04)(PC World Communications)(US)[special edition]">
+		<description>PC World (1984-04)(PC World Communications)(US)[special edition]</description>
+		<rom name="PC World (1984-04)(PC World Communications)(US)[special edition].pdf" size="199098028" crc="65268b35" md5="12a23a210bba7d3ff6fd648e47a5cb57" sha1="9ac7ac8745e4205d37eac1e0db9ba6678969e0b6"/>
+	</game>
+	<game name="PC World (1984-11)(PC World Communications)(US)[special edition]">
+		<description>PC World (1984-11)(PC World Communications)(US)[special edition]</description>
+		<rom name="PC World (1984-11)(PC World Communications)(US)[special edition].pdf" size="118166477" crc="263885c5" md5="d0fbb553e24c7268dee6c73252920606" sha1="8eb4c4e61da550516f3032ba5f87695d6b9a41f8"/>
+	</game>
+	<game name="PC World (1985-05)(PC World Communications)(US)[special edition]">
+		<description>PC World (1985-05)(PC World Communications)(US)[special edition]</description>
+		<rom name="PC World (1985-05)(PC World Communications)(US)[special edition].pdf" size="156351886" crc="24f6f70a" md5="936fa7d808571442cd38f814c6268800" sha1="52e29096504541ccc6febd962666e515b5c89e86"/>
+	</game>
+	<game name="PC World - Volume 01 Number 01 (1983-03)(PC World Communications)(US)">
+		<description>PC World - Volume 01 Number 01 (1983-03)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 01 Number 01 (1983-03)(PC World Communications)(US).pdf" size="142534686" crc="65884898" md5="4010aa9fa2ac0503367327333271bc34" sha1="5f0d93551d5794844154e7e1c78ae0ad747da540"/>
+	</game>
+	<game name="PC World - Volume 01 Number 02 (1983-04)(PC World Communications)(US)">
+		<description>PC World - Volume 01 Number 02 (1983-04)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 01 Number 02 (1983-04)(PC World Communications)(US).pdf" size="43421082" crc="4283f1b5" md5="fd2b6c696a2d5db76974db9331d117bf" sha1="e55522cff0684b39223a37af072e4ead8dd5c822"/>
+	</game>
+	<game name="PC World - Volume 01 Number 03 (1983-05)(PC World Communications)(US)">
+		<description>PC World - Volume 01 Number 03 (1983-05)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 01 Number 03 (1983-05)(PC World Communications)(US).pdf" size="49250453" crc="f32fa5c8" md5="9da4a34729ec44c8fd566a6aedd1518f" sha1="09ef8dcac5293991c610c31278fb2af568358398"/>
+	</game>
+	<game name="PC World - Volume 01 Number 04 (1983-06)(PC World Communications)(US)">
+		<description>PC World - Volume 01 Number 04 (1983-06)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 01 Number 04 (1983-06)(PC World Communications)(US).pdf" size="142638336" crc="6d4f62b3" md5="9ee9a7d11ced67d4a960f554c35bd096" sha1="764f891a0230d1df1651ac29a007a97f540d3ea6"/>
+	</game>
+	<game name="PC World - Volume 01 Number 05 (1983-07)(PC World Communications)(US)">
+		<description>PC World - Volume 01 Number 05 (1983-07)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 01 Number 05 (1983-07)(PC World Communications)(US).pdf" size="150849368" crc="f9a368b7" md5="a040489f67c6c748464b02b7784d666c" sha1="e72bfca5c96dc0af464801812374b41a378efee4"/>
+	</game>
+	<game name="PC World - Volume 01 Number 06 (1983-09)(PC World Communications)(US)">
+		<description>PC World - Volume 01 Number 06 (1983-09)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 01 Number 06 (1983-09)(PC World Communications)(US).pdf" size="164570917" crc="ec30a394" md5="32378d9f19ce12dde67dbbac7699bd9b" sha1="c3d0ea5b20ef817b1fc6c91c4bb097322c456bca"/>
+	</game>
+	<game name="PC World - Volume 01 Number 07 (1983-10)(PC World Communications)(US)">
+		<description>PC World - Volume 01 Number 07 (1983-10)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 01 Number 07 (1983-10)(PC World Communications)(US).pdf" size="140052530" crc="c1528c8e" md5="73fc7c697fa637a2ba5f85dbeeee91a5" sha1="b5461e4c81ee83ed049d0fa2c0547ef05f1d78d7"/>
+	</game>
+	<game name="PC World - Volume 01 Number 08 (1983-11)(PC World Communications)(US)">
+		<description>PC World - Volume 01 Number 08 (1983-11)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 01 Number 08 (1983-11)(PC World Communications)(US).pdf" size="145561188" crc="3e83ac03" md5="49a9387c31a66ad8c64eb2802a10b7db" sha1="be95c04e228908812e144af88354ad83c035f20a"/>
+	</game>
+	<game name="PC World - Volume 01 Number 09 (1983-12)(PC World Communications)(US)">
+		<description>PC World - Volume 01 Number 09 (1983-12)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 01 Number 09 (1983-12)(PC World Communications)(US).pdf" size="152059808" crc="2499c758" md5="b1e84017f350552f9dd7be762c5c2d00" sha1="7ec847331ab1f997657aa8e0dc526428e6d94bc6"/>
+	</game>
+	<game name="PC World - Volume 02 Number 01 (1984-01)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 01 (1984-01)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 01 (1984-01)(PC World Communications)(US).pdf" size="129369111" crc="1c8d6f9e" md5="0680b59ef3c77c50b6b6ab8e3937ad99" sha1="dbb6093e874f37a1451901e719a9aa5853ef7a36"/>
+	</game>
+	<game name="PC World - Volume 02 Number 02 (1984-02)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 02 (1984-02)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 02 (1984-02)(PC World Communications)(US).pdf" size="145007920" crc="3ed796d6" md5="ec596ad3da71c9aa4c1a4849153b860f" sha1="9f4a5f547c8346d433ef1d01eadea2db39b3b541"/>
+	</game>
+	<game name="PC World - Volume 02 Number 03 (1984-03)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 03 (1984-03)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 03 (1984-03)(PC World Communications)(US).pdf" size="132139963" crc="e1bb5996" md5="cf267dec9f9af99c4ed163e58d818609" sha1="9a9aaeda3dd5a3d4d32bb46f23a0d96140f49809"/>
+	</game>
+	<game name="PC World - Volume 02 Number 04 (1984-04)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 04 (1984-04)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 04 (1984-04)(PC World Communications)(US).pdf" size="121104715" crc="08c78c54" md5="56dde9b7a6f7acf2ded99f0c8fb56223" sha1="7a8af113e593f3501e0b2ac211c7f64bf2a9c6f4"/>
+	</game>
+	<game name="PC World - Volume 02 Number 05 (1984-05)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 05 (1984-05)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 05 (1984-05)(PC World Communications)(US).pdf" size="133809574" crc="12eeb321" md5="87ab17742011f9b80a7e7ac31c46b57b" sha1="bd478975989ddcf701d82000e389c1e76c3aea85"/>
+	</game>
+	<game name="PC World - Volume 02 Number 06 (1984-06)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 06 (1984-06)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 06 (1984-06)(PC World Communications)(US).pdf" size="161942978" crc="6da68888" md5="d47fa6d82f205ee02c1e9be51a544e1d" sha1="5d9cdfc49ed71b252e73ba2ca8269fe2f83b290e"/>
+	</game>
+	<game name="PC World - Volume 02 Number 07 (1984-07)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 07 (1984-07)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 07 (1984-07)(PC World Communications)(US).pdf" size="130288159" crc="7fbca999" md5="e30eff529fc7b2712bfda5c67b028022" sha1="ed4a224580ec160f5df48ab6cf1790bca419f844"/>
+	</game>
+	<game name="PC World - Volume 02 Number 08 (1984-08)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 08 (1984-08)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 08 (1984-08)(PC World Communications)(US).pdf" size="124797435" crc="f35c7abb" md5="5999b989641492af3e8f020fad291d2a" sha1="f078f55c3bff1d67abbcd2ce5fc3e9216e22d67a"/>
+	</game>
+	<game name="PC World - Volume 02 Number 09 (1984-09)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 09 (1984-09)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 09 (1984-09)(PC World Communications)(US).pdf" size="136855204" crc="5f86759d" md5="6c245147343bd11ffe89d943f770a9c6" sha1="81c85d362e3a099a9a2608abbb345d9621eb9b75"/>
+	</game>
+	<game name="PC World - Volume 02 Number 10 (1984-10)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 10 (1984-10)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 10 (1984-10)(PC World Communications)(US).pdf" size="134152174" crc="e1cbeee0" md5="714bb7e030e8071359d176966c5db210" sha1="26aa2a3140eeeb7ce8d15058bd85f9f62ca09689"/>
+	</game>
+	<game name="PC World - Volume 02 Number 10 (1984-10)(PC World Communications)(US)[a]">
+		<description>PC World - Volume 02 Number 10 (1984-10)(PC World Communications)(US)[a]</description>
+		<rom name="PC World - Volume 02 Number 10 (1984-10)(PC World Communications)(US)[a].pdf" size="345102214" crc="d85f147e" md5="1a97f5d5551795009ef6cc221533ef93" sha1="e34615bc5dfce2386c9a7b18ea33339ee1d8a21d"/>
+	</game>
+	<game name="PC World - Volume 02 Number 11 (1984-11)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 11 (1984-11)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 11 (1984-11)(PC World Communications)(US).pdf" size="129564824" crc="802b9154" md5="1bedcd20af068b9089bf32fe5af1a0c8" sha1="4d8569a3b18f20c9a0b919c65243addfc08bddb5"/>
+	</game>
+	<game name="PC World - Volume 02 Number 12 (1984-12)(PC World Communications)(US)">
+		<description>PC World - Volume 02 Number 12 (1984-12)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 02 Number 12 (1984-12)(PC World Communications)(US).pdf" size="137227465" crc="06aa2b82" md5="777d6269a5c361494a3ad2e07d4caf5e" sha1="c434ebef7de18beef2971ea305637261a77fd501"/>
+	</game>
+	<game name="PC World - Volume 03 Number 01 (1985-01)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 01 (1985-01)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 01 (1985-01)(PC World Communications)(US).pdf" size="116530739" crc="2375e18c" md5="e16afc0bf9e10bb6a7160b0d91eddf6b" sha1="7f285b68f032ba048b805a883c86ef662ebca2df"/>
+	</game>
+	<game name="PC World - Volume 03 Number 02 (1985-02)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 02 (1985-02)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 02 (1985-02)(PC World Communications)(US).pdf" size="100527314" crc="1da86e9a" md5="85f7ba4cc77e3b65ea46f1a60dc0c5ed" sha1="5aa6389bdbc0001ba170931e8b2bd6efce4f4ef4"/>
+	</game>
+	<game name="PC World - Volume 03 Number 03 (1985-03)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 03 (1985-03)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 03 (1985-03)(PC World Communications)(US).pdf" size="104768422" crc="466b250c" md5="e9d2f8aa21cf7c7501b1868dbc87bbdc" sha1="7f27115174ef76e95aef5ac03ebce4dba74dce13"/>
+	</game>
+	<game name="PC World - Volume 03 Number 04 (1985-04)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 04 (1985-04)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 04 (1985-04)(PC World Communications)(US).pdf" size="108142975" crc="1cce0aa5" md5="b5315dd5079adfb823937b758df36e48" sha1="393cd65348690d135dc6d1a46936d4f9ef740a4b"/>
+	</game>
+	<game name="PC World - Volume 03 Number 05 (1985-05)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 05 (1985-05)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 05 (1985-05)(PC World Communications)(US).pdf" size="138322472" crc="d2d002bc" md5="e5614c9055dc8b6c51ca8387494124cc" sha1="8ea43fc8a58009a736ab9717de4639fce1497c44"/>
+	</game>
+	<game name="PC World - Volume 03 Number 06 (1985-06)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 06 (1985-06)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 06 (1985-06)(PC World Communications)(US).pdf" size="118213332" crc="88a5e94c" md5="e98d467419a445ff8a14f4c8b0d40bfa" sha1="1704c2c99ed617148b3d0d8bc6a66b65d89c4d67"/>
+	</game>
+	<game name="PC World - Volume 03 Number 07 (1985-07)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 07 (1985-07)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 07 (1985-07)(PC World Communications)(US).pdf" size="83261474" crc="bdb0e9f3" md5="5fee02c1b12a8e6e69178f6953456e4b" sha1="12a7cbdf7a7a15d2d0fb3e4f6c55052df0877181"/>
+	</game>
+	<game name="PC World - Volume 03 Number 08 (1985-08)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 08 (1985-08)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 08 (1985-08)(PC World Communications)(US).pdf" size="100041449" crc="b7da1374" md5="8ca9c6602b51b42ef8315fda5e308386" sha1="416200894c52500c920115aabbf1636b0fad55fb"/>
+	</game>
+	<game name="PC World - Volume 03 Number 09 (1985-09)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 09 (1985-09)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 09 (1985-09)(PC World Communications)(US).pdf" size="121674296" crc="93004616" md5="9a599e8a2f8951719832838a6d568c49" sha1="3df6c96ef588c1cae555c5a6f3a3e19f65089009"/>
+	</game>
+	<game name="PC World - Volume 03 Number 10 (1985-10)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 10 (1985-10)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 10 (1985-10)(PC World Communications)(US).pdf" size="118702796" crc="d804a833" md5="470b27e4289dffaffdf29aea8fabf2df" sha1="140db4fe384dd9cfd43564e70779602040f00cf5"/>
+	</game>
+	<game name="PC World - Volume 03 Number 11 (1985-11)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 11 (1985-11)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 11 (1985-11)(PC World Communications)(US).pdf" size="137737944" crc="50afa5ea" md5="6c1051bebd4e665b7ebc0dc86552655c" sha1="a1491b43f0e5b5aed4f8a175f2d7b6d19a31ee7e"/>
+	</game>
+	<game name="PC World - Volume 03 Number 12 (1985-12)(PC World Communications)(US)">
+		<description>PC World - Volume 03 Number 12 (1985-12)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 03 Number 12 (1985-12)(PC World Communications)(US).pdf" size="120508532" crc="5db050e2" md5="61b30c7d01404bc67216ebae69d61603" sha1="a2e37efa32e004796ac721a1214192d8684c76e9"/>
+	</game>
+	<game name="PC World - Volume 04 Number 01 (1986-01)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 01 (1986-01)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 01 (1986-01)(PC World Communications)(US).pdf" size="125465356" crc="a67df71a" md5="e2fd15e013a490099c237e65c3cbdd73" sha1="63651cf7d42b8d5486dc796f762b4eba0d079bfc"/>
+	</game>
+	<game name="PC World - Volume 04 Number 02 (1986-02)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 02 (1986-02)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 02 (1986-02)(PC World Communications)(US).pdf" size="117728903" crc="fd9577fc" md5="ec37ec912577bbe73b72503a2cd6f8b1" sha1="aa192ed06b0225e092ad516328ee2744c6961d01"/>
+	</game>
+	<game name="PC World - Volume 04 Number 03 (1986-03)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 03 (1986-03)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 03 (1986-03)(PC World Communications)(US).pdf" size="115831409" crc="91b4b74c" md5="ca093f0a000a1ad6d28fe4e93348527e" sha1="bc79356f077d4e25a31d183021da69997d8c9274"/>
+	</game>
+	<game name="PC World - Volume 04 Number 04 (1986-04)(PC World Communications)(US)PC World - Volume 04 Number 02 (1986-02)(PC World Communicati">
+		<description>PC World - Volume 04 Number 04 (1986-04)(PC World Communications)(US)PC World - Volume 04 Number 02 (1986-02)(PC World Communicati</description>
+		<rom name="PC World - Volume 04 Number 04 (1986-04)(PC World Communications)(US)PC World - Volume 04 Number 02 (1986-02)(PC World Communicati.pdf" size="116768336" crc="709a1f5e" md5="7d13994c5c9dee6cd71d0bf875b2f62c" sha1="8bab5d0c3560948c0e328974191823dd5228eb83"/>
+	</game>
+	<game name="PC World - Volume 04 Number 05 (1986-05)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 05 (1986-05)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 05 (1986-05)(PC World Communications)(US).pdf" size="128722962" crc="8e84a856" md5="bdd42be2e331c24ddf4a0cc05689eeb4" sha1="57fe74a9d20079c067ac6c1dec0016b717cb2298"/>
+	</game>
+	<game name="PC World - Volume 04 Number 06 (1986-06)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 06 (1986-06)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 06 (1986-06)(PC World Communications)(US).pdf" size="125249171" crc="50492292" md5="15565c6ae3d58465b4436f9b455ed456" sha1="98a78672dff24079f9dd8a894232f4ba8b7b2952"/>
+	</game>
+	<game name="PC World - Volume 04 Number 07 (1986-07)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 07 (1986-07)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 07 (1986-07)(PC World Communications)(US).pdf" size="129983942" crc="48b758c7" md5="a714d13879cc40c35d8887a1c6127d99" sha1="0298d0e6d92ac65b3221a85fd51ef6867115eab6"/>
+	</game>
+	<game name="PC World - Volume 04 Number 08 (1986-08)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 08 (1986-08)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 08 (1986-08)(PC World Communications)(US).pdf" size="111317074" crc="e17d6172" md5="eae9e57d710c0767983390fa3b8a628e" sha1="1220789255aa8b180e92b1909a4b83b4806083b7"/>
+	</game>
+	<game name="PC World - Volume 04 Number 09 (1986-09)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 09 (1986-09)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 09 (1986-09)(PC World Communications)(US).pdf" size="118441861" crc="c05c48dc" md5="69b7917bb3ec18b90b98c6fa8c06bdc5" sha1="838e1eed7b1344f5b17df35b7ad87e34b76698e2"/>
+	</game>
+	<game name="PC World - Volume 04 Number 10 (1986-10)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 10 (1986-10)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 10 (1986-10)(PC World Communications)(US).pdf" size="136221508" crc="45ffa233" md5="8f000e67c61602f1211852571d4d50ea" sha1="91f14c9cbb66af2901fea8dffc4dfe93db113687"/>
+	</game>
+	<game name="PC World - Volume 04 Number 11 (1986-11)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 11 (1986-11)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 11 (1986-11)(PC World Communications)(US).pdf" size="145019309" crc="60eeef30" md5="4e76e77ac613c4ed8fa96ba929758ff8" sha1="f8e6a8f403e6d8eca600fb962878cdc42b392243"/>
+	</game>
+	<game name="PC World - Volume 04 Number 12 (1986-12)(PC World Communications)(US)">
+		<description>PC World - Volume 04 Number 12 (1986-12)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 04 Number 12 (1986-12)(PC World Communications)(US).pdf" size="120130754" crc="d95ac78a" md5="bd128050ded409bed2f6787a9286b0bd" sha1="d20c2730a7bf9008b2506a7614202a20aee6ff4d"/>
+	</game>
+	<game name="PC World - Volume 05 Number 01 (1987-01)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 01 (1987-01)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 01 (1987-01)(PC World Communications)(US).pdf" size="131081376" crc="d4d2377b" md5="6319a0b22076c7f96b915d501084c9c9" sha1="2fcc3775f30c0940ac79b61a437c7d075d7a099d"/>
+	</game>
+	<game name="PC World - Volume 05 Number 02 (1987-02)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 02 (1987-02)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 02 (1987-02)(PC World Communications)(US).pdf" size="107442225" crc="143da0aa" md5="76f81fc30b9f37b8f40566be4377cfc1" sha1="1055b4319d0fc25a2a720480613136ce6baa6381"/>
+	</game>
+	<game name="PC World - Volume 05 Number 03 (1987-03)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 03 (1987-03)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 03 (1987-03)(PC World Communications)(US).pdf" size="118975494" crc="3c89084c" md5="daf54747bfbe6090317b0484a7ab833b" sha1="f669a5431e82c16841c0546794acaa6967f4c2c2"/>
+	</game>
+	<game name="PC World - Volume 05 Number 04 (1987-04)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 04 (1987-04)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 04 (1987-04)(PC World Communications)(US).pdf" size="125964602" crc="75c3a21d" md5="ddf94955f07c1b6dabf357f7240173c3" sha1="64fbbdc0c45c9d8879c37f445accae47f179ba5e"/>
+	</game>
+	<game name="PC World - Volume 05 Number 05 (1987-05)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 05 (1987-05)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 05 (1987-05)(PC World Communications)(US).pdf" size="69656744" crc="b862972d" md5="76ea5f5a5830c62e09e7763839d42434" sha1="29564d24ccbab6cdaa5c0e404987e4cfe9129ea9"/>
+	</game>
+	<game name="PC World - Volume 05 Number 06 (1987-06)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 06 (1987-06)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 06 (1987-06)(PC World Communications)(US).pdf" size="45099817" crc="be911930" md5="358cdf8cd299e03aa82ff22b547751f7" sha1="7414288b54e1450eaf195e4084c2f849a57cd59f"/>
+	</game>
+	<game name="PC World - Volume 05 Number 07 (1987-07)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 07 (1987-07)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 07 (1987-07)(PC World Communications)(US).pdf" size="126137324" crc="188f5ff5" md5="8d718a55d24ddb1b5e5b11db670b7051" sha1="fe87a290a0d521fdfed9d46ced8b997cc551a982"/>
+	</game>
+	<game name="PC World - Volume 05 Number 08 (1987-08)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 08 (1987-08)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 08 (1987-08)(PC World Communications)(US).pdf" size="113055081" crc="c6c8527d" md5="5d1cbe9872f10ae3999caa36a5837f4c" sha1="b2c5935b7b71575ea7b208afd47ce1e1f0c1a768"/>
+	</game>
+	<game name="PC World - Volume 05 Number 09 (1987-09)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 09 (1987-09)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 09 (1987-09)(PC World Communications)(US).pdf" size="116375412" crc="fc0fa3a0" md5="6a507f920739b1f543a9aac7cb412549" sha1="19b953ace63dc1ff62445b51212df64231d27e8d"/>
+	</game>
+	<game name="PC World - Volume 05 Number 10 (1987-10)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 10 (1987-10)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 10 (1987-10)(PC World Communications)(US).pdf" size="133687144" crc="7ee3d5d7" md5="82379e42df9b641b858de716b6ca94e5" sha1="e762f249bbf11755125f9a4b5e71e040926f18c1"/>
+	</game>
+	<game name="PC World - Volume 05 Number 11 (1987-11)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 11 (1987-11)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 11 (1987-11)(PC World Communications)(US).pdf" size="82787913" crc="7507ab17" md5="d2309866e84637fbf1a9855429149198" sha1="d5c5fbbe87893d86dab3ac080e8a212dedefcf71"/>
+	</game>
+	<game name="PC World - Volume 05 Number 12 (1987-12)(PC World Communications)(US)">
+		<description>PC World - Volume 05 Number 12 (1987-12)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 05 Number 12 (1987-12)(PC World Communications)(US).pdf" size="111185185" crc="906f63a7" md5="cfcc809770eb805d34a097a2f1433e99" sha1="98f63b50f2cccd49242f18ae42c1b6b5e5f7273a"/>
+	</game>
+	<game name="PC World - Volume 06 Number 01 (1988-01)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 01 (1988-01)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 01 (1988-01)(PC World Communications)(US).pdf" size="111032082" crc="3bf95063" md5="b914fdf52b9b31b07106452c22967e64" sha1="294b471e5de76805ede8693949cbe5d8249e120b"/>
+	</game>
+	<game name="PC World - Volume 06 Number 02 (1988-02)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 02 (1988-02)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 02 (1988-02)(PC World Communications)(US).pdf" size="91960313" crc="d7b65301" md5="3a1fa464a40825e69a876b6bd2713e22" sha1="e1a9e4da518d646107372c8416067b82045e7ffd"/>
+	</game>
+	<game name="PC World - Volume 06 Number 03 (1988-03)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 03 (1988-03)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 03 (1988-03)(PC World Communications)(US).pdf" size="81455790" crc="acbd894d" md5="4a8bf8de427d777dcde4824bc474d708" sha1="5b6019773452a401c931e334314b21742a2caeee"/>
+	</game>
+	<game name="PC World - Volume 06 Number 04 (1988-04)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 04 (1988-04)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 04 (1988-04)(PC World Communications)(US).pdf" size="79868388" crc="92755080" md5="0bc7b47f19801b016a605ed0b85c58d0" sha1="2e4c44bb715f2d68979e0d171a4d28e3f645d00f"/>
+	</game>
+	<game name="PC World - Volume 06 Number 05 (1988-05)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 05 (1988-05)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 05 (1988-05)(PC World Communications)(US).pdf" size="72592988" crc="7173737d" md5="43e3d87541b467b4f0ec7984bf76293a" sha1="fdda058e675a74d5fd99957571eb602f4cd345c7"/>
+	</game>
+	<game name="PC World - Volume 06 Number 06 (1988-06)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 06 (1988-06)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 06 (1988-06)(PC World Communications)(US).pdf" size="96620013" crc="5ee430c9" md5="33fb8ccc77a957db0c8f7c2dcd800d27" sha1="3e5be8717a595bf0785b6779cf6f72a8e32ff4a9"/>
+	</game>
+	<game name="PC World - Volume 06 Number 07 (1988-07)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 07 (1988-07)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 07 (1988-07)(PC World Communications)(US).pdf" size="78035582" crc="70d9b9bb" md5="0931499a3b189946d8bd6182f2dee21e" sha1="d068d0c1372157e1f08e7210757f01152c4ab400"/>
+	</game>
+	<game name="PC World - Volume 06 Number 08 (1988-08)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 08 (1988-08)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 08 (1988-08)(PC World Communications)(US).pdf" size="82924523" crc="5da8b689" md5="d1aebc36eb8097ec0c7da94d8ab8c8b4" sha1="a6d8c5d3ded579aea2dcc31c3f84aeb8d67b5a04"/>
+	</game>
+	<game name="PC World - Volume 06 Number 09 (1988-09)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 09 (1988-09)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 09 (1988-09)(PC World Communications)(US).pdf" size="72663166" crc="8113f598" md5="43c9c61d0316a5df1a6a6b87f4bf582b" sha1="5a4646ba409442c7d11839cc21ac4886adc54690"/>
+	</game>
+	<game name="PC World - Volume 06 Number 10 (1988-10)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 10 (1988-10)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 10 (1988-10)(PC World Communications)(US).pdf" size="86115200" crc="63c22c8f" md5="dbc962bb0f52adfc197b2fefc2b240ca" sha1="4e8885062f147ed0a49579a5a0628c0c9bca1e3c"/>
+	</game>
+	<game name="PC World - Volume 06 Number 11 (1988-11)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 11 (1988-11)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 11 (1988-11)(PC World Communications)(US).pdf" size="98954134" crc="7d39cdeb" md5="248b7f01bec00ddbe4bab9ee6e98c4c9" sha1="d670ba4792facbc22c0bd584fd602b598ba2f64e"/>
+	</game>
+	<game name="PC World - Volume 06 Number 12 (1988-12)(PC World Communications)(US)">
+		<description>PC World - Volume 06 Number 12 (1988-12)(PC World Communications)(US)</description>
+		<rom name="PC World - Volume 06 Number 12 (1988-12)(PC World Communications)(US).pdf" size="85276624" crc="e60732f0" md5="4b558f0cc96bf06910ed5b22b7231a6b" sha1="101163893eeb17bf79a1198ecb82f0e2d69c4afb"/>
+	</game>
+	<game name="PC World - Volume 07 Number 01 (1989-01)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 01 (1989-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 01 (1989-01)(PCW Communications)(US).pdf" size="91229305" crc="c40a2790" md5="7614a2f3713120ef5d4d7f51e20e9f75" sha1="feb4633e10fdcf1ba4e1c3a72d391039442aa8e2"/>
+	</game>
+	<game name="PC World - Volume 07 Number 02 (1989-02)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 02 (1989-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 02 (1989-02)(PCW Communications)(US).pdf" size="83552083" crc="9e6298a3" md5="c38bf8ad4913d097ef4cc4dd2aabafbd" sha1="3aede5044ade750b253be51751829e5957a563d2"/>
+	</game>
+	<game name="PC World - Volume 07 Number 03 (1989-03)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 03 (1989-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 03 (1989-03)(PCW Communications)(US).pdf" size="75324785" crc="69afb03e" md5="ae8df51d387e16c677a2e1c51df3021b" sha1="445876b5870fe4bb37da47da7971fbb15bdbb77f"/>
+	</game>
+	<game name="PC World - Volume 07 Number 04 (1989-04)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 04 (1989-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 04 (1989-04)(PCW Communications)(US).pdf" size="71079413" crc="d727f4ec" md5="f410efb3f92594e473e3d40f0fc55d84" sha1="87980d0989c071de2183e2d2f4b67423c9f5b2aa"/>
+	</game>
+	<game name="PC World - Volume 07 Number 05 (1989-05)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 05 (1989-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 05 (1989-05)(PCW Communications)(US).pdf" size="83806439" crc="a7a5e818" md5="dc9ea1c3866cdab97cd3587322b4343b" sha1="6f5b0da488b08d933d302b9b7c61f453b3acd122"/>
+	</game>
+	<game name="PC World - Volume 07 Number 06 (1989-06)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 06 (1989-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 06 (1989-06)(PCW Communications)(US).pdf" size="43211597" crc="b3b8075d" md5="aaba8cdaac29e4354a68cc70c858d945" sha1="7909186e6a3b6307ef7a8cd53b5c91602a2ac4a4"/>
+	</game>
+	<game name="PC World - Volume 07 Number 07 (1989-07)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 07 (1989-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 07 (1989-07)(PCW Communications)(US).pdf" size="81402820" crc="c9810634" md5="34f401c995eae4930cd0fbf28465673b" sha1="db5cdf81c8a2e15c15c4c13002a0c04fa3b091c7"/>
+	</game>
+	<game name="PC World - Volume 07 Number 08 (1989-08)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 08 (1989-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 08 (1989-08)(PCW Communications)(US).pdf" size="74803296" crc="83e79654" md5="81cd3675b1b54592191d72629c57135b" sha1="27e9eb6d49e19800a2fde8893e8dd8a9d7efd6ec"/>
+	</game>
+	<game name="PC World - Volume 07 Number 09 (1989-09)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 09 (1989-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 09 (1989-09)(PCW Communications)(US).pdf" size="75035695" crc="aa1162ab" md5="034748e0b9894d359042615f028ea561" sha1="36343aba5f51f422d91f2df4fcb76a10aab8a46f"/>
+	</game>
+	<game name="PC World - Volume 07 Number 10 (1989-10)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 10 (1989-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 10 (1989-10)(PCW Communications)(US).pdf" size="50940002" crc="34941eed" md5="fae0347533e11e31bd0d256bc3f557a3" sha1="1f98a75f38831c1efc863dbaf187f1f0126b0a6b"/>
+	</game>
+	<game name="PC World - Volume 07 Number 11 (1989-11)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 11 (1989-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 11 (1989-11)(PCW Communications)(US).pdf" size="50053034" crc="7b72f134" md5="f0141957c6b3e045d8d44f95523bdbce" sha1="1a19e1a82acd1abbaca7d712831cea74605dfd7c"/>
+	</game>
+	<game name="PC World - Volume 07 Number 12 (1989-12)(PCW Communications)(US)">
+		<description>PC World - Volume 07 Number 12 (1989-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 07 Number 12 (1989-12)(PCW Communications)(US).pdf" size="79910331" crc="2b46d594" md5="ca40a6abd1d3fcbb282a1e5fc613baeb" sha1="98e1466ad66b33385f6393f6a03bed93bf6239f3"/>
+	</game>
+	<game name="PC World - Volume 08 Number 01 (1990-01)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 01 (1990-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 01 (1990-01)(PCW Communications)(US).pdf" size="84378025" crc="769c3732" md5="cc4462309dd904fc5e98e6edbf81d9dd" sha1="dd5835737d46e12f1890ab2dccdde6ab13f50c0a"/>
+	</game>
+	<game name="PC World - Volume 08 Number 02 (1990-02)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 02 (1990-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 02 (1990-02)(PCW Communications)(US).pdf" size="43084307" crc="eb25e9ed" md5="8b3490039707c8aa0dbbf6c6aa1e2195" sha1="b35a2055b6a8e4c31705304e88c2765de4fa30fc"/>
+	</game>
+	<game name="PC World - Volume 08 Number 03 (1990-03)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 03 (1990-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 03 (1990-03)(PCW Communications)(US).pdf" size="79642672" crc="8e24ab5d" md5="345c33ea08ee4774072757f5bfb32cca" sha1="6a25ce3155a4187443f9f2663ce273cca2c6bf0e"/>
+	</game>
+	<game name="PC World - Volume 08 Number 04 (1990-04)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 04 (1990-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 04 (1990-04)(PCW Communications)(US).pdf" size="70414711" crc="71063289" md5="8758c6379709fdc60c6d16d4df7724c5" sha1="2c9f1fc79447effe60a0844cabf545e459fa2252"/>
+	</game>
+	<game name="PC World - Volume 08 Number 05 (1990-05)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 05 (1990-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 05 (1990-05)(PCW Communications)(US).pdf" size="62641573" crc="26f00341" md5="94f31e1c211e0c5ae1b43267fe92b12c" sha1="f71d094da43c47150b1c559aa0384ec1e7e6fef6"/>
+	</game>
+	<game name="PC World - Volume 08 Number 06 (1990-06)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 06 (1990-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 06 (1990-06)(PCW Communications)(US).pdf" size="47134765" crc="e0613567" md5="14138a43f593185894667af57733060f" sha1="0a18367dc399d784e9cb0b8b1873b16acb057724"/>
+	</game>
+	<game name="PC World - Volume 08 Number 07 (1990-07)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 07 (1990-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 07 (1990-07)(PCW Communications)(US).pdf" size="64781492" crc="7fadc062" md5="a79922175fd433767eac5c5527dd2200" sha1="c46c7e3d29d66a75919da3e31dbc75ba50c4fed2"/>
+	</game>
+	<game name="PC World - Volume 08 Number 08 (1990-08)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 08 (1990-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 08 (1990-08)(PCW Communications)(US).pdf" size="47389168" crc="ea7048e8" md5="832154d08df1e8aa0b7da676d76e231f" sha1="76510ca18fa8ae4f137521b8434d0db22e1f4d2d"/>
+	</game>
+	<game name="PC World - Volume 08 Number 09 (1990-09)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 09 (1990-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 09 (1990-09)(PCW Communications)(US).pdf" size="59502910" crc="3bf907c7" md5="b7ee62709c4628dc3f0d5c2e85d62a35" sha1="119f909db3de08686cf58764d9db9f6482c102f6"/>
+	</game>
+	<game name="PC World - Volume 08 Number 10 (1990-10)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 10 (1990-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 10 (1990-10)(PCW Communications)(US).pdf" size="65315553" crc="b41faf4b" md5="b8c73df9ba7ef35d9573dcfc9f331944" sha1="4c72b501332b14bc0af1d6f1510c77772515937b"/>
+	</game>
+	<game name="PC World - Volume 08 Number 11 (1990-11)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 11 (1990-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 11 (1990-11)(PCW Communications)(US).pdf" size="75735387" crc="8fd7bf46" md5="9efa1e8d95860315db6d4430700ba00e" sha1="efc0062dcb0912fca45b8dfcfcadc50ce7f6248c"/>
+	</game>
+	<game name="PC World - Volume 08 Number 12 (1990-12)(PCW Communications)(US)">
+		<description>PC World - Volume 08 Number 12 (1990-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 08 Number 12 (1990-12)(PCW Communications)(US).pdf" size="73600300" crc="6c8c25a4" md5="8fcabef611c0190227b5d22becea5bb7" sha1="3745a2b7a9dbd8a122b258cadf8c673688ccff66"/>
+	</game>
+	<game name="PC World - Volume 09 Number 01 (1991-01)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 01 (1991-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 01 (1991-01)(PCW Communications)(US).pdf" size="56143286" crc="91067520" md5="8c499d2fff524869516aab32d1ccf2c1" sha1="390149966773017d1b4e698f97fd0bb70c03bc40"/>
+	</game>
+	<game name="PC World - Volume 09 Number 02 (1991-02)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 02 (1991-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 02 (1991-02)(PCW Communications)(US).pdf" size="72690450" crc="664f2ad6" md5="8f3460a150d91a388ead96ab4b779360" sha1="05ffc1c184c9a83b8dbced436a0c40f7b5d80cbb"/>
+	</game>
+	<game name="PC World - Volume 09 Number 03 (1991-03)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 03 (1991-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 03 (1991-03)(PCW Communications)(US).pdf" size="79710576" crc="a6ab59f0" md5="3d803708919bfc83d29215164ca5a50a" sha1="70b3557de0e123f7a29d3db1f3f3d2e18f23725c"/>
+	</game>
+	<game name="PC World - Volume 09 Number 04 (1991-04)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 04 (1991-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 04 (1991-04)(PCW Communications)(US).pdf" size="58565800" crc="fcf1df6a" md5="85a690cfaf35e5669d7a2a66ea79a5e4" sha1="96e98893cf6a918be216271c6b17ed227b579c3f"/>
+	</game>
+	<game name="PC World - Volume 09 Number 05 (1991-05)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 05 (1991-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 05 (1991-05)(PCW Communications)(US).pdf" size="64522009" crc="d880d811" md5="ab5a61e527a5ff69bf97fcda7e0fef40" sha1="07f477261b5f0e3dd5533db340f8627ddfa2e701"/>
+	</game>
+	<game name="PC World - Volume 09 Number 06 (1991-06)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 06 (1991-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 06 (1991-06)(PCW Communications)(US).pdf" size="73209128" crc="6bb11561" md5="78bd10270a4633821a543d9441a94b86" sha1="a70430e552d51592756dba362ce69d81e61507f9"/>
+	</game>
+	<game name="PC World - Volume 09 Number 07 (1991-07)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 07 (1991-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 07 (1991-07)(PCW Communications)(US).pdf" size="78582091" crc="a4e22325" md5="3ee18fd498fce0fc3f2535288bc3d543" sha1="ad9a42f8e28b378f0ee2b889e3268fe5b3dbd9c9"/>
+	</game>
+	<game name="PC World - Volume 09 Number 08 (1991-08)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 08 (1991-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 08 (1991-08)(PCW Communications)(US).pdf" size="61702890" crc="b0ef6bcd" md5="d22ef854af23757fb09dde981fc116ba" sha1="3e99e5ff909b5b72b1a7f9c06250ddeeb29e5a1a"/>
+	</game>
+	<game name="PC World - Volume 09 Number 09 (1991-09)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 09 (1991-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 09 (1991-09)(PCW Communications)(US).pdf" size="77082446" crc="768eecb8" md5="c5e52d85b8921d387862548052f2e8b5" sha1="7a8152a791b98555fe80073bf931750c0557f117"/>
+	</game>
+	<game name="PC World - Volume 09 Number 10 (1991-10)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 10 (1991-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 10 (1991-10)(PCW Communications)(US).pdf" size="71393190" crc="af69f9e6" md5="322ec9e6a2c3cc8522c97eb46161827d" sha1="e67b53a8509734813c24c314f3b52f2b49b23c94"/>
+	</game>
+	<game name="PC World - Volume 09 Number 11 (1991-11)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 11 (1991-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 11 (1991-11)(PCW Communications)(US).pdf" size="99080445" crc="f070713e" md5="ac3b8b051a6042373bdaaecf771946c1" sha1="9dea8bbd437d6a35624f9165c95aff73b0681768"/>
+	</game>
+	<game name="PC World - Volume 09 Number 12 (1991-12)(PCW Communications)(US)">
+		<description>PC World - Volume 09 Number 12 (1991-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 09 Number 12 (1991-12)(PCW Communications)(US).pdf" size="78083145" crc="2fb422df" md5="ab2f4cd808f20718fdb852b1f9e7b87b" sha1="f2577c2fbfe457e46fcd042c58c4669fe7036dc7"/>
+	</game>
+	<game name="PC World - Volume 10 Number 01 (1992-01)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 01 (1992-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 01 (1992-01)(PCW Communications)(US).pdf" size="54706773" crc="842c7efe" md5="35537b4034dd6bb009568ca6ce8deddc" sha1="bc4309a5cf03c5f4def689bed4cd21aa4d321fb4"/>
+	</game>
+	<game name="PC World - Volume 10 Number 02 (1992-02)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 02 (1992-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 02 (1992-02)(PCW Communications)(US).pdf" size="52874314" crc="6113018a" md5="9578cacfcc6192807a23474e12430f09" sha1="5f51a102d1b7e62b0560e294e8f81d12d55e25b1"/>
+	</game>
+	<game name="PC World - Volume 10 Number 03 (1992-03)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 03 (1992-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 03 (1992-03)(PCW Communications)(US).pdf" size="67949951" crc="2ec2aab9" md5="d19e4407e8f63059d663d0ab78015cfa" sha1="f282d0da8b201ce0f369d173dc6ec25ef347acb3"/>
+	</game>
+	<game name="PC World - Volume 10 Number 04 (1992-04)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 04 (1992-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 04 (1992-04)(PCW Communications)(US).pdf" size="72539343" crc="bde4f999" md5="996a92b183029140aa3218a4849d9ba2" sha1="e8be1e85d9c4f9123903782b956275621dc5bb5a"/>
+	</game>
+	<game name="PC World - Volume 10 Number 05 (1992-05)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 05 (1992-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 05 (1992-05)(PCW Communications)(US).pdf" size="77812481" crc="caac4cdb" md5="c9124bafff219255a1ac84b71ab077f9" sha1="2ad80ada6531ccaaa7e09f8a7377c86f88fda96f"/>
+	</game>
+	<game name="PC World - Volume 10 Number 06 (1992-06)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 06 (1992-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 06 (1992-06)(PCW Communications)(US).pdf" size="82921310" crc="938a4f5a" md5="9dde0fd41964d3bc9e78b67b3d3c2fd6" sha1="3285e92ef84f758024108aedc159beaa7c3a596c"/>
+	</game>
+	<game name="PC World - Volume 10 Number 07 (1992-07)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 07 (1992-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 07 (1992-07)(PCW Communications)(US).pdf" size="74128553" crc="2c537156" md5="ed4b76670d0c2d3bee10e846a8c9a3ac" sha1="9abdd6bf047a566b8e4df9a5610baa046fdbc080"/>
+	</game>
+	<game name="PC World - Volume 10 Number 08 (1992-08)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 08 (1992-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 08 (1992-08)(PCW Communications)(US).pdf" size="84229488" crc="f0ded36e" md5="28d64e8051665f7768f68f91ff210787" sha1="0a2a6742cb17231b4fe9b43fed8ea4d9658aa74b"/>
+	</game>
+	<game name="PC World - Volume 10 Number 09 (1992-09)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 09 (1992-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 09 (1992-09)(PCW Communications)(US).pdf" size="83041752" crc="9b24cdb6" md5="ee259196da8f9f6c16ba0ce9c4fcf1e6" sha1="3847df777549ad946164603cf8208d1d681e7004"/>
+	</game>
+	<game name="PC World - Volume 10 Number 10 (1992-10)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 10 (1992-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 10 (1992-10)(PCW Communications)(US).pdf" size="96238553" crc="192b8cee" md5="4913a74bebd81916fa3098948adfcc4d" sha1="1224f70da36a0ceeae21544d1c077fd88794d8ef"/>
+	</game>
+	<game name="PC World - Volume 10 Number 11 (1992-11)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 11 (1992-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 11 (1992-11)(PCW Communications)(US).pdf" size="88546895" crc="6e4f79dc" md5="1c1ff06c05288d7f6b1539e2037bf3f1" sha1="94bf1352e41fc52a9a8e9e88ea0d86f326186a86"/>
+	</game>
+	<game name="PC World - Volume 10 Number 12 (1992-12)(PCW Communications)(US)">
+		<description>PC World - Volume 10 Number 12 (1992-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 10 Number 12 (1992-12)(PCW Communications)(US).pdf" size="106553964" crc="a3025286" md5="3f0fda198b8307ce8959a67524f0e7f7" sha1="bbcf55bb1b5755039250cc6092419e28c92f3cca"/>
+	</game>
+	<game name="PC World - Volume 11 Number 01 (1993-01)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 01 (1993-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 01 (1993-01)(PCW Communications)(US).pdf" size="69472847" crc="e061fd6d" md5="ce6012f2ff95a0600c6c9fc5d8a873df" sha1="9ac161edc25d5d165b2299fe9a6ecec3bfac9d20"/>
+	</game>
+	<game name="PC World - Volume 11 Number 02 (1993-02)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 02 (1993-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 02 (1993-02)(PCW Communications)(US).pdf" size="70918684" crc="ff9bd18b" md5="96aba9662c3e83c03681eaed59f3507b" sha1="6e6e1915bf40a8362fbbf721c781e3a744e0dcb9"/>
+	</game>
+	<game name="PC World - Volume 11 Number 03 (1993-03)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 03 (1993-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 03 (1993-03)(PCW Communications)(US).pdf" size="66992708" crc="8ef1f923" md5="96614789b6e92d8e433d3d26d6f8d23b" sha1="f4274bc9eda2a2056a13e5636d240e806505b393"/>
+	</game>
+	<game name="PC World - Volume 11 Number 04 (1993-04)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 04 (1993-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 04 (1993-04)(PCW Communications)(US).pdf" size="65996373" crc="0db226ce" md5="4be2a48755ae6e5e9817abdd1b52c8b1" sha1="720a39f9f25cc55c0f78f84b484c1548e67fd21c"/>
+	</game>
+	<game name="PC World - Volume 11 Number 05 (1993-05)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 05 (1993-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 05 (1993-05)(PCW Communications)(US).pdf" size="64467367" crc="dd153860" md5="f8df0b306d6b0d33af87f90ff1504aea" sha1="53627eaa8404e88283ef9cea96d216ba1e4083e4"/>
+	</game>
+	<game name="PC World - Volume 11 Number 06 (1993-06)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 06 (1993-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 06 (1993-06)(PCW Communications)(US).pdf" size="66430081" crc="078cb51b" md5="baba14bf91ba2424292e36deb3f941f6" sha1="6a03a51f0f9d48747d1de93ecf3950f5c44a0cdf"/>
+	</game>
+	<game name="PC World - Volume 11 Number 07 (1993-07)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 07 (1993-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 07 (1993-07)(PCW Communications)(US).pdf" size="79548984" crc="4a67d3a5" md5="d5fdcb5b613b76cdff8d97cf4ec68ce2" sha1="76b24bf27231bdd1e45cbf0af9ed8de3f25618b1"/>
+	</game>
+	<game name="PC World - Volume 11 Number 08 (1993-08)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 08 (1993-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 08 (1993-08)(PCW Communications)(US).pdf" size="71911314" crc="5ec199ea" md5="3315f44235afca75a68fa22da689d118" sha1="2bde510588c71bcc9311728ad354af6d6a82e8ce"/>
+	</game>
+	<game name="PC World - Volume 11 Number 09 (1993-09)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 09 (1993-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 09 (1993-09)(PCW Communications)(US).pdf" size="68105969" crc="546c27e1" md5="783b14e5167e467cb8e9e108b125f0ec" sha1="6411b4ecc6be9a187c350d910119c7e148f04aa9"/>
+	</game>
+	<game name="PC World - Volume 11 Number 10 (1993-10)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 10 (1993-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 10 (1993-10)(PCW Communications)(US).pdf" size="77428642" crc="cb692560" md5="9b7946c4ab18ed681d6bb290e22e1beb" sha1="5f1973d28d9ed8a6e8c4dd952f1599069f9d9547"/>
+	</game>
+	<game name="PC World - Volume 11 Number 11 (1993-11)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 11 (1993-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 11 (1993-11)(PCW Communications)(US).pdf" size="89952956" crc="bea2e6b9" md5="13493d68c56d7c03685fc20d2582f295" sha1="b5e75898eaf494d5ccf9da2343d22a7e38f5d715"/>
+	</game>
+	<game name="PC World - Volume 11 Number 12 (1993-12)(PCW Communications)(US)">
+		<description>PC World - Volume 11 Number 12 (1993-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 11 Number 12 (1993-12)(PCW Communications)(US).pdf" size="100172315" crc="ec9a5eec" md5="7cf25e68a14a7a6927acf5948d5713d2" sha1="39262ec99a0836e396f325cd2289dd6711a8def8"/>
+	</game>
+	<game name="PC World - Volume 12 Number 01 (1994-01)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 01 (1994-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 01 (1994-01)(PCW Communications)(US).pdf" size="67468862" crc="9bd06c01" md5="736f3909029cbbc6c8312237bd3fb120" sha1="394f009a2c9ab008363ad133ce60bf45e1d33457"/>
+	</game>
+	<game name="PC World - Volume 12 Number 02 (1994-02)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 02 (1994-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 02 (1994-02)(PCW Communications)(US).pdf" size="87055666" crc="140c7d86" md5="3c45201bcdaeca60146f66be3b0584b3" sha1="f736150044b323fc2848a1794f8fddab974c9083"/>
+	</game>
+	<game name="PC World - Volume 12 Number 03 (1994-03)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 03 (1994-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 03 (1994-03)(PCW Communications)(US).pdf" size="69828449" crc="512e3c64" md5="b134fea585daa578b7ff6786d1d7b2a0" sha1="1c9502713fad59fa1965a39456b81c800bfdb89d"/>
+	</game>
+	<game name="PC World - Volume 12 Number 04 (1994-04)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 04 (1994-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 04 (1994-04)(PCW Communications)(US).pdf" size="91777973" crc="475f03d5" md5="6c98e7c87dfdda550c38ccb60cfbca2a" sha1="22e8127a3a10cb78d67794892b537443de7215ec"/>
+	</game>
+	<game name="PC World - Volume 12 Number 05 (1994-05)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 05 (1994-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 05 (1994-05)(PCW Communications)(US).pdf" size="88145587" crc="ac8e0548" md5="43d12053a2024906efd54ba4c87e74a5" sha1="20947b21f6399775e9f3c4319384c5cb63176c14"/>
+	</game>
+	<game name="PC World - Volume 12 Number 06 (1994-06)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 06 (1994-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 06 (1994-06)(PCW Communications)(US).pdf" size="55845098" crc="12b8d962" md5="23e65dc4297a58b55895c0aa366f6ba2" sha1="a9d4c1ad87b02e334ed1ada98222f27c0f8a2ccc"/>
+	</game>
+	<game name="PC World - Volume 12 Number 07 (1994-07)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 07 (1994-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 07 (1994-07)(PCW Communications)(US).pdf" size="53031164" crc="a24345c3" md5="e84660c1656101065519635a91021663" sha1="b3d25deb462b1e94c61a71255e18442701eb60d3"/>
+	</game>
+	<game name="PC World - Volume 12 Number 08 (1994-08)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 08 (1994-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 08 (1994-08)(PCW Communications)(US).pdf" size="53041912" crc="7a96cd24" md5="17d4a09c1c06c3059ac98ba86ab1c96e" sha1="8ec22336063356696667f9559cfc5fcc0497d625"/>
+	</game>
+	<game name="PC World - Volume 12 Number 09 (1994-09)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 09 (1994-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 09 (1994-09)(PCW Communications)(US).pdf" size="82273130" crc="9bde5739" md5="0c221ebdc7d15dbc0a84689116c9f085" sha1="454a75f5becad636a28baa3628e45fdf4595e476"/>
+	</game>
+	<game name="PC World - Volume 12 Number 10 (1994-10)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 10 (1994-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 10 (1994-10)(PCW Communications)(US).pdf" size="91158906" crc="78f14131" md5="a5f7ca3e22d3b514b0ae68b690700ac4" sha1="a9e44e950f036da5219709946d372c175365fd04"/>
+	</game>
+	<game name="PC World - Volume 12 Number 11 (1994-11)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 11 (1994-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 11 (1994-11)(PCW Communications)(US).pdf" size="88681484" crc="12ee8b1e" md5="4fda9e3e3335671f233443943106ad48" sha1="14fb2c34e3a57aa1769a59826443d2788ddfba0e"/>
+	</game>
+	<game name="PC World - Volume 12 Number 12 (1994-12)(PCW Communications)(US)">
+		<description>PC World - Volume 12 Number 12 (1994-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 12 Number 12 (1994-12)(PCW Communications)(US).pdf" size="84998977" crc="adae7034" md5="a22a2f99933fb2809550d7f5ec82a419" sha1="8d7a70b31d4ea619200d70ccdf177525eb49721a"/>
+	</game>
+	<game name="PC World - Volume 13 Number 01 (1995-01)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 01 (1995-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 01 (1995-01)(PCW Communications)(US).pdf" size="72927772" crc="487177dd" md5="c0d1adc5c208bc6f7dc6ab8e8d1f43ad" sha1="4e0d9bdeddb96c3e571e7730ffe30615f77a28cf"/>
+	</game>
+	<game name="PC World - Volume 13 Number 02 (1995-02)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 02 (1995-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 02 (1995-02)(PCW Communications)(US).pdf" size="49896484" crc="87082fe9" md5="4133376cd6f784b3a066c77f8740c201" sha1="48295d9de5a85a887677f3e92ec4606b4f6dbc12"/>
+	</game>
+	<game name="PC World - Volume 13 Number 03 (1995-03)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 03 (1995-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 03 (1995-03)(PCW Communications)(US).pdf" size="52262069" crc="b5d4dbd3" md5="97a29119ee772029ddf84e4eb8d3c677" sha1="376237dca1d2e3829036d762d8bd59526b031055"/>
+	</game>
+	<game name="PC World - Volume 13 Number 04 (1995-04)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 04 (1995-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 04 (1995-04)(PCW Communications)(US).pdf" size="43086206" crc="9ad8dd40" md5="4873610ead07c97fe418b7b92b0211a1" sha1="5429c554d9933b766f90649e07d6887d3a253173"/>
+	</game>
+	<game name="PC World - Volume 13 Number 05 (1995-05)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 05 (1995-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 05 (1995-05)(PCW Communications)(US).pdf" size="54271375" crc="d1596efe" md5="0f496b41a139c6c9503f71c31e718c9e" sha1="d1aa4460cac18a4da9ad47fc6cf41f6cb0f74ca4"/>
+	</game>
+	<game name="PC World - Volume 13 Number 06 (1995-06)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 06 (1995-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 06 (1995-06)(PCW Communications)(US).pdf" size="54663409" crc="92bdfcff" md5="19a4e51ea9878e6c442457933777f591" sha1="8a059d948d266a5cd900bb90def1e77981709033"/>
+	</game>
+	<game name="PC World - Volume 13 Number 07 (1995-07)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 07 (1995-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 07 (1995-07)(PCW Communications)(US).pdf" size="57680476" crc="13bb005f" md5="2a26e5b800fd096bc3d4957dc341b840" sha1="518f966fd35e3ce0a33e94ee7afa4cd92a60b357"/>
+	</game>
+	<game name="PC World - Volume 13 Number 08 (1995-08)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 08 (1995-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 08 (1995-08)(PCW Communications)(US).pdf" size="59061184" crc="3edc3958" md5="96ed8052f683887f3d0f0fcdce0bce2d" sha1="b804f602d172a839433b84a080fc1d8333c8e078"/>
+	</game>
+	<game name="PC World - Volume 13 Number 09 (1995-09)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 09 (1995-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 09 (1995-09)(PCW Communications)(US).pdf" size="94495892" crc="cc7c176b" md5="7d1d352411872cfed9fa9c781bd8557e" sha1="6e5c3e1a8dc3ffe2697e700d1bf8951a95b1de94"/>
+	</game>
+	<game name="PC World - Volume 13 Number 10 (1995-10)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 10 (1995-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 10 (1995-10)(PCW Communications)(US).pdf" size="52213175" crc="2b5cba43" md5="e01985d0d780a413fd28714da438409e" sha1="a24cd5f38be68282daa9bfe4d251cedf108bc3cf"/>
+	</game>
+	<game name="PC World - Volume 13 Number 11 (1995-11)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 11 (1995-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 11 (1995-11)(PCW Communications)(US).pdf" size="81029838" crc="e8169241" md5="d5e431e764fd5ca781549aeaf61abf52" sha1="f360289f6a532e50ce8ebebf122d22a09c926662"/>
+	</game>
+	<game name="PC World - Volume 13 Number 12 (1995-12)(PCW Communications)(US)">
+		<description>PC World - Volume 13 Number 12 (1995-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 13 Number 12 (1995-12)(PCW Communications)(US).pdf" size="104975035" crc="3c9e89d4" md5="626d695df101dca33e7f8844ea751558" sha1="81b290ba82d27fba4962c5cf77f9a97ffed9d3cd"/>
+	</game>
+	<game name="PC World - Volume 14 Number 01 (1996-01)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 01 (1996-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 01 (1996-01)(PCW Communications)(US).pdf" size="78903425" crc="7ab79ee8" md5="ab285ba99046dbb43cce78e8ad1261f4" sha1="0bdd39a5d1917fe6a261cefd45cbb871b130a946"/>
+	</game>
+	<game name="PC World - Volume 14 Number 02 (1996-02)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 02 (1996-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 02 (1996-02)(PCW Communications)(US).pdf" size="75080888" crc="f0cfc1e3" md5="c36a2c056b7391c243e0d8cd978228bc" sha1="1a710b5fbe58dd9b4e3325d4cf1f9e482288ac88"/>
+	</game>
+	<game name="PC World - Volume 14 Number 03 (1996-03)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 03 (1996-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 03 (1996-03)(PCW Communications)(US).pdf" size="71751993" crc="3239bb42" md5="b6a706ec3815c90cb474c45fd09c38fb" sha1="1b85e2ff70e98fbe77dc5dad2f08838956f34b81"/>
+	</game>
+	<game name="PC World - Volume 14 Number 04 (1996-04)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 04 (1996-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 04 (1996-04)(PCW Communications)(US).pdf" size="77364294" crc="40419041" md5="b73d042a0072eb2f94c9c668e324ad38" sha1="1af63707ac21779c14743646f08cf549e6d53a96"/>
+	</game>
+	<game name="PC World - Volume 14 Number 05 (1996-05)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 05 (1996-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 05 (1996-05)(PCW Communications)(US).pdf" size="78855284" crc="aab56381" md5="1dc7b4ff78331ade8db3c50595884613" sha1="cad90854eb02c14deb9383954bc66dbe93570b2a"/>
+	</game>
+	<game name="PC World - Volume 14 Number 06 (1996-06)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 06 (1996-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 06 (1996-06)(PCW Communications)(US).pdf" size="41199615" crc="298b5558" md5="f724a5e2f73b161a5cbfed234f7a4651" sha1="a5e0546d633a3a9ea9e8f49b42de26d7139869f8"/>
+	</game>
+	<game name="PC World - Volume 14 Number 07 (1996-07)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 07 (1996-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 07 (1996-07)(PCW Communications)(US).pdf" size="71573944" crc="5a0f5514" md5="0caa2af0d723ffb0f548c6e3e30726f1" sha1="3a75859aae4ddae6c08ea5742ca7b090326180fb"/>
+	</game>
+	<game name="PC World - Volume 14 Number 08 (1996-08)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 08 (1996-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 08 (1996-08)(PCW Communications)(US).pdf" size="85755262" crc="baffb838" md5="12e8d83d2bebbbb44a8fd9572d361d7a" sha1="c299850ba3bc6bc47b7912928ce557e53a9a594f"/>
+	</game>
+	<game name="PC World - Volume 14 Number 09 (1996-09)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 09 (1996-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 09 (1996-09)(PCW Communications)(US).pdf" size="86790072" crc="5238c6bb" md5="fd92e7d590a4210b4ae2739d80a13c82" sha1="4e23504c1b945cd2f458b6d0e883ea555f0bc307"/>
+	</game>
+	<game name="PC World - Volume 14 Number 10 (1996-10)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 10 (1996-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 10 (1996-10)(PCW Communications)(US).pdf" size="84923010" crc="2eb890db" md5="07a689e5a90a6b4ea62cfe504500ff26" sha1="46df1572efb24cf357fdd99d4d2eebbac4045655"/>
+	</game>
+	<game name="PC World - Volume 14 Number 11 (1996-11)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 11 (1996-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 11 (1996-11)(PCW Communications)(US).pdf" size="95829034" crc="26b6ea2d" md5="9891177ae0064268c75f06888ceb13a7" sha1="8a06c80b1e81bf675bc612c8ccbc75c0852bbe9b"/>
+	</game>
+	<game name="PC World - Volume 14 Number 12 (1996-12)(PCW Communications)(US)">
+		<description>PC World - Volume 14 Number 12 (1996-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 14 Number 12 (1996-12)(PCW Communications)(US).pdf" size="97943855" crc="6e5cee39" md5="4c2abbfde77024059b7be13e68e77e38" sha1="c690b8529be19d19da05d60e6a7027f5e839033d"/>
+	</game>
+	<game name="PC World - Volume 15 Number 01 (1997-01)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 01 (1997-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 01 (1997-01)(PCW Communications)(US).pdf" size="75621162" crc="ba01dafc" md5="15afbb953d013e28a1a134b8efbdfbb6" sha1="6ebf3a1dfe99edc892bc0c5950ada74537c63490"/>
+	</game>
+	<game name="PC World - Volume 15 Number 02 (1997-02)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 02 (1997-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 02 (1997-02)(PCW Communications)(US).pdf" size="69657733" crc="6d4c8709" md5="e278cfa9acd85dd40956c3683dbcf324" sha1="a928c4346e14783e0c141f14a043d1e502564f7b"/>
+	</game>
+	<game name="PC World - Volume 15 Number 03 (1997-03)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 03 (1997-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 03 (1997-03)(PCW Communications)(US).pdf" size="53575046" crc="08fe81b1" md5="3613d38fb096609ba606161e56e3c8ed" sha1="e721f8d78fe553eb4695650f73863ca3e540d400"/>
+	</game>
+	<game name="PC World - Volume 15 Number 04 (1997-04)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 04 (1997-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 04 (1997-04)(PCW Communications)(US).pdf" size="71357028" crc="799b99bf" md5="1abf443efd816399859311ef79460700" sha1="49b7ad4b011a924537aa491638af4eb5bdb8c4e0"/>
+	</game>
+	<game name="PC World - Volume 15 Number 05 (1997-05)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 05 (1997-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 05 (1997-05)(PCW Communications)(US).pdf" size="77201382" crc="8e9f74b3" md5="85707f9d755f135f1b1fcca37f1b26d2" sha1="713461c4ab97aefd17b96eae3cbdae20d06868e2"/>
+	</game>
+	<game name="PC World - Volume 15 Number 06 (1997-06)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 06 (1997-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 06 (1997-06)(PCW Communications)(US).pdf" size="87572072" crc="05a74062" md5="c6bb2f09b936908617b7afef28e4e8f5" sha1="b8fd579924c06152e4709fa42fcd6571a38d75b3"/>
+	</game>
+	<game name="PC World - Volume 15 Number 07 (1997-07)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 07 (1997-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 07 (1997-07)(PCW Communications)(US).pdf" size="83835170" crc="84ffecb7" md5="3a0fe6d4e4cbca36c550bea4fa8564b7" sha1="c604980c69b480d5018702bc22b136dcc6df30ba"/>
+	</game>
+	<game name="PC World - Volume 15 Number 08 (1997-08)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 08 (1997-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 08 (1997-08)(PCW Communications)(US).pdf" size="77156218" crc="211c6dbd" md5="94986b9dcdf8554f9ec267390d1ac402" sha1="1190f010dcb97e536588ceb3d599b0302dfcfe09"/>
+	</game>
+	<game name="PC World - Volume 15 Number 09 (1997-09)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 09 (1997-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 09 (1997-09)(PCW Communications)(US).pdf" size="86069855" crc="d25f1ec2" md5="01a4beb6333affbd6e3d345a45829f3c" sha1="9c7b4e908bf32aaaf95644c99990ddd128711c85"/>
+	</game>
+	<game name="PC World - Volume 15 Number 10 (1997-10)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 10 (1997-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 10 (1997-10)(PCW Communications)(US).pdf" size="88700766" crc="5eb11a25" md5="93245f17a9967ac0708bf13141c9325f" sha1="362d6944d0ed8884e7f2ec4ab5d7314a8d23d35f"/>
+	</game>
+	<game name="PC World - Volume 15 Number 11 (1997-11)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 11 (1997-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 11 (1997-11)(PCW Communications)(US).pdf" size="72763062" crc="266cd677" md5="fefdb6e7b439c7b81be9e0271bc44e1a" sha1="5a50053a6d1820a86f6e50fce54576ec746b1400"/>
+	</game>
+	<game name="PC World - Volume 15 Number 12 (1997-12)(PCW Communications)(US)">
+		<description>PC World - Volume 15 Number 12 (1997-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 15 Number 12 (1997-12)(PCW Communications)(US).pdf" size="67085501" crc="ae351c64" md5="3b14a3938c0ff76c45c3b59af2029abc" sha1="2a269c36bfc1d2cb1318d79904184c14e92e64df"/>
+	</game>
+	<game name="PC World - Volume 15 Number 12 (1997-12)(PCW Communications)(US)[a]">
+		<description>PC World - Volume 15 Number 12 (1997-12)(PCW Communications)(US)[a]</description>
+		<rom name="PC World - Volume 15 Number 12 (1997-12)(PCW Communications)(US)[a].pdf" size="99405524" crc="47798721" md5="383a953ea68198ccabf0f7b5ce9cb06f" sha1="9c43f57237194bcd596741ea974e3a0c5148d1c4"/>
+	</game>
+	<game name="PC World - Volume 16 Number 01 (1998-01)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 01 (1998-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 01 (1998-01)(PCW Communications)(US).pdf" size="88800885" crc="30efbd30" md5="3f3b42923527b0d2e16a23b125c22bd2" sha1="9984568d57e2fe3224bf5032f91f297f152d5acf"/>
+	</game>
+	<game name="PC World - Volume 16 Number 02 (1998-02)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 02 (1998-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 02 (1998-02)(PCW Communications)(US).pdf" size="81936195" crc="495f1942" md5="275e156fd01bb38b31e9f6431201fe6a" sha1="16a69a63c9238a03dcdc791f3ebe67425e058134"/>
+	</game>
+	<game name="PC World - Volume 16 Number 03 (1998-03)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 03 (1998-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 03 (1998-03)(PCW Communications)(US).pdf" size="77968461" crc="af75927c" md5="9e449287a894e037ebf242bdd3362aa6" sha1="6cdbabb6ca2c7ea24649af9f6e688dde72b821a6"/>
+	</game>
+	<game name="PC World - Volume 16 Number 04 (1998-04)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 04 (1998-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 04 (1998-04)(PCW Communications)(US).pdf" size="73710690" crc="0ea1756b" md5="1f6582c3bbf613527423ca7be6680b6e" sha1="b89f2f8c59ea0a6bfb631dc5cbe05357e9719083"/>
+	</game>
+	<game name="PC World - Volume 16 Number 05 (1998-05)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 05 (1998-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 05 (1998-05)(PCW Communications)(US).pdf" size="80847164" crc="cacb06c0" md5="b3999a1cf9f0186426bf4bdd3ed22bde" sha1="0e7968931075feaf35c673ff162db8ee7bbf37c1"/>
+	</game>
+	<game name="PC World - Volume 16 Number 06 (1998-06)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 06 (1998-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 06 (1998-06)(PCW Communications)(US).pdf" size="87287936" crc="0d569a1c" md5="f094eac84ea461390a25f693accc1032" sha1="9dd35df0fc214e2d4bf9c733185c0d2d52d3c59f"/>
+	</game>
+	<game name="PC World - Volume 16 Number 07 (1998-07)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 07 (1998-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 07 (1998-07)(PCW Communications)(US).pdf" size="84142366" crc="73e72a0d" md5="a92400abf7ce2a3dadec168030ec7e55" sha1="0074f628f13356da7361be1793e7e299dc724ee6"/>
+	</game>
+	<game name="PC World - Volume 16 Number 08 (1998-08)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 08 (1998-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 08 (1998-08)(PCW Communications)(US).pdf" size="82345342" crc="fb3fe30e" md5="6e851a85343d7faecc8104a67676b998" sha1="48a063f2d9ed9946a80c4158d409dbf6adcc5e14"/>
+	</game>
+	<game name="PC World - Volume 16 Number 09 (1998-09)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 09 (1998-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 09 (1998-09)(PCW Communications)(US).pdf" size="79624265" crc="7cf53387" md5="91ea8d7ccc09bb3f6b2a79281860f8f2" sha1="6b64d768996171f27631d608732bc82adf059cea"/>
+	</game>
+	<game name="PC World - Volume 16 Number 10 (1998-10)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 10 (1998-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 10 (1998-10)(PCW Communications)(US).pdf" size="77948439" crc="600f549c" md5="59857a47251f78c4ba09733435468049" sha1="d5d640fcd7e8e7d2bbfcc7d18df520cc82da3de3"/>
+	</game>
+	<game name="PC World - Volume 16 Number 11 (1998-11)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 11 (1998-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 11 (1998-11)(PCW Communications)(US).pdf" size="85259514" crc="9b7d1701" md5="da2b638f83df08fc9a0d987da764e165" sha1="7ed7ba7d988cc2a0cec4d082077b81d092072f57"/>
+	</game>
+	<game name="PC World - Volume 16 Number 12 (1998-12)(PCW Communications)(US)">
+		<description>PC World - Volume 16 Number 12 (1998-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 16 Number 12 (1998-12)(PCW Communications)(US).pdf" size="87191858" crc="2406f93b" md5="246f1dd84a27aee66425510bee8a22b4" sha1="d1e7f6ed77b11a69b7b5222a2f7d880c5eceadbe"/>
+	</game>
+	<game name="PC World - Volume 17 Number 01 (1999-01)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 01 (1999-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 01 (1999-01)(PCW Communications)(US).pdf" size="78993232" crc="9e6acb86" md5="59e5c0c7096d2e328fe81873fe9d19c0" sha1="e67affcf08cdc347cfb96c31bdabca8fdcad19b1"/>
+	</game>
+	<game name="PC World - Volume 17 Number 02 (1999-02)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 02 (1999-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 02 (1999-02)(PCW Communications)(US).pdf" size="64904479" crc="3df5b0e5" md5="54947de2e256f2128492396e8dba6b90" sha1="ba05d0f366811998146adeda27b21db6bc524c44"/>
+	</game>
+	<game name="PC World - Volume 17 Number 03 (1999-03)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 03 (1999-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 03 (1999-03)(PCW Communications)(US).pdf" size="75798006" crc="4ade285a" md5="4069a4f232a5068da510619fbcdb5db2" sha1="3b11cb49461965a08c5e91673c7a79982ab2a729"/>
+	</game>
+	<game name="PC World - Volume 17 Number 04 (1999-04)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 04 (1999-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 04 (1999-04)(PCW Communications)(US).pdf" size="76977817" crc="c64fd574" md5="fe1d27819476ba35b1a221cfd4507068" sha1="8409903fe00e27dade4ab4cb5cf676d9ce6c1fa9"/>
+	</game>
+	<game name="PC World - Volume 17 Number 05 (1999-05)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 05 (1999-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 05 (1999-05)(PCW Communications)(US).pdf" size="76333749" crc="e601e7ca" md5="56bb317e0515ffaccdeda4115492d404" sha1="105cc2e2c7863a75f95bc731010aaec7bacb9659"/>
+	</game>
+	<game name="PC World - Volume 17 Number 06 (1999-06)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 06 (1999-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 06 (1999-06)(PCW Communications)(US).pdf" size="77832293" crc="44fe6019" md5="f23eebd765724c66f9e0e7ed25bb7b1e" sha1="aecb5bf62c71dc59576d98278c303f28062184c8"/>
+	</game>
+	<game name="PC World - Volume 17 Number 07 (1999-07)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 07 (1999-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 07 (1999-07)(PCW Communications)(US).pdf" size="67856756" crc="7309ef2c" md5="1fb9f38657e23797b6d6d6eb455f296d" sha1="49f052b2d7efc6b27fd8b882654492425c5e6115"/>
+	</game>
+	<game name="PC World - Volume 17 Number 08 (1999-08)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 08 (1999-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 08 (1999-08)(PCW Communications)(US).pdf" size="66008380" crc="149aa049" md5="30a4f2b10e4f503e8682ed14aebcf829" sha1="333844b288ddd340bd90d0a7d44c450670f252b0"/>
+	</game>
+	<game name="PC World - Volume 17 Number 09 (1999-09)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 09 (1999-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 09 (1999-09)(PCW Communications)(US).pdf" size="75489155" crc="0bfa4b15" md5="dc59e9f4086000bb62c3b36985ecc1ff" sha1="137b653e92bc467b63ed9b8ca79b3a025b65bb04"/>
+	</game>
+	<game name="PC World - Volume 17 Number 10 (1999-10)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 10 (1999-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 10 (1999-10)(PCW Communications)(US).pdf" size="75842428" crc="6bb4a906" md5="190f532bc046695add08bd62ed141d75" sha1="a224349148bfe5da34b0ccbe82835e7fdaa7c8cc"/>
+	</game>
+	<game name="PC World - Volume 17 Number 11 (1999-11)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 11 (1999-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 11 (1999-11)(PCW Communications)(US).pdf" size="76833150" crc="56dd9b4a" md5="438d409d3824c10b25d843084eca25d2" sha1="e6bed95e058e3327d5314f5dccc7c723fbf4a4d5"/>
+	</game>
+	<game name="PC World - Volume 17 Number 12 (1999-12)(PCW Communications)(US)">
+		<description>PC World - Volume 17 Number 12 (1999-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 17 Number 12 (1999-12)(PCW Communications)(US).pdf" size="85766457" crc="32855e79" md5="7f4b72855f053385477eb8563838fd6b" sha1="df1e73b29da8e4091f3232a0d77b8cfc04c7b13a"/>
+	</game>
+	<game name="PC World - Volume 18 Number 01 (2000-01)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 01 (2000-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 01 (2000-01)(PCW Communications)(US).pdf" size="70498247" crc="b0a56e74" md5="7b3dc645e9bf5a2173c5984f25daea74" sha1="3e290914c402d1be011b152a66f390c91304839a"/>
+	</game>
+	<game name="PC World - Volume 18 Number 02 (2000-02)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 02 (2000-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 02 (2000-02)(PCW Communications)(US).pdf" size="67287614" crc="9ded2ce7" md5="2d4762e344d5a6c67755cd073ba92ac2" sha1="41f5adff0fa5a6010fbce807bf63446095944e28"/>
+	</game>
+	<game name="PC World - Volume 18 Number 03 (2000-03)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 03 (2000-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 03 (2000-03)(PCW Communications)(US).pdf" size="63749268" crc="ec501fda" md5="0fc44b99cf9ef54c96643aff82d873aa" sha1="87f0608411ff22d41ba8c7baafa5ad3fb1a0ed91"/>
+	</game>
+	<game name="PC World - Volume 18 Number 04 (2000-04)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 04 (2000-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 04 (2000-04)(PCW Communications)(US).pdf" size="67316252" crc="58ad3eb3" md5="6620aea1242aea2a2b033bd43cdf8385" sha1="bee46b4f70aa852b028d2c742e6b9420dd3054e6"/>
+	</game>
+	<game name="PC World - Volume 18 Number 05 (2000-05)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 05 (2000-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 05 (2000-05)(PCW Communications)(US).pdf" size="68914191" crc="6507b47b" md5="4dcc8546a5ab523befa9dcee6eab7574" sha1="1fafe6449f8e6857bef6482c95df6f549637fe92"/>
+	</game>
+	<game name="PC World - Volume 18 Number 06 (2000-06)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 06 (2000-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 06 (2000-06)(PCW Communications)(US).pdf" size="71296281" crc="7ba619b2" md5="ed668f7a871e18f45e9ebc453431c846" sha1="205f671a1c02b55e5313d52d92bdc14284e0a7fc"/>
+	</game>
+	<game name="PC World - Volume 18 Number 07 (2000-07)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 07 (2000-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 07 (2000-07)(PCW Communications)(US).pdf" size="61876152" crc="d2be41c3" md5="ee519c943b8088277b20513585aff7a4" sha1="4fa956c1db008e4d5f5df6d9b561e8e3cf7581aa"/>
+	</game>
+	<game name="PC World - Volume 18 Number 08 (2000-08)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 08 (2000-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 08 (2000-08)(PCW Communications)(US).pdf" size="59964529" crc="662efc16" md5="9870822ea467dd84fbd8e0c4c1a4c13a" sha1="b323dadfeb72e6cc1dba7d48f6eee1a9b43eb8cf"/>
+	</game>
+	<game name="PC World - Volume 18 Number 09 (2000-09)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 09 (2000-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 09 (2000-09)(PCW Communications)(US).pdf" size="61149908" crc="108fde05" md5="d007c3612c59fea62439361915eeb962" sha1="06fffebfdca22de36781782446fc4cf1ba2496f4"/>
+	</game>
+	<game name="PC World - Volume 18 Number 10 (2000-10)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 10 (2000-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 10 (2000-10)(PCW Communications)(US).pdf" size="57481183" crc="aa1102ae" md5="ae1a0599611a1b3241cb03a6e36924a3" sha1="a0559bda70db8b8254c8af9be10e5a0bdefc0c39"/>
+	</game>
+	<game name="PC World - Volume 18 Number 11 (2000-11)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 11 (2000-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 11 (2000-11)(PCW Communications)(US).pdf" size="58831236" crc="e62665e5" md5="0cbedbcd89d207931b5438ea27f4b612" sha1="b2a7f1e7187d3cd22b8e90cb1c5487de497f8fa7"/>
+	</game>
+	<game name="PC World - Volume 18 Number 12 (2000-12)(PCW Communications)(US)">
+		<description>PC World - Volume 18 Number 12 (2000-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 18 Number 12 (2000-12)(PCW Communications)(US).pdf" size="64096695" crc="f2faebfc" md5="c731ff4a696306fa8a2f053349e6e850" sha1="d943c0bb937b35dc8f29ab87e4efaf96bf6661c2"/>
+	</game>
+	<game name="PC World - Volume 19 Number 01 (2001-01)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 01 (2001-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 01 (2001-01)(PCW Communications)(US).pdf" size="48560466" crc="8915cfda" md5="383696a6ed52371986fed4b020014eab" sha1="5478ecf2e10d56eb261da0a3f5824947f0e4f55b"/>
+	</game>
+	<game name="PC World - Volume 19 Number 02 (2001-02)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 02 (2001-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 02 (2001-02)(PCW Communications)(US).pdf" size="52863151" crc="3d413fc2" md5="ade7a7ae4750c1431a8c85724c342378" sha1="9e4a4edfff845fc63d1a954a3f8bee51da1ce1c0"/>
+	</game>
+	<game name="PC World - Volume 19 Number 03 (2001-03)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 03 (2001-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 03 (2001-03)(PCW Communications)(US).pdf" size="55950320" crc="fda69d46" md5="bce729e6c00862f8529f40ee1f7c7ce1" sha1="fd4e22074195840d422758505da2ce222a0d960c"/>
+	</game>
+	<game name="PC World - Volume 19 Number 04 (2001-04)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 04 (2001-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 04 (2001-04)(PCW Communications)(US).pdf" size="55721262" crc="317bb8b2" md5="e9d1842d664d8b2f2ef61876eb845896" sha1="eb4a20f1e8e343be370b7ac515b70df07ebb340a"/>
+	</game>
+	<game name="PC World - Volume 19 Number 05 (2001-05)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 05 (2001-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 05 (2001-05)(PCW Communications)(US).pdf" size="51854792" crc="03039360" md5="144d96727de4341ae343132e4e97db33" sha1="6484cd8bab5f51b6f7a51e790ea7c3cd001db9be"/>
+	</game>
+	<game name="PC World - Volume 19 Number 06 (2001-06)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 06 (2001-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 06 (2001-06)(PCW Communications)(US).pdf" size="51575258" crc="610b93a8" md5="e7ebf963fa6b90a891ca27131152f739" sha1="1cdd584cb12665989646a00433bf126bf7b19955"/>
+	</game>
+	<game name="PC World - Volume 19 Number 07 (2001-07)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 07 (2001-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 07 (2001-07)(PCW Communications)(US).pdf" size="54273129" crc="437f0b7f" md5="47b4b175f22fc4af37e7edb1a1b91c9b" sha1="3e85332601bb4f90db6992de9fa4fdb20e17d491"/>
+	</game>
+	<game name="PC World - Volume 19 Number 08 (2001-08)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 08 (2001-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 08 (2001-08)(PCW Communications)(US).pdf" size="50355984" crc="ab960487" md5="9483d2512f91afef69e77ade2c93a710" sha1="4dc427a03d86494d6bd0112a459e7acaec265c4a"/>
+	</game>
+	<game name="PC World - Volume 19 Number 09 (2001-09)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 09 (2001-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 09 (2001-09)(PCW Communications)(US).pdf" size="45805770" crc="6da7e783" md5="25bea890edb7dc455575a9a2abebefba" sha1="8e933c6d497b12e223ed30fb354cd6bb16947c3f"/>
+	</game>
+	<game name="PC World - Volume 19 Number 10 (2001-10)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 10 (2001-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 10 (2001-10)(PCW Communications)(US).pdf" size="50219118" crc="d30f4f16" md5="ab708fdf42bfcf01836e52dffd56fc5c" sha1="f70983884ac64c2d01d205ac4e862dc8cb847368"/>
+	</game>
+	<game name="PC World - Volume 19 Number 11 (2001-11)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 11 (2001-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 11 (2001-11)(PCW Communications)(US).pdf" size="47551196" crc="9524bbae" md5="ac7d1bdb857fea4c7014b83cd42f0e57" sha1="85e494f5c4bfe4f972ed5278887d94975ec179a1"/>
+	</game>
+	<game name="PC World - Volume 19 Number 12 (2001-12)(PCW Communications)(US)">
+		<description>PC World - Volume 19 Number 12 (2001-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 19 Number 12 (2001-12)(PCW Communications)(US).pdf" size="46673621" crc="64363831" md5="ba22fefed44e5a09d690c530878482fc" sha1="446368e4679e53e63c5334c63391d251fd4fbd8f"/>
+	</game>
+	<game name="PC World - Volume 20 Number 01 (2002-01)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 01 (2002-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 01 (2002-01)(PCW Communications)(US).pdf" size="42237422" crc="d6d8ca43" md5="31c932c70bea105680ed9dedac7e7beb" sha1="8721ec27fef5524580bd3c84e8abf9e54ed1dd42"/>
+	</game>
+	<game name="PC World - Volume 20 Number 02 (2002-02)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 02 (2002-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 02 (2002-02)(PCW Communications)(US).pdf" size="42528521" crc="5a7b3d11" md5="4aa20368367da3d398684833fc56ceb0" sha1="d6113cba22b2d7d56a72bbca80f5a929645b405d"/>
+	</game>
+	<game name="PC World - Volume 20 Number 03 (2002-03)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 03 (2002-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 03 (2002-03)(PCW Communications)(US).pdf" size="40896553" crc="f10d4f31" md5="9996abef201092a0e990a0a750fce5ac" sha1="b07017640ea2162e93ac68784235cf4c0d5878d0"/>
+	</game>
+	<game name="PC World - Volume 20 Number 04 (2002-04)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 04 (2002-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 04 (2002-04)(PCW Communications)(US).pdf" size="39354498" crc="035f7cb4" md5="80f3b9ab6839bb281a29f5e560b206af" sha1="a64607a066ed97cd34ab853566c0cf5f93c2f0c0"/>
+	</game>
+	<game name="PC World - Volume 20 Number 05 (2002-05)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 05 (2002-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 05 (2002-05)(PCW Communications)(US).pdf" size="36867049" crc="d91cd6be" md5="c4ec0b161cb8082bfb121bd3bb417250" sha1="679ea05f8bebb4be65cbb8f40a54b451e6d2f733"/>
+	</game>
+	<game name="PC World - Volume 20 Number 06 (2002-06)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 06 (2002-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 06 (2002-06)(PCW Communications)(US).pdf" size="34943805" crc="2f57392a" md5="c9d0b2e8a7af6fd8cbb9c61b2800581b" sha1="30df4e97e6c2eb359d018defcc45e4fd196c4b41"/>
+	</game>
+	<game name="PC World - Volume 20 Number 07 (2002-07)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 07 (2002-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 07 (2002-07)(PCW Communications)(US).pdf" size="42536595" crc="f1856342" md5="d4ddefb919d5ec6b48c20d093c531dfc" sha1="9a1b61a84f85c55d765c4241f9404019b4bf3658"/>
+	</game>
+	<game name="PC World - Volume 20 Number 08 (2002-08)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 08 (2002-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 08 (2002-08)(PCW Communications)(US).pdf" size="37654606" crc="acf5c128" md5="672c4f5bd7301f7b055236c52fe22ab4" sha1="8d60af059d1e41d8a701f03cfcc6bb1151294abd"/>
+	</game>
+	<game name="PC World - Volume 20 Number 09 (2002-09)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 09 (2002-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 09 (2002-09)(PCW Communications)(US).pdf" size="41866707" crc="c3158990" md5="02165c0ed3ebff83f3a3da92a582eb5a" sha1="b13274c06b23c71092b7423f860cf95d9a4253a7"/>
+	</game>
+	<game name="PC World - Volume 20 Number 10 (2002-10)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 10 (2002-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 10 (2002-10)(PCW Communications)(US).pdf" size="42161393" crc="a73dec51" md5="c1abec045a90c0a54a58c12ce185a00b" sha1="fc68a0de19039528ae80aab24e5477065001dc78"/>
+	</game>
+	<game name="PC World - Volume 20 Number 11 (2002-11)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 11 (2002-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 11 (2002-11)(PCW Communications)(US).pdf" size="43621138" crc="1ac09523" md5="f4c0e3c54d3205e5b9b5f4a28620de84" sha1="5c7a700eb509a4a1144e0074b17efba6870eb0c0"/>
+	</game>
+	<game name="PC World - Volume 20 Number 12 (2002-12)(PCW Communications)(US)">
+		<description>PC World - Volume 20 Number 12 (2002-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 20 Number 12 (2002-12)(PCW Communications)(US).pdf" size="52578057" crc="5eade9ab" md5="e148624df383d0e3ad654a03e2284774" sha1="ddff887b4ce4d9b5724d1ba32215b458e191d1d3"/>
+	</game>
+	<game name="PC World - Volume 21 Number 01 (2003-01)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 01 (2003-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 01 (2003-01)(PCW Communications)(US).pdf" size="42590428" crc="19f8fd6a" md5="8604db7a1589db9b1af21655f8c616f6" sha1="ba77631d10afb114d5b41de80ede0c8fbd237b73"/>
+	</game>
+	<game name="PC World - Volume 21 Number 02 (2003-02)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 02 (2003-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 02 (2003-02)(PCW Communications)(US).pdf" size="42172429" crc="9cfe6814" md5="342a051101364c874262778ff58c0be8" sha1="c1111371156c9c59110246ed5c2440fbee3172c3"/>
+	</game>
+	<game name="PC World - Volume 21 Number 03 (2003-03)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 03 (2003-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 03 (2003-03)(PCW Communications)(US).pdf" size="37992609" crc="616aa799" md5="ec0c97678c296b6bf21994f063e0d047" sha1="8ee72fb1f0e986997d63ae5bafda8a2692c5b3f1"/>
+	</game>
+	<game name="PC World - Volume 21 Number 04 (2003-04)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 04 (2003-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 04 (2003-04)(PCW Communications)(US).pdf" size="38372151" crc="b6d6c4a1" md5="3b67c020eeca31639760d3488c65cc14" sha1="b762e46a1699ba88ce2919923b7e8084b71e6979"/>
+	</game>
+	<game name="PC World - Volume 21 Number 05 (2003-05)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 05 (2003-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 05 (2003-05)(PCW Communications)(US).pdf" size="37660521" crc="6c2b4870" md5="96cc8f2ef0d05fc0a52ca30cdf650e7b" sha1="e7c1bb6c31d09756af16f5b43f8c89fd9b76b137"/>
+	</game>
+	<game name="PC World - Volume 21 Number 06 (2003-06)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 06 (2003-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 06 (2003-06)(PCW Communications)(US).pdf" size="36967810" crc="b7a73a72" md5="40396be1a11a23290d0bccd04f1b95ba" sha1="e28e5856af825a08d0c46a4e2e1bd6aa951ef6e1"/>
+	</game>
+	<game name="PC World - Volume 21 Number 07 (2003-07)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 07 (2003-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 07 (2003-07)(PCW Communications)(US).pdf" size="38392949" crc="4dc85509" md5="0eae77135e164f404ad48bc788526b1f" sha1="ae10f3ead8b84c3d85a1c4a3c71f55f7ecf2b72a"/>
+	</game>
+	<game name="PC World - Volume 21 Number 08 (2003-08)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 08 (2003-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 08 (2003-08)(PCW Communications)(US).pdf" size="37470883" crc="dc28767c" md5="3db7fc725ffd32203250f83a42d74c9d" sha1="0e29d790faf2818bb855abf43f8dae05015428eb"/>
+	</game>
+	<game name="PC World - Volume 21 Number 09 (2003-09)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 09 (2003-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 09 (2003-09)(PCW Communications)(US).pdf" size="40513304" crc="9349cb92" md5="d5d44deee2fd39b750e7fc92b8e01334" sha1="9aff8c116f02c74e8ebc1e83bb268f6593530dea"/>
+	</game>
+	<game name="PC World - Volume 21 Number 10 (2003-10)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 10 (2003-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 10 (2003-10)(PCW Communications)(US).pdf" size="41019865" crc="8c3f0cb7" md5="5ca1bab5c3a48ebece1e0b036a3d991e" sha1="ccf32484f76d9b0a84b3e782effa67ade17fdaa9"/>
+	</game>
+	<game name="PC World - Volume 21 Number 11 (2003-11)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 11 (2003-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 11 (2003-11)(PCW Communications)(US).pdf" size="46997022" crc="13cef5c1" md5="1db95eb444a11b151b39f6c42f11cb0e" sha1="a898ee8d5b8e17f65d4ba4eef287fa9004ad60f0"/>
+	</game>
+	<game name="PC World - Volume 21 Number 12 (2003-12)(PCW Communications)(US)">
+		<description>PC World - Volume 21 Number 12 (2003-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 21 Number 12 (2003-12)(PCW Communications)(US).pdf" size="46518097" crc="4f6419e7" md5="88035ec6c6f5a4675b52e68354066f23" sha1="3a8f533d14197f38ce3ad810382ab5f83de39f3f"/>
+	</game>
+	<game name="PC World - Volume 22 Number 01 (2004-01)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 01 (2004-01)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 01 (2004-01)(PCW Communications)(US).pdf" size="38125772" crc="9c811bc0" md5="5e2ff89c39a666458cbfe0088c4968a8" sha1="4e865ecb25ca0e8c36550835fe93a825f5c5998f"/>
+	</game>
+	<game name="PC World - Volume 22 Number 02 (2004-02)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 02 (2004-02)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 02 (2004-02)(PCW Communications)(US).pdf" size="36298567" crc="7e6a3fd0" md5="81c5d0973988d893129179b45d731497" sha1="b694a26feae0a39612e86f1efa4de62e839e54b0"/>
+	</game>
+	<game name="PC World - Volume 22 Number 03 (2004-03)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 03 (2004-03)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 03 (2004-03)(PCW Communications)(US).pdf" size="45190802" crc="6beeb7db" md5="d5dd60255cdbf20cace838bf9902a534" sha1="f8611609a34140931afb5ac384f1626677d1aea5"/>
+	</game>
+	<game name="PC World - Volume 22 Number 04 (2004-04)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 04 (2004-04)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 04 (2004-04)(PCW Communications)(US).pdf" size="25393162" crc="d127845f" md5="b0cf43673c6ffe1f73d39ee9507e9b0f" sha1="09cd1d891a5cff61980e70bbd09760c797a93014"/>
+	</game>
+	<game name="PC World - Volume 22 Number 05 (2004-05)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 05 (2004-05)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 05 (2004-05)(PCW Communications)(US).pdf" size="44410848" crc="a7f103f2" md5="703a247ba451e33415e7f1047caa6273" sha1="54aa01b4ceea203e716cd8446954c58fb9d821cb"/>
+	</game>
+	<game name="PC World - Volume 22 Number 06 (2004-06)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 06 (2004-06)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 06 (2004-06)(PCW Communications)(US).pdf" size="43235225" crc="6acc55e9" md5="887bb7361e495f0d9fec7e40b16a8fe5" sha1="e55d6d94fb1ba03bee052963d74a6de28fa76d1a"/>
+	</game>
+	<game name="PC World - Volume 22 Number 07 (2004-07)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 07 (2004-07)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 07 (2004-07)(PCW Communications)(US).pdf" size="42726456" crc="c0ac5a57" md5="7af43456929da47021c5b88dbb4aa61f" sha1="d6d0252c6d6378a9f5ca8a5ae380fe3df9c7af09"/>
+	</game>
+	<game name="PC World - Volume 22 Number 08 (2004-08)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 08 (2004-08)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 08 (2004-08)(PCW Communications)(US).pdf" size="40781411" crc="6e25a216" md5="9a4c6da71c72824aab61ca570ff619cf" sha1="03fc9fd8b8b07e5c831a8116bd9c9b085f2d72d7"/>
+	</game>
+	<game name="PC World - Volume 22 Number 09 (2004-09)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 09 (2004-09)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 09 (2004-09)(PCW Communications)(US).pdf" size="40124338" crc="828fe870" md5="3dcbdecbb86f926c96c25b8f85578cdc" sha1="1b21166abc0af9cd155d2cebae830280a79638cc"/>
+	</game>
+	<game name="PC World - Volume 22 Number 10 (2004-10)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 10 (2004-10)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 10 (2004-10)(PCW Communications)(US).pdf" size="39231223" crc="5486bf09" md5="93b3b5922f24782ff475d4bbfe9121b4" sha1="a2d3b19715d6102e187742372c3e51ba85e9e8c2"/>
+	</game>
+	<game name="PC World - Volume 22 Number 11 (2004-11)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 11 (2004-11)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 11 (2004-11)(PCW Communications)(US).pdf" size="47085034" crc="ca462509" md5="cf1eaa024763199b5d7a881424fb4d37" sha1="cb6d9e60e3a2b459c43f81278f7e5c6fc157e2c4"/>
+	</game>
+	<game name="PC World - Volume 22 Number 12 (2004-12)(PCW Communications)(US)">
+		<description>PC World - Volume 22 Number 12 (2004-12)(PCW Communications)(US)</description>
+		<rom name="PC World - Volume 22 Number 12 (2004-12)(PCW Communications)(US).pdf" size="50030311" crc="41d6cd9b" md5="5b7ea0efb3f0839afe530e79f6f2f0da" sha1="1e406cafdfd5900f74b54e04db86b81eeba9d5a9"/>
+	</game>
+	<game name="PC World - Volume 23 Number 01 (2005-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 01 (2005-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 01 (2005-01)(Ziff Davis)(US).pdf" size="42556306" crc="30031f76" md5="784a65138a0c054626b1184460534123" sha1="ecb7925427b2db42655312c602949643fbd5ffb8"/>
+	</game>
+	<game name="PC World - Volume 23 Number 02 (2005-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 02 (2005-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 02 (2005-02)(Ziff Davis)(US).pdf" size="13925023" crc="de5f2d7c" md5="9b8c8eac58abf932f176a0d5ecdfaab8" sha1="7f15782be129f1cb31fb30498e6b9998ce92da76"/>
+	</game>
+	<game name="PC World - Volume 23 Number 03 (2005-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 03 (2005-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 03 (2005-03)(Ziff Davis)(US).pdf" size="12786279" crc="ddc7fecb" md5="511f94ed96cbe26da792b393649199de" sha1="1d58431de54db6a6f3485733a2deaf0221ed4138"/>
+	</game>
+	<game name="PC World - Volume 23 Number 04 (2005-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 04 (2005-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 04 (2005-04)(Ziff Davis)(US).pdf" size="13997055" crc="4df58e11" md5="ebb1bf23c90f34057adc85f90ff32c8f" sha1="a63196b597fec57e306a8a1c048227aa0c03c429"/>
+	</game>
+	<game name="PC World - Volume 23 Number 06 (2005-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 06 (2005-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 06 (2005-06)(Ziff Davis)(US).pdf" size="14751543" crc="c3f646d7" md5="e1c66a499732fd45875480b630863177" sha1="5b130fabc550f3d33b29d1194f9912c85ab99ace"/>
+	</game>
+	<game name="PC World - Volume 23 Number 07 (2005-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 07 (2005-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 07 (2005-07)(Ziff Davis)(US).pdf" size="4002754" crc="60fa8a56" md5="75bf4a6879ccf4a36a66a243199bdb15" sha1="81d6220ee803add3c9ecb6e70e4346e6067307f7"/>
+	</game>
+	<game name="PC World - Volume 23 Number 08 (2005-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 08 (2005-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 08 (2005-08)(Ziff Davis)(US).pdf" size="13017654" crc="ba10365d" md5="6c74ed2ae5f7543e6793559e854d6522" sha1="708030830c844c92bca42a55aee0ecd575099e82"/>
+	</game>
+	<game name="PC World - Volume 23 Number 09 (2005-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 09 (2005-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 09 (2005-09)(Ziff Davis)(US).pdf" size="13147374" crc="a2228190" md5="f4a73109f3c2337fe515155587595a61" sha1="9e201b80bede5543f0e397522dc2a203fc571ce5"/>
+	</game>
+	<game name="PC World - Volume 23 Number 10 (2005-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 10 (2005-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 10 (2005-10)(Ziff Davis)(US).pdf" size="35953376" crc="b4d49414" md5="82508c30dbc74c7f83304b239901e6f5" sha1="0075820bd9d05e79db5f42db13ee7d1036fdf585"/>
+	</game>
+	<game name="PC World - Volume 23 Number 11 (2005-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 11 (2005-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 11 (2005-11)(Ziff Davis)(US).pdf" size="16330980" crc="6df22b99" md5="ea00b0e70b901859220b79763feb11b6" sha1="d4b096a2fe3113a02cc9a169e3aa89bcb57bebd7"/>
+	</game>
+	<game name="PC World - Volume 23 Number 12 (2005-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 23 Number 12 (2005-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 23 Number 12 (2005-12)(Ziff Davis)(US).pdf" size="67447520" crc="62ceb7af" md5="d094c6944846a5a45822f50a4e57c7c2" sha1="7ad6c6c27604d16182feffda7871814f4c93f8e1"/>
+	</game>
+	<game name="PC World - Volume 24 Number 01 (2006-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 01 (2006-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 01 (2006-01)(Ziff Davis)(US).pdf" size="13105425" crc="e2a628a1" md5="27ef7f584ec6a42283db357614cc6324" sha1="5e20d4d2f8f1b3ed41c53c809fe62f4554a609cb"/>
+	</game>
+	<game name="PC World - Volume 24 Number 02 (2006-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 02 (2006-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 02 (2006-02)(Ziff Davis)(US).pdf" size="13608260" crc="88599d88" md5="42453da8fd38d6276aec9afef225d902" sha1="95868dae2a63573ec409f040b87dc92807826f3a"/>
+	</game>
+	<game name="PC World - Volume 24 Number 02 (2006-02)(Ziff Davis)(US)[a]">
+		<description>PC World - Volume 24 Number 02 (2006-02)(Ziff Davis)(US)[a]</description>
+		<rom name="PC World - Volume 24 Number 02 (2006-02)(Ziff Davis)(US)[a].pdf" size="4391943" crc="15ea20f0" md5="c83fed1dc58c90bae54b7e5c28bb3d6f" sha1="3898c3a62d23a3272e0859a2a746fe9fa415964d"/>
+	</game>
+	<game name="PC World - Volume 24 Number 03 (2006-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 03 (2006-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 03 (2006-03)(Ziff Davis)(US).pdf" size="14128835" crc="9a043d3d" md5="72280ee53958501f1ea11079c25be761" sha1="ad7abc876db0c515e9e30dde9a4cc7c8e878d0fc"/>
+	</game>
+	<game name="PC World - Volume 24 Number 03 (2006-03)(Ziff Davis)(US)[a]">
+		<description>PC World - Volume 24 Number 03 (2006-03)(Ziff Davis)(US)[a]</description>
+		<rom name="PC World - Volume 24 Number 03 (2006-03)(Ziff Davis)(US)[a].pdf" size="4214851" crc="6854731a" md5="8b215983a60265b9231c93c246afd68b" sha1="64b7a0c0795554c629b751b6e1506999ec0efa77"/>
+	</game>
+	<game name="PC World - Volume 24 Number 04 (2006-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 04 (2006-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 04 (2006-04)(Ziff Davis)(US).pdf" size="14465936" crc="aa9f61d5" md5="d03756401d52003f772d9372182d5a91" sha1="fa8ec8fda138dedb1984530d68ca413fe3cafc19"/>
+	</game>
+	<game name="PC World - Volume 24 Number 05 (2006-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 05 (2006-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 05 (2006-05)(Ziff Davis)(US).pdf" size="15676510" crc="a567f1f6" md5="82e238e3b527fdbbf5266c02a3b42533" sha1="c37126dac7fb44298c89ce7b65ad48f3d8985e58"/>
+	</game>
+	<game name="PC World - Volume 24 Number 06 (2006-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 06 (2006-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 06 (2006-06)(Ziff Davis)(US).pdf" size="33823983" crc="db09065d" md5="7cbaf33644b570709d09e4de2cc9b1f5" sha1="7f1796fc7e5d07ab841b95ee789e66e72e86a69a"/>
+	</game>
+	<game name="PC World - Volume 24 Number 07 (2006-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 07 (2006-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 07 (2006-07)(Ziff Davis)(US).pdf" size="3905654" crc="da38c674" md5="3237e1834ce7b694d66258f00b142e36" sha1="f522c535e8d2c60a89342fcd5211952d61bb3cc8"/>
+	</game>
+	<game name="PC World - Volume 24 Number 08 (2006-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 08 (2006-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 08 (2006-08)(Ziff Davis)(US).pdf" size="32293780" crc="6c095731" md5="78026d596c743e4fc26054868946252d" sha1="d8b1d597e5c92078da4d0037389d7b1772f66d5c"/>
+	</game>
+	<game name="PC World - Volume 24 Number 09 (2006-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 09 (2006-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 09 (2006-09)(Ziff Davis)(US).pdf" size="4738011" crc="97361531" md5="581521f7e38f43cde4a91a23fbb38e37" sha1="c2b2872fca507f551e6214c02565d810ea5ba8fe"/>
+	</game>
+	<game name="PC World - Volume 24 Number 09 (2006-09)(Ziff Davis)(US)[a]">
+		<description>PC World - Volume 24 Number 09 (2006-09)(Ziff Davis)(US)[a]</description>
+		<rom name="PC World - Volume 24 Number 09 (2006-09)(Ziff Davis)(US)[a].pdf" size="3574134" crc="fe3b7a00" md5="6b4b1e5699bab3f88c93d2d79adb60c8" sha1="cdc473699538dd21237d3937f9b55c48fcc1fdcf"/>
+	</game>
+	<game name="PC World - Volume 24 Number 10 (2006-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 10 (2006-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 10 (2006-10)(Ziff Davis)(US).pdf" size="18053545" crc="d8ea0794" md5="161b609d4c1eaed377604a4202259c8a" sha1="bfaca4c3298bb47746554bd2ff7f2ff47901a606"/>
+	</game>
+	<game name="PC World - Volume 24 Number 11 (2006-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 11 (2006-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 11 (2006-11)(Ziff Davis)(US).pdf" size="34767928" crc="02d4a89c" md5="24c68a21a271b9dec022b7750dc9e49e" sha1="928ff9581760c8959c67e035e8d657f18d37af8b"/>
+	</game>
+	<game name="PC World - Volume 24 Number 12 (2006-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 24 Number 12 (2006-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 24 Number 12 (2006-12)(Ziff Davis)(US).pdf" size="20379043" crc="8a0c7fbc" md5="3f6e6d9c6a5da4100a8c31b541b15c3a" sha1="97cf3dd1028b9d31f00528871282531f93ef03f4"/>
+	</game>
+	<game name="PC World - Volume 24 Number 12 (2006-12)(Ziff Davis)(US)[a]">
+		<description>PC World - Volume 24 Number 12 (2006-12)(Ziff Davis)(US)[a]</description>
+		<rom name="PC World - Volume 24 Number 12 (2006-12)(Ziff Davis)(US)[a].pdf" size="5114585" crc="bd6256e3" md5="2bd1139daf3937117360eaca140edf36" sha1="2e5a2c87ae598aa2c97fb2b27df1ae5e4f03ec64"/>
+	</game>
+	<game name="PC World - Volume 25 Number 01 (2007-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 01 (2007-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 01 (2007-01)(Ziff Davis)(US).pdf" size="21744735" crc="d86058c1" md5="1831334ef723726a23f4c4bc1454b1a7" sha1="be692a77f0432ade84b0436c1be747d91b0c7c58"/>
+	</game>
+	<game name="PC World - Volume 25 Number 02 (2007-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 02 (2007-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 02 (2007-02)(Ziff Davis)(US).pdf" size="33058639" crc="76a0b00f" md5="d33ff2928dfcc00ebfdfc6a68b15260c" sha1="6c68ca227cec49b6830f46caf90c97cf3bfdb97a"/>
+	</game>
+	<game name="PC World - Volume 25 Number 03 (2007-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 03 (2007-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 03 (2007-03)(Ziff Davis)(US).pdf" size="13773159" crc="50031e9e" md5="7aa2f9ca1ccfa4060a4d10752b3ffda8" sha1="000fd3318ad25e81d01d206cf2a62cfffe52c4d6"/>
+	</game>
+	<game name="PC World - Volume 25 Number 04 (2007-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 04 (2007-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 04 (2007-04)(Ziff Davis)(US).pdf" size="29344403" crc="a5aa75c0" md5="c2f216df07e2e39e84a547ff9e0f27f8" sha1="bcde4f0b71ef609c43d7b358288518bf1855025b"/>
+	</game>
+	<game name="PC World - Volume 25 Number 05 (2007-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 05 (2007-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 05 (2007-05)(Ziff Davis)(US).pdf" size="14512305" crc="55f309b9" md5="292db74c312d6320fba75b91d61a8e95" sha1="b6b5bab11e0983128584c9c06f73e2b75e70c62b"/>
+	</game>
+	<game name="PC World - Volume 25 Number 06 (2007-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 06 (2007-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 06 (2007-06)(Ziff Davis)(US).pdf" size="27243602" crc="7162d464" md5="453e6bbc57c81b8ef21f9562cbcd8c05" sha1="8676078fef5665bfc678f836eccdc629f110173c"/>
+	</game>
+	<game name="PC World - Volume 25 Number 07 (2007-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 07 (2007-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 07 (2007-07)(Ziff Davis)(US).pdf" size="26705911" crc="2da056d7" md5="2ddaafe41c75bb1e524ee6de6c49502b" sha1="1684e700f33b273ef5b51e38d0ceb13aa35789f0"/>
+	</game>
+	<game name="PC World - Volume 25 Number 08 (2007-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 08 (2007-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 08 (2007-08)(Ziff Davis)(US).pdf" size="27413591" crc="cf219fff" md5="8aa96572d71c36d061bf6e0623c1241c" sha1="a9d91247018e445f4b0261981c6ec42d35e5c6c1"/>
+	</game>
+	<game name="PC World - Volume 25 Number 09 (2007-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 09 (2007-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 09 (2007-09)(Ziff Davis)(US).pdf" size="29914994" crc="b4890bd3" md5="44b7f6754ea38abc3a1616ade9239d67" sha1="0c586282d6467f988455051bc7f6070d2fb535bc"/>
+	</game>
+	<game name="PC World - Volume 25 Number 10 (2007-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 10 (2007-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 10 (2007-10)(Ziff Davis)(US).pdf" size="29583398" crc="0fbbdc7e" md5="ce5d4992cb0af517add88fb27e3c2fcb" sha1="f3dfb4995652744ec73b5ec518b289da744d85dc"/>
+	</game>
+	<game name="PC World - Volume 25 Number 11 (2007-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 11 (2007-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 11 (2007-11)(Ziff Davis)(US).pdf" size="32238753" crc="7db1cd07" md5="af39abed29a03cec748f29f0cf4b619b" sha1="7b35aecb33549cbdb8be4b680c438eab5c3ae851"/>
+	</game>
+	<game name="PC World - Volume 25 Number 12 (2007-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 25 Number 12 (2007-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 25 Number 12 (2007-12)(Ziff Davis)(US).pdf" size="22452792" crc="e4684d68" md5="b7256029dd5ea19fb859927f2367535a" sha1="c0229204811b91301203d724e89eb3f7c92f7731"/>
+	</game>
+	<game name="PC World - Volume 26 Number 01 (2008-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 01 (2008-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 01 (2008-01)(Ziff Davis)(US).pdf" size="29778245" crc="982cd0d1" md5="1df86516ab3c0df0ae6bc41abd06760d" sha1="efbdab38ac2ad2a0db6365af7cd701b8d1a90b36"/>
+	</game>
+	<game name="PC World - Volume 26 Number 02 (2008-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 02 (2008-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 02 (2008-02)(Ziff Davis)(US).pdf" size="35518383" crc="c92fdb8d" md5="48ead69ca0f43557cc793b10adb7c326" sha1="ec9c9b5d363173bbb87e6b82afc9142e7b21b9e5"/>
+	</game>
+	<game name="PC World - Volume 26 Number 03 (2008-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 03 (2008-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 03 (2008-03)(Ziff Davis)(US).pdf" size="28951187" crc="60e8b5bd" md5="17f2e893eb5098a40c5a102f256d8b7b" sha1="d3df1fbe4634dfa8bac304bf665a0c02e6ecef6c"/>
+	</game>
+	<game name="PC World - Volume 26 Number 04 (2008-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 04 (2008-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 04 (2008-04)(Ziff Davis)(US).pdf" size="28494392" crc="48e3763d" md5="175e7e67efbe1af7b6e192df001def29" sha1="94fe2ab7bb176b9aaa8d0a67438c09827a47105d"/>
+	</game>
+	<game name="PC World - Volume 26 Number 05 (2008-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 05 (2008-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 05 (2008-05)(Ziff Davis)(US).pdf" size="27890587" crc="52547777" md5="79f7612bd7767b62d1c1211eb354bfa8" sha1="68f07f650a591bed3a2169b8946cf9932634b583"/>
+	</game>
+	<game name="PC World - Volume 26 Number 06 (2008-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 06 (2008-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 06 (2008-06)(Ziff Davis)(US).pdf" size="13729772" crc="b1cc506e" md5="7e355d1a6895e008fd388d4c268795da" sha1="d61fe3f5a645b12766571743bb4231c7249c14d8"/>
+	</game>
+	<game name="PC World - Volume 26 Number 07 (2008-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 07 (2008-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 07 (2008-07)(Ziff Davis)(US).pdf" size="27536973" crc="50205473" md5="5724cd699c247715b023ea1f8ab62ef6" sha1="a08e672efb93187b2f2c104355fb2f1e5754310a"/>
+	</game>
+	<game name="PC World - Volume 26 Number 08 (2008-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 08 (2008-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 08 (2008-08)(Ziff Davis)(US).pdf" size="35798579" crc="1753b742" md5="7161373312c7cecd4290a9dafbb3e38e" sha1="61d5e56f1b344a10da25c6ae32a83694df060c16"/>
+	</game>
+	<game name="PC World - Volume 26 Number 09 (2008-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 09 (2008-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 09 (2008-09)(Ziff Davis)(US).pdf" size="40033651" crc="4777aad9" md5="79fd876352b59d55df7553ac22fd66e4" sha1="42808e31a2ea1b18905ab281f0728f2854b78731"/>
+	</game>
+	<game name="PC World - Volume 26 Number 10 (2008-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 10 (2008-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 10 (2008-10)(Ziff Davis)(US).pdf" size="29276219" crc="f5f27883" md5="f875ccaf6ae1607a079b32adfd6c055a" sha1="fd95964d6b563df9245362b77a39473a2e14bff5"/>
+	</game>
+	<game name="PC World - Volume 26 Number 11 (2008-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 11 (2008-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 11 (2008-11)(Ziff Davis)(US).pdf" size="29436854" crc="8587ddcf" md5="5385f4b9fc74a3c14885280b9be49536" sha1="2c93cb30e5e5912b60b1f21ab581fc207b1c78d3"/>
+	</game>
+	<game name="PC World - Volume 26 Number 12 (2008-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 26 Number 12 (2008-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 26 Number 12 (2008-12)(Ziff Davis)(US).pdf" size="30505129" crc="afd019e9" md5="1c4cb675b0249783e71d7f4f4df2af8e" sha1="177647e6212c42e95276db28989c8c8bdb7933ad"/>
+	</game>
+	<game name="PC World - Volume 27 Number 01 (2009-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 01 (2009-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 01 (2009-01)(Ziff Davis)(US).pdf" size="25184946" crc="f83aacc6" md5="46651df07e5747d5fb7d030886d08d3e" sha1="8d4fe69954d12c23d7b22a41fddd7d1b060c5376"/>
+	</game>
+	<game name="PC World - Volume 27 Number 02 (2009-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 02 (2009-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 02 (2009-02)(Ziff Davis)(US).pdf" size="33748838" crc="99d86922" md5="c8611a05c322262aa4eb99d2ed9cbe02" sha1="01f7dff9bfead5dd160b7038466a052c11995bfb"/>
+	</game>
+	<game name="PC World - Volume 27 Number 03 (2009-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 03 (2009-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 03 (2009-03)(Ziff Davis)(US).pdf" size="18538839" crc="59b9af47" md5="4683d1056597931f6caf3ebc5353fe79" sha1="8f9309697a1bd3c0ab8c6f49bff6cc77c6d2c1fd"/>
+	</game>
+	<game name="PC World - Volume 27 Number 04 (2009-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 04 (2009-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 04 (2009-04)(Ziff Davis)(US).pdf" size="22631627" crc="b59e1e7d" md5="5d67a1d6dcd8c433e33d3793252dfa95" sha1="4e1ce94ab8b300bf12e0fa4aac6c0e0f1fb08cff"/>
+	</game>
+	<game name="PC World - Volume 27 Number 05 (2009-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 05 (2009-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 05 (2009-05)(Ziff Davis)(US).pdf" size="33145307" crc="e26a3742" md5="688aed6031d01d3f6643db00089a81bc" sha1="1cf4cec4ecc61868b3ea6960609ccb29063d3695"/>
+	</game>
+	<game name="PC World - Volume 27 Number 06 (2009-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 06 (2009-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 06 (2009-06)(Ziff Davis)(US).pdf" size="38179266" crc="68e05a7b" md5="3b7b70d39d700fc3cbfd4bd1f6a7e491" sha1="d3efbe5acd3988809b0adb3dc7f1fabbddf7e0e2"/>
+	</game>
+	<game name="PC World - Volume 27 Number 07 (2009-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 07 (2009-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 07 (2009-07)(Ziff Davis)(US).pdf" size="38241506" crc="eecd2fc5" md5="43975bd20f56f6866509e3d482ec2127" sha1="ef81f639817f56777a72736ae0c9686b42f2f1bd"/>
+	</game>
+	<game name="PC World - Volume 27 Number 08 (2009-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 08 (2009-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 08 (2009-08)(Ziff Davis)(US).pdf" size="22414910" crc="96f6f97e" md5="c9b469b1ca722f74aee51f6d53bd802a" sha1="92febc616b837be2d1e4c2e166caf90a055edd6a"/>
+	</game>
+	<game name="PC World - Volume 27 Number 09 (2009-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 09 (2009-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 09 (2009-09)(Ziff Davis)(US).pdf" size="26799742" crc="01c28e7c" md5="c0f0266f73d7059094b04e306121455b" sha1="10babb920e649aae24a3cb5ee45cf08b5c410d30"/>
+	</game>
+	<game name="PC World - Volume 27 Number 10 (2009-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 10 (2009-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 10 (2009-10)(Ziff Davis)(US).pdf" size="38408148" crc="1c1d2407" md5="3ba59eead78fd3d52e81ca8177a21f5e" sha1="3805a2d3a66710d817c657c75da753b0a7302ea3"/>
+	</game>
+	<game name="PC World - Volume 27 Number 11 (2009-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 11 (2009-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 11 (2009-11)(Ziff Davis)(US).pdf" size="36737987" crc="670f937a" md5="502e51045dfff94b6fe319f086b1463a" sha1="11730780022d89dc61a3981fb17dc4d29d9c751e"/>
+	</game>
+	<game name="PC World - Volume 27 Number 12 (2009-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 27 Number 12 (2009-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 27 Number 12 (2009-12)(Ziff Davis)(US).pdf" size="32805731" crc="d4a2455e" md5="52796aeb0a4b0ecccdd04e0845ce2230" sha1="a599f9e3faaabc4515457905b0908e9282fff3ef"/>
+	</game>
+	<game name="PC World - Volume 28 Number 01 (2010-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 01 (2010-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 01 (2010-01)(Ziff Davis)(US).pdf" size="29444138" crc="ccd67c74" md5="7204b3830af0d24580c37870171402b0" sha1="ba363c21b10d085288fb683e00747551f55f9425"/>
+	</game>
+	<game name="PC World - Volume 28 Number 02 (2010-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 02 (2010-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 02 (2010-02)(Ziff Davis)(US).pdf" size="29698506" crc="fcef62c0" md5="4b5822683a2435857d1e9845cd51956c" sha1="1091e1db59d003f6f6b7e843c432cc813f605d51"/>
+	</game>
+	<game name="PC World - Volume 28 Number 03 (2010-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 03 (2010-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 03 (2010-03)(Ziff Davis)(US).pdf" size="15119407" crc="24646e29" md5="61a44e8d6aff3b1d97bfd6c731a8100c" sha1="2386b3c1087ddaba76127d606362c417d36443c3"/>
+	</game>
+	<game name="PC World - Volume 28 Number 04 (2010-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 04 (2010-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 04 (2010-04)(Ziff Davis)(US).pdf" size="29917486" crc="7c901e7f" md5="951204c29f46a53ae2226befee553277" sha1="ea8aeeb0aeaceb48f5db0a10737c5d6787f8c249"/>
+	</game>
+	<game name="PC World - Volume 28 Number 05 (2010-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 05 (2010-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 05 (2010-05)(Ziff Davis)(US).pdf" size="29225595" crc="3591b601" md5="a9dfb07621b06f653ad132f4ea3d0a6c" sha1="62ac756d0c030dfc0eaeaacbd93509e5b16b3b5c"/>
+	</game>
+	<game name="PC World - Volume 28 Number 06 (2010-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 06 (2010-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 06 (2010-06)(Ziff Davis)(US).pdf" size="29523717" crc="37f22a82" md5="399a3581203fd5b6820d24fa702c4b53" sha1="0c829fb037613c2008f6a42c937996cb7278184f"/>
+	</game>
+	<game name="PC World - Volume 28 Number 07 (2010-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 07 (2010-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 07 (2010-07)(Ziff Davis)(US).pdf" size="13569730" crc="a8aea340" md5="82620811b755a41a6250c864439022a7" sha1="56a08e9affa291c208e3a394813ff0000f974b64"/>
+	</game>
+	<game name="PC World - Volume 28 Number 08 (2010-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 08 (2010-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 08 (2010-08)(Ziff Davis)(US).pdf" size="13325767" crc="809920c2" md5="10b610e2144dee153c055a5f37904c3a" sha1="0fe147d55ee79421ffb4378ec9d82b361e0c08f9"/>
+	</game>
+	<game name="PC World - Volume 28 Number 09 (2010-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 09 (2010-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 09 (2010-09)(Ziff Davis)(US).pdf" size="14472839" crc="a7ba18c7" md5="dc70565e34e3d7ca9b95072b61e359b6" sha1="3911d7b8a1814375315d8716b1bd71d6c3866444"/>
+	</game>
+	<game name="PC World - Volume 28 Number 10 (2010-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 10 (2010-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 10 (2010-10)(Ziff Davis)(US).pdf" size="15730032" crc="d6fb8157" md5="b5a655345e7308fc700c3b03aa81c357" sha1="8f0b4dc7aacddf5e90459ca05a75b31ae152e341"/>
+	</game>
+	<game name="PC World - Volume 28 Number 11 (2010-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 11 (2010-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 11 (2010-11)(Ziff Davis)(US).pdf" size="16557759" crc="fa5bee63" md5="25cb980d2f75227c0623e48111da83df" sha1="622630e22d2694cf58027c150fea3e3016836e37"/>
+	</game>
+	<game name="PC World - Volume 28 Number 11 (2010-11)(Ziff Davis)(US)[a]">
+		<description>PC World - Volume 28 Number 11 (2010-11)(Ziff Davis)(US)[a]</description>
+		<rom name="PC World - Volume 28 Number 11 (2010-11)(Ziff Davis)(US)[a].pdf" size="20978892" crc="6b502bda" md5="4edc46710a84b15febabe717ac0e4f7a" sha1="3d5fb1ff31883f8f0164ab4aa53da625b853cacb"/>
+	</game>
+	<game name="PC World - Volume 28 Number 12 (2010-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 28 Number 12 (2010-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 28 Number 12 (2010-12)(Ziff Davis)(US).pdf" size="24620964" crc="89feec92" md5="4c400653cf5e240b97bb6a8603321339" sha1="de93d978b5d87370683df87ed11b3f430fa8f91f"/>
+	</game>
+	<game name="PC World - Volume 29 Number 01 (2011-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 01 (2011-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 01 (2011-01)(Ziff Davis)(US).pdf" size="39982979" crc="f4dfca44" md5="67082987e6d688a8d83df6632427d9e8" sha1="b5e0b3a90ef0cee983682350c4c455008566f682"/>
+	</game>
+	<game name="PC World - Volume 29 Number 02 (2011-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 02 (2011-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 02 (2011-02)(Ziff Davis)(US).pdf" size="40724323" crc="ec17dc64" md5="09940de8778361afe5f0d795e0decafb" sha1="207dd782c5f98760a7288b863f7d9d8b3c70cb1e"/>
+	</game>
+	<game name="PC World - Volume 29 Number 03 (2011-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 03 (2011-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 03 (2011-03)(Ziff Davis)(US).pdf" size="51624659" crc="56506937" md5="7fdf9310624587c42efb86cb9c7050f4" sha1="514403b87fb23787fa07ad723dc666ff489001de"/>
+	</game>
+	<game name="PC World - Volume 29 Number 03 (2011-03)(Ziff Davis)(US)[a]">
+		<description>PC World - Volume 29 Number 03 (2011-03)(Ziff Davis)(US)[a]</description>
+		<rom name="PC World - Volume 29 Number 03 (2011-03)(Ziff Davis)(US)[a].pdf" size="51624707" crc="0ab40ddd" md5="e2bcc0ab012d35f456e816be036bad05" sha1="3868f30a74c54852ab8c64ab0c9203f01168b784"/>
+	</game>
+	<game name="PC World - Volume 29 Number 04 (2011-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 04 (2011-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 04 (2011-04)(Ziff Davis)(US).pdf" size="19106418" crc="09083b58" md5="30c50d9b70bc9a4c52ac686eef8e21d8" sha1="f9153bece67d46ee752cf3c4378e046acc1ed974"/>
+	</game>
+	<game name="PC World - Volume 29 Number 05 (2011-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 05 (2011-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 05 (2011-05)(Ziff Davis)(US).pdf" size="17201655" crc="53a0bced" md5="f8c3cb3078bfd9de1952e0816f355642" sha1="718aeaed52c74c904f24e01b1df0bdc4b4619e98"/>
+	</game>
+	<game name="PC World - Volume 29 Number 06 (2011-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 06 (2011-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 06 (2011-06)(Ziff Davis)(US).pdf" size="39053795" crc="17539119" md5="5ac39b6e41c61136016aadce6044d335" sha1="8d903fce6c8487e230c4c56c2b479cf52fca341c"/>
+	</game>
+	<game name="PC World - Volume 29 Number 07 (2011-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 07 (2011-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 07 (2011-07)(Ziff Davis)(US).pdf" size="16821331" crc="4533d7f0" md5="cceff08f17448f8cd9229e8d82160fd9" sha1="87556c26394a875eda5ad831cd757ee74588462c"/>
+	</game>
+	<game name="PC World - Volume 29 Number 07 (2011-07)(Ziff Davis)(US)[a]">
+		<description>PC World - Volume 29 Number 07 (2011-07)(Ziff Davis)(US)[a]</description>
+		<rom name="PC World - Volume 29 Number 07 (2011-07)(Ziff Davis)(US)[a].pdf" size="33627824" crc="8a9d4c2c" md5="532119f3d9be09fe8813acd0716431c0" sha1="d5ecc5ac916a5b7c5850a73f7c57e0c84479d863"/>
+	</game>
+	<game name="PC World - Volume 29 Number 08 (2011-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 08 (2011-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 08 (2011-08)(Ziff Davis)(US).pdf" size="42222083" crc="c91a8f41" md5="4bf04e9b5a159f4f0d229387f4b64a66" sha1="e01d677badd45b25cc8067c2fa1c96152ab1446d"/>
+	</game>
+	<game name="PC World - Volume 29 Number 08 (2011-08)(Ziff Davis)(US)[a]">
+		<description>PC World - Volume 29 Number 08 (2011-08)(Ziff Davis)(US)[a]</description>
+		<rom name="PC World - Volume 29 Number 08 (2011-08)(Ziff Davis)(US)[a].pdf" size="17267278" crc="9f12a025" md5="03be130c97cf4394da7e9fd59d72f1d3" sha1="f5b54dfedfdc469fc8da6ea0dc83c9c5f93f29b2"/>
+	</game>
+	<game name="PC World - Volume 29 Number 09 (2011-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 09 (2011-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 09 (2011-09)(Ziff Davis)(US).pdf" size="43828718" crc="4190d397" md5="a22368f4754a6a33029589ef6ac04c20" sha1="ea6f13c6b5bd7070a34f651c08134b3fffb93233"/>
+	</game>
+	<game name="PC World - Volume 29 Number 10 (2011-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 10 (2011-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 10 (2011-10)(Ziff Davis)(US).pdf" size="34271846" crc="a4e4cb3d" md5="c39efeffb4c8fc25a18bcb6a06b78145" sha1="4bf4237368cb179679423bf85791384c197c555e"/>
+	</game>
+	<game name="PC World - Volume 29 Number 11 (2011-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 11 (2011-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 11 (2011-11)(Ziff Davis)(US).pdf" size="19064944" crc="effbfbab" md5="d55d85b1ce233e8d920ae49409a61d05" sha1="f90a836169eebf7be645eb9c78cccd7c9ecfbf07"/>
+	</game>
+	<game name="PC World - Volume 29 Number 12 (2011-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 29 Number 12 (2011-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 29 Number 12 (2011-12)(Ziff Davis)(US).pdf" size="38886841" crc="8b3e4d5c" md5="eca81c1d22ed0018024c178b42bf4a34" sha1="0261f4086fad9d8b34f6856e124d368ea7cee6a8"/>
+	</game>
+	<game name="PC World - Volume 30 Number 01 (2012-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 01 (2012-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 01 (2012-01)(Ziff Davis)(US).pdf" size="66135451" crc="be644c95" md5="fafbc93dc79cc2446e967f42c3ca1152" sha1="8a057bf65f30c6561733410e3f8855823c5bf561"/>
+	</game>
+	<game name="PC World - Volume 30 Number 02 (2012-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 02 (2012-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 02 (2012-02)(Ziff Davis)(US).pdf" size="61984389" crc="78a9ef60" md5="76f2cb7c8cd7c55cb907404a66c2117e" sha1="277bf8b81653fa4ff102fea49515f14c89b2192e"/>
+	</game>
+	<game name="PC World - Volume 30 Number 03 (2012-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 03 (2012-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 03 (2012-03)(Ziff Davis)(US).pdf" size="63978270" crc="7ed4b83c" md5="2ad3e68c11b236f47c4e9eea67ec50e7" sha1="daf4d8ed78ca49d70c79cea4646a598bc0200262"/>
+	</game>
+	<game name="PC World - Volume 30 Number 04 (2012-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 04 (2012-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 04 (2012-04)(Ziff Davis)(US).pdf" size="66276381" crc="34aba3a9" md5="5a37601b6c8a36353d5e406d95d8f448" sha1="677d5f367532707f202b78b6a4b764f654a74eec"/>
+	</game>
+	<game name="PC World - Volume 30 Number 05 (2012-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 05 (2012-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 05 (2012-05)(Ziff Davis)(US).pdf" size="67882542" crc="f1a48a1f" md5="eb5be50330a514becad40ec9ecef9b67" sha1="ff993928626cfd78fc34f033250dc60edff4678f"/>
+	</game>
+	<game name="PC World - Volume 30 Number 06 (2012-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 06 (2012-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 06 (2012-06)(Ziff Davis)(US).pdf" size="65080847" crc="3c6d2b4d" md5="9ef01b974f505e06d6e8e44be27e3a80" sha1="a49ed44b8e8ca122e257e494e4e773ff566d47ca"/>
+	</game>
+	<game name="PC World - Volume 30 Number 07 (2012-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 07 (2012-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 07 (2012-07)(Ziff Davis)(US).pdf" size="71887140" crc="12d22806" md5="78a388fb519c290dc95415c6b3a90b1a" sha1="eb0f6495c0f8c016d0884b77a1a9ba43c53c3e95"/>
+	</game>
+	<game name="PC World - Volume 30 Number 08 (2012-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 08 (2012-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 08 (2012-08)(Ziff Davis)(US).pdf" size="73698050" crc="b0013683" md5="9fce2fd546476d93e5f74d8db2e82c2a" sha1="69a70f877fccae7689c4e23f888377cb4799bf06"/>
+	</game>
+	<game name="PC World - Volume 30 Number 09 (2012-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 09 (2012-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 09 (2012-09)(Ziff Davis)(US).pdf" size="73805385" crc="37880fca" md5="5d152b1334af4c1ca6714f99e056f94a" sha1="becf28ad035b0b3ab53528966ec2924e2e5633c5"/>
+	</game>
+	<game name="PC World - Volume 30 Number 10 (2012-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 10 (2012-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 10 (2012-10)(Ziff Davis)(US).pdf" size="73302023" crc="adf26a58" md5="68996c01e02fe89166660b7223bffc0e" sha1="06b58ecad855f59a4d12c0aee65b4d9a57747a5a"/>
+	</game>
+	<game name="PC World - Volume 30 Number 11 (2012-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 11 (2012-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 11 (2012-11)(Ziff Davis)(US).pdf" size="47977447" crc="f4861471" md5="6e9e176eefd8f823019b31bb68947a53" sha1="bdd47dd3cdd72bf72e57a7d7b9e622b392e4d262"/>
+	</game>
+	<game name="PC World - Volume 30 Number 12 (2012-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 30 Number 12 (2012-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 30 Number 12 (2012-12)(Ziff Davis)(US).pdf" size="106323074" crc="6cf7e077" md5="dbe01479d6951443f210417b3dc1da4c" sha1="11a6c300f89f9b7b8089aec2ec7749cfe0f32626"/>
+	</game>
+	<game name="PC World - Volume 31 Number 01 (2013-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 01 (2013-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 01 (2013-01)(Ziff Davis)(US).pdf" size="106075345" crc="33116525" md5="56fd5da54080e54b29961137889ab312" sha1="d104e90576847f03adacfff81f45e309b0ddeace"/>
+	</game>
+	<game name="PC World - Volume 31 Number 02 (2013-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 02 (2013-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 02 (2013-02)(Ziff Davis)(US).pdf" size="106763232" crc="adb4357f" md5="9a2350754760d67264218724a129b4dc" sha1="2c548a1df781343f71783591651c217b1d081e5c"/>
+	</game>
+	<game name="PC World - Volume 31 Number 03 (2013-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 03 (2013-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 03 (2013-03)(Ziff Davis)(US).pdf" size="107022319" crc="4682086c" md5="d5b38f55b22bebc70626a77c48df141d" sha1="84010491611b93b75113226f19ff6a28291d45c8"/>
+	</game>
+	<game name="PC World - Volume 31 Number 04 (2013-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 04 (2013-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 04 (2013-04)(Ziff Davis)(US).pdf" size="106141682" crc="1d1eceac" md5="e7fcf43888bdfe04a6d2eeadeb1c464a" sha1="0e9047ce18666a0dc29423ec3e3a3fc0667631f6"/>
+	</game>
+	<game name="PC World - Volume 31 Number 05 (2013-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 05 (2013-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 05 (2013-05)(Ziff Davis)(US).pdf" size="113235065" crc="1f3f873c" md5="e0d3a3098e4b963d0dbdda530ab69efb" sha1="547f9187507f8c8c331c0c9d289cda0ae0528b4a"/>
+	</game>
+	<game name="PC World - Volume 31 Number 06 (2013-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 06 (2013-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 06 (2013-06)(Ziff Davis)(US).pdf" size="111527064" crc="cad637a2" md5="a0dc24c3b658a8e569e8876a686237e4" sha1="30c903898e577c45976ab1543a9c59334d3e5add"/>
+	</game>
+	<game name="PC World - Volume 31 Number 07 (2013-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 07 (2013-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 07 (2013-07)(Ziff Davis)(US).pdf" size="106845574" crc="3a57169b" md5="51d3ffdcd853d58a7c3d35888b06625a" sha1="f533241d25c2c07d1f19bd3832f506c01e04658a"/>
+	</game>
+	<game name="PC World - Volume 31 Number 08 (2013-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 08 (2013-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 08 (2013-08)(Ziff Davis)(US).pdf" size="81470980" crc="24cf913b" md5="808f1c508e81792a74ef4153b18a1ed6" sha1="cdb2148ab81d849da17ed2b0436cc3df8f03eb62"/>
+	</game>
+	<game name="PC World - Volume 31 Number 09 (2013-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 09 (2013-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 09 (2013-09)(Ziff Davis)(US).pdf" size="106248509" crc="20d49b96" md5="9b4b846c25e38766a6a9944a57b523de" sha1="d82e1d19f82e50685c21709c7be9a71c28fbc321"/>
+	</game>
+	<game name="PC World - Volume 31 Number 10 (2013-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 10 (2013-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 10 (2013-10)(Ziff Davis)(US).pdf" size="23983942" crc="ab58531e" md5="1fd5fc47a28968a4659a1707415088f3" sha1="1cc88203745498e07dea109978d9d825ac39dbf9"/>
+	</game>
+	<game name="PC World - Volume 31 Number 11 (2013-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 11 (2013-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 11 (2013-11)(Ziff Davis)(US).pdf" size="109592683" crc="d32d7ab2" md5="71306f8b288738999e406aa6b340d921" sha1="884ddaa96a658c88935c6a3961d1fd866de2595e"/>
+	</game>
+	<game name="PC World - Volume 31 Number 12 (2013-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 31 Number 12 (2013-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 31 Number 12 (2013-12)(Ziff Davis)(US).pdf" size="106533769" crc="fb810419" md5="1fa8a1b7b55f24f8ca8ed29f0f5723de" sha1="af9bbdc0ef280213957c50436df4f707f7526d4e"/>
+	</game>
+	<game name="PC World - Volume 32 Number 01 (2014-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 01 (2014-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 01 (2014-01)(Ziff Davis)(US).pdf" size="111386807" crc="bd63c528" md5="1e910cdd5bf2d5617882e122dfc84999" sha1="c6af267749b21852bd5a3b434c303a2eb62dfca7"/>
+	</game>
+	<game name="PC World - Volume 32 Number 02 (2014-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 02 (2014-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 02 (2014-02)(Ziff Davis)(US).pdf" size="34868813" crc="a662cbb6" md5="b51a9e7532c26e92191c771b030d9219" sha1="0435c9941f3739fb5bcf3e61dda2e6abae771bf2"/>
+	</game>
+	<game name="PC World - Volume 32 Number 03 (2014-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 03 (2014-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 03 (2014-03)(Ziff Davis)(US).pdf" size="31796333" crc="533797e4" md5="fa6e4bc92fd4fee1f6cdb33fbc4cbafb" sha1="e84acf4774b3c7b96bcd4aff13ec2d05c23dca75"/>
+	</game>
+	<game name="PC World - Volume 32 Number 03 (2014-03)(Ziff Davis)(US)[a]">
+		<description>PC World - Volume 32 Number 03 (2014-03)(Ziff Davis)(US)[a]</description>
+		<rom name="PC World - Volume 32 Number 03 (2014-03)(Ziff Davis)(US)[a].pdf" size="101338058" crc="ae1d2ec3" md5="2bf602af932bb91924343184bdd832fa" sha1="8e11e840e0c02d26a339bdf752583e64c81e616e"/>
+	</game>
+	<game name="PC World - Volume 32 Number 04 (2014-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 04 (2014-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 04 (2014-04)(Ziff Davis)(US).pdf" size="27308511" crc="d4166558" md5="318945c3252ecf2d4cfd949cf7461d94" sha1="1a4c71ed15f450c354a769ac21b8f7894a317e36"/>
+	</game>
+	<game name="PC World - Volume 32 Number 05 (2014-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 05 (2014-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 05 (2014-05)(Ziff Davis)(US).pdf" size="28578811" crc="1a9d73f7" md5="8c85e3534fd88cce7f3bea7696715e7f" sha1="b887076bd58d632dc697ca712efba9815459fddb"/>
+	</game>
+	<game name="PC World - Volume 32 Number 06 (2014-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 06 (2014-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 06 (2014-06)(Ziff Davis)(US).pdf" size="84077871" crc="f4d8ce9f" md5="691b62ef42245fb90c0ed7389b96d2f3" sha1="0749986a95ca6a9dce8441bce94cb65d9105837a"/>
+	</game>
+	<game name="PC World - Volume 32 Number 07 (2014-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 07 (2014-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 07 (2014-07)(Ziff Davis)(US).pdf" size="107507921" crc="78b51c45" md5="7bf02898d5871de0c9f0f04ed6936d88" sha1="a72c8cc8088e4b3d706cdb51a0492d7ec61d9dfb"/>
+	</game>
+	<game name="PC World - Volume 32 Number 08 (2014-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 08 (2014-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 08 (2014-08)(Ziff Davis)(US).pdf" size="109180398" crc="4a3856b5" md5="e4a47a2b8e2b55715df3dc267bbee2b7" sha1="d98d6d3708881fe37e6c9f9e7785c060dea73988"/>
+	</game>
+	<game name="PC World - Volume 32 Number 09 (2014-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 09 (2014-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 09 (2014-09)(Ziff Davis)(US).pdf" size="8202411" crc="03376f92" md5="69d7c735301d185e2199f23ab899ef2a" sha1="6a7d3d04c4b1a7793c189f1fffec729ca82bbb60"/>
+	</game>
+	<game name="PC World - Volume 32 Number 10 (2014-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 10 (2014-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 10 (2014-10)(Ziff Davis)(US).pdf" size="24310418" crc="71d6f8bb" md5="3460cb0c3358a332368f100f76bbca57" sha1="c43b7df98b84457a294a20646c3d1d221e394827"/>
+	</game>
+	<game name="PC World - Volume 32 Number 11 (2014-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 11 (2014-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 11 (2014-11)(Ziff Davis)(US).pdf" size="18642783" crc="75c6be0c" md5="2c7893b9d76da6d5be3ccf7917007178" sha1="76fb55a8a4cf27d1a1516927d8feeceeb91b2691"/>
+	</game>
+	<game name="PC World - Volume 32 Number 12 (2014-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 32 Number 12 (2014-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 32 Number 12 (2014-12)(Ziff Davis)(US).pdf" size="10999371" crc="59585061" md5="01ce90052f9786a9668c5485460e0e02" sha1="974ed44a3a44e9352ad05b9e97b79e6877d781be"/>
+	</game>
+	<game name="PC World - Volume 33 Number 01 (2015-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 01 (2015-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 01 (2015-01)(Ziff Davis)(US).pdf" size="27438390" crc="06079144" md5="3453d1a7388bd27f15d144fd1c37e009" sha1="4f6cd871f213a25a7bb6a6b888f929ebf68a606e"/>
+	</game>
+	<game name="PC World - Volume 33 Number 02 (2015-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 02 (2015-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 02 (2015-02)(Ziff Davis)(US).pdf" size="8891598" crc="052eca32" md5="e67da681a226f0e446f370ed159464a0" sha1="30ef44e5655637c03724efad303464523e4b232a"/>
+	</game>
+	<game name="PC World - Volume 33 Number 03 (2015-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 03 (2015-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 03 (2015-03)(Ziff Davis)(US).pdf" size="14676805" crc="1177a8f5" md5="85834fe8ee54a130d010d0ae5d09e8e5" sha1="4ad6486cee3d0c83b217969e5a8f76deacb019ea"/>
+	</game>
+	<game name="PC World - Volume 33 Number 04 (2015-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 04 (2015-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 04 (2015-04)(Ziff Davis)(US).pdf" size="51538000" crc="892382ba" md5="83fa6cbe2fe84643c6419e9407f65a9b" sha1="9ef92f07bc487e95932b0accddf317d23f443529"/>
+	</game>
+	<game name="PC World - Volume 33 Number 05 (2015-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 05 (2015-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 05 (2015-05)(Ziff Davis)(US).pdf" size="58198476" crc="8b6c3e52" md5="0da96afa541669d35532853c0e2c2d6c" sha1="f17dd99f354e320d364852f8894d586569c077bd"/>
+	</game>
+	<game name="PC World - Volume 33 Number 06 (2015-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 06 (2015-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 06 (2015-06)(Ziff Davis)(US).pdf" size="16771014" crc="4b1ef830" md5="0b8c759c9b7face93f48ec546a673bf4" sha1="48d1d0d73183ecfbe1b34769a3661cf81ffc48f8"/>
+	</game>
+	<game name="PC World - Volume 33 Number 07 (2015-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 07 (2015-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 07 (2015-07)(Ziff Davis)(US).pdf" size="19233979" crc="f83254a4" md5="20409c37c4fbd0467d22a43b8407ef6d" sha1="5bffdcd00a08d849c95e714f06087c638337fb7a"/>
+	</game>
+	<game name="PC World - Volume 33 Number 08 (2015-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 08 (2015-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 08 (2015-08)(Ziff Davis)(US).pdf" size="43245798" crc="2a88eefd" md5="30e940833b4679f74444148a06b9decf" sha1="c830a7349602f53574115e25307dbb6b7e1286c7"/>
+	</game>
+	<game name="PC World - Volume 33 Number 09 (2015-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 09 (2015-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 09 (2015-09)(Ziff Davis)(US).pdf" size="14822063" crc="97726285" md5="92a8963c90ff5f3c9cfb790ce4c27ece" sha1="634bd9bcf7e5c861dac5fe4d9a06ba554774dfc0"/>
+	</game>
+	<game name="PC World - Volume 33 Number 10 (2015-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 10 (2015-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 10 (2015-10)(Ziff Davis)(US).pdf" size="46401385" crc="0dbe3b32" md5="bfffa0c334428cc1e2a6f95d211060ec" sha1="7a292d1f07f1038820b63ccfefdfb456a920bd12"/>
+	</game>
+	<game name="PC World - Volume 33 Number 11 (2015-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 11 (2015-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 11 (2015-11)(Ziff Davis)(US).pdf" size="19702730" crc="300631d8" md5="d35b79b656647cbf61b9bfcc96903e9b" sha1="87f3a9894791365e8a64878a2187730b706ff339"/>
+	</game>
+	<game name="PC World - Volume 33 Number 12 (2015-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 33 Number 12 (2015-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 33 Number 12 (2015-12)(Ziff Davis)(US).pdf" size="29561698" crc="25d63d87" md5="017e14af84a0f097c76fd480cbd047e8" sha1="0be2f81f322f05f34b5b85974a6197b4555f78a4"/>
+	</game>
+	<game name="PC World - Volume 34 Number 01 (2016-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 01 (2016-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 01 (2016-01)(Ziff Davis)(US).pdf" size="25071961" crc="e51cf303" md5="cf4a2a3cef9a4a6368715c12d87994e2" sha1="4da5c06e580f3b64e13ded26902554c910a5d202"/>
+	</game>
+	<game name="PC World - Volume 34 Number 02 (2016-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 02 (2016-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 02 (2016-02)(Ziff Davis)(US).pdf" size="41314327" crc="90f0653f" md5="6dc3d998c3260c449efe46cef5a129a8" sha1="0c8a59b3d92abe0013213dfaf108017bf1db7cd9"/>
+	</game>
+	<game name="PC World - Volume 34 Number 03 (2016-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 03 (2016-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 03 (2016-03)(Ziff Davis)(US).pdf" size="14730916" crc="7da0934d" md5="f39fe00e6a1cbf16fca08315f7a6be8b" sha1="4410d9e7cc7265c5fe9d5cb0b73226cb34c2968f"/>
+	</game>
+	<game name="PC World - Volume 34 Number 04 (2016-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 04 (2016-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 04 (2016-04)(Ziff Davis)(US).pdf" size="17583065" crc="0f15e523" md5="af9ad3cedced20b11967437d5e777ceb" sha1="55824f9804e2144125d01bba9cd19e3ae064015d"/>
+	</game>
+	<game name="PC World - Volume 34 Number 05 (2016-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 05 (2016-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 05 (2016-05)(Ziff Davis)(US).pdf" size="27828350" crc="c652c585" md5="8111ffc66c2d3c03cf838444bead5e99" sha1="60762814ece59f8767f2a123712b97e7790f3b48"/>
+	</game>
+	<game name="PC World - Volume 34 Number 06 (2016-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 06 (2016-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 06 (2016-06)(Ziff Davis)(US).pdf" size="19564026" crc="f102b4e8" md5="febd7eb1e48233c683d5b8546145f5da" sha1="f5e99b94ddd272df581c85e26116f7ea59118fe7"/>
+	</game>
+	<game name="PC World - Volume 34 Number 07 (2016-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 07 (2016-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 07 (2016-07)(Ziff Davis)(US).pdf" size="14992448" crc="dddf58b7" md5="6b7dcd23ed2ed0aeec9c9379a1cbd857" sha1="48ef7995e2c93600b200d74d7134c179f2bd3054"/>
+	</game>
+	<game name="PC World - Volume 34 Number 08 (2016-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 08 (2016-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 08 (2016-08)(Ziff Davis)(US).pdf" size="22842134" crc="fe8942d5" md5="54de94f90c18f97ab49411dc4552846d" sha1="a3729eb933b2a49c4d93ef7031739d8a756512ed"/>
+	</game>
+	<game name="PC World - Volume 34 Number 09 (2016-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 09 (2016-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 09 (2016-09)(Ziff Davis)(US).pdf" size="35663293" crc="bfa3cda9" md5="de47376e548589b0f2b95224763c6d79" sha1="ec05b9e406049795e0cc4204c41a9e2d800229cd"/>
+	</game>
+	<game name="PC World - Volume 34 Number 10 (2016-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 10 (2016-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 10 (2016-10)(Ziff Davis)(US).pdf" size="20124388" crc="240dc833" md5="29e0d81261bee1085066c4ee25fa880d" sha1="4ebe7d8a503b460fa0bfbb9e4db0ce86dc9e083c"/>
+	</game>
+	<game name="PC World - Volume 34 Number 11 (2016-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 11 (2016-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 11 (2016-11)(Ziff Davis)(US).pdf" size="36113306" crc="4f5752fa" md5="b76cd4249d2025c445e685a9e61259f5" sha1="10df0fb7925ac730a03524b274d573730796de41"/>
+	</game>
+	<game name="PC World - Volume 34 Number 12 (2016-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 34 Number 12 (2016-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 34 Number 12 (2016-12)(Ziff Davis)(US).pdf" size="23812131" crc="f27006f3" md5="b2e3a369ca14d15bc3f6fe90b25cd7e2" sha1="af4fb3b64494b3aaa184e1d1b8c3c44072a54b79"/>
+	</game>
+	<game name="PC World - Volume 35 Number 01 (2017-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 01 (2017-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 01 (2017-01)(Ziff Davis)(US).pdf" size="25344849" crc="010ea627" md5="f96c9d13c8631cc2f8e3bca012c5b7c9" sha1="2d789c62cc891b9186f3af6305f6f1ad663783e3"/>
+	</game>
+	<game name="PC World - Volume 35 Number 02 (2017-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 02 (2017-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 02 (2017-02)(Ziff Davis)(US).pdf" size="19849302" crc="72bf85b8" md5="0f2cb788a7e2832ea84a31034fac67b8" sha1="5d8eed7c08d3c6cd4273b14771fe5bc061d2c23f"/>
+	</game>
+	<game name="PC World - Volume 35 Number 03 (2017-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 03 (2017-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 03 (2017-03)(Ziff Davis)(US).pdf" size="23577454" crc="e6cab67e" md5="285d82b4bf11fc0fda802b12348813e4" sha1="b2ea0227f113e80f8c277af237a3549b5d35ea96"/>
+	</game>
+	<game name="PC World - Volume 35 Number 04 (2017-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 04 (2017-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 04 (2017-04)(Ziff Davis)(US).pdf" size="19344099" crc="7ac357c1" md5="80db792f9fe6ed74128f2517a2ee0277" sha1="85cfee18e7ace24b53f5f9a5334c2ac6e0013cdc"/>
+	</game>
+	<game name="PC World - Volume 35 Number 05 (2017-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 05 (2017-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 05 (2017-05)(Ziff Davis)(US).pdf" size="29147621" crc="f6b9b3aa" md5="9e97d4f5a356b7ea8df8de61350f563b" sha1="cdb4302914812430d19cad81ad99e42aaa3923d3"/>
+	</game>
+	<game name="PC World - Volume 35 Number 06 (2017-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 06 (2017-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 06 (2017-06)(Ziff Davis)(US).pdf" size="21320732" crc="0dd7cc31" md5="14fab8648dbac508c3b4213d5b76b702" sha1="fa20e896909f8418d9073ebb68dea1649f6bf7a0"/>
+	</game>
+	<game name="PC World - Volume 35 Number 07 (2017-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 07 (2017-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 07 (2017-07)(Ziff Davis)(US).pdf" size="17821733" crc="ae9856bd" md5="d9054b8e4a60c0585a221119445380cc" sha1="434a17f894f8a7f539272abbb0799b76cbb4ec7f"/>
+	</game>
+	<game name="PC World - Volume 35 Number 08 (2017-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 08 (2017-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 08 (2017-08)(Ziff Davis)(US).pdf" size="13390026" crc="30470eb6" md5="fe58df9e1dcf207da2834d9f93dcb7ef" sha1="ce911a21342e4ed7f129892d1c11d5b79866fff9"/>
+	</game>
+	<game name="PC World - Volume 35 Number 08 (2017-08)(Ziff Davis)(US)[a]">
+		<description>PC World - Volume 35 Number 08 (2017-08)(Ziff Davis)(US)[a]</description>
+		<rom name="PC World - Volume 35 Number 08 (2017-08)(Ziff Davis)(US)[a].pdf" size="14343843" crc="7798c1ff" md5="e97980a1c2dab1c6e8d35a7c4808eec2" sha1="cb31c27e70fe2e4d7aefab6a84e1471e4a6a18dc"/>
+	</game>
+	<game name="PC World - Volume 35 Number 09 (2017-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 09 (2017-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 09 (2017-09)(Ziff Davis)(US).pdf" size="13291090" crc="6c687565" md5="435fa1d2ef5fa237822338c04f0055c8" sha1="d60742d3be9647494e22f3c8fa62fa254f393093"/>
+	</game>
+	<game name="PC World - Volume 35 Number 10 (2017-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 10 (2017-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 10 (2017-10)(Ziff Davis)(US).pdf" size="14331384" crc="8d7aa9ae" md5="ca1a5decc6f0823d85573c46ecfcd4e1" sha1="820484d6f38edfef76772680fb667fe7e12f1962"/>
+	</game>
+	<game name="PC World - Volume 35 Number 11 (2017-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 11 (2017-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 11 (2017-11)(Ziff Davis)(US).pdf" size="20376486" crc="0f66076f" md5="11167d5ccf2d330332e91018bbcaca2d" sha1="307aa84b3ea35e9acf6239c2e1d5ba8999472ee2"/>
+	</game>
+	<game name="PC World - Volume 35 Number 12 (2017-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 35 Number 12 (2017-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 35 Number 12 (2017-12)(Ziff Davis)(US).pdf" size="13894844" crc="f76c4522" md5="61ba0f62046bbb5790e27931d2ec4932" sha1="a1e8810273091d47a52333aea60b61df98d87828"/>
+	</game>
+	<game name="PC World - Volume 36 Number 01 (2018-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 01 (2018-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 01 (2018-01)(Ziff Davis)(US).pdf" size="18839819" crc="2fd7ab23" md5="efc0fdc6b2ff8ffede23d8d6ea443cd5" sha1="f12c2067738ed518b8a365423b4ea822e7a24c1a"/>
+	</game>
+	<game name="PC World - Volume 36 Number 02 (2018-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 02 (2018-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 02 (2018-02)(Ziff Davis)(US).pdf" size="57253607" crc="56148173" md5="2711c42dfe51a2becc17ee989e9fd828" sha1="02dbf9f3b36ca318c90c3bd1e578481a7a7fab4c"/>
+	</game>
+	<game name="PC World - Volume 36 Number 03 (2018-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 03 (2018-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 03 (2018-03)(Ziff Davis)(US).pdf" size="11718526" crc="b8c15e14" md5="e4eebbcc93d10740ace69c0f2797b580" sha1="df33378e35b6265a921af620e40b6d161b244cc3"/>
+	</game>
+	<game name="PC World - Volume 36 Number 04 (2018-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 04 (2018-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 04 (2018-04)(Ziff Davis)(US).pdf" size="43957991" crc="a0b62e08" md5="1db483291a9ed3936657829e257fdd12" sha1="5b6e0844e634373435ce5062ba4c2b9fc6f7a327"/>
+	</game>
+	<game name="PC World - Volume 36 Number 05 (2018-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 05 (2018-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 05 (2018-05)(Ziff Davis)(US).pdf" size="106117697" crc="900d2c64" md5="a89f15ac26fc9cf7004536501c052c63" sha1="ae452d3a0d4cb879db732e84253534ffe25edc0e"/>
+	</game>
+	<game name="PC World - Volume 36 Number 06 (2018-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 06 (2018-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 06 (2018-06)(Ziff Davis)(US).pdf" size="47627417" crc="8e873492" md5="b3a6b2eb8e75133cdadad0bd988a7f66" sha1="45ab89b6b347d9cdc31d921cb85d92a26646dacc"/>
+	</game>
+	<game name="PC World - Volume 36 Number 07 (2018-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 07 (2018-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 07 (2018-07)(Ziff Davis)(US).pdf" size="39822040" crc="10c751b8" md5="594fa1098d9c0d02ed503d31c255bccf" sha1="ac19b94f94dd41444b461e8cd993655f7cadfc41"/>
+	</game>
+	<game name="PC World - Volume 36 Number 08 (2018-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 08 (2018-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 08 (2018-08)(Ziff Davis)(US).pdf" size="55307273" crc="f144b876" md5="7299f13665f232250c68ba82f43248e0" sha1="9eeea845575cfbc39fa0b1b2c01c3c5e01b35427"/>
+	</game>
+	<game name="PC World - Volume 36 Number 09 (2018-09)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 09 (2018-09)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 09 (2018-09)(Ziff Davis)(US).pdf" size="11483993" crc="3d525143" md5="87975f19cabb3ae868d25894e576e52f" sha1="ab14e6e559a70611ae3ee0fcbbdd6fc7b3a7b7be"/>
+	</game>
+	<game name="PC World - Volume 36 Number 10 (2018-10)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 10 (2018-10)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 10 (2018-10)(Ziff Davis)(US).pdf" size="5196445" crc="f26e1967" md5="fd1f923c42e86b8020df1a1cd12d2e45" sha1="31172053489502e3fda63ee09581a9033c8b210d"/>
+	</game>
+	<game name="PC World - Volume 36 Number 11 (2018-11)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 11 (2018-11)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 11 (2018-11)(Ziff Davis)(US).pdf" size="6759903" crc="d2007cea" md5="2d6c8bfdacd93848531f402442d944b1" sha1="7da7123810ab5493abf8012dc339811430bc04bb"/>
+	</game>
+	<game name="PC World - Volume 36 Number 12 (2018-12)(Ziff Davis)(US)">
+		<description>PC World - Volume 36 Number 12 (2018-12)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 36 Number 12 (2018-12)(Ziff Davis)(US).pdf" size="19341952" crc="58ea5f19" md5="eefc617787f2bade83fcfe695c139428" sha1="c9f394711e5824f7176a23a38a35f27e2a587a7d"/>
+	</game>
+	<game name="PC World - Volume 37 Number 01 (2019-01)(Ziff Davis)(US)">
+		<description>PC World - Volume 37 Number 01 (2019-01)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 37 Number 01 (2019-01)(Ziff Davis)(US).pdf" size="49945866" crc="6c657fa7" md5="077bb8f325e64ec5200bc79e0e46f6a9" sha1="b4d94417313055dd24290c98f8c2aa3c769f7984"/>
+	</game>
+	<game name="PC World - Volume 37 Number 02 (2019-02)(Ziff Davis)(US)">
+		<description>PC World - Volume 37 Number 02 (2019-02)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 37 Number 02 (2019-02)(Ziff Davis)(US).pdf" size="39336074" crc="4d5c929d" md5="6796f21f71740871ef017068ff0d8ca5" sha1="b8b3d66aa5e31579b5c621587ceefa352ae48b0b"/>
+	</game>
+	<game name="PC World - Volume 37 Number 03 (2019-03)(Ziff Davis)(US)">
+		<description>PC World - Volume 37 Number 03 (2019-03)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 37 Number 03 (2019-03)(Ziff Davis)(US).pdf" size="37279883" crc="3c84215b" md5="1aca99e6770a643ca9e5cff07b7ec8f6" sha1="87fb4514dfc1d3b5b74a436174da3982ca200e5c"/>
+	</game>
+	<game name="PC World - Volume 37 Number 04 (2019-04)(Ziff Davis)(US)">
+		<description>PC World - Volume 37 Number 04 (2019-04)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 37 Number 04 (2019-04)(Ziff Davis)(US).pdf" size="32678625" crc="85f394c9" md5="7357bb870ce13b0863388c95e41ed939" sha1="fa55fe141bd89b75e78866111322cb63fa89d90d"/>
+	</game>
+	<game name="PC World - Volume 37 Number 05 (2019-05)(Ziff Davis)(US)">
+		<description>PC World - Volume 37 Number 05 (2019-05)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 37 Number 05 (2019-05)(Ziff Davis)(US).pdf" size="35514874" crc="bd640f02" md5="6a35d1133f869d48fc6558dcbeca1ad2" sha1="f3088c5711195e60132aee72039eaa6b13817f0f"/>
+	</game>
+	<game name="PC World - Volume 37 Number 06 (2019-06)(Ziff Davis)(US)">
+		<description>PC World - Volume 37 Number 06 (2019-06)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 37 Number 06 (2019-06)(Ziff Davis)(US).pdf" size="37705160" crc="f747a1a7" md5="e22278bad528de657657b330c52cf2e4" sha1="0780d18e9be02c6d0d3c20e17bb500157cc45413"/>
+	</game>
+	<game name="PC World - Volume 37 Number 07 (2019-07)(Ziff Davis)(US)">
+		<description>PC World - Volume 37 Number 07 (2019-07)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 37 Number 07 (2019-07)(Ziff Davis)(US).pdf" size="42549741" crc="240481fa" md5="4c947ef8e5ebd50d3399f1902c7a7826" sha1="fb65c49a309a38e876c1e4703501d274c9c13bde"/>
+	</game>
+	<game name="PC World - Volume 37 Number 08 (2019-08)(Ziff Davis)(US)">
+		<description>PC World - Volume 37 Number 08 (2019-08)(Ziff Davis)(US)</description>
+		<rom name="PC World - Volume 37 Number 08 (2019-08)(Ziff Davis)(US).pdf" size="39078737" crc="315574dc" md5="5f541588062c8171e42d3c1e02d878ce" sha1="5e968014046aa3a920eb14f05e31a0b6f3ef5f6d"/>
+	</game>
+</datafile>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Electronics Today International (AU)</name>
+		<description>Multi-format - Magazines - Electronics Today International (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Electronics Today International (1980-01)(Modern Magazines)(AU)">
+		<description>Electronics Today International (1980-01)(Modern Magazines)(AU)</description>
+		<rom name="Electronics Today International (1980-01)(Modern Magazines)(AU).pdf" size="175877132" crc="34201a22" md5="8e107b1a7113e095eff3492181cdc986" sha1="26a56cb924be8b6635b22288bc31245786a42499"/>
+	</game>
+	<game name="Electronics Today International (1984-08)(Federal Publishing Company)(AU)">
+		<description>Electronics Today International (1984-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Today International (1984-08)(Federal Publishing Company)(AU).pdf" size="239378638" crc="38e37e00" md5="ee45c146f45cdfdec4420c44aca2e152" sha1="3c76a2f9beec170c7de811ba60586f69f3b5eb25"/>
+	</game>
+	<game name="Electronics Today International (1984-09)(Federal Publishing Company)(AU).">
+		<description>Electronics Today International (1984-09)(Federal Publishing Company)(AU).</description>
+		<rom name="Electronics Today International (1984-09)(Federal Publishing Company)(AU)..pdf" size="232445437" crc="2025733b" md5="9d98666d936753e962effa37089221d5" sha1="905a313a522a110305e694173033639dfa4cf9da"/>
+	</game>
+	<game name="Electronics Today International (1984-10)(Federal Publishing Company)(AU).">
+		<description>Electronics Today International (1984-10)(Federal Publishing Company)(AU).</description>
+		<rom name="Electronics Today International (1984-10)(Federal Publishing Company)(AU)..pdf" size="209427906" crc="c7f708a8" md5="72e2d02d2878c99d042d5af291fc58ff" sha1="12b4c50bf186b2e3885ec8a18be671e3189b6dcc"/>
+	</game>
+	<game name="Electronics Today International (1984-11)(Federal Publishing Company)(AU).">
+		<description>Electronics Today International (1984-11)(Federal Publishing Company)(AU).</description>
+		<rom name="Electronics Today International (1984-11)(Federal Publishing Company)(AU)..pdf" size="212911895" crc="e00be2f4" md5="bcc0e59264d77420bafa7a1e57001eb6" sha1="c3ec117d1f04e4d42372f157270b955618b56fde"/>
+	</game>
+	<game name="Electronics Today International (1984-12)(Federal Publishing Company)(AU).">
+		<description>Electronics Today International (1984-12)(Federal Publishing Company)(AU).</description>
+		<rom name="Electronics Today International (1984-12)(Federal Publishing Company)(AU)..pdf" size="192007953" crc="d0b1b94f" md5="275afef52a2da89596886f26cdcb6fab" sha1="c165e84bc2416732782d2bca783c2c39509f873b"/>
+	</game>
+	<game name="Electronics Today International (1986-02)(Federal Publishing Company)(AU).">
+		<description>Electronics Today International (1986-02)(Federal Publishing Company)(AU).</description>
+		<rom name="Electronics Today International (1986-02)(Federal Publishing Company)(AU)..pdf" size="130211447" crc="d6fba3a7" md5="480e65b69c09a6f668a7076c356e1cff" sha1="486d1dae026f1717b1f3a850a5ca6798e54db6af"/>
+	</game>
+	<game name="Electronics Today International (1986-08)(Federal Publishing Company)(AU)">
+		<description>Electronics Today International (1986-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Today International (1986-08)(Federal Publishing Company)(AU).pdf" size="114550002" crc="2b716a50" md5="17759dcbc9f9076ca2c42992e61663ea" sha1="09a6b6a8ea5b59f42bc38c472817438a97b6a5bf"/>
+	</game>
+	<game name="Electronics Today International - Vol 4 No 9 (1974-12)(Modern Magazines)(AU)">
+		<description>Electronics Today International - Vol 4 No 9 (1974-12)(Modern Magazines)(AU)</description>
+		<rom name="Electronics Today International - Vol 4 No 9 (1974-12)(Modern Magazines)(AU).pdf" size="168676859" crc="7a6423fe" md5="229e76a6cbee1ca583111660fc50076e" sha1="58decb28e93a55bf7abed706e57373478249ad1e"/>
+	</game>
+</datafile>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Magazines - Sega Power (GB)</name>
+		<description>Sega - Magazines - Sega Power (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dirty Rotten Tips Book, The (1994-01)(Future Publishing)(GB)[supplement Issue 50]">
+		<description>Dirty Rotten Tips Book, The (1994-01)(Future Publishing)(GB)[supplement Issue 50]</description>
+		<rom name="Dirty Rotten Tips Book, The (1994-01)(Future Publishing)(GB)[supplement Issue 50].pdf" size="56607014" crc="586c7162" md5="293e7b482966b8ebfc68b24f6d1ffec6" sha1="6207f8c5ba3473ff2cb89bb322d76efa4e6f325b"/>
+	</game>
+	<game name="S The Sega Mag - Issue 01 (1989-10)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 01 (1989-10)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 01 (1989-10)(Future Publishing)(GB).pdf" size="12607825" crc="a268e669" md5="87658eeaec78ad24cc28d08d9e084322" sha1="aa4b26b89144361cfdb5b7239e1476de2b4acbd6"/>
+	</game>
+	<game name="S The Sega Mag - Issue 01 (1989-10)(Future Publishing)(GB)[a]">
+		<description>S The Sega Mag - Issue 01 (1989-10)(Future Publishing)(GB)[a]</description>
+		<rom name="S The Sega Mag - Issue 01 (1989-10)(Future Publishing)(GB)[a].pdf" size="55863781" crc="d7827e53" md5="ff29834797125ef79013e15c7b782820" sha1="99cf3dc0d9295729aa3d0e9128faad532b171af8"/>
+	</game>
+	<game name="S The Sega Mag - Issue 02 (1990-01)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 02 (1990-01)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 02 (1990-01)(Future Publishing)(GB).pdf" size="11025947" crc="ca5c20d1" md5="f9e8016cfda24fd4b622962b93dc91ae" sha1="115c83c731a8c01e3fe2153262fdd893fb6f307a"/>
+	</game>
+	<game name="S The Sega Mag - Issue 03 (1990-02)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 03 (1990-02)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 03 (1990-02)(Future Publishing)(GB).pdf" size="14248380" crc="5f550858" md5="c12c1b22eb7558d835f31423aa609414" sha1="c019d63a35ac9b3ab7d29fb6ae1affbcda337727"/>
+	</game>
+	<game name="S The Sega Mag - Issue 03 (1990-02)(Future Publishing)(GB)[a]">
+		<description>S The Sega Mag - Issue 03 (1990-02)(Future Publishing)(GB)[a]</description>
+		<rom name="S The Sega Mag - Issue 03 (1990-02)(Future Publishing)(GB)[a].pdf" size="115658877" crc="7c327c33" md5="6270aaccb1c44ad470f927c01363c253" sha1="d103798c75bd13fd7a460b131ee3a96c08cfaac9"/>
+	</game>
+	<game name="S The Sega Mag - Issue 04 (1990-03)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 04 (1990-03)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 04 (1990-03)(Future Publishing)(GB).pdf" size="12886126" crc="b462194e" md5="554d386db7f4fdb1938a1a2bc6d8e372" sha1="f7821a4ca6c9fa42189dd92d01e2b024a2df9322"/>
+	</game>
+	<game name="S The Sega Mag - Issue 05 (1990-04)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 05 (1990-04)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 05 (1990-04)(Future Publishing)(GB).pdf" size="16908205" crc="c7cb9260" md5="f8161824f3b4b32f7172ac2bc4148792" sha1="bb02f3240c590808f72d4ea578c483ee5ffa476a"/>
+	</game>
+	<game name="S The Sega Mag - Issue 06 (1990-05)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 06 (1990-05)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 06 (1990-05)(Future Publishing)(GB).pdf" size="18602031" crc="da9f99af" md5="2b253e38b2938bfa75e5c048a08b0d9a" sha1="36fbd4c9d240e7f303e76a46a3a21a9aa6575b98"/>
+	</game>
+	<game name="S The Sega Mag - Issue 06 (1990-05)(Future Publishing)(GB)[a]">
+		<description>S The Sega Mag - Issue 06 (1990-05)(Future Publishing)(GB)[a]</description>
+		<rom name="S The Sega Mag - Issue 06 (1990-05)(Future Publishing)(GB)[a].pdf" size="166206243" crc="bfc01ef6" md5="b12c4a35d43047696ae88c96378a36e3" sha1="983f604539d67f797ce1e0390bf2c27f5c2f021c"/>
+	</game>
+	<game name="S The Sega Mag - Issue 07 (1990-06)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 07 (1990-06)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 07 (1990-06)(Future Publishing)(GB).pdf" size="19291707" crc="bad30c83" md5="6636a0d18bc062896d2250c8400a3b61" sha1="9a0921bb859896340a41dc07f094da02a68f9ba7"/>
+	</game>
+	<game name="S The Sega Mag - Issue 07 (1990-06)(Future Publishing)(GB)[a]">
+		<description>S The Sega Mag - Issue 07 (1990-06)(Future Publishing)(GB)[a]</description>
+		<rom name="S The Sega Mag - Issue 07 (1990-06)(Future Publishing)(GB)[a].pdf" size="178255789" crc="75f6b8c0" md5="78513c1bf6935d84aed883466383bd64" sha1="c73cc53c1d6b6ca74fcd07ebd0267a14a8ab55a0"/>
+	</game>
+	<game name="S The Sega Mag - Issue 08 (1990-07)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 08 (1990-07)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 08 (1990-07)(Future Publishing)(GB).pdf" size="19296320" crc="1d83356d" md5="64dbd43e600b293d80b00c7004e10204" sha1="a5cc5bfaa973c467c09ae9528d7ceace483ab521"/>
+	</game>
+	<game name="S The Sega Mag - Issue 09 (1990-08)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 09 (1990-08)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 09 (1990-08)(Future Publishing)(GB).pdf" size="18437439" crc="2f6ef673" md5="19286247aebb5009199602c08a5db9f8" sha1="832557da1d490aa9732443fa39c4dc9b6ceb0957"/>
+	</game>
+	<game name="S The Sega Mag - Issue 10 (1990-09)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 10 (1990-09)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 10 (1990-09)(Future Publishing)(GB).pdf" size="20445424" crc="f9d2a6f0" md5="2bd4071228ae8315428697d55648f630" sha1="1df88e072bcedc769b20518d96e562e43d56a3c1"/>
+	</game>
+	<game name="S The Sega Mag - Issue 11 (1990-10)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 11 (1990-10)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 11 (1990-10)(Future Publishing)(GB).pdf" size="20360758" crc="79c66e66" md5="3105a547ba7bee97f4b9eb733909711e" sha1="847ea52c62a1fd3b6730010e55105f46f9c4bdfd"/>
+	</game>
+	<game name="S The Sega Mag - Issue 12 (1990-11)(Future Publishing)(GB)">
+		<description>S The Sega Mag - Issue 12 (1990-11)(Future Publishing)(GB)</description>
+		<rom name="S The Sega Mag - Issue 12 (1990-11)(Future Publishing)(GB).pdf" size="18003936" crc="17d926fe" md5="520586edf0d5af953423e8920365b6b4" sha1="5e001d5a74130dd669e3d3bf92c7b63b8cd32afa"/>
+	</game>
+	<game name="Sega Power - Issue 13 (1990-12)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 13 (1990-12)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 13 (1990-12)(Future Publishing)(GB).pdf" size="201519553" crc="4053e079" md5="54476541ada94cb515afbca51c09ecdb" sha1="10495e13028c8b5a23779ad0c16bc4d755b34164"/>
+	</game>
+	<game name="Sega Power - Issue 14 (1991-01)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 14 (1991-01)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 14 (1991-01)(Future Publishing)(GB).pdf" size="193508711" crc="65c411d9" md5="5599e5a9c8537650941372280dc95080" sha1="7a8bec3077266b9898e9bff2d30545dd5709b5e5"/>
+	</game>
+	<game name="Sega Power - Issue 15 (1991-02)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 15 (1991-02)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 15 (1991-02)(Future Publishing)(GB).pdf" size="57978180" crc="35a8b0fc" md5="d0bd618c049a137c01e873511bcd28c6" sha1="ae278287de522d8102233445b9994c72a9bf6099"/>
+	</game>
+	<game name="Sega Power - Issue 16 (1991-03)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 16 (1991-03)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 16 (1991-03)(Future Publishing)(GB).pdf" size="57609167" crc="4aba8642" md5="bec8077ff5e80f395072a76ea2921475" sha1="de3803134a6315214b3098a1fc9998f657601131"/>
+	</game>
+	<game name="Sega Power - Issue 17 (1991-04)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 17 (1991-04)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 17 (1991-04)(Future Publishing)(GB).pdf" size="53226562" crc="616e480d" md5="935780d18b35a84e86163650a9bbfe61" sha1="01cccbdf374d14a13649e9f49c5b18714e52734a"/>
+	</game>
+	<game name="Sega Power - Issue 18 (1991-05)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 18 (1991-05)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 18 (1991-05)(Future Publishing)(GB).pdf" size="54802360" crc="1a0ce569" md5="568f9c1c14a15f261feebbdeb5b538c9" sha1="d2e963ad9f3c919fc479699c250b3fa75fc3a08c"/>
+	</game>
+	<game name="Sega Power - Issue 19 (1991-06)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 19 (1991-06)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 19 (1991-06)(Future Publishing)(GB).pdf" size="55922783" crc="18309d04" md5="1596359016156ad04d5ba2af35b2b480" sha1="5b34b503294db6be76a78fef57438c973e06cdcb"/>
+	</game>
+	<game name="Sega Power - Issue 20 (1991-07)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 20 (1991-07)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 20 (1991-07)(Future Publishing)(GB).pdf" size="57729140" crc="bec31348" md5="6f6445ce91768c45a575a48099c87f3c" sha1="84d3e1fac6dee502116f311f528a71de975df5b7"/>
+	</game>
+	<game name="Sega Power - Issue 21 (1991-08)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 21 (1991-08)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 21 (1991-08)(Future Publishing)(GB).pdf" size="58779938" crc="f1fa864e" md5="120131296b2130e2bf41d8270055c019" sha1="6ce1b28f09d6146ab6794a6c92d0ca48a68c9b7b"/>
+	</game>
+	<game name="Sega Power - Issue 22 (1991-09)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 22 (1991-09)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 22 (1991-09)(Future Publishing)(GB).pdf" size="56441335" crc="039417e5" md5="9e96fd02c2f26cc747d2a548e3e65e60" sha1="53ec3e4709fdd22dbbf2781c4b7d09809f3b126d"/>
+	</game>
+	<game name="Sega Power - Issue 23 (1991-10)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 23 (1991-10)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 23 (1991-10)(Future Publishing)(GB).pdf" size="83868161" crc="7a4c54c7" md5="6bde723060f069e1299428546a4cc23a" sha1="bed6a0762300d6de6f6bf3227a3013917ba60b3d"/>
+	</game>
+	<game name="Sega Power - Issue 24 (1991-11)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 24 (1991-11)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 24 (1991-11)(Future Publishing)(GB).pdf" size="85588483" crc="a27e64c7" md5="741b70233d3db2db5c03efa391a136a0" sha1="a11e80c8a3d66705d4ec0fa8d8102cc5b2259aca"/>
+	</game>
+	<game name="Sega Power - Issue 25 (1991-12)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 25 (1991-12)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 25 (1991-12)(Future Publishing)(GB).pdf" size="87451911" crc="ef93b8ed" md5="6bea09617099ecb537ccc36bb3e10f62" sha1="1b29c5bf55c6694bf535ac8a4712c97c2903d1ed"/>
+	</game>
+	<game name="Sega Power - Issue 26 (1992-01)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 26 (1992-01)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 26 (1992-01)(Future Publishing)(GB).pdf" size="113301164" crc="0cd8f2d1" md5="e243f733e7b51313656ad80ec1adb4f8" sha1="c11fcf5770bd63e1f38955ead90f4aa988c6242a"/>
+	</game>
+	<game name="Sega Power - Issue 27 (1992-02)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 27 (1992-02)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 27 (1992-02)(Future Publishing)(GB).pdf" size="115954952" crc="89d3a2e6" md5="ab19485bf3142876b7a60c33014c57da" sha1="e823b472b86e24c8a7b7abd7fccefbb127383fe9"/>
+	</game>
+	<game name="Sega Power - Issue 28 (1992-03)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 28 (1992-03)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 28 (1992-03)(Future Publishing)(GB).pdf" size="110871623" crc="73cbfbdf" md5="86278809c46e08a6936280a24ca04fc7" sha1="887414ce8bdda295c0098a36b47c805d9dbfb7a7"/>
+	</game>
+	<game name="Sega Power - Issue 29 (1992-04)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 29 (1992-04)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 29 (1992-04)(Future Publishing)(GB).pdf" size="105133803" crc="128c527f" md5="dbd4e6daceedf4e957cb4a7ca5769e86" sha1="f30ee9345fe5ad2d056b75f21f39f84a2df49a29"/>
+	</game>
+	<game name="Sega Power - Issue 30 (1992-05)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 30 (1992-05)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 30 (1992-05)(Future Publishing)(GB).pdf" size="110515143" crc="7f55ba94" md5="9735468ae7f9ae1185eb2be81c8bb30c" sha1="31dc2096220877d174be9d876c9c66468c65f075"/>
+	</game>
+	<game name="Sega Power - Issue 31 (1992-06)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 31 (1992-06)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 31 (1992-06)(Future Publishing)(GB).pdf" size="112579762" crc="49c61ae8" md5="9567a6d8be5fd18d1a53bcfbf9cac5b8" sha1="acafebdbe8ac7d1c11fa071ac8a457b225d48190"/>
+	</game>
+	<game name="Sega Power - Issue 32 (1992-07)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 32 (1992-07)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 32 (1992-07)(Future Publishing)(GB).pdf" size="40874639" crc="ba7785ab" md5="62a302ee70687712adbb18d5383985cb" sha1="a315b665fab9c730046241def10c04a87193a568"/>
+	</game>
+	<game name="Sega Power - Issue 33 (1992-08)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 33 (1992-08)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 33 (1992-08)(Future Publishing)(GB).pdf" size="42090227" crc="9d5c234f" md5="c49cdf9c53d83380518bd82e93beebf2" sha1="7dfd4b9bf110a460cec5767897254d9c223677ad"/>
+	</game>
+	<game name="Sega Power - Issue 34 (1992-09)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 34 (1992-09)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 34 (1992-09)(Future Publishing)(GB).pdf" size="43078143" crc="41efc639" md5="fc7318519f17327baeb0c5d671991ea2" sha1="9f61595d01e89cc1644881b00c94ef165f8fc5de"/>
+	</game>
+	<game name="Sega Power - Issue 35 (1992-10)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 35 (1992-10)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 35 (1992-10)(Future Publishing)(GB).pdf" size="51439598" crc="c3ad345b" md5="897694ef50b41a46d5f3519e752f628d" sha1="56fadde6212b0d522ff706e0fd65e9972a71ee7c"/>
+	</game>
+	<game name="Sega Power - Issue 36 (1992-11)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 36 (1992-11)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 36 (1992-11)(Future Publishing)(GB).pdf" size="58164993" crc="27906c84" md5="32b3f3212b22af5db6109685fd53d9a1" sha1="ee74fa94aa912f38c281fb783ebc4854ba024556"/>
+	</game>
+	<game name="Sega Power - Issue 37 (1992-12)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 37 (1992-12)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 37 (1992-12)(Future Publishing)(GB).pdf" size="62779907" crc="1ebababc" md5="d1c22b4ba9f1d28b270021f1b2174c3a" sha1="a0a34a8aada0dab63fddff26eba974255f2d8de5"/>
+	</game>
+	<game name="Sega Power - Issue 38 (1993-01)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 38 (1993-01)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 38 (1993-01)(Future Publishing)(GB).pdf" size="74113798" crc="c027cc76" md5="a7c592846dd5055b4ece5ec1d54fa636" sha1="0837b1b86bdab1cc4d67b1e276f7b106d6695130"/>
+	</game>
+	<game name="Sega Power - Issue 39 (1993-02)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 39 (1993-02)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 39 (1993-02)(Future Publishing)(GB).pdf" size="59640608" crc="59fc6a34" md5="e0de3589521b755f873d52fb0cd8b514" sha1="36e992c4bdf189d35231cf2e8d52033b7eecc9c8"/>
+	</game>
+	<game name="Sega Power - Issue 40 (1993-03)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 40 (1993-03)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 40 (1993-03)(Future Publishing)(GB).pdf" size="125912770" crc="7b4f150d" md5="2257d7af9f563a25b2d9bba637dd0654" sha1="4402f29800bdcf9b580ab1a3a2b85dc11c0660d2"/>
+	</game>
+	<game name="Sega Power - Issue 41 (1993-04)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 41 (1993-04)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 41 (1993-04)(Future Publishing)(GB).pdf" size="50805368" crc="715f287f" md5="5b609b101fc0caac7f366abf8e361084" sha1="8fb4700de47596d6bba1342ee2e25fbb17d8945b"/>
+	</game>
+	<game name="Sega Power - Issue 42 (1993-05)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 42 (1993-05)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 42 (1993-05)(Future Publishing)(GB).pdf" size="49032906" crc="cf894c5f" md5="d33136cf2919d79b12d724294f52a4a0" sha1="abd8305e38e8b6abe1678eab174b59bcd3011290"/>
+	</game>
+	<game name="Sega Power - Issue 43 (1993-06)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 43 (1993-06)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 43 (1993-06)(Future Publishing)(GB).pdf" size="51345485" crc="4673fe02" md5="86661d1829cc508cb4379824f3c9eb13" sha1="ebf3011b1d0fbd4b952b1c1bd0f5fdf75fd7953e"/>
+	</game>
+	<game name="Sega Power - Issue 44 (1993-07)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 44 (1993-07)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 44 (1993-07)(Future Publishing)(GB).pdf" size="49754258" crc="25fe74c8" md5="003f4e43d58afd4c404effdace7ffcfb" sha1="c6c173cbc2b7548229732d1a40860dc6782807d6"/>
+	</game>
+	<game name="Sega Power - Issue 45 (1993-08)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 45 (1993-08)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 45 (1993-08)(Future Publishing)(GB).pdf" size="323135515" crc="5542be8f" md5="9acaae46bbcf070fee101cc736a51cee" sha1="ecd788dbe109f31feba4953a8182630dc7a8fb83"/>
+	</game>
+	<game name="Sega Power - Issue 46 (1993-09)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 46 (1993-09)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 46 (1993-09)(Future Publishing)(GB).pdf" size="49632668" crc="d4059f5c" md5="88808d42524d133cb8d9715cc9416cf7" sha1="448845919fdd1cef6e37d0d4d28d959fcde874de"/>
+	</game>
+	<game name="Sega Power - Issue 46 (1993-09)(Future Publishing)(GB)[a]">
+		<description>Sega Power - Issue 46 (1993-09)(Future Publishing)(GB)[a]</description>
+		<rom name="Sega Power - Issue 46 (1993-09)(Future Publishing)(GB)[a].pdf" size="140799338" crc="afd4e728" md5="f15408eac418866dfceaabb8ef740b56" sha1="8e694fff25befe915679edd14629e95322d576b2"/>
+	</game>
+	<game name="Sega Power - Issue 47 (1993-10)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 47 (1993-10)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 47 (1993-10)(Future Publishing)(GB).pdf" size="327175128" crc="45a8c69d" md5="f74938d5ba70a1650523a3aeb3d99084" sha1="9c82f124dc6454ce388382545319beac31c13730"/>
+	</game>
+	<game name="Sega Power - Issue 48 (1993-11)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 48 (1993-11)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 48 (1993-11)(Future Publishing)(GB).pdf" size="65487692" crc="fc04df30" md5="0c574724afbcec11873ce9317172652b" sha1="7cdb1dcf53bc918a466df099cc5dd003304d33a2"/>
+	</game>
+	<game name="Sega Power - Issue 49 (1993-12)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 49 (1993-12)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 49 (1993-12)(Future Publishing)(GB).pdf" size="73796406" crc="8106b48e" md5="a6050d104880c561d555bb15d600ca7c" sha1="c72ea2429dbd8ea11d912bdf5b76061d9e21a748"/>
+	</game>
+	<game name="Sega Power - Issue 50 (1994-01)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 50 (1994-01)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 50 (1994-01)(Future Publishing)(GB).pdf" size="398413628" crc="d6a1a755" md5="ca9373fe026d8fc3d93c0c3bce473be6" sha1="cb170b9f91931501858a1bb6d56e294dc877b08d"/>
+	</game>
+	<game name="Sega Power - Issue 51 (1994-02)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 51 (1994-02)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 51 (1994-02)(Future Publishing)(GB).pdf" size="311043947" crc="96862399" md5="a9355dc1c82f4c660ee0cb687336db98" sha1="e23c273734c26eddccc96b5fc89fe1210bf77bda"/>
+	</game>
+	<game name="Sega Power - Issue 52 (1994-03)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 52 (1994-03)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 52 (1994-03)(Future Publishing)(GB).pdf" size="275645059" crc="0dec255f" md5="eddea649285ba762a59e2ff4f9e0defc" sha1="3b70ba85d0c021f70768f2d84e5a5a45b176a19f"/>
+	</game>
+	<game name="Sega Power - Issue 53 (1994-04)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 53 (1994-04)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 53 (1994-04)(Future Publishing)(GB).pdf" size="273124749" crc="8bb5476a" md5="ffe3e7c797753bcf324d0121fcf05087" sha1="d856c1750943c11edf1336c947bceac7872884d8"/>
+	</game>
+	<game name="Sega Power - Issue 54 (1994-05)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 54 (1994-05)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 54 (1994-05)(Future Publishing)(GB).pdf" size="253529119" crc="c5b7d351" md5="c5ac8c7e07895ed492eb0a7198af2155" sha1="a325102e067089231178de7802619bb1a0d73196"/>
+	</game>
+	<game name="Sega Power - Issue 55 (1994-06)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 55 (1994-06)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 55 (1994-06)(Future Publishing)(GB).pdf" size="273348175" crc="33f29adb" md5="18f036de5bb14036c46e8c0b84c7c389" sha1="04a55ea49cf00f396ee14806c2e174bdcce5adf8"/>
+	</game>
+	<game name="Sega Power - Issue 56 (1994-07)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 56 (1994-07)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 56 (1994-07)(Future Publishing)(GB).pdf" size="255125711" crc="5df62b5a" md5="ef97ad7b8a6d745a7c91a16dd883acbb" sha1="a24696b2099a8e65def9f42d970044eaab03d348"/>
+	</game>
+	<game name="Sega Power - Issue 57 (1994-08)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 57 (1994-08)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 57 (1994-08)(Future Publishing)(GB).pdf" size="263047593" crc="861300da" md5="adbb07301306b1e2344f0785a5181aa4" sha1="85458d0282728bc56412f420a655c5d05be39bc3"/>
+	</game>
+	<game name="Sega Power - Issue 58 (1994-09)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 58 (1994-09)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 58 (1994-09)(Future Publishing)(GB).pdf" size="263125541" crc="2fee0987" md5="ba8307c4cca9ad063da27c33384e6e13" sha1="cac84b77875410aa706c215bee1646a915aa2d06"/>
+	</game>
+	<game name="Sega Power - Issue 59 (1994-10)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 59 (1994-10)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 59 (1994-10)(Future Publishing)(GB).pdf" size="247540708" crc="31387817" md5="6629ed5c846d2a7531a6401cb29d629f" sha1="df5039de920d7edfb5ec392e54f3373a220c2310"/>
+	</game>
+	<game name="Sega Power - Issue 60 (1994-11)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 60 (1994-11)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 60 (1994-11)(Future Publishing)(GB).pdf" size="256508878" crc="934e568a" md5="a68c1848349369d7c003a1fe700d0448" sha1="ae8be0f0194afa174f272914e6ab7f1488f377a6"/>
+	</game>
+	<game name="Sega Power - Issue 61 (1994-12)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 61 (1994-12)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 61 (1994-12)(Future Publishing)(GB).pdf" size="279729112" crc="e90a48a8" md5="4d99cc610bce88882551e7caead7db58" sha1="856525a87944345ba0946c1deb1c39cdaaba7799"/>
+	</game>
+	<game name="Sega Power - Issue 62 (1995-01)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 62 (1995-01)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 62 (1995-01)(Future Publishing)(GB).pdf" size="74773180" crc="933fd85a" md5="bf2488c563a46e4aed20df32bcd9c4bc" sha1="ee401a6f9b2b26553bd60e183d540bafad3a4b9c"/>
+	</game>
+	<game name="Sega Power - Issue 63 (1995-02)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 63 (1995-02)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 63 (1995-02)(Future Publishing)(GB).pdf" size="302431189" crc="e6fcdd44" md5="d004d889518ae6933f9ee2c3cc081d32" sha1="503580ca151e09385a7b36949a6e6e9ab196bce7"/>
+	</game>
+	<game name="Sega Power - Issue 64 (1995-03)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 64 (1995-03)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 64 (1995-03)(Future Publishing)(GB).pdf" size="48315256" crc="43c6a469" md5="0224c907c15b1c6b9b29c11101b1fbd9" sha1="b3924c25a826b3fc0ab35ba6b2c57f924dd13379"/>
+	</game>
+	<game name="Sega Power - Issue 65 (1995-04)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 65 (1995-04)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 65 (1995-04)(Future Publishing)(GB).pdf" size="266303237" crc="07032e45" md5="bbdd20f3f8b0d82795c3a97ea29548f1" sha1="dfd9c1355005710ebf95ec2f4ebe97395dc60add"/>
+	</game>
+	<game name="Sega Power - Issue 66 (1995-05)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 66 (1995-05)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 66 (1995-05)(Future Publishing)(GB).pdf" size="255046921" crc="686b6939" md5="334221ed357e006cb06181fa9c40483f" sha1="dbd2021ff2e7c7da2853a3b6df218b3a7fee350c"/>
+	</game>
+	<game name="Sega Power - Issue 67 (1995-06)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 67 (1995-06)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 67 (1995-06)(Future Publishing)(GB).pdf" size="241591963" crc="dfb1a396" md5="4bf13b538892bf1b2b65aff2326a660a" sha1="891cd4309fe0b6c7d91cefea9e45d945b88ef4d4"/>
+	</game>
+	<game name="Sega Power - Issue 68 (1995-07)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 68 (1995-07)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 68 (1995-07)(Future Publishing)(GB).pdf" size="252227607" crc="6b4fcab5" md5="812baaa7a3c8341a322fb0f67af986fa" sha1="bcaf2b56fd548af471d8eec43431ccf8d000090e"/>
+	</game>
+	<game name="Sega Power - Issue 69 (1995-08)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 69 (1995-08)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 69 (1995-08)(Future Publishing)(GB).pdf" size="212611581" crc="66ee90bc" md5="43b729c4f28d18891128a77389cbf7e5" sha1="d40b7fc74dcfbb03fb187542c71b562388ca987e"/>
+	</game>
+	<game name="Sega Power - Issue 70 (1995-09)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 70 (1995-09)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 70 (1995-09)(Future Publishing)(GB).pdf" size="200416572" crc="9a5851b3" md5="4d719247c68c95abb991f59a81c68952" sha1="e92e715d4f87e8c8ee830cd00ebbf4ccad36d1e0"/>
+	</game>
+	<game name="Sega Power - Issue 71 (1995-10)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 71 (1995-10)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 71 (1995-10)(Future Publishing)(GB).pdf" size="37504097" crc="1ec06855" md5="8e96209681079e6eb8e50d98ec8d067c" sha1="c8515b7fe6f408071a0e1887f345538b33f76ba2"/>
+	</game>
+	<game name="Sega Power - Issue 72 (1995-11)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 72 (1995-11)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 72 (1995-11)(Future Publishing)(GB).pdf" size="199061681" crc="4be0362b" md5="9cda60276aab4a286d32a0dd6cb7d013" sha1="9ef0e30d4fbaf39fb3cb0621543a77740336e8b7"/>
+	</game>
+	<game name="Sega Power - Issue 73 (1995-12)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 73 (1995-12)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 73 (1995-12)(Future Publishing)(GB).pdf" size="198676471" crc="45c6726b" md5="1e5beb4c45fd6c9aa201cb53097cc569" sha1="9e052f69eec2f7e8e6c5abe42ab74b12e130dc43"/>
+	</game>
+	<game name="Sega Power - Issue 74 (1996-01)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 74 (1996-01)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 74 (1996-01)(Future Publishing)(GB).pdf" size="193947381" crc="9287f2c2" md5="821bb57fe0e5f875e0cb55d07f48d209" sha1="7ce2f69fff12527e450cf1fc1abe3e531c544e6b"/>
+	</game>
+	<game name="Sega Power - Issue 75 (1995)(Future Publishing)(GB)[christmas edition]">
+		<description>Sega Power - Issue 75 (1995)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Sega Power - Issue 75 (1995)(Future Publishing)(GB)[christmas edition].pdf" size="232940229" crc="a71f7765" md5="e711daec10e8d0d1643d6025cbdd5fe9" sha1="9710605f4b9119a62a840308e0e8aeb76e1bd073"/>
+	</game>
+	<game name="Sega Power - Issue 76 (1996-03)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 76 (1996-03)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 76 (1996-03)(Future Publishing)(GB).pdf" size="195324636" crc="50821523" md5="587442c88e701b02500e5c143e3ec22d" sha1="8cd4d08f2c79f24247e4a3bf5388bb7fd4abd380"/>
+	</game>
+	<game name="Sega Power - Issue 77 (1996-04)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 77 (1996-04)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 77 (1996-04)(Future Publishing)(GB).pdf" size="191939777" crc="ce5012db" md5="c806e7c8c338da7bbaae9e506bfe1892" sha1="ad46c96216f1f1ed1f5b474217154ad8db165df1"/>
+	</game>
+	<game name="Sega Power - Issue 78 (1996-05)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 78 (1996-05)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 78 (1996-05)(Future Publishing)(GB).pdf" size="197259784" crc="2e03a8f8" md5="8e45fbfbc59fcdaae61071ba4ee0d990" sha1="3ec9ff03597415ad1637033d95e306418eaed339"/>
+	</game>
+	<game name="Sega Power - Issue 79 (1996-06)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 79 (1996-06)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 79 (1996-06)(Future Publishing)(GB).pdf" size="197932298" crc="e098d3ee" md5="36dc88bcc2417d4f80c0cdfb8f944016" sha1="dff9a224f637123147a214dbe860d3f94175a16b"/>
+	</game>
+	<game name="Sega Power - Issue 80 (1996-07)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 80 (1996-07)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 80 (1996-07)(Future Publishing)(GB).pdf" size="200688523" crc="f92d4262" md5="4e77fd5b8ccc5d990bdb7a1591570411" sha1="26c7ed195f6f1529c51097792e851a9eead96811"/>
+	</game>
+	<game name="Sega Power - Issue 81 (1996-08)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 81 (1996-08)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 81 (1996-08)(Future Publishing)(GB).pdf" size="198826673" crc="dec71d21" md5="72db55cf84b97adaa10dab211a7c7788" sha1="63dd2ab67b6d9febc1f7bc3d6a0e1c67890db5dc"/>
+	</game>
+	<game name="Sega Power - Issue 82 (1996)(Future Publishing)(GB)[colelctors edition]">
+		<description>Sega Power - Issue 82 (1996)(Future Publishing)(GB)[colelctors edition]</description>
+		<rom name="Sega Power - Issue 82 (1996)(Future Publishing)(GB)[colelctors edition].pdf" size="198528126" crc="56a566b5" md5="e71388bfe6a5f2c4b1cfc60267d92a46" sha1="48b67e687b7d48fcc610e0caff1ff269bd43ba74"/>
+	</game>
+	<game name="Sega Power - Issue 83 (1996-09)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 83 (1996-09)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 83 (1996-09)(Future Publishing)(GB).pdf" size="202214120" crc="bc262367" md5="927617a640eee45a222108677c3471fd" sha1="bf81928bd41b66aa3f5eef6c6dfea42b69939468"/>
+	</game>
+	<game name="Sega Power - Issue 84 (1996-10)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 84 (1996-10)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 84 (1996-10)(Future Publishing)(GB).pdf" size="203659361" crc="33d44297" md5="880025e84ebe1cf4ec8c459c25c7974b" sha1="fc78738e0dc65dde8937cf3b4e350de1f3027fd9"/>
+	</game>
+	<game name="Sega Power - Issue 85 (1996-11)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 85 (1996-11)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 85 (1996-11)(Future Publishing)(GB).pdf" size="203207404" crc="917d69c4" md5="fbf79c1deddf593849288c10285e52e0" sha1="81e7c70ed1d961f21ab0c610fc6fcbedbf45b537"/>
+	</game>
+	<game name="Sega Power - Issue 86 (1996-12)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 86 (1996-12)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 86 (1996-12)(Future Publishing)(GB).pdf" size="203455521" crc="c5a40f45" md5="aab99f6e1071235da6dcf979142d1927" sha1="80c0c9b7887050432010fca21fb928ca1dd0db06"/>
+	</game>
+	<game name="Sega Power - Issue 87 (1996)(Future Publishing)(GB)[christmas edition]">
+		<description>Sega Power - Issue 87 (1996)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="Sega Power - Issue 87 (1996)(Future Publishing)(GB)[christmas edition].pdf" size="206445787" crc="5a2f3992" md5="dd899e8763d244f11f01cd7710defe17" sha1="463ec43787b9a4880419f40aa0224a63d43e56d2"/>
+	</game>
+	<game name="Sega Power - Issue 88 (1997-01)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 88 (1997-01)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 88 (1997-01)(Future Publishing)(GB).pdf" size="205957053" crc="f9b6c587" md5="231293c56b9dd5bb62a7f36f260268d1" sha1="7aa37932850c84870f88bcb5799398b131eab7e7"/>
+	</game>
+	<game name="Sega Power - Issue 89 (1997-02)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 89 (1997-02)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 89 (1997-02)(Future Publishing)(GB).pdf" size="215074418" crc="42801616" md5="7572599f1f15a145768be5763fb7a4b2" sha1="8a657f24b3c06960bf8d5c2e133d6955e18459d7"/>
+	</game>
+	<game name="Sega Power - Issue 90 (1997-03)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 90 (1997-03)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 90 (1997-03)(Future Publishing)(GB).pdf" size="213049103" crc="cc578adb" md5="fdfb4f7c4acea71916c9d0d77acea798" sha1="58f2f9a24a59dec2fd4865dc562fa3c044fa516c"/>
+	</game>
+	<game name="Sega Power - Issue 91 (1997-04)(Future Publishing)(GB)">
+		<description>Sega Power - Issue 91 (1997-04)(Future Publishing)(GB)</description>
+		<rom name="Sega Power - Issue 91 (1997-04)(Future Publishing)(GB).pdf" size="203430986" crc="af1f093a" md5="5fbc5b44327535beac52b8b1592ff149" sha1="c7b1e3343f027fb55b938a7ceb1b0eeddfd22f1e"/>
+	</game>
+</datafile>

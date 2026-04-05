@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Australian Electronics Monthly, The (AU)</name>
+		<description>Multi-format - Magazines - Australian Electronics Monthly, The (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Australian Electronics Monthly, The (1985-07)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1985-07)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1985-07)(Kedhorn Holdings)(AU).pdf" size="180745309" crc="9b5d2ea6" md5="f116e99d8b2b3c3e4afd61c5650eaa53" sha1="4250a7014e389fbe89f23c08f6696d342d929a2f"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1985-10)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1985-10)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1985-10)(Kedhorn Holdings)(AU).pdf" size="8361672" crc="7b5f8187" md5="e4ea130c3a9a42b27c70bda29e92a5a6" sha1="381aaf16c70b3623f45e99148b9db31f14bcf53a"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1985-11)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1985-11)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1985-11)(Kedhorn Holdings)(AU).pdf" size="7365064" crc="de2429f5" md5="63c68987c2d5ac29085c93bb09c32ffa" sha1="f1e497847ad4636c57caac1a9ae394881c16ae09"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1985-12)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1985-12)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1985-12)(Kedhorn Holdings)(AU).pdf" size="7486159" crc="b703e587" md5="c3b684ee858ef00a09684ad6090e780c" sha1="aea6aaea5061092f14ff45950d6e38e7da52ad34"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-01)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-01)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-01)(Kedhorn Holdings)(AU).pdf" size="7222180" crc="68467633" md5="29dbbc9fd6142cba0d69875cfaa5afd9" sha1="7be0cfd0c86f7c4d7bada40ede25c51350b7cb08"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-02)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-02)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-02)(Kedhorn Holdings)(AU).pdf" size="6937574" crc="8ef7dd3f" md5="041c059def7bae8a01176be721475970" sha1="081f226ad74b930c4087644adc2db35319bf6371"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-03)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-03)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-03)(Kedhorn Holdings)(AU).pdf" size="7367710" crc="5d4122d3" md5="da46f9a083ae5d5d5579c12480c83fb7" sha1="bf4074942432f97af0cd966780630f7a30a94fc9"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-04)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-04)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-04)(Kedhorn Holdings)(AU).pdf" size="6662321" crc="51269a77" md5="407a1df980aaa9eff28137381562bfcb" sha1="1d37ab922ee28e532789fdd10efc30e461a378b5"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-05)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-05)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-05)(Kedhorn Holdings)(AU).pdf" size="6785772" crc="43cf995e" md5="f9960d7be627528b157f962cdd2596b7" sha1="b9e98cc1f31e09b5c04d95185b3a89287638a61e"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-06)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-06)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-06)(Kedhorn Holdings)(AU).pdf" size="7446480" crc="24aae25a" md5="de05ecd152ddb451b2092bbe6faa0b8e" sha1="4e8dbab1c67a3f955fd005aaba6a32f7926139c3"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-07)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-07)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-07)(Kedhorn Holdings)(AU).pdf" size="6772270" crc="89b13b5e" md5="ee76a43a54898572ba7274ab6e5f74e5" sha1="bfac94962fc9ff175e52f486ff9c21400d0afdfa"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-08)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-08)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-08)(Kedhorn Holdings)(AU).pdf" size="6803217" crc="d89f89de" md5="d1f81b6a539272a5bfebf15b74fd5659" sha1="e1c260f8574bc37c2c224afa847c7f8b4553cc95"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-09)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-09)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-09)(Kedhorn Holdings)(AU).pdf" size="6285625" crc="1b85f299" md5="22f2924fe2777f86e529543f6639b4ae" sha1="449a15402a8bd60237bab8c7ce62dfa19e5cb540"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-10)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-10)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-10)(Kedhorn Holdings)(AU).pdf" size="8465489" crc="c0e7f2b8" md5="a5f8bc03fd5de43b33665ab55608d3a7" sha1="c2e72899663819ca839d4e929693b74fd6cba0dd"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-11)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-11)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-11)(Kedhorn Holdings)(AU).pdf" size="6034774" crc="cccb6dad" md5="31e0c6eb0b3e0a8dd1025e26ae6451be" sha1="50afb80c9ffac279b6eb619ad54a07998d2283e6"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1986-12)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1986-12)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1986-12)(Kedhorn Holdings)(AU).pdf" size="7489664" crc="fac5b92d" md5="54fb23518f9b644292b0096382a0bc4d" sha1="7af76ad98f97ad2543e08bbfb15982f19e68daf4"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1987-04)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1987-04)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1987-04)(Kedhorn Holdings)(AU).pdf" size="5963636" crc="798608e2" md5="294710c7950bcd0aa1717f2a3c4c4a6d" sha1="a5b88dc8c60d96536cb60a67d690469c9e6f294e"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1987-05)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1987-05)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1987-05)(Kedhorn Holdings)(AU).pdf" size="5930421" crc="8d687d81" md5="53cfe5f83289799907318980d77e691e" sha1="1229ed78a61ed6dd742b2956d99d72b5c27365fe"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1987-06)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1987-06)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1987-06)(Kedhorn Holdings)(AU).pdf" size="6729168" crc="4732b2c0" md5="15c249a9473a768bfa07c8cd03a6b504" sha1="b283823c0cd0eb0bf7a53772a4a5944b67546e29"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1987-07)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1987-07)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1987-07)(Kedhorn Holdings)(AU).pdf" size="6992417" crc="ebd24b28" md5="a40baab8416ef4fa50facaa34c26b3de" sha1="e4c747a05aa92a2ff6c839af2dcdbad80c87d15a"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1987-08)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1987-08)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1987-08)(Kedhorn Holdings)(AU).pdf" size="6096286" crc="7ad9c330" md5="49e1712492d1a8ad2c1b3b1bc93da502" sha1="c4ac7045bb71937ec805dc417c90bf32c1737867"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1987-09)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1987-09)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1987-09)(Kedhorn Holdings)(AU).pdf" size="6223941" crc="5715772c" md5="44a8118688f81095456fcdcca8efd713" sha1="28a0c72995ee41d413fae7bc3ede7d8fee1fe044"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1987-10)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1987-10)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1987-10)(Kedhorn Holdings)(AU).pdf" size="6398763" crc="ff1c4ccc" md5="a5293c1387a668e587c11448f22dbce9" sha1="0888dc2efe153d45a69ed89e5c9163563c5733df"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1987-11)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1987-11)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1987-11)(Kedhorn Holdings)(AU).pdf" size="6322118" crc="d01a5433" md5="6cc3f29f7ae9e48ed83ab2e381ed5972" sha1="44e7d77d3288175944c9795f9671393d71871cc7"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1987-12)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1987-12)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1987-12)(Kedhorn Holdings)(AU).pdf" size="7678177" crc="fb0eb67c" md5="1ace1b2e48dfad2d58272938b0da3384" sha1="509091c31afa261e6806bbfa5aa34dec5e757167"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1988-11)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1988-11)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1988-11)(Kedhorn Holdings)(AU).pdf" size="36457521" crc="af38d490" md5="6eb55794a2c8aabb51a57bcc21d83a3a" sha1="1914e8a9d48334c58cd2bfc5af35a21fe8903b2f"/>
+	</game>
+	<game name="Australian Electronics Monthly, The (1988-12)(Kedhorn Holdings)(AU)">
+		<description>Australian Electronics Monthly, The (1988-12)(Kedhorn Holdings)(AU)</description>
+		<rom name="Australian Electronics Monthly, The (1988-12)(Kedhorn Holdings)(AU).pdf" size="6305280" crc="f49826c7" md5="173ee66efcca919b1dff98071c689bb1" sha1="d061a365bcfd2670eb9259b57f76dbd472fcbe14"/>
+	</game>
+</datafile>

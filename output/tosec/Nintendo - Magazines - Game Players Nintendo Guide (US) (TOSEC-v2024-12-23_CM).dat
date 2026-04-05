@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Game Players Nintendo Guide (US)</name>
+		<description>Nintendo - Magazines - Game Players Nintendo Guide (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Players Nintendo Guide - Vol 04 No 13 (1991)(GP Publications)(US)[winter edition]">
+		<description>Game Players Nintendo Guide - Vol 04 No 13 (1991)(GP Publications)(US)[winter edition]</description>
+		<rom name="Game Players Nintendo Guide - Vol 04 No 13 (1991)(GP Publications)(US)[winter edition].pdf" size="215344483" crc="be71460a" md5="1c33953e3dc8ef6949355322605cdd0d" sha1="5340a22eaa87f72617396b4a52687c27318ed2bd"/>
+	</game>
+	<game name="Game Players Nintendo Guide - Vol 05 No 03 (1992-03)(GP Publications)(US)">
+		<description>Game Players Nintendo Guide - Vol 05 No 03 (1992-03)(GP Publications)(US)</description>
+		<rom name="Game Players Nintendo Guide - Vol 05 No 03 (1992-03)(GP Publications)(US).pdf" size="192549016" crc="49b8a175" md5="95ee80af5543ddda639268f73ea714c8" sha1="beece15476cdbf944a246dffc7b5e402ca2ec8d0"/>
+	</game>
+	<game name="Game Players Nintendo Guide - Vol 05 No 08 (1992-08)(GP Publications)(US)">
+		<description>Game Players Nintendo Guide - Vol 05 No 08 (1992-08)(GP Publications)(US)</description>
+		<rom name="Game Players Nintendo Guide - Vol 05 No 08 (1992-08)(GP Publications)(US).pdf" size="308188473" crc="2b9c0d6e" md5="a32e808efd85647f1e4381ff39d8c259" sha1="026132d2980709754596b61676376a94159d4914"/>
+	</game>
+	<game name="Game Players Nintendo Guide - Vol 05 No 09 (1992-09)(GP Publications)(US)">
+		<description>Game Players Nintendo Guide - Vol 05 No 09 (1992-09)(GP Publications)(US)</description>
+		<rom name="Game Players Nintendo Guide - Vol 05 No 09 (1992-09)(GP Publications)(US).pdf" size="282196508" crc="74eaea44" md5="21b8f6110ecf5631461011cc742fd2a1" sha1="5c84628bbea46ccd6d2e81766294c047419d094b"/>
+	</game>
+	<game name="Game Players Nintendo Guide - Vol 05 No 10 (1992-10)(GP Publications)(US)">
+		<description>Game Players Nintendo Guide - Vol 05 No 10 (1992-10)(GP Publications)(US)</description>
+		<rom name="Game Players Nintendo Guide - Vol 05 No 10 (1992-10)(GP Publications)(US).pdf" size="309744581" crc="61b2dd09" md5="508d8acf1be58989b12a8aefb6683403" sha1="ee64d4924bc7f82fdde2639ad99aebbc7d3c4b0f"/>
+	</game>
+	<game name="Game Players Nintendo Guide - Vol 05 No 11 (1992-11)(GP Publications)(US)">
+		<description>Game Players Nintendo Guide - Vol 05 No 11 (1992-11)(GP Publications)(US)</description>
+		<rom name="Game Players Nintendo Guide - Vol 05 No 11 (1992-11)(GP Publications)(US).pdf" size="316071238" crc="e640465b" md5="3cee526f0748140f7863449f294cd570" sha1="77f03e53ea49f8f5f6ad2305500bbdb181bd448e"/>
+	</game>
+	<game name="Game Players Nintendo Guide - Vol 05 No 12 (1992-12)(GP Publications)(US)">
+		<description>Game Players Nintendo Guide - Vol 05 No 12 (1992-12)(GP Publications)(US)</description>
+		<rom name="Game Players Nintendo Guide - Vol 05 No 12 (1992-12)(GP Publications)(US).pdf" size="326750790" crc="f30b0eae" md5="d9b7dae94cf6edc69849b96bb2781692" sha1="8c8595e03cf57d2790e299bf5d069481ff6da730"/>
+	</game>
+	<game name="Game Players Nintendo Guide - Vol 06 No 02 (1993-02)(GP Publications)(US)">
+		<description>Game Players Nintendo Guide - Vol 06 No 02 (1993-02)(GP Publications)(US)</description>
+		<rom name="Game Players Nintendo Guide - Vol 06 No 02 (1993-02)(GP Publications)(US).pdf" size="275641667" crc="fa476a9b" md5="abd17728d54239d51dabf3be5ae0dd9a" sha1="242957e2c8a753fa118e723c4df9eeedf87f6df7"/>
+	</game>
+	<game name="Game Players Nintendo Guide - Vol 06 No 03 (1993-03)(GP Publications)(US)">
+		<description>Game Players Nintendo Guide - Vol 06 No 03 (1993-03)(GP Publications)(US)</description>
+		<rom name="Game Players Nintendo Guide - Vol 06 No 03 (1993-03)(GP Publications)(US).pdf" size="258425832" crc="43e36be4" md5="806ba672bc990ebe51838e23dfdd60a8" sha1="f14e102f2a84d983dff1b6c9e4caf88f8de926aa"/>
+	</game>
+	<game name="Game Players Nintendo Guide - Vol 06 No 03 (1993-03)(GP Publications)(US)[a]">
+		<description>Game Players Nintendo Guide - Vol 06 No 03 (1993-03)(GP Publications)(US)[a]</description>
+		<rom name="Game Players Nintendo Guide - Vol 06 No 03 (1993-03)(GP Publications)(US)[a].pdf" size="73431626" crc="330c7f20" md5="b572b2469b663b650892c4019fd3ac93" sha1="613e5fbad88cf9684f0f4344e07607d05fef5fc5"/>
+	</game>
+	<game name="Game Players Nintendo Guide - Vol 06 No 04 (1993-04)(GP Publications)(US)">
+		<description>Game Players Nintendo Guide - Vol 06 No 04 (1993-04)(GP Publications)(US)</description>
+		<rom name="Game Players Nintendo Guide - Vol 06 No 04 (1993-04)(GP Publications)(US).pdf" size="278466557" crc="9dfd663e" md5="4c3f029ef52198bfd077f5e4d16a3172" sha1="d2dd1b7d31cf921c5ed36ed1c76613c96bffee0d"/>
+	</game>
+	<game name="Game Players Strategy Guide to GameBoy Games Vol 02 No 02 (1991-04)(GP Publications)(US)">
+		<description>Game Players Strategy Guide to GameBoy Games Vol 02 No 02 (1991-04)(GP Publications)(US)</description>
+		<rom name="Game Players Strategy Guide to GameBoy Games Vol 02 No 02 (1991-04)(GP Publications)(US).pdf" size="76756212" crc="ec517e77" md5="1024e809187943e8b4312f80deb15d11" sha1="2172a0b49a5260517a18ac31bb2b80eccfc48b34"/>
+	</game>
+</datafile>

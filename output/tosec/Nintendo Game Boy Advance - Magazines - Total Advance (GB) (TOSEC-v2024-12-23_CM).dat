@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Advance - Magazines - Total Advance (GB)</name>
+		<description>Nintendo Game Boy Advance - Magazines - Total Advance (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Total Advance - Issue 34 (2002-11)(Paragon Publication)(GB)">
+		<description>Total Advance - Issue 34 (2002-11)(Paragon Publication)(GB)</description>
+		<rom name="Total Advance - Issue 34 (2002-11)(Paragon Publication)(GB).pdf" size="26331270" crc="588b4489" md5="327fdd2b54af383492d08ef405b8656b" sha1="13455e9810d42f71cce42c39776a13142d8008a2"/>
+	</game>
+</datafile>

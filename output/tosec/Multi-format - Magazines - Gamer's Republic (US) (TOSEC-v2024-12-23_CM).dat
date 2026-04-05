@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Gamer's Republic (US)</name>
+		<description>Multi-format - Magazines - Gamer's Republic (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="1999 Video Game Buyers Guide and Y2K Preview (1999)(Millennium Publications)(US)">
+		<description>1999 Video Game Buyers Guide and Y2K Preview (1999)(Millennium Publications)(US)</description>
+		<rom name="1999 Video Game Buyers Guide and Y2K Preview (1999)(Millennium Publications)(US).pdf" size="265558199" crc="3753f46a" md5="8a4824de3f58d0d11b8dc74360de3f2f" sha1="21a9fa74822696e6e01849b4cbe0710823dc507e"/>
+	</game>
+	<game name="Gamers Republic - No. 03 (1998-08)(Millennum Publications)(US)">
+		<description>Gamers Republic - No. 03 (1998-08)(Millennum Publications)(US)</description>
+		<rom name="Gamers Republic - No. 03 (1998-08)(Millennum Publications)(US).pdf" size="239025983" crc="50f92f11" md5="ba856582c587e1e18bb3b280c6dfb209" sha1="f96643328e58158ae143d740a968be665c42bf1d"/>
+	</game>
+	<game name="Gamers Republic - No. 05 (1998-10)(Millennum Publications)(US)">
+		<description>Gamers Republic - No. 05 (1998-10)(Millennum Publications)(US)</description>
+		<rom name="Gamers Republic - No. 05 (1998-10)(Millennum Publications)(US).pdf" size="273821165" crc="2bcec063" md5="91cf87639de4b0c3d3ea1b8fc87e34fb" sha1="cb197bea69269ab2028d44fbe953acc6083e0f6f"/>
+	</game>
+	<game name="Gamers' Republic - Issue 01 (1998-06)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 01 (1998-06)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 01 (1998-06)(Millennium Publications)(US).pdf" size="160723460" crc="4eed3d74" md5="bb00b89bc8d58ee2d2b02fc90cbee0c3" sha1="77b0a7544d48614b8e9e3d08901b66e5a3ded192"/>
+	</game>
+	<game name="Gamers' Republic - Issue 02 (1998-07)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 02 (1998-07)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 02 (1998-07)(Millennium Publications)(US).pdf" size="153696917" crc="2e476b4b" md5="fcfc0dffc970f9ec1f34ab1ba593843f" sha1="df29d3681999f378a26847de02de15916a092bc4"/>
+	</game>
+	<game name="Gamers' Republic - Issue 03 (1998-08)(Millennium Publications)(US)[a]">
+		<description>Gamers' Republic - Issue 03 (1998-08)(Millennium Publications)(US)[a]</description>
+		<rom name="Gamers' Republic - Issue 03 (1998-08)(Millennium Publications)(US)[a].pdf" size="160756616" crc="14829291" md5="50ad7ea91422c4f574859443696fbeb1" sha1="88868cd2b45d937cb6c29c4afb54383feeb3f0ab"/>
+	</game>
+	<game name="Gamers' Republic - Issue 04 (1998-09)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 04 (1998-09)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 04 (1998-09)(Millennium Publications)(US).pdf" size="166417950" crc="a0e54ef1" md5="67538053382608ddf7005f63c2ae91f4" sha1="cce6c4e8c7e5820b1103ee971c81cf9d3623cb3d"/>
+	</game>
+	<game name="Gamers' Republic - Issue 05 (1998-10)(Millennium Publications)(US)[a]">
+		<description>Gamers' Republic - Issue 05 (1998-10)(Millennium Publications)(US)[a]</description>
+		<rom name="Gamers' Republic - Issue 05 (1998-10)(Millennium Publications)(US)[a].pdf" size="192959690" crc="fea6aa42" md5="8903fef20e53037d15b872d16bd368f2" sha1="b188cb47bd7f699801d751d2d13f4cbaf7effebb"/>
+	</game>
+	<game name="Gamers' Republic - Issue 06 (1998-11)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 06 (1998-11)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 06 (1998-11)(Millennium Publications)(US).pdf" size="197175196" crc="b81325fb" md5="b6e45c54661e5f7384d5394bf576a50a" sha1="8dc986963d10390ee7b098d3ed7ae8de2f660d1f"/>
+	</game>
+	<game name="Gamers' Republic - Issue 07 (1998-12)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 07 (1998-12)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 07 (1998-12)(Millennium Publications)(US).pdf" size="216334066" crc="32b05efc" md5="ea2ff496811b03e09ab9b7f9d62bbdd2" sha1="e379e8f8c76c5a15cb8f17fbdf58acab877474fd"/>
+	</game>
+	<game name="Gamers' Republic - Issue 08 (1999-01)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 08 (1999-01)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 08 (1999-01)(Millennium Publications)(US).pdf" size="193073120" crc="6e76fd84" md5="667b9c19277a59b0f08bac7a343d8cd1" sha1="95ec5a2907246822b0511b3cbe2764e4444c14ae"/>
+	</game>
+	<game name="Gamers' Republic - Issue 09 (1999-02)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 09 (1999-02)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 09 (1999-02)(Millennium Publications)(US).pdf" size="166059222" crc="77da88c6" md5="687a5c8ca50d83e6fe492ebeab7ccf3f" sha1="63bf59a2a00424469ea3db33aff0bda5fd392b55"/>
+	</game>
+	<game name="Gamers' Republic - Issue 10 (1999-03)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 10 (1999-03)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 10 (1999-03)(Millennium Publications)(US).pdf" size="185679853" crc="9202edd5" md5="6bb57487b1e13b6fb32d5cf5c68aeec9" sha1="40be2b98ebaaa05d9d4f865319791927cd8b11dc"/>
+	</game>
+	<game name="Gamers' Republic - Issue 11 (1999-04)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 11 (1999-04)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 11 (1999-04)(Millennium Publications)(US).pdf" size="200698368" crc="6dca63ec" md5="179da8451a7f89c11e2cc082534ee739" sha1="2745f73b3374082769e1ef047867ce0c1fd24c53"/>
+	</game>
+	<game name="Gamers' Republic - Issue 12 (1999-05)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 12 (1999-05)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 12 (1999-05)(Millennium Publications)(US).pdf" size="183323164" crc="34bbe17e" md5="fc3feb2cc809d50bbd522fd84e844deb" sha1="ffa2c1a91656c41460892111d913f40970b2598b"/>
+	</game>
+	<game name="Gamers' Republic - Issue 13 (1999-06)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 13 (1999-06)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 13 (1999-06)(Millennium Publications)(US).pdf" size="186821185" crc="d8f0f848" md5="67befce14050adba4c7872b71224301d" sha1="803fd026b7c603eb91708d69b4017a03309c44f6"/>
+	</game>
+	<game name="Gamers' Republic - Issue 14 (1999-07)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 14 (1999-07)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 14 (1999-07)(Millennium Publications)(US).pdf" size="193612209" crc="3bfacee2" md5="f1a830334f3f23ea4423ef317333b6bb" sha1="70bc5883427f2de2a8f26bf9d2d7ca330250fe96"/>
+	</game>
+	<game name="Gamers' Republic - Issue 15 (1999-08)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 15 (1999-08)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 15 (1999-08)(Millennium Publications)(US).pdf" size="191593391" crc="a919c7ca" md5="c31b648876f7c59fcc1c7705ecd0d550" sha1="f9a0e2c99b837aeead64ffbc3ea1e48bd9b313fd"/>
+	</game>
+	<game name="Gamers' Republic - Issue 16 (1999-09)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 16 (1999-09)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 16 (1999-09)(Millennium Publications)(US).pdf" size="194801743" crc="11d1eafe" md5="f06614c726f7bd7df4445452e062193e" sha1="1f20a395bbb100741d41f08040660c7f085c5ba5"/>
+	</game>
+	<game name="Gamers' Republic - Issue 17 (1999-10)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 17 (1999-10)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 17 (1999-10)(Millennium Publications)(US).pdf" size="186650714" crc="a373bc7b" md5="e1fde359e74ad773d18b5313aed80b81" sha1="5591342e5d2840e8101f1c73affe1eb3dda087d0"/>
+	</game>
+	<game name="Gamers' Republic - Issue 18 (1999-11)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 18 (1999-11)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 18 (1999-11)(Millennium Publications)(US).pdf" size="180471531" crc="54e8bd87" md5="21df014d5e83da01550c93e1ae339032" sha1="9178243c42d8d7e9ed274044c726f6d97c1381dd"/>
+	</game>
+	<game name="Gamers' Republic - Issue 19 (1999-12)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 19 (1999-12)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 19 (1999-12)(Millennium Publications)(US).pdf" size="216190712" crc="b8e0f56a" md5="fd67ea7fc3dfd2c91ace2f66dcf99ada" sha1="bc25cc27ea4669f17a3232527c6f64b99de2c3fb"/>
+	</game>
+	<game name="Gamers' Republic - Issue 20 (2000-01)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 20 (2000-01)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 20 (2000-01)(Millennium Publications)(US).pdf" size="218190950" crc="829d53af" md5="a2cf568601beac05acd2b0ef76900686" sha1="3588670b87f794b2c7baf10ef4af858fcc9c8d70"/>
+	</game>
+	<game name="Gamers' Republic - Issue 22 (2000-03)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 22 (2000-03)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 22 (2000-03)(Millennium Publications)(US).pdf" size="270064176" crc="39ac46b0" md5="9d002005b042bdd4a14a5f7c617bd166" sha1="22b1dbe339cf95890255c615bf80883931e9c161"/>
+	</game>
+	<game name="Gamers' Republic - Issue 23 (2000-04)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 23 (2000-04)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 23 (2000-04)(Millennium Publications)(US).pdf" size="191737787" crc="ec6b410e" md5="5440d84887134b2a82e0ce6f6966ab1f" sha1="b9a5efad8229008cefbdb3cf3d61d4f16da8b71e"/>
+	</game>
+	<game name="Gamers' Republic - Issue 24 (2000-05)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 24 (2000-05)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 24 (2000-05)(Millennium Publications)(US).pdf" size="176070306" crc="b7f814d3" md5="74d9b035ca5644f48a469ecfadacff29" sha1="600d286db3ae2630dda1a49d817097a6d3b0d56e"/>
+	</game>
+	<game name="Gamers' Republic - Issue 25 (2000-06)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 25 (2000-06)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 25 (2000-06)(Millennium Publications)(US).pdf" size="212889999" crc="a38523ee" md5="6e09b6fd772cd9ba6a3b2f369deb127c" sha1="a69ff0d8710f147026638126da8b3532f5089ce7"/>
+	</game>
+	<game name="Gamers' Republic - Issue 26 (2000-07)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 26 (2000-07)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 26 (2000-07)(Millennium Publications)(US).pdf" size="199051931" crc="c6972ad3" md5="7b6a9af90bd93cf58194fcecf836a1fd" sha1="609f2894ce9f5ff2ee2d9efa05cc3e1cf2714cd7"/>
+	</game>
+	<game name="Gamers' Republic - Issue 27 (2000-08)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 27 (2000-08)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 27 (2000-08)(Millennium Publications)(US).pdf" size="181820760" crc="2c9e5071" md5="8fc6d26cfa98d6f7897ebaea9fd349c1" sha1="5e5dbdfe7baac858c690720e4aa7c8a2250f8e70"/>
+	</game>
+	<game name="Gamers' Republic - Issue 28 (2000-09)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 28 (2000-09)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 28 (2000-09)(Millennium Publications)(US).pdf" size="175794182" crc="b5ace78a" md5="a0e03cbdf1ad5f1e7ef0b397749235c5" sha1="d9d614db930699fad67f8f652acdcccf924cf5ce"/>
+	</game>
+	<game name="Gamers' Republic - Issue 29 (2000-10)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 29 (2000-10)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 29 (2000-10)(Millennium Publications)(US).pdf" size="199377267" crc="884306e2" md5="b42446da1fc6323ed43040ff34374e28" sha1="8ffa2b6868fcfeed8a6839d303a3d7749838c797"/>
+	</game>
+	<game name="Gamers' Republic - Issue 30 (2000-11)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 30 (2000-11)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 30 (2000-11)(Millennium Publications)(US).pdf" size="202353696" crc="974cdfd6" md5="576bce03fcaf9e8c250a07ba9b6e553e" sha1="c010c91c6be5467213ecd7fa9df32779efdb85f4"/>
+	</game>
+	<game name="Gamers' Republic - Issue 31 (2000-12)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 31 (2000-12)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 31 (2000-12)(Millennium Publications)(US).pdf" size="211616495" crc="b027b8ba" md5="7a6c931ba95ba0c69a45e085ffa72211" sha1="3c363ad6131bb50a78780e4def7d8a23725497ec"/>
+	</game>
+	<game name="Gamers' Republic - Issue 32 (2001-01)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 32 (2001-01)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 32 (2001-01)(Millennium Publications)(US).pdf" size="231521281" crc="62c52622" md5="901e985bada929dd620e611af61def86" sha1="8f78fcbe7e91dc785a682e1ea943f000c3323453"/>
+	</game>
+	<game name="Gamers' Republic - Issue 33 (2001-02)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 33 (2001-02)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 33 (2001-02)(Millennium Publications)(US).pdf" size="186793628" crc="968fe7c2" md5="a622f73ac897d9408d0ec8775c92d0a6" sha1="0ca56d6e48e2c29e7d5a64fba46126f70c2e9294"/>
+	</game>
+	<game name="Gamers' Republic - Issue 34 (2001-03)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 34 (2001-03)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 34 (2001-03)(Millennium Publications)(US).pdf" size="166836475" crc="c2fb6978" md5="44342d0cf7a19c929f9a1e48f5a81689" sha1="0fc142d3981e76b633b991e7a4cbb7448fc1dc8a"/>
+	</game>
+	<game name="Gamers' Republic - Issue 35 (2001-04)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 35 (2001-04)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 35 (2001-04)(Millennium Publications)(US).pdf" size="116314544" crc="b0c00845" md5="8c5df93d1c6fc0cbbff9a9cdcf83fc08" sha1="706a229a49cb12ba3388c03b61ed254e1aae2f24"/>
+	</game>
+	<game name="Gamers' Republic - Issue 36 (2001-05)(Millennium Publications)(US)">
+		<description>Gamers' Republic - Issue 36 (2001-05)(Millennium Publications)(US)</description>
+		<rom name="Gamers' Republic - Issue 36 (2001-05)(Millennium Publications)(US).pdf" size="823505213" crc="ec2581b8" md5="95e6ef6db70a050759acc560fd521b17" sha1="c92ad3e6e51ced465b31f935b6cd146db68d279c"/>
+	</game>
+	<game name="Holiday Buyers' Guide '98 (1998)(Millennium Publications)(US)[winter edition]">
+		<description>Holiday Buyers' Guide '98 (1998)(Millennium Publications)(US)[winter edition]</description>
+		<rom name="Holiday Buyers' Guide '98 (1998)(Millennium Publications)(US)[winter edition].pdf" size="12335652" crc="bc407900" md5="ac804add4cd897b77ce7929db7758dde" sha1="16202573ebfa3c229d9d3c0b1719c0ab2a88f8b8"/>
+	</game>
+</datafile>

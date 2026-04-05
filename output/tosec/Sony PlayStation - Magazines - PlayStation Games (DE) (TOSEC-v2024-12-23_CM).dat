@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PlayStation Games (DE)</name>
+		<description>Sony PlayStation - Magazines - PlayStation Games (DE) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation Games (1998-02)(Computec)(DE)">
+		<description>PlayStation Games (1998-02)(Computec)(DE)</description>
+		<rom name="PlayStation Games (1998-02)(Computec)(DE).pdf" size="57806641" crc="770bb973" md5="0ba7114f17f707603ed0021de5ecc918" sha1="8b6a1a0b5b586e5c99cc2f7678615ceb6ebfd669"/>
+	</game>
+	<game name="PlayStation Games (1998-03)(Computec)(DE)">
+		<description>PlayStation Games (1998-03)(Computec)(DE)</description>
+		<rom name="PlayStation Games (1998-03)(Computec)(DE).pdf" size="48304124" crc="139d4e58" md5="afb450baf031544a441b350b5bb33233" sha1="5a15c5722c38e644de483fe4ee637a12acf56f90"/>
+	</game>
+	<game name="PlayStation Games (1998-04)(Computec)(DE)">
+		<description>PlayStation Games (1998-04)(Computec)(DE)</description>
+		<rom name="PlayStation Games (1998-04)(Computec)(DE).pdf" size="53522533" crc="929c9a11" md5="abf5c673f85987e65439e66c164de758" sha1="680539975a8d9de4924685dd144ac2a64e99b408"/>
+	</game>
+	<game name="PlayStation Games (1998-05)(Computec)(DE)">
+		<description>PlayStation Games (1998-05)(Computec)(DE)</description>
+		<rom name="PlayStation Games (1998-05)(Computec)(DE).pdf" size="52253659" crc="e2ce093c" md5="0d461757ce5c1054c485f417b4f675d6" sha1="84ce03f4e60a3a7ebb80c7554439260d61b04b82"/>
+	</game>
+	<game name="PlayStation Games (1998-06)(Computec)(DE)">
+		<description>PlayStation Games (1998-06)(Computec)(DE)</description>
+		<rom name="PlayStation Games (1998-06)(Computec)(DE).pdf" size="49854054" crc="8559f210" md5="adc3bd6a43d98b96735c2c3396c1afff" sha1="93b90d743daead8aa51b463499e95891fef23c6f"/>
+	</game>
+	<game name="PlayStation Games (1998-07)(Computec)(DE)">
+		<description>PlayStation Games (1998-07)(Computec)(DE)</description>
+		<rom name="PlayStation Games (1998-07)(Computec)(DE).pdf" size="52810610" crc="0069f4c5" md5="89d7f28c0520880c53bf555913e3fea4" sha1="a7aced01e3261ab394472b1137c57703e1af1d1d"/>
+	</game>
+	<game name="PlayStation Games (1998-10)(Computec)(DE)">
+		<description>PlayStation Games (1998-10)(Computec)(DE)</description>
+		<rom name="PlayStation Games (1998-10)(Computec)(DE).pdf" size="54597077" crc="3b702600" md5="29888907760e4cb90ef55815e40794d6" sha1="2cdb2dec5c37c3e302e3e62fe73cdc2aeb3ed54c"/>
+	</game>
+</datafile>

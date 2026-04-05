@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - La Mia Playstation 2 (IT)</name>
+		<description>Sony PlayStation 2 - Magazines - La Mia Playstation 2 (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="La Mia Playstation 2 - Anno 1 N.02 (2000-04)(Master)(IT)">
+		<description>La Mia Playstation 2 - Anno 1 N.02 (2000-04)(Master)(IT)</description>
+		<rom name="La Mia Playstation 2 - Anno 1 N.02 (2000-04)(Master)(IT).pdf" size="264509662" crc="d5fcf116" md5="1348167be44daf46dbebe04c9b26f472" sha1="bc4c206494f12bc4d019398c4d18c8e0a7e84d96"/>
+	</game>
+</datafile>

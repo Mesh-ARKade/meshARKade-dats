@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Official AU PlayStation Magazine</name>
+		<description>Sony PlayStation - Magazines - Official AU PlayStation Magazine (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Official Australian PlayStation Big Hits (2000)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Big Hits (2000)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Big Hits (2000)(ACP Publishing)(AU).pdf" size="181876151" crc="038dd7db" md5="bd63b52b578ac6f759bc7870af23d872" sha1="ec36252a1ae7d40aea5819d8ab93b231c219b412"/>
+	</game>
+	<game name="Official Australian PlayStation Collection (1999)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Collection (1999)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Collection (1999)(ACP Publishing)(AU).pdf" size="242956342" crc="21d811d0" md5="017a7ab146ca23417039a87286ce8a5b" sha1="3a24493f52d59344da15cec9f8816553bd403526"/>
+	</game>
+	<game name="Official Australian PlayStation Collection (2000)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Collection (2000)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Collection (2000)(ACP Publishing)(AU).pdf" size="213225281" crc="eca7078a" md5="65596f65d1f70947ab4dd5ebe7f0d0b6" sha1="c553085c93487251fd58a3a7c179d9c1d414d415"/>
+	</game>
+	<game name="Official Australian PlayStation Collectors Edition (1999)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Collectors Edition (1999)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Collectors Edition (1999)(ACP Publishing)(AU).pdf" size="205958648" crc="b4d1e7e2" md5="33bfd9ca89ed5277812b962ebe3b8b3b" sha1="f3f9c1db98260ab5893220a0dbe1411970f11529"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 01 (1997-01)(Next Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 01 (1997-01)(Next Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 01 (1997-01)(Next Publishing)(AU).pdf" size="150135072" crc="0055bc89" md5="0a99591795220dbf8a8ea7f2691baddf" sha1="d6bcea11557d9c10a1c0776f9d6d2936aa86fcbf"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 02 (1997-02)(Next Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 02 (1997-02)(Next Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 02 (1997-02)(Next Publishing)(AU).pdf" size="253211670" crc="d27a51a8" md5="30634f3cb03d562aa523e43dfeaa632b" sha1="0a8445b49f34ba76af05e27cee71786137cf52a5"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 03 (1997-04)(Next Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 03 (1997-04)(Next Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 03 (1997-04)(Next Publishing)(AU).pdf" size="240565684" crc="14ffb62a" md5="70d4891765127362d8470d5bdf451a1b" sha1="7cbc83e16f28108b0bc970af62452a97cee2a948"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 04 (1997)(Next Publishing)(AU)[winter edition]">
+		<description>Official Australian PlayStation Magazine - Issue 04 (1997)(Next Publishing)(AU)[winter edition]</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 04 (1997)(Next Publishing)(AU)[winter edition].pdf" size="172507360" crc="99516161" md5="b8f3eec6461fc7a70ccacf2eb57168b6" sha1="57376e083973b332e47782295a93085c4509a66b"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 05 (1997-11)(Next Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 05 (1997-11)(Next Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 05 (1997-11)(Next Publishing)(AU).pdf" size="305338040" crc="85c925dc" md5="17a63e21f96b23f6590e25f1018311ec" sha1="9e3778aac5f0f0bcd0ffe7174de41ad97f98b6a6"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 06 (1998-01)(Next Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 06 (1998-01)(Next Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 06 (1998-01)(Next Publishing)(AU).pdf" size="194940121" crc="62418435" md5="68d36560c374bfe50024bd0a2735efab" sha1="cde868a71e3b68f05953a5c01c609cf83932f773"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 07 (1998-02)(Next Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 07 (1998-02)(Next Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 07 (1998-02)(Next Publishing)(AU).pdf" size="177049870" crc="f2ddee4d" md5="d12889de5f69bdc00598cafb3d49e574" sha1="6afb5f3cb3979ae8b477bdbec531c9d2095acdf4"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 08 (1998-03)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 08 (1998-03)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 08 (1998-03)(Next Publishing).pdf" size="167881821" crc="8bb09a3f" md5="264763966bd435534cda1f53120be603" sha1="d9b837d782f1c6e22655c97e8e93d054fefc1d50"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 09 (1998-04)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 09 (1998-04)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 09 (1998-04)(Next Publishing).pdf" size="338932902" crc="37d8747b" md5="485c123d44d5e4313485e8f6509d8abd" sha1="8d157aebd0df84948d9558abeb15469924c1df34"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 10 (1998-05)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 10 (1998-05)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 10 (1998-05)(Next Publishing).pdf" size="185690208" crc="46c93557" md5="f83bd3829ce2a2721e988c5112f70706" sha1="1adeae85a33f2983fe9e8864e921b923616e73ab"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 11 (1998-06)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 11 (1998-06)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 11 (1998-06)(Next Publishing).pdf" size="186608383" crc="4dd6b2e5" md5="a4dad6ed11f4f4f20a3260a5bcc93299" sha1="27a94013bd81a9d8cbc628b520dc4d505888ec21"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 12 (1998-07)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 12 (1998-07)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 12 (1998-07)(Next Publishing).pdf" size="192550790" crc="cf9ecb18" md5="3ae94f2cc34b872161fdc6205758232e" sha1="fbf6f676015f5ba406f761a45b64a04b6f5ee610"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 13 (1998-08)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 13 (1998-08)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 13 (1998-08)(Next Publishing).pdf" size="177855828" crc="1715468c" md5="ddec46248d0c80fbe6f40a6886fbfd4c" sha1="e37698771357db8336702c50bc1e374a370c2d35"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 14 (1998-09)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 14 (1998-09)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 14 (1998-09)(Next Publishing).pdf" size="171652741" crc="4876661e" md5="0e5fee69c1e6b03e6b25df0f3ef33408" sha1="a7dd9a5becc148c440d01c7b7679bd442e708e3e"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 15 (1998-10)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 15 (1998-10)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 15 (1998-10)(Next Publishing).pdf" size="215291343" crc="4ffea14c" md5="3cbe48a2cf67c9bf392e553686274e0b" sha1="b06ce2704db3198c60d8038dcfd8274f34becbe4"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 16 (1998-11)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 16 (1998-11)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 16 (1998-11)(Next Publishing).pdf" size="211323718" crc="b6d07915" md5="0511400ff9727609d8de9f670e602701" sha1="49c914a268af9929a2e85ac5ee44b6108b220167"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 17 (1998-12)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 17 (1998-12)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 17 (1998-12)(Next Publishing).pdf" size="219108372" crc="1b3f4170" md5="ee777f1f85b8de3c5ea45f44c9dc0c9f" sha1="538519aab16db80950941316b26b919c96c9a232"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 18 (1999-01)(Next Publishing)">
+		<description>Official Australian PlayStation Magazine - Issue 18 (1999-01)(Next Publishing)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 18 (1999-01)(Next Publishing).pdf" size="222405258" crc="bb4d4b87" md5="32451753ce538cfef67ab91155a19ec5" sha1="d451896b042de925ad037332f918c393d162d18e"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 19 (1999-02)(Next Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 19 (1999-02)(Next Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 19 (1999-02)(Next Publishing)(AU).pdf" size="221344285" crc="67d3cb59" md5="dd054e082be0ff72f2880fa8c46c6bfe" sha1="755d28a64f21334d7ff6139d4414d461bf9d5dd1"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 20 (1999-03)(Next Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 20 (1999-03)(Next Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 20 (1999-03)(Next Publishing)(AU).pdf" size="226925838" crc="da4f45ab" md5="9109561de3a8b8387a39eb8a5099e2b8" sha1="0f7b74488c0d7d7dae0859cf1371ad0b610f2474"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 21 (1999-04)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 21 (1999-04)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 21 (1999-04)(ACP Publishing)(AU).pdf" size="233666067" crc="fbc48e5b" md5="9a1cf6cb0102377d98cc8e6338a4340a" sha1="30c67831ca3d04a4adaea589f3dab599f610a0b9"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 22 (1999-05)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 22 (1999-05)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 22 (1999-05)(ACP Publishing)(AU).pdf" size="239468754" crc="cf343640" md5="35fdcc14ac48be5a3d3c7bcac40be4ce" sha1="139d067121886df31c9496c2d247c581bf178edd"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 23 (1999-06)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 23 (1999-06)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 23 (1999-06)(ACP Publishing)(AU).pdf" size="233784805" crc="1964cc3b" md5="746a34d4df67f0aff69ef66a09381baa" sha1="07cac28660d9c15b24c10c3edb51680e5e45d3eb"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 24 (1999-07)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 24 (1999-07)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 24 (1999-07)(ACP Publishing)(AU).pdf" size="203325191" crc="0920447d" md5="280fd29ef61cd634d3f57a68a2fd5016" sha1="2087e6595e582c58725dfabacaf4d0174e80414e"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 25 (1999-08)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 25 (1999-08)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 25 (1999-08)(ACP Publishing)(AU).pdf" size="319595332" crc="1c8c087b" md5="9b4e5cbed51d202b08b5db80486672dd" sha1="4f04c7ba36a6f52c7e1a7b0ab479cde5f449adbb"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 26 (1999-09)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 26 (1999-09)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 26 (1999-09)(ACP Publishing)(AU).pdf" size="236799687" crc="78440e21" md5="a222db835e637cfef61c08b9b5df418e" sha1="ecb8373b4cc34dfc3b43a93fea9bd0c406868023"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 27 (1999-10)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 27 (1999-10)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 27 (1999-10)(ACP Publishing)(AU).pdf" size="239884364" crc="a3539f56" md5="08d9dc5f3fa1f9b96833efe3ad9d9f75" sha1="4b2c3d7adab5a95719608c839590b14332a561c8"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 28 (1999-11)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 28 (1999-11)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 28 (1999-11)(ACP Publishing)(AU).pdf" size="261395278" crc="f3a3c573" md5="499c0ff9261f46aa4f2d61518b72ce5a" sha1="92a4bed083567394aa7699a85134fc8dddcf4c36"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 29 (1999-12)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 29 (1999-12)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 29 (1999-12)(ACP Publishing)(AU).pdf" size="260331174" crc="e10352c4" md5="73a2f16aac243bf2980e14167d7061b1" sha1="9cbebebcfe36541f7512909114b3304edd1e52dd"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 30 (2000-01)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 30 (2000-01)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 30 (2000-01)(ACP Publishing)(AU).pdf" size="255834087" crc="e84e565f" md5="95b86e00d29f1e386ca6941d34687ea8" sha1="2dbfa20bb7a298699c6a2dd020c9be82a61bac51"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 31 (2000-02)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 31 (2000-02)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 31 (2000-02)(ACP Publishing)(AU).pdf" size="246953200" crc="38e0ccf7" md5="d2db469c60fd7e5fb300649f03d6def8" sha1="5c007e148356b942cefd35368856294d9e9f929f"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 32 (2000-03)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 32 (2000-03)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 32 (2000-03)(ACP Publishing)(AU).pdf" size="244388243" crc="7aea4b5f" md5="e0d138872c447a1407f8edd1def3fcac" sha1="06953ba469c75d651797c84715f7933aa206332f"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 33 (2000-04)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 33 (2000-04)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 33 (2000-04)(ACP Publishing)(AU).pdf" size="263574798" crc="8889df25" md5="1e9b22cd5445c254ba933f585d17c780" sha1="f53cfb5cc7cdc8bd212230b1adce351988d9cfb5"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 34 (2000-05)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 34 (2000-05)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 34 (2000-05)(ACP Publishing)(AU).pdf" size="266067054" crc="501502c4" md5="0ca00c806199ad64a7b07ff3dc977a5a" sha1="e781882befa37a3c9d257bf841acf1903b08afa6"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 35 (2000-06)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 35 (2000-06)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 35 (2000-06)(ACP Publishing)(AU).pdf" size="249970527" crc="2739bda2" md5="78072ed71dc7b82451564dcb84959a05" sha1="d5720835cff128164583f66186dce4c9aac54f7c"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 36 (2000-07)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 36 (2000-07)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 36 (2000-07)(ACP Publishing)(AU).pdf" size="258689661" crc="14ec2032" md5="b2426c9dcc378f2dcbbb0c4efff247f4" sha1="6257f384f686cbb88a5c12ce51815b00bd358ec6"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 37 (2000-09)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 37 (2000-09)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 37 (2000-09)(ACP Publishing)(AU).pdf" size="343162599" crc="56f14b67" md5="4bd113a2619149968442d10d17391b43" sha1="6e30e41b0c957e7d1d5f12834056c99a58c88a37"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 37 (2000-09)(ACP Publishing)(AU)[a]">
+		<description>Official Australian PlayStation Magazine - Issue 37 (2000-09)(ACP Publishing)(AU)[a]</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 37 (2000-09)(ACP Publishing)(AU)[a].pdf" size="250586011" crc="1dfe2e6e" md5="60f436ad7f2b110649f19fcb5fa5aff5" sha1="33ca3bd8679eb32387333e3a92908354486da582"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 38 (2000-10)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 38 (2000-10)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 38 (2000-10)(ACP Publishing)(AU).pdf" size="298977235" crc="607fcb6c" md5="96a130ac14cdcbbd4625cf87a7359ad0" sha1="e6bff8a71c848d7c3789c955cdf1f4f7dba33a68"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 39 (2000-11)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 39 (2000-11)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 39 (2000-11)(ACP Publishing)(AU).pdf" size="214059356" crc="fba7cd41" md5="66ff704aacb9403735e279e8f2644600" sha1="7667d74b505a94ff51e271f64a5be3d5a537441e"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 40 (2000-12)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 40 (2000-12)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 40 (2000-12)(ACP Publishing)(AU).pdf" size="213416542" crc="aed4b346" md5="71d0ecd2e63a72973ce7e387020cf5b1" sha1="867523223ab726cd85b66032bb92341d8f65ee34"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 41 (2001-02)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 41 (2001-02)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 41 (2001-02)(ACP Publishing)(AU).pdf" size="271484332" crc="c69e461c" md5="9413cb1a5abfac003db139c4155759c6" sha1="cd478d791cf31926413aebdad4b392f6d7aee23b"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 42 (2001-03)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 42 (2001-03)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 42 (2001-03)(ACP Publishing)(AU).pdf" size="135529426" crc="2ced9b70" md5="f6c85222475514a1e97d41a41e24f1b5" sha1="6ad7959c9ecd8c13eb612b211d8a3e65c1fd2bb4"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 43 (2001-03)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 43 (2001-03)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 43 (2001-03)(ACP Publishing)(AU).pdf" size="131476976" crc="bc18e7aa" md5="2f55c72a0999b44c75ea35aed0280305" sha1="bc37957cca1a61963036bf80f79ae24078ec782e"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 44 (2001-04)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 44 (2001-04)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 44 (2001-04)(ACP Publishing)(AU).pdf" size="292897952" crc="062064cb" md5="2d926334689603c283a17ac969809ad5" sha1="84bbf7121269944eced8884547b1d2c1c3820fda"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 45 (2001-05)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 45 (2001-05)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 45 (2001-05)(ACP Publishing)(AU).pdf" size="310527606" crc="bca93ccc" md5="c2b60402fd022450ec69e6d893541280" sha1="423ee9f0ec5c00d717de9ae7b2c8d4d668a0b4ad"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 46 (2001-06)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 46 (2001-06)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 46 (2001-06)(ACP Publishing)(AU).pdf" size="317290909" crc="932d1d30" md5="c1523471937b634788692dff025ff598" sha1="bdd96359deb5140c98cc8e991723367523ea3400"/>
+	</game>
+	<game name="Official Australian PlayStation Magazine - Issue 47 (2001-07)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Magazine - Issue 47 (2001-07)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Magazine - Issue 47 (2001-07)(ACP Publishing)(AU).pdf" size="312879899" crc="d4044224" md5="34d56e428daee52a592d6369cb2c2316" sha1="1db96c07fdfc53a849c40202147fa7f825d004e7"/>
+	</game>
+	<game name="Official Australian PlayStation Sports Special (2000)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Sports Special (2000)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Sports Special (2000)(ACP Publishing)(AU).pdf" size="239954189" crc="0eeadbe0" md5="463deca6810a6c695de79a7f9a3b0e12" sha1="0d9e08ff35816fedc3dbdfd938a035a57a4dffec"/>
+	</game>
+	<game name="Official Australian PlayStation Tips (2000)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Tips (2000)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Tips (2000)(ACP Publishing)(AU).pdf" size="172200283" crc="1e264403" md5="52ee534ec37a5b755cc12aacbd5d02ce" sha1="f598d9c9a4f97f98689c344787a4216b032fa639"/>
+	</game>
+	<game name="Official Australian PlayStation Tips Special (2000)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Tips Special (2000)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Tips Special (2000)(ACP Publishing)(AU).pdf" size="179554213" crc="3272e290" md5="d8559bbd4773bbac30d88cba3f7b95c6" sha1="1819fb2759ee6087ac43a6b74b9b76a0ec580bdd"/>
+	</game>
+	<game name="Official Australian PlayStation Xmas Special (1999)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Xmas Special (1999)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Xmas Special (1999)(ACP Publishing)(AU).pdf" size="207813125" crc="db880c64" md5="0279b8811863bc375b3af4d96e4b3e51" sha1="a017bccdfd810acbd50f92c79caa185ca833f7af"/>
+	</game>
+	<game name="Official Australian PlayStation Yearbook (1999)(ACP Publishing)(AU)">
+		<description>Official Australian PlayStation Yearbook (1999)(ACP Publishing)(AU)</description>
+		<rom name="Official Australian PlayStation Yearbook (1999)(ACP Publishing)(AU).pdf" size="244154245" crc="68efdbee" md5="321628a56e66ff5d66ff300acfc98686" sha1="774a0d482f68f0a7a9aa73becd42a0cbc0bb8049"/>
+	</game>
+</datafile>

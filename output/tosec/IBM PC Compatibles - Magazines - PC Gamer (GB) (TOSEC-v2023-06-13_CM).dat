@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - PC Gamer (GB)</name>
+		<description>IBM PC Compatibles - Magazines - PC Gamer (GB) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="100 Best Games to Play Right Now 2016, The (2016-10)(Future Publishing)(GB)">
+		<description>100 Best Games to Play Right Now 2016, The (2016-10)(Future Publishing)(GB)</description>
+		<rom name="100 Best Games to Play Right Now 2016, The (2016-10)(Future Publishing)(GB).pdf" size="41309625" crc="05dfc067" md5="22c6421377f727b4bf25ba0ca2fdc4a4" sha1="cfb49e5f9b6be1430db680c2c6c69718b7b10b42"/>
+	</game>
+	<game name="PC Gamer - Issue 001 Volume 1 Number 01 (1993-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 001 Volume 1 Number 01 (1993-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 001 Volume 1 Number 01 (1993-12)(Future Publishing)(GB).pdf" size="324337346" crc="70e93b5b" md5="de7a9e2dc9470d3bbfbd8e8ffe246e03" sha1="1e1d9ad8c8061b5cd3ddbdd9dbb125b8a9dad59d"/>
+	</game>
+	<game name="PC Gamer - Issue 002 Volume 1 Number 2 (1994-01)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 002 Volume 1 Number 2 (1994-01)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 002 Volume 1 Number 2 (1994-01)(Future Publishing)(GB).pdf" size="279466218" crc="fbc78ec5" md5="3831163e3050a2952e6f41efa8e93ad5" sha1="fcd5722cb3f8c9f760a78b81de95e29675bba186"/>
+	</game>
+	<game name="PC Gamer - Issue 005 Volume 1 Number 5 (1994-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 005 Volume 1 Number 5 (1994-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 005 Volume 1 Number 5 (1994-04)(Future Publishing)(GB).pdf" size="275442994" crc="9b31ee39" md5="ec63914db2ddb98db1e3ea47bdfe6fd7" sha1="404ddf1a8b6d6b67bdd62fe3f5e76962665d00f8"/>
+	</game>
+	<game name="PC Gamer - Issue 008 Volume 1 Number 08 (1994-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 008 Volume 1 Number 08 (1994-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 008 Volume 1 Number 08 (1994-07)(Future Publishing)(GB).pdf" size="177496073" crc="4872f672" md5="07e6a19e8edd6636afc391cded500862" sha1="e6083429e68e0d6c11ecb165a591ff5724121e91"/>
+	</game>
+	<game name="PC Gamer - Issue 009 Volume 1 Number 9 (1994-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 009 Volume 1 Number 9 (1994-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 009 Volume 1 Number 9 (1994-08)(Future Publishing)(GB).pdf" size="274189723" crc="621fa4c9" md5="72afb1908cd26c0e652e73550a4420a9" sha1="e0dc1e208dea2b3517d31ebdf790bdfb403e805d"/>
+	</game>
+	<game name="PC Gamer - Issue 010 Volume 1 Number 10 (1994-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 010 Volume 1 Number 10 (1994-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 010 Volume 1 Number 10 (1994-09)(Future Publishing)(GB).pdf" size="196748371" crc="f8dc852b" md5="181b4f8d5a6e98431bea345df6378a2c" sha1="7aeeb5a666e5fe6722c6e9186be62680b427c48f"/>
+	</game>
+	<game name="PC Gamer - Issue 011 Volume 1 Number 11 (1994-10)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 011 Volume 1 Number 11 (1994-10)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 011 Volume 1 Number 11 (1994-10)(Future Publishing)(GB).pdf" size="290151572" crc="f88c9f37" md5="6bde60c03d499f08e488b91f99a27b6f" sha1="4839d3ab66d1e8e86b2ec4a6168b2f8a1f0454d2"/>
+	</game>
+	<game name="PC Gamer - Issue 012 Volume 1 Number 12 (1994-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 012 Volume 1 Number 12 (1994-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 012 Volume 1 Number 12 (1994-11)(Future Publishing)(GB).pdf" size="270271018" crc="3d866f0e" md5="972ddf3d5e300787e255cd7b5b6994a6" sha1="da4e6b384a16f062eca78b0828f340c07f532f54"/>
+	</game>
+	<game name="PC Gamer - Issue 018 Volume 02 Number 06 (1995-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 018 Volume 02 Number 06 (1995-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 018 Volume 02 Number 06 (1995-05)(Future Publishing)(GB).pdf" size="287701095" crc="eda06735" md5="12da126feae9a2943a3394cba98447dc" sha1="4bfb07d1ebe776ab583d9ccad71f795e041c0a19"/>
+	</game>
+	<game name="PC Gamer - Issue 019 Volume 2 Number 07 (1995-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 019 Volume 2 Number 07 (1995-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 019 Volume 2 Number 07 (1995-06)(Future Publishing)(GB).pdf" size="321344334" crc="2873abe5" md5="4abc8ec0f330c98df9935bca52bda25b" sha1="f8414585be99568fca8594d5ce10caacc774e62f"/>
+	</game>
+	<game name="PC Gamer - Issue 028 (1996-03)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 028 (1996-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 028 (1996-03)(Future Publishing)(GB).pdf" size="271705066" crc="f5812bf4" md5="a6b58956bb8e62f9157bb67c0dabb4c9" sha1="891e873b4864f5ac4a1a3c81b87001421a3b88ce"/>
+	</game>
+	<game name="PC Gamer - Issue 032 (1996-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 032 (1996-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 032 (1996-07)(Future Publishing)(GB).pdf" size="239770852" crc="20771a6f" md5="fd10c42342c5c9b7462e1ed72e307662" sha1="89591e0654182242070241941e20e60a662d0c7d"/>
+	</game>
+	<game name="PC Gamer - Issue 034 (1996-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 034 (1996-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 034 (1996-09)(Future Publishing)(GB).pdf" size="242313248" crc="d6faf644" md5="20ab83b6737e4a11d1c6df2ae9e31950" sha1="3f65a50faee06688f196235fda7d168a1525cb14"/>
+	</game>
+	<game name="PC Gamer - Issue 040 (1997-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 040 (1997-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 040 (1997-02)(Future Publishing)(GB).pdf" size="237464077" crc="9639ce00" md5="4c65a87e3bda3abc49aca8be8ce5cc7e" sha1="a692ee947082344c391f23725327d51f2e30d921"/>
+	</game>
+	<game name="PC Gamer - Issue 044 (1997-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 044 (1997-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 044 (1997-06)(Future Publishing)(GB).pdf" size="399113314" crc="a2b531ae" md5="c381822712915c724ecd2097c5c9d4f4" sha1="3ea46f5863530953845b23aa71d904259f02a266"/>
+	</game>
+	<game name="PC Gamer - Issue 046 (1997-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 046 (1997-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 046 (1997-08)(Future Publishing)(GB).pdf" size="263908712" crc="279f969d" md5="b7a439f67ec5535cb46c0829b93f5c5a" sha1="e3c5e0ce844fc35b3d76bcef4b5106ad97d46db9"/>
+	</game>
+	<game name="PC Gamer - Issue 047 (1997-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 047 (1997-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 047 (1997-09)(Future Publishing)(GB).pdf" size="252961581" crc="fb6f92b2" md5="b6db4345a925e5e0b595988b2d84baa5" sha1="892dd278f7fb14dfafdd870f5f43d12f6d7a87e6"/>
+	</game>
+	<game name="PC Gamer - Issue 048 (1997-10)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 048 (1997-10)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 048 (1997-10)(Future Publishing)(GB).pdf" size="328839150" crc="41042575" md5="7d4cb9282c4a8eb62cb79687f82a9936" sha1="c8f4fd6a2ebf75d279bfd6078b346d923687fb16"/>
+	</game>
+	<game name="PC Gamer - Issue 049 (1997-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 049 (1997-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 049 (1997-11)(Future Publishing)(GB).pdf" size="334799920" crc="4798bece" md5="df59610d5c482aaa546a0b4b9924db10" sha1="18daf3e5f4156c141d0057728d0708b2f9141f52"/>
+	</game>
+	<game name="PC Gamer - Issue 050 (1997-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 050 (1997-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 050 (1997-12)(Future Publishing)(GB).pdf" size="363980637" crc="4eb15cc3" md5="e8a344d03d5694e1ac19651b672547cf" sha1="5df2301b3748205f1cfe2b87cbf880a27d90a623"/>
+	</game>
+	<game name="PC Gamer - Issue 053 (1998-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 053 (1998-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 053 (1998-02)(Future Publishing)(GB).pdf" size="251913290" crc="ed63595c" md5="20ffc708ac1dd2f741ddc39575ce4f22" sha1="b12cb9ea56b427892a385b6bfdb873d0799437b3"/>
+	</game>
+	<game name="PC Gamer - Issue 054 (1998-03)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 054 (1998-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 054 (1998-03)(Future Publishing)(GB).pdf" size="348315197" crc="ce784142" md5="2f1db03946ea1e09f3eb04480d8e0ab6" sha1="9e16c5697e4554069378d99b63528bfc5fa616ae"/>
+	</game>
+	<game name="PC Gamer - Issue 055 (1998-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 055 (1998-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 055 (1998-04)(Future Publishing)(GB).pdf" size="263653217" crc="8ffd8b13" md5="7d4390f1ed264f20166191a573f48a74" sha1="9c4ed4adb81a6be0bd60f93066dfe3f70266a4e6"/>
+	</game>
+	<game name="PC Gamer - Issue 056 (1998-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 056 (1998-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 056 (1998-05)(Future Publishing)(GB).pdf" size="381565357" crc="37e63513" md5="3a219f316258aaea0dd8a87b381baec5" sha1="363414340f138a45df3bc5646e855fdba48bbe04"/>
+	</game>
+	<game name="PC Gamer - Issue 063 (1998-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 063 (1998-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 063 (1998-12)(Future Publishing)(GB).pdf" size="361675192" crc="85275f87" md5="2b7e18b9654dff0c69678c6a95dba570" sha1="f6699947649a0d990e2780742d2a03d554db4751"/>
+	</game>
+	<game name="PC Gamer - Issue 088 (2000-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 088 (2000-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 088 (2000-09)(Future Publishing)(GB).pdf" size="337131666" crc="ee49a897" md5="c656061b73f1723d7556ebd65644a96c" sha1="8b74b56ee3996780aa6813e1dcc65b29686253d4"/>
+	</game>
+	<game name="PC Gamer - Issue 096 (2001-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 096 (2001-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 096 (2001-05)(Future Publishing)(GB).pdf" size="317354825" crc="dba89b80" md5="c7a9577667d71b710a34c42a9fa7a21a" sha1="8a0cb809e1c49f4f4b14185c307ecb54f0d47481"/>
+	</game>
+	<game name="PC Gamer - Issue 103 (2001-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 103 (2001-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 103 (2001-12)(Future Publishing)(GB).pdf" size="310939291" crc="77793521" md5="5f1cb038f8209115463008a10a267dab" sha1="2425dfffe18274afb25480b42449d93a74e6131b"/>
+	</game>
+	<game name="PC Gamer - Issue 104 (2001)(Future Publishing)(GB)[christmas edition]">
+		<description>PC Gamer - Issue 104 (2001)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="PC Gamer - Issue 104 (2001)(Future Publishing)(GB)[christmas edition].pdf" size="224015077" crc="98f1c907" md5="a2a625d81fc1df0bee64fbb5f55390ad" sha1="2485ed5fb31d9eb90ff69528869c7072c99ac5cd"/>
+	</game>
+	<game name="PC Gamer - Issue 109 (2002-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 109 (2002-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 109 (2002-05)(Future Publishing)(GB).pdf" size="313454740" crc="f86332ed" md5="a5b8b78528487871e44fc95e90e8af06" sha1="2e2d676cf8fde01005a8663638dc5f27dc44d301"/>
+	</game>
+	<game name="PC Gamer - Issue 112 (2002-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 112 (2002-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 112 (2002-08)(Future Publishing)(GB).pdf" size="23741878" crc="ca6d2513" md5="fac13943f5b844d0f34744b9e6f77055" sha1="2922bd3e4f7b22baa1c895186c048f185f51feff"/>
+	</game>
+	<game name="PC Gamer - Issue 113 (2002-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 113 (2002-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 113 (2002-09)(Future Publishing)(GB).pdf" size="300622605" crc="a0617538" md5="b7febfeafa539f58509cf201ddd78e89" sha1="feab2b993082529453e508948325801423fcf430"/>
+	</game>
+	<game name="PC Gamer - Issue 115 (2002-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 115 (2002-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 115 (2002-11)(Future Publishing)(GB).pdf" size="139534129" crc="9233d943" md5="28b73a6db2f08207ba04fca619e59e49" sha1="0580fd4bf0e054099ec12ccbf83bf2741453ef55"/>
+	</game>
+	<game name="PC Gamer - Issue 222 (2011-01)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 222 (2011-01)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 222 (2011-01)(Future Publishing)(GB).pdf" size="37989939" crc="691075e9" md5="028fa4dc1151744cb09476a8b2b58862" sha1="2c5a97b485f5d622aaa3ed2e236024060757239f"/>
+	</game>
+	<game name="PC Gamer - Issue 223 (2011-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 223 (2011-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 223 (2011-02)(Future Publishing)(GB).pdf" size="39599945" crc="18b4beca" md5="8d919a280f3f4fc931612fd726e0d1db" sha1="28acdd9b0f67591e32e36772a7747535a287bcee"/>
+	</game>
+	<game name="PC Gamer - Issue 223 (2011-02)(Future Publishing)(GB)[a]">
+		<description>PC Gamer - Issue 223 (2011-02)(Future Publishing)(GB)[a]</description>
+		<rom name="PC Gamer - Issue 223 (2011-02)(Future Publishing)(GB)[a].pdf" size="39609326" crc="c0a20498" md5="33536785682a12416bba79f1244b1b6a" sha1="34bb9384db62cae874c2b5ff7bc807cfbb58521b"/>
+	</game>
+	<game name="PC Gamer - Issue 225 (2011-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 225 (2011-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 225 (2011-04)(Future Publishing)(GB).pdf" size="78940327" crc="d3df84fb" md5="ff357601264d18f2397d1474f317b816" sha1="af07d6dfdd8903a664c8150bcc96e00d87344da6"/>
+	</game>
+	<game name="PC Gamer - Issue 226 (2011-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 226 (2011-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 226 (2011-05)(Future Publishing)(GB).pdf" size="67896012" crc="6b5bf5af" md5="26f4b2f48e08627c03191bf97723d9d3" sha1="2ca1795d079f2233348673e17dd80336e5638d15"/>
+	</game>
+	<game name="PC Gamer - Issue 227 (2011-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 227 (2011-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 227 (2011-06)(Future Publishing)(GB).pdf" size="65817499" crc="b2b01730" md5="5b22ce392512ef57da710fd066798e09" sha1="f1b7dfef962af6ca87bb2769a9f90e61f975dbdb"/>
+	</game>
+	<game name="PC Gamer - Issue 228 (2011-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 228 (2011-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 228 (2011-07)(Future Publishing)(GB).pdf" size="107037950" crc="f307956e" md5="6b80d22cb9c5905fea2359e2280f1657" sha1="48a762620fb9f821697a7b70f76d39800e5845da"/>
+	</game>
+	<game name="PC Gamer - Issue 230 (2011-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 230 (2011-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 230 (2011-09)(Future Publishing)(GB).pdf" size="105560236" crc="a2921bcb" md5="79de5239d71a4a217b4fcc8d48ae3348" sha1="d9c801f53fb421f75ffbfe61098206e5d14e5613"/>
+	</game>
+	<game name="PC Gamer - Issue 231 (2011-10)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 231 (2011-10)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 231 (2011-10)(Future Publishing)(GB).pdf" size="104512050" crc="0c3916c4" md5="9bcc596cb6d16aa9539cb6d3192a222f" sha1="fc7e2473691d2e0c05cf6705366d050407af49dc"/>
+	</game>
+	<game name="PC Gamer - Issue 232 (2011-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 232 (2011-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 232 (2011-11)(Future Publishing)(GB).pdf" size="204598154" crc="e705b709" md5="d18882f2046f2cf05e1af51004c9a9ee" sha1="525a12a7b1f2b7387a5c44e3b4f6db58fcca814a"/>
+	</game>
+	<game name="PC Gamer - Issue 233 (2011-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 233 (2011-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 233 (2011-12)(Future Publishing)(GB).pdf" size="146585973" crc="df6f334e" md5="ecc2436512bf2cd6ccc9cdb82c33d60d" sha1="9fc5c27afb1cb5e64bad5119a540e3490963c860"/>
+	</game>
+	<game name="PC Gamer - Issue 234 (2011)(Future Publishing)(GB)[christmas edition]">
+		<description>PC Gamer - Issue 234 (2011)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="PC Gamer - Issue 234 (2011)(Future Publishing)(GB)[christmas edition].pdf" size="158334237" crc="166c8c26" md5="77bd683c488498f836f28f6236fed7f9" sha1="fbd8a6b3415f84f98a7eddc38a7d0a7b2a858c62"/>
+	</game>
+	<game name="PC Gamer - Issue 234 (2012-01)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 234 (2012-01)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 234 (2012-01)(Future Publishing)(GB).pdf" size="169109951" crc="bf3e6bbb" md5="083b73688edb3af503952cb4157e3639" sha1="821781146bbd4d72849d41b684c7b04b5adeebb9"/>
+	</game>
+	<game name="PC Gamer - Issue 235 (2012-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 235 (2012-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 235 (2012-02)(Future Publishing)(GB).pdf" size="156629530" crc="a9c6c278" md5="332a0dd27d726919d04cc0c13ccde7da" sha1="bda9850013479b5aee22a023153538bc3aefb400"/>
+	</game>
+	<game name="PC Gamer - Issue 236 (2012-03)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 236 (2012-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 236 (2012-03)(Future Publishing)(GB).pdf" size="152089626" crc="1bdc3cb8" md5="11813d0fa63f2991c506d3018b951f9c" sha1="f0b1817d953bb776867bf53e103147d49cffd858"/>
+	</game>
+	<game name="PC Gamer - Issue 237 (2012-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 237 (2012-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 237 (2012-04)(Future Publishing)(GB).pdf" size="153541253" crc="92857070" md5="2b2dcaa19650eb1bec258a6e5d15b8ca" sha1="d4857bdc565d3901ff8f0f38b995d87c06a2e828"/>
+	</game>
+	<game name="PC Gamer - Issue 239 (2012-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 239 (2012-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 239 (2012-05)(Future Publishing)(GB).pdf" size="135140225" crc="7de6ac33" md5="92461ea1b2fe6f778315a5e15a50f509" sha1="f7e578b82b7d864002cf09bd538d28bf07f2fed8"/>
+	</game>
+	<game name="PC Gamer - Issue 240 (2012-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 240 (2012-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 240 (2012-06)(Future Publishing)(GB).pdf" size="141427037" crc="2f6a177d" md5="29e04cb7019e9a36e333122947666825" sha1="0bf1caff9a50c141e70671dc09d43fe9954ec9df"/>
+	</game>
+	<game name="PC Gamer - Issue 241 (2012-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 241 (2012-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 241 (2012-07)(Future Publishing)(GB).pdf" size="143663863" crc="7955d463" md5="400718c784268e81248e2c3fe3f35de6" sha1="bbdcb1110782c7e7ae237a041902f115c023cb3c"/>
+	</game>
+	<game name="PC Gamer - Issue 242 (2012-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 242 (2012-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 242 (2012-08)(Future Publishing)(GB).pdf" size="143861249" crc="1c3373d9" md5="1ed17dea58ed2bffa98d4799222dc145" sha1="ed2ad7b17361899719080853b68f9b9f7b22c5ce"/>
+	</game>
+	<game name="PC Gamer - Issue 243 (2012-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 243 (2012-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 243 (2012-09)(Future Publishing)(GB).pdf" size="140191152" crc="b931a528" md5="123b9bcc1f4395aec1443f85019a5769" sha1="d5ec965e3a1d298d007ee333275d887146d16f99"/>
+	</game>
+	<game name="PC Gamer - Issue 244 (2012-10)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 244 (2012-10)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 244 (2012-10)(Future Publishing)(GB).pdf" size="141374414" crc="9ca6fa5c" md5="561c2d9907f3d6f405974ae5e3a93c23" sha1="4aa66ec84accacbb9dc63bd62b64c312b6a44bf7"/>
+	</game>
+	<game name="PC Gamer - Issue 245 (2012-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 245 (2012-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 245 (2012-11)(Future Publishing)(GB).pdf" size="143619424" crc="91f3c086" md5="8ee494b6c6586f824374c225c6806a0e" sha1="1672acd7c698b389f28b5d22dc0c9ee7519f4f8e"/>
+	</game>
+	<game name="PC Gamer - Issue 246 (2012-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 246 (2012-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 246 (2012-12)(Future Publishing)(GB).pdf" size="145364463" crc="ebbe711b" md5="af77a82515d3069ad060a2cc93a32d4c" sha1="4a8c3bfb8b3db410a0ab4608d50155ff03db0ddd"/>
+	</game>
+	<game name="PC Gamer - Issue 247 (2012)(Future Publishing)(GB)[christmas edition]">
+		<description>PC Gamer - Issue 247 (2012)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="PC Gamer - Issue 247 (2012)(Future Publishing)(GB)[christmas edition].pdf" size="138372014" crc="8b811df9" md5="2cefbb0a7b0a5b5b53e2b99b2fa1e98e" sha1="1bf44d40f9004f035dc06b7559b0ffa499087684"/>
+	</game>
+	<game name="PC Gamer - Issue 248 (2013-01)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 248 (2013-01)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 248 (2013-01)(Future Publishing)(GB).pdf" size="134071454" crc="f88fa982" md5="93271f0221d3e780087a16883efe80a0" sha1="d1510f6ff0b2c67232516110a859ffd7079f37c4"/>
+	</game>
+	<game name="PC Gamer - Issue 249 (2013-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 249 (2013-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 249 (2013-02)(Future Publishing)(GB).pdf" size="134592587" crc="941ca650" md5="fc470946513c7b15d78377e5b0905edc" sha1="3c7b45caae7a5b9a57bc5ebf7e5200e6902b0be6"/>
+	</game>
+	<game name="PC Gamer - Issue 250 (2013-03)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 250 (2013-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 250 (2013-03)(Future Publishing)(GB).pdf" size="138406276" crc="0289ad2d" md5="45a0fb862698def1465dad606ed48347" sha1="23435125623db333f490cb367bea6bbb7e26bf19"/>
+	</game>
+	<game name="PC Gamer - Issue 251 (2013-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 251 (2013-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 251 (2013-04)(Future Publishing)(GB).pdf" size="110260939" crc="7ad60640" md5="9ab2f2bc6a812b1bc5c250bcf60e8f81" sha1="a28e5e261bd2828a608cab059cbc935073e61f60"/>
+	</game>
+	<game name="PC Gamer - Issue 251 (2013-04)(Future Publishing)(GB)[a]">
+		<description>PC Gamer - Issue 251 (2013-04)(Future Publishing)(GB)[a]</description>
+		<rom name="PC Gamer - Issue 251 (2013-04)(Future Publishing)(GB)[a].pdf" size="154991150" crc="1e6af1e5" md5="bb57793786e68218dcb5b35c7a366d87" sha1="a3ab63ad5cfd08b42557c6481f629afe9592309d"/>
+	</game>
+	<game name="PC Gamer - Issue 252 (2013-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 252 (2013-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 252 (2013-05)(Future Publishing)(GB).pdf" size="135479894" crc="cab82624" md5="70f97f2cd59f5d4a8a3f716c33690684" sha1="af31830f79e263e85776d6b77934cbf526e70bd2"/>
+	</game>
+	<game name="PC Gamer - Issue 253 (2013-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 253 (2013-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 253 (2013-06)(Future Publishing)(GB).pdf" size="121756700" crc="2a420647" md5="1bbaf762e6463dae2b5813a80b5c017a" sha1="adafe45e59507ec7bbc23c2820386fbae99f159e"/>
+	</game>
+	<game name="PC Gamer - Issue 254 (2013-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 254 (2013-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 254 (2013-07)(Future Publishing)(GB).pdf" size="45056887" crc="8695a54a" md5="deb00e5c8179a4e334276cdaf717e994" sha1="95d437f1b2dbe14833a912936377e224dfadd850"/>
+	</game>
+	<game name="PC Gamer - Issue 255 (2013-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 255 (2013-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 255 (2013-08)(Future Publishing)(GB).pdf" size="116957234" crc="507c2dbb" md5="e6532f03a8e8b22144096b7b50104f2a" sha1="e7b73e851ac8d1ad4a5f0591c140c9641e085221"/>
+	</game>
+	<game name="PC Gamer - Issue 256 (2013-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 256 (2013-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 256 (2013-09)(Future Publishing)(GB).pdf" size="108573270" crc="1881ff41" md5="171166271e13fb1b12798a91647b7d0c" sha1="5d78d319fe7fb8ac3c951e4f3e05d500fd81520d"/>
+	</game>
+	<game name="PC Gamer - Issue 257 (2013-10)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 257 (2013-10)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 257 (2013-10)(Future Publishing)(GB).pdf" size="36441747" crc="828950ae" md5="45b1cb9b7c41e8c8cf670602afa4f1d5" sha1="893c708847987bd0aeb72b0b1a145fb51b9b882d"/>
+	</game>
+	<game name="PC Gamer - Issue 258 (2013-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 258 (2013-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 258 (2013-11)(Future Publishing)(GB).pdf" size="60900805" crc="841c04f4" md5="2fe35a6aa69ea6b8bc3d2a0bb84a6644" sha1="685d3c01a4695ba88e8adbc8f0df734ec6b50285"/>
+	</game>
+	<game name="PC Gamer - Issue 259 (2013-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 259 (2013-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 259 (2013-12)(Future Publishing)(GB).pdf" size="72558529" crc="cb0eded9" md5="7ac10fad36571349a11a8e8b28655537" sha1="3dc4b752b3f871353adeca7af50581983ecffff2"/>
+	</game>
+	<game name="PC Gamer - Issue 260 (2013)(Future Publishing)(GB)[Christmas edition]">
+		<description>PC Gamer - Issue 260 (2013)(Future Publishing)(GB)[Christmas edition]</description>
+		<rom name="PC Gamer - Issue 260 (2013)(Future Publishing)(GB)[Christmas edition].pdf" size="56102850" crc="a09acc7f" md5="9331cc615ded28c298a8ef1df9f29072" sha1="47be5f3f366d393c709c4dbde808516973592282"/>
+	</game>
+	<game name="PC Gamer - Issue 261 (2014-01)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 261 (2014-01)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 261 (2014-01)(Future Publishing)(GB).pdf" size="48103194" crc="d2f2263b" md5="ae55a541775b22cfe8288746b581fbc9" sha1="eaf9c451aa48197226846cebfcf5046cc86a4e75"/>
+	</game>
+	<game name="PC Gamer - Issue 262 (2014-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 262 (2014-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 262 (2014-02)(Future Publishing)(GB).pdf" size="50893646" crc="6c261369" md5="e0948e46c65c2052fd14a51e69e99d55" sha1="67e813797a69c9a18e0d8342640fec6a7e4279ec"/>
+	</game>
+	<game name="PC Gamer - Issue 263 (2014-03)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 263 (2014-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 263 (2014-03)(Future Publishing)(GB).pdf" size="58735094" crc="41cf0e1b" md5="411267e021b6e8b6266ddade49ef9f55" sha1="d6fc17fe2268288314b6cc92a9eab85350cf69c4"/>
+	</game>
+	<game name="PC Gamer - Issue 264 (2014-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 264 (2014-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 264 (2014-04)(Future Publishing)(GB).pdf" size="49024514" crc="83729465" md5="e77044a4da4731816109c7c121334b77" sha1="8ead145cd6305ebc72b30112758a272d2c1b8a42"/>
+	</game>
+	<game name="PC Gamer - Issue 265 (2014-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 265 (2014-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 265 (2014-05)(Future Publishing)(GB).pdf" size="36070524" crc="8e0a2ff7" md5="4eb9506446355bfa51671cc77acd1e13" sha1="7d31bdfe1be26694eb3613eb6d00c11a2209857d"/>
+	</game>
+	<game name="PC Gamer - Issue 266 (2014-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 266 (2014-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 266 (2014-06)(Future Publishing)(GB).pdf" size="43531490" crc="0c776ff2" md5="a75623e32d09e173a90e38ddaea32754" sha1="2fe3ec1390d75a7a60a7c83f285f09e8741e8abc"/>
+	</game>
+	<game name="PC Gamer - Issue 267 (2014-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 267 (2014-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 267 (2014-07)(Future Publishing)(GB).pdf" size="28769985" crc="971f76b2" md5="2188ea6ffa8d855f0e5600f57ca1ac1a" sha1="dab42e2d7f683e55e56e5859b0d2bf8fb01b0656"/>
+	</game>
+	<game name="PC Gamer - Issue 267 (2014-07)(Future Publishing)(GB)[a]">
+		<description>PC Gamer - Issue 267 (2014-07)(Future Publishing)(GB)[a]</description>
+		<rom name="PC Gamer - Issue 267 (2014-07)(Future Publishing)(GB)[a].pdf" size="38194445" crc="437cb52a" md5="f51429699b069093be364140d04ced67" sha1="270214f432be3084c12db1ed1d1b654f9469a94f"/>
+	</game>
+	<game name="PC Gamer - Issue 268 (2014-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 268 (2014-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 268 (2014-08)(Future Publishing)(GB).pdf" size="36310856" crc="8d926d33" md5="298c692ba577a33ebffa95ca789eb726" sha1="5c42fc33c557eed756ce834269d216e2a0a48af3"/>
+	</game>
+	<game name="PC Gamer - Issue 269 (2014-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 269 (2014-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 269 (2014-09)(Future Publishing)(GB).pdf" size="32288323" crc="f0060f69" md5="0e0680d50f2477377c354d007de4d91a" sha1="b3e0e1cf4f19e4290cf5356f0a4f432cb0c6f717"/>
+	</game>
+	<game name="PC Gamer - Issue 270 (2014-10)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 270 (2014-10)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 270 (2014-10)(Future Publishing)(GB).pdf" size="36268157" crc="3ae82c9b" md5="6529bc77f1d6fcec40198820f136e70f" sha1="7d2d0f52095f7797c47ee785ca37587a46252672"/>
+	</game>
+	<game name="PC Gamer - Issue 271 (2014-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 271 (2014-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 271 (2014-11)(Future Publishing)(GB).pdf" size="83433353" crc="8736b268" md5="9d086554b3759ada53a513f2a5abe79a" sha1="b833fb9ef1afdcf6242bab7372fa97b0e616813b"/>
+	</game>
+	<game name="PC Gamer - Issue 272 (2014-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 272 (2014-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 272 (2014-12)(Future Publishing)(GB).pdf" size="33731459" crc="e840e10e" md5="07c867b0fb10a1f41ed785bdf00e1832" sha1="07615e2dd428a2f7fbbb86f81fdaa90cc18077e9"/>
+	</game>
+	<game name="PC Gamer - Issue 273 (2014)(Future Publishing)(GB)[Christmas edition]">
+		<description>PC Gamer - Issue 273 (2014)(Future Publishing)(GB)[Christmas edition]</description>
+		<rom name="PC Gamer - Issue 273 (2014)(Future Publishing)(GB)[Christmas edition].pdf" size="26225579" crc="2a634a48" md5="682436eadc36f9079a2217b32596a3a9" sha1="3acea28b92aa5d56d574fd9e485fa0175dd1b148"/>
+	</game>
+	<game name="PC Gamer - Issue 274 (2015-01)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 274 (2015-01)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 274 (2015-01)(Future Publishing)(GB).pdf" size="52530998" crc="677af8b4" md5="bc2eba9c3ef20d637560ff681fd18a0f" sha1="87c2fa4df107b20c679ce287204a888e32960d4a"/>
+	</game>
+	<game name="PC Gamer - Issue 275 (2015-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 275 (2015-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 275 (2015-02)(Future Publishing)(GB).pdf" size="25545384" crc="9c8c4035" md5="1184fa6bcd6ed7e71e277ad8fd2c7632" sha1="14d07737c81aebf13a8aec5f8e6dba9caa919015"/>
+	</game>
+	<game name="PC Gamer - Issue 276 (2015-03)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 276 (2015-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 276 (2015-03)(Future Publishing)(GB).pdf" size="52279776" crc="91dde601" md5="c91536cbe48db419588a5e0f4048fccc" sha1="0605067dec4af73d4b3fbfcbb5959f378fbcfa3c"/>
+	</game>
+	<game name="PC Gamer - Issue 277 (2015-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 277 (2015-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 277 (2015-04)(Future Publishing)(GB).pdf" size="41616680" crc="40ab7740" md5="71a98408728ac96ca69f7cd2b1943ef2" sha1="8d5772d3d6b5bf82ee0caf8745cc705ed057b781"/>
+	</game>
+	<game name="PC Gamer - Issue 278 (2015-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 278 (2015-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 278 (2015-05)(Future Publishing)(GB).pdf" size="29503303" crc="d5a887b7" md5="0ca48fc0ed65c3326fcc721251b59f5e" sha1="992964105ecd98c6cf52d6a73930ffdacc0806ad"/>
+	</game>
+	<game name="PC Gamer - Issue 279 (2015-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 279 (2015-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 279 (2015-06)(Future Publishing)(GB).pdf" size="28913891" crc="52532514" md5="81b1f6932b026b0bc6137eac23bdcd53" sha1="1deae0f9323d482a10708e71aeceec39c6fea366"/>
+	</game>
+	<game name="PC Gamer - Issue 280 (2015-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 280 (2015-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 280 (2015-07)(Future Publishing)(GB).pdf" size="59229560" crc="3e4f2899" md5="5f2eb7e1ee2200aa935249f3203c5c66" sha1="f18afbcbef2e520fbd2f6e50d2824899a2049f6f"/>
+	</game>
+	<game name="PC Gamer - Issue 281 (2015-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 281 (2015-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 281 (2015-08)(Future Publishing)(GB).pdf" size="62574499" crc="c6c8e7f4" md5="4d58dfcd8388a401883e8f4dc6f9672e" sha1="6d2a43c6bd529df2123551785604bb8a3047bc6c"/>
+	</game>
+	<game name="PC Gamer - Issue 282 (2015-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 282 (2015-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 282 (2015-09)(Future Publishing)(GB).pdf" size="55123196" crc="dd9e8cd5" md5="a8fe45b093e3981ac6cba59ec96bd458" sha1="6437b9d4fc8a856414341a2f8b4c27c9e48a5a0d"/>
+	</game>
+	<game name="PC Gamer - Issue 283 (2015-10)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 283 (2015-10)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 283 (2015-10)(Future Publishing)(GB).pdf" size="41619462" crc="9fd37adb" md5="baba896e1be9451a47b4af965d097871" sha1="8add05f20bbe680851d965af414a90b45c73edd6"/>
+	</game>
+	<game name="PC Gamer - Issue 283 (2015-10)(Future Publishing)(GB)[a]">
+		<description>PC Gamer - Issue 283 (2015-10)(Future Publishing)(GB)[a]</description>
+		<rom name="PC Gamer - Issue 283 (2015-10)(Future Publishing)(GB)[a].pdf" size="24735622" crc="7ef6fa8d" md5="4d2f97fcae545c285aa0df77bb379bdc" sha1="176a465091aa6b131fe7c227f2ba2d4e84d2bc1f"/>
+	</game>
+	<game name="PC Gamer - Issue 284 (2015-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 284 (2015-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 284 (2015-11)(Future Publishing)(GB).pdf" size="48135011" crc="c8ee9687" md5="2734f2f3d792124734e1c637d00bc00d" sha1="004f7804e1cb6c8321970f7352acd0ac57c34132"/>
+	</game>
+	<game name="PC Gamer - Issue 285 (2015-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 285 (2015-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 285 (2015-12)(Future Publishing)(GB).pdf" size="59805107" crc="9c2e31aa" md5="242a1354cb35b5249d6d680ecadcec53" sha1="1bd872f60baec3bfe4a3e18e459869aefd3bd035"/>
+	</game>
+	<game name="PC Gamer - Issue 286 (2015)(Future Publishing)(GB)[Christmas edition]">
+		<description>PC Gamer - Issue 286 (2015)(Future Publishing)(GB)[Christmas edition]</description>
+		<rom name="PC Gamer - Issue 286 (2015)(Future Publishing)(GB)[Christmas edition].pdf" size="45042896" crc="4f16b311" md5="152423689948f3bb329ff0fda62031cf" sha1="a1853c3a4984a6213ff409ad0e371fc90ed21e03"/>
+	</game>
+	<game name="PC Gamer - Issue 287 (2016-01)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 287 (2016-01)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 287 (2016-01)(Future Publishing)(GB).pdf" size="51632038" crc="70af8cfe" md5="b0a4e1af5c5069fbcbeaeaebf8c1c167" sha1="f4e16275f4448abce66b06ddc191242fee978fab"/>
+	</game>
+	<game name="PC Gamer - Issue 288 (2016-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 288 (2016-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 288 (2016-02)(Future Publishing)(GB).pdf" size="40951688" crc="66bbface" md5="6c7194fcd9021480cd28fa735908b90b" sha1="cbdcf454539131ea78c818e05e220ce7a574f098"/>
+	</game>
+	<game name="PC Gamer - Issue 289 (2016-03)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 289 (2016-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 289 (2016-03)(Future Publishing)(GB).pdf" size="25073502" crc="71545f6b" md5="b8acc143cc3c9fe868c29372b5cf267b" sha1="bf2a9781cf211868b61c1ce30b37fd70b8e69d69"/>
+	</game>
+	<game name="PC Gamer - Issue 290 (2016-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 290 (2016-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 290 (2016-04)(Future Publishing)(GB).pdf" size="23747786" crc="af8a3f6e" md5="a5ee24b783595e127b00161da98d2669" sha1="4fbdca1ab81a568631514730bca5008e52fe963b"/>
+	</game>
+	<game name="PC Gamer - Issue 291 (2016-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 291 (2016-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 291 (2016-05)(Future Publishing)(GB).pdf" size="46140501" crc="ae3d1935" md5="bd743bec02c0855b0be1128d7e2c308f" sha1="75c3b75e3f3cde7e113b064381cf385cc3d0a348"/>
+	</game>
+	<game name="PC Gamer - Issue 292 (2016-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 292 (2016-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 292 (2016-06)(Future Publishing)(GB).pdf" size="52251014" crc="bb394ad7" md5="52f396d3165560b6d91cf187f054d286" sha1="db5d50b5dcd0d7df346a723fa310a3dada8b0d4f"/>
+	</game>
+	<game name="PC Gamer - Issue 293 (2016-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 293 (2016-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 293 (2016-07)(Future Publishing)(GB).pdf" size="23435015" crc="92979061" md5="5b5db68b95ecc7c86af014df30d5bc6e" sha1="cb7e40d67b80f1169fe3ebe1df9f5247b7d02358"/>
+	</game>
+	<game name="PC Gamer - Issue 294 (2016-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 294 (2016-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 294 (2016-08)(Future Publishing)(GB).pdf" size="53578453" crc="984e4f49" md5="bc6832a5b489c1fded0e41d50f9630b6" sha1="1db58f9073250602079bdca40990394bd97dde21"/>
+	</game>
+	<game name="PC Gamer - Issue 295 (2016-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 295 (2016-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 295 (2016-09)(Future Publishing)(GB).pdf" size="43124002" crc="edcce435" md5="7a807821e5dc4ab019e295658e3c34d0" sha1="e52ab7e873dc1dc56e98c608733cb6c217299042"/>
+	</game>
+	<game name="PC Gamer - Issue 296 (2016-10)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 296 (2016-10)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 296 (2016-10)(Future Publishing)(GB).pdf" size="45548886" crc="07349a88" md5="0b69f71cca7ea8d233b04e0c4ad127ca" sha1="c6a4e75b71f3869f7cf5a910c29298078ee634f9"/>
+	</game>
+	<game name="PC Gamer - Issue 297 (2016-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 297 (2016-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 297 (2016-11)(Future Publishing)(GB).pdf" size="47905738" crc="5217deb6" md5="07e67623d1077df304e6a231c0402de8" sha1="34e95236f9a091b691033946426367f191e86029"/>
+	</game>
+	<game name="PC Gamer - Issue 298 (2016-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 298 (2016-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 298 (2016-12)(Future Publishing)(GB).pdf" size="48803047" crc="3be6833f" md5="7766a96cf3f1135d7c753eb797a18b9e" sha1="ac1884c4062ba26ef7456e507f4e3b859778a2a8"/>
+	</game>
+	<game name="PC Gamer - Issue 299 (2016)(Future Publishing)(GB)[Christmas edition]">
+		<description>PC Gamer - Issue 299 (2016)(Future Publishing)(GB)[Christmas edition]</description>
+		<rom name="PC Gamer - Issue 299 (2016)(Future Publishing)(GB)[Christmas edition].pdf" size="49190602" crc="3cdd9e45" md5="3172a5f9a0ba07771aeaf1353c6910bb" sha1="d81f443fbdf5341534cbbe7b544069507b098e3c"/>
+	</game>
+	<game name="PC Gamer - Issue 300 (2017-01)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 300 (2017-01)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 300 (2017-01)(Future Publishing)(GB).pdf" size="68902492" crc="537c24c9" md5="f1956882f9bb1b087f92402f5e357a5f" sha1="2888c503e17ce58a9dd411d372ee95bee60e593c"/>
+	</game>
+	<game name="PC Gamer - Issue 301 (2017-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 301 (2017-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 301 (2017-02)(Future Publishing)(GB).pdf" size="88331860" crc="8045303e" md5="4f862ca20ee4dfddf11945cfed5620f3" sha1="952dedf4c4f3ff79a9b2dbeb0b0be659ce7845a2"/>
+	</game>
+	<game name="PC Gamer - Issue 302 (2017-03)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 302 (2017-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 302 (2017-03)(Future Publishing)(GB).pdf" size="50146903" crc="3bae6467" md5="b520e12d2d956a5c09846afb33e6a225" sha1="e55806b7be6cc04cfb09a45c8b5bd0cde320d899"/>
+	</game>
+	<game name="PC Gamer - Issue 303 (2017-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 303 (2017-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 303 (2017-04)(Future Publishing)(GB).pdf" size="47426976" crc="0fff6798" md5="731f6f262378034dbb2c218b44766c4f" sha1="479ef8ee53a908641878e9608517a6a5145d20eb"/>
+	</game>
+	<game name="PC Gamer - Issue 304 (2017-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 304 (2017-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 304 (2017-05)(Future Publishing)(GB).pdf" size="49820651" crc="ca980c84" md5="f5ca283be93550aad62b1dd08d134119" sha1="918762b4701756e46d5f822c21ed41b45ef2c12f"/>
+	</game>
+	<game name="PC Gamer - Issue 305 (2017-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 305 (2017-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 305 (2017-06)(Future Publishing)(GB).pdf" size="49133365" crc="d4f9d70c" md5="0f7de4ff547fa57b1ec4be9a7ae9e0eb" sha1="a24459c11b8571c0fdf075acc52700df4c8135b5"/>
+	</game>
+	<game name="PC Gamer - Issue 306 (2017-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 306 (2017-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 306 (2017-07)(Future Publishing)(GB).pdf" size="48379192" crc="0e11822b" md5="407c6a2339a25ae126461ec72a3dac17" sha1="90800bfcb9051c0d9b03af736c44827fd2e9d53f"/>
+	</game>
+	<game name="PC Gamer - Issue 307 (2017-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 307 (2017-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 307 (2017-08)(Future Publishing)(GB).pdf" size="49874162" crc="257b5aa7" md5="897d1db5c903fafed347b86911fa4cf4" sha1="6173997207a9e4d268bdffee6ea1a8105581f629"/>
+	</game>
+	<game name="PC Gamer - Issue 308 (2017-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 308 (2017-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 308 (2017-09)(Future Publishing)(GB).pdf" size="65563615" crc="75a652c6" md5="ffd458d3295bc223a3dc8b9114b7bac5" sha1="877ab55301d937727f859ad797da620e0110f169"/>
+	</game>
+	<game name="PC Gamer - Issue 309 (2017-10)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 309 (2017-10)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 309 (2017-10)(Future Publishing)(GB).pdf" size="48677923" crc="35eb16db" md5="34b9e13ceca223c56ba623f099329794" sha1="d5898f7f2c51ff5c9ff67eb014d8b8cfece173ff"/>
+	</game>
+	<game name="PC Gamer - Issue 310 (2017-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 310 (2017-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 310 (2017-11)(Future Publishing)(GB).pdf" size="51508237" crc="b96d5d28" md5="707c989abeed7a8194c1ed372a4e5454" sha1="a2ef171f725ceec57e68ac4b122315e9b1f5a23f"/>
+	</game>
+	<game name="PC Gamer - Issue 311 (2017-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 311 (2017-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 311 (2017-12)(Future Publishing)(GB).pdf" size="47924449" crc="69996a41" md5="662072b0de742d2122efbf668acb45ba" sha1="193e32922a064a5fbcacb132bb513404842dc667"/>
+	</game>
+	<game name="PC Gamer - Issue 312 (2017)(Future Publishing)(GB)[christmas edition]">
+		<description>PC Gamer - Issue 312 (2017)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="PC Gamer - Issue 312 (2017)(Future Publishing)(GB)[christmas edition].pdf" size="48653255" crc="722e649c" md5="c141d25282902ec07f5ece10fe17bac9" sha1="ef02357443ecab218151b3a056657e027878bab3"/>
+	</game>
+	<game name="PC Gamer - Issue 313 (2018-01)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 313 (2018-01)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 313 (2018-01)(Future Publishing)(GB).pdf" size="50328983" crc="2de689c2" md5="1352cf068b31bd061d1d1142b91ae3e7" sha1="098b46ab3e0dfc6b7bc6fd1851d3e904c093f5b3"/>
+	</game>
+	<game name="PC Gamer - Issue 314 (2018-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 314 (2018-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 314 (2018-02)(Future Publishing)(GB).pdf" size="48083590" crc="df545d15" md5="119fafc29012f089f7b361b0c8c0c35d" sha1="3b8a86ebb2418090c08d496ae429ee697d0032b7"/>
+	</game>
+	<game name="PC Gamer - Issue 315 (2018-03)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 315 (2018-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 315 (2018-03)(Future Publishing)(GB).pdf" size="40284277" crc="1569fddb" md5="8c79cdf0fe546584ab5fb157fec25007" sha1="85dba1c72e2fa640cbb9098be4b2baf69d0a838f"/>
+	</game>
+	<game name="PC Gamer - Issue 316 (2018-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 316 (2018-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 316 (2018-04)(Future Publishing)(GB).pdf" size="39797256" crc="d2be346c" md5="b86ea2160a37335fca17c98a2a4f2b01" sha1="52dc16c5c22e8a8dda5c40bda2c4f1839331e046"/>
+	</game>
+	<game name="PC Gamer - Issue 317 (2018-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 317 (2018-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 317 (2018-05)(Future Publishing)(GB).pdf" size="47778373" crc="fac3e68a" md5="900a61bdfe1b754bd216514c23d0a2dc" sha1="41b797afe6410e3e79ca278348786b54d04e3b34"/>
+	</game>
+	<game name="PC Gamer - Issue 318 (2018-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 318 (2018-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 318 (2018-06)(Future Publishing)(GB).pdf" size="48191093" crc="de8fc56a" md5="f28950b458dc4efe129943f99e78e2d0" sha1="eb29a4d3500e62d9186ff0dba79eb5319efc7b7e"/>
+	</game>
+	<game name="PC Gamer - Issue 319 (2018-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 319 (2018-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 319 (2018-07)(Future Publishing)(GB).pdf" size="21799987" crc="97f7c812" md5="c73e2eb691fb3f6076de269392fa7c02" sha1="ab7b1edd1aa49bb1187a21e5e74bcbfc0dc6674d"/>
+	</game>
+	<game name="PC Gamer - Issue 320 (2018-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 320 (2018-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 320 (2018-08)(Future Publishing)(GB).pdf" size="21754671" crc="d1ac4b21" md5="9ecbf76832b92c763d9d8114c1ed5630" sha1="f033cf6944dcc6c2abcdb35463656150327ec8c6"/>
+	</game>
+	<game name="PC Gamer - Issue 321 (2018-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 321 (2018-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 321 (2018-09)(Future Publishing)(GB).pdf" size="23094620" crc="b825e996" md5="2c6140bc33861107562bdd8a32d2d98c" sha1="2cd8b4267273aa9bb08f2bbe9f9d056ba410e3a6"/>
+	</game>
+	<game name="PC Gamer - Issue 322 (2018-10)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 322 (2018-10)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 322 (2018-10)(Future Publishing)(GB).pdf" size="62579358" crc="f1517729" md5="25c1f35f5942d5a313680ab2a5468426" sha1="26f9775b24ae295bee7637e5580e53e19d4d8057"/>
+	</game>
+	<game name="PC Gamer - Issue 323 (2018-11)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 323 (2018-11)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 323 (2018-11)(Future Publishing)(GB).pdf" size="20720671" crc="26da6cfb" md5="6310f5c523a8cf75448928dd49238be1" sha1="53c777aa0e575a08e361035660831521354ff7bb"/>
+	</game>
+	<game name="PC Gamer - Issue 324 (2018-12)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 324 (2018-12)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 324 (2018-12)(Future Publishing)(GB).pdf" size="53919063" crc="bede8fd5" md5="66ca15e43d8fa46051e87f6337228bc4" sha1="3e57ef38adcfada987016fcde03bd5bccde975a2"/>
+	</game>
+	<game name="PC Gamer - Issue 325 (2018)(Future Publishing)(GB)[christmas edition]">
+		<description>PC Gamer - Issue 325 (2018)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="PC Gamer - Issue 325 (2018)(Future Publishing)(GB)[christmas edition].pdf" size="38872702" crc="57562fca" md5="1093174500b1abb93782304583fd54ed" sha1="fd39926d64a3c259c2aa771f940d23f8659aa62d"/>
+	</game>
+	<game name="PC Gamer - Issue 326 (2019-01)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 326 (2019-01)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 326 (2019-01)(Future Publishing)(GB).pdf" size="69506213" crc="7356e375" md5="83ab64d47f6950eaf9eacb67c156d95f" sha1="fbaeccbdc6519ba8b845eadb34de9214dad9c322"/>
+	</game>
+	<game name="PC Gamer - Issue 327 (2019-02)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 327 (2019-02)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 327 (2019-02)(Future Publishing)(GB).pdf" size="65684506" crc="e0bdc72d" md5="b10d26bdf6b06c5ca53ec8e25b9a2141" sha1="b4236df40607be38d08f0166807129430e59c991"/>
+	</game>
+	<game name="PC Gamer - Issue 328 (2019-03)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 328 (2019-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 328 (2019-03)(Future Publishing)(GB).pdf" size="65155677" crc="69e50c8d" md5="d327640f95891db45ace23a969e87295" sha1="807350b84f40093cf5358dcb96993bfe7691efc1"/>
+	</game>
+	<game name="PC Gamer - Issue 329 (2019-04)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 329 (2019-04)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 329 (2019-04)(Future Publishing)(GB).pdf" size="70609669" crc="b9a12f25" md5="ac5b6c0b46fab5f21c8944cb559b1d95" sha1="f36b1fe6b1f8d8811f7412764c7af44ae29b5d95"/>
+	</game>
+	<game name="PC Gamer - Issue 330 (2019-05)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 330 (2019-05)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 330 (2019-05)(Future Publishing)(GB).pdf" size="68793327" crc="a42195a5" md5="b05a54d9058bb4ad9f6ad3056b5befac" sha1="2893db4c81257dfc9deeafdb9ba88874a9fbda35"/>
+	</game>
+	<game name="PC Gamer - Issue 331 (2019-06)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 331 (2019-06)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 331 (2019-06)(Future Publishing)(GB).pdf" size="95644978" crc="7db0fba4" md5="5c342e399d133e8e32108919297b751f" sha1="039cad89c1d4351d1c0f2bb59ae53759eb87585c"/>
+	</game>
+	<game name="PC Gamer - Issue 332 (2019-07)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 332 (2019-07)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 332 (2019-07)(Future Publishing)(GB).pdf" size="71090656" crc="84557a6c" md5="aa1a4d861f0f7143c2bb82921a4a1b92" sha1="5162e8c45b37efc6ff213674039bd1c9fd88f3dc"/>
+	</game>
+	<game name="PC Gamer - Issue 333 (2019-08)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 333 (2019-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 333 (2019-08)(Future Publishing)(GB).pdf" size="65908398" crc="b35a7f0a" md5="274da035e276ec40682ebdad0b6b152f" sha1="0ea99f5b79a372a954c9f67bc040018e42de1430"/>
+	</game>
+	<game name="PC Gamer - Issue 334 (2019-09)(Future Publishing)(GB)">
+		<description>PC Gamer - Issue 334 (2019-09)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer - Issue 334 (2019-09)(Future Publishing)(GB).pdf" size="66512086" crc="679f2b88" md5="185740037cc73cf99c954926d8977329" sha1="bd3c41c883462322a8caab3c91a310cc797af1fa"/>
+	</game>
+	<game name="PC Gamer Presents World of Tanks (2013)(Future Publishing)(GB)">
+		<description>PC Gamer Presents World of Tanks (2013)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer Presents World of Tanks (2013)(Future Publishing)(GB).pdf" size="86977198" crc="0e27a0a6" md5="9d5a82b2dd5e470e3ee66add113e1e88" sha1="bd78b07b631e7f35b293a45e28e82a9f02d8bb09"/>
+	</game>
+	<game name="PC Gamer Special Issue - PC Hardware The Ultimate Guide 2016 (2016)(Future Publishing)(GB)">
+		<description>PC Gamer Special Issue - PC Hardware The Ultimate Guide 2016 (2016)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer Special Issue - PC Hardware The Ultimate Guide 2016 (2016)(Future Publishing)(GB).pdf" size="36339844" crc="e0dc600c" md5="76c74678f385a878ec0b471843a9cebf" sha1="8ee660c745a9ca6b866945e83a425840c3b730a4"/>
+	</game>
+	<game name="PC Gamer Special Issue - The Future of Minecraft (2015-03)(Future Publishing)(GB)">
+		<description>PC Gamer Special Issue - The Future of Minecraft (2015-03)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer Special Issue - The Future of Minecraft (2015-03)(Future Publishing)(GB).pdf" size="21083025" crc="42c6499a" md5="c6d66dc676eca86ec0940df04c84e598" sha1="0fdc867d674048b17f850d4094c7e84fb74a2723"/>
+	</game>
+	<game name="PC Gamer Special Issue - The Ultimate Guide to Indie Games (2014)(Future Publishing)(GB)">
+		<description>PC Gamer Special Issue - The Ultimate Guide to Indie Games (2014)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer Special Issue - The Ultimate Guide to Indie Games (2014)(Future Publishing)(GB).pdf" size="62638508" crc="8c6104f5" md5="0ccc0290a855d7a795a3781db0fe62fd" sha1="851d56392b6a0663bcd6795ca80006f1c182d249"/>
+	</game>
+	<game name="PC Gamer Special Issue - The Ultimate Guide to Indie Games (2016)(Future Publishing)(GB)">
+		<description>PC Gamer Special Issue - The Ultimate Guide to Indie Games (2016)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer Special Issue - The Ultimate Guide to Indie Games (2016)(Future Publishing)(GB).pdf" size="43919532" crc="fcb3c497" md5="bb5b89846a905c72f60654d1d286c941" sha1="723bf3f0fa4f18cdfb9aef8974d54d55a0b8fb29"/>
+	</game>
+	<game name="PC Gamer Special Issue - World of Tanks (2013-08)(Future Publishing)(GB)">
+		<description>PC Gamer Special Issue - World of Tanks (2013-08)(Future Publishing)(GB)</description>
+		<rom name="PC Gamer Special Issue - World of Tanks (2013-08)(Future Publishing)(GB).pdf" size="86939593" crc="fb4fe24a" md5="9a2588defa348e6cd6f6d35b16d8a7ad" sha1="158f7515b993c8792651a3eea14bea7d734e7bc4"/>
+	</game>
+	<game name="PC Hardware Handbook (2018)(Future Publishing)(GB)[1st Edition]">
+		<description>PC Hardware Handbook (2018)(Future Publishing)(GB)[1st Edition]</description>
+		<rom name="PC Hardware Handbook (2018)(Future Publishing)(GB)[1st Edition].pdf" size="30173505" crc="4fb7adf7" md5="c40fac22042cb3f5bad5e034f712213a" sha1="773e87e30f299574f6858b4c30d592b421dc04b1"/>
+	</game>
+</datafile>

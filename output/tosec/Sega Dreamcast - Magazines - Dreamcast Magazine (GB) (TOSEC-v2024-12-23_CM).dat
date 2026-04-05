@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Magazines - Dreamcast Magazine (GB)</name>
+		<description>Sega Dreamcast - Magazines - Dreamcast Magazine (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dreamcast Magazine - Issue 05 (2000-01)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 05 (2000-01)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 05 (2000-01)(Paragon Publishing)(GB).pdf" size="286907606" crc="df65f819" md5="e5eff8e659b3e126ccb309f37b8e4d15" sha1="2a42ba8a6755a6dcb9c3467c9e8791178b5700c4"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 05 (2000-01)(Paragon Publishing)(GB)[a]">
+		<description>Dreamcast Magazine - Issue 05 (2000-01)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Dreamcast Magazine - Issue 05 (2000-01)(Paragon Publishing)(GB)[a].pdf" size="327779971" crc="f7c9f37c" md5="bb1be783a52b5675b567ac9b9333db85" sha1="dd064231bbc5436ce77e0eb04aac88319a5add21"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 07 (2000-03)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 07 (2000-03)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 07 (2000-03)(Paragon Publishing)(GB).pdf" size="325323742" crc="96cd88c2" md5="084f997eeb6e2a905946358a0ec54561" sha1="44ed61d49228bb2b6d238409898c33aa7362334f"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 08 (2000-04)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 08 (2000-04)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 08 (2000-04)(Paragon Publishing)(GB).pdf" size="282400260" crc="ca8b857a" md5="c47a13f65e9b1dc707257a430e19f4f0" sha1="238a61186ac6bd0e45377926f67268856479260c"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 09 (2000-05)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 09 (2000-05)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 09 (2000-05)(Paragon Publishing)(GB).pdf" size="352601558" crc="8e3620e8" md5="fb1a8e93c89c6eb4ba473c881d1c56e6" sha1="75e9694d70d9161561ac156a8a6c68440d67f3d8"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 10 (2000-06)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 10 (2000-06)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 10 (2000-06)(Paragon Publishing)(GB).pdf" size="429473427" crc="dddae25d" md5="ec9f3b7f38cb6bcb9f64ce92cd8e6877" sha1="b5b87354cf9d8870d7eeaeddc3dfa9f8e0180a59"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 11 (2000-07)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 11 (2000-07)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 11 (2000-07)(Paragon Publishing)(GB).pdf" size="328703851" crc="390fcf73" md5="2fa4d2a0f087310d760e9c6c0d4c7b43" sha1="7d79e43efb691581f12d2be5bc6fc7fa72ba05b3"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 12 (2000-08)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 12 (2000-08)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 12 (2000-08)(Paragon Publishing)(GB).pdf" size="308762836" crc="2b0d8238" md5="8bc3a7c4ba8a2d3ef82f864049a8ee3b" sha1="37951d2fc8381e8b063c0ceba8bbc639c2d3ca74"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 13 (2000-09)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 13 (2000-09)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 13 (2000-09)(Paragon Publishing)(GB).pdf" size="310505948" crc="b6bf8b4c" md5="a1d957a65781104c1062550cde5176e5" sha1="46a4eecdfe78f98c67751712640589ac391bb916"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 13 (2000-10)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 13 (2000-10)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 13 (2000-10)(Paragon Publishing)(GB).pdf" size="310505674" crc="fd8d95d2" md5="228e52f4db612d116786d07b6219f95b" sha1="d5b43cb0ff6ac0f2584d388d9bf135472becca30"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 18 (2001-04)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 18 (2001-04)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 18 (2001-04)(Paragon Publishing)(GB).pdf" size="284942719" crc="3d45c87f" md5="d8842bc00692a57b97433db1ef5d83e2" sha1="46e4fbf430a5ef20b8c3f7c6e2b25ecc91ed810d"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 19 (2001-05)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 19 (2001-05)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 19 (2001-05)(Paragon Publishing)(GB).pdf" size="309600218" crc="9a9a2476" md5="318c1ead443797684e88fddc1fd9c22d" sha1="9ccdbe72415ae42315d2ab3691c757584a740658"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 30 (2002-01)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 30 (2002-01)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 30 (2002-01)(Paragon Publishing)(GB).pdf" size="222004203" crc="5542c4e5" md5="cd4f46ccd39d7db80131c73780f431a8" sha1="013c095ba382739cdcd4d8855287adad41cfb193"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 32 (2002-03)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 32 (2002-03)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 32 (2002-03)(Paragon Publishing)(GB).pdf" size="241865758" crc="7ea1ea1c" md5="ab89387b9ba9479525ce308eda0fc5f1" sha1="0d817ecdc0588e04ae5b5b05b440492224844d5c"/>
+	</game>
+	<game name="Dreamcast Magazine - Issue 33 (2002-04)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - Issue 33 (2002-04)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - Issue 33 (2002-04)(Paragon Publishing)(GB).pdf" size="227255247" crc="42ccd573" md5="5ac4a0ad82bb712288ea0ac91f87a06c" sha1="b46b8e73a69de643f1607620c41b29be258aec8e"/>
+	</game>
+	<game name="Dreamcast Magazine - No 01 (1999-09)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - No 01 (1999-09)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - No 01 (1999-09)(Paragon Publishing)(GB).pdf" size="139568379" crc="8edc033c" md5="3a5e5fe49bcf402469a762bacc645a52" sha1="9c845562b20838a2423dcb07e70640cbb62c9d1c"/>
+	</game>
+	<game name="Dreamcast Magazine - No 02 (1999-10)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - No 02 (1999-10)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - No 02 (1999-10)(Paragon Publishing)(GB).pdf" size="198436007" crc="413f3029" md5="08831fdb8c0979558862dbdc604ba934" sha1="26b52e91a8f5d48fbbb4a294f0950f398a71b597"/>
+	</game>
+	<game name="Dreamcast Magazine - No 03 (1999-11)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - No 03 (1999-11)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - No 03 (1999-11)(Paragon Publishing)(GB).pdf" size="235238911" crc="5d96a29c" md5="05a70d9d9bfa728a9681c74208bc915a" sha1="87f931686905038d1659ae0865ed1f6488829251"/>
+	</game>
+	<game name="Dreamcast Magazine - No 04 (1999-12)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - No 04 (1999-12)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - No 04 (1999-12)(Paragon Publishing)(GB).pdf" size="272547988" crc="cb7700e4" md5="d0eac832acc3fd11c6673ddb1cf54607" sha1="771197b8ce63973290333d086a16de28b10a0b7d"/>
+	</game>
+	<game name="Dreamcast Magazine - No 32 (2002-04)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - No 32 (2002-04)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - No 32 (2002-04)(Paragon Publishing)(GB).pdf" size="241866032" crc="694ea637" md5="2561f7182566d8536e5986e00e039617" sha1="2f76bdbec8baf02edba1e6f37832eea998e501b6"/>
+	</game>
+	<game name="Dreamcast Magazine - No 34 (2002-06)(Paragon Publishing)(GB)">
+		<description>Dreamcast Magazine - No 34 (2002-06)(Paragon Publishing)(GB)</description>
+		<rom name="Dreamcast Magazine - No 34 (2002-06)(Paragon Publishing)(GB).pdf" size="76612482" crc="b5a34856" md5="ca1aa0c0307af7467522a8e6148b0011" sha1="bf57f2b6639646d391be304fe9c22f00812c6cf3"/>
+	</game>
+</datafile>

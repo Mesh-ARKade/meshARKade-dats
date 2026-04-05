@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Games (US)</name>
+		<description>Multi-format - Magazines - Games (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Games - Vol.6 No.8 Issue 34 (1982-12)(Playboy Enterprises)(US)">
+		<description>Games - Vol.6 No.8 Issue 34 (1982-12)(Playboy Enterprises)(US)</description>
+		<rom name="Games - Vol.6 No.8 Issue 34 (1982-12)(Playboy Enterprises)(US).pdf" size="186529740" crc="470bf004" md5="5de31a0cdcb62b4aa0d3e8d48fd2290a" sha1="a14eb58d502e626220ea2aff814eb0cf39db2d51"/>
+	</game>
+</datafile>

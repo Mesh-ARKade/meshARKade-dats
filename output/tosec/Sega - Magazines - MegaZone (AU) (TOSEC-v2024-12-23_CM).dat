@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Magazines - MegaZone (AU)</name>
+		<description>Sega - Magazines - MegaZone (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="50, the (1995-04)(Mason Stewart Publishing)(AU)[supplement issue 50]">
+		<description>50, the (1995-04)(Mason Stewart Publishing)(AU)[supplement issue 50]</description>
+		<rom name="50, the (1995-04)(Mason Stewart Publishing)(AU)[supplement issue 50].pdf" size="7185862" crc="104aef08" md5="b2dd71b56e53c086c34295826aab8df9" sha1="8cb7eb311feeeed2a799e100b0ab9280e6fc1209"/>
+	</game>
+	<game name="Megacom - Issue 01 (1988-08)(Megacomp Publishing)(AU)">
+		<description>Megacom - Issue 01 (1988-08)(Megacomp Publishing)(AU)</description>
+		<rom name="Megacom - Issue 01 (1988-08)(Megacomp Publishing)(AU).pdf" size="24705268" crc="e79729c8" md5="47ebc888c1e65126bad5d432ceb45ac7" sha1="82e428e0022d618c9e6a64b718d2ab019c620693"/>
+	</game>
+	<game name="MegaComp - Issue 02 (1989-01)(Megacomp Publishing)(AU)">
+		<description>MegaComp - Issue 02 (1989-01)(Megacomp Publishing)(AU)</description>
+		<rom name="MegaComp - Issue 02 (1989-01)(Megacomp Publishing)(AU).pdf" size="54115606" crc="5d4e320d" md5="4668ace1b6ea1cfce42f278a2c81b0f6" sha1="c98dd7a42f4e1d00cb962163307f68f6b3a52b31"/>
+	</game>
+	<game name="MegaComp - Issue 04 (1990-02)(Megacomp Publishing)(AU)">
+		<description>MegaComp - Issue 04 (1990-02)(Megacomp Publishing)(AU)</description>
+		<rom name="MegaComp - Issue 04 (1990-02)(Megacomp Publishing)(AU).pdf" size="58719546" crc="47879fae" md5="d2522529263ea594b2050ec23a372abb" sha1="b46fa0ec4db5cc988db41f812479e0ad3fafab1f"/>
+	</game>
+	<game name="MegaComp - Issue 09 (1990-10)(Megacomp Publishing)(AU)">
+		<description>MegaComp - Issue 09 (1990-10)(Megacomp Publishing)(AU)</description>
+		<rom name="MegaComp - Issue 09 (1990-10)(Megacomp Publishing)(AU).pdf" size="119556759" crc="797f6e5a" md5="ab1e440c15b9a0203dca1810e1519d4f" sha1="8f8d520908d89135f35fcee57ba7ff20a2450ccf"/>
+	</game>
+	<game name="MegaComp - Issue 10 (1990-11)(Megacomp Publishing)(AU)">
+		<description>MegaComp - Issue 10 (1990-11)(Megacomp Publishing)(AU)</description>
+		<rom name="MegaComp - Issue 10 (1990-11)(Megacomp Publishing)(AU).pdf" size="126324535" crc="c6dbf767" md5="dfa1db85305201fef3db062cf222883f" sha1="9e2b91cf7c01ea57ed6dea3ac0408bc59c8d24ab"/>
+	</game>
+	<game name="Megazone - Issue 16 (1991-07)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 16 (1991-07)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 16 (1991-07)(Sega-Ozisoft)(AU).pdf" size="171201482" crc="b51c55b7" md5="01cf1e6fd49f8818558c9e1c4b03f5f4" sha1="0e02405b03b1b28a536739ad100c4e43cf414b15"/>
+	</game>
+	<game name="Megazone - Issue 17 (1991-09)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 17 (1991-09)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 17 (1991-09)(Sega-Ozisoft)(AU).pdf" size="172012922" crc="3f4e1f76" md5="f0a429f3ae8d7d9338760e9ad0d6868d" sha1="ac7a904b2d069e606b9141f3b248b03d177e7462"/>
+	</game>
+	<game name="Megazone - Issue 18 (1991-11)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 18 (1991-11)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 18 (1991-11)(Sega-Ozisoft)(AU).pdf" size="178470796" crc="c4d0895f" md5="65ba9a91576e21e0049c9adcd2c87ba8" sha1="9aa0939c5a5132eb7d779623abe56323d2fcc1af"/>
+	</game>
+	<game name="Megazone - Issue 19 (1992-02)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 19 (1992-02)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 19 (1992-02)(Sega-Ozisoft)(AU).pdf" size="165234227" crc="491815e2" md5="bcfe127e4ee93b3cc94b46f99c50c4a1" sha1="5f52a8b8ab10cc7fc7e4e7189376768bc659cb5d"/>
+	</game>
+	<game name="Megazone - Issue 20 (1992-02)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 20 (1992-02)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 20 (1992-02)(Sega-Ozisoft)(AU).pdf" size="241338738" crc="c5bd94ac" md5="79d7646023cad4d3b01f9476f21993f4" sha1="4badb21219cc991324218dcc7745c55fd0f610be"/>
+	</game>
+	<game name="Megazone - Issue 21 (1992-05)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 21 (1992-05)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 21 (1992-05)(Sega-Ozisoft)(AU).pdf" size="336120983" crc="18b2c95f" md5="c74ded5cd44a57522538d6bc2d0a59c3" sha1="3570373c7711c57ae53f6caaa30b1765577a8141"/>
+	</game>
+	<game name="Megazone - Issue 22 (1992-07)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 22 (1992-07)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 22 (1992-07)(Sega-Ozisoft)(AU).pdf" size="199190864" crc="715c2f63" md5="c92ae5933319ff38aff81d6d54ad7cd6" sha1="6953efb182f0f6034aba454a8f6a6f0e68644976"/>
+	</game>
+	<game name="Megazone - Issue 23 (1992-09)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 23 (1992-09)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 23 (1992-09)(Sega-Ozisoft)(AU).pdf" size="185117935" crc="7e325873" md5="59e8d49f1cf2ce7728a7a5b9454462b3" sha1="0578515168417d335b971b2953f018bc9c5182b1"/>
+	</game>
+	<game name="Megazone - Issue 24 (1992-10)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 24 (1992-10)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 24 (1992-10)(Sega-Ozisoft)(AU).pdf" size="110806938" crc="598f96e7" md5="13b488a1b6f299534909756864bd81eb" sha1="2b6e9ce305aeb9596fd8b3aa1bb76e86a7812ccf"/>
+	</game>
+	<game name="Megazone - Issue 25 (1993-01)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 25 (1993-01)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 25 (1993-01)(Sega-Ozisoft)(AU).pdf" size="49648183" crc="2c8ccf58" md5="293b7ff7fa15aaf188ff84fd425db5c4" sha1="868ff95d25b1102f415791794323844b0817b3c3"/>
+	</game>
+	<game name="Megazone - Issue 25 (1993-01)(Sega-Ozisoft)(AU)[a]">
+		<description>Megazone - Issue 25 (1993-01)(Sega-Ozisoft)(AU)[a]</description>
+		<rom name="Megazone - Issue 25 (1993-01)(Sega-Ozisoft)(AU)[a].pdf" size="114132535" crc="9dbcb4f2" md5="ccac539488a2464ebe0ba9f34971e278" sha1="17fcc2818768c52f7aa4711e2329f105aba7cb5c"/>
+	</game>
+	<game name="Megazone - Issue 26 (1993-03)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 26 (1993-03)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 26 (1993-03)(Sega-Ozisoft)(AU).pdf" size="52171713" crc="257af01d" md5="824f16b74cf3c182d9fc7472f2c9de65" sha1="770a0a4ae6daa5cca9c17c7f3ac582606906bd95"/>
+	</game>
+	<game name="Megazone - Issue 26 (1993-03)(Sega-Ozisoft)(AU)[a]">
+		<description>Megazone - Issue 26 (1993-03)(Sega-Ozisoft)(AU)[a]</description>
+		<rom name="Megazone - Issue 26 (1993-03)(Sega-Ozisoft)(AU)[a].pdf" size="118339562" crc="377171b0" md5="11f594dbbc52a0b68b48231e9a49699e" sha1="8f5ac010077846e9af8f8bef4c0091b3250c60fa"/>
+	</game>
+	<game name="Megazone - Issue 27 (1993-04)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 27 (1993-04)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 27 (1993-04)(Sega-Ozisoft)(AU).pdf" size="287729187" crc="b454161e" md5="51815a872d7649395468296eb2901d0f" sha1="ac89baa44df92c103c5de66cbb9654e8fbec86db"/>
+	</game>
+	<game name="Megazone - Issue 28 (1993-06)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 28 (1993-06)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 28 (1993-06)(Sega-Ozisoft)(AU).pdf" size="292241907" crc="59da4b30" md5="7b9b28f80c91b31ea4e0ccfda7a40368" sha1="1fcc5089db09331ce34c53d77af472481b0f8634"/>
+	</game>
+	<game name="Megazone - Issue 29 (1993-07)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 29 (1993-07)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 29 (1993-07)(Sega-Ozisoft)(AU).pdf" size="352770712" crc="ce5ba39e" md5="61178067b99edf31953400c7c5dde119" sha1="65216f4c26482bc98ee84c940a098681375299dc"/>
+	</game>
+	<game name="Megazone - Issue 30 (1993-08)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 30 (1993-08)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 30 (1993-08)(Sega-Ozisoft)(AU).pdf" size="288727648" crc="578fd9fd" md5="18365cff9b6b9ecc9ea20c7a5ce60f76" sha1="adf3ad33631d48ba634d90e8655fa0c971a69a0c"/>
+	</game>
+	<game name="Megazone - Issue 31 (1993-09)(Sega-Ozisoft)(AU)">
+		<description>Megazone - Issue 31 (1993-09)(Sega-Ozisoft)(AU)</description>
+		<rom name="Megazone - Issue 31 (1993-09)(Sega-Ozisoft)(AU).pdf" size="280410045" crc="d4919292" md5="95e96a211b39067272499550aa40d3b1" sha1="5d8cc698aee565d0a8e2939ed77a9cc6d03646b1"/>
+	</game>
+	<game name="Megazone - Issue 32 (1993-10)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 32 (1993-10)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 32 (1993-10)(Mason Stewart Publishing)(AU).pdf" size="171000984" crc="51f9969a" md5="033e42a559bb68a1aa1df0c9276f8408" sha1="30b5296d0c68cb834d91f687935ccf424094c640"/>
+	</game>
+	<game name="Megazone - Issue 33 (1993-11)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 33 (1993-11)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 33 (1993-11)(Mason Stewart Publishing)(AU).pdf" size="127487664" crc="1b529431" md5="306cde7626a5766af0f6d108fd011ca0" sha1="d2ed5e0a8796820744fd11635a9911e731e3431e"/>
+	</game>
+	<game name="Megazone - Issue 34 (1993-12)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 34 (1993-12)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 34 (1993-12)(Mason Stewart Publishing)(AU).pdf" size="134750060" crc="c163c8fd" md5="3b302440c68d3281467e20e2a3f95455" sha1="05ca165731ec14f9d49416577309910f350f9e23"/>
+	</game>
+	<game name="Megazone - Issue 35 (1994-01)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 35 (1994-01)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 35 (1994-01)(Mason Stewart Publishing)(AU).pdf" size="144772433" crc="72e38c12" md5="58e36f3ec569ecd5a7562983e61ac52e" sha1="a1bfff8bbe0f334df9fb7114b69a8c0d9c06f5b8"/>
+	</game>
+	<game name="Megazone - Issue 36 (1994-02)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 36 (1994-02)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 36 (1994-02)(Mason Stewart Publishing)(AU).pdf" size="133586643" crc="9958d230" md5="905287192074bd38341f429c626e4d35" sha1="bb9bec04bc91876495eafeb76536fb8bf70cea25"/>
+	</game>
+	<game name="Megazone - Issue 37 (1994-03)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 37 (1994-03)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 37 (1994-03)(Mason Stewart Publishing)(AU).pdf" size="191556865" crc="05b8096a" md5="19e7a0f32561f3c7724fc2048c9b9bc0" sha1="fb0fa2df2ee8f6fedf69bb68dc848d6d9280a50c"/>
+	</game>
+	<game name="Megazone - Issue 38 (1994-04)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 38 (1994-04)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 38 (1994-04)(Mason Stewart Publishing)(AU).pdf" size="141377006" crc="465bd499" md5="aed95a324173a3beeb8996ddf2c252b0" sha1="a588b1f36d46ee808afc29358c907a184a541291"/>
+	</game>
+	<game name="Megazone - Issue 39 (1994-05)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 39 (1994-05)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 39 (1994-05)(Mason Stewart Publishing)(AU).pdf" size="146107936" crc="51c4a197" md5="dcc20698fd413a7ed43fc571643c03ac" sha1="d17a1a4e06fb5b7530bdea5523a5092ab6628e74"/>
+	</game>
+	<game name="Megazone - Issue 40 (1994-06)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 40 (1994-06)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 40 (1994-06)(Mason Stewart Publishing)(AU).pdf" size="158834298" crc="9d733fb7" md5="165e64db6c1d237760cedee1b9541520" sha1="d43d84fe89d63b56170d9ba15ca9612abbc6c52f"/>
+	</game>
+	<game name="Megazone - Issue 41 (1994-07)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 41 (1994-07)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 41 (1994-07)(Mason Stewart Publishing)(AU).pdf" size="145762168" crc="9b75d972" md5="7376cbcd985cadfa5abafce247457b1a" sha1="29725d90510a00efeacbcb466536302896d083f4"/>
+	</game>
+	<game name="Megazone - Issue 42 (1994-08)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 42 (1994-08)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 42 (1994-08)(Mason Stewart Publishing)(AU).pdf" size="162397979" crc="d5bd09e2" md5="f1762387d4d796eb41bb9cb7a0b270ae" sha1="1cadecf026b793e91179cca358d94ef672f8c055"/>
+	</game>
+	<game name="Megazone - Issue 43 (1994-09)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 43 (1994-09)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 43 (1994-09)(Mason Stewart Publishing)(AU).pdf" size="163373700" crc="94b03083" md5="221f96cbf159166a0bc3751eee5eb14a" sha1="a8b9fa7c1b27e7928b5bd6429cefd341a51994c8"/>
+	</game>
+	<game name="Megazone - Issue 44 (1994-10)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 44 (1994-10)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 44 (1994-10)(Mason Stewart Publishing)(AU).pdf" size="133681514" crc="23053f05" md5="1aaeeecc42d171b015ae2c17388b1678" sha1="c7aaab5c72c01d2f3625e4962287697393cf3d16"/>
+	</game>
+	<game name="Megazone - Issue 45 (1994-11)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 45 (1994-11)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 45 (1994-11)(Mason Stewart Publishing)(AU).pdf" size="138853148" crc="65a25468" md5="3c9cd47d17cc26c82a110966746661cc" sha1="3c021ddb0aa4c50f4d965b489982c594f9102696"/>
+	</game>
+	<game name="Megazone - Issue 46 (1994-12)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 46 (1994-12)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 46 (1994-12)(Mason Stewart Publishing)(AU).pdf" size="132945716" crc="989993f7" md5="873deca1940603b84a27a9d8a487af88" sha1="9e061fca89bd8cecb519fdb250d58d0264c77e49"/>
+	</game>
+	<game name="Megazone - Issue 47 (1995-01)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 47 (1995-01)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 47 (1995-01)(Mason Stewart Publishing)(AU).pdf" size="141921618" crc="8ce36536" md5="a3c09a2637411238c30ded328acb59cb" sha1="6bf70cf334ce74853defec8c461b01d47c17e6fb"/>
+	</game>
+	<game name="Megazone - Issue 48 (1995-02)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 48 (1995-02)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 48 (1995-02)(Mason Stewart Publishing)(AU).pdf" size="139849599" crc="57fb7121" md5="e74d4861ff9d4c97affdafc8abf0b7f3" sha1="821d40f53e99a1e7253679cd1f522c1d7c18d88f"/>
+	</game>
+	<game name="Megazone - Issue 49 (1995-03)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 49 (1995-03)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 49 (1995-03)(Mason Stewart Publishing)(AU).pdf" size="155970507" crc="7489e84a" md5="e6ebf9c9a3dc9911ba72ec020c6986af" sha1="6df351638f636b213f20b3943e3c21955194cb63"/>
+	</game>
+	<game name="Megazone - Issue 50 (1995-04)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 50 (1995-04)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 50 (1995-04)(Mason Stewart Publishing)(AU).pdf" size="135433706" crc="50d0377a" md5="7b777fb156c7e676adcd1c8bcdbb3463" sha1="5205166dd8426080d4905fc70d263046141b3862"/>
+	</game>
+	<game name="Megazone - Issue 51 (1995-05)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 51 (1995-05)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 51 (1995-05)(Mason Stewart Publishing)(AU).pdf" size="133570410" crc="c8dae51c" md5="2b9665c6cc06aac3b7a082e0531486f6" sha1="766da4fe7fba3daf8fd286a0d1b36122076b6216"/>
+	</game>
+	<game name="Megazone - Issue 52 (1995-06)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 52 (1995-06)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 52 (1995-06)(Mason Stewart Publishing)(AU).pdf" size="131237250" crc="88ab0557" md5="bc9f213b522b89ec82a41b3181e1601e" sha1="dabfb2f39f11d46ae997beddd9af2e5984b1b36d"/>
+	</game>
+	<game name="Megazone - Issue 53 (1995-07)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 53 (1995-07)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 53 (1995-07)(Mason Stewart Publishing)(AU).pdf" size="141080014" crc="2416a3b4" md5="9077f57e86e6aa07fd51c7f669864fe0" sha1="2c50afae3b923f054de001db9e76af572a5130c8"/>
+	</game>
+	<game name="Megazone - Issue 54 (1995-08)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 54 (1995-08)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 54 (1995-08)(Mason Stewart Publishing)(AU).pdf" size="133129147" crc="01a0fae3" md5="0b56210eed943b4879f89e66a85bfa04" sha1="a186c874ce608ccef93564db8159485ec953558b"/>
+	</game>
+	<game name="Megazone - Issue 55 (1995-09)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 55 (1995-09)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 55 (1995-09)(Mason Stewart Publishing)(AU).pdf" size="145813992" crc="bfacbbe6" md5="8c38d3efd3b718ae01b97bba0b29402b" sha1="b56c5bd0de5a6ce9ca90587a8f4e547d13d9d0dc"/>
+	</game>
+	<game name="Megazone - Issue 56 (1995-10)(Mason Stewart Publishing)(AU)">
+		<description>Megazone - Issue 56 (1995-10)(Mason Stewart Publishing)(AU)</description>
+		<rom name="Megazone - Issue 56 (1995-10)(Mason Stewart Publishing)(AU).pdf" size="153706193" crc="823fd3c1" md5="93272310cfbbe6f802d624551f5e41b9" sha1="830e2fa5b1d5f46d4d765611d8c12c96870946a6"/>
+	</game>
+	<game name="Megazone - Issue 56 (1995-10)(Mason Stewart Publishing)(AU)[a]">
+		<description>Megazone - Issue 56 (1995-10)(Mason Stewart Publishing)(AU)[a]</description>
+		<rom name="Megazone - Issue 56 (1995-10)(Mason Stewart Publishing)(AU)[a].pdf" size="33306493" crc="b8755103" md5="ec2dced3af7c08f0caa6331ad6a42139" sha1="1085232c0065ebbdd3af841c27a26d4ad3a7a8fe"/>
+	</game>
+	<game name="Megazone Hottest 100, The (1994-03)(Mason Stewart Publishing)(AU)[supplement issue 37]">
+		<description>Megazone Hottest 100, The (1994-03)(Mason Stewart Publishing)(AU)[supplement issue 37]</description>
+		<rom name="Megazone Hottest 100, The (1994-03)(Mason Stewart Publishing)(AU)[supplement issue 37].pdf" size="10961339" crc="76025e60" md5="e0d8289058a1087a06c8a8dcb7fb1fa9" sha1="e01e1deaed9f6880fc58ab084491bdd9b87df5ef"/>
+	</game>
+	<game name="Sega Megazone Special (1995-02)(Mason Stewart Publishing)(AU)[supplement issue 48]">
+		<description>Sega Megazone Special (1995-02)(Mason Stewart Publishing)(AU)[supplement issue 48]</description>
+		<rom name="Sega Megazone Special (1995-02)(Mason Stewart Publishing)(AU)[supplement issue 48].pdf" size="4074163" crc="f62df85c" md5="62fea71eda0207562eeac86a305a5a19" sha1="5d477ebe18a7c2e26daa0693b3cf1eca21d5d695"/>
+	</game>
+	<game name="Sega MegaZone Special (1995-07)(Mason Stewart Publishing)(AU)[supplement issue 53]">
+		<description>Sega MegaZone Special (1995-07)(Mason Stewart Publishing)(AU)[supplement issue 53]</description>
+		<rom name="Sega MegaZone Special (1995-07)(Mason Stewart Publishing)(AU)[supplement issue 53].pdf" size="6775325" crc="d2d58110" md5="79421a9a4d321779535a0c72fdba0b6b" sha1="6705719894645bdabd452714f71d74495d0b1224"/>
+	</game>
+	<game name="Sega Megazone Special (1995-08)(Mason Stewart Publishing)(AU)[supplement issue 54]">
+		<description>Sega Megazone Special (1995-08)(Mason Stewart Publishing)(AU)[supplement issue 54]</description>
+		<rom name="Sega Megazone Special (1995-08)(Mason Stewart Publishing)(AU)[supplement issue 54].pdf" size="5136127" crc="7caf0728" md5="41f8df94eec2fba4d61867b5437a0b19" sha1="eda4a5a5948040ff9d18c61c6cc3c91f7fcbaf98"/>
+	</game>
+</datafile>

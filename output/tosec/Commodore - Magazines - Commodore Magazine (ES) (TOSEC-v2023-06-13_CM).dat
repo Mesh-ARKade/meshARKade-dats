@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore - Magazines - Commodore Magazine (ES)</name>
+		<description>Commodore - Magazines - Commodore Magazine (ES) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Commodore Magazine - Ano 1 N.01 (1984-03)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 1 N.01 (1984-03)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 1 N.01 (1984-03)(Publinformatica)(ES).pdf" size="48228091" crc="cabf3185" md5="7257191697fa17221c0d2f2bf2a3b726" sha1="aeb7798129c726de6d9ee3cd6c8fd2d5e2ccc4e1"/>
+	</game>
+	<game name="Commodore Magazine - Ano 1 N.02 (1984-04)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 1 N.02 (1984-04)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 1 N.02 (1984-04)(Publinformatica)(ES).pdf" size="61960465" crc="34650de1" md5="d2c30edf72acc5f2a31f18b234ecd845" sha1="ea1c76988f2183939e6076d3570bcbe08946194d"/>
+	</game>
+	<game name="Commodore Magazine - Ano 1 N.03 (1984-05)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 1 N.03 (1984-05)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 1 N.03 (1984-05)(Publinformatica)(ES).pdf" size="40198854" crc="d62d45de" md5="fba21c65f647ad1dd5a185c5267f941d" sha1="1e2329cec78d90ba6f2672c96e7a2b79b25c92a2"/>
+	</game>
+	<game name="Commodore Magazine - Ano 1 N.09 (1984-11)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 1 N.09 (1984-11)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 1 N.09 (1984-11)(Publinformatica)(ES).pdf" size="47131426" crc="5efedde3" md5="7589d200592f3094969a3593dc45d338" sha1="4dae31fc13e9959e0372e1ee9c220619061f9bb7"/>
+	</game>
+	<game name="Commodore Magazine - Ano 1 N.10 (1984-12)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 1 N.10 (1984-12)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 1 N.10 (1984-12)(Publinformatica)(ES).pdf" size="48261376" crc="c0fae9be" md5="8836e07b73b3697e3059dd4388b119e7" sha1="8716f1cc1bebd4ea1644dcfdd26449fb7883f824"/>
+	</game>
+	<game name="Commodore Magazine - Ano 1 N.11 (1985-01)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 1 N.11 (1985-01)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 1 N.11 (1985-01)(Publinformatica)(ES).pdf" size="47421395" crc="646ab784" md5="f89bfe5bc34d9c22b1a486a3032b3bb3" sha1="2e121c184700b1d8b58d8ba52f441a308bdad50d"/>
+	</game>
+	<game name="Commodore Magazine - Ano 1 N.12 (1985-02)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 1 N.12 (1985-02)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 1 N.12 (1985-02)(Publinformatica)(ES).pdf" size="48952210" crc="96d864c4" md5="3921642e4a74fd91cee73a046d33453c" sha1="5e6af0cc722fca596bde14c8d9d35cc4464a71cf"/>
+	</game>
+	<game name="Commodore Magazine - Ano 2 N.13 (1985-03)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 2 N.13 (1985-03)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 2 N.13 (1985-03)(Publinformatica)(ES).pdf" size="47072205" crc="9d3f2af8" md5="3cce97d2f6992d8d72889a3e18116a7e" sha1="210f0cbb896c7b714fc38b43a8be985c210e27c2"/>
+	</game>
+	<game name="Commodore Magazine - Ano 2 N.14 (1985-04)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 2 N.14 (1985-04)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 2 N.14 (1985-04)(Publinformatica)(ES).pdf" size="49683776" crc="b1f37d8c" md5="aec59f4fd26e9cabb4bb55be305ccb84" sha1="921f2984bd2fa1bde1d47046da6c0859c1bfc242"/>
+	</game>
+	<game name="Commodore Magazine - Ano 2 N.15 (1985-05)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 2 N.15 (1985-05)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 2 N.15 (1985-05)(Publinformatica)(ES).pdf" size="48280383" crc="3bc491d9" md5="4174a739d8d96c26176b60a8ef4df0ba" sha1="563c776192ffd7e45c55e9ef76f5cc7d98119d96"/>
+	</game>
+	<game name="Commodore Magazine - Ano 2 N.17 (1985-07)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 2 N.17 (1985-07)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 2 N.17 (1985-07)(Publinformatica)(ES).pdf" size="48362343" crc="32310cc2" md5="098397c279c255f028e25bc3116ab037" sha1="edb8e935d943052bf6de896f3bfc892c09490055"/>
+	</game>
+	<game name="Commodore Magazine - Ano 2 N.18 (1985-08)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 2 N.18 (1985-08)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 2 N.18 (1985-08)(Publinformatica)(ES).pdf" size="30014536" crc="9c81719d" md5="13d031391175dfa2b01f8f1a0e9d47fc" sha1="9456fe40148701c7f2765dd9970706ab8c842e9b"/>
+	</game>
+	<game name="Commodore Magazine - Ano 2 N.19 (1985-09)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 2 N.19 (1985-09)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 2 N.19 (1985-09)(Publinformatica)(ES).pdf" size="47177998" crc="bd6df153" md5="c513dd4af496bbdc3a5f41a7bc833774" sha1="36668ed980b1fac7eccabd35c78b9b02daaca5a3"/>
+	</game>
+	<game name="Commodore Magazine - Ano 2 N.20 (1985-10)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 2 N.20 (1985-10)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 2 N.20 (1985-10)(Publinformatica)(ES).pdf" size="46379108" crc="b1382d18" md5="e5899cbeec578b843a7c961959fcac1f" sha1="6c431fcfd127d68b7f43eef19206d1675a69a943"/>
+	</game>
+	<game name="Commodore Magazine - Ano 2 N.22 (1985-12)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 2 N.22 (1985-12)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 2 N.22 (1985-12)(Publinformatica)(ES).pdf" size="48305285" crc="d7143a8a" md5="43574074ac1ce5ee010f653707f56e1a" sha1="324aa711f17fc69d5a0bb0c172e51b56fc702b8c"/>
+	</game>
+	<game name="Commodore Magazine - Ano 2 N.23 (1986-01)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 2 N.23 (1986-01)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 2 N.23 (1986-01)(Publinformatica)(ES).pdf" size="50432262" crc="d6be09ba" md5="171952b08f614f8b10a4446e3e8cc4ca" sha1="b7e2a1e9ffdb793a5429fe2f4601473d1cf1099b"/>
+	</game>
+	<game name="Commodore Magazine - Ano 3 N.25 (1986-03)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 3 N.25 (1986-03)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 3 N.25 (1986-03)(Publinformatica)(ES).pdf" size="50652852" crc="d77ba770" md5="99b1fea2f3e59143be8c4e4131ec2c3c" sha1="695a5b7beeaa2bfd1c046d0b4965e01f2b8b0d44"/>
+	</game>
+	<game name="Commodore Magazine - Ano 3 N.26 (1986-04)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 3 N.26 (1986-04)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 3 N.26 (1986-04)(Publinformatica)(ES).pdf" size="50994745" crc="0ee009d1" md5="8030079ef9a1e66517e46e4604f0fc7c" sha1="d3f86eeea36d70942d30aa27aae69435c1bae910"/>
+	</game>
+	<game name="Commodore Magazine - Ano 3 N.27 (1986-05)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 3 N.27 (1986-05)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 3 N.27 (1986-05)(Publinformatica)(ES).pdf" size="49539731" crc="857c902b" md5="891a0df5169cdcf6b4f4613e474c4aea" sha1="b4441c03352b3d576d07decd497a97d2067b9a74"/>
+	</game>
+	<game name="Commodore Magazine - Ano 3 N.28 (1986-06)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 3 N.28 (1986-06)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 3 N.28 (1986-06)(Publinformatica)(ES).pdf" size="52658837" crc="8f9aabf4" md5="87f0f94cc13ace6b4323fa72db7122f2" sha1="c20213d9e975de01493c89c75fccb96cee7a3c94"/>
+	</game>
+	<game name="Commodore Magazine - Ano 3 N.29 (1986-07)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 3 N.29 (1986-07)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 3 N.29 (1986-07)(Publinformatica)(ES).pdf" size="51618594" crc="0f776247" md5="effcf40719cc7d921aaf8e33c3b48437" sha1="eb8c63c0e9789152b13364fa1c5b6d4a0a205d3d"/>
+	</game>
+	<game name="Commodore Magazine - Ano 3 N.31 (1986-09)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 3 N.31 (1986-09)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 3 N.31 (1986-09)(Publinformatica)(ES).pdf" size="53333809" crc="c91fe3f9" md5="3cd4cb1ccda167c871651fe8681f1182" sha1="24fbbde4e5ce945313f55141db423acb214dafea"/>
+	</game>
+	<game name="Commodore Magazine - Ano 3 N.32 (1986-10)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 3 N.32 (1986-10)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 3 N.32 (1986-10)(Publinformatica)(ES).pdf" size="53098423" crc="0c876e9e" md5="7ddf6111e853c6609f0f6964ded833d2" sha1="2dd93e4536a686b90f38d9832e86a173174a6fef"/>
+	</game>
+	<game name="Commodore Magazine - Ano 3 N.33 (1986-11)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 3 N.33 (1986-11)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 3 N.33 (1986-11)(Publinformatica)(ES).pdf" size="52194974" crc="b8a9c198" md5="e07f260aeb4cbc6dc4225a0e0be5ef54" sha1="9ebc6fb7fb27cdc48a3a2928d5d7c9007cab8577"/>
+	</game>
+	<game name="Commodore Magazine - Ano 3 N.34 (1986-12)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 3 N.34 (1986-12)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 3 N.34 (1986-12)(Publinformatica)(ES).pdf" size="52672764" crc="96fc711e" md5="343936d44b74eed28f89499043aadd46" sha1="dbdd17090ccbb4f117f6ebb3fe9829b9f5764f65"/>
+	</game>
+	<game name="Commodore Magazine - Ano 3 N.35 (1987-01)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 3 N.35 (1987-01)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 3 N.35 (1987-01)(Publinformatica)(ES).pdf" size="50482027" crc="c761bc58" md5="f5a35e295986e311cb35b9b3ad3b7efa" sha1="85e96c79107efb985b81ea68edab73084f7e6ef0"/>
+	</game>
+	<game name="Commodore Magazine - Ano 4 N.36 (1987-02)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 4 N.36 (1987-02)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 4 N.36 (1987-02)(Publinformatica)(ES).pdf" size="47581658" crc="2f080cce" md5="5bec47c15c69088afa174d323df6157c" sha1="5bdac0eb05037ff87e66348f7bae342385311ea5"/>
+	</game>
+	<game name="Commodore Magazine - Ano 4 N.37 (1987-03)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 4 N.37 (1987-03)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 4 N.37 (1987-03)(Publinformatica)(ES).pdf" size="50109754" crc="5ae2f857" md5="fd105b3eb49ec8496265f7251ac17fb4" sha1="547569600c9a59d0b49ea3c0abc1339a34eee360"/>
+	</game>
+	<game name="Commodore Magazine - Ano 4 N.38 (1987-04)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 4 N.38 (1987-04)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 4 N.38 (1987-04)(Publinformatica)(ES).pdf" size="48158286" crc="bfde1928" md5="80a61a8695b71110b0172239a5109255" sha1="8ff8c62150bb5693c59f324cc27e885c3c9415f0"/>
+	</game>
+	<game name="Commodore Magazine - Ano 4 N.39 (1987-05)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 4 N.39 (1987-05)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 4 N.39 (1987-05)(Publinformatica)(ES).pdf" size="68097141" crc="fe70a973" md5="00796b9c3bf55a533d80afc93d72aa4e" sha1="0b32c950cf3896b0f79fe70233c7a9dd93cc96fd"/>
+	</game>
+	<game name="Commodore Magazine - Ano 4 N.40 (1987-06)(Publinformatica)(ES)">
+		<description>Commodore Magazine - Ano 4 N.40 (1987-06)(Publinformatica)(ES)</description>
+		<rom name="Commodore Magazine - Ano 4 N.40 (1987-06)(Publinformatica)(ES).pdf" size="81597757" crc="42fcd74d" md5="299498f2a14c821ca1d15df9573a5e3f" sha1="f39127b112f8ad366196244cbaf59366c03d0b94"/>
+	</game>
+</datafile>

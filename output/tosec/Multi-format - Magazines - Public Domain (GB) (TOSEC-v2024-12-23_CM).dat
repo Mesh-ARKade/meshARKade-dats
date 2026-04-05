@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Public Domain (GB)</name>
+		<description>Multi-format - Magazines - Public Domain (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Public Domain - Issue 06 (1992-05)(Future Publishing)(GB)">
+		<description>Public Domain - Issue 06 (1992-05)(Future Publishing)(GB)</description>
+		<rom name="Public Domain - Issue 06 (1992-05)(Future Publishing)(GB).pdf" size="256584509" crc="b71cc04f" md5="19293f6f58bb9dd7f4fea5ac50dee346" sha1="b06c0fa947424b7a1f9476a2fdf60ef59a13a72a"/>
+	</game>
+</datafile>

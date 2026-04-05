@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - MicroHobby (ES)</name>
+		<description>Sinclair ZX Spectrum - Magazines - MicroHobby (ES) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MicroHobby - Ano 1 N.001 (1984-11-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 1 N.001 (1984-11-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 1 N.001 (1984-11-05)(Hobby Press)(ES).pdf" size="10008288" crc="afffef23" md5="9040916611ba9a6df1dec76b7bdb810a" sha1="2aefe205d4fc347f318df8c0bf72a2a944f7a55b"/>
+	</game>
+	<game name="MicroHobby - Ano 1 N.002 (1984-11-13)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 1 N.002 (1984-11-13)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 1 N.002 (1984-11-13)(Hobby Press)(ES).pdf" size="9136789" crc="8d1d0d10" md5="61a29e9fa2fd89c2e76c69696d32d9a9" sha1="c76cbab977f4f8ca25c67559138d0ed3db74c3cb"/>
+	</game>
+	<game name="MicroHobby - Ano 1 N.003 (1984-11-20)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 1 N.003 (1984-11-20)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 1 N.003 (1984-11-20)(Hobby Press)(ES).pdf" size="9816606" crc="4b44e1fb" md5="8e6df4af5010398a361dd52f7364917f" sha1="e5028b43d65db499242f805b9d5ca18354a0f786"/>
+	</game>
+	<game name="MicroHobby - Ano 1 N.004 (1984-11-26)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 1 N.004 (1984-11-26)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 1 N.004 (1984-11-26)(Hobby Press)(ES).pdf" size="9594100" crc="798d1eb0" md5="c61d0925250a33585de340d0f80f8488" sha1="488149b68cabd65937d2b0e018865c25c7d9779c"/>
+	</game>
+	<game name="MicroHobby - Ano 1 N.005 (1984-12-04)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 1 N.005 (1984-12-04)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 1 N.005 (1984-12-04)(Hobby Press)(ES).pdf" size="10092665" crc="a0cc5dcd" md5="9a76a6da5c083f1dcae1350d4282a8a1" sha1="0c87f477858831fecd5a0c93157d43327ce72305"/>
+	</game>
+	<game name="MicroHobby - Ano 1 N.006 (1984-12-11)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 1 N.006 (1984-12-11)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 1 N.006 (1984-12-11)(Hobby Press)(ES).pdf" size="11492339" crc="33317e97" md5="da16fec5cee0bdedce10a43f1b8b6a4e" sha1="e8f5b32b21b96044ec2f7593ee9d12f0e2c3c52c"/>
+	</game>
+	<game name="MicroHobby - Ano 1 N.007 (1984-12-18)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 1 N.007 (1984-12-18)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 1 N.007 (1984-12-18)(Hobby Press)(ES).pdf" size="10744256" crc="3d5e3cf1" md5="3e8a0dacfdf115432facbd228874e63b" sha1="3cee7c6154992afba5d7eecd42c06735b268df1f"/>
+	</game>
+	<game name="MicroHobby - Ano 1 N.008 (1984-12-25)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 1 N.008 (1984-12-25)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 1 N.008 (1984-12-25)(Hobby Press)(ES).pdf" size="10890856" crc="c8750cb8" md5="a292af56f96b56627919cbce9f038a86" sha1="9ae942ab7b733938b3c19a05298de1a695a85ebe"/>
+	</game>
+	<game name="MicroHobby - Ano 1 N.009 (1985-01-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 1 N.009 (1985-01-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 1 N.009 (1985-01-01)(Hobby Press)(ES).pdf" size="11751885" crc="f1a37d96" md5="3c6c854ed1af977f20dea12454aae8c0" sha1="bebeeb3e8e769ce7b8b10348d78e32742527e21a"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.010 (1985-01-08)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.010 (1985-01-08)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.010 (1985-01-08)(Hobby Press)(ES).pdf" size="13071799" crc="80fd66a3" md5="66ec94ddfffc48d356ad9d7799038c3f" sha1="bf625482fef519e5a76e5cc3681fefc61518e718"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.011 (1985-01-15)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.011 (1985-01-15)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.011 (1985-01-15)(Hobby Press)(ES).pdf" size="10601781" crc="530b844c" md5="4515d6e283f265253f3a0e575813a403" sha1="270359ee533f354e686f147d582dd0e4961c02d4"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.012 (1985-01-22)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.012 (1985-01-22)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.012 (1985-01-22)(Hobby Press)(ES).pdf" size="10537003" crc="e457aad7" md5="81fc1c491970aa9b7473cceab30481c3" sha1="ec6fee54be4ce348d68e9d2c7b13f2c9c3b95416"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.013 (1985-01-29)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.013 (1985-01-29)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.013 (1985-01-29)(Hobby Press)(ES).pdf" size="12362526" crc="c2c21721" md5="fa4738421ecb9b6070d8725c88ed9f34" sha1="66922e4095bd5a54c5f04b63143742d002a9b52e"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.014 (1985-02-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.014 (1985-02-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.014 (1985-02-05)(Hobby Press)(ES).pdf" size="12467741" crc="de37f5fe" md5="89d4a590ae91b7a51b1167b130897228" sha1="2b730dfe8c1a2f7c0defda9c6ab6b291b1dbdb4c"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.015 (1985-02-12)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.015 (1985-02-12)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.015 (1985-02-12)(Hobby Press)(ES).pdf" size="11197751" crc="46deabb8" md5="b44825da1583750d478f5ce0dab5aec4" sha1="713118b17198dd62b965b4fa9a9958b96ddc4f34"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.016 (1985-02-20)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.016 (1985-02-20)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.016 (1985-02-20)(Hobby Press)(ES).pdf" size="11407248" crc="d78a389e" md5="81a4bf46528f5a8a54daf77d154e46a7" sha1="3f8aec57880fc288d92e888f1b340512d3f7054b"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.017 (1985-02-28)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.017 (1985-02-28)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.017 (1985-02-28)(Hobby Press)(ES).pdf" size="11940452" crc="75dff709" md5="e110b67e6b670026a2507e77ee5fcbcb" sha1="6c226a97129172ca972d737fc4a6e2bf5c9ef65d"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.018 (1985-03-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.018 (1985-03-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.018 (1985-03-05)(Hobby Press)(ES).pdf" size="13516901" crc="c6a67788" md5="dce11c5f8e0020cefbdf7beb99c2edeb" sha1="178275dc7e7383ffa9699d43fdebf42651aa9c7d"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.019 (1985-03-12)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.019 (1985-03-12)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.019 (1985-03-12)(Hobby Press)(ES).pdf" size="11987446" crc="565a419d" md5="ecaba6101daf60ec6bb2ec505b647557" sha1="488fc15dbbc8eedde3175f95a5f3f4c02b8a9ae7"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.020 (1985-03-19)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.020 (1985-03-19)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.020 (1985-03-19)(Hobby Press)(ES).pdf" size="11055691" crc="38c7ad60" md5="e1298514bbdff323e6302584c222edab" sha1="9f28ed0ab4858a71bea4a6cadaa170a4b3de3bfb"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.021 (1985-03-26)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.021 (1985-03-26)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.021 (1985-03-26)(Hobby Press)(ES).pdf" size="12286022" crc="1d5fe6fe" md5="8e6b0f19a4be758e593da6e1d8f22b4d" sha1="624b5dbda64fe995f2a1323ee95a4ed5215e2130"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.022 (1985-04-02)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.022 (1985-04-02)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.022 (1985-04-02)(Hobby Press)(ES).pdf" size="11377229" crc="5d1ac457" md5="38f637f330a87b10edfb1fab7a5d49cc" sha1="a86f61625250ee8bd4ea20fa2b53c34b0095d588"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.023 (1985-04-09)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.023 (1985-04-09)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.023 (1985-04-09)(Hobby Press)(ES).pdf" size="11541346" crc="3de9a5d3" md5="5673b6d1ca4d575bf93f7001d18cc8eb" sha1="87422b74b26762abc55517dcd41b8dabaa4814b6"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.024 (1985-04-16)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.024 (1985-04-16)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.024 (1985-04-16)(Hobby Press)(ES).pdf" size="12295808" crc="77fd6266" md5="67b7f82527e2c65485f52dd0b3ea29a2" sha1="99b27a05fa55353b0db345bee5224de69f70b87d"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.025 (1985-04-23)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.025 (1985-04-23)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.025 (1985-04-23)(Hobby Press)(ES).pdf" size="11514318" crc="9602ab1f" md5="1baaf3da673be0ecbaa09e7fb7a3e199" sha1="b11fb6ca3bf70bc6a06e4e6a6d27cb77bf289213"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.026 (1985-04-30)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.026 (1985-04-30)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.026 (1985-04-30)(Hobby Press)(ES).pdf" size="11764740" crc="31817589" md5="702eaeea7163e0b5d160a549815d8a24" sha1="73ed9a135d7aec8ff45c7d2c5635a5b2ba0b6b42"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.027 (1985-05-07)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.027 (1985-05-07)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.027 (1985-05-07)(Hobby Press)(ES).pdf" size="12849932" crc="013eab0c" md5="c917c1d56312b502d1a0430cfd133af6" sha1="484db9d258d5b0a23e4f9e81bea86d95af0a1138"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.028 (1985-05-14)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.028 (1985-05-14)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.028 (1985-05-14)(Hobby Press)(ES).pdf" size="12227542" crc="9cbb6447" md5="93d94f927298a056d358e3050c88268a" sha1="baf9f77d9272b4f2331b9c3b09bbc03527382675"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.029 (1985-05-21)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.029 (1985-05-21)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.029 (1985-05-21)(Hobby Press)(ES).pdf" size="11829321" crc="d88ca364" md5="e599061e502833ea64802a5050eb3529" sha1="13c0bfa36cb36c2c2d4a00f6f218da28a449326f"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.030 (1985-05-28)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.030 (1985-05-28)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.030 (1985-05-28)(Hobby Press)(ES).pdf" size="12749400" crc="b6cea416" md5="8f278ce2e75da8fa54af15a977aedc06" sha1="cbe263554b5d8f443f21477030518317e427ecf8"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.031 (1985-06-04)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.031 (1985-06-04)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.031 (1985-06-04)(Hobby Press)(ES).pdf" size="11409995" crc="9273606e" md5="403674ca94ca6c90fe389f888f3e9b6a" sha1="345b2babb12e60afd47a9f40100351f49887b016"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.032 (1985-06-11)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.032 (1985-06-11)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.032 (1985-06-11)(Hobby Press)(ES).pdf" size="12656828" crc="95097923" md5="c836c14e4e97f9d96e98d4aac5a20857" sha1="1b85baaecee7e9f4b951a75adaa310e07cdfe600"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.033 (1985-06-18)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.033 (1985-06-18)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.033 (1985-06-18)(Hobby Press)(ES).pdf" size="12427693" crc="eabf6257" md5="36c3746eb7628d8e5bb13c19dfb19b2c" sha1="bb4b79b6df80946556e2c20de98dcfa34e86a041"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.034 (1985-06-25)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.034 (1985-06-25)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.034 (1985-06-25)(Hobby Press)(ES).pdf" size="13553479" crc="99acc0b9" md5="db0f4c11330b7c2e3086013ae020830e" sha1="033b2dbe64f2a241acfd4115db23f420246c323e"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.035 (1985-07-02)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.035 (1985-07-02)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.035 (1985-07-02)(Hobby Press)(ES).pdf" size="12182275" crc="002afbda" md5="e70845587ac4f5147d2f8889db4c4cd9" sha1="8b27ae0df7902e3a403493ba93964c19e4163a4b"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.036 (1985-07-09)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.036 (1985-07-09)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.036 (1985-07-09)(Hobby Press)(ES).pdf" size="12092044" crc="a2377114" md5="a1a9bd2fd94fde87daa6163f3ed8628e" sha1="4c66e99a98c4017968f20027b7de75e3c3f7063c"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.037 (1985-07-16)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.037 (1985-07-16)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.037 (1985-07-16)(Hobby Press)(ES).pdf" size="11484813" crc="4d17a001" md5="7a0eb2893228cbaf17ac326970765301" sha1="ee80ea80c0d13c9b29f569878d30b4d88ea496e2"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.038 (1985-07-23)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.038 (1985-07-23)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.038 (1985-07-23)(Hobby Press)(ES).pdf" size="12962607" crc="2b198824" md5="1c4e60cbc40a605e52d437b04d200a73" sha1="a25fb44af95f1e887f24e7da6ed4f048feeca04a"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.039 (1985-07-30)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.039 (1985-07-30)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.039 (1985-07-30)(Hobby Press)(ES).pdf" size="12562188" crc="9c46d03a" md5="1bb13b8734fb28d285fe98bebec03381" sha1="76697defbc423c79339924f15c335a704da807a6"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.040 (1985-08-06)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.040 (1985-08-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.040 (1985-08-06)(Hobby Press)(ES).pdf" size="11947133" crc="708f49ac" md5="d6912ceb31d24fe6909c8975626cd3cb" sha1="779aeb8cd411c2755f5d6816e9392b25d7294940"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.041 (1985-08-20)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.041 (1985-08-20)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.041 (1985-08-20)(Hobby Press)(ES).pdf" size="11061629" crc="3815121e" md5="843da512d753ea673b8866b552b877f4" sha1="5c6fca446fe885b5cd979adefa2f69b6288418a8"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.042 (1985-09-03)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.042 (1985-09-03)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.042 (1985-09-03)(Hobby Press)(ES).pdf" size="12900868" crc="dbbbc3cf" md5="81969b644fce5e3c87328d1e72a0ce75" sha1="4df66d2f1e075fde30aefb3589f1d31b546da81e"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.043 (1985-09-10)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.043 (1985-09-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.043 (1985-09-10)(Hobby Press)(ES).pdf" size="12840082" crc="2f7472cd" md5="bed476fea70e0fee65d9a04e0df365ad" sha1="59357ab0d36d58b1544f0f1093a0fef148596d6e"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.044 (1985-09-17)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.044 (1985-09-17)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.044 (1985-09-17)(Hobby Press)(ES).pdf" size="13201994" crc="6c5a44dd" md5="19da78404b83644ff2304e3987dc2dc9" sha1="6c3501c91ebc2325d17ba45c1d17fd8ce03fb82c"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.045 (1985-09-24)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.045 (1985-09-24)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.045 (1985-09-24)(Hobby Press)(ES).pdf" size="13677467" crc="bee5bf41" md5="abbb10d852e7c659ac3b2b52b5ec8bd5" sha1="3c7c72cd8b6d66a3864aed069c4efcf050843091"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.046 (1985-10-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.046 (1985-10-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.046 (1985-10-01)(Hobby Press)(ES).pdf" size="12014358" crc="ab8c8cb6" md5="553ac1bcc74aafb772e17e58261199b1" sha1="0712c1ebe241f0cf1b7a7cb78ddf2dc8222b628b"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.047 (1985-10-08)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.047 (1985-10-08)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.047 (1985-10-08)(Hobby Press)(ES).pdf" size="12630388" crc="5bbdedf7" md5="5550e03401e851fcedce0ff32783dc07" sha1="66726e211a4325c2e61f2821351839cc9e31cff7"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.048 (1985-10-15)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.048 (1985-10-15)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.048 (1985-10-15)(Hobby Press)(ES).pdf" size="12293363" crc="ad758201" md5="06de27372e9f8a2a05b321e3811eccce" sha1="b4f5c372b69b59ee85f3a246955c30134b48e240"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.049 (1985-10-22)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.049 (1985-10-22)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.049 (1985-10-22)(Hobby Press)(ES).pdf" size="12357792" crc="e2964f93" md5="9448900658b6c66762f68a695f2ac38c" sha1="49ad7f92429691b336cda4104b366c5683439383"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.050 (1985-10-29)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.050 (1985-10-29)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.050 (1985-10-29)(Hobby Press)(ES).pdf" size="12400584" crc="b7b7230c" md5="5c10d254d981c0d8968ddd7b15577994" sha1="74bd67433efdac6e97ab4f375749355d98a87db2"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.051 (1985-11-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.051 (1985-11-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.051 (1985-11-05)(Hobby Press)(ES).pdf" size="12955704" crc="f3f5f033" md5="2ce02f11cfaa4ce753023ec76de2533b" sha1="8e1a2e538320f2862fc7dc2cd38a56f30a8858d1"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.052 (1985-11-12)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.052 (1985-11-12)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.052 (1985-11-12)(Hobby Press)(ES).pdf" size="14882590" crc="d4da4399" md5="5ecc8563019a2362468cc55a3f6c27d9" sha1="bfa9c9060d02342ba79968b686860f59fd037e36"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.053 (1985-11-19)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.053 (1985-11-19)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.053 (1985-11-19)(Hobby Press)(ES).pdf" size="14396525" crc="79930d20" md5="fbd309d80bef40d28793b59d71ec07bb" sha1="940c4199daa51a4ed012a274045411bf15307e90"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.054 (1985-11-26)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.054 (1985-11-26)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.054 (1985-11-26)(Hobby Press)(ES).pdf" size="14264663" crc="b62b62c6" md5="ef1a860a865fcbdfa6b3a427e2872936" sha1="a8bc48d4accaf155ac6a22ec3e135c84dae5dc89"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.055 (1985-12-03)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.055 (1985-12-03)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.055 (1985-12-03)(Hobby Press)(ES).pdf" size="15963605" crc="2375c965" md5="388c5820c493b73a98d7922b3e3e8fae" sha1="d4a5e3ea883dc60f2172d05199273e98a9b7799e"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.056 (1985-12-10)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.056 (1985-12-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.056 (1985-12-10)(Hobby Press)(ES).pdf" size="14538087" crc="0ba4ba4e" md5="03fbec73bd24f4db892c4c5677affec4" sha1="2ff420a53a39022490c884f7605a82b5f9e4546c"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.057 (1985-12-17)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.057 (1985-12-17)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.057 (1985-12-17)(Hobby Press)(ES).pdf" size="19310605" crc="62295038" md5="5e88c5be2ceba81d720e58a71cda8b74" sha1="b53f0df68502a978298e26c899e55d12be2e0d9e"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.058 (1985-12-24)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.058 (1985-12-24)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.058 (1985-12-24)(Hobby Press)(ES).pdf" size="14424517" crc="95e3d6b8" md5="e02bab534289ab26fe9612333a0c9a36" sha1="e1bbf19ac713a060dec1c2e628592f0807846c6c"/>
+	</game>
+	<game name="MicroHobby - Ano 2 N.059 (1985-12-31)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 2 N.059 (1985-12-31)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 2 N.059 (1985-12-31)(Hobby Press)(ES).pdf" size="13577312" crc="1c712501" md5="2c755171b546620f3af7100d418f34a0" sha1="ae21d97d7f9e4c79e65c246f32f2e8d656ec4fb4"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.060 (1986-01-07)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.060 (1986-01-07)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.060 (1986-01-07)(Hobby Press)(ES).pdf" size="12862656" crc="c56f9a89" md5="f1fde959a016357ba8f5d578b9d64bb6" sha1="c600f1af9866255ad32e5a8488074fbce6829a8c"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.061 (1986-01-14)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.061 (1986-01-14)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.061 (1986-01-14)(Hobby Press)(ES).pdf" size="14129952" crc="010c1b20" md5="3f7c7cc06efecb989d3d59c841553655" sha1="30ee97c8daeef10c6eff7c88653af958be1e0aa7"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.062 (1986-01-21)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.062 (1986-01-21)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.062 (1986-01-21)(Hobby Press)(ES).pdf" size="13062627" crc="375fa84f" md5="0bee3bfcc8916aa18009e62aac84886b" sha1="8bbac20c70a303570437c3b3e7343f0eae069bc4"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.063 (1986-01-28)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.063 (1986-01-28)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.063 (1986-01-28)(Hobby Press)(ES).pdf" size="13287907" crc="647f6196" md5="c131ea31515c80a4bdc91a067558349e" sha1="5387061bdc666fdb5363c1dded86e3a464399813"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.064 (1986-02-04)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.064 (1986-02-04)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.064 (1986-02-04)(Hobby Press)(ES).pdf" size="12886669" crc="60c19acb" md5="9b0b50576ebf703943e1576c5e294398" sha1="a1e278964a82af1451a86b00f66eb878f83312ea"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.065 (1986-02-11)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.065 (1986-02-11)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.065 (1986-02-11)(Hobby Press)(ES).pdf" size="13044450" crc="41140cd8" md5="dd8bafd6e13f15a009f495c190e5c2d0" sha1="142a792e074833f277782a17305ec38a97ae7119"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.066 (1986-02-18)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.066 (1986-02-18)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.066 (1986-02-18)(Hobby Press)(ES).pdf" size="12946118" crc="ad0cc3d5" md5="0b48f4d46e935f5923f47ad4ba3b0575" sha1="93b65771c6cd3874ffe83382965c1df6321f49a7"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.067 (1986-02-25)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.067 (1986-02-25)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.067 (1986-02-25)(Hobby Press)(ES).pdf" size="13910393" crc="98a00c04" md5="a87fe8f49ed2a45ad22ef464679cb50a" sha1="d691a0f4b33d559130d1e1e93420c13345f84bc9"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.068 (1986-03-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.068 (1986-03-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.068 (1986-03-05)(Hobby Press)(ES).pdf" size="13189683" crc="a286914f" md5="c03bb66d756824d1a2900b42b75c81ea" sha1="7caaf6de96fa69e37fee45f0a50bb40833fb7aa4"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.069 (1986-03-12)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.069 (1986-03-12)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.069 (1986-03-12)(Hobby Press)(ES).pdf" size="13274798" crc="b5e5b995" md5="5d3cd7974e1395a4b3f92aae21000e2e" sha1="230d03aaf645635169e304a6293d14f842b6adea"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.070 (1986-03-19)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.070 (1986-03-19)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.070 (1986-03-19)(Hobby Press)(ES).pdf" size="13474681" crc="443488ad" md5="0e9839a6440bf723c50b81a8374ff685" sha1="ac8af04866cf7995da00ac78e445c8a9a094d357"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.071 (1986-03-26)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.071 (1986-03-26)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.071 (1986-03-26)(Hobby Press)(ES).pdf" size="12937885" crc="69f7c173" md5="975aac66e10f61eb07a06ee434914525" sha1="490ca240c7194a337f6cf6dcaf1dfca485258253"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.072 (1986-04-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.072 (1986-04-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.072 (1986-04-01)(Hobby Press)(ES).pdf" size="13495471" crc="dd75638f" md5="7d39804c1755308f23d4141cc361857b" sha1="8dce02fa9f10580fe50dd48b53caa657438c4a6a"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.073 (1986-04-08)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.073 (1986-04-08)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.073 (1986-04-08)(Hobby Press)(ES).pdf" size="12471712" crc="04a08bbd" md5="29465a5b8a843987aa119b762782d6dc" sha1="2045d6cca7bab27c110a07f69467dedbd02b089d"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.074 (1986-04-15)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.074 (1986-04-15)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.074 (1986-04-15)(Hobby Press)(ES).pdf" size="13219685" crc="d1da2c1e" md5="5069956a264ae8f91dfaf798d556a07e" sha1="ab4ce6ea6fe31b2f575fa0977a75bc486ab9a3f6"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.075 (1986-04-22)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.075 (1986-04-22)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.075 (1986-04-22)(Hobby Press)(ES).pdf" size="13752980" crc="bb403acc" md5="7ecd80f67266e874b4a3362e40dc35bc" sha1="01486d41a850ef8f021a4f96917413ed5f210527"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.076 (1986-04-29)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.076 (1986-04-29)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.076 (1986-04-29)(Hobby Press)(ES).pdf" size="12800720" crc="f3e5c4da" md5="70f0d7f1032797d890a28fc89b17452f" sha1="ede3013796abce08618d39902a8b47be1457d226"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.077 (1986-05-06)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.077 (1986-05-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.077 (1986-05-06)(Hobby Press)(ES).pdf" size="15022159" crc="f029bf1d" md5="5944b9c16ce0c84a8f45bb4d21e8dc42" sha1="fd34b9f4a9cd86e4c1433c3b14a03f8c95ccdafb"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.078 (1986-05-13)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.078 (1986-05-13)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.078 (1986-05-13)(Hobby Press)(ES).pdf" size="13553616" crc="c19f66ba" md5="92d0e0aecdceb4202cf3e225ebc1ecb5" sha1="d3aecbf3004a065d33176416180a040dadacdf58"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.079 (1986-05-20)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.079 (1986-05-20)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.079 (1986-05-20)(Hobby Press)(ES).pdf" size="12168251" crc="fc86f7e1" md5="132aecd864ad0765e95178782475a701" sha1="dfd38ac78d8f6d02a52b71e523dfe35ca7bbed5d"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.080 (1986-05-27)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.080 (1986-05-27)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.080 (1986-05-27)(Hobby Press)(ES).pdf" size="14112484" crc="06922828" md5="185ff849127be490d11f2185303fd52b" sha1="f44d84c582e8f0f8aff05a3dfbbc6a69f1e82ee8"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.081 (1986-06-03)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.081 (1986-06-03)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.081 (1986-06-03)(Hobby Press)(ES).pdf" size="12381649" crc="fb01c7bb" md5="cdc4293e17b14c4f5950d9759a8fb430" sha1="d460f7ad8a589a8f2435b7c8239a8636767d8241"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.082 (1986-06-10)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.082 (1986-06-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.082 (1986-06-10)(Hobby Press)(ES).pdf" size="14186473" crc="7eb51f5a" md5="c6e251aaf3a6aa8e6ef0ec6b9b3b00a8" sha1="70cf5b8108dcdf027f158732f80e6bd79e2314ab"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.083 (1986-06-17)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.083 (1986-06-17)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.083 (1986-06-17)(Hobby Press)(ES).pdf" size="13857404" crc="58b56b8c" md5="45d0992661068da9eb348aa1367ae1ec" sha1="770631f65e91c558ecb45a8d086b1f2f8b952a13"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.084 (1986-06-24)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.084 (1986-06-24)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.084 (1986-06-24)(Hobby Press)(ES).pdf" size="14727245" crc="21031a68" md5="981193c9dc1b7c65592c099340f06fe9" sha1="107c4bca95f2efe910a2687606d0138864f7bf81"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.085 (1986-07-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.085 (1986-07-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.085 (1986-07-01)(Hobby Press)(ES).pdf" size="14955487" crc="1b0558e7" md5="35f9742aead5c74672fa0ea478724b88" sha1="c67fc55ab0d052b134cf5fef968298d8c8e8b4c0"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.086 (1986-07-08)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.086 (1986-07-08)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.086 (1986-07-08)(Hobby Press)(ES).pdf" size="12900826" crc="1057cde7" md5="dc31b42a359746f5ec65ebfcf14b6d46" sha1="6f40c7e6124677acab653fb25041c831e6fc6c40"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.087 (1986-07-15)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.087 (1986-07-15)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.087 (1986-07-15)(Hobby Press)(ES).pdf" size="12421420" crc="558879c1" md5="ebd680d45cf0a062d7b6af3e3f8c0dda" sha1="a6e2ace959a2f62b36f4f1d9075a1aeed93d9acb"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.088 (1986-07-22)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.088 (1986-07-22)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.088 (1986-07-22)(Hobby Press)(ES).pdf" size="13695735" crc="baf8a811" md5="5bdef663be58aae9be050ac685187a3a" sha1="b893acd4cbbbc0ce16a45b9af565988acd53e6ec"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.089 (1986-07-29)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.089 (1986-07-29)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.089 (1986-07-29)(Hobby Press)(ES).pdf" size="13840945" crc="a4b63519" md5="2325cc350ba6876b75f0c2d51106925a" sha1="03a7e960bd691f149d1b1f332e302752f8836559"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.090 (1986-08-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.090 (1986-08-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.090 (1986-08-05)(Hobby Press)(ES).pdf" size="14122336" crc="3a9081d9" md5="b0ba60edaa40dcca52b6b3f3e180494d" sha1="652033688c550633b25a0956abaac2e30d648929"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.091 (1986-08-19)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.091 (1986-08-19)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.091 (1986-08-19)(Hobby Press)(ES).pdf" size="13570037" crc="0a5a8113" md5="555ddbc7e81d9638c710ec77d6a12921" sha1="f9463de2033ad3dfccbc194eb5f9f29ee3a13ab8"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.092 (1986-09-02)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.092 (1986-09-02)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.092 (1986-09-02)(Hobby Press)(ES).pdf" size="13156243" crc="f67c66cd" md5="84b711c5e9e49cbc027e816d37cf2cda" sha1="e3b962af1c8b017bbc031148826f317417ca9311"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.093 (1986-09-09)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.093 (1986-09-09)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.093 (1986-09-09)(Hobby Press)(ES).pdf" size="12579630" crc="da400541" md5="228f26532550c2d8df5def9cdcc0400d" sha1="6dd83a2623fb58e9771d8773cd3bdcfe9973f33b"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.094 (1986-09-16)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.094 (1986-09-16)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.094 (1986-09-16)(Hobby Press)(ES).pdf" size="13332445" crc="23544f2c" md5="4aea6c459e53fb95464ffa9547c11cb4" sha1="382658bfb7e9a4d25c881ee18539a9d48e38ecd5"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.095 (1986-09-23)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.095 (1986-09-23)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.095 (1986-09-23)(Hobby Press)(ES).pdf" size="12012231" crc="18ba9a4f" md5="fd54815b545bd434b6a108ff6b79dfc3" sha1="4e82e8ebf9eeca3cb648a935286a64eb1242b75d"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.096 (1986-09-30)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.096 (1986-09-30)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.096 (1986-09-30)(Hobby Press)(ES).pdf" size="12132787" crc="964139a8" md5="e458015947b30e07d7556894f5837bb3" sha1="17b72c8d8cd650c8073ea8da70617dda144e6449"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.097 (1986-10-07)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.097 (1986-10-07)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.097 (1986-10-07)(Hobby Press)(ES).pdf" size="11848191" crc="a93895a6" md5="9efb40aa88590c8a09181204ee087144" sha1="1ec8ddbfeecf478fe4ba5ada4275ec4091d23813"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.098 (1986-10-14)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.098 (1986-10-14)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.098 (1986-10-14)(Hobby Press)(ES).pdf" size="11774660" crc="80db4b35" md5="7ad27d31557a29caa4dbfd45b9428d5d" sha1="f3a8717398a87a73b5417023a59837f9c7fbf4ef"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.099 (1986-10-21)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.099 (1986-10-21)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.099 (1986-10-21)(Hobby Press)(ES).pdf" size="11884851" crc="72a6a888" md5="047f880a44251881531827cd637cb772" sha1="9a12825318d9c6b805578ad555902b6bb4c4b9a0"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.100 (1986-10-28)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.100 (1986-10-28)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.100 (1986-10-28)(Hobby Press)(ES).pdf" size="12383303" crc="eb426cec" md5="756ed635af4be41d05bdaad322646c55" sha1="83afe60536a011db81a01e9a76b0af4a028eba85"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.101 (1986-11-04)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.101 (1986-11-04)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.101 (1986-11-04)(Hobby Press)(ES).pdf" size="11929246" crc="c0c9fe30" md5="02e1752798439bfe50a921c2d5e0e922" sha1="d115a3ea7fada04970f5c2983aa724176a316650"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.102 (1986-11-11)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.102 (1986-11-11)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.102 (1986-11-11)(Hobby Press)(ES).pdf" size="13303679" crc="5dd1d3a6" md5="30a1fff39a567d1654543af215766dee" sha1="b8bb02880737f763aa5847a3a42b1f7f0bdc184d"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.103 (1986-11-19)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.103 (1986-11-19)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.103 (1986-11-19)(Hobby Press)(ES).pdf" size="13618402" crc="a60e647a" md5="0fa16ef886040d8a80ae1af67d29d197" sha1="f4d2d4536dc3e23f06592ea119a92f979a736b7f"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.104 (1986-11-26)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.104 (1986-11-26)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.104 (1986-11-26)(Hobby Press)(ES).pdf" size="13506049" crc="bc4b490b" md5="62bd74de02f41ff867c5ba851264fd96" sha1="8fede247a11513d9607a58555e27b5866369db56"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.105 (1986-12-02)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.105 (1986-12-02)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.105 (1986-12-02)(Hobby Press)(ES).pdf" size="13937122" crc="12685dca" md5="ecadd8d013aca214a4e9710e54517e80" sha1="ed28e34a3db3c9e1c5f9c85df96cb24ea1fd0a91"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.106 (1986-12-09)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.106 (1986-12-09)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.106 (1986-12-09)(Hobby Press)(ES).pdf" size="16044920" crc="ac82d2ce" md5="81faf28aacf42b2b0ff7feda6cd49c74" sha1="515a673aaa159bda8b9f95f61493298c93d16431"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.107 (1986-12-16)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.107 (1986-12-16)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.107 (1986-12-16)(Hobby Press)(ES).pdf" size="13547006" crc="afd9c35c" md5="2032a67298af2f05afc3e38d489ecd77" sha1="ae6e94e66ca65f6d05ffe98e51ebfbc0fa43e420"/>
+	</game>
+	<game name="MicroHobby - Ano 3 N.108 (1986-12-23)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 3 N.108 (1986-12-23)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 3 N.108 (1986-12-23)(Hobby Press)(ES).pdf" size="15929531" crc="d7382b2e" md5="0a427177bb2ea269f6b0f303c2beccbc" sha1="906eb02caca6f7ef4a91bf62cccf45982774112a"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.109 (1986-12-30)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.109 (1986-12-30)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.109 (1986-12-30)(Hobby Press)(ES).pdf" size="13552018" crc="4ff4d896" md5="b0810d0ac0084105e58e8be70596c1b0" sha1="c8872f7e3fd4752439dd87fb5d5b8e3323c19a8a"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.110 (1987-01-06)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.110 (1987-01-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.110 (1987-01-06)(Hobby Press)(ES).pdf" size="12360627" crc="d8ccaeb4" md5="2b300f21f875fc195065f4b071d8630b" sha1="49fcdea84f15a8aacec4580ed8fb2e4d76790694"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.111 (1987-01-13)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.111 (1987-01-13)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.111 (1987-01-13)(Hobby Press)(ES).pdf" size="11083394" crc="360ae95d" md5="9a138526955fcbfba66ea96a8f51aecc" sha1="9be8e844456a7a43f2b4d38cd5275a3bd935bea4"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.112 (1987-01-20)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.112 (1987-01-20)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.112 (1987-01-20)(Hobby Press)(ES).pdf" size="11398704" crc="9c52a8eb" md5="bf669cfabadfb5f2ace7b05c418c22b3" sha1="eac28580ac3bbb469a4d782d7a11788e6fae9c13"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.113 (1987-01-27)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.113 (1987-01-27)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.113 (1987-01-27)(Hobby Press)(ES).pdf" size="11540759" crc="029fa810" md5="de69ebb7f3fc2fa20de40a0a3493424f" sha1="8689a8a5c9cefa76a04eda53ec33de2b292d0316"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.114 (1987-02-03)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.114 (1987-02-03)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.114 (1987-02-03)(Hobby Press)(ES).pdf" size="11589167" crc="aa583a65" md5="c786510de1fbcf21eb26168e128a1bfe" sha1="6a3ba144d30c39142da892173301d3781ee1a455"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.115 (1987-02-10)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.115 (1987-02-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.115 (1987-02-10)(Hobby Press)(ES).pdf" size="11079926" crc="d4bf8738" md5="1c096176e240043273aeaf5ecd46e030" sha1="2e7113b8d3d60acfb625175e65bb8a40a166d5d9"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.116 (1987-02-17)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.116 (1987-02-17)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.116 (1987-02-17)(Hobby Press)(ES).pdf" size="11187994" crc="b527dfb1" md5="3b9e9552c9a1c97adce8e66e7a97072b" sha1="93f7bff550caee57528776545f06665006bca81f"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.117 (1987-02-24)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.117 (1987-02-24)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.117 (1987-02-24)(Hobby Press)(ES).pdf" size="10881794" crc="2bbff819" md5="e1f531f48c1b92c4625979e9e4b05dc6" sha1="7221dcb42fb3b7ca7031374c9d8f05fe8b969f2f"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.118 (1987-03-03)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.118 (1987-03-03)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.118 (1987-03-03)(Hobby Press)(ES).pdf" size="12225150" crc="b06b7364" md5="2555409e376e31c444ed5832c5161f3a" sha1="d454178839f41184bc595b6f92161c64794ecfac"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.119 (1987-03-10)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.119 (1987-03-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.119 (1987-03-10)(Hobby Press)(ES).pdf" size="12391363" crc="9b2469ae" md5="496f5be5f622a95382f2bf7b1632cd8f" sha1="0b9d717424e9374dbb36787e7727ee0b4fbda906"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.120 (1987-03-17)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.120 (1987-03-17)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.120 (1987-03-17)(Hobby Press)(ES).pdf" size="11758476" crc="867d9b33" md5="4fa62374f368a21c485d8208aa965073" sha1="d56804cdcb62b16aea75abb5e6a622c21090a38a"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.121 (1987-03-24)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.121 (1987-03-24)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.121 (1987-03-24)(Hobby Press)(ES).pdf" size="11820880" crc="8a2b74f3" md5="4271e5164b4311b06cf2b38a8f904023" sha1="a93117d8bd36b55bb401aa127f47aebf39aec894"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.122 (1987-03-31)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.122 (1987-03-31)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.122 (1987-03-31)(Hobby Press)(ES).pdf" size="11450147" crc="1510ce70" md5="8ceba0d730e6149158244966098775f5" sha1="257ab7e7dae2cccc1196019a8ab979d39718b4b3"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.123 (1987-04-07)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.123 (1987-04-07)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.123 (1987-04-07)(Hobby Press)(ES).pdf" size="11532358" crc="e4c7d021" md5="854dc3d3bb31471c82d52d740a8db8a9" sha1="bdd530305569a12ba35e73c6adafe411bbee980c"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.124 (1987-04-14)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.124 (1987-04-14)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.124 (1987-04-14)(Hobby Press)(ES).pdf" size="11360764" crc="cd1820ae" md5="d30fe2c09133393d19cb14e5fb9d6fdf" sha1="6e931468e88bda9b3d52471a9b61e5654a9bcab2"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.125 (1987-04-21)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.125 (1987-04-21)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.125 (1987-04-21)(Hobby Press)(ES).pdf" size="11968270" crc="a37eab61" md5="aeb6fcedb5f5c8ee93e3711fd438d2aa" sha1="0d2d202519dfe66820515b3b385f0bed1802098e"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.126 (1987-04-28)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.126 (1987-04-28)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.126 (1987-04-28)(Hobby Press)(ES).pdf" size="11826086" crc="06c551a5" md5="cd12ad9662d0fc96a58ea2c5be9f597e" sha1="9a6912318ad7b640c514343fce1fdb89353d8a3a"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.127 (1987-05-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.127 (1987-05-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.127 (1987-05-05)(Hobby Press)(ES).pdf" size="11470674" crc="50a4a5c8" md5="edddddb3001ba95bf601a5e3596a783d" sha1="8d76ad2a315619c1b771ca830b5e1935c2a67a17"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.128 (1987-05-12)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.128 (1987-05-12)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.128 (1987-05-12)(Hobby Press)(ES).pdf" size="11506815" crc="55bb3e55" md5="3b602adb9fd0924b60780ee64bc1ca42" sha1="09ebed5926f42dae16690e44eac8a1bd0fe2e8bd"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.129 (1987-05-19)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.129 (1987-05-19)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.129 (1987-05-19)(Hobby Press)(ES).pdf" size="11134843" crc="98fb3b1e" md5="145af513546ae7d27f399e925355416d" sha1="554ed0bd9a4b7fd6c6a739acabbe40c9b4c83037"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.130 (1987-05-26)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.130 (1987-05-26)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.130 (1987-05-26)(Hobby Press)(ES).pdf" size="11456363" crc="2c1a0fe9" md5="9544b9f7b418177a3794005f0b159421" sha1="98e254c17630937e171b77d1a5e55f9466164733"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.131 (1987-06-02)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.131 (1987-06-02)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.131 (1987-06-02)(Hobby Press)(ES).pdf" size="11289524" crc="83dbc8d4" md5="13ffffc8af9300cadf707877e014efe0" sha1="81561c4a788e29c06a3a8a0754b04517e6e256b8"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.132 (1987-06-09)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.132 (1987-06-09)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.132 (1987-06-09)(Hobby Press)(ES).pdf" size="11211519" crc="6e3b6560" md5="8a090f2f23cf23a40f81f2e4118c71a1" sha1="85e3f9ebff0a0fd787205d4b8188cd959e411600"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.133 (1987-06-16)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.133 (1987-06-16)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.133 (1987-06-16)(Hobby Press)(ES).pdf" size="11547334" crc="e299adce" md5="28ce039c2fb0908ee6d2abe8e2bc0bbb" sha1="ac04656b1d22b4565d5e47ca279057f24621a186"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.134 (1987-06-23)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.134 (1987-06-23)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.134 (1987-06-23)(Hobby Press)(ES).pdf" size="12208439" crc="fd825110" md5="eaf621c8e19961217d01848007fd638b" sha1="1ed461e1cba83a73b19b2405192d3dfb2917702a"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.135 (1987-06-30)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.135 (1987-06-30)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.135 (1987-06-30)(Hobby Press)(ES).pdf" size="11436688" crc="d19ab734" md5="2374f1aba1d2777313dd4e00ba1ee65c" sha1="9f07b2e0abc33919808db9a7200aa79b2b4eb806"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.136 (1987-07-06)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.136 (1987-07-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.136 (1987-07-06)(Hobby Press)(ES).pdf" size="11817507" crc="ab531af3" md5="6468364228f57e164ca52fb4eba18fbf" sha1="4f81ea7a1244aac0243159ad910debe70dfd520d"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.137 (1987-07-13)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.137 (1987-07-13)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.137 (1987-07-13)(Hobby Press)(ES).pdf" size="11829606" crc="3ee87ad5" md5="541b2757990ca3c653e865a52aa47940" sha1="a0b1a057d18717690493a3321be5fb0f68bffca2"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.138 (1987-07-20)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.138 (1987-07-20)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.138 (1987-07-20)(Hobby Press)(ES).pdf" size="11317746" crc="593e0ed3" md5="cf50cef2121a5e76b5a525ff2fc02048" sha1="531c918b85ec5517f3cc739172e8da81b8fcda57"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.139 (1987-07-27)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.139 (1987-07-27)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.139 (1987-07-27)(Hobby Press)(ES).pdf" size="11611359" crc="ee6da427" md5="5b597d33d53ab1a97b8c2b5e1731c455" sha1="2bb4eebd188b81f8519496c31b2386fa381af2e4"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.140 (1987-08-04)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.140 (1987-08-04)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.140 (1987-08-04)(Hobby Press)(ES).pdf" size="11708063" crc="ab557205" md5="9f1370cfd7d8f5e13331b472ad201b30" sha1="1794f99026e8c8d32edc11c45627f9d8f63b5604"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.141 (1987-08-18)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.141 (1987-08-18)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.141 (1987-08-18)(Hobby Press)(ES).pdf" size="11265601" crc="36220bf2" md5="8778f741c1718b4f599b4991e03366a9" sha1="2f2382b71a01d397c8e4fc137397f5891d09e278"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.142 (1987-09-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.142 (1987-09-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.142 (1987-09-01)(Hobby Press)(ES).pdf" size="12024224" crc="34503fc4" md5="43c6a38526ef54cba35f8fcb104ec542" sha1="1add0d85c5ed52a9b8cd9f3a4e273cb71623a507"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.143 (1987-09-08)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.143 (1987-09-08)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.143 (1987-09-08)(Hobby Press)(ES).pdf" size="12277452" crc="7d8fadc8" md5="9f8dbaebee7d804d2b4a1ce3556fa29a" sha1="353ec29fd2471e20ddcaaecf192a144e5cc2ea37"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.144 (1987-09-15)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.144 (1987-09-15)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.144 (1987-09-15)(Hobby Press)(ES).pdf" size="11681285" crc="6f349168" md5="63dde5958decfbd5676e23505f9a2976" sha1="98caa240afde562a1f2c71472cf06aa4990c2992"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.145 (1987-09-22)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.145 (1987-09-22)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.145 (1987-09-22)(Hobby Press)(ES).pdf" size="11627053" crc="8dde557c" md5="8fcdb8f9b5b58970cf09db9c440d1440" sha1="1ef345e833cda5487ccffdeb55598126245f0951"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.146 (1987-09-29)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.146 (1987-09-29)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.146 (1987-09-29)(Hobby Press)(ES).pdf" size="11462451" crc="851d8713" md5="69b33760ecfbc9009442090175799efb" sha1="88a9079e3b958cfe61025b7dda5322e9355eae08"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.147 (1987-10-06)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.147 (1987-10-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.147 (1987-10-06)(Hobby Press)(ES).pdf" size="11765749" crc="5ac87b77" md5="9d221c79892bf999567e36cd106e2f12" sha1="ca11946eab29ef7ad5bad435f1fdca515c3fc1ef"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.148 (1987-10-13)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.148 (1987-10-13)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.148 (1987-10-13)(Hobby Press)(ES).pdf" size="11243999" crc="578129bb" md5="a8e25a61c12ae2669dee15b415898166" sha1="584c5df55827cc44656430e68c2e02e3e00a29dd"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.149 (1987-10-20)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.149 (1987-10-20)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.149 (1987-10-20)(Hobby Press)(ES).pdf" size="11807365" crc="9de4114c" md5="4ba6870cdb38f67d1eb1b72dfe845b1e" sha1="0a66b21f3644d2a3fbd47a4a4265ff00ea387568"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.150 (1987-10-27)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.150 (1987-10-27)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.150 (1987-10-27)(Hobby Press)(ES).pdf" size="14588288" crc="59b6a85f" md5="51d98166ef768dbcb1d3d919f76ca951" sha1="d9cc4aeb0371f29d17f48a1f624b387181c66e61"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.151 (1987-11-03)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.151 (1987-11-03)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.151 (1987-11-03)(Hobby Press)(ES).pdf" size="12466773" crc="9032ed4e" md5="1aecb94b299c71608982b15e64a24681" sha1="c4e8a4cceb32abc5b7a05dddf9a90865a489148e"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.152 (1987-11-10)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.152 (1987-11-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.152 (1987-11-10)(Hobby Press)(ES).pdf" size="12082268" crc="4d5fb76e" md5="7d11c26e4e0c0e0125dcd200d8c33451" sha1="edbf2974e176a6466316e359aec2ea3f0dedd499"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.153 (1987-11-17)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.153 (1987-11-17)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.153 (1987-11-17)(Hobby Press)(ES).pdf" size="12557029" crc="ad32a7bc" md5="34e373e6c7d61d4a2cfb747500f8b9f4" sha1="26e9556f76ccc20cfd32f95262037012ea200cbd"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.154 (1987-11-24)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.154 (1987-11-24)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.154 (1987-11-24)(Hobby Press)(ES).pdf" size="15041070" crc="e54bcf46" md5="655f3df900f512b460b4fad1ac957a0c" sha1="24d493f84ac677cb776266b4dde3bfee3743b6e2"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.155 (1987-12-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.155 (1987-12-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.155 (1987-12-01)(Hobby Press)(ES).pdf" size="17260790" crc="4d90efe3" md5="3a576c091e90b80541081dec090063cf" sha1="e432ca6bdcea4d4d3f98378f8c12a89a9bcd9034"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.156 (1987-12-08)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.156 (1987-12-08)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.156 (1987-12-08)(Hobby Press)(ES).pdf" size="11096732" crc="cc126814" md5="e84e6ad76b8d8a812294296a50eb2549" sha1="c972c0f336efac67c07e29172d2a3bc83d41ea14"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.157 (1987-12-15)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.157 (1987-12-15)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.157 (1987-12-15)(Hobby Press)(ES).pdf" size="16234418" crc="6c03ad2b" md5="06f7d73f15f86cb9d2ba211d8a4295ea" sha1="ae594402803b36b81028e6d1f53d08874e665fe4"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.158 (1987-12-22)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.158 (1987-12-22)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.158 (1987-12-22)(Hobby Press)(ES).pdf" size="14729404" crc="3eda8897" md5="df6ccc07e58e6e62a5510c360af95a1d" sha1="c8c7e2c101e6fd0bd06ad55aad775ddac1685121"/>
+	</game>
+	<game name="MicroHobby - Ano 4 N.159 (1987-12-29)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 4 N.159 (1987-12-29)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 4 N.159 (1987-12-29)(Hobby Press)(ES).pdf" size="14675401" crc="fb32eef0" md5="82c0a14d47c17d2451dd4d35678f645c" sha1="7b574db7b057d2d565abc21226c43aa7a1228e63"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.160 (1988-01-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.160 (1988-01-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.160 (1988-01-05)(Hobby Press)(ES).pdf" size="12141897" crc="9ac65438" md5="dad064f4c185fcbf29d2badaad0ef145" sha1="de937d87737dca9c19d9846da1a1eaf9ab9071a9"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.161 (1988-01-19)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.161 (1988-01-19)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.161 (1988-01-19)(Hobby Press)(ES).pdf" size="22542280" crc="65ed04fc" md5="50820f357664594cabae0e4fb3e70783" sha1="7c338fcbb6a8912eb0d8ffc1e529f80e50a00abf"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.162 (1988-02-02)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.162 (1988-02-02)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.162 (1988-02-02)(Hobby Press)(ES).pdf" size="22483061" crc="7a7a0276" md5="3d99bd9325ef19dd590fdf35580528c8" sha1="3488a4fb92699ae2584d51d636cca4f609ea1872"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.163 (1988-02-16)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.163 (1988-02-16)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.163 (1988-02-16)(Hobby Press)(ES).pdf" size="21988463" crc="17b7a6d7" md5="7754004e9bea6d0815b1fb28ff68d421" sha1="ca18b52558d990be94dd2a0897811c8709f08745"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.164 (1988-03-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.164 (1988-03-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.164 (1988-03-01)(Hobby Press)(ES).pdf" size="21822635" crc="ffa1a094" md5="c11ebd8c74e015aa8d8a8ac6c5d3e4b7" sha1="5e414a3682c7d05e21a253a5941e64b19999af26"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.165 (1988-03-15)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.165 (1988-03-15)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.165 (1988-03-15)(Hobby Press)(ES).pdf" size="23296217" crc="eecd79e5" md5="c552d83b91ec2b4b547d8f31a2b5d1a0" sha1="8340364bce3a918f0e716a096221fe6a418a5e4d"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.166 (1988-03-29)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.166 (1988-03-29)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.166 (1988-03-29)(Hobby Press)(ES).pdf" size="22516100" crc="4dd32a75" md5="752e423f85f97b2d1eaeba0664901b75" sha1="b9b99c3b193ed18f4283f1e0b96d8eaf23490c37"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.167 (1988-04-15)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.167 (1988-04-15)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.167 (1988-04-15)(Hobby Press)(ES).pdf" size="24137999" crc="7c5ecdd6" md5="4d3c8435889d5f424343ba7528614a94" sha1="183377c476304bb6f453aa69b6000c7fd2c5b8c6"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.168 (1988-04-26)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.168 (1988-04-26)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.168 (1988-04-26)(Hobby Press)(ES).pdf" size="23449371" crc="6faa058a" md5="cfa1acf15bf51d4e0b5db179f645e2a4" sha1="704e7bbfc03882691034248f9866569385439c02"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.169 (1988-05-10)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.169 (1988-05-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.169 (1988-05-10)(Hobby Press)(ES).pdf" size="24578578" crc="76133c20" md5="eb3e0d4cc61e09efaa61686cb97d5d69" sha1="f89dc6e0c6750a5b1eae11abde274252a431f9e8"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.170 (1988-05-24)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.170 (1988-05-24)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.170 (1988-05-24)(Hobby Press)(ES).pdf" size="23103451" crc="625122e2" md5="da9c1c6093fa00db481f36037737d7a6" sha1="75b78d3c6a5528a55df1ed2f28bce626a5bdde39"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.171 (1988-06-07)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.171 (1988-06-07)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.171 (1988-06-07)(Hobby Press)(ES).pdf" size="24713425" crc="51807c72" md5="92c9d059b5157fbfe707031916f7371d" sha1="c7fcbafc36e438e08499a161ec34a9cf3fd3a5b2"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.172 (1988-06-21)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.172 (1988-06-21)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.172 (1988-06-21)(Hobby Press)(ES).pdf" size="24006538" crc="a46d3fa1" md5="bcc37de1e259bcdde34020a6e31bbb51" sha1="7177552689f45f9c5169a1bc8ad8de6e84503283"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.173 (1988-07-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.173 (1988-07-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.173 (1988-07-05)(Hobby Press)(ES).pdf" size="23680758" crc="b6da0ab1" md5="891b546d7afb00d5452a59439c22bba2" sha1="0df75a2f7fb7b44aab72bc9e0ae919f7d660ed91"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.174 (1988-07-19)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.174 (1988-07-19)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.174 (1988-07-19)(Hobby Press)(ES).pdf" size="24159272" crc="99a0d49b" md5="7463ddef2906b04496073faca92c260b" sha1="b176ca6e2d49595ef213e041c4c29b3df87e0cd6"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.175 (1988-08-02)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.175 (1988-08-02)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.175 (1988-08-02)(Hobby Press)(ES).pdf" size="29483945" crc="2cd98d83" md5="4179421362f797eee9f7c65548ef0b84" sha1="b4d731e2262ff8872a0e378f27e6ba9e24e061d2"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.176 (1988-09-06)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.176 (1988-09-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.176 (1988-09-06)(Hobby Press)(ES).pdf" size="23223968" crc="1fe64b55" md5="b6b43fd50ce95e4e429fbef29b21f0dc" sha1="6b95daae27e825af81afb18256d54a5dfb337b2b"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.177 (1988-09-20)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.177 (1988-09-20)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.177 (1988-09-20)(Hobby Press)(ES).pdf" size="23620497" crc="9247e81b" md5="9241addde75c78256143ce3516bd55fd" sha1="65bcd82a8b02d55d4c091d4abab33cf9e66889d5"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.178 (1988-10-04)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.178 (1988-10-04)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.178 (1988-10-04)(Hobby Press)(ES).pdf" size="24873623" crc="10c133a4" md5="e65a74ee460ca5e162641b6973cf4388" sha1="a386271316872341eb155eaabf8385b2da5afe95"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.179 (1988-10-18)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.179 (1988-10-18)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.179 (1988-10-18)(Hobby Press)(ES).pdf" size="23282594" crc="632d60a5" md5="b689ad6e93332577ac879196f82185eb" sha1="42f28c837295731bcbf5457cc8e76b2813c49616"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.180 (1988-11-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.180 (1988-11-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.180 (1988-11-01)(Hobby Press)(ES).pdf" size="23694862" crc="34f46688" md5="251a71b574cec88fbedb014a8169ad97" sha1="9115cf63334eae083d8c229f82c53bdd709c03fe"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.181 (1988-11-15)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.181 (1988-11-15)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.181 (1988-11-15)(Hobby Press)(ES).pdf" size="22186096" crc="e83f6d03" md5="2492d4bb1082b0821add8bc4bd3535e0" sha1="66824fe049a93d1430510b0cf058bf6894a3dacd"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.182 (1988-11-29)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.182 (1988-11-29)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.182 (1988-11-29)(Hobby Press)(ES).pdf" size="22000015" crc="67977774" md5="44bb42874cc0e5f6af3ef1b57c16eb01" sha1="7627bcf2f034698cf59a68975054514fc4936330"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.183 (1988-12-13)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.183 (1988-12-13)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.183 (1988-12-13)(Hobby Press)(ES).pdf" size="22458150" crc="37177631" md5="9968893a86106749be9a9544c518b9df" sha1="dc5b09b3c2251d4e649ac3e373030a0c89ea7e48"/>
+	</game>
+	<game name="MicroHobby - Ano 5 N.184 (1989-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 5 N.184 (1989-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 5 N.184 (1989-01)(Hobby Press)(ES).pdf" size="22044952" crc="4a7e7d48" md5="45246facccd1d122df9684dc40670301" sha1="0a169a9c258d5d458c6a74b8a0392315e954e7aa"/>
+	</game>
+	<game name="MicroHobby - Ano 6 N.185 (1989-02)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 6 N.185 (1989-02)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 6 N.185 (1989-02)(Hobby Press)(ES).pdf" size="24161912" crc="e3324d4f" md5="ddcadbd468dfa3d4a771a28ee2f90839" sha1="a1fea485c99920af7ff5f2f4daae33bbb27864ee"/>
+	</game>
+	<game name="MicroHobby - Ano 6 N.186 (1989-03)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 6 N.186 (1989-03)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 6 N.186 (1989-03)(Hobby Press)(ES).pdf" size="23711562" crc="40032280" md5="bb7b4233224290309f3c31e8bb95dc45" sha1="9fadd8f15964ac50878bfc249a1f34260d86305f"/>
+	</game>
+	<game name="MicroHobby - Ano 6 N.187 (1989-04)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 6 N.187 (1989-04)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 6 N.187 (1989-04)(Hobby Press)(ES).pdf" size="23346672" crc="8108d562" md5="60202a261367a9704c94dd279a96e9df" sha1="cfe4c989c92713f813cfe003e9adce3f1196ca5f"/>
+	</game>
+	<game name="MicroHobby - Ano 6 N.188 (1989-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 6 N.188 (1989-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 6 N.188 (1989-05)(Hobby Press)(ES).pdf" size="23741308" crc="42b316de" md5="01f1704553f60c4884367377d7c82550" sha1="80a1c6cdb1d450f0b6a409f6251a02049fb2dc49"/>
+	</game>
+	<game name="MicroHobby - Ano 6 N.189 (1989-06)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 6 N.189 (1989-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 6 N.189 (1989-06)(Hobby Press)(ES).pdf" size="23330653" crc="f33387fe" md5="769e42886d4cb37c8da533c2b76719c7" sha1="bc5a93988ff7e70f791923f2caa9a44fe46cd496"/>
+	</game>
+	<game name="MicroHobby - Ano 6 N.190 (1989-07)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 6 N.190 (1989-07)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 6 N.190 (1989-07)(Hobby Press)(ES).pdf" size="23583552" crc="4b905fc6" md5="d03883c34c2c3b2ea847ca875651bfcf" sha1="6f25357ca353abac2b651ac1ae5c838f3bf5ab77"/>
+	</game>
+	<game name="MicroHobby - Ano 6 N.191 (1989-09)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 6 N.191 (1989-09)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 6 N.191 (1989-09)(Hobby Press)(ES).pdf" size="25334076" crc="8a4ea0dd" md5="ae7c0c54b8c003235129237315a4d1eb" sha1="a130080eb69721390e2ba8abab2e25f06cc71677"/>
+	</game>
+	<game name="MicroHobby - Ano 6 N.192 (1989-10)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 6 N.192 (1989-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 6 N.192 (1989-10)(Hobby Press)(ES).pdf" size="22730940" crc="fe887b47" md5="64e972677f35d7ddcb81e6300f0c14df" sha1="ce1b4b77f0b66f26435dde18ae247acb9cb5d08a"/>
+	</game>
+	<game name="MicroHobby - Ano 6 N.193 (1989-11)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 6 N.193 (1989-11)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 6 N.193 (1989-11)(Hobby Press)(ES).pdf" size="22275756" crc="b19f845e" md5="489de3386f3c44175af1d0441a2a4d51" sha1="c6df98cc93edd8012829ff3fc4ba719fae6f2b0a"/>
+	</game>
+	<game name="MicroHobby - Ano 6 N.194 (1989-12)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 6 N.194 (1989-12)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 6 N.194 (1989-12)(Hobby Press)(ES).pdf" size="23056102" crc="cec07f2a" md5="ec47247341fe341d957eb963ae33332b" sha1="5b5593face4821b8938a104019cdeabe7270947b"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.195 (1990-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.195 (1990-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.195 (1990-01)(Hobby Press)(ES).pdf" size="23158658" crc="f0ed59bb" md5="ec5e8a14513d2478e44f4f0197350844" sha1="36fa70d87d95675b2f7ab9e775a5d61725fb5213"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.196 (1990-02)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.196 (1990-02)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.196 (1990-02)(Hobby Press)(ES).pdf" size="23379950" crc="2933f48f" md5="0f9d00ca045e7cfe8fa8da7bcb26b2dc" sha1="9a32e375e310ecc2c7c74ecf6584cdbf49571c00"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.197 (1990-03)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.197 (1990-03)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.197 (1990-03)(Hobby Press)(ES).pdf" size="22649451" crc="12a16bb7" md5="53345923fbf42f1fcefc6e5aed8b4f82" sha1="3edf35290b991eb146e417508d84e43971aad2b3"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.198 (1990-04)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.198 (1990-04)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.198 (1990-04)(Hobby Press)(ES).pdf" size="22780225" crc="c383ee37" md5="9c112249e14526e44581884c0686ec15" sha1="95087c8e9824d803b92fe126bbfd9bcffc0fc49b"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.199 (1990-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.199 (1990-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.199 (1990-05)(Hobby Press)(ES).pdf" size="23459303" crc="8e99c9a1" md5="3d8cd7cc4f273cdb7092441cc9e1a3ab" sha1="0e3648ec1ee7bdad7a866996ac6e3b58b5e4fa35"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.200 (1990-06)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.200 (1990-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.200 (1990-06)(Hobby Press)(ES).pdf" size="22570396" crc="0e6c7763" md5="b4b9c771d327354ec2c2b4df885f2c4d" sha1="8349185453aac6f479db2fb4f341c0dd3f25efb2"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.201 (1990-07)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.201 (1990-07)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.201 (1990-07)(Hobby Press)(ES).pdf" size="22804093" crc="0e549044" md5="b61da01b9f46a7535d12eab3614a64fd" sha1="304731bccf8a7940f82da30cb96262218749450a"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.202 (1990-09)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.202 (1990-09)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.202 (1990-09)(Hobby Press)(ES).pdf" size="22590844" crc="9642b84f" md5="8bcbd6d028ba6baabf7385fd20bccd29" sha1="3b759bd14d38b9b9c365fdb90adf381bbde8e14a"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.203 (1990-10)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.203 (1990-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.203 (1990-10)(Hobby Press)(ES).pdf" size="22063784" crc="46439dd9" md5="1a61a64cce5cd5b254a8f8f95f36c4ca" sha1="9acf0f1d2f776bd8d70935e6f4d419b112aed599"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.204 (1990-11)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.204 (1990-11)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.204 (1990-11)(Hobby Press)(ES).pdf" size="21910113" crc="c4ee92c8" md5="b81615a6f9e1af51424de26d7e31d3db" sha1="663b3acdde18a9d8ec5ffa31e0505fe1c657be2f"/>
+	</game>
+	<game name="MicroHobby - Ano 7 N.205 (1990-12)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 7 N.205 (1990-12)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 7 N.205 (1990-12)(Hobby Press)(ES).pdf" size="22025398" crc="82b9d9d6" md5="afab960814a9ff437aa71aa539894dfd" sha1="834e546b6b40feaca9806058baa246c5efa244f9"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.206 (1991-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.206 (1991-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.206 (1991-01)(Hobby Press)(ES).pdf" size="22074476" crc="226182ae" md5="e60b6034a60cb792695d8d7ee313520f" sha1="98e97946eff80cfd38b8824f5d246bac4ce7f417"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.207 (1991-02)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.207 (1991-02)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.207 (1991-02)(Hobby Press)(ES).pdf" size="21908787" crc="27cab647" md5="4a21f91e6054e4ec1c792b2f0e221a33" sha1="03b947a3efc304f1e8702e8f3a4c2bba6a0b5695"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.208 (1991-03)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.208 (1991-03)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.208 (1991-03)(Hobby Press)(ES).pdf" size="20979017" crc="8e7748e6" md5="0361860b7d6a03085eca3257e564389a" sha1="f96e8db013129cd25ac902620f55b544ec707b7d"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.209 (1991-04)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.209 (1991-04)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.209 (1991-04)(Hobby Press)(ES).pdf" size="22253714" crc="5439fbf4" md5="23f4eaa6095da085e8d64ea4c8132e28" sha1="321dbf23bf76a93df33bcfa65b15cf1a19063e6a"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.210 (1991-05)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.210 (1991-05)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.210 (1991-05)(Hobby Press)(ES).pdf" size="22800230" crc="a55cb852" md5="aeac9fafe59c57cd710dc6201593e790" sha1="644652bdfd5325ac88f1abe3929d68b514ef44bd"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.211 (1991-06)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.211 (1991-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.211 (1991-06)(Hobby Press)(ES).pdf" size="21278507" crc="3e89913a" md5="abd7ef6abe6ddcab936e1922bb45985e" sha1="190688c38e9bb6fe26bf533fa1737fcea6e911f5"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.212 (1991-07)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.212 (1991-07)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.212 (1991-07)(Hobby Press)(ES).pdf" size="22165596" crc="b54ec50e" md5="98b9e419832fdfbb53cd6152469b788a" sha1="c13479d8ce456cfb6a8b0ef79e8168b6c26c35d0"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.213 (1991-09)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.213 (1991-09)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.213 (1991-09)(Hobby Press)(ES).pdf" size="22764623" crc="fcb95f93" md5="c49168a3121303dca2b76a934c610035" sha1="de3adf011ff1b9dbd7bbb864ad7ff86844dfa7a1"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.214 (1991-10)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.214 (1991-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.214 (1991-10)(Hobby Press)(ES).pdf" size="22751082" crc="6cd69b45" md5="59da604c1b2a09210d254c6c6df33c73" sha1="ffb0a1eac8ce1e5b03b9b259ab633b4776834977"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.215 (1991-11)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.215 (1991-11)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.215 (1991-11)(Hobby Press)(ES).pdf" size="22795005" crc="815a9c02" md5="c4601003bce3766c9e82b3b5c07bc71b" sha1="4da41be4edfe36e778869466d26da23386bcebec"/>
+	</game>
+	<game name="MicroHobby - Ano 8 N.216 (1991-12)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 8 N.216 (1991-12)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 8 N.216 (1991-12)(Hobby Press)(ES).pdf" size="23419969" crc="6c8344bd" md5="2ae8dcdab81e4b8e1c60ba7752df312c" sha1="a1b9eaf120847b6953f5bdc792b0974aee0d252f"/>
+	</game>
+	<game name="MicroHobby - Ano 9 N.217 (1992-01)(Hobby Press)(ES)">
+		<description>MicroHobby - Ano 9 N.217 (1992-01)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby - Ano 9 N.217 (1992-01)(Hobby Press)(ES).pdf" size="23098289" crc="9a3389bd" md5="cf3ef1cb72f653472f6249a8c1268015" sha1="9e45b29ffca9eceb05712a12794dd63b1c501085"/>
+	</game>
+	<game name="MicroHobby Especial - Ano 1 N.001 (1985-11)(Hobby Press)(ES)">
+		<description>MicroHobby Especial - Ano 1 N.001 (1985-11)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby Especial - Ano 1 N.001 (1985-11)(Hobby Press)(ES).pdf" size="23056376" crc="92b44647" md5="80ecbfafdad34d054528bf1e9c183d60" sha1="82674c02421ce745b993e4a42d92fffcd7595806"/>
+	</game>
+	<game name="MicroHobby Especial - Ano 2 N.002 (1986-03)(Hobby Press)(ES)">
+		<description>MicroHobby Especial - Ano 2 N.002 (1986-03)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby Especial - Ano 2 N.002 (1986-03)(Hobby Press)(ES).pdf" size="24283976" crc="e35ad54e" md5="a655b9e12e27815e94e86253c9deaec1" sha1="a38c0c058fa3bc08ee2261cecd74a4ad73c132be"/>
+	</game>
+	<game name="MicroHobby Especial - Ano 2 N.003 (1986-06)(Hobby Press)(ES)">
+		<description>MicroHobby Especial - Ano 2 N.003 (1986-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby Especial - Ano 2 N.003 (1986-06)(Hobby Press)(ES).pdf" size="25408205" crc="ff910ae1" md5="5829dad2e180df83ee6da22fdd7bc6e7" sha1="e0fb29e3e5a933531c8dae1c5101923e8f238a7b"/>
+	</game>
+	<game name="MicroHobby Especial - Ano 2 N.004 (1986-10)(Hobby Press)(ES)">
+		<description>MicroHobby Especial - Ano 2 N.004 (1986-10)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby Especial - Ano 2 N.004 (1986-10)(Hobby Press)(ES).pdf" size="24319282" crc="ad44278b" md5="fab3594a7da820d5890277b8129f4019" sha1="5e2b53116aa4f0eebd1e5293daf748c4cd320984"/>
+	</game>
+	<game name="MicroHobby Especial - Ano 2 N.005 (1986-12)(Hobby Press)(ES)">
+		<description>MicroHobby Especial - Ano 2 N.005 (1986-12)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby Especial - Ano 2 N.005 (1986-12)(Hobby Press)(ES).pdf" size="23487386" crc="2747b062" md5="f50a71fc0e320fe3e0adec5b52062e14" sha1="3e9269027287e27014032b0c461afd8eab1f32bb"/>
+	</game>
+	<game name="MicroHobby Especial - Ano 3 N.006 (1987-06)(Hobby Press)(ES)">
+		<description>MicroHobby Especial - Ano 3 N.006 (1987-06)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby Especial - Ano 3 N.006 (1987-06)(Hobby Press)(ES).pdf" size="30043044" crc="1a96cd06" md5="4edc598d0c5bd63d959661fb0c406b99" sha1="ead1329af02780500221a2c81ab20f1c7c541da8"/>
+	</game>
+	<game name="MicroHobby Especial - Ano 3 N.007 (1987-12)(Hobby Press)(ES)">
+		<description>MicroHobby Especial - Ano 3 N.007 (1987-12)(Hobby Press)(ES)</description>
+		<rom name="MicroHobby Especial - Ano 3 N.007 (1987-12)(Hobby Press)(ES).pdf" size="25542754" crc="9dc0a7af" md5="cf86be7bd8de132c9a7fdf80b24646bb" sha1="bc44bded4eb41424a205b653ecfa6534cdf8699e"/>
+	</game>
+</datafile>

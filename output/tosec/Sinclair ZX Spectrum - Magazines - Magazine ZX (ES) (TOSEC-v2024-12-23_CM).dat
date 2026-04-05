@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - Magazine ZX (ES)</name>
+		<description>Sinclair ZX Spectrum - Magazines - Magazine ZX (ES) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Magazine ZX - Ano 1 N.01 (2003-07)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 1 N.01 (2003-07)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 1 N.01 (2003-07)(MagazineZX)(ES).pdf" size="1857199" crc="d6c15b12" md5="58e10de99f381079793786c1aa7c5563" sha1="17c599813a5038d1abd033abbb44bc9998280cf9"/>
+	</game>
+	<game name="Magazine ZX - Ano 1 N.02 (2003-08)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 1 N.02 (2003-08)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 1 N.02 (2003-08)(MagazineZX)(ES).pdf" size="2470226" crc="f48784e9" md5="78fcda135f377034a4f8929a8d83265b" sha1="ff1cbb5cd2459769eac6a373cea055253f047d71"/>
+	</game>
+	<game name="Magazine ZX - Ano 1 N.03 (2003-09)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 1 N.03 (2003-09)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 1 N.03 (2003-09)(MagazineZX)(ES).pdf" size="1397648" crc="489200da" md5="a70fcb4697abcd4cba459aa16a7037aa" sha1="2ec5f27e5bb84cff076fbbfb3b31b9bf821b5251"/>
+	</game>
+	<game name="Magazine ZX - Ano 1 N.04 (2003-11)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 1 N.04 (2003-11)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 1 N.04 (2003-11)(MagazineZX)(ES).pdf" size="1845975" crc="d7a4f745" md5="231309796ce2f5aeb9371dc26110d8a5" sha1="e9cbd1af1f393ed53987156f1b18a36174f2aa4e"/>
+	</game>
+	<game name="Magazine ZX - Ano 2 N.05 (2004-01)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 2 N.05 (2004-01)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 2 N.05 (2004-01)(MagazineZX)(ES).pdf" size="1283936" crc="cb3e0b3f" md5="dab7285fc9d3c05038a6db3c4e4274b0" sha1="09a918e1b0ab4e3d09f429e77b7b42df61872de6"/>
+	</game>
+	<game name="Magazine ZX - Ano 2 N.06 (2004-03)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 2 N.06 (2004-03)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 2 N.06 (2004-03)(MagazineZX)(ES).pdf" size="2055382" crc="0b18358f" md5="08ba8b6c1b190bc7d191c8a0e9367b8e" sha1="53362cd4a0e24be3e8845656c570fef42b603edd"/>
+	</game>
+	<game name="Magazine ZX - Ano 2 N.07 (2004-05)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 2 N.07 (2004-05)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 2 N.07 (2004-05)(MagazineZX)(ES).pdf" size="1750107" crc="872ec5e3" md5="935f01dd006b74368022593eeec45c0a" sha1="49933e30d0f99e04be84a34a7d672c04874bed69"/>
+	</game>
+	<game name="Magazine ZX - Ano 2 N.08 (2004-07)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 2 N.08 (2004-07)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 2 N.08 (2004-07)(MagazineZX)(ES).pdf" size="1529205" crc="aea80488" md5="ffe387bf026286e6946cd23721c0f8f9" sha1="e957b0d70cb583309f78e613d5f8e0516d67ad1b"/>
+	</game>
+	<game name="Magazine ZX - Ano 2 N.09 (2004-09)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 2 N.09 (2004-09)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 2 N.09 (2004-09)(MagazineZX)(ES).pdf" size="1128606" crc="8bfb8208" md5="1e6e3a66f1be5e3ce3e8e35b983eabe0" sha1="911ed11febf917615047b5c3dae327ef2f26078d"/>
+	</game>
+	<game name="Magazine ZX - Ano 2 N.10 (2004-11)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 2 N.10 (2004-11)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 2 N.10 (2004-11)(MagazineZX)(ES).pdf" size="2628547" crc="7fb55d6b" md5="edb15e5aca71b64993a97570caa044b3" sha1="27602e13aa865520cee5cfd5c157a2b0a439b3de"/>
+	</game>
+	<game name="Magazine ZX - Ano 3 N.11 (2005-02)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 3 N.11 (2005-02)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 3 N.11 (2005-02)(MagazineZX)(ES).pdf" size="2108586" crc="abe6415e" md5="a13a804f7bb7a99c04dc6fcc4d3d4cae" sha1="b2078638e1707b31382dd3b81e62b8d95fa4129a"/>
+	</game>
+	<game name="Magazine ZX - Ano 3 N.12 (2005-09)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 3 N.12 (2005-09)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 3 N.12 (2005-09)(MagazineZX)(ES).pdf" size="1442194" crc="8eee0d4b" md5="f45058b74ac012efed45ab9e0f5b1d8d" sha1="7831c4ddd6bfbf3dd4cbd31124a715dd88f4e20d"/>
+	</game>
+	<game name="Magazine ZX - Ano 4 N.13 (2006-01)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 4 N.13 (2006-01)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 4 N.13 (2006-01)(MagazineZX)(ES).pdf" size="1372540" crc="f72263bc" md5="6234d377fb5c91c540822e60157529a8" sha1="7c29a42f5b2e2fdd8abcd00a35a5173804cae050"/>
+	</game>
+	<game name="Magazine ZX - Ano 4 N.14 (2006-12)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 4 N.14 (2006-12)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 4 N.14 (2006-12)(MagazineZX)(ES).pdf" size="1159299" crc="6a279a9d" md5="65ec90297e02b5df4663daccd2f02a4e" sha1="717a2440f4d50cac2f868ee5d63ff8f8bc74a326"/>
+	</game>
+	<game name="Magazine ZX - Ano 5 N.15 (2007-03)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 5 N.15 (2007-03)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 5 N.15 (2007-03)(MagazineZX)(ES).pdf" size="1920231" crc="0080147a" md5="7d18d2eb184388af09b735adfe3bd1e9" sha1="a45e8ae54a1cd2e6f16ef47f2b25550d0e14e343"/>
+	</game>
+	<game name="Magazine ZX - Ano 6 N.16 (2008-01)(MagazineZX)(ES)">
+		<description>Magazine ZX - Ano 6 N.16 (2008-01)(MagazineZX)(ES)</description>
+		<rom name="Magazine ZX - Ano 6 N.16 (2008-01)(MagazineZX)(ES).pdf" size="22067948" crc="ec0d30a0" md5="74e53eae8c5645692c1b97ff59b4876c" sha1="3cf06b66c1dbb37caf8154c1d4c7287a10e7e62b"/>
+	</game>
+</datafile>

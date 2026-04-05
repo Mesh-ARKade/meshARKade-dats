@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Video Games &amp; Computer Entertainment (US)</name>
+		<description>Multi-format - Magazines - Video Games &amp; Computer Entertainment (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Video Games &amp; Computer Entertainment (1988-12)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1988-12)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1988-12)(LFP)(US).pdf" size="125713251" crc="369c55b7" md5="54206c4151cb2b40f227c0fa0d971633" sha1="19822b35eb598f03db098609d0455a95a5c10259"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1989-02)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1989-02)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1989-02)(LFP)(US).pdf" size="175526703" crc="8d4e8293" md5="446ba989780d04448031abfe25dfcf61" sha1="5bda9d475548c9ea1bc38ef776466a36a963b6bc"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1989-04)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1989-04)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1989-04)(LFP)(US).pdf" size="138215651" crc="f5cfaa32" md5="3470e5f559ab63a0538dccc527c0daea" sha1="b61e0574309b48c9703042200a13ac4ce3b86fa1"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1989-05)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1989-05)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1989-05)(LFP)(US).pdf" size="81250957" crc="17b7fbd4" md5="0afa0608058b86d6d260ddd29592bd4c" sha1="17e6a5ffcad59c1c567e7b3a1002eb79f70e29a1"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1989-06)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1989-06)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1989-06)(LFP)(US).pdf" size="155375854" crc="c2e7428a" md5="ee1eacfc62f19b4b95ca6041ff25b167" sha1="3163d82cce8896f06c8a3c47e816c4578b3f7ece"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1989-07)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1989-07)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1989-07)(LFP)(US).pdf" size="163404503" crc="2d61b2bc" md5="a81d9f0babfdd7f23824bfd09f7514cb" sha1="b4a23e85d6be27dc2677f7036d5ee968fabba030"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1989-08)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1989-08)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1989-08)(LFP)(US).pdf" size="111086018" crc="53d3ba34" md5="70321949e7531cdf8a0f018af033143a" sha1="3ed1b0c2790eee291cdd11757a5dfd5b6a97f494"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1989-09)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1989-09)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1989-09)(LFP)(US).pdf" size="157677497" crc="3754b431" md5="7275fb573f2698e4ec45278d4d738f01" sha1="e8f0eca7ce6d793f145f7a2dacda663643b05d82"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1989-10)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1989-10)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1989-10)(LFP)(US).pdf" size="185340594" crc="2f8ff4ae" md5="d624f106c53b239d3775b9ee2e4c863d" sha1="9b7dd24bc6c0f5124a50feac47cacbaf8d326f22"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1989-12)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1989-12)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1989-12)(LFP)(US).pdf" size="724599622" crc="1edc041e" md5="4bb1067ee46da9e97696609e966c47d3" sha1="4d14c2949f340b811b60e1a10d4598d8c7d96d59"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1990-01)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1990-01)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1990-01)(LFP)(US).pdf" size="255770447" crc="5f623eae" md5="3a1b2c316b9f64cfc1645c43faec6d92" sha1="70741b890751cb03115fa66d8243d6e10ca7a45d"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1990-02)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1990-02)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1990-02)(LFP)(US).pdf" size="206983450" crc="ec77d575" md5="fbac0fcc1da8891ec553638624d4091f" sha1="5048616f82184d42987cf180fdb834469b158c2e"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1990-03)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1990-03)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1990-03)(LFP)(US).pdf" size="187650618" crc="af97216b" md5="a4f6857f8d8d866ca2739efbb3ad2247" sha1="874d9d3c2938dee13254ebbd9d2efa558d40f75f"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1990-05)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1990-05)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1990-05)(LFP)(US).pdf" size="224557757" crc="45bd0cec" md5="38b674ec25b8b7f06c4dbb83021da652" sha1="0f2dd7f0507e3d336db650b42c4ca2cde2e051ba"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1990-07)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1990-07)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1990-07)(LFP)(US).pdf" size="248449774" crc="cefc31f8" md5="4cbf51e412305bd832bdf48fab2eb9b2" sha1="9d1bb0de11554338dbbc065bbcb5966659d6949d"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1990-10)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1990-10)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1990-10)(LFP)(US).pdf" size="306729229" crc="5c339919" md5="8b7840e1bb5ed370da5aa58d60876c84" sha1="6a7fc008f0614f2acaae46b3296849ace65ad1b0"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1990-11)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1990-11)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1990-11)(LFP)(US).pdf" size="339946602" crc="a0003cef" md5="8e36fee132f03aa40569d48e763d0abb" sha1="679cda3f0b0e6cbac26daf52b9e3caf1a9394d88"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1990-12)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1990-12)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1990-12)(LFP)(US).pdf" size="425818406" crc="79368a16" md5="1bdd951af670cedb898ae9bffb48366e" sha1="4d3897b42e8df6494e88e16d586be173d5c4ad26"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-01)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1991-01)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-01)(LFP)(US).pdf" size="289017492" crc="703c2e7b" md5="1068c7486da19e292f23df29300b5634" sha1="d045f4186db8b34765593d5ba0117c7d831887cc"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-03)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1991-03)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-03)(LFP)(US).pdf" size="219613035" crc="fdea7d56" md5="f510f593cc262336e8158cd270aa87fc" sha1="dd271c89d9f1246a891d4827840e55e2b6bff32f"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-04)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1991-04)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-04)(LFP)(US).pdf" size="204691948" crc="44a8af8c" md5="24b94d39a8993c1b3e2ff99741e5a965" sha1="46c7e119a95348a1b21865036eec083ea111884d"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-05)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1991-05)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-05)(LFP)(US).pdf" size="202734663" crc="fcc9b254" md5="5c92f0fcae9690e935c0632c47feb2d8" sha1="3ed5ed373e517f8483dd97669dad88680aceea6b"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-06)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1991-06)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-06)(LFP)(US).pdf" size="119217927" crc="da204f96" md5="140fc9bc70f834ef06c98fabb3ce3aad" sha1="2319022486699247092249b15769743cfbf9e792"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-06)(LFP)(US)[a]">
+		<description>Video Games &amp; Computer Entertainment (1991-06)(LFP)(US)[a]</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-06)(LFP)(US)[a].pdf" size="178660115" crc="7a5b0cb4" md5="eeed6465150a7abcd37f0ad7539d2ea8" sha1="a4bd39599a8f0b64d1f1b9d1015cc6dacd235bda"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-07)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1991-07)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-07)(LFP)(US).pdf" size="212331113" crc="788b9a96" md5="2de5cc2ffc13ef0a4b2d5392f20ce7e3" sha1="4146899fc4ac1bafe91894a4913f9c536fca1904"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-09)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1991-09)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-09)(LFP)(US).pdf" size="165515740" crc="3b3ed343" md5="e7abbab0d310dacb4041044d727840e2" sha1="f33e6d870e126e09f9bb0bb45b279e6ac236fdfa"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-10)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1991-10)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-10)(LFP)(US).pdf" size="186580802" crc="9f295d67" md5="ab6a3c936fd59065f57e5843cad41a37" sha1="a2cc05c1913633933c80f48e3956856352bcc207"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-11)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1991-11)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-11)(LFP)(US).pdf" size="202611309" crc="544ac33d" md5="c28ff9ff8e24097c219534545d757991" sha1="ff440f06affb93d9553c39ac907598ecc204fade"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1991-12)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1991-12)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1991-12)(LFP)(US).pdf" size="250926422" crc="ea66d110" md5="6ca35279d3055b8c88fd33373e646787" sha1="876f4574e215d293be705af6803b7db3e5dcbd81"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-01)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-01)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-01)(LFP)(US).pdf" size="259876002" crc="d3a722eb" md5="bbe815dfd975c862841a9f0dff45408b" sha1="63fdba1cdf25dff89304a4d57955f641fd29e47d"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-02)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-02)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-02)(LFP)(US).pdf" size="201242226" crc="fe9a850d" md5="d64c091368b0ca2cfe8685ea75291209" sha1="cc2eedacb35f3527a8788582f5f8b049862d80ef"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-03)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-03)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-03)(LFP)(US).pdf" size="194356170" crc="c8f813de" md5="af2646c7e9a0ae94c3adae21cf687eee" sha1="e36f328951e3f3979e69d759cdd65bc9bd23a3ee"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-03)(LFP)(US)[a]">
+		<description>Video Games &amp; Computer Entertainment (1992-03)(LFP)(US)[a]</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-03)(LFP)(US)[a].pdf" size="179186158" crc="05cc9cbf" md5="8de98957ecc395a5edd37b2a65729a0d" sha1="0130b67805797ecaffc52d855945b8dc2bf23dbd"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-04)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-04)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-04)(LFP)(US).pdf" size="205661633" crc="a704f908" md5="c364e58a8ed827d805e6cf9d0d287a3b" sha1="716926d98ffc05130f807b017e040cea75034f13"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-04)(LFP)(US)[a]">
+		<description>Video Games &amp; Computer Entertainment (1992-04)(LFP)(US)[a]</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-04)(LFP)(US)[a].pdf" size="185043371" crc="95a43e1a" md5="f484ed6c6cd6784be46793c690bc38a2" sha1="2274701c559f88a393cc7f583f93dc564023a3d9"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-05)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-05)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-05)(LFP)(US).pdf" size="186258412" crc="745c542b" md5="983eb23390a6420117b929fe8bdc6daf" sha1="1c8ebd0acf524f14493189a7f2ad6a53d335ef91"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-06)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-06)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-06)(LFP)(US).pdf" size="215452964" crc="7edae2ba" md5="69c238482027807f44535523c6ca9d5f" sha1="faf9b6c8345f346ac07298c3ecdd7239b2d94369"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-06)(LFP)(US)[a]">
+		<description>Video Games &amp; Computer Entertainment (1992-06)(LFP)(US)[a]</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-06)(LFP)(US)[a].pdf" size="198423088" crc="51edae47" md5="afdf554d0cd640f68d1a1cc3028a3fa0" sha1="62ddf84cb35fa4de32ca618c67fa752a507f8777"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-07)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-07)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-07)(LFP)(US).pdf" size="182297006" crc="e92aa64d" md5="7da0b689800f1965acdd8649837a83e0" sha1="e22b591b876ea4cdc84fe96f49f1176e9caccd5f"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-09)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-09)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-09)(LFP)(US).pdf" size="189621820" crc="f868ae4b" md5="92c7acdaea282ee21df016d1a33f1891" sha1="5940f430817e55a4c19a55110d1adafb59a082e3"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-10)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-10)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-10)(LFP)(US).pdf" size="199668538" crc="0d93b239" md5="dbbadacba698b04e086365e2bda8cf83" sha1="aabd54c930cbef202a657ea56459330ad81b18e6"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-11)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-11)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-11)(LFP)(US).pdf" size="201202091" crc="e37659d1" md5="2a86a99fbf5e3ac9d0e2a6e9c269314b" sha1="5d72e06ea54e57bfc778dc8309f0c1843050a7d6"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1992-12)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1992-12)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1992-12)(LFP)(US).pdf" size="231315203" crc="a44273ca" md5="3a9b8daf32f0868359d92c672cee76a0" sha1="b4dffb2f446993e11123c27c285d35e46b6000ef"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1993-01)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1993-01)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1993-01)(LFP)(US).pdf" size="241774138" crc="e29d6467" md5="4139bb5acc2bb0463d1031fe902a8348" sha1="7bd7f29f4f67a7199a9c940a43d4c026ad3d2e66"/>
+	</game>
+	<game name="Video Games &amp; Computer Entertainment (1993-02)(LFP)(US)">
+		<description>Video Games &amp; Computer Entertainment (1993-02)(LFP)(US)</description>
+		<rom name="Video Games &amp; Computer Entertainment (1993-02)(LFP)(US).pdf" size="194389573" crc="48692ca5" md5="a9812914c614240ff3f08953fab0345f" sha1="5a1e4cef503e1d77fa55d50e5a160f46c8e9d24b"/>
+	</game>
+</datafile>

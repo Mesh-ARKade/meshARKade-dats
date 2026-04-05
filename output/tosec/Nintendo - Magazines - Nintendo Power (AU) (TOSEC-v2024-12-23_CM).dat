@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Nintendo Power (AU)</name>
+		<description>Nintendo - Magazines - Nintendo Power (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Power (1991)(Nintendo)(AU)[summer edition]">
+		<description>Nintendo Power (1991)(Nintendo)(AU)[summer edition]</description>
+		<rom name="Nintendo Power (1991)(Nintendo)(AU)[summer edition].pdf" size="7531106" crc="ae4fce5c" md5="9b591c96c585c07ea589e02261b75708" sha1="fe1f855f9a42435b7a104c525362e5c6e43c38f4"/>
+	</game>
+</datafile>

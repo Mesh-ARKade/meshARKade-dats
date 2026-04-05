@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Planet PlayStation (IT)</name>
+		<description>Sony PlayStation - Magazines - Planet PlayStation (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Planet PlayStation - Anno 1 N.01 (1999-01)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.01 (1999-01)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.01 (1999-01)(R.C.S.)(IT).pdf" size="320877616" crc="5903f6c4" md5="3d77f3643b22cf6b6fab99a3ce0a54da" sha1="06b6ebef96e8fa890535a461a012aefd1df14d4e"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.02 (1999-02)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.02 (1999-02)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.02 (1999-02)(R.C.S.)(IT).pdf" size="349357282" crc="e80a4471" md5="a5d861acdae70aa94e247bcf897a665f" sha1="0b7345d52b7072c4390f48b50f60987b5ccfa45f"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.03 (1999-03)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.03 (1999-03)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.03 (1999-03)(R.C.S.)(IT).pdf" size="318925026" crc="b0576bf1" md5="255faa1ddfe3b68169949aeb7658133f" sha1="2633cc8501082d7b0c5e49ab5ba44b8afd8141cb"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.04 (1999-04)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.04 (1999-04)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.04 (1999-04)(R.C.S.)(IT).pdf" size="322681722" crc="5923a23b" md5="c8ffae0e36550933c0546426b9af5bec" sha1="9dff6566e062d98a911e02d533fc30860e3b77e9"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.05 (1999-05)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.05 (1999-05)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.05 (1999-05)(R.C.S.)(IT).pdf" size="335359505" crc="34e74d44" md5="8215a8eb42ea4870bab1fab85ea822b1" sha1="2a3a8076dff1944e64cf32a1c721bdcc1dfe4acc"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.06 (1999-06)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.06 (1999-06)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.06 (1999-06)(R.C.S.)(IT).pdf" size="328698165" crc="37405528" md5="fc42d8b6cb084648869eb2c02096f183" sha1="0493684947fd6bf2d1f83944d718f4fa3684ff19"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.08 (1999-08)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.08 (1999-08)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.08 (1999-08)(R.C.S.)(IT).pdf" size="339125530" crc="645ca018" md5="340ffbb8e909037a55d8b1938d6c9d08" sha1="9d38d778debf7c0130851eb3b8db2ec11075eb1b"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.08 (1999-08)(R.C.S.)(IT)[poster Croc]">
+		<description>Planet PlayStation - Anno 1 N.08 (1999-08)(R.C.S.)(IT)[poster Croc]</description>
+		<rom name="Planet PlayStation - Anno 1 N.08 (1999-08)(R.C.S.)(IT)[poster Croc].pdf" size="18831097" crc="d3eec7a0" md5="217f75064215f98825530e7492229781" sha1="a1866dae9cfecf20f5399dbc9bed73a8ae11f14f"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.08 (1999-08)(R.C.S.)(IT)[poster Rollcast]">
+		<description>Planet PlayStation - Anno 1 N.08 (1999-08)(R.C.S.)(IT)[poster Rollcast]</description>
+		<rom name="Planet PlayStation - Anno 1 N.08 (1999-08)(R.C.S.)(IT)[poster Rollcast].pdf" size="17701492" crc="8d15e64a" md5="58c0e5fdeac3fb163a38e476d53a6c92" sha1="ee6788c82e81768aa7b94879492b310ec9f4e2ae"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.09 (1999-09)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.09 (1999-09)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.09 (1999-09)(R.C.S.)(IT).pdf" size="330072065" crc="06719774" md5="1e7afe0603b02bade5dfe023540e3fcd" sha1="5c77ba948e965f969526bcb9e6e9d49071303321"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.10 (1999-10)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.10 (1999-10)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.10 (1999-10)(R.C.S.)(IT).pdf" size="352887083" crc="cb4f38c4" md5="394d3dde9e17bd93abb1f90a5b69c4e8" sha1="ae680ce4d40c821d263f89578501afcacd0b04f5"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.10 (1999-10)(R.C.S.)(IT)[poster Ape Escape]">
+		<description>Planet PlayStation - Anno 1 N.10 (1999-10)(R.C.S.)(IT)[poster Ape Escape]</description>
+		<rom name="Planet PlayStation - Anno 1 N.10 (1999-10)(R.C.S.)(IT)[poster Ape Escape].pdf" size="15384354" crc="ba7d9280" md5="77d12aae6531d07748f8880da03c800a" sha1="3aa711f09d84d0612acd2121a2f33b69f8744ddb"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.10 (1999-10)(R.C.S.)(IT)[poster Shadowman]">
+		<description>Planet PlayStation - Anno 1 N.10 (1999-10)(R.C.S.)(IT)[poster Shadowman]</description>
+		<rom name="Planet PlayStation - Anno 1 N.10 (1999-10)(R.C.S.)(IT)[poster Shadowman].pdf" size="19359744" crc="2411f007" md5="2b89e785a7c9cc7311877daf4b61f557" sha1="ac60f325bbda7a64290086d8bfac617420a49677"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.11 (1999-11)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.11 (1999-11)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.11 (1999-11)(R.C.S.)(IT).pdf" size="355119461" crc="94b8df35" md5="ab372f83c9dedf0aec5f3d3411d6b450" sha1="02ddda0a860692d098fbdbcb3d28ed894c1d2e6e"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.11 (1999-11)(R.C.S.)(IT)[poster Crash Team Racing]">
+		<description>Planet PlayStation - Anno 1 N.11 (1999-11)(R.C.S.)(IT)[poster Crash Team Racing]</description>
+		<rom name="Planet PlayStation - Anno 1 N.11 (1999-11)(R.C.S.)(IT)[poster Crash Team Racing].pdf" size="16825967" crc="d3cc181a" md5="70342237d1392d38d9daf410c9f6735e" sha1="70189e20442ecd583e302cb8ca094f4f56a9f7bb"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.11 (1999-11)(R.C.S.)(IT)[poster Formula one 99]">
+		<description>Planet PlayStation - Anno 1 N.11 (1999-11)(R.C.S.)(IT)[poster Formula one 99]</description>
+		<rom name="Planet PlayStation - Anno 1 N.11 (1999-11)(R.C.S.)(IT)[poster Formula one 99].pdf" size="19508240" crc="332cd4f7" md5="07bdca60d22381b761198899fe17491c" sha1="e3791a262fc7de54e5541f6c374093e25fb1ad5d"/>
+	</game>
+	<game name="Planet PlayStation - Anno 1 N.12 (1999-12)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 1 N.12 (1999-12)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 1 N.12 (1999-12)(R.C.S.)(IT).pdf" size="227578795" crc="96899dc3" md5="1a13319d873fe314d6ffae7e834aafed" sha1="774ef65ddc7151befba6e4868b64366d5f627e9e"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.01 (2000-01)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 2 N.01 (2000-01)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 2 N.01 (2000-01)(R.C.S.)(IT).pdf" size="340127198" crc="b989306b" md5="bce8869d8181c3b5d177ea77a88ec809" sha1="87d1aad14bf8921a2a2816d5fb7e1af875686405"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.01 (2000-01)(R.C.S.)(IT)[poster Lara Croft]">
+		<description>Planet PlayStation - Anno 2 N.01 (2000-01)(R.C.S.)(IT)[poster Lara Croft]</description>
+		<rom name="Planet PlayStation - Anno 2 N.01 (2000-01)(R.C.S.)(IT)[poster Lara Croft].pdf" size="17712120" crc="aa432f06" md5="4349fb1399cf19810d3afa81ffa51537" sha1="0f889ba362efcc720831c5e9d1c77e40730f1027"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.01 (2000-01)(R.C.S.)(IT)[poster Tarzan]">
+		<description>Planet PlayStation - Anno 2 N.01 (2000-01)(R.C.S.)(IT)[poster Tarzan]</description>
+		<rom name="Planet PlayStation - Anno 2 N.01 (2000-01)(R.C.S.)(IT)[poster Tarzan].pdf" size="18869752" crc="47541de5" md5="1559c411a4757cfa629ece830dc86fbb" sha1="cd5d23c2666b45e4d7c46896403beb302e970693"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.02 (2000-02)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 2 N.02 (2000-02)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 2 N.02 (2000-02)(R.C.S.)(IT).pdf" size="488910096" crc="d7721920" md5="188453917dfe3f236c41da10c39770b7" sha1="031296a01be65f04d2ce7795658ab8d98b6013d4"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.02 (2000-02)(R.C.S.)(IT)[poster Medievil 2]">
+		<description>Planet PlayStation - Anno 2 N.02 (2000-02)(R.C.S.)(IT)[poster Medievil 2]</description>
+		<rom name="Planet PlayStation - Anno 2 N.02 (2000-02)(R.C.S.)(IT)[poster Medievil 2].pdf" size="39914812" crc="e2eafc57" md5="654b0b45985d585b986b38900482300f" sha1="f62446317d649f8b1d1af0f0f61eac091bef053c"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.02 (2000-02)(R.C.S.)(IT)[poster Rollcage 2]">
+		<description>Planet PlayStation - Anno 2 N.02 (2000-02)(R.C.S.)(IT)[poster Rollcage 2]</description>
+		<rom name="Planet PlayStation - Anno 2 N.02 (2000-02)(R.C.S.)(IT)[poster Rollcage 2].pdf" size="36119296" crc="a7570098" md5="0acad7a8568435e65aec224df1ad3b7c" sha1="35b364d7c944d353b586cbebc2eaafd596299f01"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.03 (2000-03)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 2 N.03 (2000-03)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 2 N.03 (2000-03)(R.C.S.)(IT).pdf" size="382727368" crc="7d781386" md5="e78bf43d7e76ee22be9f80dca9c15077" sha1="d23492e8d3fa479fa95c9fbaebafa1320eabc54c"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.04 (2000-04)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 2 N.04 (2000-04)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 2 N.04 (2000-04)(R.C.S.)(IT).pdf" size="418364292" crc="b80b2169" md5="8ab8e88c621d9af8b168f0e170144622" sha1="4111307b2293470b03563c0f5e86e36a8b666977"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.04 (2000-04)(R.C.S.)(IT)[poster GT2]">
+		<description>Planet PlayStation - Anno 2 N.04 (2000-04)(R.C.S.)(IT)[poster GT2]</description>
+		<rom name="Planet PlayStation - Anno 2 N.04 (2000-04)(R.C.S.)(IT)[poster GT2].pdf" size="45387345" crc="2add0c88" md5="f6761a96e9e4c79231910cb362e08f69" sha1="28e72b016c4af1d194ed23ecfe99f364974d95b1"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.04 (2000-04)(R.C.S.)(IT)[poster Toy Story 2]">
+		<description>Planet PlayStation - Anno 2 N.04 (2000-04)(R.C.S.)(IT)[poster Toy Story 2]</description>
+		<rom name="Planet PlayStation - Anno 2 N.04 (2000-04)(R.C.S.)(IT)[poster Toy Story 2].pdf" size="37136566" crc="59ceed3c" md5="9f6d06cdc022bdaa6e158e27523d5d59" sha1="1d492ebad8a974068df1606e30142f9279c469cd"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.05 (2000-05)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 2 N.05 (2000-05)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 2 N.05 (2000-05)(R.C.S.)(IT).pdf" size="407150290" crc="a5c89df4" md5="bafc91176e96693abbd3e657204301b6" sha1="8334c9921cfda00c2fb8162b9e7a08d71ca025ae"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.05 (2000-05)(R.C.S.)(IT)[poster Gekido]">
+		<description>Planet PlayStation - Anno 2 N.05 (2000-05)(R.C.S.)(IT)[poster Gekido]</description>
+		<rom name="Planet PlayStation - Anno 2 N.05 (2000-05)(R.C.S.)(IT)[poster Gekido].pdf" size="43983884" crc="d862bed2" md5="411dd55dc72f7fec07fc52fb3cc20322" sha1="4d94dd6b3f72eef27157a92e0d13794a14b5e99d"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.05 (2000-05)(R.C.S.)(IT)[poster Urban Chaos]">
+		<description>Planet PlayStation - Anno 2 N.05 (2000-05)(R.C.S.)(IT)[poster Urban Chaos]</description>
+		<rom name="Planet PlayStation - Anno 2 N.05 (2000-05)(R.C.S.)(IT)[poster Urban Chaos].pdf" size="40780464" crc="d48d9269" md5="67bcc02c033ad11192e8a6412fd83bd1" sha1="e8c3c36190601de47fd4d190bc5472d271fafb0c"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.06 (2000-06)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 2 N.06 (2000-06)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 2 N.06 (2000-06)(R.C.S.)(IT).pdf" size="360132807" crc="189cd4e9" md5="0adb3502838c90ccd003ad368de9b580" sha1="85b76cb5f4462cbc60d63e0aac9dadc8c1afe5a2"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.06 (2000-06)(R.C.S.)(IT)[poster Spiderman]">
+		<description>Planet PlayStation - Anno 2 N.06 (2000-06)(R.C.S.)(IT)[poster Spiderman]</description>
+		<rom name="Planet PlayStation - Anno 2 N.06 (2000-06)(R.C.S.)(IT)[poster Spiderman].pdf" size="12792080" crc="ee4d346d" md5="596e5be900bb13da8dae4a7d3001c2ab" sha1="37836ac3ce675c616827dffb2265ab33ee7517fa"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.06 (2000-06)(R.C.S.)(IT)[poster Star Trek Invasion]">
+		<description>Planet PlayStation - Anno 2 N.06 (2000-06)(R.C.S.)(IT)[poster Star Trek Invasion]</description>
+		<rom name="Planet PlayStation - Anno 2 N.06 (2000-06)(R.C.S.)(IT)[poster Star Trek Invasion].pdf" size="14144894" crc="9d8d5be0" md5="b1546b5192409773c366fd23000a68ee" sha1="0c114cecf5a067b11d1d70856ca0f0ca480cbaa9"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT).pdf" size="344562180" crc="16d081cc" md5="d8607018a101383a6ef7cb67050a3437" sha1="6b6f1eb0eab4164dd8b3c575a33914f86e32af8a"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)[poster Dragon Valor]">
+		<description>Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)[poster Dragon Valor]</description>
+		<rom name="Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)[poster Dragon Valor].pdf" size="37790367" crc="e5b2d995" md5="29bf22d118ad7063caae9c9e30bf1988" sha1="5bd68955a17eb9e9b5b4c17eb58a0b8d66a0e123"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)[poster Legend Legaia]">
+		<description>Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)[poster Legend Legaia]</description>
+		<rom name="Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)[poster Legend Legaia].pdf" size="37338187" crc="17848956" md5="7282bb27b08182b6f9fe427e52563762" sha1="4babb24ce0c689eedd1a5cc599d82f6d73c028b1"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)[poster Star Trek Invasion]">
+		<description>Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)[poster Star Trek Invasion]</description>
+		<rom name="Planet PlayStation - Anno 2 N.07 (2000-07)(R.C.S.)(IT)[poster Star Trek Invasion].pdf" size="14144894" crc="070a861c" md5="b994ad3ef8dcd5b14370cbf8c1677e82" sha1="c8040c2bfe682c7e45b966df40dbb385dc478daa"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.08 (2000-08)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 2 N.08 (2000-08)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 2 N.08 (2000-08)(R.C.S.)(IT).pdf" size="358849275" crc="a94e7b23" md5="c58879388e299670f1c5d4d067e42c0c" sha1="a3e8f9fba3bc83fde12eb346a23995acb070b122"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.08 (2000-08)(R.C.S.)(IT)[poster Chase]">
+		<description>Planet PlayStation - Anno 2 N.08 (2000-08)(R.C.S.)(IT)[poster Chase]</description>
+		<rom name="Planet PlayStation - Anno 2 N.08 (2000-08)(R.C.S.)(IT)[poster Chase].pdf" size="16430856" crc="8e7c83ab" md5="ea3c56bd9b81452b5f37c4103688b7d2" sha1="27e5848283d6f8065f02fb6da17d56f3b3083e97"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.08 (2000-08)(R.C.S.)(IT)[poster Destruction Derby]">
+		<description>Planet PlayStation - Anno 2 N.08 (2000-08)(R.C.S.)(IT)[poster Destruction Derby]</description>
+		<rom name="Planet PlayStation - Anno 2 N.08 (2000-08)(R.C.S.)(IT)[poster Destruction Derby].pdf" size="16453789" crc="6d5ae679" md5="333e4ec8ad09007993c18b841c7bcab6" sha1="af90846b631a498c1a5c3a3a479d94110b39b47c"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT).pdf" size="363316200" crc="eba90371" md5="007c2a2e3b0cd5fd51e0963122919290" sha1="771e25e1cf5c9e3c6cb93ea0e4bd045acb1ee4ff"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)[poster Alien 4]">
+		<description>Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)[poster Alien 4]</description>
+		<rom name="Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)[poster Alien 4].pdf" size="37659227" crc="d035f39e" md5="3c2b820c6237a542bef2d0350415f0c8" sha1="493067ed5e1538874850a03f33b52519b18a5e78"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)[poster Driver 2]">
+		<description>Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)[poster Driver 2]</description>
+		<rom name="Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)[poster Driver 2].pdf" size="37998972" crc="a288c3d7" md5="0053b87b128d3d66d0fdc55d7fa071eb" sha1="5b03b3bda52d6804901db8e954cd2ab6d8ca773f"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)[poster Star Trek Invasion]">
+		<description>Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)[poster Star Trek Invasion]</description>
+		<rom name="Planet PlayStation - Anno 2 N.10 (2000-10)(R.C.S.)(IT)[poster Star Trek Invasion].pdf" size="14144894" crc="ed30a441" md5="8ca3d5bacdd7d3795f24e3c3ba8d92c2" sha1="96e9bbe6a708f618577081e7b6756597da1a2f51"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.11 (2000-11)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 2 N.11 (2000-11)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 2 N.11 (2000-11)(R.C.S.)(IT).pdf" size="335097361" crc="68f03114" md5="4bdd6283e7a01b80ff2098aa7fbe6249" sha1="6ff0edf1cc730662b48b848805e15a21f7197e27"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.11 (2000-11)(R.C.S.)(IT)[poster Crash]">
+		<description>Planet PlayStation - Anno 2 N.11 (2000-11)(R.C.S.)(IT)[poster Crash]</description>
+		<rom name="Planet PlayStation - Anno 2 N.11 (2000-11)(R.C.S.)(IT)[poster Crash].pdf" size="35944808" crc="ef52887f" md5="8af5bdce06b21a603eb5b220109087ca" sha1="9641bdee9dcf48a6c28ccce7bf777db61faa74a4"/>
+	</game>
+	<game name="Planet PlayStation - Anno 2 N.11 (2000-11)(R.C.S.)(IT)[poster Spyro]">
+		<description>Planet PlayStation - Anno 2 N.11 (2000-11)(R.C.S.)(IT)[poster Spyro]</description>
+		<rom name="Planet PlayStation - Anno 2 N.11 (2000-11)(R.C.S.)(IT)[poster Spyro].pdf" size="37675710" crc="934de03d" md5="48e7011ad833b45beae0ed752334d520" sha1="24d5816f8afe2e63225c594fa66af21094b3c2b3"/>
+	</game>
+	<game name="Planet PlayStation - Anno 3 N.01 (2001-01)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 3 N.01 (2001-01)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 3 N.01 (2001-01)(R.C.S.)(IT).pdf" size="384025818" crc="c4f21726" md5="cff8106c6bcf2a526d547c643e3f8674" sha1="15f5ebb902e5dfa9b2ee072e5c6fa02cc9d23523"/>
+	</game>
+	<game name="Planet PlayStation - Anno 3 N.01 (2001-01)(R.C.S.)(IT)[poster Galline in fuga]">
+		<description>Planet PlayStation - Anno 3 N.01 (2001-01)(R.C.S.)(IT)[poster Galline in fuga]</description>
+		<rom name="Planet PlayStation - Anno 3 N.01 (2001-01)(R.C.S.)(IT)[poster Galline in fuga].pdf" size="17190751" crc="e11ed860" md5="ceedb4d89438e7a14a98271d337fea75" sha1="c0e8be5fb7af2a7b6471904e8f8b3a8c8082febf"/>
+	</game>
+	<game name="Planet PlayStation - Anno 3 N.01 (2001-01)(R.C.S.)(IT)[poster Lara Croft]">
+		<description>Planet PlayStation - Anno 3 N.01 (2001-01)(R.C.S.)(IT)[poster Lara Croft]</description>
+		<rom name="Planet PlayStation - Anno 3 N.01 (2001-01)(R.C.S.)(IT)[poster Lara Croft].pdf" size="16379483" crc="a4c51e62" md5="8af9bcf3276bc9a37b9d6436985a9150" sha1="98fcc3f4906fc8786eb93728477e2aa1a886c210"/>
+	</game>
+	<game name="Planet PlayStation - Anno 3 N.02 (2001-02)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 3 N.02 (2001-02)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 3 N.02 (2001-02)(R.C.S.)(IT).pdf" size="427231242" crc="83bdbae9" md5="580658df71415187c813b6847bddac48" sha1="672fd97d80e8e3beb53ca34cbe48adc790552c97"/>
+	</game>
+	<game name="Planet PlayStation - Anno 3 N.02 (2001-02)(R.C.S.)(IT)[poster F1 2000]">
+		<description>Planet PlayStation - Anno 3 N.02 (2001-02)(R.C.S.)(IT)[poster F1 2000]</description>
+		<rom name="Planet PlayStation - Anno 3 N.02 (2001-02)(R.C.S.)(IT)[poster F1 2000].pdf" size="20079161" crc="74cc45f7" md5="4685b46602f44795e351e1cfd8f0e0ad" sha1="8d551c135c3014df41ee29e53ca8cfa0b976c622"/>
+	</game>
+	<game name="Planet PlayStation - Anno 3 N.02 (2001-02)(R.C.S.)(IT)[poster Knockout Kings 2001]">
+		<description>Planet PlayStation - Anno 3 N.02 (2001-02)(R.C.S.)(IT)[poster Knockout Kings 2001]</description>
+		<rom name="Planet PlayStation - Anno 3 N.02 (2001-02)(R.C.S.)(IT)[poster Knockout Kings 2001].pdf" size="20077306" crc="aadde093" md5="d2855a0be5ea828cca48b5f55031f528" sha1="c25e742281f87e855509bc96873ce21f52141e2a"/>
+	</game>
+	<game name="Planet PlayStation - Anno 3 N.03 (2001-03)(R.C.S.)(IT)">
+		<description>Planet PlayStation - Anno 3 N.03 (2001-03)(R.C.S.)(IT)</description>
+		<rom name="Planet PlayStation - Anno 3 N.03 (2001-03)(R.C.S.)(IT).pdf" size="412502051" crc="8e9e6abb" md5="34541bab3f94f870c02631f14c7a9e70" sha1="ffba0b6c208d4544b8978cd16d4a8cd1ab8ad073"/>
+	</game>
+	<game name="Planet PlayStation - Anno 3 N.03 (2001-03)(R.C.S.)(IT)[poster FFIX]">
+		<description>Planet PlayStation - Anno 3 N.03 (2001-03)(R.C.S.)(IT)[poster FFIX]</description>
+		<rom name="Planet PlayStation - Anno 3 N.03 (2001-03)(R.C.S.)(IT)[poster FFIX].pdf" size="17474597" crc="72ecd484" md5="a58dcacb6b821b61b9abb9292e1d406e" sha1="e92067f3afe9bd5033970c3434568e0ec92a1938"/>
+	</game>
+	<game name="Planet PlayStation - Anno 3 N.03 (2001-03)(R.C.S.)(IT)[poster Oni]">
+		<description>Planet PlayStation - Anno 3 N.03 (2001-03)(R.C.S.)(IT)[poster Oni]</description>
+		<rom name="Planet PlayStation - Anno 3 N.03 (2001-03)(R.C.S.)(IT)[poster Oni].pdf" size="18756820" crc="4921b43d" md5="8f63363bf9aeef1cf60cfdc9256dfe2c" sha1="a58c8984285e32949207d482bb24195b5d5f728e"/>
+	</game>
+</datafile>

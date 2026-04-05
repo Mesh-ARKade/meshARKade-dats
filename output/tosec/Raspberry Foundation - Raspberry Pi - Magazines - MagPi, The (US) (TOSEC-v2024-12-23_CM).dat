@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Raspberry Foundation - Raspberry Pi - Magazines - MagPi, The (US)</name>
+		<description>Raspberry Foundation - Raspberry Pi - Magazines - MagPi, The (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="MagPi, The - Issue 001 (2012-05)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 001 (2012-05)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 001 (2012-05)(Raspberry Pi)(GB).pdf" size="20544291" crc="a16b0856" md5="a88220bcaa4d20065774a0090f10f4fa" sha1="8484317f0f24f5878390545c451784fa9b563574"/>
+	</game>
+	<game name="MagPi, The - Issue 002 (2012-06)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 002 (2012-06)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 002 (2012-06)(Raspberry Pi)(GB).pdf" size="12824055" crc="6042cbd7" md5="6e10918eb9e12f93e442cd6a0ad9029c" sha1="d4361c72f8803a7a2fb998e61371d8909e77be02"/>
+	</game>
+	<game name="MagPi, The - Issue 003 (2012-07)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 003 (2012-07)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 003 (2012-07)(Raspberry Pi)(GB).pdf" size="12616000" crc="7a9e0e5b" md5="127787055765c7a4435f5ed47936fdd0" sha1="7895b98f16bd9ef3160272211b7bcf6b795cdca0"/>
+	</game>
+	<game name="MagPi, The - Issue 004 (2012-08)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 004 (2012-08)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 004 (2012-08)(Raspberry Pi)(GB).pdf" size="12592382" crc="4b64a842" md5="7208a79c7aa5183b2e86a0fe50601364" sha1="5eed12a667d4803a2bc2908ce09236a6700964b5"/>
+	</game>
+	<game name="MagPi, The - Issue 005 (2012-09)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 005 (2012-09)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 005 (2012-09)(Raspberry Pi)(GB).pdf" size="11684266" crc="d5631555" md5="b723c9e0b28b97a2c9867b7d8fc32de3" sha1="5722e7d7cbbed0659ff80c1b7fdb1aa3e96ed629"/>
+	</game>
+	<game name="MagPi, The - Issue 006 (2012-10)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 006 (2012-10)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 006 (2012-10)(Raspberry Pi)(GB).pdf" size="14304700" crc="c0d8c2df" md5="764eb845cf9cc2371a8132a544f1ecd5" sha1="d77a93566d38231dd7ca8453da307403a26fe775"/>
+	</game>
+	<game name="MagPi, The - Issue 007 (2012-11)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 007 (2012-11)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 007 (2012-11)(Raspberry Pi)(GB).pdf" size="12367050" crc="1d9c72d6" md5="c8c3a86c602be0bba2491a66b9ff28d5" sha1="e2d9452c1dc29a9504b0abbf32a177c765160ae7"/>
+	</game>
+	<game name="MagPi, The - Issue 008 (2012-12)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 008 (2012-12)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 008 (2012-12)(Raspberry Pi)(GB).pdf" size="10439847" crc="83337aa9" md5="39783515b186fc9884b37c15e55c5901" sha1="a7c62cc364b83d93ad5cef882a56a0dae72e5d2b"/>
+	</game>
+	<game name="MagPi, The - Issue 009 (2013-02)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 009 (2013-02)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 009 (2013-02)(Raspberry Pi)(GB).pdf" size="14828356" crc="96ffad7f" md5="638e6371ece6ae62979c690ee3b8a3fa" sha1="6d2d9665e98fa1cbfaf626ba19cbc2a9d61cb89c"/>
+	</game>
+	<game name="MagPi, The - Issue 010 (2013-03)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 010 (2013-03)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 010 (2013-03)(Raspberry Pi)(GB).pdf" size="40933564" crc="c0c6e7e0" md5="264ca121222f95da63dc2ac8a419d354" sha1="1c8d1dc4c23cc78943c7afa866727e8095cb0915"/>
+	</game>
+	<game name="MagPi, The - Issue 011 (2013-04)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 011 (2013-04)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 011 (2013-04)(Raspberry Pi)(GB).pdf" size="21147737" crc="c6118630" md5="3fd366deaba7b69d834c80a94ac7226b" sha1="e5c1837174f45390f51e048b7a9e26fc5f2dfc2a"/>
+	</game>
+	<game name="MagPi, The - Issue 012 (2013-05)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 012 (2013-05)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 012 (2013-05)(Raspberry Pi)(GB).pdf" size="19000245" crc="c3ec2795" md5="ceea331770705ed384049ac60f6297c1" sha1="c82614fad6ba2d970018f355d23602500c295a4c"/>
+	</game>
+	<game name="MagPi, The - Issue 013 (2013-06)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 013 (2013-06)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 013 (2013-06)(Raspberry Pi)(GB).pdf" size="14485202" crc="bf7ea7c7" md5="5cdbcd16d309e88fce20ba6ee5100420" sha1="ca0f18c3636ee14b7cf3f1253ba6f288caefab52"/>
+	</game>
+	<game name="MagPi, The - Issue 014 (2013-07)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 014 (2013-07)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 014 (2013-07)(Raspberry Pi)(GB).pdf" size="7411591" crc="f613ff5b" md5="9995bd5cf3f9ed59d3f7242f2311085c" sha1="fefbc5ec0099ccd0a28304125a4b58dc1c3aeaa0"/>
+	</game>
+	<game name="MagPi, The - Issue 015 (2013-08)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 015 (2013-08)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 015 (2013-08)(Raspberry Pi)(GB).pdf" size="7419283" crc="755acb88" md5="c144b61009cced386d3c579c8746a18f" sha1="b60a007993addaf85d2190372feef46c17054ed8"/>
+	</game>
+	<game name="MagPi, The - Issue 016 (2013-09)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 016 (2013-09)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 016 (2013-09)(Raspberry Pi)(GB).pdf" size="9208594" crc="6edc8c05" md5="2e1e09031cafcfe6300891e6fdb4f415" sha1="af590d826ff6aa5f43883141e9635b8c7090accd"/>
+	</game>
+	<game name="MagPi, The - Issue 017 (2013-10)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 017 (2013-10)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 017 (2013-10)(Raspberry Pi)(GB).pdf" size="10392452" crc="f9278b54" md5="7809c4aacfda5905c605fbcce0103f94" sha1="bbb7e546a95420e80f1089e13a5d7da3694b1150"/>
+	</game>
+	<game name="MagPi, The - Issue 018 (2013-11)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 018 (2013-11)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 018 (2013-11)(Raspberry Pi)(GB).pdf" size="12555246" crc="992f8488" md5="0f0e27f6fffbcbef6ffd7321f68310bc" sha1="3ca97a12b64397872de2ef9c5783a8be94602b08"/>
+	</game>
+	<game name="MagPi, The - Issue 019 (2013-12)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 019 (2013-12)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 019 (2013-12)(Raspberry Pi)(GB).pdf" size="13555915" crc="9a530710" md5="cd3729a936da90441d45709e9fbd8397" sha1="6be7f89d715f063367aab0d3121909a3d3507651"/>
+	</game>
+	<game name="MagPi, The - Issue 020 (2014-02)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 020 (2014-02)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 020 (2014-02)(Raspberry Pi)(GB).pdf" size="14710868" crc="15be696f" md5="45951399cf4ad5b7091b3ca64bfca62d" sha1="352af3df5f26875e33c2efdafc3600756b9a1fc5"/>
+	</game>
+	<game name="MagPi, The - Issue 021 (2014-03)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 021 (2014-03)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 021 (2014-03)(Raspberry Pi)(GB).pdf" size="11721691" crc="ad3207e6" md5="54b6855717885c2d4528a2c9d58c8ca8" sha1="eb59f1b79e7cebb564f17758084174aee7be05de"/>
+	</game>
+	<game name="MagPi, The - Issue 022 (2014-04)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 022 (2014-04)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 022 (2014-04)(Raspberry Pi)(GB).pdf" size="13187231" crc="94ecaab0" md5="ac90baf897838bb67b739827085612f1" sha1="b67bbe9953e0f5f58506811a50a565e7c901e8f1"/>
+	</game>
+	<game name="MagPi, The - Issue 023 (2014-05)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 023 (2014-05)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 023 (2014-05)(Raspberry Pi)(GB).pdf" size="10071002" crc="b6eb2569" md5="5a265ec15c3eb998deced44a443a8822" sha1="f9cb9deef94cb43484e2f0cb75990f5c38df21f6"/>
+	</game>
+	<game name="MagPi, The - Issue 024 (2014-06)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 024 (2014-06)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 024 (2014-06)(Raspberry Pi)(GB).pdf" size="11886586" crc="e65c5f69" md5="da0d6f0120db4d8ab6a069459e43869b" sha1="156e8b40f7fb018161ec7d7281974eaa43aa2a38"/>
+	</game>
+	<game name="MagPi, The - Issue 025 (2014-07)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 025 (2014-07)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 025 (2014-07)(Raspberry Pi)(GB).pdf" size="10621133" crc="d9d36449" md5="acc3982ab3c23ea8e52308b7701370e2" sha1="609cdaeaa6200d3bbffe95be60dd64900d9aabe4"/>
+	</game>
+	<game name="MagPi, The - Issue 026 (2014-08)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 026 (2014-08)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 026 (2014-08)(Raspberry Pi)(GB).pdf" size="14248852" crc="f4d468eb" md5="432c80399b27b50d4cc15c7b75a1cf26" sha1="e583f6b913fe382ef509091a91aa4980d310b08c"/>
+	</game>
+	<game name="MagPi, The - Issue 027 (2014-10)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 027 (2014-10)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 027 (2014-10)(Raspberry Pi)(GB).pdf" size="10067715" crc="97498388" md5="0fe19b47b4a376595581a80b65296814" sha1="a12ec56327de74c69f4fd15a17cf7e2a42b28626"/>
+	</game>
+	<game name="MagPi, The - Issue 028 (2014-11)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 028 (2014-11)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 028 (2014-11)(Raspberry Pi)(GB).pdf" size="12568005" crc="44993ab6" md5="2f45890a7d152dca8de40c48a8090647" sha1="ce787767ae4ed9d87c9194cf859f29bb3dcf0fcd"/>
+	</game>
+	<game name="MagPi, The - Issue 029 (2014-12)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 029 (2014-12)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 029 (2014-12)(Raspberry Pi)(GB).pdf" size="14590461" crc="ca139406" md5="59b6eafbac213eda26cc9466caa47e91" sha1="a230df6cb59657d05fc62d410e5077efdfc72924"/>
+	</game>
+	<game name="MagPi, The - Issue 030 (2015-02)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 030 (2015-02)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 030 (2015-02)(Raspberry Pi)(GB).pdf" size="17344189" crc="bf38fed9" md5="7d19b96133c183f01ae2898a512283c6" sha1="d271c114b263a7fdb487a76e10bad6c9401dfaf0"/>
+	</game>
+	<game name="MagPi, The - Issue 031 (2015-03)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 031 (2015-03)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 031 (2015-03)(Raspberry Pi)(GB).pdf" size="25038359" crc="d87f2bf5" md5="c804a2f42552c29dd28e0e93725449ac" sha1="bf36b3a05d359e811b70c344244cde39c1ca10de"/>
+	</game>
+	<game name="MagPi, The - Issue 032 (2015-04)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 032 (2015-04)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 032 (2015-04)(Raspberry Pi)(GB).pdf" size="11410919" crc="d2e00219" md5="a2e4350c882265c443197248acfa178a" sha1="cff08202a48ecdca2f46868cc59bcc8063fe1136"/>
+	</game>
+	<game name="MagPi, The - Issue 033 (2015-05)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 033 (2015-05)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 033 (2015-05)(Raspberry Pi)(GB).pdf" size="12270833" crc="dfc3e2ec" md5="5078354a9a026b980885368d4267b46f" sha1="13be8727bf1cafc00e2af2f2e37b8f92a7c64368"/>
+	</game>
+	<game name="MagPi, The - Issue 034 (2015-06)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 034 (2015-06)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 034 (2015-06)(Raspberry Pi)(GB).pdf" size="12388666" crc="67b1916c" md5="da3d4de624cb8b758713e7f56ad275c3" sha1="2ab973d0c13a2c9ba6dfb8bec355181bdb58b61b"/>
+	</game>
+	<game name="MagPi, The - Issue 035 (2015-07)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 035 (2015-07)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 035 (2015-07)(Raspberry Pi)(GB).pdf" size="13034554" crc="19298a99" md5="e5f4041e6cba0cb2f0507129b5df0925" sha1="ca1efaee60d0446da822fa54def9da65933b2efc"/>
+	</game>
+	<game name="MagPi, The - Issue 036 (2015-08)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 036 (2015-08)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 036 (2015-08)(Raspberry Pi)(GB).pdf" size="15842219" crc="9b695421" md5="9c9b80c3cdc714022b00bf9a9da56276" sha1="d8acf9cbb4a7f84e228b321b062a9858c9e3e54f"/>
+	</game>
+	<game name="MagPi, The - Issue 037 (2015-09)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 037 (2015-09)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 037 (2015-09)(Raspberry Pi)(GB).pdf" size="20989231" crc="673e0ab4" md5="59758334048f94b9688bf0891900186c" sha1="f49b2d78a822344c68115761bf90ce8fce0ff1db"/>
+	</game>
+	<game name="MagPi, The - Issue 038 (2015-10)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 038 (2015-10)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 038 (2015-10)(Raspberry Pi)(GB).pdf" size="17224956" crc="84250d22" md5="7e8bdb130f4183da36743a78609dd17f" sha1="1274855a66b1cac58f8fbcf321d1d8f141661b8c"/>
+	</game>
+	<game name="MagPi, The - Issue 039 (2015-11)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 039 (2015-11)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 039 (2015-11)(Raspberry Pi)(GB).pdf" size="20208668" crc="e49191c4" md5="e15c1bdb54a7723459153e166e8cdae3" sha1="02f43f257e3865f105fd27f912143a6700283a6b"/>
+	</game>
+	<game name="MagPi, The - Issue 040 (2015)(Raspberry Pi)(GB)[christmas edition]">
+		<description>MagPi, The - Issue 040 (2015)(Raspberry Pi)(GB)[christmas edition]</description>
+		<rom name="MagPi, The - Issue 040 (2015)(Raspberry Pi)(GB)[christmas edition].pdf" size="21891838" crc="ceb1c6fb" md5="00b7abfe0649e1babc830757728c4f6d" sha1="600f3d13a8f77f56031590fda51a9013b5435fc1"/>
+	</game>
+	<game name="MagPi, The - Issue 041 (2016-01)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 041 (2016-01)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 041 (2016-01)(Raspberry Pi)(GB).pdf" size="24082427" crc="31799c59" md5="e9f1bfe14f15d01b79a1cea39b0bd01f" sha1="e11d4794aec0b805f227e6346b8df34bc6e37b2b"/>
+	</game>
+	<game name="MagPi, The - Issue 042 (2016-02)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 042 (2016-02)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 042 (2016-02)(Raspberry Pi)(GB).pdf" size="24011460" crc="da7f7fc2" md5="4baa250ee1b1788228060501394b6210" sha1="bd77c01c651d92073d579dcd3dec4f55d8051e53"/>
+	</game>
+	<game name="MagPi, The - Issue 043 (2016-03)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 043 (2016-03)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 043 (2016-03)(Raspberry Pi)(GB).pdf" size="19581683" crc="0fc4d511" md5="10ee98e650652629aa5c3ea2bef91d4b" sha1="4a8c6eae9817f805d2baea6ef4042844b97d7218"/>
+	</game>
+	<game name="MagPi, The - Issue 044 (2016-04)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 044 (2016-04)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 044 (2016-04)(Raspberry Pi)(GB).pdf" size="21201341" crc="24fb1751" md5="2e6757900343434d206dffa0eeb4b777" sha1="7274ee49f039642dbd502b9338fe7abb31be19ad"/>
+	</game>
+	<game name="MagPi, The - Issue 045 (2016-05)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 045 (2016-05)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 045 (2016-05)(Raspberry Pi)(GB).pdf" size="19343109" crc="21a4a791" md5="0bc756a3a7f62798d9c774f1aae91e36" sha1="682351773861df7779bffcf0c570152900669721"/>
+	</game>
+	<game name="MagPi, The - Issue 046 (2016-06)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 046 (2016-06)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 046 (2016-06)(Raspberry Pi)(GB).pdf" size="22536773" crc="c6a8f0b1" md5="ef49869beb893267befbce3306a08c61" sha1="41cc5cbd91c32660582904fb34149e953ca65595"/>
+	</game>
+	<game name="MagPi, The - Issue 047 (2016-07)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 047 (2016-07)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 047 (2016-07)(Raspberry Pi)(GB).pdf" size="22521669" crc="ee5c148a" md5="1b3ece8befb460df591695955bade207" sha1="9c76e2809e8a85db59e6f74d4209b2e5b7372614"/>
+	</game>
+	<game name="MagPi, The - Issue 048 (2016-08)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 048 (2016-08)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 048 (2016-08)(Raspberry Pi)(GB).pdf" size="21646514" crc="b6e8c618" md5="794f041fbf916511176b091a1ac177b8" sha1="aa7fc4b27eb8bc72373bf5e31cc42a51378f96bc"/>
+	</game>
+	<game name="MagPi, The - Issue 049 (2016-09)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 049 (2016-09)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 049 (2016-09)(Raspberry Pi)(GB).pdf" size="21106158" crc="1aa39a08" md5="10d71a342cb17417d8816bf183661836" sha1="62ee6baf608113858e0cb747e28b83c340c3ef6f"/>
+	</game>
+	<game name="MagPi, The - Issue 050 (2016-10)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 050 (2016-10)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 050 (2016-10)(Raspberry Pi)(GB).pdf" size="34355377" crc="58a2bf82" md5="4ef7cea040ac75f6ce28257f190b7f1c" sha1="de890a8b55c758d4a42d3c5a71a2b600ff9bb236"/>
+	</game>
+	<game name="MagPi, The - Issue 051 (2016-11)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 051 (2016-11)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 051 (2016-11)(Raspberry Pi)(GB).pdf" size="24212873" crc="684116e9" md5="350d6d4fc928a086c1fb1a10dcf33415" sha1="90b2b7295e0b30de83e367f7c16571ba411c1be6"/>
+	</game>
+	<game name="MagPi, The - Issue 052 (2016-12)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 052 (2016-12)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 052 (2016-12)(Raspberry Pi)(GB).pdf" size="25678392" crc="a56e436b" md5="6fb331fe9f20ff946d92ddab0969b057" sha1="bb66bbbfff5f440ac8c02122d7def46008ea4559"/>
+	</game>
+	<game name="MagPi, The - Issue 053 (2017-01)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 053 (2017-01)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 053 (2017-01)(Raspberry Pi)(GB).pdf" size="24207757" crc="bbbb4126" md5="ede3182877543a33cb05f6c5884fc3d3" sha1="21607628ef4c5b0ed87c8b9d02afbc6ea71873d8"/>
+	</game>
+	<game name="MagPi, The - Issue 054 (2017-02)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 054 (2017-02)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 054 (2017-02)(Raspberry Pi)(GB).pdf" size="26891867" crc="0390248c" md5="cbce5290a38bfddc96fc61e8fb027c8d" sha1="f8aa4b88117901680814dbd399661d88c7184314"/>
+	</game>
+	<game name="MagPi, The - Issue 055 (2017-03)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 055 (2017-03)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 055 (2017-03)(Raspberry Pi)(GB).pdf" size="24948786" crc="5235ab81" md5="e000c906f4f02e8ac3f0c21abfcea8af" sha1="6e03ca42c76e8bddeece16013494470aebdf1420"/>
+	</game>
+	<game name="MagPi, The - Issue 056 (2017-05)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 056 (2017-05)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 056 (2017-05)(Raspberry Pi)(GB).pdf" size="25262283" crc="e6cd57ba" md5="0d5962e5b757aab1994bb1fbcda675d8" sha1="c1a91b5bf15c2e272d0d805d4b3a082fbad143c2"/>
+	</game>
+	<game name="MagPi, The - Issue 057 (2017-05)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 057 (2017-05)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 057 (2017-05)(Raspberry Pi)(GB).pdf" size="27559288" crc="9e646925" md5="5a8a4dcbb99afcfdcc1e34b2960b5f17" sha1="be3ef8a5cc1a004653de07c9860f7302ee311c90"/>
+	</game>
+	<game name="MagPi, The - Issue 058 (2017-06)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 058 (2017-06)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 058 (2017-06)(Raspberry Pi)(GB).pdf" size="24302903" crc="578eb9c4" md5="9d3bee64f2fbbe07fc0cd27af0efb384" sha1="6af8032da49cc1bf4e0841c81a323a817e9626b7"/>
+	</game>
+	<game name="MagPi, The - Issue 059 (2017-07)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 059 (2017-07)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 059 (2017-07)(Raspberry Pi)(GB).pdf" size="27000219" crc="c43c7cea" md5="ed97ba0776db001bc6aed6ab403210e6" sha1="46294443b72c7dcc11ad60782863916de03f1912"/>
+	</game>
+	<game name="MagPi, The - Issue 060 (2017-08)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 060 (2017-08)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 060 (2017-08)(Raspberry Pi)(GB).pdf" size="25638703" crc="b306b9c5" md5="c5d3fd189087f326ad81016418887040" sha1="bb23f7ea57b4af4986996d108df346a1e9b8441e"/>
+	</game>
+	<game name="MagPi, The - Issue 061 (2017-09)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 061 (2017-09)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 061 (2017-09)(Raspberry Pi)(GB).pdf" size="26430280" crc="99a97b3c" md5="9e614818cb2b00a41e46bed1172b0fe7" sha1="ccd6ff2464e2ff97e164cbae1b79a548f0e68af7"/>
+	</game>
+	<game name="MagPi, The - Issue 062 (2017-10)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 062 (2017-10)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 062 (2017-10)(Raspberry Pi)(GB).pdf" size="26656564" crc="61fba534" md5="19edc2cfe168f7b1614c89dc3dc538f4" sha1="9c2b4310a37510879d2a7d95027a393af470381d"/>
+	</game>
+	<game name="MagPi, The - Issue 063 (2017-11)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 063 (2017-11)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 063 (2017-11)(Raspberry Pi)(GB).pdf" size="23189399" crc="05f72c5f" md5="16727aa7d92035132f553f3b98930030" sha1="af94dc35b7e7b6cfea7f95ad558bd9d3197a3bb5"/>
+	</game>
+	<game name="MagPi, The - Issue 064 (2017-12)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 064 (2017-12)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 064 (2017-12)(Raspberry Pi)(GB).pdf" size="27369176" crc="4edc9aa2" md5="2350c828f03439efd5161cf62c4d41ca" sha1="c15ea17681df3cfd91bf2a79321b2cf8eeb9a9e9"/>
+	</game>
+	<game name="MagPi, The - Issue 065 (2018-01)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 065 (2018-01)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 065 (2018-01)(Raspberry Pi)(GB).pdf" size="27435917" crc="6fbb309f" md5="6e108f245aba36772bec5b14468e1429" sha1="a2dca732737874228d63c8bfb7d864f14061aacc"/>
+	</game>
+	<game name="MagPi, The - Issue 066 (2018-02)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 066 (2018-02)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 066 (2018-02)(Raspberry Pi)(GB).pdf" size="28133633" crc="350ae517" md5="f2feb15e6ecb115bbd9bbec85038a326" sha1="49d025a8584d3c7095eb5f53c526d3acd7861fa6"/>
+	</game>
+	<game name="MagPi, The - Issue 067 (2018-03)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 067 (2018-03)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 067 (2018-03)(Raspberry Pi)(GB).pdf" size="30700571" crc="ffe2f32c" md5="ef81d030b8768b7ab7caef2a4f8b333a" sha1="381adb1f00d9b56136be08712b33de47fd3cae27"/>
+	</game>
+	<game name="MagPi, The - Issue 068 (2018-04)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 068 (2018-04)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 068 (2018-04)(Raspberry Pi)(GB).pdf" size="23939577" crc="7a77d49d" md5="bc5afb8180796267f79b374f2d44c067" sha1="fa7a586b613d800b0f52cd15de05c120beba8ecf"/>
+	</game>
+	<game name="MagPi, The - Issue 069 (2018-05)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 069 (2018-05)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 069 (2018-05)(Raspberry Pi)(GB).pdf" size="22120206" crc="6b9d0404" md5="f556f3760844d9efb36c49c80b83f673" sha1="100a572f8dab41c383c6f89c7e27b33ede72023a"/>
+	</game>
+	<game name="MagPi, The - Issue 070 (2018-06)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 070 (2018-06)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 070 (2018-06)(Raspberry Pi)(GB).pdf" size="32383004" crc="2817a420" md5="125e23eb7c81e32309e3b102911c0ec1" sha1="02aa3552c6a7125d82cbb8ac7ca557fa046dc03c"/>
+	</game>
+	<game name="MagPi, The - Issue 071 (2018-07)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 071 (2018-07)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 071 (2018-07)(Raspberry Pi)(GB).pdf" size="36952673" crc="2ce1a720" md5="31bc689d23bc0825bd55a5dfbd946019" sha1="918c0532aad7654c34723730123c9c9e10e9b473"/>
+	</game>
+	<game name="MagPi, The - Issue 072 (2018-08)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 072 (2018-08)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 072 (2018-08)(Raspberry Pi)(GB).pdf" size="33529901" crc="734b68c9" md5="bea530c221509c0d5770fdd98387dca5" sha1="5b2f5bd226477a406ffa988813b3496e915706aa"/>
+	</game>
+	<game name="MagPi, The - Issue 073 (2018-09)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 073 (2018-09)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 073 (2018-09)(Raspberry Pi)(GB).pdf" size="36876665" crc="afc11d1f" md5="247368bcdc34d1538cb4d150e8d8ab82" sha1="f9ebfc59f6d19e081b2838277535ff75f8ac3556"/>
+	</game>
+	<game name="MagPi, The - Issue 074 (2018-10)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 074 (2018-10)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 074 (2018-10)(Raspberry Pi)(GB).pdf" size="31721126" crc="e55f68a3" md5="14fbe69fb3550c190b2ede652ddda8b4" sha1="63483b4df2b9a51c770a7ee0fbfbf64f93546057"/>
+	</game>
+	<game name="MagPi, The - Issue 075 (2018-11)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 075 (2018-11)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 075 (2018-11)(Raspberry Pi)(GB).pdf" size="31138772" crc="c14b3443" md5="aa14dbb86d12a3b19204380fe3a4b2f8" sha1="6a6a263a74ccb4e6886aa9a2948a80d8261ddaaa"/>
+	</game>
+	<game name="MagPi, The - Issue 076 (2018-12)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 076 (2018-12)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 076 (2018-12)(Raspberry Pi)(GB).pdf" size="26502002" crc="0f4a217c" md5="8b619f3e0644e0b18769dde042f38632" sha1="920b88cfc153b01a9ac0fc4753bd252c4b14cd82"/>
+	</game>
+	<game name="MagPi, The - Issue 077 (2019-01)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 077 (2019-01)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 077 (2019-01)(Raspberry Pi)(GB).pdf" size="32145980" crc="a3e466a9" md5="966edc978b3748983ebbd2a140321923" sha1="3268d806c2ce2ce34466e4addf8517ccbaeba60c"/>
+	</game>
+	<game name="MagPi, The - Issue 078 (2019-02)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 078 (2019-02)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 078 (2019-02)(Raspberry Pi)(GB).pdf" size="24661860" crc="49849719" md5="61d6c3447aad893352c4dd6832e3949c" sha1="7cfcd1a78a44a44595da8e1ac9c0bad8f7a0e8b3"/>
+	</game>
+	<game name="MagPi, The - Issue 079 (2019-03)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 079 (2019-03)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 079 (2019-03)(Raspberry Pi)(GB).pdf" size="33933501" crc="b869645d" md5="2546ece6356d99451c866fe571b2d8f1" sha1="52b7d8726941460293aca2a9e142c1922c3dd4b3"/>
+	</game>
+	<game name="MagPi, The - Issue 080 (2019-04)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 080 (2019-04)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 080 (2019-04)(Raspberry Pi)(GB).pdf" size="37337864" crc="f2d515f1" md5="2ed89d9543fa3f033213afd777f130e5" sha1="d210e89c4642aa080ccd7f95b9ecdce7305ac7b0"/>
+	</game>
+	<game name="MagPi, The - Issue 081 (2019-05)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 081 (2019-05)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 081 (2019-05)(Raspberry Pi)(GB).pdf" size="37113742" crc="6647b8b6" md5="28647eec1e6ead839f196fa2e92ec134" sha1="f6dbaa5ae7b45b75cad6af673463e4e6bae0b59a"/>
+	</game>
+	<game name="MagPi, The - Issue 082 (2019-06)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 082 (2019-06)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 082 (2019-06)(Raspberry Pi)(GB).pdf" size="37138090" crc="f802b0c2" md5="244bac445e2c2af3e16000080f3ef2e5" sha1="2a5809f4f70fed95f5383c4b0e452db10854aa18"/>
+	</game>
+	<game name="MagPi, The - Issue 083 (2019-07)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 083 (2019-07)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 083 (2019-07)(Raspberry Pi)(GB).pdf" size="39264051" crc="4e8120ed" md5="a572994a23abdeb91400f45c6445b857" sha1="7deae0db42309f6c926c043da2f1e1d47b3fe04a"/>
+	</game>
+	<game name="MagPi, The - Issue 084 (2019-08)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 084 (2019-08)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 084 (2019-08)(Raspberry Pi)(GB).pdf" size="34212710" crc="f8683393" md5="d826281e6abe198101092174ec835119" sha1="3f90d0815234179dd1a8c6f63fbc522fef6fe214"/>
+	</game>
+	<game name="MagPi, The - Issue 085 (2019-09)(Raspberry Pi)(GB)">
+		<description>MagPi, The - Issue 085 (2019-09)(Raspberry Pi)(GB)</description>
+		<rom name="MagPi, The - Issue 085 (2019-09)(Raspberry Pi)(GB).pdf" size="36789746" crc="7806da74" md5="ef875ae7bac29d65f6ef1bef43952cb9" sha1="bdd4278049466664151a3a953c15ea6c082e5ba8"/>
+	</game>
+	<game name="MagPi, The - Issue 34 (2015-06)(Raspberry Pi Trading)(US)">
+		<description>MagPi, The - Issue 34 (2015-06)(Raspberry Pi Trading)(US)</description>
+		<rom name="MagPi, The - Issue 34 (2015-06)(Raspberry Pi Trading)(US).pdf" size="12498570" crc="d6f9764a" md5="296c48be3ed00bbbecc7a24d5b468848" sha1="c93ad3c0cc6ab30f88572c466002d7a4c2e17f54"/>
+	</game>
+	<game name="MagPi, The - Issue 35 (2015-07)(Raspberry Pi Trading)(US)">
+		<description>MagPi, The - Issue 35 (2015-07)(Raspberry Pi Trading)(US)</description>
+		<rom name="MagPi, The - Issue 35 (2015-07)(Raspberry Pi Trading)(US).pdf" size="12740467" crc="9b36e7ac" md5="32f7f2566e670bab9177d44a52feee6f" sha1="d88a7418148167ced5cb938a363a2bf09395e6e8"/>
+	</game>
+	<game name="MagPi, The - Issue 36 (2015-08)(Raspberry Pi Trading)(US)">
+		<description>MagPi, The - Issue 36 (2015-08)(Raspberry Pi Trading)(US)</description>
+		<rom name="MagPi, The - Issue 36 (2015-08)(Raspberry Pi Trading)(US).pdf" size="15977367" crc="dd2aa114" md5="17e761267289d50c3cdbc6110d504c80" sha1="6a2d0ae3fe8cea6236013ea176efce6311fa283c"/>
+	</game>
+	<game name="MagPi, The - Issue 43 (2016-03)(Raspberry Pi Trading)(US)">
+		<description>MagPi, The - Issue 43 (2016-03)(Raspberry Pi Trading)(US)</description>
+		<rom name="MagPi, The - Issue 43 (2016-03)(Raspberry Pi Trading)(US).pdf" size="19581683" crc="19b50877" md5="df4a10d12c8ad36a1456ab1cd33cc79e" sha1="0a19a4ea7c4d1886dc23dcd80fe9d50e1b8f9a55"/>
+	</game>
+</datafile>

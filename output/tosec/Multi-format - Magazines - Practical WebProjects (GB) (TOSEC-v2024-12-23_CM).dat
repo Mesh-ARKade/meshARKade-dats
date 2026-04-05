@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Practical WebProjects (GB)</name>
+		<description>Multi-format - Magazines - Practical WebProjects (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Practical WebProjects - Issue 17 (2004)(Highbury Entertainment)(GB)">
+		<description>Practical WebProjects - Issue 17 (2004)(Highbury Entertainment)(GB)</description>
+		<rom name="Practical WebProjects - Issue 17 (2004)(Highbury Entertainment)(GB).pdf" size="18996087" crc="f227ba1b" md5="d8c9cabf9bbfaacad53c3fc79820b283" sha1="00bf38d137a60d7afd6e80bd1b672f3c270264c9"/>
+	</game>
+	<game name="Practical WebProjects - Issue 19 (2004)(Highbury Entertainment)(GB)">
+		<description>Practical WebProjects - Issue 19 (2004)(Highbury Entertainment)(GB)</description>
+		<rom name="Practical WebProjects - Issue 19 (2004)(Highbury Entertainment)(GB).pdf" size="20412637" crc="1c464e9c" md5="dbf46893f2b20ccc15cef0e98d5b42a6" sha1="bc00a3e049fabedfdbfbd0dee88e871153e0cd0e"/>
+	</game>
+	<game name="Practical WebProjects - Issue 30 (2005)(Highbury Entertainment)(GB)">
+		<description>Practical WebProjects - Issue 30 (2005)(Highbury Entertainment)(GB)</description>
+		<rom name="Practical WebProjects - Issue 30 (2005)(Highbury Entertainment)(GB).pdf" size="21439744" crc="6b8bd5d3" md5="aeb534ac9095cb9b9b479690de2ca0c4" sha1="1bbda9ad01a3b083e9a3f97c54b919c8b6d514f9"/>
+	</game>
+</datafile>

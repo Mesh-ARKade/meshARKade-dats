@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - playTM (AU)</name>
+		<description>Sony PlayStation 2 - Magazines - playTM (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="playTM - Issue 04 (2004)(Highbury Paragon)(AU)">
+		<description>playTM - Issue 04 (2004)(Highbury Paragon)(AU)</description>
+		<rom name="playTM - Issue 04 (2004)(Highbury Paragon)(AU).pdf" size="193505911" crc="5a06f1d7" md5="c94e4f2daad02a966b8c0a9cbe7f9cec" sha1="8833535fc2c1eb06716bd97ce75f4c31d84e3031"/>
+	</game>
+	<game name="playTM - Issue 07 (2004)(Highbury Paragon)(AU)">
+		<description>playTM - Issue 07 (2004)(Highbury Paragon)(AU)</description>
+		<rom name="playTM - Issue 07 (2004)(Highbury Paragon)(AU).pdf" size="214272315" crc="dfb5c3db" md5="3ffb28fb1ef9c2f2f9bf2acbdfb15d65" sha1="08895019262e91bc65bef7336659c13bfef26971"/>
+	</game>
+</datafile>

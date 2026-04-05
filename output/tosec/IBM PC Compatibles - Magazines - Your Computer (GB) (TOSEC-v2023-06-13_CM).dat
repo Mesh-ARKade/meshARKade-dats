@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - Your Computer (GB)</name>
+		<description>IBM PC Compatibles - Magazines - Your Computer (GB) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Your Computer - Vol 5 No 10 (1985-10)(Focus Magazines)(GB)">
+		<description>Your Computer - Vol 5 No 10 (1985-10)(Focus Magazines)(GB)</description>
+		<rom name="Your Computer - Vol 5 No 10 (1985-10)(Focus Magazines)(GB).pdf" size="181941971" crc="3dcb5b8a" md5="88f232eeb95f1dc5deefaecba03903d9" sha1="34406289767b0f3192c8d93d0c9afb8ee80bca12"/>
+	</game>
+	<game name="Your Computer - Vol 5 No 7 (1985-07)(Focus Magazines)(GB)">
+		<description>Your Computer - Vol 5 No 7 (1985-07)(Focus Magazines)(GB)</description>
+		<rom name="Your Computer - Vol 5 No 7 (1985-07)(Focus Magazines)(GB).pdf" size="181442970" crc="f8c2e4cf" md5="c17c560ff1a6c96ae5f3ed3d678b5fec" sha1="9b510dd3f7af3b15f603eefc75179b82c61ecd04"/>
+	</game>
+	<game name="Your Computer - Vol 7 No 1 (1987-01)(Focus Magazines)(GB)">
+		<description>Your Computer - Vol 7 No 1 (1987-01)(Focus Magazines)(GB)</description>
+		<rom name="Your Computer - Vol 7 No 1 (1987-01)(Focus Magazines)(GB).pdf" size="187514957" crc="6ce7415b" md5="c6ab9c758bf5c48b4cdb3fb6884910ad" sha1="0bc71d47ccd6720298978b82180e94f662f3eba4"/>
+	</game>
+	<game name="Your Computer - Vol 7 No 3 (1987-03)(Focus Magazines)(GB)">
+		<description>Your Computer - Vol 7 No 3 (1987-03)(Focus Magazines)(GB)</description>
+		<rom name="Your Computer - Vol 7 No 3 (1987-03)(Focus Magazines)(GB).pdf" size="160699017" crc="73e908e2" md5="3f86f2c0f312a6a5887190ca2d9d84db" sha1="e7bb804a95f9ed3638deea0a2d7e65bdc8c9ff16"/>
+	</game>
+	<game name="Your Computer - Vol 7 No 5 (1987-05)(Focus Magazines)(GB)">
+		<description>Your Computer - Vol 7 No 5 (1987-05)(Focus Magazines)(GB)</description>
+		<rom name="Your Computer - Vol 7 No 5 (1987-05)(Focus Magazines)(GB).pdf" size="142252612" crc="fe5684f3" md5="aa86c568ddd1386309636ebc14f21528" sha1="a2b7eb15b5dee174c84e2e6e6cbe2e4337113f97"/>
+	</game>
+</datafile>

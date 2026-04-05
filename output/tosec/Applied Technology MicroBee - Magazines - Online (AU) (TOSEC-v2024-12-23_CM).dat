@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Applied Technology MicroBee - Magazines - Online (AU)</name>
+		<description>Applied Technology MicroBee - Magazines - Online (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Online - Issue 01 (1984-06)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 01 (1984-06)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 01 (1984-06)(Honeysoft Publications)(AU).pdf" size="86868184" crc="6c22e093" md5="7d875d9837ab0b956a9c7360fc3a5b2e" sha1="6142b3dc92357a6676c8711761edc787bd0884f2"/>
+	</game>
+	<game name="Online - Issue 02 (1984-07)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 02 (1984-07)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 02 (1984-07)(Honeysoft Publications)(AU).pdf" size="86916425" crc="9d863377" md5="5b580fe63a4ac0e0400ad9f0bdc7bb38" sha1="e03d2fadc463faec960bb9c0c6dc1a9ae584cffe"/>
+	</game>
+	<game name="Online - Issue 03 (1984-08)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 03 (1984-08)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 03 (1984-08)(Honeysoft Publications)(AU).pdf" size="85891703" crc="f724a656" md5="1d0a97dea48e2c7bea5afe3354677c95" sha1="8806bbb8659051323a8903367bbc017578c2ddbe"/>
+	</game>
+	<game name="Online - Issue 04 (1984-09)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 04 (1984-09)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 04 (1984-09)(Honeysoft Publications)(AU).pdf" size="88074142" crc="59ec1a67" md5="c11da416c0b22099a67d52f68bcfc467" sha1="af13a4d62114f8af5806f0c9e1f49a2c87f41897"/>
+	</game>
+	<game name="Online - Issue 05 (1984-10)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 05 (1984-10)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 05 (1984-10)(Honeysoft Publications)(AU).pdf" size="104091380" crc="db9cded1" md5="ee923c2502f1cee20bae689cc0c47195" sha1="5cb76b5511b92f91ac5eeee550f83489534832de"/>
+	</game>
+	<game name="Online - Issue 06 (1984-12)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 06 (1984-12)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 06 (1984-12)(Honeysoft Publications)(AU).pdf" size="121907603" crc="793bb2ca" md5="b3973663100655b93510490ae745ede6" sha1="b04bf354b88fa28ef1ebdb0731090e58512089b7"/>
+	</game>
+	<game name="Online - Issue 07 (1985-01)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 07 (1985-01)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 07 (1985-01)(Honeysoft Publications)(AU).pdf" size="82156095" crc="6787dad4" md5="a1bfeec2bb418476643a75d23bb907d8" sha1="9f9358a38363a39f02dd76c46eae90b182cfaa2b"/>
+	</game>
+	<game name="Online - Issue 08 (1985-02)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 08 (1985-02)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 08 (1985-02)(Honeysoft Publications)(AU).pdf" size="63172257" crc="4db08554" md5="15e02d8a58dfe6d401571343c66ef8ec" sha1="e63b814e1e8ad1f9f8c09f4792ff792da0c9dedd"/>
+	</game>
+	<game name="Online - Issue 09 (1985-03)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 09 (1985-03)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 09 (1985-03)(Honeysoft Publications)(AU).pdf" size="61209044" crc="a1196816" md5="036dbd1ffa2ed46ef7f12c78dded07bf" sha1="f5aafdd9e6e018c5df31a6cbc3d5f6f1e4132a79"/>
+	</game>
+	<game name="Online - Issue 10 (1985-04)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 10 (1985-04)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 10 (1985-04)(Honeysoft Publications)(AU).pdf" size="56193047" crc="cb2df32c" md5="96f0989f66a67e030095eaca2d82aeed" sha1="35bf85a8bc88b5856eb3ec9edd9995331715263c"/>
+	</game>
+	<game name="Online - Issue 11 (1985-05)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 11 (1985-05)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 11 (1985-05)(Honeysoft Publications)(AU).pdf" size="54469595" crc="eb28ec08" md5="871b1f7f00e351ec3da824cbab2ddbab" sha1="82fabeede099a6ee1997bb0b3847b5a81f33bd25"/>
+	</game>
+	<game name="Online - Issue 12 (1985-06)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 12 (1985-06)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 12 (1985-06)(Honeysoft Publications)(AU).pdf" size="57245026" crc="6950d5b7" md5="142425f01e3618d3b7bf6fadd6281fd8" sha1="69bd1d5f6fe62fa4641fba51cb25bc4b33d732f7"/>
+	</game>
+	<game name="Online - Issue 13 (1985-07)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 13 (1985-07)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 13 (1985-07)(Honeysoft Publications)(AU).pdf" size="54501950" crc="b92c66c2" md5="bcd2e52889100e52fcf5b47761e2b034" sha1="9d28cdca3ce4680881afc2ffeb808cef303972d5"/>
+	</game>
+	<game name="Online - Issue 14 (1985-08)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 14 (1985-08)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 14 (1985-08)(Honeysoft Publications)(AU).pdf" size="54634884" crc="fae71261" md5="f12f73ece3709972e27fc237fc1cec71" sha1="789b085b9dd85b300364c6524bd4a34de6fb58e4"/>
+	</game>
+	<game name="Online - Issue 15 (1985-09)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 15 (1985-09)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 15 (1985-09)(Honeysoft Publications)(AU).pdf" size="50471678" crc="a8088b6d" md5="61af448eaebe7c242e13698d1e76c75d" sha1="630e1238534f16a3bb53efdd2247d8725125dc62"/>
+	</game>
+	<game name="Online - Issue 16 (1985-10)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 16 (1985-10)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 16 (1985-10)(Honeysoft Publications)(AU).pdf" size="54884287" crc="02730c63" md5="5fb51a4eaa4e4aaf9e87ea76cb2fa72f" sha1="6e2e823fcd653808487cb61d80fa20640582978e"/>
+	</game>
+	<game name="Online - Issue 17 (1985-11)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 17 (1985-11)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 17 (1985-11)(Honeysoft Publications)(AU).pdf" size="62512889" crc="bcc8154b" md5="ed228ba8ff9f996393f87deb27caf34f" sha1="b506c4f886a2b7e9e662943ce448a64729344d58"/>
+	</game>
+	<game name="Online - Issue 18 (1985-12)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 18 (1985-12)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 18 (1985-12)(Honeysoft Publications)(AU).pdf" size="55995512" crc="39cfb964" md5="44da9bcb88b5077d45a22a90093e0cfd" sha1="4a6c13493e46b7ad3610ad765b8dbd40cf54fdd2"/>
+	</game>
+	<game name="Online - Issue 19 (1986-01)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 19 (1986-01)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 19 (1986-01)(Honeysoft Publications)(AU).pdf" size="65071345" crc="d9cbe43d" md5="859c704cfc1e66b4639f08afc000197c" sha1="3f9bbda9e58166b2891d39458a6643ad6ec32adc"/>
+	</game>
+	<game name="Online - Issue 20 (1986-02)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 20 (1986-02)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 20 (1986-02)(Honeysoft Publications)(AU).pdf" size="71011245" crc="623562a2" md5="d481e3f3cd07fba0803e8ec8911f138e" sha1="a9abbde4d6f3ea9914087be486d7dc7ef2a64311"/>
+	</game>
+	<game name="Online - Issue 21 (1986-03)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 21 (1986-03)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 21 (1986-03)(Honeysoft Publications)(AU).pdf" size="57180399" crc="032fd55c" md5="129f79e0964b3f510e98df6b5f5b147f" sha1="2e0c55eb592e7e9cd902aaa0efc5998f4f1dc6ce"/>
+	</game>
+	<game name="Online - Issue 22 (1986-04)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 22 (1986-04)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 22 (1986-04)(Honeysoft Publications)(AU).pdf" size="52479972" crc="e6a01603" md5="a019cb7ce3d28a0c1c7f05692c10e8ee" sha1="c837d4fd36dc1a998186fdf77b0bbed3bb54b87b"/>
+	</game>
+	<game name="Online - Issue 23 (1986-05)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 23 (1986-05)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 23 (1986-05)(Honeysoft Publications)(AU).pdf" size="63498148" crc="6ba1d01d" md5="7a5c4310ed6da2bfe91cd9702393b557" sha1="c782cfb7f08d9ef31898ba3c73a43b7248135359"/>
+	</game>
+	<game name="Online - Issue 24 (1986-06)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 24 (1986-06)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 24 (1986-06)(Honeysoft Publications)(AU).pdf" size="99250344" crc="68bb7fda" md5="f7cd2122e6eb038af6703a293923c8dd" sha1="da4e1cbc408f57509afc7f7592fa23ff7ad75510"/>
+	</game>
+	<game name="Online - Issue 25 (1986-07)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 25 (1986-07)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 25 (1986-07)(Honeysoft Publications)(AU).pdf" size="102663700" crc="d2a958b8" md5="5ec6f4611d7f233e6ff11ea829682779" sha1="cfab46c92e4370c69459e6a2d3ca6ae1ef1b279e"/>
+	</game>
+	<game name="Online - Issue 26 (1986-08)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 26 (1986-08)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 26 (1986-08)(Honeysoft Publications)(AU).pdf" size="61089576" crc="cdcefb3c" md5="8e264e1f13e29a69707d19bf4e1b835f" sha1="5f928763d2282380677d6c3530e6eafbfd5106a2"/>
+	</game>
+	<game name="Online - Issue 27 (1986-09)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 27 (1986-09)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 27 (1986-09)(Honeysoft Publications)(AU).pdf" size="10095190" crc="125ebd6f" md5="007b947375c7ce60ae710c8cda6df67d" sha1="3f1e8a641b1f4e443ea4773fee65f18dd4c4309b"/>
+	</game>
+	<game name="Online - Issue 28 (1986-10)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 28 (1986-10)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 28 (1986-10)(Honeysoft Publications)(AU).pdf" size="60754663" crc="ec849362" md5="1fc565f45d3aec4197781ceb8f5c2d88" sha1="8e0b0a326efe0d3beca336fb0ef0a162bc6d024c"/>
+	</game>
+	<game name="Online - Issue 29 (1986-11)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 29 (1986-11)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 29 (1986-11)(Honeysoft Publications)(AU).pdf" size="108042002" crc="87a69924" md5="2d150b148c66af8751f7afb9a2807cb7" sha1="af69c06ab1a7e1547c5c1f7f65e38140f067886f"/>
+	</game>
+	<game name="Online - Issue 30 (1986-12)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 30 (1986-12)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 30 (1986-12)(Honeysoft Publications)(AU).pdf" size="97838952" crc="e028d991" md5="ac5c64eb270f62c2e9ac83c506047c42" sha1="543d114715536bc41b626da3217ec31528848b21"/>
+	</game>
+	<game name="Online - Issue 31 (1987)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 31 (1987)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 31 (1987)(Honeysoft Publications)(AU).pdf" size="121801521" crc="3d301251" md5="8362db8b258513670cf96c11d361d0f7" sha1="5d13fd070f1fe1ca0bd2eecc7e8bd1735e59948a"/>
+	</game>
+	<game name="Online - Issue 32 (1987)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 32 (1987)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 32 (1987)(Honeysoft Publications)(AU).pdf" size="70405673" crc="ccfd43d8" md5="77647f6577b29a24b4d744e64bb021b8" sha1="b19aef7e51a51d1c3968022dbc5aaeb8059059fc"/>
+	</game>
+	<game name="Online - Issue 33 (1987)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 33 (1987)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 33 (1987)(Honeysoft Publications)(AU).pdf" size="86928312" crc="40fc7ad0" md5="698019f1808af8970e8a237513e6837a" sha1="439908927b244da59a3889f3844c8e762eb5f017"/>
+	</game>
+	<game name="Online - Issue 34 (1987)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 34 (1987)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 34 (1987)(Honeysoft Publications)(AU).pdf" size="98033534" crc="e3d4d222" md5="908f3e3eb9dd6a059d076a3d98e71c4d" sha1="6bb3be4e375a1c08819e8f6a96b84b092ebb62e5"/>
+	</game>
+	<game name="Online - Issue 35 (1988)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 35 (1988)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 35 (1988)(Honeysoft Publications)(AU).pdf" size="4170035" crc="9c3b68d5" md5="92919807dd15279c74121faeb01e7752" sha1="03d681827321cf35d6132e3cc9932dcd545bcb32"/>
+	</game>
+	<game name="Online - Issue 36 (1988)(Honeysoft Publications)(AU)">
+		<description>Online - Issue 36 (1988)(Honeysoft Publications)(AU)</description>
+		<rom name="Online - Issue 36 (1988)(Honeysoft Publications)(AU).pdf" size="2259173" crc="6382b8b7" md5="dd41f53288e6787e3025aae6eee6362c" sha1="5c7f99afbfdc5c42cc2793a0ea53573cd594c88f"/>
+	</game>
+</datafile>

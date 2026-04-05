@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - ZX Spectrum Gamer (GB)</name>
+		<description>Sinclair ZX Spectrum - Magazines - ZX Spectrum Gamer (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ZX Spectrum Gamer - Issue 01 (2011-10)(Weller, Paul)(GB)">
+		<description>ZX Spectrum Gamer - Issue 01 (2011-10)(Weller, Paul)(GB)</description>
+		<rom name="ZX Spectrum Gamer - Issue 01 (2011-10)(Weller, Paul)(GB).pdf" size="3946189" crc="c26d1b8c" md5="452b74e638d76f765e712ceb5cabdf14" sha1="89f1340ae738a7db7c148f2f2d1818cb8c4c9e50"/>
+	</game>
+	<game name="ZX Spectrum Gamer - Issue 02 (2012-04)(Weller, Paul)(GB)">
+		<description>ZX Spectrum Gamer - Issue 02 (2012-04)(Weller, Paul)(GB)</description>
+		<rom name="ZX Spectrum Gamer - Issue 02 (2012-04)(Weller, Paul)(GB).pdf" size="5051930" crc="1f7434bc" md5="92d53dd67adf856b0f8c1cc010e99341" sha1="2589babdb5b02a97ab1a823f67feda3148b3f439"/>
+	</game>
+	<game name="ZX Spectrum Gamer - Issue 03 (2013-09)(Weller, Paul)(GB)">
+		<description>ZX Spectrum Gamer - Issue 03 (2013-09)(Weller, Paul)(GB)</description>
+		<rom name="ZX Spectrum Gamer - Issue 03 (2013-09)(Weller, Paul)(GB).pdf" size="3726644" crc="7389d968" md5="00e9bca63cf0c5b42cabe45445f826db" sha1="e4199cbfb48120c6b6c3c280562d5ece02785aed"/>
+	</game>
+</datafile>

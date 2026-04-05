@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore - Magazines - Commodore Computing International (SE)</name>
+		<description>Commodore - Magazines - Commodore Computing International (SE) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Commodore Computing International - Issue 04 (1984-07)(Basic Press)(SE)">
+		<description>Commodore Computing International - Issue 04 (1984-07)(Basic Press)(SE)</description>
+		<rom name="Commodore Computing International - Issue 04 (1984-07)(Basic Press)(SE).pdf" size="4596760" crc="a83b7b14" md5="afc9aadcf12901d86950855ffb23f1ce" sha1="2d501f30755cefc4e4412411f2af7f81b4cfc223"/>
+	</game>
+	<game name="Commodore Computing International - Issue 05-06 (1984-08)(Basic Press)(SE)">
+		<description>Commodore Computing International - Issue 05-06 (1984-08)(Basic Press)(SE)</description>
+		<rom name="Commodore Computing International - Issue 05-06 (1984-08)(Basic Press)(SE).pdf" size="8110710" crc="b3abc56f" md5="311417bda2febebfb7dc82103ea2b7b9" sha1="73159ef45cd284b0cff26e7948bdd095477e7d4c"/>
+	</game>
+	<game name="Commodore Computing International - Issue 07-08 (1984-10)(Basic Press)(SE)">
+		<description>Commodore Computing International - Issue 07-08 (1984-10)(Basic Press)(SE)</description>
+		<rom name="Commodore Computing International - Issue 07-08 (1984-10)(Basic Press)(SE).pdf" size="6920373" crc="7dae2e55" md5="222a70af5fb7d83c86f2e65acc2df29c" sha1="527f00759fefac8d73628f2c255d8682b58d5811"/>
+	</game>
+	<game name="Commodore Computing International - Issue 09 (1984-12)(Basic Press)(SE)">
+		<description>Commodore Computing International - Issue 09 (1984-12)(Basic Press)(SE)</description>
+		<rom name="Commodore Computing International - Issue 09 (1984-12)(Basic Press)(SE).pdf" size="7094618" crc="caa9f3f7" md5="ab06caee19b276f3df5939cfb64cbce8" sha1="e98786fe19a8aa0088d29ff7b6bda412c378bf2a"/>
+	</game>
+</datafile>

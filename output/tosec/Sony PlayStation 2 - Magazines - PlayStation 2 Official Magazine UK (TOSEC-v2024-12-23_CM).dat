@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - PlayStation 2 Official Magazine UK</name>
+		<description>Sony PlayStation 2 - Magazines - PlayStation 2 Official Magazine UK (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation 2 Official Magazine UK - Issue 01 (2000-12)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 01 (2000-12)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 01 (2000-12)(Future Publishing)(GB).pdf" size="413104707" crc="6ea59adb" md5="5af1d76c2e278ecd004ebdd0322ad994" sha1="b0047f8f4f7f6c3e2b4fd52d74caecc4503ee43c"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 01 (2000-12)(Future Publishing)(GB)[a]">
+		<description>PlayStation 2 Official Magazine UK - Issue 01 (2000-12)(Future Publishing)(GB)[a]</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 01 (2000-12)(Future Publishing)(GB)[a].pdf" size="172133361" crc="af841cd9" md5="382ab534ea0cf38568d91c9e84dd895c" sha1="32529ff25635afe87c7f71e4022764da329f13a5"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 02 (2000-12)(Future Publishing)(GB)[a][christmas edition]">
+		<description>PlayStation 2 Official Magazine UK - Issue 02 (2000-12)(Future Publishing)(GB)[a][christmas edition]</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 02 (2000-12)(Future Publishing)(GB)[a][christmas edition].pdf" size="155582014" crc="73fa3fb0" md5="fcc68eac07a1521a77be894e8c73daba" sha1="4c699b7db8d96de45b124a143f60bc8efe5e8fe8"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 02 (2000-12)(Future Publishing)(GB)[christmas edition]">
+		<description>PlayStation 2 Official Magazine UK - Issue 02 (2000-12)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 02 (2000-12)(Future Publishing)(GB)[christmas edition].pdf" size="374307157" crc="f52ea419" md5="0ff02aa319337d4e56baa6e930061446" sha1="aa1e6e28f91dbd125860881277d2a23a7e1d05b0"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 03 (2001-01)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 03 (2001-01)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 03 (2001-01)(Future Publishing)(GB).pdf" size="367249521" crc="a28c17be" md5="fe8e0a3b4920b3fef804eee1da625fbe" sha1="6120d1f08604f4985043f914477622ffcf2d24d6"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 03 (2001-01)(Future Publishing)(GB)[a]">
+		<description>PlayStation 2 Official Magazine UK - Issue 03 (2001-01)(Future Publishing)(GB)[a]</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 03 (2001-01)(Future Publishing)(GB)[a].pdf" size="152443705" crc="d8fdd0d4" md5="2d979dd9222929897e3ea40a262f4c66" sha1="63b0327725deb03167157259f1c0e840dd9e5bf1"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 04 (2001-02)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 04 (2001-02)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 04 (2001-02)(Future Publishing)(GB).pdf" size="296347266" crc="7917c866" md5="ae8bfc85eb7351ed9595d4c5f930bbf0" sha1="10eb7ad4b3b82d35c56ebd98ce9409477f68a522"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 05 (2001-03)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 05 (2001-03)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 05 (2001-03)(Future Publishing)(GB).pdf" size="309482663" crc="95f12e09" md5="0fb6d541a617e016518c11084221700c" sha1="690038491cd3e81860b6d03324c696e47b801fc9"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 06 (2001-04)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 06 (2001-04)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 06 (2001-04)(Future Publishing)(GB).pdf" size="300691663" crc="b0a9b3d1" md5="8a47f6553755a4dad8b62289d90b11b3" sha1="56c6294679141cb7907a7ca56c1d804123fc0992"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 10 (2001-08)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 10 (2001-08)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 10 (2001-08)(Future Publishing)(GB).pdf" size="32717160" crc="eecbf919" md5="b9b527054b1bfec9f0ce54ceb9c100d3" sha1="2faf6e9796c7c491aa7ad48a47151724b672b5ed"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 11 (2001-09)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 11 (2001-09)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 11 (2001-09)(Future Publishing)(GB).pdf" size="33603461" crc="233518b9" md5="274dcbaea5f01dc134b338b54c967b91" sha1="52d394099cfe1ae72c84ceb1a6a458cd15853bf3"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 12 (2001-10)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 12 (2001-10)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 12 (2001-10)(Future Publishing)(GB).pdf" size="32989143" crc="1edbc519" md5="6def0b3587d8d2851024152a6e355650" sha1="d597635e3eacf2da7713cbb417ccb709f7ab5e26"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 13 (2001-11)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 13 (2001-11)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 13 (2001-11)(Future Publishing)(GB).pdf" size="31468544" crc="a3190e0b" md5="00c2b842a058458c649296cb86f1deae" sha1="4e60b85ddd71eb1b88c91abc31cc49e909333b59"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 14 (2001-12)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 14 (2001-12)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 14 (2001-12)(Future Publishing)(GB).pdf" size="40360670" crc="2a6110d9" md5="9777fa4c68b9c8d4d0658f7866427f69" sha1="b19b1bd8f69157812befe24a940925afd2a78f8c"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 15 (2001)(Future Publishing)(GB)[christmas edition]">
+		<description>PlayStation 2 Official Magazine UK - Issue 15 (2001)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 15 (2001)(Future Publishing)(GB)[christmas edition].pdf" size="36315083" crc="97407755" md5="481088bc8d4c98e3bce283da048713ab" sha1="9373651f28e2787313cbc43076f78bd1f5d44933"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 16 (2002-01)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 16 (2002-01)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 16 (2002-01)(Future Publishing)(GB).pdf" size="36593299" crc="9f5c42e9" md5="565be898faf3d318db7cf7a7aa55d1d0" sha1="13b6505ccc7abceda40546c82a67ad11f618352b"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 17 (2002-02)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 17 (2002-02)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 17 (2002-02)(Future Publishing)(GB).pdf" size="36422850" crc="029869e2" md5="405af72718703097abd5822eb057832e" sha1="193712f6b9db02a64e7b7e2aa3b443be75ca78ec"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 18 (2002-03)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 18 (2002-03)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 18 (2002-03)(Future Publishing)(GB).pdf" size="34284807" crc="97baf580" md5="f6a4eb1d90b35f054c549ac5df7c7ff8" sha1="a2e8a9ff874fb2b05d103e2c47807b449c28c578"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 19 (2002-04)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 19 (2002-04)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 19 (2002-04)(Future Publishing)(GB).pdf" size="33723368" crc="7e30be12" md5="4d0e5ef14bd2061bcd3de892773b89ff" sha1="f1c8bbce8a847927665b090786903a850387f821"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 20 (2002-05)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 20 (2002-05)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 20 (2002-05)(Future Publishing)(GB).pdf" size="33491026" crc="3a9f42e2" md5="1f36a125c8142009bf6783c70d8b21a7" sha1="6465bf506d729c1f3c3a56563a354e92d4f9ecc8"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 21 (2002-06)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 21 (2002-06)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 21 (2002-06)(Future Publishing)(GB).pdf" size="33392140" crc="34e47358" md5="3fb3553c062833e683e8210e8dbb7d26" sha1="45aad2ea595c3b8c3fdf61b4e525b74df9bc9bb3"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 22 (2002-07)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 22 (2002-07)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 22 (2002-07)(Future Publishing)(GB).pdf" size="34142475" crc="e967079e" md5="71997093e3aa022c0a4167931ee29229" sha1="2b483b2a0cc28f53976f1c3f58e3b79ebd29c646"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 23 (2002-08)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 23 (2002-08)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 23 (2002-08)(Future Publishing)(GB).pdf" size="38651341" crc="8a569bda" md5="9dd92a3202bc39f974fb66b7677e6ecf" sha1="99cf52bd2c1ae4d7436a8695658501ec30ee4621"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 24 (2002-09)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 24 (2002-09)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 24 (2002-09)(Future Publishing)(GB).pdf" size="34041020" crc="e23beed4" md5="892b71ea86a94c02ea3eeba371520254" sha1="fb01e3d4e9558be5e5cd68be8e7fcfd9682a0642"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 25 (2002-10)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 25 (2002-10)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 25 (2002-10)(Future Publishing)(GB).pdf" size="32901042" crc="9178412e" md5="1f82de017a3f4b24b6e4d60553eec3b9" sha1="1e08a4ad8ddfd0b3fa26f5e3f920ba59efb47edb"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 26 (2002-11)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 26 (2002-11)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 26 (2002-11)(Future Publishing)(GB).pdf" size="34371994" crc="084cb671" md5="754695916b83e5e6acac8ce476996f7e" sha1="239eea5998d0f7e81913494d7f7127781cb7a01f"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 27 (2002-12)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 27 (2002-12)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 27 (2002-12)(Future Publishing)(GB).pdf" size="42589382" crc="705d6a8e" md5="e89c4c03b4a5fbb177ca05a021582e42" sha1="81d6edee1ff214fb5197866a6a00664b28aa3718"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 28 (2002)(Future Publishing)(GB)[christmas edition]">
+		<description>PlayStation 2 Official Magazine UK - Issue 28 (2002)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 28 (2002)(Future Publishing)(GB)[christmas edition].pdf" size="38359282" crc="608802bd" md5="59b5b9da14a5279543b2986a9451ba16" sha1="cd4081a62269ca9a0904a7a9d4ed106d8461ff32"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 29 (2003-01)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 29 (2003-01)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 29 (2003-01)(Future Publishing)(GB).pdf" size="36586271" crc="78bfed8b" md5="be67c77eeb2742ae7216179e620befb6" sha1="3d716c5792788f7fcf72090720bb02eab02a8dae"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 30 (2003-02)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 30 (2003-02)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 30 (2003-02)(Future Publishing)(GB).pdf" size="36603717" crc="af22186e" md5="a3e0084f7e59ab00c30987dc7c670671" sha1="ce1667a5d1c116c81af7856754cf519d086a0f34"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 31 (2003-03)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 31 (2003-03)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 31 (2003-03)(Future Publishing)(GB).pdf" size="33991634" crc="0778b8eb" md5="f5e0ae7bd14bdc5403043b8d20a36408" sha1="10591a654d8868fdbabbcec01b810bc5f39ff588"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine UK - Issue 69 (2006-02)(Future Publishing)(GB)">
+		<description>PlayStation 2 Official Magazine UK - Issue 69 (2006-02)(Future Publishing)(GB)</description>
+		<rom name="PlayStation 2 Official Magazine UK - Issue 69 (2006-02)(Future Publishing)(GB).pdf" size="229624479" crc="41d792e9" md5="ac163258e95d2483a9401f730e54dfa5" sha1="4fbcbc92d652fd0826dc8cbab196d9e122d6bd56"/>
+	</game>
+	<game name="PSP PlayStation Portable - The Official Guide Book (2005)(Future Publishing)(GB)">
+		<description>PSP PlayStation Portable - The Official Guide Book (2005)(Future Publishing)(GB)</description>
+		<rom name="PSP PlayStation Portable - The Official Guide Book (2005)(Future Publishing)(GB).pdf" size="61737320" crc="3a1e52fb" md5="2fd1d9c56a4401c5a72f016e9a94fc22" sha1="24201297d3dba7824b8da68c5c3119cb2ed19987"/>
+	</game>
+</datafile>

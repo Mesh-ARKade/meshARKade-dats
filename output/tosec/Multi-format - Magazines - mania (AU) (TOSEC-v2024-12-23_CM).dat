@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - mania (AU)</name>
+		<description>Multi-format - Magazines - mania (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="mania - Issue 122 (2011-03)(nextmedia)(AU)">
+		<description>mania - Issue 122 (2011-03)(nextmedia)(AU)</description>
+		<rom name="mania - Issue 122 (2011-03)(nextmedia)(AU).pdf" size="109265438" crc="03e70036" md5="1897a489d986a49ca0f3eb62278fdbe7" sha1="c5910feaf06b4e3580227b8a2de9397f4152977e"/>
+	</game>
+</datafile>

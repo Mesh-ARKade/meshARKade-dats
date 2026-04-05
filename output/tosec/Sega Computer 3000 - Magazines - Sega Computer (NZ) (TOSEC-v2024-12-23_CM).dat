@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Computer 3000 - Magazines - Sega Computer (NZ)</name>
+		<description>Sega Computer 3000 - Magazines - Sega Computer (NZ) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Computer (1984-07)(Nomac Publishing)(NZ)">
+		<description>Sega Computer (1984-07)(Nomac Publishing)(NZ)</description>
+		<rom name="Sega Computer (1984-07)(Nomac Publishing)(NZ).pdf" size="42930883" crc="72667979" md5="9a66fcaf8d609a443e51c6a817df671f" sha1="6e1e607923dfa803ed2b8d9a7625b78f16fc60d3"/>
+	</game>
+	<game name="Sega Computer (1984-09)(Nomac Publishing)(NZ)">
+		<description>Sega Computer (1984-09)(Nomac Publishing)(NZ)</description>
+		<rom name="Sega Computer (1984-09)(Nomac Publishing)(NZ).pdf" size="64034708" crc="d512bd81" md5="cd169c38a03e249dbc1e97448e9721be" sha1="340e4c018354b911614c430aae540888b75c31ca"/>
+	</game>
+	<game name="Sega Computer (1984-11)(Nomac Publishing)(NZ)">
+		<description>Sega Computer (1984-11)(Nomac Publishing)(NZ)</description>
+		<rom name="Sega Computer (1984-11)(Nomac Publishing)(NZ).pdf" size="53559765" crc="092d6d92" md5="a9cf64863e6a26396eaadb45cd0da3ee" sha1="5ff77bda836eefe9c4e7c12ec6e8b5f55c25d182"/>
+	</game>
+	<game name="Sega Computer (1985-02)(Nomac Publishing)(NZ)">
+		<description>Sega Computer (1985-02)(Nomac Publishing)(NZ)</description>
+		<rom name="Sega Computer (1985-02)(Nomac Publishing)(NZ).pdf" size="46683380" crc="57f06cb3" md5="410929d227a747948fd44a1d75664b0a" sha1="c3056dc0e8d87e2ec0dd3ff0cde6f9fcb37a3e2e"/>
+	</game>
+	<game name="Sega Computer (1985-04)(Nomac Publishing)(NZ)">
+		<description>Sega Computer (1985-04)(Nomac Publishing)(NZ)</description>
+		<rom name="Sega Computer (1985-04)(Nomac Publishing)(NZ).pdf" size="54123081" crc="e02fdbb8" md5="f609194d5adee85b66a626eb08f8f42a" sha1="db9b9b593d6046a048aac8fd1cdfd3609fde36a7"/>
+	</game>
+	<game name="Sega Computer (1985-06)(Nomac Publishing)(NZ)">
+		<description>Sega Computer (1985-06)(Nomac Publishing)(NZ)</description>
+		<rom name="Sega Computer (1985-06)(Nomac Publishing)(NZ).pdf" size="50113426" crc="9fca0734" md5="6b20a3e9e7f1a7ae87d352fe1ca25e09" sha1="da8abcfc897257826f38a5c530e4591909cb3172"/>
+	</game>
+	<game name="Sega Computer (1985-08)(Nomac Publishing)(NZ)">
+		<description>Sega Computer (1985-08)(Nomac Publishing)(NZ)</description>
+		<rom name="Sega Computer (1985-08)(Nomac Publishing)(NZ).pdf" size="52443303" crc="e3e4692d" md5="6b6d569b49f4ed9c844b6f4ecf9e72ad" sha1="67938d475b2ec94d2617f1987b9fd70ac5a559f8"/>
+	</game>
+	<game name="Sega Computer (1985-10)(Nomac Publishing)(NZ)">
+		<description>Sega Computer (1985-10)(Nomac Publishing)(NZ)</description>
+		<rom name="Sega Computer (1985-10)(Nomac Publishing)(NZ).pdf" size="52744800" crc="5ba7acc2" md5="f47e66557497d6bec51c6b082d7fc798" sha1="bf2e6ec48bc89732ffdf1dae014544e42fbb62b9"/>
+	</game>
+	<game name="Sega Computer (1985-12)(Nomac Publishing)(NZ)">
+		<description>Sega Computer (1985-12)(Nomac Publishing)(NZ)</description>
+		<rom name="Sega Computer (1985-12)(Nomac Publishing)(NZ).pdf" size="56915287" crc="42a3ea98" md5="3438f2906e9d275c34767a28a7c80d6d" sha1="483a3f8693163cbc37ec14c3d3cea8b3add2c4bb"/>
+	</game>
+	<game name="Sega Computer (1986-04)(Nomac Publishing)(NZ)">
+		<description>Sega Computer (1986-04)(Nomac Publishing)(NZ)</description>
+		<rom name="Sega Computer (1986-04)(Nomac Publishing)(NZ).pdf" size="69047566" crc="424cb234" md5="eb0845ed06836f6d20db41a29b861e32" sha1="bc1c7a605572910d37c8f88d9bb411618314301a"/>
+	</game>
+	<game name="Sega Computer (1986-06)(Sega Software Support)(NZ)">
+		<description>Sega Computer (1986-06)(Sega Software Support)(NZ)</description>
+		<rom name="Sega Computer (1986-06)(Sega Software Support)(NZ).pdf" size="44298236" crc="4edc2de4" md5="c7926448b66bd1f99c3f6dc48f9101ef" sha1="45ece8febfa30f283861bc0469749b570b84e4d8"/>
+	</game>
+	<game name="Sega Computer (1986-08)(Sega Software Support)(NZ)">
+		<description>Sega Computer (1986-08)(Sega Software Support)(NZ)</description>
+		<rom name="Sega Computer (1986-08)(Sega Software Support)(NZ).pdf" size="52022172" crc="e08d33ea" md5="2cd35bb48c9e0e7eb5a4f6ec7bf79635" sha1="e2006d9dca7253314c3590148d0a826d7056b452"/>
+	</game>
+	<game name="Sega Computer (1986-10)(Sega Software Support)(NZ)">
+		<description>Sega Computer (1986-10)(Sega Software Support)(NZ)</description>
+		<rom name="Sega Computer (1986-10)(Sega Software Support)(NZ).pdf" size="39757551" crc="7fe561d5" md5="ec2d93a8c687a4164bf784c6baab7d43" sha1="0cda76b3ae90ec3438a8a5eaee69490160eba606"/>
+	</game>
+	<game name="Sega Computer (1987-02)(Sega Software Support)(NZ)">
+		<description>Sega Computer (1987-02)(Sega Software Support)(NZ)</description>
+		<rom name="Sega Computer (1987-02)(Sega Software Support)(NZ).pdf" size="68499354" crc="98bceb42" md5="5333c1ae50ac086940228ce7e7078d15" sha1="417d2f982ed8b26e415e91175e2e7e906efab86b"/>
+	</game>
+	<game name="Sega Computer (1987-06)(Sega Software Support)(NZ)">
+		<description>Sega Computer (1987-06)(Sega Software Support)(NZ)</description>
+		<rom name="Sega Computer (1987-06)(Sega Software Support)(NZ).pdf" size="82129350" crc="2f37eb15" md5="eb2a553eb39b9dfb5d23769fba171f41" sha1="baad7e72272c588cca0481e833efaa81c877771f"/>
+	</game>
+</datafile>

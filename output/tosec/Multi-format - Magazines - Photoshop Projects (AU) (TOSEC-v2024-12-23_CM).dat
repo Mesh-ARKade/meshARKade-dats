@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Photoshop Projects (AU)</name>
+		<description>Multi-format - Magazines - Photoshop Projects (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Photoshop Projects - Volume 15 (2014)(Citrus Media)(AU)">
+		<description>Photoshop Projects - Volume 15 (2014)(Citrus Media)(AU)</description>
+		<rom name="Photoshop Projects - Volume 15 (2014)(Citrus Media)(AU).pdf" size="62752083" crc="8b1057f9" md5="d19b5ab0a9f4b169a5a6e57c43335824" sha1="b032c69c7f64c1946a724857b9181905e23154b0"/>
+	</game>
+</datafile>

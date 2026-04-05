@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Magazines - Dreamzone (FR)</name>
+		<description>Sega Dreamcast - Magazines - Dreamzone (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dreamzone - N.24 (2001-05)(FJM Publications)(FR)">
+		<description>Dreamzone - N.24 (2001-05)(FJM Publications)(FR)</description>
+		<rom name="Dreamzone - N.24 (2001-05)(FJM Publications)(FR).pdf" size="109595361" crc="5a0313af" md5="bc5e16cce3a3f7332230f113459e5e54" sha1="0825ab33f1ae905ea66116dfd0999a8e02ae49ce"/>
+	</game>
+	<game name="Dreamzone - N.25 (2001-06)(FJM Publications)(FR)">
+		<description>Dreamzone - N.25 (2001-06)(FJM Publications)(FR)</description>
+		<rom name="Dreamzone - N.25 (2001-06)(FJM Publications)(FR).pdf" size="91389072" crc="49e08723" md5="da8123d38af562ae7038d282e6d3b163" sha1="13cbde514327ab802d05888c7d55e0e892a03d1b"/>
+	</game>
+</datafile>

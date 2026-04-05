@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Raspberry Foundation - Raspberry Pi - Magazines - Wireframe (GB)</name>
+		<description>Raspberry Foundation - Raspberry Pi - Magazines - Wireframe (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Wireframe - Issue 001 (2018-11-08)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 001 (2018-11-08)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 001 (2018-11-08)(Raspberry Pi)(GB).pdf" size="15132230" crc="1606abf8" md5="1c93ed708d5130c79e82a6d7a7236efa" sha1="639c207d7be3939a90c9a8f55349c1ad9b3344ee"/>
+	</game>
+	<game name="Wireframe - Issue 002 (2018-11-22)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 002 (2018-11-22)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 002 (2018-11-22)(Raspberry Pi)(GB).pdf" size="13531432" crc="79fafa86" md5="e8e26cc96675625ed7b9d36e222d5642" sha1="5fccd7dde1dcf79e817110e7f78a5a865591c0c2"/>
+	</game>
+	<game name="Wireframe - Issue 003 (2018-12-06)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 003 (2018-12-06)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 003 (2018-12-06)(Raspberry Pi)(GB).pdf" size="11196183" crc="a4ed705a" md5="390aeb45a5844383d1e43cc325fc0b77" sha1="5ae41aa665abe2350586780930716217e0bf9b3d"/>
+	</game>
+	<game name="Wireframe - Issue 004 (2018-12-20)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 004 (2018-12-20)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 004 (2018-12-20)(Raspberry Pi)(GB).pdf" size="9784999" crc="e8d614df" md5="8e248509d2050a245585c37d457c0d26" sha1="b8b42a004ae5c2a38f5257e7c565c76b46898848"/>
+	</game>
+	<game name="Wireframe - Issue 005 (2019-01-17)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 005 (2019-01-17)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 005 (2019-01-17)(Raspberry Pi)(GB).pdf" size="9332768" crc="64b70b19" md5="74400460a1dee6b9552c2e4504f9e5d4" sha1="3b8982111f2cbf45c6f1bc2dd7cb745970183205"/>
+	</game>
+	<game name="Wireframe - Issue 006 (2019-01-31)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 006 (2019-01-31)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 006 (2019-01-31)(Raspberry Pi)(GB).pdf" size="15093054" crc="66bf4c03" md5="f6b7095f5a36124b674ad9257b9bec21" sha1="a72983d18180efbb987ac5606f6a0b4dd5cb57ea"/>
+	</game>
+	<game name="Wireframe - Issue 007 (2019-02-14)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 007 (2019-02-14)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 007 (2019-02-14)(Raspberry Pi)(GB).pdf" size="14771170" crc="1ae9ee08" md5="d181a8178dfaf659e3798a46e5081d5b" sha1="6112d40f9705a8c76ef5951b33cd2efb045e0b33"/>
+	</game>
+	<game name="Wireframe - Issue 008 (2019-02-28)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 008 (2019-02-28)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 008 (2019-02-28)(Raspberry Pi)(GB).pdf" size="9881026" crc="efe6811e" md5="79904bf2fc2ac44ce537b4f8683710f0" sha1="85bc81a577675dd08c4a9a9410840f4268b8607e"/>
+	</game>
+	<game name="Wireframe - Issue 009 (2019-03-14)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 009 (2019-03-14)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 009 (2019-03-14)(Raspberry Pi)(GB).pdf" size="11252966" crc="264131c8" md5="5f0fe8034367d04fc2e00e059c874d1c" sha1="37af8bc2b57c9f98bc4f6df60bc5c3a093e56a78"/>
+	</game>
+	<game name="Wireframe - Issue 010 (2019-03-28)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 010 (2019-03-28)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 010 (2019-03-28)(Raspberry Pi)(GB).pdf" size="13018199" crc="5be768db" md5="1b09d87328d1dfdd4a2838c9c5bec93f" sha1="816d74a4b026140ae8435e7237eda23e27fb4a87"/>
+	</game>
+	<game name="Wireframe - Issue 011 (2019-04-11)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 011 (2019-04-11)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 011 (2019-04-11)(Raspberry Pi)(GB).pdf" size="11806435" crc="a5b65ef5" md5="f5c3ce1f60e32d317ac3ae144e6f47fe" sha1="7b8d2b6ebf8431ea4bffd11d7444e710c964ba54"/>
+	</game>
+	<game name="Wireframe - Issue 012 (2019-04-25)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 012 (2019-04-25)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 012 (2019-04-25)(Raspberry Pi)(GB).pdf" size="13250416" crc="baf7b48c" md5="f38fcc3d371ab28032a30bd708e1a882" sha1="3663aaf5d73daa16018ab3bc4c4899769e4a104d"/>
+	</game>
+	<game name="Wireframe - Issue 013 (2019-05-09)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 013 (2019-05-09)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 013 (2019-05-09)(Raspberry Pi)(GB).pdf" size="11479365" crc="dd2f28b5" md5="78ead9559eeed9b6807a01551f895c79" sha1="23e2fa6a3f2c2bf38d9cde51d2cb8c608e079b5d"/>
+	</game>
+	<game name="Wireframe - Issue 014 (2019-05-23)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 014 (2019-05-23)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 014 (2019-05-23)(Raspberry Pi)(GB).pdf" size="12678402" crc="91241c59" md5="13917c981e24bd1582a0d78f27bc6d69" sha1="2daafacfdb0cc7c5d752981dc764c368792db232"/>
+	</game>
+	<game name="Wireframe - Issue 015 (2019-06-06)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 015 (2019-06-06)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 015 (2019-06-06)(Raspberry Pi)(GB).pdf" size="12549960" crc="54adb219" md5="2ca02aa7919450eff277da0020d439fa" sha1="a1c18de3ea5bde03c43af9131b2adb87eeeea57a"/>
+	</game>
+	<game name="Wireframe - Issue 016 (2019-06-20)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 016 (2019-06-20)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 016 (2019-06-20)(Raspberry Pi)(GB).pdf" size="13397268" crc="be6d5237" md5="f872a83700c51fceaf9c1d4255be061e" sha1="965357986faecc706bb48a4b3238a95da955b83c"/>
+	</game>
+	<game name="Wireframe - Issue 017 (2019-07-04)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 017 (2019-07-04)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 017 (2019-07-04)(Raspberry Pi)(GB).pdf" size="19508907" crc="4efefda1" md5="f30b6195240ca10c7d7190cb6f57c0a6" sha1="e6220601e2c9176dd62e299202fcfe8052d64e17"/>
+	</game>
+	<game name="Wireframe - Issue 018 (2019-07-18)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 018 (2019-07-18)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 018 (2019-07-18)(Raspberry Pi)(GB).pdf" size="16033152" crc="51faee77" md5="a5eea815e06decee266bec9db1ec88f3" sha1="5e24e63724635fceecc9f6a5205a8a58d3a800dc"/>
+	</game>
+	<game name="Wireframe - Issue 019 (2019-08-01)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 019 (2019-08-01)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 019 (2019-08-01)(Raspberry Pi)(GB).pdf" size="14652429" crc="1274293f" md5="ba3f5da3cb89a40274e42ae33caf36a5" sha1="48c3774fd4e619de2df6c2b78d6eb3ed97848fa5"/>
+	</game>
+	<game name="Wireframe - Issue 020 (2019-08-15)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 020 (2019-08-15)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 020 (2019-08-15)(Raspberry Pi)(GB).pdf" size="13839000" crc="53edd3f3" md5="a71d22fc522203b8ae4a615cbd35bc3d" sha1="9176c85e05a29cbc3570fe5d0e412df0f130ddb1"/>
+	</game>
+	<game name="Wireframe - Issue 021 (2019-08-29)(Raspberry Pi)(GB)">
+		<description>Wireframe - Issue 021 (2019-08-29)(Raspberry Pi)(GB)</description>
+		<rom name="Wireframe - Issue 021 (2019-08-29)(Raspberry Pi)(GB).pdf" size="16094465" crc="b8964476" md5="4e842a9b82abbf07ca3d2e67e43b6f33" sha1="79224b1a142ba2a36140afdd6a819654b478dba7"/>
+	</game>
+</datafile>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo GameCube - Magazines - Cube (GB)</name>
+		<description>Nintendo GameCube - Magazines - Cube (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cube - Issue 18 (2003-05)(Paragon Publishing)(GB)">
+		<description>Cube - Issue 18 (2003-05)(Paragon Publishing)(GB)</description>
+		<rom name="Cube - Issue 18 (2003-05)(Paragon Publishing)(GB).pdf" size="334000188" crc="1a842d30" md5="7983bbd5258607b587c221636d7b5d2c" sha1="fdd312f57b01b33db00158071de743ad473b560d"/>
+	</game>
+	<game name="Cube - Issue 20 (2003-07)(Paragon Publishing)(GB)">
+		<description>Cube - Issue 20 (2003-07)(Paragon Publishing)(GB)</description>
+		<rom name="Cube - Issue 20 (2003-07)(Paragon Publishing)(GB).pdf" size="438776915" crc="026b1497" md5="cd05708664c33136e2a59827d71555a0" sha1="ce78b1e3cc35eb3ba9a769e5989c4d0f6f4696a0"/>
+	</game>
+	<game name="Cube - Issue 21 (2003-08)(Paragon Publishing)(GB)">
+		<description>Cube - Issue 21 (2003-08)(Paragon Publishing)(GB)</description>
+		<rom name="Cube - Issue 21 (2003-08)(Paragon Publishing)(GB).pdf" size="367597583" crc="5afc9ab2" md5="b8d27ae27b099de456576e2981482c41" sha1="68583a711f0391b7feedf326b1c06908e73eb92d"/>
+	</game>
+</datafile>

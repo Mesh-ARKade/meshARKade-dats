@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Ultimate Nintendo (AU)</name>
+		<description>Nintendo - Magazines - Ultimate Nintendo (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Ultimate Nintendo - Issue 02 (2008)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 02 (2008)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 02 (2008)(Derwent Howard)(AU).pdf" size="406409826" crc="cf4e5c69" md5="1875ccc932d791cbd73763732d53716d" sha1="2c4026c0355b0b2def812e5e01df657bd8a0de68"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 03 (2008)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 03 (2008)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 03 (2008)(Derwent Howard)(AU).pdf" size="220765379" crc="f9522411" md5="2bdea424d393ad320632f7efd4556453" sha1="692c8485cc3ca3bef4b1b03dfbc52cbe21f6acac"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 04 (2008-09)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 04 (2008-09)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 04 (2008-09)(Derwent Howard)(AU).pdf" size="351616484" crc="11640353" md5="7f43eefbc85532ff573651060c329a06" sha1="feaca40ec1a74a8ff42205894a1ba773c1c4b4cf"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 05 (2008)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 05 (2008)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 05 (2008)(Derwent Howard)(AU).pdf" size="440491284" crc="fdb38db9" md5="486f64dbce7d30b9e274f48a0da180c9" sha1="152585d40713c61cd8a208a67881c0d077bacd59"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 06 (2008)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 06 (2008)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 06 (2008)(Derwent Howard)(AU).pdf" size="223315713" crc="b56764a9" md5="30786925cf5af05dcfb164df29887fe1" sha1="abe3e90d6f01527e9af5e920405590811d1ee875"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 07 (2008)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 07 (2008)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 07 (2008)(Derwent Howard)(AU).pdf" size="219840839" crc="dc7884af" md5="fe5c78fbab5f365b0d2d929538681cb6" sha1="252f9e371b26fd92c385026eacb1268056951850"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 08 (2009)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 08 (2009)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 08 (2009)(Derwent Howard)(AU).pdf" size="222213434" crc="5a7aae58" md5="6f7a354870d642055dfd20edb5a33adb" sha1="f79efa39c75e426a8b32884061b2df65fe6640aa"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 09 (2009)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 09 (2009)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 09 (2009)(Derwent Howard)(AU).pdf" size="211723458" crc="ba1ec126" md5="480aac9056923672fceaf40cbcc234ac" sha1="548a79cc8a5322fb0db2dbf154c8f7d72f826827"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 10 (2009)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 10 (2009)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 10 (2009)(Derwent Howard)(AU).pdf" size="213896283" crc="f08a91d5" md5="70fae505506a9158af9207fdf10957eb" sha1="0fb4fbaa1ee1eba1e54c0dff7cb7dcae3c30a0c4"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 11 (2009)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 11 (2009)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 11 (2009)(Derwent Howard)(AU).pdf" size="209542855" crc="0db996bc" md5="e14f3f3348d82ca0b55f4374e8228ade" sha1="f7b9d8c51e2874f27227180bb0b40416bbfff939"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 12 (2009)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 12 (2009)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 12 (2009)(Derwent Howard)(AU).pdf" size="239718801" crc="43562aaf" md5="c449c34bba47f0e6b07b49e8d1a49abd" sha1="77ea74ab1fae8610b2e972925a05ba5331aee30d"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 13 (2009)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 13 (2009)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 13 (2009)(Derwent Howard)(AU).pdf" size="230639360" crc="961d8b42" md5="4d973dff5019d3223f82a7c0644c4627" sha1="3e2ac5e91cec519f5a04df96a3a00fe7e03c50d9"/>
+	</game>
+	<game name="Ultimate Nintendo - Issue 14 (2009)(Derwent Howard)(AU)">
+		<description>Ultimate Nintendo - Issue 14 (2009)(Derwent Howard)(AU)</description>
+		<rom name="Ultimate Nintendo - Issue 14 (2009)(Derwent Howard)(AU).pdf" size="216592811" crc="07449f9e" md5="5e6bbbe9661cd8077d188caa7eed40db" sha1="81238bd3c63acb74f2dcdae40638249f2ae3504d"/>
+	</game>
+</datafile>

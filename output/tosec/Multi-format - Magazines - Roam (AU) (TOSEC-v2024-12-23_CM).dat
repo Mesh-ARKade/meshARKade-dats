@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Roam (AU)</name>
+		<description>Multi-format - Magazines - Roam (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Roam - Issue 02 (2005-10)(Derwent Howard)(AU)">
+		<description>Roam - Issue 02 (2005-10)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 02 (2005-10)(Derwent Howard)(AU).pdf" size="160167325" crc="b82c85cb" md5="f8fddcc108fa05bac535ce9350f71e7a" sha1="a514cbc038f7933323a4442b109f94e9791fb31a"/>
+	</game>
+	<game name="Roam - Issue 04 (2006-02)(Derwent Howard)(AU)">
+		<description>Roam - Issue 04 (2006-02)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 04 (2006-02)(Derwent Howard)(AU).pdf" size="183757442" crc="3367e31e" md5="f7376a32a2f055992bf70a886da40aa7" sha1="6953de691bc0dd39650f37b0eeeaf0acf765e282"/>
+	</game>
+	<game name="Roam - Issue 05 (2006-03)(Derwent Howard)(AU)">
+		<description>Roam - Issue 05 (2006-03)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 05 (2006-03)(Derwent Howard)(AU).pdf" size="160222682" crc="7959ef09" md5="02943793869dfa280b4b2e37eb1075e0" sha1="0129e141d1f5401adde7ff4f5686a65eec38ad6c"/>
+	</game>
+	<game name="Roam - Issue 06 (2006-04)(Derwent Howard)(AU)">
+		<description>Roam - Issue 06 (2006-04)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 06 (2006-04)(Derwent Howard)(AU).pdf" size="167662954" crc="169afea9" md5="e18ab3a8f3822f20eedab5a5846324b6" sha1="d1e2d947d02a7b2a19cec545218f13046ebc5d23"/>
+	</game>
+	<game name="Roam - Issue 07 (2006-05)(Derwent Howard)(AU)">
+		<description>Roam - Issue 07 (2006-05)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 07 (2006-05)(Derwent Howard)(AU).pdf" size="168083815" crc="81916d35" md5="fb6d0200170954cb78ec4ac2e91c0fed" sha1="1c1fa4a3b1e724fde6fe29810eba7e3e99328ee3"/>
+	</game>
+	<game name="Roam - Issue 08 (2006-06)(Derwent Howard)(AU)">
+		<description>Roam - Issue 08 (2006-06)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 08 (2006-06)(Derwent Howard)(AU).pdf" size="172030182" crc="f9da3a7c" md5="1b4b370fd7045988f1fda21f0e446fef" sha1="e2aa7938cadcc9f57d74a263efffbfd42e17e5cc"/>
+	</game>
+	<game name="Roam - Issue 09 (2006-07)(Derwent Howard)(AU)">
+		<description>Roam - Issue 09 (2006-07)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 09 (2006-07)(Derwent Howard)(AU).pdf" size="169761034" crc="b53db7c6" md5="c356f3bd05d3d4261c22797124fb5b80" sha1="bad51946269f06fd2f8772945f6390ed5b372365"/>
+	</game>
+	<game name="Roam - Issue 10 (2006-08)(Derwent Howard)(AU)">
+		<description>Roam - Issue 10 (2006-08)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 10 (2006-08)(Derwent Howard)(AU).pdf" size="172409669" crc="e9f3ba44" md5="619f123cc0bdef82d69c3ddc24956f61" sha1="5b70813e16154ebb7e12fb95bc204b1cf55957ca"/>
+	</game>
+	<game name="Roam - Issue 11 (2006-09)(Derwent Howard)(AU)">
+		<description>Roam - Issue 11 (2006-09)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 11 (2006-09)(Derwent Howard)(AU).pdf" size="160683827" crc="988297c2" md5="8b3d154df4d7ff4085d94907b19313be" sha1="bb984793454dde0c3f96f4208bc86376bbddce25"/>
+	</game>
+	<game name="Roam - Issue 12 (2006-10)(Derwent Howard)(AU)">
+		<description>Roam - Issue 12 (2006-10)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 12 (2006-10)(Derwent Howard)(AU).pdf" size="173965858" crc="a571c5cc" md5="635436aeb91437fd301bc32e93c6911e" sha1="d3ec3dcebba4de88739d5c75082ef5f94e27724e"/>
+	</game>
+	<game name="Roam - Issue 13 (2006-11)(Derwent Howard)(AU)">
+		<description>Roam - Issue 13 (2006-11)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 13 (2006-11)(Derwent Howard)(AU).pdf" size="168059629" crc="f113d271" md5="6c62f7d972e392f1bcd21e8abe74c35b" sha1="67794862c1541fe4faa25f2529373dbc4e7c2c23"/>
+	</game>
+	<game name="Roam - Issue 14 (2007-01)(Derwent Howard)(AU)">
+		<description>Roam - Issue 14 (2007-01)(Derwent Howard)(AU)</description>
+		<rom name="Roam - Issue 14 (2007-01)(Derwent Howard)(AU).pdf" size="133261541" crc="54f970df" md5="7af74336237a1c3031ed745d42653e04" sha1="53e47d9d9f368417f18a56b6288b4542d8d3beab"/>
+	</game>
+</datafile>

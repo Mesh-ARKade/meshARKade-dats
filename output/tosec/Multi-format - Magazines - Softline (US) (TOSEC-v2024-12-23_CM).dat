@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Softline (US)</name>
+		<description>Multi-format - Magazines - Softline (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Softline - Vol.1 No.01 (1981-09)(Softalk Publishing)(US)">
+		<description>Softline - Vol.1 No.01 (1981-09)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.1 No.01 (1981-09)(Softalk Publishing)(US).pdf" size="10958146" crc="9c58045b" md5="ea9560bc6f44465ca1efbe074b798c6d" sha1="9bca596f3942dc730014cb7489bdc1b96089f16b"/>
+	</game>
+	<game name="Softline - Vol.1 No.02 (1981-11)(Softalk Publishing)(US)">
+		<description>Softline - Vol.1 No.02 (1981-11)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.1 No.02 (1981-11)(Softalk Publishing)(US).pdf" size="12551676" crc="eb80988d" md5="1582c8c893994dcb9ad8be7d5b4e5395" sha1="5a4443fbdfc9724b7c6afd2120b8b4791a8246d0"/>
+	</game>
+	<game name="Softline - Vol.1 No.03 (1982-01)(Softalk Publishing)(US)">
+		<description>Softline - Vol.1 No.03 (1982-01)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.1 No.03 (1982-01)(Softalk Publishing)(US).pdf" size="14563850" crc="9a7bace3" md5="8c5005e3e7bf3c52418475001fe5df51" sha1="2eced968d28b1a5d10192e97ac9f02ead83780e2"/>
+	</game>
+	<game name="Softline - Vol.1 No.04 (1982-03)(Softalk Publishing)(US)">
+		<description>Softline - Vol.1 No.04 (1982-03)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.1 No.04 (1982-03)(Softalk Publishing)(US).pdf" size="21332004" crc="3df3e9e1" md5="3982f61c283f6fd903697d6b84063b16" sha1="d9d41e5bbf3f6f1d4b5ba44f74c522475e7f4373"/>
+	</game>
+	<game name="Softline - Vol.1 No.05 (1982-05)(Softalk Publishing)(US)">
+		<description>Softline - Vol.1 No.05 (1982-05)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.1 No.05 (1982-05)(Softalk Publishing)(US).pdf" size="19988365" crc="101ec012" md5="72afbe3504ba7033f6cc5fc771610273" sha1="b6c3073a387c5e6f81e239d4915c2ceefb4610dc"/>
+	</game>
+	<game name="Softline - Vol.1 No.06 (1982-07)(Softalk Publishing)(US)">
+		<description>Softline - Vol.1 No.06 (1982-07)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.1 No.06 (1982-07)(Softalk Publishing)(US).pdf" size="15087746" crc="b83f2aa9" md5="be704a8c182339dc03263a728ecc250f" sha1="b4d7a355a4558ba6934b0e72656fa38dc3342610"/>
+	</game>
+	<game name="Softline - Vol.2 No.01 (1982-09)(Softalk Publishing)(US)">
+		<description>Softline - Vol.2 No.01 (1982-09)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.2 No.01 (1982-09)(Softalk Publishing)(US).pdf" size="14759843" crc="bd9d2fba" md5="ed1afc0e065c2600aa3cc08a127452b7" sha1="839dee4c8a6bae5c493525a533c33c0cefeae02e"/>
+	</game>
+	<game name="Softline - Vol.2 No.02 (1982-11)(Softalk Publishing)(US)">
+		<description>Softline - Vol.2 No.02 (1982-11)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.2 No.02 (1982-11)(Softalk Publishing)(US).pdf" size="14039314" crc="36073dfd" md5="8f0d95d27ca38c019eff11c1ad7de048" sha1="e4cb5e23520d2c0117522cb98d72ea0cf2516bbc"/>
+	</game>
+	<game name="Softline - Vol.2 No.03 (1983-01)(Softalk Publishing)(US)">
+		<description>Softline - Vol.2 No.03 (1983-01)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.2 No.03 (1983-01)(Softalk Publishing)(US).pdf" size="25295319" crc="35418808" md5="84df7af6e9f6d8d5cd95235ee8d2f8bb" sha1="40b51b2456680c93d2657e685d17ec8634c94c56"/>
+	</game>
+	<game name="Softline - Vol.2 No.04 (1983-03)(Softalk Publishing)(US)">
+		<description>Softline - Vol.2 No.04 (1983-03)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.2 No.04 (1983-03)(Softalk Publishing)(US).pdf" size="26249281" crc="6ac68b3c" md5="62d719f4c2bd9f8735aa02842790d51f" sha1="153c779a6a8ee1b1814c1f623b094cecb900aeae"/>
+	</game>
+	<game name="Softline - Vol.2 No.05 (1983-05)(Softalk Publishing)(US)">
+		<description>Softline - Vol.2 No.05 (1983-05)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.2 No.05 (1983-05)(Softalk Publishing)(US).pdf" size="26161739" crc="bb50a9b7" md5="a306985c767ab7548f1e6bdb5cbe8e6e" sha1="4ff83149d51e9aa8da96a060a03b3e0a98aa55c1"/>
+	</game>
+	<game name="Softline - Vol.2 No.06 (1983-07)(Softalk Publishing)(US)">
+		<description>Softline - Vol.2 No.06 (1983-07)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.2 No.06 (1983-07)(Softalk Publishing)(US).pdf" size="26479030" crc="a5bea4b0" md5="a4b14f2b29771e44422c75c2bd49f738" sha1="18f0c7b38affbc1f6d99303569767a90cd210f0b"/>
+	</game>
+	<game name="Softline - Vol.3 No.01 (1983-09)(Softalk Publishing)(US)">
+		<description>Softline - Vol.3 No.01 (1983-09)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.3 No.01 (1983-09)(Softalk Publishing)(US).pdf" size="22767061" crc="51312af7" md5="8f5a81823955b7d65e3202a37802a63a" sha1="9878aaa821be9828cc0c188beeba249c29e97ed6"/>
+	</game>
+	<game name="Softline - Vol.3 No.02 (1983-11)(Softalk Publishing)(US)">
+		<description>Softline - Vol.3 No.02 (1983-11)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.3 No.02 (1983-11)(Softalk Publishing)(US).pdf" size="27698733" crc="6a5fa3f9" md5="90ab448fb25d37d3c88bd4d21857fb3c" sha1="43011bd36809edb09bd7720fe658082c25ecccbf"/>
+	</game>
+	<game name="Softline - Vol.3 No.03 (1984-01)(Softalk Publishing)(US)">
+		<description>Softline - Vol.3 No.03 (1984-01)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.3 No.03 (1984-01)(Softalk Publishing)(US).pdf" size="25807942" crc="f9870ece" md5="40b950f9fafeb9f1fecfd4426ef02f95" sha1="7c1932e00e6a486edaec4638be40aa9ce435c391"/>
+	</game>
+	<game name="Softline - Vol.3 No.04 (1984-03)(Softalk Publishing)(US)">
+		<description>Softline - Vol.3 No.04 (1984-03)(Softalk Publishing)(US)</description>
+		<rom name="Softline - Vol.3 No.04 (1984-03)(Softalk Publishing)(US).pdf" size="26855791" crc="f29d9d28" md5="4205b62c7cb9eb86b1258333ff02e218" sha1="2cd276f3bd37162a21f40b29967a1b51246351f0"/>
+	</game>
+</datafile>

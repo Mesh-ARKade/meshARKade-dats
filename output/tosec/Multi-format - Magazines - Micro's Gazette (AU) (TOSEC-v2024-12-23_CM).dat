@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Micro's Gazette (AU)</name>
+		<description>Multi-format - Magazines - Micro's Gazette (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Micro's Gazette - Issue 000 (1988-12)(Micro's Gazette)(AU)">
+		<description>Micro's Gazette - Issue 000 (1988-12)(Micro's Gazette)(AU)</description>
+		<rom name="Micro's Gazette - Issue 000 (1988-12)(Micro's Gazette)(AU).pdf" size="6863536" crc="1c0e440b" md5="fb180645dde31987ac28a4cb749f9d60" sha1="b8e02baad9d490302e1ec6c53bf943b7bc4763cd"/>
+	</game>
+	<game name="Micro's Gazette - Issue 001 (1989-02)(Micro's Gazette)(AU)">
+		<description>Micro's Gazette - Issue 001 (1989-02)(Micro's Gazette)(AU)</description>
+		<rom name="Micro's Gazette - Issue 001 (1989-02)(Micro's Gazette)(AU).pdf" size="6997355" crc="05739670" md5="3f608b4eedc4f1f7c5bfb9dfcdeef570" sha1="b3b31da17ca12e38b53cef00733003c64772ed2d"/>
+	</game>
+	<game name="Micro's Gazette - Issue 002 (1989-04)(Micro's Gazette)(AU)">
+		<description>Micro's Gazette - Issue 002 (1989-04)(Micro's Gazette)(AU)</description>
+		<rom name="Micro's Gazette - Issue 002 (1989-04)(Micro's Gazette)(AU).pdf" size="7161516" crc="1f59cf9b" md5="3c866883ef9542c4e6bb0fd5dafcb7aa" sha1="3f8dfb166cac87e32ee933578e156457c3b59a4c"/>
+	</game>
+	<game name="Micro's Gazette - Issue 003 (1989-06)(Micro's Gazette)(AU)">
+		<description>Micro's Gazette - Issue 003 (1989-06)(Micro's Gazette)(AU)</description>
+		<rom name="Micro's Gazette - Issue 003 (1989-06)(Micro's Gazette)(AU).pdf" size="3850700" crc="7219889b" md5="b0ac3f5c82c6af1175ef898ce6dedae7" sha1="7a5f52b976db11a57ae582322d6a46615da6a469"/>
+	</game>
+	<game name="Micro's Gazette - Issue 004 (1989-08)(Micro's Gazette)(AU)">
+		<description>Micro's Gazette - Issue 004 (1989-08)(Micro's Gazette)(AU)</description>
+		<rom name="Micro's Gazette - Issue 004 (1989-08)(Micro's Gazette)(AU).pdf" size="4173078" crc="3f5475a0" md5="f53f43814c9663973c953fd04cfc03bd" sha1="915c089e807cb326f44ddf66896af2786c1e4d48"/>
+	</game>
+	<game name="Micro's Gazette - Issue 005 (1989-11)(Micro's Gazette)(AU)">
+		<description>Micro's Gazette - Issue 005 (1989-11)(Micro's Gazette)(AU)</description>
+		<rom name="Micro's Gazette - Issue 005 (1989-11)(Micro's Gazette)(AU).pdf" size="3524444" crc="6e937472" md5="e4dc9324eda6ed5b3b52488bd02a99e8" sha1="dc4e9f891628089965563302c5421ff6e58a7ce2"/>
+	</game>
+</datafile>

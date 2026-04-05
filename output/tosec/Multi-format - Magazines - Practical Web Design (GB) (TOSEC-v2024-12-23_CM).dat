@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Practical Web Design (GB)</name>
+		<description>Multi-format - Magazines - Practical Web Design (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Practical Web Design - Issue 3 (2006)(Future Publishing)(GB)[summer edition]">
+		<description>Practical Web Design - Issue 3 (2006)(Future Publishing)(GB)[summer edition]</description>
+		<rom name="Practical Web Design - Issue 3 (2006)(Future Publishing)(GB)[summer edition].pdf" size="25448650" crc="c49d9d31" md5="c77ae1e05252250a19167468fb922874" sha1="83afc6868f005848fb995cf124e2c80600528462"/>
+	</game>
+	<game name="Practical Web Design - Issue 4 (2006-11)(Future Publishing)(GB)">
+		<description>Practical Web Design - Issue 4 (2006-11)(Future Publishing)(GB)</description>
+		<rom name="Practical Web Design - Issue 4 (2006-11)(Future Publishing)(GB).pdf" size="27829369" crc="e1eaff0c" md5="c0c455b853bf58281b9dac9b7e3b4005" sha1="43e57c88b605857e43fc0d95af6ac863f080a03e"/>
+	</game>
+</datafile>

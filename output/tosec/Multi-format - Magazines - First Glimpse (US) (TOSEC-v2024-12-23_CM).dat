@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - First Glimpse (US)</name>
+		<description>Multi-format - Magazines - First Glimpse (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="First Glimpse - Volume 3 Issue 6 (2006-03)(Sandhills Publishing)(US)">
+		<description>First Glimpse - Volume 3 Issue 6 (2006-03)(Sandhills Publishing)(US)</description>
+		<rom name="First Glimpse - Volume 3 Issue 6 (2006-03)(Sandhills Publishing)(US).pdf" size="36802592" crc="50d0e98c" md5="ea97f90c929e3ffdb7cf8417c82a2817" sha1="68a2353ae92d4b8f46bc04fec9194177b0230f41"/>
+	</game>
+	<game name="First Glimpse - Volume 7 Issue 4 (2010-04)(Sandhills Publishing)(US)">
+		<description>First Glimpse - Volume 7 Issue 4 (2010-04)(Sandhills Publishing)(US)</description>
+		<rom name="First Glimpse - Volume 7 Issue 4 (2010-04)(Sandhills Publishing)(US).pdf" size="17014785" crc="a1cde661" md5="be572fe381a694a91a201f3e02827ce7" sha1="7c50cb6b4ce2b500b04e83ce90d26ef27ee8e89f"/>
+	</game>
+</datafile>

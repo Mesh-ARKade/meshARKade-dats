@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - Atomic (AU)</name>
+		<description>IBM PC Compatibles - Magazines - Atomic (AU) (TOSEC-v2024-03-17)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-03-17</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Atomic - Issue 001 (2001-02)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 001 (2001-02)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 001 (2001-02)(AJB Publishing)(AU).pdf" size="104573428" crc="f18d27c4" md5="8afc150abaf31296d169368e318d7c1c" sha1="da97df04bdc0ad89c57aee626d5d6d017cab5c02"/>
+	</game>
+	<game name="Atomic - Issue 002 (2001-03)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 002 (2001-03)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 002 (2001-03)(AJB Publishing)(AU).pdf" size="100281864" crc="050e220b" md5="98faf96f24739a8d3499eb6d5a247fd9" sha1="fde1272a6cbf8614d19c9a8baa365536d10625ae"/>
+	</game>
+	<game name="Atomic - Issue 003 (2001-04)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 003 (2001-04)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 003 (2001-04)(AJB Publishing)(AU).pdf" size="109301651" crc="2f149f4f" md5="cc0d2e27dc70d67bfd19228007142016" sha1="a7d3b72ce60f8be774ac1b575309b49ca9e3c8c9"/>
+	</game>
+	<game name="Atomic - Issue 004 (2001-05)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 004 (2001-05)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 004 (2001-05)(AJB Publishing)(AU).pdf" size="103592911" crc="5bbd360d" md5="14bcee04870cce04ca146ef452e686eb" sha1="47d25e82aad3a854eba38136c9bc6e6fc1d9c104"/>
+	</game>
+	<game name="Atomic - Issue 005 (2001-06)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 005 (2001-06)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 005 (2001-06)(AJB Publishing)(AU).pdf" size="107820594" crc="0f61a5f6" md5="18de5adac3f3f85d70aed6901d8633a7" sha1="b5c2d288b24fc1f7ca39e6e8c455d52abe3375c5"/>
+	</game>
+	<game name="Atomic - Issue 006 (2001-07)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 006 (2001-07)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 006 (2001-07)(AJB Publishing)(AU).pdf" size="109208320" crc="30218890" md5="7fc2291f1b430b4aa6732af74d4f2497" sha1="e50e53cb9e8d2da4eeab537227d6e4773b2eb206"/>
+	</game>
+	<game name="Atomic - Issue 007 (2001-08)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 007 (2001-08)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 007 (2001-08)(AJB Publishing)(AU).pdf" size="85576238" crc="fd9c8166" md5="8668d60c7f93805d190af2296dd55b41" sha1="7aae713adec5ececb56a052617025be9323e78e4"/>
+	</game>
+	<game name="Atomic - Issue 008 (2001-09)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 008 (2001-09)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 008 (2001-09)(AJB Publishing)(AU).pdf" size="88162499" crc="0dccf255" md5="50bf3dcabee13bab79b17189b9b98da9" sha1="85f64b4de2e42a56ce2fc09fd067e2fe741081a0"/>
+	</game>
+	<game name="Atomic - Issue 009 (2001-10)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 009 (2001-10)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 009 (2001-10)(AJB Publishing)(AU).pdf" size="72569603" crc="c30419fc" md5="f0d8958dbffff24dbceb18cf3d5d20b8" sha1="ea16b911c0b7f569311ffddf4ae42e0e2824b2fd"/>
+	</game>
+	<game name="Atomic - Issue 010 (2001-11)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 010 (2001-11)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 010 (2001-11)(AJB Publishing)(AU).pdf" size="73288783" crc="9976f8a4" md5="ced7c4dde274d3745bb77e60ff795c55" sha1="af7c75bcc4e4c27e3b13c806ca81118d14b5efff"/>
+	</game>
+	<game name="Atomic - Issue 011 (2001-12)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 011 (2001-12)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 011 (2001-12)(AJB Publishing)(AU).pdf" size="83059087" crc="660be20b" md5="70da59782bf403eeb1018222210fca73" sha1="b2c8652d4c3f13999f6fe5e000c61a138d0ad19f"/>
+	</game>
+	<game name="Atomic - Issue 012 (2002-01)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 012 (2002-01)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 012 (2002-01)(AJB Publishing)(AU).pdf" size="84588255" crc="3d4d1fd8" md5="65be40445c92bd22f3d5452db0585902" sha1="ecff484e3180b938cfecfacb5e7d31e91d5897d4"/>
+	</game>
+	<game name="Atomic - Issue 013 (2002-02)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 013 (2002-02)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 013 (2002-02)(AJB Publishing)(AU).pdf" size="146175893" crc="568641ca" md5="9f5b1630134dda1d9c1108774a4718f9" sha1="14c6e9a05533e83ae28fb8e5b920a22f247365a0"/>
+	</game>
+	<game name="Atomic - Issue 014 (2002-03)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 014 (2002-03)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 014 (2002-03)(AJB Publishing)(AU).pdf" size="117029231" crc="6cb7e194" md5="873c7b2169d1e564259d5917c5025dca" sha1="371eccf382747c175ba3e821e32048c7c3b872ad"/>
+	</game>
+	<game name="Atomic - Issue 015 (2002-04)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 015 (2002-04)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 015 (2002-04)(AJB Publishing)(AU).pdf" size="119336086" crc="43b597b7" md5="7260db3e3cd0f6fecfacd3776db1cc6d" sha1="fc56915eb523035c7379cbfcbb17ea604b1cf0b4"/>
+	</game>
+	<game name="Atomic - Issue 016 (2002-05)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 016 (2002-05)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 016 (2002-05)(AJB Publishing)(AU).pdf" size="121145145" crc="2496369a" md5="2c7ef5d70bb5c90f379760e57efd0d3f" sha1="5d71c562646a54d957632a5a2e6ac345ac329251"/>
+	</game>
+	<game name="Atomic - Issue 017 (2002-06)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 017 (2002-06)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 017 (2002-06)(AJB Publishing)(AU).pdf" size="142103357" crc="59e4f535" md5="ea2ddfeebceefb09d3b06f83cebeced6" sha1="bd65488e3a439430bb8ecb16bfb2b2ab7a6f9e86"/>
+	</game>
+	<game name="Atomic - Issue 018 (2002-07)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 018 (2002-07)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 018 (2002-07)(AJB Publishing)(AU).pdf" size="147398171" crc="5fdadb2d" md5="73db6c55b54fe896765cbff72ab1f58d" sha1="ae00a12f5d59fa1c022762e4eb02c3cdcc648177"/>
+	</game>
+	<game name="Atomic - Issue 020 (2002-09)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 020 (2002-09)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 020 (2002-09)(AJB Publishing)(AU).pdf" size="197392997" crc="69f2bba3" md5="4bd0a4f35ef730394004d8ca8cf530b8" sha1="f8685434bf6d5195d3d806a09551472bfd9b70d3"/>
+	</game>
+	<game name="Atomic - Issue 022 (2002-11)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 022 (2002-11)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 022 (2002-11)(AJB Publishing)(AU).pdf" size="224854456" crc="8cf6fb9e" md5="5c9d8170f798d903a5d88d40bd949829" sha1="176d18f6542731a640080c2585c6e53bdebbd5f5"/>
+	</game>
+	<game name="Atomic - Issue 023 (2002-12)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 023 (2002-12)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 023 (2002-12)(AJB Publishing)(AU).pdf" size="172317541" crc="97a91627" md5="4e2ecfe32d56dda4b1ba5569cb15e7f8" sha1="d297f23881205085ca0154b0f96da3ce1b36434f"/>
+	</game>
+	<game name="Atomic - Issue 024 (2003-01)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 024 (2003-01)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 024 (2003-01)(AJB Publishing)(AU).pdf" size="169057241" crc="88c3331d" md5="695adabfc1cac01b2b4bec11499e9038" sha1="40fb68907a2b5d2e9272709f303e802cd68edb01"/>
+	</game>
+	<game name="Atomic - Issue 025 (2003-02)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 025 (2003-02)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 025 (2003-02)(AJB Publishing)(AU).pdf" size="147009218" crc="5f8fa661" md5="3897afcf7c1ab659a318174b7cde6acb" sha1="aabd5a0544aedbf9c9579aee4c8a9cd44a5023b7"/>
+	</game>
+	<game name="Atomic - Issue 026 (2003-03)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 026 (2003-03)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 026 (2003-03)(AJB Publishing)(AU).pdf" size="123519665" crc="11835a20" md5="3e43dcf0036b5d3d800645722e717637" sha1="afbe95be6c1472aafbb5e11e12bb48b39a81ff94"/>
+	</game>
+	<game name="Atomic - Issue 027 (2003-04)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 027 (2003-04)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 027 (2003-04)(AJB Publishing)(AU).pdf" size="119714536" crc="75104afa" md5="3aae0ac82afdf1ebb935916509fdd086" sha1="9dc69a77fee8555861975101aeb8b1c176e2c765"/>
+	</game>
+	<game name="Atomic - Issue 028 (2003-05)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 028 (2003-05)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 028 (2003-05)(AJB Publishing)(AU).pdf" size="110458070" crc="f3982354" md5="49db487f77cf7f8f0549f5f6a0696ba5" sha1="b0c24158d73aa4bf980ea0e205be7602ab2301ac"/>
+	</game>
+	<game name="Atomic - Issue 029 (2003-06)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 029 (2003-06)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 029 (2003-06)(AJB Publishing)(AU).pdf" size="118797837" crc="b3c80464" md5="4db28e475b2cebd43db83a280951df07" sha1="b8c67e50a116a9c71d7e0082fb8ad3ac5544eb3e"/>
+	</game>
+	<game name="Atomic - Issue 030 (2003-07)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 030 (2003-07)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 030 (2003-07)(AJB Publishing)(AU).pdf" size="123850621" crc="623a7b38" md5="f8ae6855a9828255b2cf86c9c3701394" sha1="74a63ad74c0894408ecf319a1819d020008995e5"/>
+	</game>
+	<game name="Atomic - Issue 031 (2003-08)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 031 (2003-08)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 031 (2003-08)(AJB Publishing)(AU).pdf" size="114566378" crc="fe80c998" md5="411bca51726e8428f7f71138a719263b" sha1="b9fbe02e7f540b83fe289b63e001d7a36251ac04"/>
+	</game>
+	<game name="Atomic - Issue 033 (2003-10)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 033 (2003-10)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 033 (2003-10)(AJB Publishing)(AU).pdf" size="153211782" crc="71085d04" md5="2d508025b7dea20281319761459ec087" sha1="c9e3831e7b4c7fc5527a6b843e7fd8b4c885f12f"/>
+	</game>
+	<game name="Atomic - Issue 034 (2003-11)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 034 (2003-11)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 034 (2003-11)(AJB Publishing)(AU).pdf" size="98173865" crc="0acef51f" md5="7ee73fbd9bc3158fa6d96c68d3e3c57d" sha1="44496e4cf20738cb5e0cb44698d5aa1f760b0742"/>
+	</game>
+	<game name="Atomic - Issue 035 (2003-12)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 035 (2003-12)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 035 (2003-12)(AJB Publishing)(AU).pdf" size="123108177" crc="01eb314c" md5="63be9993e4b19519556f1060262d1ddc" sha1="f2d538813cc506fae62ca5c6ac7f19c4b83feef4"/>
+	</game>
+	<game name="Atomic - Issue 036 (2004-01)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 036 (2004-01)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 036 (2004-01)(AJB Publishing)(AU).pdf" size="90564100" crc="ad50ef4d" md5="33b0854d89905856d859f51c466f0ec7" sha1="3965f7db88f8efff7ae011d249c62a2bf12357c0"/>
+	</game>
+	<game name="Atomic - Issue 037 (2004-02)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 037 (2004-02)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 037 (2004-02)(AJB Publishing)(AU).pdf" size="91101442" crc="9c745993" md5="937e97e0e1a2b208dd32af19d53a5327" sha1="ff894096b6c5886b4a6fedb3a6fff3bd418622a4"/>
+	</game>
+	<game name="Atomic - Issue 038 (2004-03)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 038 (2004-03)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 038 (2004-03)(AJB Publishing)(AU).pdf" size="91945525" crc="99a0b701" md5="8035b8e36b1edd6d24f3898d640b28fa" sha1="225112eaf280743289e0b52cf8468c2821422f0a"/>
+	</game>
+	<game name="Atomic - Issue 039 (2004-04)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 039 (2004-04)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 039 (2004-04)(AJB Publishing)(AU).pdf" size="118992807" crc="2d86f811" md5="c6c13841e2a717e9fc32f427a6d23166" sha1="200967afe115f085410e1ccf611ae5dfca7c1a54"/>
+	</game>
+	<game name="Atomic - Issue 040 (2004-05)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 040 (2004-05)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 040 (2004-05)(AJB Publishing)(AU).pdf" size="98068969" crc="436fe72c" md5="c1945194106b172cde6556675ada1636" sha1="b4b4304c530f4ac4475256805ac6a661fef70be8"/>
+	</game>
+	<game name="Atomic - Issue 041 (2004-06)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 041 (2004-06)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 041 (2004-06)(AJB Publishing)(AU).pdf" size="94976436" crc="07e0e6b8" md5="ae93772bc2707a7311f7b1c6654a247f" sha1="b84eb51eb05bbfefde2dde32cc37cec1e245b1b0"/>
+	</game>
+	<game name="Atomic - Issue 042 (2004-07)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 042 (2004-07)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 042 (2004-07)(AJB Publishing)(AU).pdf" size="102694096" crc="8cf27481" md5="3ea36d1918454784d6b79be320d823ce" sha1="95d8725047bfe03ea3e65f880659310a738b4849"/>
+	</game>
+	<game name="Atomic - Issue 043 (2004-08)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 043 (2004-08)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 043 (2004-08)(AJB Publishing)(AU).pdf" size="98299589" crc="a509828f" md5="0628d62b8d75c3a37f7919ceae4a24f6" sha1="059fba813568cf5243bb267751dd1a2b18f56e9e"/>
+	</game>
+	<game name="Atomic - Issue 044 (2004-09)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 044 (2004-09)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 044 (2004-09)(AJB Publishing)(AU).pdf" size="92303291" crc="99f39cec" md5="84c9844b254e63355d97a6ac724a0867" sha1="7fc403bb4b13953d9ae0e0b3a21dc75a5a79eadf"/>
+	</game>
+	<game name="Atomic - Issue 046 (2004-11)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 046 (2004-11)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 046 (2004-11)(AJB Publishing)(AU).pdf" size="148628155" crc="40e5d55b" md5="fc376ef4104a8307455f0155a27331da" sha1="72426da66d7e6ea2bd0d2f105a222e598430dfd5"/>
+	</game>
+	<game name="Atomic - Issue 047 (2004-12)(AJB Publishing)(AU)">
+		<description>Atomic - Issue 047 (2004-12)(AJB Publishing)(AU)</description>
+		<rom name="Atomic - Issue 047 (2004-12)(AJB Publishing)(AU).pdf" size="196903270" crc="2e67d47c" md5="148acecf5d9ba61f553d6019bde0881f" sha1="2fbd52244d01b054e02fb4c9d0adeb3d03e39c53"/>
+	</game>
+	<game name="Atomic - Issue 048 (2005-01)(Haymarket Publishing)(AU)">
+		<description>Atomic - Issue 048 (2005-01)(Haymarket Publishing)(AU)</description>
+		<rom name="Atomic - Issue 048 (2005-01)(Haymarket Publishing)(AU).pdf" size="153217195" crc="c1dd4594" md5="2af652562b55bf264b364692844b1f80" sha1="0e625bdf4e5eda167850e74ddaafe503e0a9df64"/>
+	</game>
+	<game name="Atomic - Issue 049 (2005-02)(Haymarket Publishing)(AU)">
+		<description>Atomic - Issue 049 (2005-02)(Haymarket Publishing)(AU)</description>
+		<rom name="Atomic - Issue 049 (2005-02)(Haymarket Publishing)(AU).pdf" size="136553496" crc="c4338aa3" md5="0c2c497ae70e3576575f463fe69fb5af" sha1="e26c89874b87f1c24614de29ba4481bfff3229b1"/>
+	</game>
+	<game name="Atomic - Issue 050 (2005-03)(Haymarket Publishing)(AU)">
+		<description>Atomic - Issue 050 (2005-03)(Haymarket Publishing)(AU)</description>
+		<rom name="Atomic - Issue 050 (2005-03)(Haymarket Publishing)(AU).pdf" size="201605944" crc="b6e6eaae" md5="275793647c8e22425db863b6b5a4de11" sha1="db92093a052138579424cc770343dd6f534815db"/>
+	</game>
+	<game name="Atomic - Issue 051 (2005-04)(Haymarket)(AU)">
+		<description>Atomic - Issue 051 (2005-04)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 051 (2005-04)(Haymarket)(AU).pdf" size="251165051" crc="786d0965" md5="c62e84893582269aa1bfea48d5dd9500" sha1="7beefeb0df95534df88cdef03d21c7ac11d87b6f"/>
+	</game>
+	<game name="Atomic - Issue 053 (2005-06)(Haymarket)(AU)">
+		<description>Atomic - Issue 053 (2005-06)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 053 (2005-06)(Haymarket)(AU).pdf" size="221827451" crc="0339e700" md5="c66f77f7c40c519a7b589394dd324d15" sha1="454c1bb25ea404462976e88f40a70f9eab8c52b5"/>
+	</game>
+	<game name="Atomic - Issue 055 (2005-08)(Haymarket)(AU)">
+		<description>Atomic - Issue 055 (2005-08)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 055 (2005-08)(Haymarket)(AU).pdf" size="257832655" crc="02d1129f" md5="a7cbbfac96b3dd714e880a66e90b0a22" sha1="873afa5ea6d22d223e9f20443216fb46981f69ab"/>
+	</game>
+	<game name="Atomic - Issue 056 (2005-09)(Haymarket)(AU)">
+		<description>Atomic - Issue 056 (2005-09)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 056 (2005-09)(Haymarket)(AU).pdf" size="305276239" crc="09d79344" md5="9d053a56a81803040c35b7c891357b95" sha1="b310c412b87de84d8cf95a6b6a9e5b203b566d85"/>
+	</game>
+	<game name="Atomic - Issue 058 (2005-11)(Haymarket)(AU)">
+		<description>Atomic - Issue 058 (2005-11)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 058 (2005-11)(Haymarket)(AU).pdf" size="116297985" crc="96d2ab87" md5="8bd5df609570900b3e5db8025e94de78" sha1="a14b96742341ac42f5723c58f8946b415a858c6f"/>
+	</game>
+	<game name="Atomic - Issue 059 (2005-12)(Haymarket)(AU)">
+		<description>Atomic - Issue 059 (2005-12)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 059 (2005-12)(Haymarket)(AU).pdf" size="112379598" crc="e158b6d9" md5="415105fc2877c2181d76e5f30d5e55db" sha1="16c3983aa1202f0343b0ab01df03817a5a989e5e"/>
+	</game>
+	<game name="Atomic - Issue 060 (2006-01)(Haymarket)(AU)">
+		<description>Atomic - Issue 060 (2006-01)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 060 (2006-01)(Haymarket)(AU).pdf" size="112489627" crc="36e8aa0f" md5="4b76b7db81c53146c0c5d7f256c8b6b4" sha1="f7380ab92cac709d3786917677184f9d283584bf"/>
+	</game>
+	<game name="Atomic - Issue 061 (2006-02)(Haymarket)(AU)">
+		<description>Atomic - Issue 061 (2006-02)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 061 (2006-02)(Haymarket)(AU).pdf" size="95833984" crc="80602051" md5="1f292ffa2b5e172e7e55c1d5757b86e3" sha1="f6cc8212dee6f22348ea4a7cfa7cabae6609b316"/>
+	</game>
+	<game name="Atomic - Issue 062 (2006-03)(Haymarket)(AU)">
+		<description>Atomic - Issue 062 (2006-03)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 062 (2006-03)(Haymarket)(AU).pdf" size="100573894" crc="5ee53130" md5="af1ada4f0087ef0dab6b62adcc95c6c7" sha1="72b9192f1f843ddc1f22da2cf679ec801218ee13"/>
+	</game>
+	<game name="Atomic - Issue 063 (2006-04)(Haymarket)(AU)">
+		<description>Atomic - Issue 063 (2006-04)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 063 (2006-04)(Haymarket)(AU).pdf" size="101812398" crc="2d707d49" md5="428c3998340dbc6908f7099bc4be0d78" sha1="8290da6d2129f135f066442dc9dc11b5824fa344"/>
+	</game>
+	<game name="Atomic - Issue 064 (2006-05)(Haymarket)(AU)">
+		<description>Atomic - Issue 064 (2006-05)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 064 (2006-05)(Haymarket)(AU).pdf" size="113875165" crc="9ac879e5" md5="5f511ddc0adbe08e3ce38d50b1e18c13" sha1="6db3e0157a12f1c80deb5ea99eb693610be090c2"/>
+	</game>
+	<game name="Atomic - Issue 065 (2006-06)(Haymarket)(AU)">
+		<description>Atomic - Issue 065 (2006-06)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 065 (2006-06)(Haymarket)(AU).pdf" size="124053643" crc="5ee68682" md5="35967153f787ec9e6526fd8debdfc208" sha1="ddb0ab947b983a2e6a7129ccc524ad827c9e9efe"/>
+	</game>
+	<game name="Atomic - Issue 066 (2006-07)(Haymarket)(AU)">
+		<description>Atomic - Issue 066 (2006-07)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 066 (2006-07)(Haymarket)(AU).pdf" size="110474942" crc="00592693" md5="86d2de74828c793f0340f7f39460409f" sha1="4a012b104381b6356f879ed7e3d609c581bf3b06"/>
+	</game>
+	<game name="Atomic - Issue 067 (2006-08)(Haymarket)(AU)">
+		<description>Atomic - Issue 067 (2006-08)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 067 (2006-08)(Haymarket)(AU).pdf" size="96822280" crc="6c58efcc" md5="7db2a178fd97681fcc3cd0e8d1034794" sha1="5d71c505541fbc5ff1e4a13737a76e3ec564cc36"/>
+	</game>
+	<game name="Atomic - Issue 068 (2006-09)(Haymarket)(AU)">
+		<description>Atomic - Issue 068 (2006-09)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 068 (2006-09)(Haymarket)(AU).pdf" size="211902840" crc="a6670ff6" md5="7e49cfefa78824a21905134e171b2b84" sha1="4486cb35d6646839ea1e38cc9b8d163ea08b50fd"/>
+	</game>
+	<game name="Atomic - Issue 069 (2006-10)(Haymarket)(AU)">
+		<description>Atomic - Issue 069 (2006-10)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 069 (2006-10)(Haymarket)(AU).pdf" size="208565516" crc="e140ed67" md5="c9bf2b915e8b73f0452c9b0d95446920" sha1="6c8966c9e6ae075feae46f5714ca9e2c734571ac"/>
+	</game>
+	<game name="Atomic - Issue 070 (2006-11)(Haymarket)(AU)">
+		<description>Atomic - Issue 070 (2006-11)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 070 (2006-11)(Haymarket)(AU).pdf" size="209775245" crc="f0be22ad" md5="93e8237a881caa3b8cdd6836538d4142" sha1="ad564ce489a70b656cbe58ae7d97b85d5d2fa516"/>
+	</game>
+	<game name="Atomic - Issue 071 (2006-12)(Haymarket)(AU)">
+		<description>Atomic - Issue 071 (2006-12)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 071 (2006-12)(Haymarket)(AU).pdf" size="209001434" crc="39802911" md5="4750ee117c37f899726393f5e4be4866" sha1="0e1b954bb42d0aee1e5068d25ea2a00b44890378"/>
+	</game>
+	<game name="Atomic - Issue 072 (2007-01)(Haymarket)(AU)">
+		<description>Atomic - Issue 072 (2007-01)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 072 (2007-01)(Haymarket)(AU).pdf" size="208991344" crc="347399d2" md5="1991b8231c5f79043d11a0161a72d687" sha1="c69ca18e5b4fc1b95abd92648e9de080e16e36d1"/>
+	</game>
+	<game name="Atomic - Issue 073 (2007-02)(Haymarket)(AU)">
+		<description>Atomic - Issue 073 (2007-02)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 073 (2007-02)(Haymarket)(AU).pdf" size="216800801" crc="6358a772" md5="2f67905d20d1e3d6cff0a565a0343297" sha1="b4ac1d7aed3729cc89060598a4fd2f919cd93e12"/>
+	</game>
+	<game name="Atomic - Issue 074 (2007-03)(Haymarket)(AU)">
+		<description>Atomic - Issue 074 (2007-03)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 074 (2007-03)(Haymarket)(AU).pdf" size="208918571" crc="4dfa29bd" md5="16a0b3b02686043def82c221fdf0a116" sha1="ec8917d9390604056bb8851617a8157131ec6e9e"/>
+	</game>
+	<game name="Atomic - Issue 075 (2007-04)(Haymarket)(AU)">
+		<description>Atomic - Issue 075 (2007-04)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 075 (2007-04)(Haymarket)(AU).pdf" size="100341929" crc="211d3140" md5="c3486cb89400a69fcc0545ede366ecad" sha1="d5bb333f8bba802fb5e6a4791acba5b6ab9cca98"/>
+	</game>
+	<game name="Atomic - Issue 076 (2007-05)(Haymarket)(AU)">
+		<description>Atomic - Issue 076 (2007-05)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 076 (2007-05)(Haymarket)(AU).pdf" size="98163350" crc="f81f505b" md5="5ccc583935a6a39d3535c95f9741bfce" sha1="103716aea1247032ca4445918d57b2937a748826"/>
+	</game>
+	<game name="Atomic - Issue 077 (2007-06)(Haymarket)(AU)">
+		<description>Atomic - Issue 077 (2007-06)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 077 (2007-06)(Haymarket)(AU).pdf" size="254370810" crc="c896df96" md5="06269527b402bc9679a76f66dbdf402d" sha1="4b0403753523e745670969868ddf8d18112c5af7"/>
+	</game>
+	<game name="Atomic - Issue 078 (2007-07)(Haymarket)(AU)">
+		<description>Atomic - Issue 078 (2007-07)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 078 (2007-07)(Haymarket)(AU).pdf" size="206499841" crc="d1625579" md5="9871de728451d345905999b500fde08c" sha1="d0e2efd372c1275125717fefd9cafaae71cec1eb"/>
+	</game>
+	<game name="Atomic - Issue 079 (2007-08)(Haymarket)(AU)">
+		<description>Atomic - Issue 079 (2007-08)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 079 (2007-08)(Haymarket)(AU).pdf" size="99041375" crc="f2888fbf" md5="59649430ad3eac6fde45c68873612552" sha1="5f841582da3b98de2797a93df54ed6a8d3e1e4bb"/>
+	</game>
+	<game name="Atomic - Issue 080 (2007-09)(Haymarket)(AU)">
+		<description>Atomic - Issue 080 (2007-09)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 080 (2007-09)(Haymarket)(AU).pdf" size="94837714" crc="766258e1" md5="bb4b8a18633d5f6a1396e62f532c068a" sha1="b7c296890bec1bf6e34728f721f8ca4dbbf1b325"/>
+	</game>
+	<game name="Atomic - Issue 081 (2007-10)(Haymarket)(AU)">
+		<description>Atomic - Issue 081 (2007-10)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 081 (2007-10)(Haymarket)(AU).pdf" size="203325248" crc="514cde55" md5="f1a688d57f9ee8de0c3531adfa452a3b" sha1="6bcd6f7c48a5d1303be763dd9e7e69727aaae18c"/>
+	</game>
+	<game name="Atomic - Issue 082 (2007-11)(Haymarket)(AU)">
+		<description>Atomic - Issue 082 (2007-11)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 082 (2007-11)(Haymarket)(AU).pdf" size="201585125" crc="ecc5c680" md5="bad32514bf95e5bb70f4998d35c5202b" sha1="afec8892f9524ddb5f072e75220030a2799ec08f"/>
+	</game>
+	<game name="Atomic - Issue 086 (2008-03)(Haymarket)(AU)">
+		<description>Atomic - Issue 086 (2008-03)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 086 (2008-03)(Haymarket)(AU).pdf" size="207436456" crc="78df40e5" md5="f2db2e5976e9af38bc21bf7742d48e53" sha1="1348abe4167489a4ab79884101fff8647ceae8ae"/>
+	</game>
+	<game name="Atomic - Issue 088 (2008-05)(Haymarket)(AU)">
+		<description>Atomic - Issue 088 (2008-05)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 088 (2008-05)(Haymarket)(AU).pdf" size="201278202" crc="f535715a" md5="5297a9feab461628e59599515bb93192" sha1="a89ba17f24ee590384e6afc45cf7aec2620b64b6"/>
+	</game>
+	<game name="Atomic - Issue 089 (2008-06)(Haymarket)(AU)">
+		<description>Atomic - Issue 089 (2008-06)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 089 (2008-06)(Haymarket)(AU).pdf" size="226299908" crc="304f43b0" md5="e03a3a7e0c196b13e2acacaeb17928a0" sha1="37bd4f5e33c7e81e8f5ec4848db94441ca15b2d4"/>
+	</game>
+	<game name="Atomic - Issue 094 (2008-11)(Haymarket)(AU)">
+		<description>Atomic - Issue 094 (2008-11)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 094 (2008-11)(Haymarket)(AU).pdf" size="223316885" crc="6a2eaabb" md5="1e57739952cbf22fcc30eca3cc073aaa" sha1="f9514568ef595e2cc25e1e108752387e3e8640c2"/>
+	</game>
+	<game name="Atomic - Issue 096 (2009-01)(Haymarket)(AU)">
+		<description>Atomic - Issue 096 (2009-01)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 096 (2009-01)(Haymarket)(AU).pdf" size="183425846" crc="ffb2082f" md5="46c9be607863dceac07746d9e9c92eb8" sha1="1fb3167e7a658965974d58df4cf1ab8c3d697509"/>
+	</game>
+	<game name="Atomic - Issue 100 (2009-05)(Haymarket)(AU)">
+		<description>Atomic - Issue 100 (2009-05)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 100 (2009-05)(Haymarket)(AU).pdf" size="211574547" crc="d033d2e6" md5="5d0ffdc64b0d2fab08e90f5a5d65530c" sha1="35336bf88ff8d89a4510f4516a3e88b524be04e3"/>
+	</game>
+	<game name="Atomic - Issue 102 (2009-07)(Haymarket)(AU)">
+		<description>Atomic - Issue 102 (2009-07)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 102 (2009-07)(Haymarket)(AU).pdf" size="203673711" crc="df4e3b87" md5="c348f881b2e66b08e6ff2b49c01641a0" sha1="ac64ff65c55dcbc8d9a82996c7aa75cb41e119f2"/>
+	</game>
+	<game name="Atomic - Issue 104 (2009-09)(Haymarket)(AU)">
+		<description>Atomic - Issue 104 (2009-09)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 104 (2009-09)(Haymarket)(AU).pdf" size="208486615" crc="4626018c" md5="6ad5623ae7278f4332c4491a87ad6f3f" sha1="682ed5b3014f3b259c6046b25804f8c473929c81"/>
+	</game>
+	<game name="Atomic - Issue 105 (2009-10)(Haymarket)(AU)">
+		<description>Atomic - Issue 105 (2009-10)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 105 (2009-10)(Haymarket)(AU).pdf" size="230465888" crc="38d5c837" md5="086811689bc609b08d56073db2d290f5" sha1="0699fc7de0da3d60d8f0bd9af872d5c3dc287e9f"/>
+	</game>
+	<game name="Atomic - Issue 106 (2009-11)(Haymarket)(AU)">
+		<description>Atomic - Issue 106 (2009-11)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 106 (2009-11)(Haymarket)(AU).pdf" size="232764005" crc="474cdb4d" md5="a715008dbad88ad9e1d390446201e455" sha1="d24d5cb52fadf32a6a762b41fd2f0c2298fabb4d"/>
+	</game>
+	<game name="Atomic - Issue 107 (2009-12)(Haymarket)(AU)">
+		<description>Atomic - Issue 107 (2009-12)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 107 (2009-12)(Haymarket)(AU).pdf" size="227511287" crc="42dfc3c4" md5="8718e4e41e3067114ee1825e760ebd16" sha1="a660e39ba6f85110aa3dc39d6bcb0754a12598d2"/>
+	</game>
+	<game name="Atomic - Issue 108 (2010-01)(Haymarket)(AU)">
+		<description>Atomic - Issue 108 (2010-01)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 108 (2010-01)(Haymarket)(AU).pdf" size="218654950" crc="fa99356f" md5="e212d8e8f6ccc91478ee24e8fbebc88d" sha1="34486aa3b175339859e625ca43c43dc38cf03d37"/>
+	</game>
+	<game name="Atomic - Issue 109 (2010-02)(Haymarket)(AU)">
+		<description>Atomic - Issue 109 (2010-02)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 109 (2010-02)(Haymarket)(AU).pdf" size="210464604" crc="e933c493" md5="60407e5c79308c5fb38760157d90f765" sha1="74edd20a7271445f73d81e603ce88e6dfe904ca3"/>
+	</game>
+	<game name="Atomic - Issue 110 (2010-03)(Haymarket)(AU)">
+		<description>Atomic - Issue 110 (2010-03)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 110 (2010-03)(Haymarket)(AU).pdf" size="260776109" crc="5800855d" md5="2e494e7af5314cfbb7e0031759322f09" sha1="fdae7433d914bc75929f425148e020ad7a531754"/>
+	</game>
+	<game name="Atomic - Issue 111 (2010-04)(Haymarket)(AU)">
+		<description>Atomic - Issue 111 (2010-04)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 111 (2010-04)(Haymarket)(AU).pdf" size="274340178" crc="7c47fd0d" md5="f824ca348be42db40178d9ba0f4050bc" sha1="c2cbd6c4527256e9eb8c71053ec06378c250d002"/>
+	</game>
+	<game name="Atomic - Issue 112 (2010-05)(Haymarket)(AU)">
+		<description>Atomic - Issue 112 (2010-05)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 112 (2010-05)(Haymarket)(AU).pdf" size="258128998" crc="24ce16ac" md5="0fc5221318cce7bfaa37f06620967530" sha1="6c2644b2c27265e717e91e7794f9b48e7a4565a2"/>
+	</game>
+	<game name="Atomic - Issue 113 (2010-06)(Haymarket)(AU)">
+		<description>Atomic - Issue 113 (2010-06)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 113 (2010-06)(Haymarket)(AU).pdf" size="208444041" crc="d3d5cb57" md5="e01699166f1b01c2e8ca6fbfa23b052e" sha1="bd218f49fa736a70d24766249191569010a0c5f5"/>
+	</game>
+	<game name="Atomic - Issue 114 (2010-07)(Haymarket)(AU)">
+		<description>Atomic - Issue 114 (2010-07)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 114 (2010-07)(Haymarket)(AU).pdf" size="249813199" crc="0db5cce6" md5="546ec5ad35ec5ae759b02e3c34a5fd86" sha1="834f05cd8108ffdaaaa561f0fd18adda6d6369aa"/>
+	</game>
+	<game name="Atomic - Issue 115 (2010-08)(Haymarket)(AU)">
+		<description>Atomic - Issue 115 (2010-08)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 115 (2010-08)(Haymarket)(AU).pdf" size="202745742" crc="b8619b65" md5="1c5135fe2e581249afa59a0491a78f9c" sha1="73a479df8ac2b95b1d59d05e286ee70933495f9f"/>
+	</game>
+	<game name="Atomic - Issue 116 (2010-09)(Haymarket)(AU)">
+		<description>Atomic - Issue 116 (2010-09)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 116 (2010-09)(Haymarket)(AU).pdf" size="98553442" crc="99a9add4" md5="712e30dd3a13fc1fbc63b35503562e7a" sha1="8c12d7465512b9d5aea30230b485d50612a2054c"/>
+	</game>
+	<game name="Atomic - Issue 117 (2010-10)(Haymarket)(AU)">
+		<description>Atomic - Issue 117 (2010-10)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 117 (2010-10)(Haymarket)(AU).pdf" size="201082129" crc="6f8f452d" md5="c173eb978e4d72bcca69b4233414758b" sha1="5503efe1fec094615e197d94a2a2c9c80eb236bd"/>
+	</game>
+	<game name="Atomic - Issue 118 (2010-11)(Haymarket)(AU)">
+		<description>Atomic - Issue 118 (2010-11)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 118 (2010-11)(Haymarket)(AU).pdf" size="205572645" crc="b3b1835e" md5="787c6f07e8716ffdf91f7b53a21dd02d" sha1="5e0acda6cdf867c7409b163436b583a130a46de1"/>
+	</game>
+	<game name="Atomic - Issue 120 (2011-01)(Haymarket)(AU)">
+		<description>Atomic - Issue 120 (2011-01)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 120 (2011-01)(Haymarket)(AU).pdf" size="95538376" crc="bb0dcde4" md5="b65f8beab0ca0dad53dcaa10982febdb" sha1="8356668a7e4122d20c75708d15835f1699f6d571"/>
+	</game>
+	<game name="Atomic - Issue 122 (2011-03)(Haymarket)(AU)">
+		<description>Atomic - Issue 122 (2011-03)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 122 (2011-03)(Haymarket)(AU).pdf" size="211887746" crc="7e082dcb" md5="51eea0eae74659e323289c2f2dff095b" sha1="472382c3f3b91fb67ef4ddceb458311a91e8d419"/>
+	</game>
+	<game name="Atomic - Issue 123 (2011-04)(Haymarket)(AU)">
+		<description>Atomic - Issue 123 (2011-04)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 123 (2011-04)(Haymarket)(AU).pdf" size="204085826" crc="aa7e4f97" md5="a411e0a72873ac298b91a99d342b95a8" sha1="098787ae077ff6b761aaf2031860882fb4043f4a"/>
+	</game>
+	<game name="Atomic - Issue 124 (2011-05)(Haymarket)(AU)">
+		<description>Atomic - Issue 124 (2011-05)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 124 (2011-05)(Haymarket)(AU).pdf" size="204180445" crc="b1dcda80" md5="edcd5a709c4659693d64aae58d77d21e" sha1="c653c7016eb1b210bd7a470ff577937fc5a20ce3"/>
+	</game>
+	<game name="Atomic - Issue 126 (2011-07)(Haymarket)(AU)">
+		<description>Atomic - Issue 126 (2011-07)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 126 (2011-07)(Haymarket)(AU).pdf" size="201275127" crc="8752f110" md5="7511fee50f340025ee8e7e521b97e5eb" sha1="ecadd2728ffcbf7d76c9d5eb709eaa86f8023be7"/>
+	</game>
+	<game name="Atomic - Issue 127 (2011-08)(Haymarket)(AU)">
+		<description>Atomic - Issue 127 (2011-08)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 127 (2011-08)(Haymarket)(AU).pdf" size="207771098" crc="4473f28a" md5="cd700d6b95d119ad385f999a1e81acfa" sha1="fc76b881dbe474327ca02ff5b78c4f3b59aef7bf"/>
+	</game>
+	<game name="Atomic - Issue 128 (2011-09)(Haymarket)(AU)">
+		<description>Atomic - Issue 128 (2011-09)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 128 (2011-09)(Haymarket)(AU).pdf" size="205314413" crc="f3dd7ce4" md5="774b4f2ba81105ed1bd75fcfe8c407db" sha1="69e576a934b1da065309df7a73933db4fe2a89dc"/>
+	</game>
+	<game name="Atomic - Issue 129 (2011-10)(Haymarket)(AU)">
+		<description>Atomic - Issue 129 (2011-10)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 129 (2011-10)(Haymarket)(AU).pdf" size="94516596" crc="fa92e9d8" md5="71c6f28026f8caa64b34c13cc81ceb8e" sha1="bb44a3d1f7df1ca3cbc9b3dc5ac0ddc4585a06e7"/>
+	</game>
+	<game name="Atomic - Issue 129 (2011-10)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 129 (2011-10)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 129 (2011-10)(Haymarket)(AU)[a].pdf" size="203841193" crc="1f80e069" md5="0ff9ad9cdf33ae0e5d3f19044a149acb" sha1="ba33da2fd58cbad8d77fc9a0176649c161f8f65b"/>
+	</game>
+	<game name="Atomic - Issue 130 (2011-11)(Haymarket)(AU)">
+		<description>Atomic - Issue 130 (2011-11)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 130 (2011-11)(Haymarket)(AU).pdf" size="208121414" crc="c0e6325c" md5="a49c4bf57b0f3c26b66d02a105023855" sha1="4774cd98b8945dfbac87fd0eec379a74e0ce827c"/>
+	</game>
+	<game name="Atomic - Issue 131 (2011-12)(Haymarket)(AU)">
+		<description>Atomic - Issue 131 (2011-12)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 131 (2011-12)(Haymarket)(AU).pdf" size="39724462" crc="bcec743f" md5="66d9e0790fa739e2975cfaaad2a6bdef" sha1="558f404230f3d971a779c22358184164d066a28d"/>
+	</game>
+	<game name="Atomic - Issue 131 (2011-12)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 131 (2011-12)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 131 (2011-12)(Haymarket)(AU)[a].pdf" size="254473771" crc="4e8e374e" md5="ae6d3cacbb3f5ef8a70fb0a3da329dbb" sha1="3f44f0ab9dac17410c9617cbaeb297328470739a"/>
+	</game>
+	<game name="Atomic - Issue 132 (2012-01)(Haymarket)(AU)">
+		<description>Atomic - Issue 132 (2012-01)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 132 (2012-01)(Haymarket)(AU).pdf" size="86040637" crc="382eb9d1" md5="b2129167b5f07453058fb4a900a121fd" sha1="1121e1d141022bbbf990c6166c86d0671bb30a20"/>
+	</game>
+	<game name="Atomic - Issue 132 (2012-01)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 132 (2012-01)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 132 (2012-01)(Haymarket)(AU)[a].pdf" size="260924622" crc="f7a184c9" md5="386016497baad8d06d8d385dacb5ab77" sha1="9804693d29f4e99f7b9d091472892eb090bb35b1"/>
+	</game>
+	<game name="Atomic - Issue 133 (2012-02)(Haymarket)(AU)">
+		<description>Atomic - Issue 133 (2012-02)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 133 (2012-02)(Haymarket)(AU).pdf" size="41016042" crc="5456e0fa" md5="c2ea569b49e052f39ecb5325e02775e4" sha1="d4a59b9d80da347af276f26261487edd9cc7515e"/>
+	</game>
+	<game name="Atomic - Issue 133 (2012-02)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 133 (2012-02)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 133 (2012-02)(Haymarket)(AU)[a].pdf" size="155693989" crc="dbcc1460" md5="ee94ebaa41b0d23d2ef8c77340af9ea0" sha1="6bb1131b60e268d4edcbfba1283e2cb0ecb10019"/>
+	</game>
+	<game name="Atomic - Issue 134 (2012-03)(Haymarket)(AU)">
+		<description>Atomic - Issue 134 (2012-03)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 134 (2012-03)(Haymarket)(AU).pdf" size="72342996" crc="c7879ce0" md5="0b52bd3eb58e006b01f157751cb55e8e" sha1="eef3adced9c2a2c0148224bcd9e525b5fdeb38b1"/>
+	</game>
+	<game name="Atomic - Issue 134 (2012-03)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 134 (2012-03)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 134 (2012-03)(Haymarket)(AU)[a].pdf" size="93766035" crc="9bcfafbb" md5="ad98c2abd24a026ec3dc9ed7404047cd" sha1="f30683d507ab5ce7d2326ba6ed115e4d61b5362d"/>
+	</game>
+	<game name="Atomic - Issue 135 (2012-04)(Haymarket)(AU)">
+		<description>Atomic - Issue 135 (2012-04)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 135 (2012-04)(Haymarket)(AU).pdf" size="84177091" crc="9c92e7c8" md5="3d14d3c9c7a7b6876b4c28a8e58e3ceb" sha1="a9a237fab9acec0a88c39262c05a2730b5f90a22"/>
+	</game>
+	<game name="Atomic - Issue 135 (2012-04)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 135 (2012-04)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 135 (2012-04)(Haymarket)(AU)[a].pdf" size="100218706" crc="0896d9fc" md5="26a38d3f104323742efbaf91f4b60ba4" sha1="d8463b4308649d3fb341e2eb927857764e55ef48"/>
+	</game>
+	<game name="Atomic - Issue 136 (2012-05)(Haymarket)(AU)">
+		<description>Atomic - Issue 136 (2012-05)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 136 (2012-05)(Haymarket)(AU).pdf" size="85667759" crc="71242fcd" md5="5fd20f670b9e67554c9d9df1cafec5a7" sha1="54532539fc65665acefcfa4042b4e7249b12f2c5"/>
+	</game>
+	<game name="Atomic - Issue 136 (2012-05)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 136 (2012-05)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 136 (2012-05)(Haymarket)(AU)[a].pdf" size="131939820" crc="1a9b84f3" md5="df5319c0852d40effcd3293f1381c4c3" sha1="2f8389050365a0705b868118e229b28ff1fa9ee1"/>
+	</game>
+	<game name="Atomic - Issue 137 (2012-06)(Haymarket)(AU)">
+		<description>Atomic - Issue 137 (2012-06)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 137 (2012-06)(Haymarket)(AU).pdf" size="83061563" crc="ce921321" md5="aa23f12ac0b47e17a6b71e89aa109a7e" sha1="ee7e95900b55028810d107256d5b05ae1f29276f"/>
+	</game>
+	<game name="Atomic - Issue 137 (2012-06)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 137 (2012-06)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 137 (2012-06)(Haymarket)(AU)[a].pdf" size="99691226" crc="2d34e892" md5="0558af28e8e489ca393757a62bf401d4" sha1="88497612dce73b6739d3ddd07f231b9228e28b59"/>
+	</game>
+	<game name="Atomic - Issue 138 (2012-07)(Haymarket)(AU)">
+		<description>Atomic - Issue 138 (2012-07)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 138 (2012-07)(Haymarket)(AU).pdf" size="70777098" crc="cf2eaa51" md5="1b28eef923e78fef5a980b0fb7668d3b" sha1="a1605ebd948daed517cbfdcb5fd67233617026e3"/>
+	</game>
+	<game name="Atomic - Issue 138 (2012-07)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 138 (2012-07)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 138 (2012-07)(Haymarket)(AU)[a].pdf" size="97829629" crc="5da370ba" md5="1736cdb6264ca8fcf56df104bfa19b21" sha1="3da07a3ab91c7288c1faef5669c87081daa58a16"/>
+	</game>
+	<game name="Atomic - Issue 139 (2012-08)(Haymarket)(AU)">
+		<description>Atomic - Issue 139 (2012-08)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 139 (2012-08)(Haymarket)(AU).pdf" size="69864064" crc="89ec51f5" md5="fcb2d064fdd8614e7c0357f8a75004eb" sha1="26763d2bd9a7966980e71e2ad043cfa5646f1819"/>
+	</game>
+	<game name="Atomic - Issue 139 (2012-08)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 139 (2012-08)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 139 (2012-08)(Haymarket)(AU)[a].pdf" size="212032920" crc="0bcf24a0" md5="b0df525fcb4359ec27bdf4d1c3930428" sha1="bb7282bdd3315016cd62fa85e0834c959b6dea1e"/>
+	</game>
+	<game name="Atomic - Issue 140 (2012-09)(Haymarket)(AU)">
+		<description>Atomic - Issue 140 (2012-09)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 140 (2012-09)(Haymarket)(AU).pdf" size="92292095" crc="cecae56f" md5="8bedf8730774e51edb991a4c8d38bc28" sha1="9b43e0ffa092c76d249bd4d98302c193acd08b20"/>
+	</game>
+	<game name="Atomic - Issue 141 (2012-10)(Haymarket)(AU)">
+		<description>Atomic - Issue 141 (2012-10)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 141 (2012-10)(Haymarket)(AU).pdf" size="91721122" crc="d674449d" md5="4c9a9a68b936b28cbec30c0c3b7e9b98" sha1="3d2b02c7c9321668e39eb828086fb036c43f41d6"/>
+	</game>
+	<game name="Atomic - Issue 141 (2012-10)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 141 (2012-10)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 141 (2012-10)(Haymarket)(AU)[a].pdf" size="252990626" crc="a001b352" md5="9ce7a14da9c4a42c999701ec1a882c9c" sha1="7e2f355d8b6036bba4d87d8df00ae1ce782aeb39"/>
+	</game>
+	<game name="Atomic - Issue 142 (2012-11)(Haymarket)(AU)">
+		<description>Atomic - Issue 142 (2012-11)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 142 (2012-11)(Haymarket)(AU).pdf" size="133010549" crc="0e353530" md5="ef05b6cf382645f3b198738874b3af4d" sha1="7e0cdc3f8c0bf87508ab1c0f69d0a55ae342fd9b"/>
+	</game>
+	<game name="Atomic - Issue 142 (2012-11)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 142 (2012-11)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 142 (2012-11)(Haymarket)(AU)[a].pdf" size="211900716" crc="e2c97539" md5="1ba9889e19f03bc7d7cdb8a2906c3e60" sha1="8c93aee26187b4f85cc5f97e1e41f7a285736f48"/>
+	</game>
+	<game name="Atomic - Issue 143 (2012-12)(Haymarket)(AU)">
+		<description>Atomic - Issue 143 (2012-12)(Haymarket)(AU)</description>
+		<rom name="Atomic - Issue 143 (2012-12)(Haymarket)(AU).pdf" size="92513030" crc="f44048e3" md5="1783f7f0742cb56f5faa41c5ba3b9791" sha1="0dcbc81b5f2f884b790ba667219540101860971e"/>
+	</game>
+	<game name="Atomic - Issue 143 (2012-12)(Haymarket)(AU)[a]">
+		<description>Atomic - Issue 143 (2012-12)(Haymarket)(AU)[a]</description>
+		<rom name="Atomic - Issue 143 (2012-12)(Haymarket)(AU)[a].pdf" size="207316581" crc="9202e700" md5="f900e5310d1af61cc4a80d05d453e910" sha1="86d54b01a0b1091eeb98dd89cec5fb0b727601c5"/>
+	</game>
+</datafile>

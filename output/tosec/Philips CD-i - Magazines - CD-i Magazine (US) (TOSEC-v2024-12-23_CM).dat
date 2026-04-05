@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Philips CD-i - Magazines - CD-i Magazine (US)</name>
+		<description>Philips CD-i - Magazines - CD-i Magazine (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="CD-i Magazine - Issue 01 (1994-09)(Haymarket Publishing)(US)">
+		<description>CD-i Magazine - Issue 01 (1994-09)(Haymarket Publishing)(US)</description>
+		<rom name="CD-i Magazine - Issue 01 (1994-09)(Haymarket Publishing)(US).pdf" size="71300888" crc="3b82bc68" md5="c2259e202d12d9cfbd100db9e2fb64e5" sha1="2c4b0e181b8edc8988acefc5a6c0dfb769715595"/>
+	</game>
+	<game name="CD-i Magazine - Issue 02 (1994-11)(Haymarket Publishing)(US)">
+		<description>CD-i Magazine - Issue 02 (1994-11)(Haymarket Publishing)(US)</description>
+		<rom name="CD-i Magazine - Issue 02 (1994-11)(Haymarket Publishing)(US).pdf" size="65464086" crc="239ab006" md5="6ad95dfd3c6a2cc293a3878332cf8ff1" sha1="9e66337f87162dafbcd97dde888a6801b4a239b3"/>
+	</game>
+	<game name="CD-i Magazine - Issue 03 (1995-03)(Haymarket Publishing)(US)">
+		<description>CD-i Magazine - Issue 03 (1995-03)(Haymarket Publishing)(US)</description>
+		<rom name="CD-i Magazine - Issue 03 (1995-03)(Haymarket Publishing)(US).pdf" size="228022269" crc="7bb3885c" md5="259f717ec52a6bc878b1bc6ed2a6cde1" sha1="7a438982c08e7397e8aac8454cb81675bc73f680"/>
+	</game>
+	<game name="CD-i Magazine - Issue 04 (1995-04)(Haymarket Publishing)(US)">
+		<description>CD-i Magazine - Issue 04 (1995-04)(Haymarket Publishing)(US)</description>
+		<rom name="CD-i Magazine - Issue 04 (1995-04)(Haymarket Publishing)(US).pdf" size="176097945" crc="2d71d730" md5="0d9d8135859d19f8d02b99f0e36458a3" sha1="2ce3b2c63bd4e73f87a98e012b63ef640d5fb385"/>
+	</game>
+	<game name="CD-i Magazine - Issue 05 (1995-05)(Haymarket Publishing)(US)">
+		<description>CD-i Magazine - Issue 05 (1995-05)(Haymarket Publishing)(US)</description>
+		<rom name="CD-i Magazine - Issue 05 (1995-05)(Haymarket Publishing)(US).pdf" size="176366339" crc="e4e422ed" md5="89ba7df010b1e68d9950ce268d39a360" sha1="62bcddb1e88aee9e74ec3db37bb000939d461cbf"/>
+	</game>
+</datafile>

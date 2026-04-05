@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Magazines - Dreamcast Player (FR)</name>
+		<description>Sega Dreamcast - Magazines - Dreamcast Player (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dreamcast Player - N.01 (1999)(Media Systeme Edition)(FR)">
+		<description>Dreamcast Player - N.01 (1999)(Media Systeme Edition)(FR)</description>
+		<rom name="Dreamcast Player - N.01 (1999)(Media Systeme Edition)(FR).pdf" size="196654326" crc="9eb34259" md5="36adb9de7ee8406614fbd0ffe33323b4" sha1="0d27adcec534d957ffee8a8a09f7fbbcb5c8ccfd"/>
+	</game>
+</datafile>

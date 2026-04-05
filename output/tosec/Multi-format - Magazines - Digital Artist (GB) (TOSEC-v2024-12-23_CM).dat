@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Digital Artist (GB)</name>
+		<description>Multi-format - Magazines - Digital Artist (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Digital Artist - Issue 08 (2010)(Imagine Publishing)(GB)">
+		<description>Digital Artist - Issue 08 (2010)(Imagine Publishing)(GB)</description>
+		<rom name="Digital Artist - Issue 08 (2010)(Imagine Publishing)(GB).pdf" size="164465609" crc="f0de118a" md5="339ac6ee8332f4285865258452c2463f" sha1="6b8137ed84fc33803b6041b8d36424ab228fab66"/>
+	</game>
+</datafile>

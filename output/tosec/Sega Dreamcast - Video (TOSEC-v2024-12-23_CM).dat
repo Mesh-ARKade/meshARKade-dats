@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Video</name>
+		<description>Sega Dreamcast - Video (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Dreamcast Prelaunch (Promo)(1998-10-06)(Sega)(JP)">
+		<description>Dreamcast Prelaunch (Promo)(1998-10-06)(Sega)(JP)</description>
+		<rom name="Dreamcast Prelaunch (Promo)(1998-10-06)(Sega)(JP).mp4" size="8338749546" crc="14c63435" md5="2cd84f70148aae539de7cdb6d8604f5f" sha1="d7decca2441d3608f0b9324c297044023c17e564"/>
+	</game>
+	<game name="Dreamcast Summer Games (2000)(Sega)(US)">
+		<description>Dreamcast Summer Games (2000)(Sega)(US)</description>
+		<rom name="Dreamcast Summer Games (2000)(Sega)(US).mp4" size="10540080981" crc="f752ee3f" md5="c5c296cafa96c2114b7488715a38697d" sha1="b1a8db0cf3ef3fc96d944dbb29086e158ba126a8"/>
+	</game>
+	<game name="Greatest Range On Earth (2000)(Sega)(GB)">
+		<description>Greatest Range On Earth (2000)(Sega)(GB)</description>
+		<rom name="Greatest Range On Earth (2000)(Sega)(GB).mp4" size="218644458" crc="bf4b1b72" md5="787815445f4f8bce099785775ac4b0b1" sha1="8cd789e52f841795c5c0e2745114fab383a44f5d"/>
+	</game>
+	<game name="Sega of America Q1 Retail 2000 (2000)(Sega)(US)">
+		<description>Sega of America Q1 Retail 2000 (2000)(Sega)(US)</description>
+		<rom name="Sega of America Q1 Retail 2000 (2000)(Sega)(US).mp4" size="16390460139" crc="40d8df64" md5="8bc453bfa8cfc8a7ee1d01e6ff3b2cec" sha1="a15e91319f6ee4727c9e59773cbf0f03536c074f"/>
+	</game>
+</datafile>

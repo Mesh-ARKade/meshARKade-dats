@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - VideoGames (US)</name>
+		<description>Multi-format - Magazines - VideoGames (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="VideoGames - Volume 07 Issue 02 (1995-02)(LFP)(US)">
+		<description>VideoGames - Volume 07 Issue 02 (1995-02)(LFP)(US)</description>
+		<rom name="VideoGames - Volume 07 Issue 02 (1995-02)(LFP)(US).pdf" size="155588070" crc="89dc0705" md5="c892a11895d1888b742564bafc9ab860" sha1="c766aef5bf32b1f4848a33421f139fc94207edd0"/>
+	</game>
+	<game name="VideoGames - Volume V Issue 09 (1993-09)(LFP)(US)">
+		<description>VideoGames - Volume V Issue 09 (1993-09)(LFP)(US)</description>
+		<rom name="VideoGames - Volume V Issue 09 (1993-09)(LFP)(US).pdf" size="173095122" crc="13cb9a86" md5="be2a99f5d8a8899bb2123057fc048ded" sha1="df8ed64ef620df1d3e0394c3111c6e1cd2da87fe"/>
+	</game>
+	<game name="VideoGames - Volume V Issue 10 (1993-10)(LFP)(US)">
+		<description>VideoGames - Volume V Issue 10 (1993-10)(LFP)(US)</description>
+		<rom name="VideoGames - Volume V Issue 10 (1993-10)(LFP)(US).pdf" size="154797758" crc="65c2ef7b" md5="261966abc6f9460044278cf9103c96bd" sha1="5493a97d6911ba4bd0559467263a8a662acb46eb"/>
+	</game>
+	<game name="VideoGames - Volume V Issue 12 (1993-12)(LFP)(US)">
+		<description>VideoGames - Volume V Issue 12 (1993-12)(LFP)(US)</description>
+		<rom name="VideoGames - Volume V Issue 12 (1993-12)(LFP)(US).pdf" size="186871064" crc="e6dd059d" md5="2b9fe2f2f5bb2771482d406142cab12c" sha1="4b1bdd37f8f141f51a92dcedbde25eec832bb9c9"/>
+	</game>
+	<game name="VideoGames - Volume VI Issue 01 (1994-01)(LFP)(US)">
+		<description>VideoGames - Volume VI Issue 01 (1994-01)(LFP)(US)</description>
+		<rom name="VideoGames - Volume VI Issue 01 (1994-01)(LFP)(US).pdf" size="166026363" crc="e36eeba2" md5="6b16b7c755ec0770cd2fb3bd2cfb604b" sha1="ebdacc8ceadc73c4f4cee9b888239abef1afe198"/>
+	</game>
+	<game name="VideoGames - Volume VI Issue 03 (1994-03)(LFP)(US)">
+		<description>VideoGames - Volume VI Issue 03 (1994-03)(LFP)(US)</description>
+		<rom name="VideoGames - Volume VI Issue 03 (1994-03)(LFP)(US).pdf" size="154802206" crc="bb9d6d20" md5="b6cba105c52389fb693424075050e1eb" sha1="df65dfe5e17cb3bc76e620d898cfa768ee8e5349"/>
+	</game>
+	<game name="VideoGames - Volume VI Issue 04 (1994-04)(LFP)(US)">
+		<description>VideoGames - Volume VI Issue 04 (1994-04)(LFP)(US)</description>
+		<rom name="VideoGames - Volume VI Issue 04 (1994-04)(LFP)(US).pdf" size="161313197" crc="64469409" md5="7121915725e439f56780ffd43f3e0f66" sha1="113bfd323088f286e3916138d81549582994cb25"/>
+	</game>
+	<game name="VideoGames - Volume VI Issue 05 (1994-05)(LFP)(US)">
+		<description>VideoGames - Volume VI Issue 05 (1994-05)(LFP)(US)</description>
+		<rom name="VideoGames - Volume VI Issue 05 (1994-05)(LFP)(US).pdf" size="161616655" crc="82ff3f4e" md5="9fa2b71816ae23357522083f09665b67" sha1="4fe0e850e896a7d0e4994f038abd2ba4bd4b285b"/>
+	</game>
+	<game name="VideoGames - Volume VI Issue 06 (1994-06)(LFP)(US)">
+		<description>VideoGames - Volume VI Issue 06 (1994-06)(LFP)(US)</description>
+		<rom name="VideoGames - Volume VI Issue 06 (1994-06)(LFP)(US).pdf" size="152998206" crc="b601ee94" md5="12d79dd9ab8f4518f630ac43cf06af14" sha1="05b0c149b8bca2c55045db463c4c78108576186f"/>
+	</game>
+</datafile>

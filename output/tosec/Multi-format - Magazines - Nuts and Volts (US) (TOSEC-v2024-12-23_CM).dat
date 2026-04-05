@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Nuts and Volts (US)</name>
+		<description>Multi-format - Magazines - Nuts and Volts (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nuts and Volts - Volume 25 Issue 01 (2004-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 01 (2004-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 01 (2004-01)(T&amp;L Publications)(US).pdf" size="57509834" crc="39668695" md5="4a3b7a23f38727549f5105d43ac849d6" sha1="8e6461b1026c441e54bf663a51adb19a50cb188a"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 02 (2004-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 02 (2004-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 02 (2004-02)(T&amp;L Publications)(US).pdf" size="52415531" crc="98645327" md5="2c7a999a4ad22111d0bd80f0f0a6739f" sha1="6903b02e75674691ce29cdcea482dcf572e566b9"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 03 (2004-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 03 (2004-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 03 (2004-03)(T&amp;L Publications)(US).pdf" size="54747526" crc="b23470be" md5="1685dcdd7c7e345405aa15037361d264" sha1="d0ac60bfd6fe7901aa2fe60d0c6311edb6bb52e5"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 04 (2004-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 04 (2004-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 04 (2004-04)(T&amp;L Publications)(US).pdf" size="55605798" crc="60a7d49e" md5="c66fbe728e258d090a04d48b7f3054c1" sha1="603752128590b21dd68ec65f219ad94391adda8c"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 05 (2004-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 05 (2004-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 05 (2004-05)(T&amp;L Publications)(US).pdf" size="56310962" crc="43f714c9" md5="984bdfc58f6fdb8c6ff55788d6683d36" sha1="d7c24c6b09e555012acac6ac6bb693b202c4c348"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 06 (2004-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 06 (2004-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 06 (2004-06)(T&amp;L Publications)(US).pdf" size="59573355" crc="cb2462bb" md5="3175152e4c5f21a441beae32553368b0" sha1="f1ec83cec3ef3d37740caaae8caf0c2aa195b613"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 07 (2004-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 07 (2004-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 07 (2004-07)(T&amp;L Publications)(US).pdf" size="59926676" crc="457f59a0" md5="6b9471815daf85c0a8792436a2b73df1" sha1="e30edfca2c827497c84939d78d88037fc615eb73"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 08 (2004-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 08 (2004-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 08 (2004-08)(T&amp;L Publications)(US).pdf" size="58736192" crc="76376a30" md5="8a28be3afa654c4f6dfb8a329839ac68" sha1="c9512b9c8cd8d4ea9d84da2a002dae56fada2019"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 09 (2004-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 09 (2004-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 09 (2004-09)(T&amp;L Publications)(US).pdf" size="62677353" crc="dd566546" md5="e8e1f03fb8bc6518aa97b9e73fa37e00" sha1="bacde991126041576f2a99c511bbc531b07c2abd"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 10 (2004-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 10 (2004-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 10 (2004-10)(T&amp;L Publications)(US).pdf" size="59498162" crc="fc95b27e" md5="65cbfeda1557860f78a9456a39a5e48f" sha1="7032692a69f5bfe871cd6c24b97fe52fce66b490"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 11 (2004-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 11 (2004-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 11 (2004-11)(T&amp;L Publications)(US).pdf" size="59466632" crc="52ef15d7" md5="96e20bd9f8a0b99c0ad4412264e3088e" sha1="fb9a105d0558e355943f88a69f246fec8d38f656"/>
+	</game>
+	<game name="Nuts and Volts - Volume 25 Issue 12 (2004-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 25 Issue 12 (2004-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 25 Issue 12 (2004-12)(T&amp;L Publications)(US).pdf" size="54020042" crc="78269a13" md5="636215de0f9ed4d800dc5865e3fbffcf" sha1="59df88f48d11450ca629a32c5bc9d0cb44c740e9"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 01 (2005-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 01 (2005-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 01 (2005-01)(T&amp;L Publications)(US).pdf" size="62294372" crc="0df7bfe4" md5="0797b4c1f13046432e07269299876037" sha1="c44e6b2595484bfcac6586b93ba223f5ed602ba0"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 02 (2005-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 02 (2005-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 02 (2005-02)(T&amp;L Publications)(US).pdf" size="29580923" crc="32a5619b" md5="ad2f9f603691b8d739444f6426c1370a" sha1="2a235c561bbe38b8f2f1dbd3bfef55d9652a6a9f"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 03 (2005-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 03 (2005-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 03 (2005-03)(T&amp;L Publications)(US).pdf" size="31804499" crc="7b953e4f" md5="29aa01c3bd0c9e26b4a4d2124f6d0ced" sha1="fde2dafdc6d2477deb2daabfa55ab2cfceed5861"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 04 (2005-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 04 (2005-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 04 (2005-04)(T&amp;L Publications)(US).pdf" size="28221917" crc="6e23265d" md5="e95267a13d154f1d569896d9b2cc6bb8" sha1="4d64f9f0cbb5a34e533caaaa5486b013ab3b1b1a"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 05 (2005-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 05 (2005-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 05 (2005-05)(T&amp;L Publications)(US).pdf" size="32415854" crc="4c6606ba" md5="68b86fbc316c3eefe39c36ff2a834942" sha1="e5a9687a1e00afd03d8b92adb07a03e9dabe0da2"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 06 (2005-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 06 (2005-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 06 (2005-06)(T&amp;L Publications)(US).pdf" size="51073222" crc="f1660fea" md5="afa00aa0ab0459ae89cdac8851b34233" sha1="42c68d45d8d48841d2f163ddde924a19dc6a3a62"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 07 (2005-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 07 (2005-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 07 (2005-07)(T&amp;L Publications)(US).pdf" size="31883876" crc="54d453e0" md5="59e32f19671981043ef15ea288538bf1" sha1="0598f53e3794006557b6b7045ab8aaa73758ccbe"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 08 (2005-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 08 (2005-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 08 (2005-08)(T&amp;L Publications)(US).pdf" size="30639126" crc="314d1429" md5="ffb0a0aab902dd856bcec5758505e923" sha1="1f1727bd2761307ba24678c0f0bb7bcc0529997c"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 09 (2005-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 09 (2005-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 09 (2005-09)(T&amp;L Publications)(US).pdf" size="31513029" crc="f5bcbeac" md5="376cc5ff24646d7986812ce3e6bdd3cf" sha1="18f94132713cf6362fbecab27a72a617a239c535"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 10 (2005-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 10 (2005-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 10 (2005-10)(T&amp;L Publications)(US).pdf" size="28604077" crc="87b1bee3" md5="342230f7d6d16ec2fa6d4959bb9201e1" sha1="9c7bcb4ef87f84caf4626dec72a82cd0fa36f380"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 11 (2005-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 11 (2005-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 11 (2005-11)(T&amp;L Publications)(US).pdf" size="32487413" crc="416e96a6" md5="aa710c08bfeef79884f6f17ee115371e" sha1="882eeb0997a0a076e1afffc4a15fb4cb984e6473"/>
+	</game>
+	<game name="Nuts and Volts - Volume 26 Issue 12 (2005-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 26 Issue 12 (2005-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 26 Issue 12 (2005-12)(T&amp;L Publications)(US).pdf" size="44463556" crc="25283a79" md5="8f5da9ec75f5e3e575332c8b2f2bbb4d" sha1="6f378f541b465aea7d9c7e0035360e3171178fd0"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 01 (2006-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 01 (2006-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 01 (2006-01)(T&amp;L Publications)(US).pdf" size="18659951" crc="168c3955" md5="9c1a75ab61a4f05cef5041656ecce7fb" sha1="acc2762d439a0ff30d51fce9eea6072998720416"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 02 (2006-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 02 (2006-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 02 (2006-02)(T&amp;L Publications)(US).pdf" size="16610666" crc="074d3f30" md5="74ebc0483f9f1a1dd0f8626e2dbe87ef" sha1="f5fae787a7d1a19928d770c80093a5d08bb18d09"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 03 (2006-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 03 (2006-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 03 (2006-03)(T&amp;L Publications)(US).pdf" size="28475094" crc="c09f4768" md5="a5a97534f494b0e8c91dc825d7e2c254" sha1="5fa15cb7731dde6942250d999ba92e2094402f78"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 04 (2006-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 04 (2006-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 04 (2006-04)(T&amp;L Publications)(US).pdf" size="30487307" crc="24a3d487" md5="4426d6ae858f704d6025c22cdb9dfbad" sha1="5f7c5a62df175c3baa78a2fe4c8046d9c996e0bb"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 05 (2006-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 05 (2006-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 05 (2006-05)(T&amp;L Publications)(US).pdf" size="49755783" crc="ca600df2" md5="6a77906c4b0ec769057d3239fb3561cc" sha1="538604180f1a90c39491a5c7652fd1bf7015cbda"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 06 (2006-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 06 (2006-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 06 (2006-06)(T&amp;L Publications)(US).pdf" size="48359359" crc="5c794559" md5="7344ffcb7a892ae0acd403f032b66173" sha1="01e0dc58e414bab05575c6d6ae6ed1d1f9ee378b"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 07 (2006-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 07 (2006-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 07 (2006-07)(T&amp;L Publications)(US).pdf" size="48813297" crc="25161ef2" md5="8130bcb8746ee18a1dfa1523cd4d9d14" sha1="b0bad3ff90bdc25ad5039d96dee673529da26496"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 08 (2006-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 08 (2006-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 08 (2006-08)(T&amp;L Publications)(US).pdf" size="42247970" crc="3c09cdce" md5="1dea8644b347d91a527f4e506461e692" sha1="09d7c1059c6d8e5dfe16e7885f2b740f82602eb6"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 09 (2006-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 09 (2006-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 09 (2006-09)(T&amp;L Publications)(US).pdf" size="103011840" crc="98b3f061" md5="fdac41857a26ad304387352005068985" sha1="9a49488d4dd4aaca6443b041aea190267b960109"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 10 (2006-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 10 (2006-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 10 (2006-10)(T&amp;L Publications)(US).pdf" size="14503101" crc="9638201f" md5="454e6f4c1f9a3f61eb1c81764438beef" sha1="4b09263f0f7a5e1ab32652a2e402672ec87eb9f0"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 11 (2006-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 11 (2006-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 11 (2006-11)(T&amp;L Publications)(US).pdf" size="45933704" crc="05ed6c3d" md5="c301da68c2ea5e0b528e431260728c31" sha1="f79b4508d9a8d3180ea4912668f14aa62346fa95"/>
+	</game>
+	<game name="Nuts and Volts - Volume 27 Issue 12 (2006-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 27 Issue 12 (2006-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 27 Issue 12 (2006-12)(T&amp;L Publications)(US).pdf" size="43519983" crc="1b1a25e4" md5="e6d8b28f5a789cb8d63155b756679707" sha1="4e5f52ee8e73b69dc863128b0651c15961dddc84"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 01 (2007-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 01 (2007-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 01 (2007-01)(T&amp;L Publications)(US).pdf" size="41530073" crc="c7dddfc8" md5="46df0685bf241aad5629a4b7ef085e88" sha1="35f6072bbd0445bcf687ddfd621c7a5e8986aaaa"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 02 (2007-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 02 (2007-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 02 (2007-02)(T&amp;L Publications)(US).pdf" size="44136348" crc="4523815f" md5="e444d2c3256f25c488b27abdecc8438e" sha1="4e6cc1a0cd40e20dcb9801c1d143013ea99ca9f6"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 03 (2007-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 03 (2007-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 03 (2007-03)(T&amp;L Publications)(US).pdf" size="22477644" crc="19eff4b2" md5="77fc954d457ba3edcccf2b3a927b5409" sha1="dde5a44a27615ea0b1658db690cc9fc54b8e2032"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 04 (2007-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 04 (2007-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 04 (2007-04)(T&amp;L Publications)(US).pdf" size="39051355" crc="73b75035" md5="5c693ec2a2eadfa6c24c6044480d82c5" sha1="fc38237cd65229d0add44e34542e02d9affe86ba"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 05 (2007-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 05 (2007-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 05 (2007-05)(T&amp;L Publications)(US).pdf" size="42828207" crc="1ba2c217" md5="adcdc5f04ef3d661670a8a1e553409bf" sha1="54aabd917f082f9f41e23d3d393b1112939e8cc8"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 06 (2007-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 06 (2007-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 06 (2007-06)(T&amp;L Publications)(US).pdf" size="45824947" crc="d744a18f" md5="792b46945819db62c233887d19adb952" sha1="4c5262938ee30abd9b8686919f4d6cbc6c0bd035"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 07 (2007-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 07 (2007-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 07 (2007-07)(T&amp;L Publications)(US).pdf" size="13646079" crc="f8defe5e" md5="b0a954075f956e603f80a0038c6ac55e" sha1="35e570e84c43690606c0e7759baa70eebf28542e"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 08 (2007-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 08 (2007-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 08 (2007-08)(T&amp;L Publications)(US).pdf" size="13050012" crc="3c7ae5bd" md5="14d7e5839d4c26209e27b86e69bafd16" sha1="5a585df5a26088136c17abca88302f6662395254"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 09 (2007-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 09 (2007-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 09 (2007-09)(T&amp;L Publications)(US).pdf" size="14237218" crc="27eb7a8c" md5="149a7a232e5aec471a10e4c1c91f58dc" sha1="d9eedee2a9ac5646872a4eb16cb839d33d451aa2"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 10 (2007-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 10 (2007-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 10 (2007-10)(T&amp;L Publications)(US).pdf" size="50045580" crc="b48e21d5" md5="78cb277cedf1b74356e171ff5f346e18" sha1="96e07100c90c778480486a09ca69f8550ae2455d"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 11 (2007-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 11 (2007-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 11 (2007-11)(T&amp;L Publications)(US).pdf" size="44965804" crc="568af627" md5="de587e4db14ff6e51fa8531bcb42e203" sha1="2771a742ffa9ca9dd1e0f84519b3df35e0e571dd"/>
+	</game>
+	<game name="Nuts and Volts - Volume 28 Issue 12 (2007-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 28 Issue 12 (2007-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 28 Issue 12 (2007-12)(T&amp;L Publications)(US).pdf" size="44971904" crc="7f7637bb" md5="d44d641b7e47f5d298dbfdfbb8fabd41" sha1="f25a0658143711a34f2c6531502239eed34f515e"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 01 (2008-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 01 (2008-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 01 (2008-01)(T&amp;L Publications)(US).pdf" size="17772927" crc="3a302264" md5="a5c878d991f58e4c5d402d87fa1a0bb6" sha1="8d9ce434fe5c4cce4d11a9d18e66e5c34e08b78a"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 02 (2008-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 02 (2008-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 02 (2008-02)(T&amp;L Publications)(US).pdf" size="16586885" crc="72e03dbf" md5="b824b1a13a41b37ac0238317f614817e" sha1="bb15fcab98958e26b6803de29a894697b431f57d"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 03 (2008-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 03 (2008-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 03 (2008-03)(T&amp;L Publications)(US).pdf" size="24780427" crc="8553249e" md5="c261cf2b5a87d1a7bf7c98e5b316bdb3" sha1="9bd7b7663acf397fdf469c7cd9cb6c5aecd45fc4"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 04 (2008-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 04 (2008-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 04 (2008-04)(T&amp;L Publications)(US).pdf" size="19891562" crc="322d5238" md5="3871ee57b8f1db10a010a3fa16048f44" sha1="31dd05eb222aa379077ced099615e7463d530d77"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 05 (2008-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 05 (2008-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 05 (2008-05)(T&amp;L Publications)(US).pdf" size="17155713" crc="c698acd8" md5="ffc387bbbfb0eaa949c4283f697c52d3" sha1="ccb8d7377a84964e8684a93c2869fd9eca69b642"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 06 (2008-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 06 (2008-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 06 (2008-06)(T&amp;L Publications)(US).pdf" size="18699843" crc="37b7d3b4" md5="785590327531b79c5a8472104bbc187d" sha1="1afd304ce9dbde8b211944a345b07c6ed8757874"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 07 (2008-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 07 (2008-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 07 (2008-07)(T&amp;L Publications)(US).pdf" size="13007770" crc="b4fe04c4" md5="cc155f46ba001a469830674a7c4fab2b" sha1="d54321ffe2ce5f34c5128af793dfe29f49948b69"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 08 (2008-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 08 (2008-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 08 (2008-08)(T&amp;L Publications)(US).pdf" size="15568414" crc="599b8f42" md5="75c2a7824102c6d234b327068ea2a889" sha1="1a9f9b194fff565f369ee4f601c68f182681e98d"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 09 (2008-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 09 (2008-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 09 (2008-09)(T&amp;L Publications)(US).pdf" size="40938649" crc="99c28bd9" md5="0fa6be69c84b79b4e719e851c440db5e" sha1="6e94ae22a762e4c75025896284f86388491ebbdb"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 10 (2008-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 10 (2008-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 10 (2008-10)(T&amp;L Publications)(US).pdf" size="16016590" crc="c349bfcd" md5="db182ea14cc371196b84e6ac821a7ebb" sha1="dcf47158591d8384c6cb35c3e777cf8bcee57706"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 11 (2008-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 11 (2008-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 11 (2008-11)(T&amp;L Publications)(US).pdf" size="14639034" crc="1db14644" md5="6e23cf754708d6bab9c284d049b20ce8" sha1="efceb548bf168d2c778d16aeec20e550a4ae76e9"/>
+	</game>
+	<game name="Nuts and Volts - Volume 29 Issue 12 (2008-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 29 Issue 12 (2008-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 29 Issue 12 (2008-12)(T&amp;L Publications)(US).pdf" size="16406971" crc="d1c69aea" md5="fa6affc55460610639ff80df9e7e0129" sha1="1b02ca1c2e89773094e6c47cbcea7bf0daec6c3f"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 01 (2009-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 01 (2009-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 01 (2009-01)(T&amp;L Publications)(US).pdf" size="46953480" crc="716cc6b7" md5="f7633c08a6ba5406107787a6a88f9a75" sha1="4a3ae1f849cc6aaeba4803982b22c87a4facea03"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 02 (2009-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 02 (2009-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 02 (2009-02)(T&amp;L Publications)(US).pdf" size="15803626" crc="0e1ce707" md5="fb88a3e1e6c62010906baacd3b4edb1a" sha1="085f7fa86b865cbfd92a48455b9a2513cc35f659"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 03 (2009-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 03 (2009-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 03 (2009-03)(T&amp;L Publications)(US).pdf" size="16419702" crc="cc899126" md5="740b9b8bdcdf79fb9f439f177075992b" sha1="750c312d86bfd2f9a1a3da3638c95dfe4b86b9f0"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 04 (2009-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 04 (2009-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 04 (2009-04)(T&amp;L Publications)(US).pdf" size="15964747" crc="0904a99d" md5="46b2cee4db02b126979832d664dd89d0" sha1="961bc48d6075e552d2dd37c3f7f178f707cf725c"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 05 (2009-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 05 (2009-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 05 (2009-05)(T&amp;L Publications)(US).pdf" size="19284540" crc="788d34b3" md5="aabe50648e9cb965894a448dd22a1eb9" sha1="4537ef029e8bb9877891fe737da4276bbfa8b792"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 06 (2009-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 06 (2009-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 06 (2009-06)(T&amp;L Publications)(US).pdf" size="15916516" crc="73b75b3a" md5="6bb2cc3b44afcef4a97fea46c32ffff0" sha1="c40fc4bc91eaf452bfc5cabbc9da2ac708c3f1cf"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 07 (2009-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 07 (2009-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 07 (2009-07)(T&amp;L Publications)(US).pdf" size="17828672" crc="4abe5be7" md5="f369e2e13a5a42aeb88f28ac84caef71" sha1="d2a43f0dee716f37f101d3518735b73fc5bb22d5"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 08 (2009-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 08 (2009-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 08 (2009-08)(T&amp;L Publications)(US).pdf" size="17165225" crc="2533251f" md5="f7f850f935cf76fbe60bcf8abe6a1019" sha1="9eea74a3c11dabf242992fe5b6d0faf0aa665700"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 09 (2009-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 09 (2009-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 09 (2009-09)(T&amp;L Publications)(US).pdf" size="17791223" crc="b715dcbf" md5="0ad8c4ab5812caea05ccc8c2f1f7099f" sha1="ab559eb305077e24ec29fec5dff162562017cb64"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 10 (2009-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 10 (2009-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 10 (2009-10)(T&amp;L Publications)(US).pdf" size="15012127" crc="90954e5d" md5="d12fc907e40f710736fc217fd8d9d76c" sha1="0a6ad571c3ee87a1998d8985df34dc653f1e3569"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 11 (2009-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 11 (2009-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 11 (2009-11)(T&amp;L Publications)(US).pdf" size="14980497" crc="43e5e125" md5="a4913241be2de4ab4b3aef2cbd1dddb7" sha1="c861ae9bf89b60745264bf50b923c87ddd38af53"/>
+	</game>
+	<game name="Nuts and Volts - Volume 30 Issue 12 (2009-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 30 Issue 12 (2009-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 30 Issue 12 (2009-12)(T&amp;L Publications)(US).pdf" size="16860073" crc="56b646bb" md5="0e1fc1204c043cacdd6d88cb8150234b" sha1="39f2cf0b23929209667981bec9f631f59df3fb7e"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 01 (2010-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 01 (2010-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 01 (2010-01)(T&amp;L Publications)(US).pdf" size="15036292" crc="be9ca2f8" md5="a08870f4d0b4de8a9e28a9836e179d36" sha1="44d810c4b181e5dbdfe4bca91cae997973a0387e"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 02 (2010-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 02 (2010-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 02 (2010-02)(T&amp;L Publications)(US).pdf" size="15256604" crc="33ef7ba2" md5="a3433fa4d421e7ef2455d142fac21d66" sha1="fb8abf9e88049881564f377b879385fd1a3f76b8"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 03 (2010-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 03 (2010-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 03 (2010-03)(T&amp;L Publications)(US).pdf" size="15716968" crc="f490649b" md5="fedf0dfeabdbb4a96bbeb40f0b9650df" sha1="292e94d013c880ae5c77fe7f4cd5a30cf4c50d54"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 04 (2010-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 04 (2010-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 04 (2010-04)(T&amp;L Publications)(US).pdf" size="14925051" crc="beacafc4" md5="cd603e00e45de3a0a7af3f13ed60f8f1" sha1="1a80abf2c6a52a3a8c25203bdf5eb344a831847b"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 05 (2010-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 05 (2010-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 05 (2010-05)(T&amp;L Publications)(US).pdf" size="41769115" crc="54ee81ed" md5="77540839d07a88d06841191863a6886f" sha1="51b5c36198d549263ce0bc700e52fe6812789d5d"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 06 (2010-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 06 (2010-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 06 (2010-06)(T&amp;L Publications)(US).pdf" size="11938154" crc="9d549f8a" md5="9ec5b102fde460f6311c68f98df99e5c" sha1="644334c5835c3774a6ac89c14ca3b76c71530f3b"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 07 (2010-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 07 (2010-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 07 (2010-07)(T&amp;L Publications)(US).pdf" size="17161662" crc="51985704" md5="6fc63ff7c667da69d4691acd90446206" sha1="87f27ba3b595e3b946ecb548bfac948c45922bba"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 08 (2010-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 08 (2010-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 08 (2010-08)(T&amp;L Publications)(US).pdf" size="21401247" crc="a28f9ce4" md5="484f09e6baf9f3875153b20bc3dd2857" sha1="648189c623c3e8d5ee47a5f640ad417769b1bb4c"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 09 (2010-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 09 (2010-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 09 (2010-09)(T&amp;L Publications)(US).pdf" size="15833239" crc="d84d02f8" md5="5f3b82bf6a2643d43337f441721f9a95" sha1="f638de61aa246bb2c4d6ef1f3b4bf302c7912633"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 10 (2010-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 10 (2010-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 10 (2010-10)(T&amp;L Publications)(US).pdf" size="63302882" crc="5432f70e" md5="5b35204355335fe6bc32a9635ad096a7" sha1="237a8ea587dc851207852e3b9b47dbb5d7abafde"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 11 (2010-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 11 (2010-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 11 (2010-11)(T&amp;L Publications)(US).pdf" size="15725395" crc="ab30e649" md5="1a1b65b77d3988b37004c4a2292b4057" sha1="1dc4f0100cb001a9d05960135190cc2cb5454ae5"/>
+	</game>
+	<game name="Nuts and Volts - Volume 31 Issue 12 (2010-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 31 Issue 12 (2010-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 31 Issue 12 (2010-12)(T&amp;L Publications)(US).pdf" size="14903543" crc="574052c6" md5="4ac5569234afef9b74635b0c62590cd4" sha1="f628ea4eba5a735d8dbd0cc1c7ef8654e29d462f"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 01 (2011-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 01 (2011-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 01 (2011-01)(T&amp;L Publications)(US).pdf" size="26575934" crc="9bb10896" md5="876247ee8c8116665a07b4d5ef400bf1" sha1="4866d712e64ebde97ab8aecde35f42d039646783"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 02 (2011-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 02 (2011-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 02 (2011-02)(T&amp;L Publications)(US).pdf" size="34041101" crc="0c668b9e" md5="0dbdadbfd660672c384429c1dd923355" sha1="cf54f9ffd15fcfbe0a8c99dec0e0ddb1c69f0c90"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 03 (2011-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 03 (2011-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 03 (2011-03)(T&amp;L Publications)(US).pdf" size="16887285" crc="c5054d42" md5="68fe40b67efe0098dc3dd83b6b13aede" sha1="b271120247b3173887de4a442856d62a2b497fad"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 04 (2011-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 04 (2011-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 04 (2011-04)(T&amp;L Publications)(US).pdf" size="59594879" crc="5f3ee10d" md5="054e20e1a4ee78eb46494c72655725c3" sha1="0724a245ba7e19563df9a5d9c65519629c5f699e"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 05 (2011-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 05 (2011-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 05 (2011-05)(T&amp;L Publications)(US).pdf" size="65083228" crc="3f016772" md5="9c9882fcc191e19f3d30aaa7f8a7e054" sha1="9459d657750417cffdea95fd337c72cd44541a66"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 06 (2011-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 06 (2011-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 06 (2011-06)(T&amp;L Publications)(US).pdf" size="15379912" crc="d8b3201c" md5="a11cd0ff792bf44e712a11bb93082605" sha1="88a1f7d9027c1cdaa646f4e9e18bae27d7afef81"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 07 (2011-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 07 (2011-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 07 (2011-07)(T&amp;L Publications)(US).pdf" size="88871462" crc="6637e5e3" md5="2362d7df41c0d115048d004ba0ef7ac5" sha1="e4224b5d81cb091000fdc4f2a82cf7f39aa230be"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 08 (2011-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 08 (2011-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 08 (2011-08)(T&amp;L Publications)(US).pdf" size="18122172" crc="b772c41e" md5="9e84ee768d3510ce26ee45ba9ac1addc" sha1="f3356f0cb21899b5842e2b6d8dd5e12f8f950b1e"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 09 (2011-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 09 (2011-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 09 (2011-09)(T&amp;L Publications)(US).pdf" size="12706852" crc="8075c10a" md5="3ba2db4a972fb94c7f309512a0fffb91" sha1="1ab2f41280598710f0247821e3b50dab64419449"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 10 (2011-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 10 (2011-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 10 (2011-10)(T&amp;L Publications)(US).pdf" size="12993197" crc="58858499" md5="0003fe47e0e6ea3393cbc2e864ce47e2" sha1="d6f8134ca9d9d3b3bbf6408967aace992aa0e4a5"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 11 (2011-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 11 (2011-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 11 (2011-11)(T&amp;L Publications)(US).pdf" size="13379752" crc="910e6166" md5="a9fc4f8f40f5c4b8c5093d8ebf861b4c" sha1="83bd83fd9dde3aa26e90e08d847b2fbd243eaff1"/>
+	</game>
+	<game name="Nuts and Volts - Volume 32 Issue 12 (2011-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 32 Issue 12 (2011-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 32 Issue 12 (2011-12)(T&amp;L Publications)(US).pdf" size="13728373" crc="7bca0ec0" md5="548c63d3661fa8c0b2cd365fe722818f" sha1="239ea5e6a94f94b4a76e5f69340943c0c1323122"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 01 (2012-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 01 (2012-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 01 (2012-01)(T&amp;L Publications)(US).pdf" size="14763401" crc="f5abf2e7" md5="c82cd1240d87f2c48d85bb37e2041e3d" sha1="dfe13ade5e7adadf786e30a91270a11ed9d6b3ac"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 02 (2012-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 02 (2012-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 02 (2012-02)(T&amp;L Publications)(US).pdf" size="16098463" crc="6c0de316" md5="6b2edc7339caf51b5ffbad98adaed5cf" sha1="a7137b1d970fe4b4830999ef8ec8066d8dfae7a0"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 03 (2012-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 03 (2012-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 03 (2012-03)(T&amp;L Publications)(US).pdf" size="17216688" crc="a1d0d920" md5="43309a4cec54410fb9d5286bc780de5e" sha1="80cd29b013655f86add5905b7343fdd1e51230e3"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 04 (2012-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 04 (2012-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 04 (2012-04)(T&amp;L Publications)(US).pdf" size="21473573" crc="3e116755" md5="062006ebf09ad41957ff152dfa1c0b0b" sha1="af5e3814f159eba7d585a10c56b62026d463f8e0"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 05 (2012-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 05 (2012-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 05 (2012-05)(T&amp;L Publications)(US).pdf" size="15590466" crc="dd29bdf6" md5="11d66e3eee04b0d1fc1e1981eb748557" sha1="a194b32310f8634e8a367a4cad19007e828ff2a1"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 06 (2012-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 06 (2012-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 06 (2012-06)(T&amp;L Publications)(US).pdf" size="21162061" crc="ffc4f603" md5="8a1f3302693f82b010c9584bfa377393" sha1="50c835cebfa2886e1c9c5014bf4acc9d58410ea2"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 07 (2012-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 07 (2012-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 07 (2012-07)(T&amp;L Publications)(US).pdf" size="17773303" crc="ffc454c8" md5="33bed1fb89954d83e256bac3ab81bd14" sha1="dd8e518e8b7b90cf542871015e8bc9d07f390d98"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 08 (2012-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 08 (2012-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 08 (2012-08)(T&amp;L Publications)(US).pdf" size="15944580" crc="46dc84f0" md5="72afda14d479562dea0821c5cd596826" sha1="5fafa5f4fc6fbcb0222ecdd436b31478f1ceda1c"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 09 (2012-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 09 (2012-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 09 (2012-09)(T&amp;L Publications)(US).pdf" size="31554619" crc="eb21a534" md5="22af284d361442b1cd58e839281e3a90" sha1="568f4cef8f5484b466cd16cb7f0bc79124a6116f"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 10 (2012-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 10 (2012-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 10 (2012-10)(T&amp;L Publications)(US).pdf" size="25321778" crc="ac80331f" md5="8371a129643e5adb5f5acf772cff4657" sha1="cd87de50d8150d585aa9158fce7589e81083d149"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 11 (2012-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 11 (2012-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 11 (2012-11)(T&amp;L Publications)(US).pdf" size="21268627" crc="bda77546" md5="50b4d673ae72fd6b4aff857e98fe3668" sha1="43c6c13215b7a09370e188ca731aed144022379e"/>
+	</game>
+	<game name="Nuts and Volts - Volume 33 Issue 12 (2012-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 33 Issue 12 (2012-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 33 Issue 12 (2012-12)(T&amp;L Publications)(US).pdf" size="21657867" crc="939c3440" md5="166dee622cb814086954c56b2c4de0b7" sha1="186836c68e5f57f4232e169a6b497a386b271131"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 01 (2013-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 01 (2013-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 01 (2013-01)(T&amp;L Publications)(US).pdf" size="18012837" crc="6f879ea0" md5="72bd31fe1ae462e39b33310e4386183f" sha1="7823c499de819ad68ef0365186c9e572f4b5795d"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 02 (2013-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 02 (2013-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 02 (2013-02)(T&amp;L Publications)(US).pdf" size="47466127" crc="5abc17e9" md5="001f802767489886e3627c9a75e89fa5" sha1="51af1d4453ae7761e5d62850f896d694e3b9c9ce"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 03 (2013-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 03 (2013-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 03 (2013-03)(T&amp;L Publications)(US).pdf" size="61054156" crc="e3897b26" md5="b07f18d1ebf797572598762a8f6cec38" sha1="3e08c57ca866f70560ad77414b252fa4df9f08c6"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 04 (2013-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 04 (2013-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 04 (2013-04)(T&amp;L Publications)(US).pdf" size="69355104" crc="f5baec56" md5="e7cfecc8b77894928240b83b12eb0f75" sha1="8aba7af374996ef29678a51674436282b50a4f8b"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 05 (2013-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 05 (2013-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 05 (2013-05)(T&amp;L Publications)(US).pdf" size="54883079" crc="6112a616" md5="233f2ef7d7eb85344d2b771b1b04315f" sha1="6fb7ac715f9e5608955f58063ccee7e1d2d5fe80"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 06 (2013-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 06 (2013-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 06 (2013-06)(T&amp;L Publications)(US).pdf" size="52896670" crc="f471e5f6" md5="3ad81791f816f53915a704cc2e2d513f" sha1="ceb041e70921ecd3de2edbadca800b4309ccc64b"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 07 (2013-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 07 (2013-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 07 (2013-07)(T&amp;L Publications)(US).pdf" size="55709773" crc="5eb0a47b" md5="4153ded0bbc97c01b273c0311ba8080a" sha1="60c34caab7ec385105eb510e3fe6a1c03776323f"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 08 (2013-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 08 (2013-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 08 (2013-08)(T&amp;L Publications)(US).pdf" size="54167119" crc="c780babb" md5="e658a079de0c7dbd28b65c6a3f3b3748" sha1="05d125cd78107cb172a9bd564c81dade9de318a5"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 09 (2013-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 09 (2013-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 09 (2013-09)(T&amp;L Publications)(US).pdf" size="52672651" crc="267c495d" md5="73f5913565110c01b77843dceaa62d05" sha1="22eac2c212c7f38a86c0469a3bd1e389f31f6eea"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 10 (2013-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 10 (2013-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 10 (2013-10)(T&amp;L Publications)(US).pdf" size="62158321" crc="2a8f5b6d" md5="4fee32ece776a6e32ed6bffc62d029ff" sha1="1a20a0d50960e92ddf4ae7c8cb07e6c223ab95cc"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 11 (2013-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 11 (2013-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 11 (2013-11)(T&amp;L Publications)(US).pdf" size="61944936" crc="04953164" md5="aeb4c224eb220822a4ad1e7cef84295e" sha1="568872a7513dfcb1c9f90dd6bd02510ea91ace02"/>
+	</game>
+	<game name="Nuts and Volts - Volume 34 Issue 12 (2013-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 34 Issue 12 (2013-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 34 Issue 12 (2013-12)(T&amp;L Publications)(US).pdf" size="58660586" crc="df84e222" md5="197ce91c245617c991493953ed1b8cdf" sha1="9acf6429e3ddce1116c51eeb220c7ae3f1c286ef"/>
+	</game>
+	<game name="Nuts and Volts - Volume 35 Issue 01 (2014-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 35 Issue 01 (2014-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 35 Issue 01 (2014-01)(T&amp;L Publications)(US).pdf" size="28354742" crc="2b78d70c" md5="a6d8ad146887ecee54874287dd7d1b1d" sha1="30689bc17aa1a70f6e33c0341a87e39d7472333c"/>
+	</game>
+	<game name="Nuts and Volts - Volume 35 Issue 02 (2014-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 35 Issue 02 (2014-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 35 Issue 02 (2014-02)(T&amp;L Publications)(US).pdf" size="28349785" crc="90239b8e" md5="5acc128ae5f45e8f62c051b4bcfc9a88" sha1="e0d6eae7f5a40744ad7418e75cbeed02a7b684cd"/>
+	</game>
+	<game name="Nuts and Volts - Volume 35 Issue 03 (2014-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 35 Issue 03 (2014-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 35 Issue 03 (2014-03)(T&amp;L Publications)(US).pdf" size="57261847" crc="0b35c483" md5="5d6d5e7e002f5097b622b374d8b2e947" sha1="233cde0a10536c723f1c02c72562b40d00a12b80"/>
+	</game>
+	<game name="Nuts and Volts - Volume 35 Issue 04 (2014-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 35 Issue 04 (2014-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 35 Issue 04 (2014-04)(T&amp;L Publications)(US).pdf" size="58799706" crc="998fb203" md5="628aefc3fe8b23094451a5851ff0f206" sha1="1bf599616bbf1326ab87ec0472a8e05738645d1c"/>
+	</game>
+	<game name="Nuts and Volts - Volume 35 Issue 05 (2014-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 35 Issue 05 (2014-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 35 Issue 05 (2014-05)(T&amp;L Publications)(US).pdf" size="57122877" crc="c52232a3" md5="382ab1d0a9b03ce5378e537018262e0b" sha1="7b22eaeec5bddeb34ea7a585c2a6bbbcf2096c16"/>
+	</game>
+	<game name="Nuts and Volts - Volume 35 Issue 09 (2014-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 35 Issue 09 (2014-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 35 Issue 09 (2014-09)(T&amp;L Publications)(US).pdf" size="34134179" crc="3e6a2be4" md5="0b5af62fe717e0ee83cc1436533e363c" sha1="a21356af88a8e70d37b15b1c6ab93335e1913826"/>
+	</game>
+	<game name="Nuts and Volts - Volume 35 Issue 10 (2014-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 35 Issue 10 (2014-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 35 Issue 10 (2014-10)(T&amp;L Publications)(US).pdf" size="29368220" crc="e2daa946" md5="2441c0fc1a5f9e846082e74227c8ea3a" sha1="6146049f58957d08e11e724839830c620f49700f"/>
+	</game>
+	<game name="Nuts and Volts - Volume 35 Issue 11 (2014-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 35 Issue 11 (2014-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 35 Issue 11 (2014-11)(T&amp;L Publications)(US).pdf" size="15622434" crc="0e28155d" md5="a8de3407a6d127e06472e7bdc4eef384" sha1="3d8bfb84441b4c28081ef580816987bd33e214b5"/>
+	</game>
+	<game name="Nuts and Volts - Volume 35 Issue 12 (2014-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 35 Issue 12 (2014-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 35 Issue 12 (2014-12)(T&amp;L Publications)(US).pdf" size="26218472" crc="320aa1c3" md5="ed987a94a8143532309610fd95133096" sha1="a17d6a1d0cfc87d86c02b2abb1277557b251301a"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 01 (2015-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 01 (2015-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 01 (2015-01)(T&amp;L Publications)(US).pdf" size="58037999" crc="384cf30a" md5="a619b016f867dd9d7f34a1383acb1f14" sha1="77d45d0cc6931ead9750ea0c20d609ba812f932c"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 02 (2015-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 02 (2015-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 02 (2015-02)(T&amp;L Publications)(US).pdf" size="40255164" crc="367d8032" md5="ea8c100f57b677fbc69557e3b4d6a169" sha1="a73a415fedb3c82eabe752ae0d404a9bdd265375"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 03 (2015-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 03 (2015-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 03 (2015-03)(T&amp;L Publications)(US).pdf" size="30386591" crc="42c15c60" md5="601d821131446496d3fec09dae714bc1" sha1="31fab883bd688b48f1622d4a07aed12b239f0c7e"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 04 (2015-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 04 (2015-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 04 (2015-04)(T&amp;L Publications)(US).pdf" size="24845825" crc="cd5d5e84" md5="63e57d575887e1b60f6233983301a4b0" sha1="19f8ed80ea824c16cd6afe4efd806b3f1b1eabfc"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 05 (2015-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 05 (2015-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 05 (2015-05)(T&amp;L Publications)(US).pdf" size="59301366" crc="a4fd0e39" md5="cdf7cb14a607d157fc5cdbf6af4b607d" sha1="77eb250e426d1aea4933865b8cde90c023d34262"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 06 (2015-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 06 (2015-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 06 (2015-06)(T&amp;L Publications)(US).pdf" size="31330185" crc="8a7d6d66" md5="bf13b49aee8f190b9151146f370b9431" sha1="578a88bfac096b1c2d3d4f703fca8bbab33f1a84"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 07 (2015-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 07 (2015-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 07 (2015-07)(T&amp;L Publications)(US).pdf" size="29449214" crc="53291f53" md5="93a261c119cfe02429be2054164aaaef" sha1="36e93faea6eb43527ff0f3a3dc4e824d5b5a2805"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 08 (2015-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 08 (2015-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 08 (2015-08)(T&amp;L Publications)(US).pdf" size="28506669" crc="987648ae" md5="d1d146b5342b0cf33079d6e266a2e0d6" sha1="d5ab07862733d84059982e027e371b6599888613"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 09 (2015-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 09 (2015-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 09 (2015-09)(T&amp;L Publications)(US).pdf" size="29404078" crc="0695b2a3" md5="fc4252a6f583dd8d6c51f45f5145c3b8" sha1="2f60b9422ee90926db25e33f58bbcfa9b0eacf2f"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 10 (2015-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 10 (2015-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 10 (2015-10)(T&amp;L Publications)(US).pdf" size="28188235" crc="1613fca6" md5="c5eaa2c4adc6f81cee580a7ee778b2ef" sha1="48d05e96d0af02cf8fe78d7538ee931b71148149"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 11 (2015-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 11 (2015-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 11 (2015-11)(T&amp;L Publications)(US).pdf" size="27295794" crc="3f606cb8" md5="50f15254d88a190c2e437230bfc2f51b" sha1="d6de69d1c93c8e0ff65cfb80dfc32971f131328a"/>
+	</game>
+	<game name="Nuts and Volts - Volume 36 Issue 12 (2015-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 36 Issue 12 (2015-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 36 Issue 12 (2015-12)(T&amp;L Publications)(US).pdf" size="22263153" crc="f6e8b158" md5="305ca3d8fd2ba5cd6537057fb229f5ff" sha1="56f3ca4a24478d98e90b8c6317922867017e236e"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 01 (2016-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 01 (2016-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 01 (2016-01)(T&amp;L Publications)(US).pdf" size="23158982" crc="75db682e" md5="c8b1ecbecf0bcd837638bd97c0c3a943" sha1="e2e6bbd559b615d20c44905b8cc110d00bb777c4"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 02 (2016-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 02 (2016-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 02 (2016-02)(T&amp;L Publications)(US).pdf" size="11226792" crc="c748193e" md5="c13bdd23da110bbf71b499dcdd382d8d" sha1="c4a7e231e818f3ff1a768a00a2741a3a2ab7863d"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 03 (2016-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 03 (2016-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 03 (2016-03)(T&amp;L Publications)(US).pdf" size="11868043" crc="dadd3ac0" md5="e81cdfb701054c924ad5f2939ad2ccd0" sha1="f9397e00ccd9a13790a2e9f1b249963ebd3731a0"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 04 (2016-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 04 (2016-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 04 (2016-04)(T&amp;L Publications)(US).pdf" size="16029896" crc="39ed56fd" md5="351994c4333330a08c4dc424b827e20a" sha1="bdd1a340a249403284c03ba8c0c3c9715e7209f7"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 05 (2016-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 05 (2016-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 05 (2016-05)(T&amp;L Publications)(US).pdf" size="38584870" crc="df15f848" md5="9855b90cb7237a7cdfbfc169af730e8d" sha1="c10928ac6ce7a0fe37ebe246e92be3f1f4eb4462"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 06 (2016-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 06 (2016-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 06 (2016-06)(T&amp;L Publications)(US).pdf" size="15970935" crc="52e302d1" md5="8b8740edc22e216e065e03de53d6d218" sha1="a9a34eb96b975081afb67f36b223aa275c6d6ad9"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 07 (2016-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 07 (2016-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 07 (2016-07)(T&amp;L Publications)(US).pdf" size="10856630" crc="55d7d4f1" md5="3b048ec55e1c417a8b20d0bf454e58de" sha1="ec200483ada522e295b02281bd51e00d80a9811f"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 08 (2016-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 08 (2016-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 08 (2016-08)(T&amp;L Publications)(US).pdf" size="15255536" crc="ae726b1a" md5="f1571f57287795ada17d7f8fe2d3919c" sha1="8d63221e1d7e4c8e39d2593583aa31c5f3c9ec4f"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 09 (2016-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 09 (2016-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 09 (2016-09)(T&amp;L Publications)(US).pdf" size="10556911" crc="292bda5d" md5="208f7662e32ece9b5902262080b82b68" sha1="0a0e10a47148bf389ea60cc258f77411b0ab3e40"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 10 (2016-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 10 (2016-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 10 (2016-10)(T&amp;L Publications)(US).pdf" size="10658486" crc="48ac3ce6" md5="623f8ffcd956fc373e37653f159df9be" sha1="472e75deadf5a641b11f477ac73efcce3ee4b525"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 11 (2016-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 11 (2016-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 11 (2016-11)(T&amp;L Publications)(US).pdf" size="10608902" crc="0b5521da" md5="4c58dc64f8307c1469a065e0d5db0da9" sha1="6f5768ae6fe29656e2e1c2cb4f62e6a910efe375"/>
+	</game>
+	<game name="Nuts and Volts - Volume 37 Issue 12 (2016-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 37 Issue 12 (2016-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 37 Issue 12 (2016-12)(T&amp;L Publications)(US).pdf" size="11731113" crc="f89defda" md5="02631b816b4046bacc93641152321f7a" sha1="2a46476c71e312d5d31fd0471890a9cc4ff2e75e"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 01 (2017-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 01 (2017-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 01 (2017-01)(T&amp;L Publications)(US).pdf" size="10613644" crc="f59362f5" md5="0969e35d0ef5a94e2a25005078d3aa7d" sha1="f0b3773fc030794b964ff4450313bb6e147b9cfb"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 02 (2017-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 02 (2017-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 02 (2017-02)(T&amp;L Publications)(US).pdf" size="10501870" crc="eef3c1f0" md5="a24963f9778ac3bb17d4176d20cb6cb0" sha1="b8ad2e855c1ebc5be763d5323194ab92422f5136"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 03 (2017-03)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 03 (2017-03)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 03 (2017-03)(T&amp;L Publications)(US).pdf" size="10761467" crc="6ae4e292" md5="ba24cda07eac97d98512ae68326dff64" sha1="1336cef45ba629677f6dc58b1b758dc70cf21e8c"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 04 (2017-04)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 04 (2017-04)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 04 (2017-04)(T&amp;L Publications)(US).pdf" size="10544612" crc="76f607fc" md5="b2898ca8c30d37384ee65c19f9b7a649" sha1="7092467c7408d3bbf5391fdbc08e02a60d3b1c55"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 05 (2017-05)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 05 (2017-05)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 05 (2017-05)(T&amp;L Publications)(US).pdf" size="10552562" crc="b46c1f98" md5="c1930f53ec9f37d63cbf64532d87417c" sha1="05a47904571b4f6309b0047d5080e1bb4bb5d238"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 06 (2017-06)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 06 (2017-06)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 06 (2017-06)(T&amp;L Publications)(US).pdf" size="10507289" crc="cb1a245d" md5="73cb24a5aa9d23c161007a06dd481753" sha1="ec10cd2b9f7286c3baf339a88207440e83c6d02b"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 07 (2017-07)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 07 (2017-07)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 07 (2017-07)(T&amp;L Publications)(US).pdf" size="10583363" crc="b39dd29b" md5="5defe7eab58dd23f0c408e7ed5ff0305" sha1="0862e37d5cb21f8bc704323a1fe19b30c747fa8b"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 08 (2017-08)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 08 (2017-08)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 08 (2017-08)(T&amp;L Publications)(US).pdf" size="10493554" crc="ae6d6716" md5="3655a2567ce1067d33b16d888fe04b0f" sha1="a62ebe23140721106cff19567060566414c63127"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 09 (2017-09)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 09 (2017-09)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 09 (2017-09)(T&amp;L Publications)(US).pdf" size="10779789" crc="f2fdfaa0" md5="115fe4ca2f7a34f92da3d1da1a8c6663" sha1="f95f8ba7052d0939ac72f973291a476996124796"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 10 (2017-10)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 10 (2017-10)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 10 (2017-10)(T&amp;L Publications)(US).pdf" size="10528612" crc="28a9604b" md5="87b9168873af1895ac5e95ef8aaf84cd" sha1="54864af3cc658c1d5fc6922ca60fd4e43beb453b"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 11 (2017-11)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 11 (2017-11)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 11 (2017-11)(T&amp;L Publications)(US).pdf" size="10656461" crc="cf926f1d" md5="40187a083e48c805d56c3871bb671dae" sha1="14a47daf779b89071eb5bfc2d224574cb81c9247"/>
+	</game>
+	<game name="Nuts and Volts - Volume 38 Issue 12 (2017-12)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 38 Issue 12 (2017-12)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 38 Issue 12 (2017-12)(T&amp;L Publications)(US).pdf" size="10507130" crc="7cd19860" md5="a1b0f955059672ba38b955e3cb46bed6" sha1="1a28f047c2948d4424834b23617461779f4422f4"/>
+	</game>
+	<game name="Nuts and Volts - Volume 39 Issue 01 (2018-01)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 39 Issue 01 (2018-01)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 39 Issue 01 (2018-01)(T&amp;L Publications)(US).pdf" size="10554621" crc="4d3e9764" md5="863518b201fca2eaf6da61bf23538e41" sha1="dc3e048f27fa02154be09cac248cd817ea6d30cf"/>
+	</game>
+	<game name="Nuts and Volts - Volume 39 Issue 02 (2018-02)(T&amp;L Publications)(US)">
+		<description>Nuts and Volts - Volume 39 Issue 02 (2018-02)(T&amp;L Publications)(US)</description>
+		<rom name="Nuts and Volts - Volume 39 Issue 02 (2018-02)(T&amp;L Publications)(US).pdf" size="10553877" crc="6ee0f1ee" md5="fa5bfb57de93f76dc023b7820a198a92" sha1="ce9dda970040d414b6c9f5f77fa935ea4baf3c36"/>
+	</game>
+</datafile>

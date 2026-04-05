@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Raspberry Foundation - Raspberry Pi - Magazines - HelloWorld (GB)</name>
+		<description>Raspberry Foundation - Raspberry Pi - Magazines - HelloWorld (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="HelloWorld - Issue 001 (2017-03)(Raspberry Pi)(GB)">
+		<description>HelloWorld - Issue 001 (2017-03)(Raspberry Pi)(GB)</description>
+		<rom name="HelloWorld - Issue 001 (2017-03)(Raspberry Pi)(GB).pdf" size="26169773" crc="0c5183e4" md5="fa1223f79ec4197a0e9a011340296263" sha1="2f93622c350e2b06e1d4b2cb99e52aa471e51ff7"/>
+	</game>
+	<game name="HelloWorld - Issue 002 (2017-06)(Raspberry Pi)(GB)">
+		<description>HelloWorld - Issue 002 (2017-06)(Raspberry Pi)(GB)</description>
+		<rom name="HelloWorld - Issue 002 (2017-06)(Raspberry Pi)(GB).pdf" size="17762793" crc="94145631" md5="3978480af8e1674dcaee6eeb7a3200ec" sha1="6457df1b307cf59b4ddf22fb03bacf4a5a8fce4a"/>
+	</game>
+	<game name="HelloWorld - Issue 003 (2017-09)(Raspberry Pi)(GB)">
+		<description>HelloWorld - Issue 003 (2017-09)(Raspberry Pi)(GB)</description>
+		<rom name="HelloWorld - Issue 003 (2017-09)(Raspberry Pi)(GB).pdf" size="15778660" crc="804bbafc" md5="4be036937f9d6a6bbc34cddffad77e40" sha1="a113937a24dcd71687ed1bad221ab00610052a5a"/>
+	</game>
+	<game name="HelloWorld - Issue 004 (2018-01)(Raspberry Pi)(GB)">
+		<description>HelloWorld - Issue 004 (2018-01)(Raspberry Pi)(GB)</description>
+		<rom name="HelloWorld - Issue 004 (2018-01)(Raspberry Pi)(GB).pdf" size="14117620" crc="65af0a47" md5="ebb6f6f6069a484cbcb2240460063c64" sha1="a36215bbd05385802acbddab6c6ff092aeceeb87"/>
+	</game>
+	<game name="HelloWorld - Issue 005 (2018-05)(Raspberry Pi)(GB)">
+		<description>HelloWorld - Issue 005 (2018-05)(Raspberry Pi)(GB)</description>
+		<rom name="HelloWorld - Issue 005 (2018-05)(Raspberry Pi)(GB).pdf" size="15364520" crc="e67ab2bb" md5="63200722ce3162506c24cd8d1b044124" sha1="09cbcc14a90b91245f55d127cb366f10ad108326"/>
+	</game>
+	<game name="HelloWorld - Issue 006 (2019-09)(Raspberry Pi)(GB)">
+		<description>HelloWorld - Issue 006 (2019-09)(Raspberry Pi)(GB)</description>
+		<rom name="HelloWorld - Issue 006 (2019-09)(Raspberry Pi)(GB).pdf" size="23223652" crc="e18918dc" md5="93b703ff7bb0ab6df99d73620e693bc6" sha1="f4bf1f97743341bf288229bc21bccec70cbe3f6b"/>
+	</game>
+	<game name="HelloWorld - Issue 007 (2019-01)(Raspberry Pi)(GB)">
+		<description>HelloWorld - Issue 007 (2019-01)(Raspberry Pi)(GB)</description>
+		<rom name="HelloWorld - Issue 007 (2019-01)(Raspberry Pi)(GB).pdf" size="11706140" crc="9deb7bb3" md5="bc509d14053eaca9f1e7cdbf164ba249" sha1="f7ae84150a46cab791f94e45cc31414960f79e46"/>
+	</game>
+	<game name="HelloWorld - Issue 008 (2019-05)(Raspberry Pi)(GB)">
+		<description>HelloWorld - Issue 008 (2019-05)(Raspberry Pi)(GB)</description>
+		<rom name="HelloWorld - Issue 008 (2019-05)(Raspberry Pi)(GB).pdf" size="17251612" crc="f53b4a76" md5="9a51e52b017800af86861de8301f7cfc" sha1="03e821f29f293950abd7cd750f887cbdd76d0fe1"/>
+	</game>
+	<game name="HelloWorld - Issue 009 (2019-07)(Raspberry Pi)(GB)">
+		<description>HelloWorld - Issue 009 (2019-07)(Raspberry Pi)(GB)</description>
+		<rom name="HelloWorld - Issue 009 (2019-07)(Raspberry Pi)(GB).pdf" size="17818709" crc="6b6fb58f" md5="c5f7a935db1b2d49d15e9dec47ddef3e" sha1="11027704bd18b19cae229c7330dfc012c68948e1"/>
+	</game>
+</datafile>

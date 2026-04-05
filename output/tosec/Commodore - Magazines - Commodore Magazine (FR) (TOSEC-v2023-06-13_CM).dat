@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore - Magazines - Commodore Magazine (FR)</name>
+		<description>Commodore - Magazines - Commodore Magazine (FR) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Commodore Magazine - N.01 (1984-06)(Artilec)(FR)">
+		<description>Commodore Magazine - N.01 (1984-06)(Artilec)(FR)</description>
+		<rom name="Commodore Magazine - N.01 (1984-06)(Artilec)(FR).pdf" size="53109630" crc="31cf9360" md5="6a63c0cd36483de050613c2abf8939ad" sha1="a7cdf96158db7b5fd8d02e384226222b1e9247b7"/>
+	</game>
+	<game name="Commodore Magazine - N.02 (1984-09)(Artilec)(FR)">
+		<description>Commodore Magazine - N.02 (1984-09)(Artilec)(FR)</description>
+		<rom name="Commodore Magazine - N.02 (1984-09)(Artilec)(FR).pdf" size="54036815" crc="f12923cb" md5="fe34f8a7d35cc5bb7958e64a294c81f4" sha1="2be5a15090b8b6886cd4924c880d5b8f2ae7af12"/>
+	</game>
+	<game name="Commodore Magazine - N.03 (1984-11)(Artilec)(FR)">
+		<description>Commodore Magazine - N.03 (1984-11)(Artilec)(FR)</description>
+		<rom name="Commodore Magazine - N.03 (1984-11)(Artilec)(FR).pdf" size="53072541" crc="0931237c" md5="bc7e66680010754f1c50a39afe292f2e" sha1="c46f86cab2e3141b6de4de448b2cb5d9c210bcd2"/>
+	</game>
+	<game name="Commodore Magazine - N.04 (1985-03)(Artilec)(FR)">
+		<description>Commodore Magazine - N.04 (1985-03)(Artilec)(FR)</description>
+		<rom name="Commodore Magazine - N.04 (1985-03)(Artilec)(FR).pdf" size="56435378" crc="c34e3703" md5="ac177f68c6d72da0b69b5ed2afe03b50" sha1="91816ca7a2c335f944a8f1b6d0f9333b7084bb3e"/>
+	</game>
+	<game name="Commodore Magazine - N.05 (1985-05)(Artilec)(FR)">
+		<description>Commodore Magazine - N.05 (1985-05)(Artilec)(FR)</description>
+		<rom name="Commodore Magazine - N.05 (1985-05)(Artilec)(FR).pdf" size="60076123" crc="12f6760e" md5="3492f815721d2d1b35f30d4fb7e85a1c" sha1="ee9578d7124029924e3f52cf87f772e57c4f0029"/>
+	</game>
+	<game name="Commodore Magazine - N.06 (1985-08)(Artilec)(FR)">
+		<description>Commodore Magazine - N.06 (1985-08)(Artilec)(FR)</description>
+		<rom name="Commodore Magazine - N.06 (1985-08)(Artilec)(FR).pdf" size="57391279" crc="b96252ee" md5="7d6d4fef48f5c2feb648eaf8d78b4393" sha1="3ec7b83b26ccb99e7abddc6ac1e8df849dd65dd1"/>
+	</game>
+	<game name="Commodore Magazine - N.07 (1985-10)(Artilec)(FR)">
+		<description>Commodore Magazine - N.07 (1985-10)(Artilec)(FR)</description>
+		<rom name="Commodore Magazine - N.07 (1985-10)(Artilec)(FR).pdf" size="59315008" crc="a98fd73d" md5="88be87342aec2c4411b7e3f0d0614ccd" sha1="7b0ba172a2bcab52189027051b9c4916c7bd2174"/>
+	</game>
+	<game name="Commodore Magazine - N.08 (1985-12)(Artilec)(FR)">
+		<description>Commodore Magazine - N.08 (1985-12)(Artilec)(FR)</description>
+		<rom name="Commodore Magazine - N.08 (1985-12)(Artilec)(FR).pdf" size="56483598" crc="4b821502" md5="cd5a0c5a599a9445077b365e8d2f41a8" sha1="86bd6f9f1dad177fbe8cbd5a16af6c7e011bec81"/>
+	</game>
+	<game name="Commodore Magazine - N.09 (1986-04)(Artilec)(FR)">
+		<description>Commodore Magazine - N.09 (1986-04)(Artilec)(FR)</description>
+		<rom name="Commodore Magazine - N.09 (1986-04)(Artilec)(FR).pdf" size="54477253" crc="3afd574f" md5="e5479a83c19afe089c278bff8fb5d28d" sha1="8b5e974b7ebdd807460a5dbeba89b89523c50188"/>
+	</game>
+</datafile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PlayStation Power (GB)</name>
+		<description>Sony PlayStation - Magazines - PlayStation Power (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation Power - Issue 001 (1996-06)(Future Publishing)(GB)">
+		<description>PlayStation Power - Issue 001 (1996-06)(Future Publishing)(GB)</description>
+		<rom name="PlayStation Power - Issue 001 (1996-06)(Future Publishing)(GB).pdf" size="247026847" crc="580ba091" md5="ba9c471c485f485a26f4a3d1eafa638d" sha1="5bbbdfa26f97b8198e542d9b0eafbcdc7044b3fa"/>
+	</game>
+	<game name="PlayStation Power - Issue 017 (1997-09)(Future Publishing)(GB)">
+		<description>PlayStation Power - Issue 017 (1997-09)(Future Publishing)(GB)</description>
+		<rom name="PlayStation Power - Issue 017 (1997-09)(Future Publishing)(GB).pdf" size="104475981" crc="c2e03eaf" md5="36556cf43295432cb632b05bc242037c" sha1="5415ab6ab23b448a3e532e86facade2acbcb9636"/>
+	</game>
+	<game name="PlayStation Power - Issue 034 (1998)(Future Publishing)(GB)[christmas edition]">
+		<description>PlayStation Power - Issue 034 (1998)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="PlayStation Power - Issue 034 (1998)(Future Publishing)(GB)[christmas edition].pdf" size="164009570" crc="c6772690" md5="4f9f2931802c47a7f279c137d20a4592" sha1="54512084dafea00da5342f65ba1ab2ab50b1d45f"/>
+	</game>
+	<game name="PlayStation Power - Issue 039 (1999-05)(Future Publishing)(GB)">
+		<description>PlayStation Power - Issue 039 (1999-05)(Future Publishing)(GB)</description>
+		<rom name="PlayStation Power - Issue 039 (1999-05)(Future Publishing)(GB).pdf" size="503078083" crc="5349f392" md5="982de987fe122b5fd38df34b9fb70c5d" sha1="7c7dc726557fe89e7f58a8d9f53e3f1e4a3e6477"/>
+	</game>
+	<game name="PlayStation Power - Issue 048 (2000-01)(Future Publishing)(GB)">
+		<description>PlayStation Power - Issue 048 (2000-01)(Future Publishing)(GB)</description>
+		<rom name="PlayStation Power - Issue 048 (2000-01)(Future Publishing)(GB).pdf" size="130782169" crc="d2f0970f" md5="00ca8f2083414321747cc46bdc6add51" sha1="6b9cd3d37e1edc3eb3505790a8bfd3a804c355d6"/>
+	</game>
+	<game name="PlayStation Power - Issue 050 (2000-03)(Future Publishing)(GB)">
+		<description>PlayStation Power - Issue 050 (2000-03)(Future Publishing)(GB)</description>
+		<rom name="PlayStation Power - Issue 050 (2000-03)(Future Publishing)(GB).pdf" size="378395794" crc="c91ba720" md5="e97467bca4a2ce94b5a513c041385360" sha1="69d247686cebb7487aeb8835b4f3de5a7fb2296a"/>
+	</game>
+</datafile>

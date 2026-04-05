@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo GameCube - Magazines - Cube Solutions (GB)</name>
+		<description>Nintendo GameCube - Magazines - Cube Solutions (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cube Solutions - No 08 (2002)(Paragon Publishing)(GB)">
+		<description>Cube Solutions - No 08 (2002)(Paragon Publishing)(GB)</description>
+		<rom name="Cube Solutions - No 08 (2002)(Paragon Publishing)(GB).pdf" size="317441057" crc="7dec0b04" md5="b031e9c86e30364caec851b3011f259b" sha1="41e8a8282434bb2df2f9fac7e11504bf5e01cce5"/>
+	</game>
+</datafile>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Games World (GB)</name>
+		<description>Multi-format - Magazines - Games World (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Games World - Issue 20 (1996-02)(Paragon Publishing)(GB)">
+		<description>Games World - Issue 20 (1996-02)(Paragon Publishing)(GB)</description>
+		<rom name="Games World - Issue 20 (1996-02)(Paragon Publishing)(GB).pdf" size="191327398" crc="07ca5520" md5="be06b6c133253980509e170f61d136a0" sha1="2f3fd21cdb194c88c8ff00600b141cbfc9b426b8"/>
+	</game>
+</datafile>

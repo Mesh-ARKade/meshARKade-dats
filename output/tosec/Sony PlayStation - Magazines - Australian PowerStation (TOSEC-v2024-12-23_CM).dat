@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Australian PowerStation</name>
+		<description>Sony PlayStation - Magazines - Australian PowerStation (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Australian PowerStation - Issue 2 (2004)(Highbury Paragon)(AU)">
+		<description>Australian PowerStation - Issue 2 (2004)(Highbury Paragon)(AU)</description>
+		<rom name="Australian PowerStation - Issue 2 (2004)(Highbury Paragon)(AU).pdf" size="213175005" crc="d9cd1412" md5="fe0bb86ed80cdd87f6e0c3a139b0989f" sha1="61ae2d0d4b250e5f11b7c0c36127b5e35cc4bc50"/>
+	</game>
+</datafile>

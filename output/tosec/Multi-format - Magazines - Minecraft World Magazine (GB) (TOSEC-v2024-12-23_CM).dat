@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Minecraft World Magazine (GB)</name>
+		<description>Multi-format - Magazines - Minecraft World Magazine (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Minecraft Secrets &amp; Cheats Vol.2 (2016)(Dennis Lifestyle)(GB)">
+		<description>Minecraft Secrets &amp; Cheats Vol.2 (2016)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft Secrets &amp; Cheats Vol.2 (2016)(Dennis Lifestyle)(GB).pdf" size="36358749" crc="964c8911" md5="c90d362d416536d2e0d3d803fe41345f" sha1="80a4cb1ae39014a74e4958a2bc553304e7746b26"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 02 (2015)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 02 (2015)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 02 (2015)(Dennis Lifestyle)(GB).pdf" size="34316962" crc="f0417f6d" md5="71904f48d9b29850af58f4e10c8bc35e" sha1="28dcf9f726370061b7d2a12739cb29c79f58bfe2"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 03 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 03 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 03 (2017)(Dennis Lifestyle)(GB).pdf" size="23614703" crc="f2440434" md5="e134f6f741f17d4d9e4f6d4b2d9b13c4" sha1="895e910ebd6daeece3383a0dee2ef93cf472c5e2"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 10 (2016)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 10 (2016)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 10 (2016)(Dennis Lifestyle)(GB).pdf" size="16994354" crc="99da4bcc" md5="6c42ba793d8eb766b7eaedd076e293be" sha1="76e4446947ccf27fa4d8b7e690ff5670c136e402"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 11 (2016)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 11 (2016)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 11 (2016)(Dennis Lifestyle)(GB).pdf" size="16435999" crc="6e475e75" md5="5e9bfa9c9c63b5c2a1f3ad0405263b35" sha1="6c1d5d9d1c18300474e4495b1521769acdfe269b"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 13 (2016)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 13 (2016)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 13 (2016)(Dennis Lifestyle)(GB).pdf" size="16634264" crc="4bd8657f" md5="e84b8d9a81cf1583f8573f0e81158a3f" sha1="00835145c18c883323b6e7744ce932ba4a3d671b"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 15 (2016)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 15 (2016)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 15 (2016)(Dennis Lifestyle)(GB).pdf" size="16616959" crc="3978a7a9" md5="e6b5fae7ca96b67a9f43f8fa2c74f092" sha1="2c3c2220a084727edf7cb0ff23198eeb39f0b77d"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 16 (2016)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 16 (2016)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 16 (2016)(Dennis Lifestyle)(GB).pdf" size="16695222" crc="df2de2d3" md5="c0cf70fb77db82efa001418757d3afbf" sha1="2b81810842c11441c2397555f80178d3f6a19e1b"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 20 (2016)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 20 (2016)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 20 (2016)(Dennis Lifestyle)(GB).pdf" size="17898163" crc="1210c362" md5="fde558dedec173a56436fe2610f36008" sha1="67e04f8920ae248a170585b3a3741ea22c5763ae"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 21 (2016)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 21 (2016)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 21 (2016)(Dennis Lifestyle)(GB).pdf" size="17675710" crc="71319ba7" md5="e3214ac5f8e878eebb20e8f42b0fce9e" sha1="3347f4a831d2e4457cf36ed3abd646177753b8b5"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 22 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 22 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 22 (2017)(Dennis Lifestyle)(GB).pdf" size="16999153" crc="72f4bc38" md5="4a10bda4d26bcad25a292a214ab7edd3" sha1="97d17e75c7f29a721919b6a7c25ed7c9bd206d44"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 24 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 24 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 24 (2017)(Dennis Lifestyle)(GB).pdf" size="16994737" crc="be276918" md5="7e23f4c0a287dcddced915c0dca94769" sha1="4bb751255c280bf2564cb6e9a2eec25660ad9d37"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 25 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 25 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 25 (2017)(Dennis Lifestyle)(GB).pdf" size="17086526" crc="9b86cbbc" md5="af86f4cace1186f882ce87dc80063ad7" sha1="a35bcc60b4525fa5194e733de658434545ba7022"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 26 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 26 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 26 (2017)(Dennis Lifestyle)(GB).pdf" size="20657398" crc="69a4c3d9" md5="952bce409b05099a4f4dca41acac3fd8" sha1="b5f850c4a1cc388044becf377edb257983e3ec32"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 27 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 27 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 27 (2017)(Dennis Lifestyle)(GB).pdf" size="17378104" crc="c8da8e2f" md5="3ddcc6a7a92f4039e491b8472e7c37ed" sha1="d54ee82c787ca41edbd95991e56b94af12b8adc4"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 28 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 28 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 28 (2017)(Dennis Lifestyle)(GB).pdf" size="17034527" crc="717ad14b" md5="8172ab8909b2191ef102fc3846126e13" sha1="c59a7127a36ed2e4e44ea5256e248177f2a638e5"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 29 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 29 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 29 (2017)(Dennis Lifestyle)(GB).pdf" size="16515540" crc="5ad6086c" md5="1f3d5126c65b345991376717d4e9bfb4" sha1="5bbf8530511c420f9c7b160c436e4f12232d8478"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 30 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 30 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 30 (2017)(Dennis Lifestyle)(GB).pdf" size="16507927" crc="bcf2ac03" md5="f097bfb5ef58c44008387ac6dc7e729a" sha1="969c85d93812a2877f88140bd303ac17e665507c"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 31 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 31 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 31 (2017)(Dennis Lifestyle)(GB).pdf" size="17676712" crc="284970f0" md5="47b79ae2b2f72797ca796b783dbe9008" sha1="d1eeed825ca205a7dcb88609a588a43ff9b5ada7"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 32 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 32 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 32 (2017)(Dennis Lifestyle)(GB).pdf" size="11954998" crc="43db3c90" md5="53a9485c6f8c7696de22be0b15c25730" sha1="e2ba132b45879ac4571f623a115a033e9624a7f1"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 33 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 33 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 33 (2017)(Dennis Lifestyle)(GB).pdf" size="23614703" crc="9ba45457" md5="438f8b4cc8e1e02a022a6695f8b54dbd" sha1="ae729a9f492109853f1ee540d21f6667819d39c9"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 34 (2017)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 34 (2017)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 34 (2017)(Dennis Lifestyle)(GB).pdf" size="61914318" crc="459f4a96" md5="49700a7e9a54e0ad18926e2a79f9697a" sha1="b2d6936889ca1b1cbf119e90fff974758166b85d"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 35 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 35 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 35 (2018)(Dennis Lifestyle)(GB).pdf" size="61468864" crc="ff55b183" md5="62ab26595f67fe662d9b566f7ccd614e" sha1="86ebcb2a335fd97e95dcc6dc4575d52cd872d15d"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 36 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 36 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 36 (2018)(Dennis Lifestyle)(GB).pdf" size="60859456" crc="a818c401" md5="b3566a99f3a2bde3ff39680040150ef1" sha1="23eaed58f5dc7a1e2edb8d4ec32be1981845c82d"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 37 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 37 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 37 (2018)(Dennis Lifestyle)(GB).pdf" size="9230426" crc="e0ad9e07" md5="7667026e536e0df93fda942cc2750244" sha1="38a464bac36aeb2e819b3ef1276e6ea8d7749495"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 38 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 38 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 38 (2018)(Dennis Lifestyle)(GB).pdf" size="9147723" crc="045a2279" md5="acdcaa93f0d32b7f90ffc36257ccec37" sha1="85c3174b87154418568c15a4ea709a7712b77c46"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 39 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 39 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 39 (2018)(Dennis Lifestyle)(GB).pdf" size="12431415" crc="3a0dd487" md5="67e74561f291dcba6f0eb3313e1bb819" sha1="a2b6ef7f2d5cc903ba293d4fc1ba79300ebbfc0c"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 40 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 40 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 40 (2018)(Dennis Lifestyle)(GB).pdf" size="9939229" crc="a64c1658" md5="4c81460b2ebcd0eda412e9b9f1c3a78a" sha1="fe34be0f4abc90f714d9c72ac4fa125caecc2d71"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 41 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 41 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 41 (2018)(Dennis Lifestyle)(GB).pdf" size="9873562" crc="d1f6e7db" md5="5e06d3cf8af1dc1d3caf45e464659fa9" sha1="574339bfe03273986d58091ddbcad738e5737fc7"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 42 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 42 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 42 (2018)(Dennis Lifestyle)(GB).pdf" size="8673095" crc="ba5d7b08" md5="6827c48b01c3fabe37a32e2e758fd783" sha1="4f311483efa04077442dfb5aa540d0844d261036"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 43 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 43 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 43 (2018)(Dennis Lifestyle)(GB).pdf" size="8769955" crc="e96731ce" md5="fde9208dcee667f526110bf31a494447" sha1="5aea0a5f053a81668e291263dcfbe1ec331e4795"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 44 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 44 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 44 (2018)(Dennis Lifestyle)(GB).pdf" size="9848614" crc="b84ac1a7" md5="f69e6d64de8a1fa65c02a2b199ebee5c" sha1="70fa2ac39250cf9097c8a0d66286cd93232b9e2f"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 46 (2018)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 46 (2018)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 46 (2018)(Dennis Lifestyle)(GB).pdf" size="9326723" crc="c989fcfb" md5="bc84768c47139f74263633fe8c87e07a" sha1="97eab4b4f0eda63e2a1579112c9ec288c7a6a1d1"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 47 (2019)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 47 (2019)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 47 (2019)(Dennis Lifestyle)(GB).pdf" size="28671007" crc="004090b1" md5="aa0e1b4573f29e19dccea3c14efd78da" sha1="76148b726efd7a642e659a486eda536acb2e8981"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 48 (2019)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 48 (2019)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 48 (2019)(Dennis Lifestyle)(GB).pdf" size="28468638" crc="b6a62cd9" md5="615124e824239f54b3ef2610d763c843" sha1="2575e15adfeff302721a67e795a783f6b40c97b2"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 49 (2019)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 49 (2019)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 49 (2019)(Dennis Lifestyle)(GB).pdf" size="28683308" crc="d9a3b798" md5="63212562d7a1eb9f79974508c63e9fcd" sha1="6e502dc2f54e866c218df4206b144340d7fe700e"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 50 (2019)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 50 (2019)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 50 (2019)(Dennis Lifestyle)(GB).pdf" size="26920626" crc="588300da" md5="ac4011f448335d2067eb907fda8806de" sha1="d0167829b7da80582d528dd6ddf1311b69eda13d"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 51 (2019)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 51 (2019)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 51 (2019)(Dennis Lifestyle)(GB).pdf" size="29234865" crc="25d40f9d" md5="169befae896e8f479c387fc7a61076d3" sha1="71e0779272cde5520b112a03c19f5f11ec658fc3"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 52 (2019)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 52 (2019)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 52 (2019)(Dennis Lifestyle)(GB).pdf" size="31924230" crc="6446f36e" md5="c5c81cd17418a36ad583fd469e8ce6f8" sha1="03f4da145a0012b66f77547b438ce8286a8fb10f"/>
+	</game>
+	<game name="Minecraft World Magazine - Issue 54 (2019)(Dennis Lifestyle)(GB)">
+		<description>Minecraft World Magazine - Issue 54 (2019)(Dennis Lifestyle)(GB)</description>
+		<rom name="Minecraft World Magazine - Issue 54 (2019)(Dennis Lifestyle)(GB).pdf" size="31147674" crc="830797db" md5="1fed7bf85e8bdcc53a8f2ebb398f7276" sha1="bb2e95dee4646ca50628c20e006d6719c9418978"/>
+	</game>
+</datafile>

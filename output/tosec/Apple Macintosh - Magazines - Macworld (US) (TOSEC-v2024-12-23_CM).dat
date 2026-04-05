@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Apple Macintosh - Magazines - Macworld (US)</name>
+		<description>Apple Macintosh - Magazines - Macworld (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Macworld - iPhone SuperGuide (2007)(IDG Communications)(US)">
+		<description>Macworld - iPhone SuperGuide (2007)(IDG Communications)(US)</description>
+		<rom name="Macworld - iPhone SuperGuide (2007)(IDG Communications)(US).pdf" size="3725500" crc="b7b66bc1" md5="797f352f512c76baf7cfc59c957edfd4" sha1="be77d80d2158f25a1a898b62bb1543ec0b47769b"/>
+	</game>
+	<game name="Macworld - Volume 01 Number 01 (1984-04)(PC World Communications)(US)">
+		<description>Macworld - Volume 01 Number 01 (1984-04)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 01 Number 01 (1984-04)(PC World Communications)(US).pdf" size="252089660" crc="73d429d8" md5="2a435758397d9f84b4fa263d7ac9d891" sha1="35eb84c3ef2663b49bfa21715483f81133a0e423"/>
+	</game>
+	<game name="Macworld - Volume 01 Number 01 (1984-04)(PC World Communications)(US)[a]">
+		<description>Macworld - Volume 01 Number 01 (1984-04)(PC World Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 01 Number 01 (1984-04)(PC World Communications)(US)[a].pdf" size="38325420" crc="1d484c2c" md5="29f8ed53106d61f8f9990ccce569a360" sha1="ce0e9e93de02a3134416908ae26afdc440eee9bc"/>
+	</game>
+	<game name="Macworld - Volume 01 Number 02 (1984-06)(PC World Communications)(US)">
+		<description>Macworld - Volume 01 Number 02 (1984-06)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 01 Number 02 (1984-06)(PC World Communications)(US).pdf" size="48904801" crc="0be388de" md5="55546d1296819a82bf0680cca0b60e20" sha1="08d918c04d3019801a78d51f30945188589411ec"/>
+	</game>
+	<game name="Macworld - Volume 01 Number 03 (1984-08)(PC World Communications)(US)">
+		<description>Macworld - Volume 01 Number 03 (1984-08)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 01 Number 03 (1984-08)(PC World Communications)(US).pdf" size="53854636" crc="c0fed685" md5="e06ee43825deebbad12dfcc06a2eb465" sha1="0980fb19a374764a79a2836282d5f0c245b6267e"/>
+	</game>
+	<game name="Macworld - Volume 01 Number 04 (1984-10)(PC World Communications)(US)">
+		<description>Macworld - Volume 01 Number 04 (1984-10)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 01 Number 04 (1984-10)(PC World Communications)(US).pdf" size="49654258" crc="15a59e6e" md5="9c642a0729fbbe932561d03a9391e55d" sha1="b0f54615458bea4ab24ceef7dfe04acbd999064f"/>
+	</game>
+	<game name="Macworld - Volume 01 Number 05 (1984-11)(PC World Communications)(US)">
+		<description>Macworld - Volume 01 Number 05 (1984-11)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 01 Number 05 (1984-11)(PC World Communications)(US).pdf" size="27250867" crc="e1bf535e" md5="fb8311bd6f9c6d4a3ea2a36715f3f109" sha1="b16056703cea7b8e27c9afa1bdf7e88075806628"/>
+	</game>
+	<game name="Macworld - Volume 01 Number 06 (1984-12)(PC World Communications)(US)">
+		<description>Macworld - Volume 01 Number 06 (1984-12)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 01 Number 06 (1984-12)(PC World Communications)(US).pdf" size="70700769" crc="3f6dd399" md5="5a9d82b59ea9c54306c2b610f59399e1" sha1="8afdb588af05995e9349c9613fb313e166b69ea6"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 01 (1985-01)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 01 (1985-01)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 01 (1985-01)(PC World Communications)(US).pdf" size="68359770" crc="38259040" md5="616d9688afc5d5af92b8845be02f275b" sha1="3b6df79ed2f355eaa97744f53afb20cc6445fb72"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 02 (1985-02)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 02 (1985-02)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 02 (1985-02)(PC World Communications)(US).pdf" size="65811675" crc="539976b1" md5="45829395051faddf5026e129c54e80fc" sha1="0a242c104ccea5a0141533b2317df4b5793a664f"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 03 (1985-03)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 03 (1985-03)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 03 (1985-03)(PC World Communications)(US).pdf" size="39425202" crc="6eacc717" md5="8603238c34682482dae9094ae8d5fd50" sha1="10bda939fd0c236932a910b37e869ab35e97b299"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 04 (1985-04)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 04 (1985-04)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 04 (1985-04)(PC World Communications)(US).pdf" size="61933624" crc="81532c09" md5="2568e5ce3ae19073caab5277e812474d" sha1="b863d0ff5885aea39220444029a5a9a473bc1859"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 05 (1985-05)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 05 (1985-05)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 05 (1985-05)(PC World Communications)(US).pdf" size="42473777" crc="39e4c6c1" md5="7dddb43e160e21c779b183b96250ee25" sha1="6344779d9dbc9ff201517d6e7929ff6a8ec57192"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 06 (1985-06)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 06 (1985-06)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 06 (1985-06)(PC World Communications)(US).pdf" size="70811727" crc="0695c6b0" md5="9d5ad4771adbd3a66a74613a88215c83" sha1="4d819792befc9c9d84bd81ac9a963fa09bc74c06"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 07 (1985-07)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 07 (1985-07)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 07 (1985-07)(PC World Communications)(US).pdf" size="68326293" crc="3db40990" md5="0cd88d9f51a910fbe839d4707b1c9860" sha1="1730b36efea705958a8c3313fbf049d8f0d3d132"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 08 (1985-08)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 08 (1985-08)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 08 (1985-08)(PC World Communications)(US).pdf" size="61781846" crc="dc3b6a21" md5="e8e760f1708d3968c1ddce4a01c88508" sha1="11a99094114e40534ad6ab3e8e1f55001318e6df"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 09 (1985-09)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 09 (1985-09)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 09 (1985-09)(PC World Communications)(US).pdf" size="42446838" crc="11b40352" md5="04c388f2763a179ee060a577e2042054" sha1="cd397223848be8a1d274396e84756f46a5a733db"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 10 (1985-10)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 10 (1985-10)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 10 (1985-10)(PC World Communications)(US).pdf" size="73846594" crc="85cf8152" md5="4ea29dc64d129dba3d0f53ac6ad3c9ab" sha1="309fadd0d418ecf1232929b709967352836f6428"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 11 (1985-11)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 11 (1985-11)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 11 (1985-11)(PC World Communications)(US).pdf" size="69407323" crc="1bf110d3" md5="f4066ae4f91efdd4a4ebb90ec729aeb4" sha1="68c2e26563be4633d092cf571083fbb5c802b203"/>
+	</game>
+	<game name="Macworld - Volume 02 Number 12 (1985-12)(PC World Communications)(US)">
+		<description>Macworld - Volume 02 Number 12 (1985-12)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 02 Number 12 (1985-12)(PC World Communications)(US).pdf" size="75613580" crc="5cde6a89" md5="cabe9198f21fde8c278d1d4ff171b4ba" sha1="fa6ce562637b070c8df377edcd408cbaca163b3f"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 01 (1986-01)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 01 (1986-01)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 01 (1986-01)(PC World Communications)(US).pdf" size="62615937" crc="5d86a59c" md5="6425bc20b3be703a7071575121f5f8ec" sha1="9e7298bf1f625dfd57dc99f8ae4902d688e0bef5"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 02 (1986-02)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 02 (1986-02)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 02 (1986-02)(PC World Communications)(US).pdf" size="62529126" crc="432ecfdf" md5="9651da2a10ea5e193df491baaa06d122" sha1="1dbf051ecf0366488f1c410fa255f2620f37a743"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 03 (1986-03)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 03 (1986-03)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 03 (1986-03)(PC World Communications)(US).pdf" size="56809839" crc="0aade180" md5="7812ce5a41d349426b462e76c7c46384" sha1="24013c528eabdab07b89bc62c9a52be2b5b4d2e5"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 04 (1986-04)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 04 (1986-04)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 04 (1986-04)(PC World Communications)(US).pdf" size="43341023" crc="bf33be91" md5="4c4ea1aaeb26f4a60382241e543b778b" sha1="ee7adf73f2270b8ebd74a4851cdadaf653887b67"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 05 (1986-05)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 05 (1986-05)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 05 (1986-05)(PC World Communications)(US).pdf" size="60473642" crc="98182983" md5="ded0f249091869f04fb0c938c78d505f" sha1="e6a8de735420c0a0e8446329698a6bb387fe0234"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 06 (1986-06)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 06 (1986-06)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 06 (1986-06)(PC World Communications)(US).pdf" size="54850331" crc="4d4df892" md5="dbc1ec49b22ab5d796ea5f920eb2f37c" sha1="74d1be9e012954681b7f6c792882bd58e3779850"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 07 (1986-07)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 07 (1986-07)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 07 (1986-07)(PC World Communications)(US).pdf" size="70285501" crc="bbbc7e0b" md5="fe948fd34c6520cfa1bbef85a7045196" sha1="32d9917d57acaec772076ecb8f8f0daa83b911b3"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 08 (1986-08)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 08 (1986-08)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 08 (1986-08)(PC World Communications)(US).pdf" size="26368409" crc="96e8cf1c" md5="06cc323f2562e41cc127da682a5a593e" sha1="3f5faa37d9d1c84b88f817e4545916af3bc622b3"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 09 (1986-09)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 09 (1986-09)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 09 (1986-09)(PC World Communications)(US).pdf" size="40002725" crc="84a927a6" md5="43474659b995998e202d7d8fde176545" sha1="b3ebfb40a1e6fb33abf3e271887d1df5f6f7b68e"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 10 (1986-10)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 10 (1986-10)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 10 (1986-10)(PC World Communications)(US).pdf" size="60732885" crc="fb186203" md5="1ac1ac661de21fb37a56a6d8f6ce94be" sha1="3904477d83b0a6ba059f524e3d39adccee1ff85f"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 11 (1986-11)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 11 (1986-11)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 11 (1986-11)(PC World Communications)(US).pdf" size="64324882" crc="0c8b55a9" md5="4bdcd7c35469599c2bf6d957f79d3f19" sha1="deb968a367259e4713b351025879d0e39bdc3494"/>
+	</game>
+	<game name="Macworld - Volume 03 Number 12 (1986-12)(PC World Communications)(US)">
+		<description>Macworld - Volume 03 Number 12 (1986-12)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 03 Number 12 (1986-12)(PC World Communications)(US).pdf" size="68884301" crc="b572dab1" md5="f64006ef348d37e61cfc47f9151155dc" sha1="d0f2eb71213f48e601345b8526c6d4fb84f1b4bb"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 01 (1987-01)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 01 (1987-01)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 01 (1987-01)(PC World Communications)(US).pdf" size="68823759" crc="2b46b49b" md5="b210847781b661bf35c9e9ef75855d7e" sha1="a0d5356a52984d9856da191892df56953169bcb8"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 02 (1987-02)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 02 (1987-02)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 02 (1987-02)(PC World Communications)(US).pdf" size="62691087" crc="35240e96" md5="2bfab031e6d59d41a2f8158f2c34522a" sha1="b5ca97c1ff312b0c1c89146526a4a03692e521ee"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 03 (1987-03)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 03 (1987-03)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 03 (1987-03)(PC World Communications)(US).pdf" size="62093715" crc="9d1ee94e" md5="1936864c2e5564402bf9e2379f8cbe81" sha1="42443e92bff115d208b536a905f2b0c61d501aee"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 04 (1987-04)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 04 (1987-04)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 04 (1987-04)(PC World Communications)(US).pdf" size="62512651" crc="e5a504f1" md5="5f2dac0d57e1b6f06c1000643d267bee" sha1="e3f186ed46bfa1645003ef1935605ccb6d219ad2"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 05 (1987-05)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 05 (1987-05)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 05 (1987-05)(PC World Communications)(US).pdf" size="60501094" crc="99af2b94" md5="9f58a4cf072bd7f5537ec5aeee55d489" sha1="c7e50284ff24505d4341f24653719f5848c1a688"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 06 (1987-06)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 06 (1987-06)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 06 (1987-06)(PC World Communications)(US).pdf" size="69432258" crc="82a754c4" md5="f5715149fdb8e8e2b900c7a9c3f96726" sha1="c446e50ec88e881061d349b3ccc08113ef53c72b"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 07 (1987-07)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 07 (1987-07)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 07 (1987-07)(PC World Communications)(US).pdf" size="63001867" crc="58eeb295" md5="cab8577336b522719c9c948c03805e8c" sha1="0e727dfa3c0f39ba431f90b39da981921489804b"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 08 (1987-08)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 08 (1987-08)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 08 (1987-08)(PC World Communications)(US).pdf" size="77910220" crc="4fc6843c" md5="19e047062afbb48d8529d665c9234a1d" sha1="30845cc118f78c8d78056d311c916ee084f3ad62"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 09 (1987-09)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 09 (1987-09)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 09 (1987-09)(PC World Communications)(US).pdf" size="80712817" crc="42c09340" md5="d78578714bf6a4c12b537fca215eeaf1" sha1="dfc7e76a0bddf126473e7927e31c7879e4484f3b"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 10 (1987-10)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 10 (1987-10)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 10 (1987-10)(PC World Communications)(US).pdf" size="64564239" crc="a57bc1be" md5="7b640b4841eabc8ac213497bca4e966c" sha1="438336d7ca9a7b66451ed3b66e0d4ebe0012c5ac"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 11 (1987-11)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 11 (1987-11)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 11 (1987-11)(PC World Communications)(US).pdf" size="96684334" crc="9d0d7936" md5="68111e72d8d480db38cf31950f7c8313" sha1="f6e1b474bd3e52b6ffb4e640fb41ed3c94314bff"/>
+	</game>
+	<game name="Macworld - Volume 04 Number 12 (1987-12)(PC World Communications)(US)">
+		<description>Macworld - Volume 04 Number 12 (1987-12)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 04 Number 12 (1987-12)(PC World Communications)(US).pdf" size="73964685" crc="df197ee2" md5="9219efbd5e79cc1961eb351d464d37f9" sha1="44c8c46a28fd97a2fef066e0068b1409e537b638"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 01 (1988-01)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 01 (1988-01)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 01 (1988-01)(PC World Communications)(US).pdf" size="75919099" crc="b07f7c24" md5="a0a60aabc04ecadb855c5b205f15ea55" sha1="301e2d6dc2dd131640d6aefd5dff2e6e3a18eef6"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 02 (1988-02)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 02 (1988-02)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 02 (1988-02)(PC World Communications)(US).pdf" size="85522401" crc="1c67e858" md5="7ffa871ca43a6db28d8b835b6df7187f" sha1="ea1f165f1afb5be64f37804c5b43bffe1f992e04"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 03 (1988-03)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 03 (1988-03)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 03 (1988-03)(PC World Communications)(US).pdf" size="72249131" crc="d6f0395c" md5="dee245cbf5abdb10e60446fc1d62ae83" sha1="b0ba0dade1fb4a4d81cb1cdc4527a7b26849b372"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 04 (1988-04)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 04 (1988-04)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 04 (1988-04)(PC World Communications)(US).pdf" size="59533949" crc="ce63eefb" md5="9b4bc6ac7688727ee347728a9e4c9cbf" sha1="bb7a44f887148f0e1840bf403c4eb60193babb24"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 05 (1988-05)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 05 (1988-05)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 05 (1988-05)(PC World Communications)(US).pdf" size="72473999" crc="af02baa2" md5="9b6d0d2097634945b4e634e6e517004c" sha1="9db27eb8b9a167746f323a171279be79ca2527dc"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 06 (1988-06)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 06 (1988-06)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 06 (1988-06)(PC World Communications)(US).pdf" size="57782352" crc="a73a600b" md5="88a492ad8b7df052edb425d02d4d0230" sha1="a116ba1af5dc885660c394a6470f35749f20049b"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 07 (1988-07)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 07 (1988-07)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 07 (1988-07)(PC World Communications)(US).pdf" size="74796144" crc="c9443581" md5="8213c160b0f14d8674c0df252f1455d6" sha1="27dd20a3d9c42b856a04ecb3f0079cc12da518da"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 08 (1988-08)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 08 (1988-08)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 08 (1988-08)(PC World Communications)(US).pdf" size="55196358" crc="365cc8f8" md5="244a6d708ad51e47886d93138134d80f" sha1="ae85b01970e617f64fba3650e1000bba5d4b52ca"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 09 (1988-09)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 09 (1988-09)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 09 (1988-09)(PC World Communications)(US).pdf" size="104729996" crc="cdfa664e" md5="5209ca11c21cb5f051003c1a1ccacd60" sha1="1e12e46e11dd47f52dbf8c36721d00e007a63351"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 10 (1988-10)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 10 (1988-10)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 10 (1988-10)(PC World Communications)(US).pdf" size="71835193" crc="28108790" md5="d2b42673a83f393b5f540fd8c4b11e23" sha1="01d4da5dc11dbeec19de2adb79b6f5ace04814a0"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 11 (1988-11)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 11 (1988-11)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 11 (1988-11)(PC World Communications)(US).pdf" size="75622395" crc="25c58947" md5="873e9c525775aaa738514d28907e865b" sha1="c8bdd7b6be3b7718329c026a4aa99bf7394355ed"/>
+	</game>
+	<game name="Macworld - Volume 05 Number 12 (1988-12)(PC World Communications)(US)">
+		<description>Macworld - Volume 05 Number 12 (1988-12)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 05 Number 12 (1988-12)(PC World Communications)(US).pdf" size="74456465" crc="d466957c" md5="a44e8e3bd985b0777e3284caf32d12f9" sha1="28ee14dba53b8cd1585ca73c56cfc4689fe52ec3"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 01 (1989-01)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 01 (1989-01)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 01 (1989-01)(PC World Communications)(US).pdf" size="74504736" crc="126aa0e5" md5="31da6e0d5a9c9f861ad2baa2d72cdb25" sha1="da919e128a33ab20efc46694ab85565484f26c18"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 02 (1989-02)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 02 (1989-02)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 02 (1989-02)(PC World Communications)(US).pdf" size="94655585" crc="46d0464a" md5="9c59b32e7c343b2a7ff29e3e2214c28c" sha1="e0f0380ef6dfcc67cbb30467be15324142f9adc8"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 03 (1989-03)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 03 (1989-03)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 03 (1989-03)(PC World Communications)(US).pdf" size="68860192" crc="f2abfc75" md5="06a4c7772530020faf4c1ccdd8ca88df" sha1="ef5f716ca5193d89e3e083529a1c617b5fe4bc8f"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 04 (1989-04)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 04 (1989-04)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 04 (1989-04)(PC World Communications)(US).pdf" size="64562970" crc="5e97e0e0" md5="18ef39d7a347b535f0af1e408cd40b76" sha1="8ba9ecb1a41c56974693de64e0b793fa75244267"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 05 (1989-05)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 05 (1989-05)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 05 (1989-05)(PC World Communications)(US).pdf" size="74379877" crc="371f72f7" md5="c5369f1079b1e3ffbb4d409bc4e176ab" sha1="f4fcc7f04e34d80066b108a97487a5003a2dc7ae"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 06 (1989-06)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 06 (1989-06)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 06 (1989-06)(PC World Communications)(US).pdf" size="73983318" crc="2daca0b8" md5="1dcd7f47f0835e8ee29c161e333daf44" sha1="bd4d078b07781876f790b53c95470a4f7112d45a"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 07 (1989-07)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 07 (1989-07)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 07 (1989-07)(PC World Communications)(US).pdf" size="69762669" crc="ddfe5cdc" md5="9dbdd40938ddcf1e0870fab711f69ba3" sha1="404061410f773abc2adf158720f7ea4635b1c7c6"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 08 (1989-08)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 08 (1989-08)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 08 (1989-08)(PC World Communications)(US).pdf" size="72478821" crc="3a955c90" md5="bb38fa43e3cac630b00eb6e15197dba7" sha1="38577716a04e3b61e89b6ba05e5c34b62119a85f"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 09 (1989-09)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 09 (1989-09)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 09 (1989-09)(PC World Communications)(US).pdf" size="79673245" crc="8f8b8b93" md5="db02de084878f3bb324a711ed030b61e" sha1="955f1b5cea9d52342b56b10ac788838e4dd164bc"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 10 (1989-10)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 10 (1989-10)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 10 (1989-10)(PC World Communications)(US).pdf" size="86131375" crc="7ac8e122" md5="d78b94adfa30404de2d5b0af1aff175c" sha1="cf0b74718ab6c32a16fdc9e7aaaa474194a78553"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 11 (1989-11)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 11 (1989-11)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 11 (1989-11)(PC World Communications)(US).pdf" size="88981572" crc="916b0ffa" md5="0cd66e4ad49f9ec086c8a610f58d19c1" sha1="bd1ca8731b5f0726e481419177e60ad15d7a1485"/>
+	</game>
+	<game name="Macworld - Volume 06 Number 12 (1989-12)(PC World Communications)(US)">
+		<description>Macworld - Volume 06 Number 12 (1989-12)(PC World Communications)(US)</description>
+		<rom name="Macworld - Volume 06 Number 12 (1989-12)(PC World Communications)(US).pdf" size="84914852" crc="b344409c" md5="ae72adf03f5eaf734b358e33cebcd31c" sha1="a2c71b8075ebc90f8e3593374e2982fbc8f30820"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 01 (1990-01)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 01 (1990-01)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 01 (1990-01)(Macworld Communications)(US).pdf" size="72280495" crc="254b6d72" md5="9cd06514a407d6fbcd46fa6fc4000cd4" sha1="21a40204890d793b55eb71c99c25448934bd9343"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 02 (1990-02)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 02 (1990-02)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 02 (1990-02)(Macworld Communications)(US).pdf" size="92001917" crc="8cb9c79a" md5="fef907f8f63dca0ecbd4c46adfdb5307" sha1="12d6f67fd38602867e22219ef552e3e4bd410e9a"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 03 (1990-03)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 03 (1990-03)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 03 (1990-03)(Macworld Communications)(US).pdf" size="77619451" crc="4441dcc2" md5="51dd59288ff04cdecdd8c8b468780827" sha1="11ec21676aaf8efa64206a00dfe6103b16aad443"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 04 (1990-04)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 04 (1990-04)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 04 (1990-04)(Macworld Communications)(US).pdf" size="58005560" crc="03ba2668" md5="f4258bf15ed45d6b8f6fcae452d2cf82" sha1="ab16225164e568ccb8a48b2a302051baae9185f2"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 05 (1990-05)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 05 (1990-05)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 05 (1990-05)(Macworld Communications)(US).pdf" size="120116965" crc="baee6e34" md5="fd7fc1e6961fe9153ae7256c748c836e" sha1="c18446eaa3e13aa5c30ec2024045734c406d3645"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 06 (1990-06)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 06 (1990-06)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 06 (1990-06)(Macworld Communications)(US).pdf" size="86536437" crc="68460142" md5="5e1b3b939d95e9d9588c6cf0308d0c6e" sha1="39f8285a6171a813d0f3026a1b5189a386cf6a5a"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 07 (1990-07)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 07 (1990-07)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 07 (1990-07)(Macworld Communications)(US).pdf" size="81992009" crc="94d29f41" md5="e81b831cd84e7b6cf893f37d11633516" sha1="9dcfcbc43eb4b7c5a7cd523127b633b36b6db22f"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 08 (1990-08)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 08 (1990-08)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 08 (1990-08)(Macworld Communications)(US).pdf" size="97849810" crc="b0484914" md5="b62c25e767c7c12ca7a547c0fcb2a79b" sha1="7714c24568d4414db8ae27db8fe89757ca15cbc5"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 09 (1990-09)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 09 (1990-09)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 09 (1990-09)(Macworld Communications)(US).pdf" size="105754144" crc="93839c18" md5="5cebe52461b4e65bb9bb5e67bfa3b265" sha1="850d9132095e83bd6c86d34a78db9c70bde2aa14"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 10 (1990-10)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 10 (1990-10)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 10 (1990-10)(Macworld Communications)(US).pdf" size="91435219" crc="fd3d415f" md5="782485d595540340a0c2988e26c985b0" sha1="0fa73ce69d9d3e60c835bdff394b0fc563885e4f"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 11 (1990-11)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 11 (1990-11)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 11 (1990-11)(Macworld Communications)(US).pdf" size="101978503" crc="fddfb87d" md5="be278151d29afc5e4ecea3ae706930a6" sha1="fecf66fb68ae4a696660b9237376e28b25c2dc94"/>
+	</game>
+	<game name="Macworld - Volume 07 Number 12 (1990-12)(Macworld Communications)(US)">
+		<description>Macworld - Volume 07 Number 12 (1990-12)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 07 Number 12 (1990-12)(Macworld Communications)(US).pdf" size="98342695" crc="be5a9b82" md5="ff15deb644d7c7d3764e5c7be88e8625" sha1="0c9bccdfe332638edda9a61d40dbbbfe1fc612f9"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 01 (1991-01)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 01 (1991-01)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 01 (1991-01)(Macworld Communications)(US).pdf" size="83615205" crc="2b7194b5" md5="32acb0010a2374cf5f589d91f27a192c" sha1="30d34ea484bd5f792462b4e1835a3b9ccab0d017"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 02 (1991-02)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 02 (1991-02)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 02 (1991-02)(Macworld Communications)(US).pdf" size="80959935" crc="17d8cfcd" md5="953fb1737ab0d6bad5dfd80b47e17ab8" sha1="0f3ade346ac501fe981bfd03ac9fd15d0b6f8822"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 03 (1991-03)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 03 (1991-03)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 03 (1991-03)(Macworld Communications)(US).pdf" size="64890686" crc="7ab2c9f3" md5="1740c1930157e25954586d9a084af411" sha1="c365c98a7f0e769f36d971a52d4f5d2022a09921"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 04 (1991-04)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 04 (1991-04)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 04 (1991-04)(Macworld Communications)(US).pdf" size="68610261" crc="ae4b0f6d" md5="41606e58a4f0871ce7b1c20dac953ffb" sha1="438983a62027a981128f7faa585f1ec223aa3a1e"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 05 (1991-05)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 05 (1991-05)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 05 (1991-05)(Macworld Communications)(US).pdf" size="68273066" crc="25f7fe23" md5="9a2388d518778f422a30a7903f874f75" sha1="223c9c87a1535fb9fa5254aa2ac5470313419497"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 06 (1991-06)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 06 (1991-06)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 06 (1991-06)(Macworld Communications)(US).pdf" size="72773624" crc="dcb50b4d" md5="ccbe6e5eb48f57d334084bc741777edc" sha1="933fb24333539dca166bbf285208eb55f6c94eca"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 07 (1991-07)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 07 (1991-07)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 07 (1991-07)(Macworld Communications)(US).pdf" size="87081203" crc="ec412503" md5="69b5d1876d821cac19ab7e5aec93bc66" sha1="f29f66e7778fbbe4fd24ba8b84dac654b7ebf257"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 08 (1991-08)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 08 (1991-08)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 08 (1991-08)(Macworld Communications)(US).pdf" size="56696249" crc="2d6984d0" md5="a1e8b4bc365bb7da63aa652212dd26ec" sha1="f371a142d02378d96b690d8f4d3db77449b53503"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 09 (1991-09)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 09 (1991-09)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 09 (1991-09)(Macworld Communications)(US).pdf" size="94940367" crc="c0698f09" md5="29760c76a5850e5c3006c05abace0c1a" sha1="80e988afd966bb45e595bebe5bc7c78e9efa18ea"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 10 (1991-10)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 10 (1991-10)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 10 (1991-10)(Macworld Communications)(US).pdf" size="75543649" crc="2c3052f2" md5="96c3360f7f56348f4060b7d6a9f2dbe7" sha1="265230e3b4af42b8293c47331f535047effc8166"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 11 (1991-11)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 11 (1991-11)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 11 (1991-11)(Macworld Communications)(US).pdf" size="99513153" crc="55f2f6cd" md5="0ffbad33ef42cc2038fcaf9909f6f45a" sha1="e3074da1c4e34c99bc0147912fc1bedb539cf518"/>
+	</game>
+	<game name="Macworld - Volume 08 Number 12 (1991-12)(Macworld Communications)(US)">
+		<description>Macworld - Volume 08 Number 12 (1991-12)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 08 Number 12 (1991-12)(Macworld Communications)(US).pdf" size="84457465" crc="972715ef" md5="9cd61cb242e3e46d4c37375ce361f798" sha1="d97a0b66a0bb323d70843f651895c455fa945b8e"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 01 (1992-01)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 01 (1992-01)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 01 (1992-01)(Macworld Communications)(US).pdf" size="78885525" crc="d3748840" md5="0ad8cac8b4e164882a07df7f5d9cc428" sha1="f936a318d026091c3a230480e4c13a99c0f75eec"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 02 (1992-02)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 02 (1992-02)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 02 (1992-02)(Macworld Communications)(US).pdf" size="124760449" crc="1fea4df7" md5="a7bfbc64cdd9012285aff6891f7ca6f4" sha1="7eedd1fc3c94d3414f317dd796bac9d004cefa29"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 03 (1992-03)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 03 (1992-03)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 03 (1992-03)(Macworld Communications)(US).pdf" size="89803654" crc="179f1390" md5="3e4e16bdff88561f6c8e416f97e50e7a" sha1="fba1f8eb7f855f71a2976c721b82e3ac813037d0"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 04 (1992-04)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 04 (1992-04)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 04 (1992-04)(Macworld Communications)(US).pdf" size="74245227" crc="383c2019" md5="a2ae3d137eb411e186f3a5f2347c769e" sha1="aa64fddd9099cb2d54b5deb2fbf8b2161c4e3f98"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 05 (1992-05)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 05 (1992-05)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 05 (1992-05)(Macworld Communications)(US).pdf" size="71182053" crc="f4c97471" md5="57565574364a270e3ef1d2705c7436cd" sha1="3a55e050a572efa3e66ce7b76e709ba29d70fcbb"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 06 (1992-06)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 06 (1992-06)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 06 (1992-06)(Macworld Communications)(US).pdf" size="83595606" crc="f13841e4" md5="b0661ed210f2e599ecbc4b7649c6d76a" sha1="625814fb4660d9e0580f63a2d79cf7de2b27a439"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 07 (1992-07)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 07 (1992-07)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 07 (1992-07)(Macworld Communications)(US).pdf" size="81359935" crc="cf88908b" md5="1edf006d23325fde027cf60dcd90fa30" sha1="d423e501472fa61ccd4cd2d11141c5a11ead3cfc"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 08 (1992-08)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 08 (1992-08)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 08 (1992-08)(Macworld Communications)(US).pdf" size="81527079" crc="8415d110" md5="e722600d9a98a5bf3262246d1ae87d60" sha1="4a4fecdf9094fd4d7b36580489b268907a67715a"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 09 (1992-09)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 09 (1992-09)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 09 (1992-09)(Macworld Communications)(US).pdf" size="114385765" crc="5d03e095" md5="1e7985bff1cee362ea24914b84d39d08" sha1="06ce4d4fbc03bc6ce0c03717d32c1cfbe418fcb8"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 10 (1992-10)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 10 (1992-10)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 10 (1992-10)(Macworld Communications)(US).pdf" size="76225185" crc="6d88bb3e" md5="a5e95505f9342c7f10a42071d7047f5a" sha1="5fc790a932c450e72cab1f649780b0e26f09cb59"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 11 (1992-11)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 11 (1992-11)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 11 (1992-11)(Macworld Communications)(US).pdf" size="72282005" crc="ccfd9600" md5="1937c0d0cd95a98926b2fd5baf28d31e" sha1="420c0e650c84753d87aaff9effe58dc3c5ec4038"/>
+	</game>
+	<game name="Macworld - Volume 09 Number 12 (1992-12)(Macworld Communications)(US)">
+		<description>Macworld - Volume 09 Number 12 (1992-12)(Macworld Communications)(US)</description>
+		<rom name="Macworld - Volume 09 Number 12 (1992-12)(Macworld Communications)(US).pdf" size="104225913" crc="576b59aa" md5="de900cef80bdea4d49182f1d808ab2ae" sha1="2a9aa9ee47e0a4c425347ea10be87adee584963b"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 01 (1993-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 01 (1993-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 01 (1993-01)(IDG Communications)(US).pdf" size="81809664" crc="1718f822" md5="ca869db8abe0e2c4ff97b5c182d8588b" sha1="a32be60636e2bcf9890a15623f06999cc12752f1"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 02 (1993-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 02 (1993-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 02 (1993-02)(IDG Communications)(US).pdf" size="101774596" crc="55b7136b" md5="f506b4c7119921ba5f9991c17d6bae34" sha1="ec0d8eb5f8041b2f01960af3873ac6a82e682fbe"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 03 (1993-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 03 (1993-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 03 (1993-03)(IDG Communications)(US).pdf" size="66508850" crc="4e10b047" md5="e5ac921b17676769f07fc5fb17eb2045" sha1="12493e90992f78748b109089c36a24f31f49716c"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 04 (1993-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 04 (1993-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 04 (1993-04)(IDG Communications)(US).pdf" size="81336413" crc="5dcae2b1" md5="92eb5430ebc194bc1278620ed13ee059" sha1="a13d5dfc108bc368d81851cb5003bc1463cc7c69"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 05 (1993-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 05 (1993-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 05 (1993-05)(IDG Communications)(US).pdf" size="87767845" crc="abdfbb64" md5="60e28744280660d327548855bbdce316" sha1="fca8cce3b737c5f26ec30610b3be0cd0dcdc9072"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 06 (1993-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 06 (1993-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 06 (1993-06)(IDG Communications)(US).pdf" size="86565140" crc="bb91aec0" md5="79099532c062744997b714054ba98579" sha1="e357578bfa58492996735f3e8d22314d0475feec"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 07 (1993-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 07 (1993-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 07 (1993-07)(IDG Communications)(US).pdf" size="83951226" crc="29687fc0" md5="46dfc1685888a05d5784ee97b4c71e0b" sha1="04fcaf5e8ba14352593b6c3766f89c12c553ecdb"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 08 (1993-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 08 (1993-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 08 (1993-08)(IDG Communications)(US).pdf" size="76314317" crc="3c5a5e3d" md5="ce0ebff656cd1ca014b3897d6b742d07" sha1="46d7422312ae02bb3acc507420f711c85dfab0db"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 09 (1993-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 09 (1993-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 09 (1993-09)(IDG Communications)(US).pdf" size="96516076" crc="759acb00" md5="bedf145a46593dc29803d5c4da1218c5" sha1="4313f64e2a9f88e41a7d41b175c0a407cfa4a320"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 10 (1993-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 10 (1993-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 10 (1993-10)(IDG Communications)(US).pdf" size="81033017" crc="c07d1295" md5="249894e9323b0c16798921a84e2fffe2" sha1="f34b6ce4cee4ddfb861d2ec5f3def32714858dbe"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 11 (1993-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 11 (1993-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 11 (1993-11)(IDG Communications)(US).pdf" size="81739147" crc="43314c88" md5="ce5b43826c4be33423e9654c5e5c0457" sha1="029f86bacfdda02412d5402d2e432df656f623e4"/>
+	</game>
+	<game name="Macworld - Volume 10 Number 12 (1993-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 10 Number 12 (1993-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 10 Number 12 (1993-12)(IDG Communications)(US).pdf" size="87541579" crc="ca78a8fb" md5="dbd7d8beee39ebc6fa3b39d3f89229ed" sha1="747c53e540a8d3d4d3d36147cd0815d9a2454e7e"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 01 (1994-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 01 (1994-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 01 (1994-01)(IDG Communications)(US).pdf" size="67771107" crc="bd88e8f9" md5="e3c3eca1e83f5aef58246a7d8e6a3484" sha1="eb507d5eb41ff97257361c799d022ec946a2cdba"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 02 (1994-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 02 (1994-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 02 (1994-02)(IDG Communications)(US).pdf" size="81699717" crc="a6c09db1" md5="db7b124c4fa9c9b050ab2baca8640a44" sha1="f05738f684068d4405a2cf6528801a035406a792"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 03 (1994-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 03 (1994-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 03 (1994-03)(IDG Communications)(US).pdf" size="61564716" crc="35a10bf0" md5="b276c0eb8eebac79c5e4f3c17af5b116" sha1="35ef6a9dac2c869111505ae9678f0e9b45f2ee4a"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 04 (1994-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 04 (1994-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 04 (1994-04)(IDG Communications)(US).pdf" size="68638045" crc="6e6384f7" md5="14f9b6d576634fc83a74b198e87d25d3" sha1="2110c58604ea89754d99f518e5ad249817528291"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 05 (1994-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 05 (1994-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 05 (1994-05)(IDG Communications)(US).pdf" size="64690334" crc="4a2e2c56" md5="0959f126cd37637d34473afee6e2cf90" sha1="641e3e66cfed015638f410ba73fb33eaaafc1cb5"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 06 (1994-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 06 (1994-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 06 (1994-06)(IDG Communications)(US).pdf" size="67684740" crc="037c2749" md5="5384c6bc1872cb4875a63484a6ed6cf3" sha1="169147a44d6db2bac64d2c9d87ee5ebd83b90efa"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 07 (1994-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 07 (1994-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 07 (1994-07)(IDG Communications)(US).pdf" size="68780677" crc="67610b35" md5="bc75f99ba6390be0eae7baea743f6c80" sha1="9c0a622c72e03be2aae777a6615c9a87219b7532"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 08 (1994-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 08 (1994-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 08 (1994-08)(IDG Communications)(US).pdf" size="65235612" crc="ed5160f9" md5="5b5c0981c35967fed3f4701c07a55821" sha1="d7ccdd55456464b9151b9cf6dfdb4cabffb5b2df"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 09 (1994-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 09 (1994-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 09 (1994-09)(IDG Communications)(US).pdf" size="72040213" crc="783eae7c" md5="1153b4e43d98895f243cc4dce6e902e6" sha1="2b4898ff7ca94e55061062bbcd36a188a95d5534"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 10 (1994-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 10 (1994-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 10 (1994-10)(IDG Communications)(US).pdf" size="64627426" crc="438b808e" md5="1850a921340afc9e71b27c8bdc73703c" sha1="2c1a35fcb97e1b27f1f96db1881b76ef96b7ea39"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 11 (1994-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 11 (1994-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 11 (1994-11)(IDG Communications)(US).pdf" size="59726208" crc="9289f956" md5="f37f4e26ab54b104e526b19012076351" sha1="77359bd10e59bd6c7d53d103c13ce750a21bccf0"/>
+	</game>
+	<game name="Macworld - Volume 11 Number 12 (1994-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 11 Number 12 (1994-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 11 Number 12 (1994-12)(IDG Communications)(US).pdf" size="68443152" crc="ecc3176b" md5="de24b30ebfb240de9ae9a58d9eb83f6b" sha1="317a0cb4e8efade861b7d02970b4aad2782a30c2"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 01 (1995-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 01 (1995-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 01 (1995-01)(IDG Communications)(US).pdf" size="71021051" crc="a3766393" md5="7d21246c9d0817d43731dc7347bcda35" sha1="024cefbebaf4446b9f6b23e11a92d7de00976e96"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 02 (1995-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 02 (1995-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 02 (1995-02)(IDG Communications)(US).pdf" size="78949232" crc="8663b0f7" md5="8bb56c9dd4fb053265f520ca10df546b" sha1="5280e0384579b40aedd08df40d0f86d9198a438d"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 03 (1995-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 03 (1995-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 03 (1995-03)(IDG Communications)(US).pdf" size="67463654" crc="959dc148" md5="ce41f53176609f437e5388ce4eca7d11" sha1="1aa68fa99821518ad170ce0800ae6c15f9352f72"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 04 (1995-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 04 (1995-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 04 (1995-04)(IDG Communications)(US).pdf" size="68790736" crc="a72ddcd4" md5="f6767491e4d31b8944f32255fbc87cd2" sha1="9c7fd52d1c2c9c8a656523609e1a737d2f55b1b1"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 05 (1995-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 05 (1995-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 05 (1995-05)(IDG Communications)(US).pdf" size="63237583" crc="3eb3689f" md5="e9df4309c37ca38bdca125fe95ee0d67" sha1="ea65d252108972f8b492a2fb05d9c524d1a49868"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 06 (1995-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 06 (1995-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 06 (1995-06)(IDG Communications)(US).pdf" size="63744998" crc="220ba8db" md5="5ec929bd97cafa7f82d1bc7a1571dfaf" sha1="5a8a06848c82fa35566ed4abd1dfe458b084d429"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 07 (1995-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 07 (1995-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 07 (1995-07)(IDG Communications)(US).pdf" size="65903965" crc="37f0d914" md5="370403a34c8758e4ea307069c1dac4bd" sha1="588c8a0a61418f15ee055e794c14bb7e9fbaae85"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 08 (1995-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 08 (1995-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 08 (1995-08)(IDG Communications)(US).pdf" size="73915962" crc="cc41e074" md5="19719d488950848b2be7079c5fcf550b" sha1="9614d654d75f1171b6294383f07b7abf682ae03d"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 09 (1995-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 09 (1995-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 09 (1995-09)(IDG Communications)(US).pdf" size="80038994" crc="2074c8c5" md5="434ab603a958794c1c513cb17238110b" sha1="af52ad17ef233db6178fda4453146db8dda5fe47"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 10 (1995-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 10 (1995-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 10 (1995-10)(IDG Communications)(US).pdf" size="78742909" crc="0c92a32e" md5="21ac40d0e29247765a915b1a50978a34" sha1="daedcdbeda2953bf6ead7ef00dcd7db43c7b9b49"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 11 (1995-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 11 (1995-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 11 (1995-11)(IDG Communications)(US).pdf" size="81134461" crc="88fe271f" md5="729aacfb2f3d5254e7864d09bdd57046" sha1="6e486492d92d253fa04cbd2e09ed8304be7a6de7"/>
+	</game>
+	<game name="Macworld - Volume 12 Number 12 (1995-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 12 Number 12 (1995-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 12 Number 12 (1995-12)(IDG Communications)(US).pdf" size="90636457" crc="75476fb2" md5="a93f63aa00ac188a189ccfd6ad754270" sha1="570ac93744609738027c13dfb005d3265490de68"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 01 (1996-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 01 (1996-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 01 (1996-01)(IDG Communications)(US).pdf" size="70548501" crc="ce0a7bbf" md5="a9eb5095813faab99815b67e84fdabde" sha1="2d143d22936b0a19ee45355965578ba70758c5f2"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 02 (1996-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 02 (1996-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 02 (1996-02)(IDG Communications)(US).pdf" size="69372615" crc="dd3cc054" md5="330a8ebf3614c59f7e5526b6a76fef6d" sha1="ac2e6b17c24004da4c071f19c00a1498653a70dc"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 03 (1996-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 03 (1996-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 03 (1996-03)(IDG Communications)(US).pdf" size="63130057" crc="48a0db06" md5="0ab197f72b425cab8c94320bbedfc092" sha1="892beccbf017aaeb9f558f2df47a3089db5055c3"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 04 (1996-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 04 (1996-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 04 (1996-04)(IDG Communications)(US).pdf" size="64557711" crc="277230a7" md5="31fae9ce69fce149fb309408944b359a" sha1="056c3cafc3a97bc255f44233768e03abd802f320"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 05 (1996-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 05 (1996-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 05 (1996-05)(IDG Communications)(US).pdf" size="61309083" crc="076ad5e2" md5="3d390bfca244ed26afb519cb3a6e2c15" sha1="18b5525ca688fb7cc43f5bf1eade288d6dd86ee7"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 06 (1996-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 06 (1996-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 06 (1996-06)(IDG Communications)(US).pdf" size="69759238" crc="3b1f2616" md5="f44272f09d2a35d3c3038e15f524d12b" sha1="335455437fa9340c4fd508b45c8ab1ccfa5453e3"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 07 (1996-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 07 (1996-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 07 (1996-07)(IDG Communications)(US).pdf" size="59126303" crc="c45dcd83" md5="f30b22b7b64c67115d15f775fa7aff4f" sha1="df0cba677081e73ba4716b867f08dae65145e6f4"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 08 (1996-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 08 (1996-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 08 (1996-08)(IDG Communications)(US).pdf" size="63329760" crc="61998c76" md5="7690a29250c2e823093136600d360f97" sha1="3b6f415b1114a39b4dd0b42b5de0359654210b63"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 09 (1996-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 09 (1996-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 09 (1996-09)(IDG Communications)(US).pdf" size="69047408" crc="e86ba3f6" md5="8022db186f645233e16c296a64d48e45" sha1="00363aaeab218d7b61003af4f82e5bd98cd14963"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 10 (1996-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 10 (1996-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 10 (1996-10)(IDG Communications)(US).pdf" size="62847437" crc="c62c0d18" md5="63fdff7959a1ca27edbb15662e43e9d4" sha1="f7b8bddfbd404c1c9f5028f0f975c79b3a9769bf"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 11 (1996-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 11 (1996-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 11 (1996-11)(IDG Communications)(US).pdf" size="67849959" crc="8c22d2cb" md5="2b4d1e339fc18107308a9aa97747f8ce" sha1="d943d25c7fd51f0b74d0bcac20593d9abce5a439"/>
+	</game>
+	<game name="Macworld - Volume 13 Number 12 (1996-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 13 Number 12 (1996-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 13 Number 12 (1996-12)(IDG Communications)(US).pdf" size="74595817" crc="d5380bf7" md5="a4e66eac36ab4c7076e46c7d9d2aef83" sha1="c41b0550eb09bb9271f1b5a8d813ba898e9aae6d"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 01 (1997-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 01 (1997-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 01 (1997-01)(IDG Communications)(US).pdf" size="73272132" crc="7fb0761b" md5="ae6b4a2393b777438684f1db35fc276d" sha1="5b07eda26a632da7dea8c56c73a1d21876ab630c"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 02 (1997-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 02 (1997-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 02 (1997-02)(IDG Communications)(US).pdf" size="74095481" crc="1292aa8b" md5="c456afc14229cd3bc8c2717e7db8d4a0" sha1="3bc42aa93ecd1c55145045d9159fbd741958e100"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 03 (1997-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 03 (1997-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 03 (1997-03)(IDG Communications)(US).pdf" size="57701326" crc="1db1f6ea" md5="6170570c38b13449c9936231ebf3620f" sha1="82767109705bb148435f2bf0dc743c7176376c82"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 04 (1997-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 04 (1997-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 04 (1997-04)(IDG Communications)(US).pdf" size="59677574" crc="3014cfe7" md5="167fa4fac1cd52e18a93086d89131c80" sha1="a888bd7f521e44b9127e03ea7c4329d6de184cbf"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 05 (1997-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 05 (1997-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 05 (1997-05)(IDG Communications)(US).pdf" size="116145520" crc="f8f7d1d8" md5="cf9985304066a97d45268dc3aefa39d4" sha1="d44fd2c98d6a38cefdbc32e86837b929274a7473"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 06 (1997-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 06 (1997-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 06 (1997-06)(IDG Communications)(US).pdf" size="61211102" crc="d9db90f2" md5="e506c4b7723f16690e92ee81bfef9397" sha1="abdeb4c0972f600ef00df4c99fc81181f0a661ee"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 07 (1997-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 07 (1997-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 07 (1997-07)(IDG Communications)(US).pdf" size="67537199" crc="b73b5e51" md5="10740e75309dee18c507a9fb4bf68cf2" sha1="1a7dcec9c20ecda3fd6823bfab2ff7a5606a133a"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 08 (1997-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 08 (1997-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 08 (1997-08)(IDG Communications)(US).pdf" size="53888717" crc="d20b27e6" md5="02afd8306482347154d3e365d0367a26" sha1="bf280788f0b002559426b54ef75290c21114e981"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 09 (1997-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 09 (1997-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 09 (1997-09)(IDG Communications)(US).pdf" size="55967487" crc="fe9eb8a5" md5="dd0427f72d207e3aff8bffb80e00770b" sha1="f4461f7e03b7bdaecdcea9f138a711d85f35a62f"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 10 (1997-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 10 (1997-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 10 (1997-10)(IDG Communications)(US).pdf" size="52948492" crc="527f2d1e" md5="3a041b331d0d6912c88997f9c60c7493" sha1="406e941dcefa75d3a12c965733e9e48b0bd1d31d"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 11 (1997-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 11 (1997-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 11 (1997-11)(IDG Communications)(US).pdf" size="67344795" crc="91e0d306" md5="a93a4ccbdaebe6587f36ab06d0a3de1e" sha1="d97b22e8bd85bcb05e7c1856e3d44dd5712203f7"/>
+	</game>
+	<game name="Macworld - Volume 14 Number 12 (1997-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 14 Number 12 (1997-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 14 Number 12 (1997-12)(IDG Communications)(US).pdf" size="69832490" crc="a4e2b17b" md5="e960b5b9bc8bb1c137f083a6b346f9d7" sha1="001367ccff7c2cad56a1de71a485e252c8ad0f8b"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 01 (1998-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 01 (1998-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 01 (1998-01)(IDG Communications)(US).pdf" size="71413550" crc="13af1157" md5="091aeec2596598e24a809ea4e34506a3" sha1="6eabe3ac0d674991e3ad7b5c7903ab8561c663a2"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 02 (1998-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 02 (1998-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 02 (1998-02)(IDG Communications)(US).pdf" size="48973108" crc="afea1d72" md5="2a28d4f4e9d64e0f06fb2752d2e29e1a" sha1="83b054a1c4e1af4a83ad3140f726c834acd0c762"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 03 (1998-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 03 (1998-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 03 (1998-03)(IDG Communications)(US).pdf" size="49363253" crc="dbf46daa" md5="8f9d79445f5d7f8043f7bde708cf262e" sha1="78c974679c8e397feb928f912338b604b424031b"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 04 (1998-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 04 (1998-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 04 (1998-04)(IDG Communications)(US).pdf" size="45629308" crc="5518509a" md5="bf1ede5da6ca9c42c793d0419bd12ad6" sha1="d8caa6c57d1452c248369b243517f8048c3e43df"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 05 (1998-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 05 (1998-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 05 (1998-05)(IDG Communications)(US).pdf" size="43323602" crc="9af8248a" md5="0fb29f3885f7cd2a4296ef2589a6dea8" sha1="21dafbc92dd2114aae1f4e01d66f7daf1b9acde1"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 06 (1998-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 06 (1998-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 06 (1998-06)(IDG Communications)(US).pdf" size="38668967" crc="d6648906" md5="e2de2bc57cbf9559c0e73b949d75bb10" sha1="c4740e197c2bcf5bcf3a2e236d0e5a8a909e578e"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 07 (1998-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 07 (1998-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 07 (1998-07)(IDG Communications)(US).pdf" size="39042035" crc="fe69978c" md5="f25a4b1a082780f8889eaedaff4b3d0a" sha1="6db992131a03eb70c02576dc678a4310f481694d"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 08 (1998-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 08 (1998-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 08 (1998-08)(IDG Communications)(US).pdf" size="46319566" crc="246c0693" md5="35120def279d1379dfaa24140e6bdc47" sha1="d7595d2c7b159e731f425b0a96c6acc3eadb9175"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 09 (1998-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 09 (1998-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 09 (1998-01)(IDG Communications)(US).pdf" size="49351098" crc="cd7e05f4" md5="9c71f570e3b362929b62afcfc90f5da4" sha1="641e216a521b76b55d467978ce3a5897511b5239"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 10 (1998-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 10 (1998-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 10 (1998-10)(IDG Communications)(US).pdf" size="43520757" crc="79972290" md5="374b6f1c4dde45b1883602e41048fbb6" sha1="703d539c595335e94f898fa3502416c7299d37b4"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 11 (1998-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 11 (1998-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 11 (1998-11)(IDG Communications)(US).pdf" size="46880371" crc="72381d41" md5="05649e46c71d81fa7d72a6152631bb02" sha1="421edb8e609a97ac66c471b86d8561322acbc1b0"/>
+	</game>
+	<game name="Macworld - Volume 15 Number 12 (1998-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 15 Number 12 (1998-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 15 Number 12 (1998-12)(IDG Communications)(US).pdf" size="53923833" crc="f9b54825" md5="7733eea4cdef6c5a3bbff4aec1746e9c" sha1="9f439d0f39f47c5d39523b160b90dc7b35de74b5"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 01 (1999-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 01 (1999-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 01 (1999-01)(IDG Communications)(US).pdf" size="50834219" crc="55936bc2" md5="703e87dfff024ddb9a2bb00cb5752c73" sha1="a24b6684deb140326846e7d6a7a9744a6eee199c"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 02 (1999-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 02 (1999-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 02 (1999-02)(IDG Communications)(US).pdf" size="48038880" crc="e56fd5e7" md5="df13c3fbc4f695305d0a9ee824cc4642" sha1="1adbeb5fb58916e7001f2ffcaef0645442739955"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 03 (1999-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 03 (1999-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 03 (1999-03)(IDG Communications)(US).pdf" size="38363539" crc="625c3b95" md5="21367df12efa2caf34480665fa4c25b5" sha1="78d7799780dc7249be47d87177c8e30af3f6a171"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 04 (1999-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 04 (1999-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 04 (1999-04)(IDG Communications)(US).pdf" size="39418532" crc="b3296f29" md5="14523bff002723b96155b59915ce084e" sha1="870d94d28ebacd94cece5478aa762621af4f596c"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 05 (1999-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 05 (1999-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 05 (1999-05)(IDG Communications)(US).pdf" size="45549948" crc="9615e329" md5="7223081770100bcdc3567b6550eda0c7" sha1="af9266f7dace7e63d18f9419c8c6d128c91e0a53"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 06 (1999-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 06 (1999-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 06 (1999-06)(IDG Communications)(US).pdf" size="44957327" crc="a985a545" md5="f738f694d54ae29af5e76a8806e24384" sha1="c171fee2b6283f6cea013d3e6daea27b684c3eb3"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 07 (1999-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 07 (1999-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 07 (1999-07)(IDG Communications)(US).pdf" size="44097997" crc="fdc63682" md5="afb18e78b6964c0e40a0679e1c4f2574" sha1="5fc340d94181074c030cd0dc158ee30d30e19fd0"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 08 (1999-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 08 (1999-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 08 (1999-08)(IDG Communications)(US).pdf" size="43696825" crc="fa3abfa6" md5="295d7161be2491d87f2fce1ef8d7612a" sha1="756e627d58aa3d91c706e111b1ccb9840c341fcf"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 09 (1999-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 09 (1999-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 09 (1999-09)(IDG Communications)(US).pdf" size="47787022" crc="a0c8189d" md5="d7ca3f7d5e7643196b5637f767990f4e" sha1="abb158def289a90ec0843735b258043b34605aa8"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 10 (1999-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 10 (1999-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 10 (1999-10)(IDG Communications)(US).pdf" size="42643151" crc="38327fe1" md5="f4750a40cac313e0ed439d00b31d8e0c" sha1="e8cb6f50530e8870a12ee23a34a4f57061be5796"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 11 (1999-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 11 (1999-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 11 (1999-11)(IDG Communications)(US).pdf" size="47302220" crc="a795badb" md5="61f206cd3ba1a37ee8f49a8e6ed53393" sha1="20df0fdcc350ae4b838335c2435c61f9fa9d2ebe"/>
+	</game>
+	<game name="Macworld - Volume 16 Number 12 (1999-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 16 Number 12 (1999-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 16 Number 12 (1999-12)(IDG Communications)(US).pdf" size="47932958" crc="77f3c90a" md5="c58774147171335b316c7bf4a53f1f65" sha1="2bf5a6fa15cb3b16a66a8c8515fcca6a01f429c6"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 01 (2000-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 01 (2000-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 01 (2000-01)(IDG Communications)(US).pdf" size="47312017" crc="2826bbfa" md5="7a74a64f9c2d899bb2f8336f2644ad34" sha1="cd2331461e1612c1efa6c2c95948b809d20fb22f"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 02 (2000-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 02 (2000-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 02 (2000-02)(IDG Communications)(US).pdf" size="50673860" crc="6d132687" md5="26d4d7f7d8dcc3700dfaf85d3a0eaadb" sha1="6b164da984fd14eab3890751894823651ab3fbf8"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 03 (2000-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 03 (2000-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 03 (2000-03)(IDG Communications)(US).pdf" size="46812033" crc="11a521a6" md5="1481dc95df618fab680d580891b8b075" sha1="f1c3cd2e001ac26bb7242b9dedb038a1c655fdbf"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 04 (2000-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 04 (2000-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 04 (2000-04)(IDG Communications)(US).pdf" size="46762188" crc="b6d1035c" md5="9ab8ca5bc615fc025f1c902a262c457f" sha1="884285ac28c9ff4df36a5cc3165c90859d33fb6f"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 05 (2000-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 05 (2000-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 05 (2000-05)(IDG Communications)(US).pdf" size="45762593" crc="4e99641f" md5="8a620343dad164fd8f5b47cab208fdc6" sha1="ef2d31f083d00919dd381ce5b3d1235f0a478785"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 06 (2000-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 06 (2000-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 06 (2000-06)(IDG Communications)(US).pdf" size="44805799" crc="bd6450be" md5="bcddd28e2cab69f8c9b0866ab91d20ba" sha1="51a72221679576dc10bf4e33a41a0b20ef9765d2"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 07 (2000-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 07 (2000-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 07 (2000-07)(IDG Communications)(US).pdf" size="50070837" crc="3669ab06" md5="9d04b1ec8b77538dc04372239b1a1801" sha1="90bcc5246dfe1fdb4f5ea82d0d2523dc5ec89f23"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 08 (2000-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 08 (2000-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 08 (2000-08)(IDG Communications)(US).pdf" size="45138084" crc="07321145" md5="c3ac92b10f10e6ca91af19d0cc94198a" sha1="10a41d56400f3ce9e21d16d487c9ed28b7d7d195"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 09 (2000-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 09 (2000-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 09 (2000-09)(IDG Communications)(US).pdf" size="47631352" crc="0680e30e" md5="e96f3cdd9025a7852064ad30e50dbccb" sha1="ad9477758103b5e732a6114b28642ef709221013"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 10 (2000-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 10 (2000-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 10 (2000-10)(IDG Communications)(US).pdf" size="44340743" crc="ba5a5052" md5="0ff3cafb71545d83b46cf26d2939f537" sha1="93eee446b98977ea3f041469fafe0409311b74bc"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 11 (2000-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 11 (2000-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 11 (2000-11)(IDG Communications)(US).pdf" size="44921616" crc="7c329540" md5="53a6925f181779bef228e4f98b1ff493" sha1="c343be8d6647ab8b7418b08e9bf29b84ca0cd830"/>
+	</game>
+	<game name="Macworld - Volume 17 Number 12 (2000-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 17 Number 12 (2000-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 17 Number 12 (2000-12)(IDG Communications)(US).pdf" size="47653740" crc="e9c52146" md5="902ef3956382d61666a9076af7302fd2" sha1="3c59544bb8b3da5770e9caf3115903ee5e18e1c9"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 01 (2001-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 01 (2001-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 01 (2001-01)(IDG Communications)(US).pdf" size="37942676" crc="51033181" md5="bd27ebafc552df6666c3a1b568de065b" sha1="10163b34fe7c92c4afc2c5ce875f10fe29d7c51b"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 02 (2001-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 02 (2001-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 02 (2001-02)(IDG Communications)(US).pdf" size="40794796" crc="0eff97b7" md5="bc9bb9847c4f7e09902486b49c551992" sha1="b435fe8e65b01b7e428373de0c13d05a22131fd5"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 03 (2001-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 03 (2001-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 03 (2001-03)(IDG Communications)(US).pdf" size="35809477" crc="3ad8ce02" md5="927cc0893e7e4b88476e05818785b21a" sha1="c4aabb1a3cbe372fb0cd9841fd8497e08ce03af5"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 04 (2001-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 04 (2001-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 04 (2001-04)(IDG Communications)(US).pdf" size="31055275" crc="72bd288c" md5="61a8f3fe1f136d9788e7ed4552021389" sha1="e7f750c8bdbc6fea3587e28a116c9cee3e689cf2"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 05 (2001-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 05 (2001-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 05 (2001-05)(IDG Communications)(US).pdf" size="31412873" crc="fca54511" md5="6cd60b5ec5dfb791df58a16811c23e06" sha1="19bde94308d6ddedd159c85123208c040b106512"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 06 (2001-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 06 (2001-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 06 (2001-06)(IDG Communications)(US).pdf" size="30095622" crc="7c1c4eb7" md5="0b8b426cd1e08333f604ee84d12a797d" sha1="c912a8c85d0cc7eb4e353e534c3f335afe7ab0b4"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 07 (2001-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 07 (2001-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 07 (2001-07)(IDG Communications)(US).pdf" size="29465233" crc="3dfe6389" md5="b786147308a8ed02321770564e504550" sha1="8538d901b1e46e0fbde04cffd7fe10b892f00ccc"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 08 (2001-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 08 (2001-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 08 (2001-08)(IDG Communications)(US).pdf" size="31491739" crc="9d6b6e08" md5="034c3a43f37f892d47834c0c3b51ba17" sha1="38451a459fde16193c271c07ac99b2715deeee0e"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 09 (2001-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 09 (2001-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 09 (2001-09)(IDG Communications)(US).pdf" size="81568876" crc="d642c978" md5="b743ec0e2dffee711e699f3be5d47a32" sha1="08b84e4ee3ba3ae2c435fd1d91571497660c553b"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 10 (2001-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 10 (2001-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 10 (2001-10)(IDG Communications)(US).pdf" size="26354281" crc="e26547ce" md5="312ccee4c4f295120fef623991c6b435" sha1="f80bd404c28a1c752cfb71095848784975861f38"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 11 (2001-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 11 (2001-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 11 (2001-11)(IDG Communications)(US).pdf" size="80663302" crc="dbf08946" md5="f83766950acffa19ca379269207b5afb" sha1="00dbdb313e61686ed6434f7e14d3f832bba7bcc7"/>
+	</game>
+	<game name="Macworld - Volume 18 Number 12 (2001-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 18 Number 12 (2001-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 18 Number 12 (2001-12)(IDG Communications)(US).pdf" size="30671366" crc="476ac01c" md5="53f5e46df3952606c3fa680a8609ee1f" sha1="8b72f705af034ea0bfcc69a0a2b675b1a2cc2e8b"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 01 (2002-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 01 (2002-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 01 (2002-01)(IDG Communications)(US).pdf" size="29734464" crc="35bcf2ec" md5="d8f7e1b55318c84f71eba120e7ac412c" sha1="ba14c5202c742e03ef7780de6e83b66728951d5e"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 02 (2002-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 02 (2002-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 02 (2002-02)(IDG Communications)(US).pdf" size="33764039" crc="9c8cdba9" md5="f3ae0f754843cdaf6ee73f2d6b4af080" sha1="42770d9ac7cb501fd192ecf42e5de6a3b1745107"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 03 (2002-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 03 (2002-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 03 (2002-03)(IDG Communications)(US).pdf" size="108064581" crc="4ffe50f1" md5="0e72b7a953f5ef08313b9f4966965687" sha1="88dd477e995cefb224159df0a88bb8b261f3559f"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 04 (2002-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 04 (2002-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 04 (2002-04)(IDG Communications)(US).pdf" size="27936128" crc="06fbf4bd" md5="f793c17807aea6043670819d46dbaff9" sha1="fb9ce1b9f723b5f975193ce27ddb99556bacd075"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 05 (2002-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 05 (2002-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 05 (2002-05)(IDG Communications)(US).pdf" size="27718167" crc="fd3674c3" md5="e9bed9f3bfae085a5b40cb303b9ed0e8" sha1="39dbce8ed108eef73e89710d7c626bddb26f9c89"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 06 (2002-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 06 (2002-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 06 (2002-06)(IDG Communications)(US).pdf" size="30345468" crc="5b9fa5f7" md5="3ce52eb49637017da76719cec76893da" sha1="8cd182883562c5f3c76649023e42a492a9df3831"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 07 (2002-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 07 (2002-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 07 (2002-07)(IDG Communications)(US).pdf" size="29577759" crc="b50f26ba" md5="5bf65ef1b9c3b3fcaeec9db22d583bcd" sha1="6ee6dcadb0a279bbb2575e7bafb8f9a99f5cf68c"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 08 (2002-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 08 (2002-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 08 (2002-08)(IDG Communications)(US).pdf" size="31460601" crc="b16eb980" md5="f4ec3cdce566ac99aed4e86dbe335779" sha1="701a18d459de71f35db4f162f0b57f3faf35d0ce"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 09 (2002-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 09 (2002-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 09 (2002-09)(IDG Communications)(US).pdf" size="30284004" crc="caec8f40" md5="0925cf4f23467ba8817b21e8c4834648" sha1="dc36c65e59eefd9b4cc238268fb962f182eeaa63"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 10 (2002-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 10 (2002-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 10 (2002-10)(IDG Communications)(US).pdf" size="29269368" crc="6b6e81ce" md5="7d0bf81ce99770d85fd1a0ef093944cb" sha1="879055cf2567b8ba2dccbda966b19fe6b686739f"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 11 (2002-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 11 (2002-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 11 (2002-11)(IDG Communications)(US).pdf" size="29302830" crc="644ce23c" md5="8cd5708afff4ae8a43107821883e86eb" sha1="1710c44c11fc357ea37e636665bdebc4b6fefe47"/>
+	</game>
+	<game name="Macworld - Volume 19 Number 12 (2002-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 19 Number 12 (2002-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 19 Number 12 (2002-12)(IDG Communications)(US).pdf" size="29565533" crc="2a839ef3" md5="03d36b4a2bc6bbcc73ac11d4844f8793" sha1="a45805ec5479f58f502285867f2ba0247d3200bb"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 01 (2003-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 01 (2003-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 01 (2003-01)(IDG Communications)(US).pdf" size="28386866" crc="407c6587" md5="19c703aab6ae79862f43e850ce11cd36" sha1="e8b6a930e927e18729186b3a5b94cd8e761b5971"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 02 (2003-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 02 (2003-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 02 (2003-02)(IDG Communications)(US).pdf" size="29359931" crc="2189f9ac" md5="da0dec2a1284f6aea71740af16447eff" sha1="12a55ec4a2fca59b10ecc1ce24465d695ec2991d"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 03 (2003-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 03 (2003-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 03 (2003-03)(IDG Communications)(US).pdf" size="36055222" crc="f0eb6bfd" md5="2c4718694c557ac3fbffff37bcf93905" sha1="27a8d17bd41a1be74351e529708c0366759bf2d2"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 04 (2003-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 04 (2003-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 04 (2003-04)(IDG Communications)(US).pdf" size="30264172" crc="02b887f4" md5="44a4efc4da6cb68658252f5c31ef5dca" sha1="7f51ea6e2dd62e7f579bbd754667483e54caa9a9"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 05 (2003-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 05 (2003-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 05 (2003-05)(IDG Communications)(US).pdf" size="33124530" crc="9116e1ff" md5="8f1bdd20d86c19a76aae21abb6250c75" sha1="34f7eeeb181495f989ba9beb0c40325aac955786"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 06 (2003-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 06 (2003-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 06 (2003-06)(IDG Communications)(US).pdf" size="33512620" crc="67043505" md5="317fa28534bb1f94c421f9c18ffb2451" sha1="c81db9418e1bda141eaae8e4b1ad6bce2bce42e5"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 07 (2003-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 07 (2003-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 07 (2003-07)(IDG Communications)(US).pdf" size="29796317" crc="1d491b15" md5="d080062bd413cc0c53010c6fd178ffdb" sha1="a6cfce9e4892c6e55e48f662a1b53915c1f3f6f3"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 08 (2003-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 08 (2003-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 08 (2003-08)(IDG Communications)(US).pdf" size="33300935" crc="d007ef77" md5="c58e48d5bbb69de74bb23afe9437583d" sha1="85c7f150cc03e0802c9f868bfc419fc251672346"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 09 (2003-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 09 (2003-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 09 (2003-09)(IDG Communications)(US).pdf" size="30983453" crc="e06f58e7" md5="c838c934e8718c3c8315c0f81e3d27b8" sha1="b78b6ffdf02366aa49884e75f20081681834a59b"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 10 (2003-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 10 (2003-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 10 (2003-10)(IDG Communications)(US).pdf" size="31075026" crc="1e9d0e3a" md5="fd578b396e32992e2489f1d103e8c890" sha1="b5600b7a09ce92f7d7a97fe2b323680db64c1159"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 11 (2003-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 11 (2003-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 11 (2003-11)(IDG Communications)(US).pdf" size="30002255" crc="6a669122" md5="8d9211af736e9d9151007b916bf0d48a" sha1="b0790d48ddb1ac4e3f54dbaeeb25085719b3a549"/>
+	</game>
+	<game name="Macworld - Volume 20 Number 12 (2003-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 20 Number 12 (2003-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 20 Number 12 (2003-12)(IDG Communications)(US).pdf" size="30452947" crc="c2c3ed1a" md5="032da5a792ce16dba538bf7822326017" sha1="d1f1a1932b754f6ea28c4f5dd92565f80f3f40df"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 01 (2004-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 01 (2004-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 01 (2004-01)(IDG Communications)(US).pdf" size="30583985" crc="31325053" md5="f07ce63d8ffcff3fa3fd848954a9858c" sha1="6e75ea2fe0e98bcc11ddaa75b24ec77e8cc6cfec"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 02 (2004-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 02 (2004-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 02 (2004-02)(IDG Communications)(US).pdf" size="30928452" crc="0da708a9" md5="d3182df31594065282b3f7af6888be67" sha1="9325561a7122afca32b03852d717e0218985bfee"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 03 (2004-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 03 (2004-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 03 (2004-03)(IDG Communications)(US).pdf" size="27833938" crc="34210578" md5="0a85d1a5e46728b1fefb9eabb50c1b9f" sha1="1c2eff73f332daa5f7367191320bff35f4d5b99e"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 04 (2004-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 04 (2004-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 04 (2004-04)(IDG Communications)(US).pdf" size="14934787" crc="4d9ccbfd" md5="307379d82b5cfe2eb102ab81cdb70ef6" sha1="14ce2886d35e8c09d7c18ffd4ee79b47186e6926"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 04 (2004-04)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 21 Number 04 (2004-04)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 21 Number 04 (2004-04)(IDG Communications)(US)[a].pdf" size="27109758" crc="4280a595" md5="2139353c1bfe6b9e3d75bd94a627a37d" sha1="22dcc98794ba311148b6aeb8403d87770ac71e9a"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 05 (2004-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 05 (2004-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 05 (2004-05)(IDG Communications)(US).pdf" size="36812750" crc="2b6024a6" md5="43b128d9fe0024c52f20ba39b0fc0537" sha1="29327ca489aad2a18ffb510245584dee93835f62"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 06 (2004-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 06 (2004-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 06 (2004-06)(IDG Communications)(US).pdf" size="30948428" crc="fbc6725a" md5="8c2336d53d3577e47bd727b63c7bb6f3" sha1="180b8d8cb2e8073a8776fbb3092baf0b5170bea3"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 07 (2004-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 07 (2004-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 07 (2004-07)(IDG Communications)(US).pdf" size="20154629" crc="0c6b3862" md5="0f6a3bc034ddfa685aad9d7a20563a18" sha1="908e4e28fdb8e642fe293ecbaf5c60d9005c7aa4"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 07 (2004-07)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 21 Number 07 (2004-07)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 21 Number 07 (2004-07)(IDG Communications)(US)[a].pdf" size="29836559" crc="f7239274" md5="4fffba902a5f4118e6cacd4939dfac47" sha1="5b87555b3f700f73fc2f435273fec74f3b76bf14"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 08 (2004-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 08 (2004-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 08 (2004-08)(IDG Communications)(US).pdf" size="29390560" crc="d59cc16f" md5="8c116d429c8acfc26fe8699b5a345b5c" sha1="7602307ee54fb58cbbf84b4342693e6ef48c4774"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 09 (2004-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 09 (2004-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 09 (2004-09)(IDG Communications)(US).pdf" size="28335928" crc="8b6c5471" md5="558238af319c21baced7edc571e42642" sha1="79fa9bbbab8e05a9853f909d6908a7cd8f03db34"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 10 (2004-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 10 (2004-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 10 (2004-10)(IDG Communications)(US).pdf" size="26379382" crc="c24227c8" md5="9bdf10fcc692f2959f68c51242cde7a6" sha1="d550459c07e3d20adf3c59eb7f989e2886627bcc"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 11 (2004-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 11 (2004-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 11 (2004-11)(IDG Communications)(US).pdf" size="28847757" crc="7d87c07e" md5="46d830ebfc47f38593dcf1894b7f5554" sha1="653b6b1534d9ee0c0b7771ee1b85d58f172f7226"/>
+	</game>
+	<game name="Macworld - Volume 21 Number 12 (2004-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 21 Number 12 (2004-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 21 Number 12 (2004-12)(IDG Communications)(US).pdf" size="30828861" crc="83881b45" md5="7359ad7db960a77acf4301a58d7b42dc" sha1="94b8961d7f63c30795f40a19738ba9747c6e9aba"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 01 (2004-01)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 22 Number 01 (2004-01)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 22 Number 01 (2004-01)(IDG Communications)(US)[a].pdf" size="30175173" crc="86d9670e" md5="3d9e0aa54bd34a3f001d5febffa139be" sha1="3bd0d6005afa8729281fb033e2db160bc448edfb"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 01 (2005-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 01 (2005-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 01 (2005-01)(IDG Communications)(US).pdf" size="12590816" crc="2db5bd14" md5="876c4b1ec9e20f5c0775eb9a49f264eb" sha1="699527ff0fb3d3ca7d52209e73f7aa326ddc61b2"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 02 (2004-02)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 22 Number 02 (2004-02)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 22 Number 02 (2004-02)(IDG Communications)(US)[a].pdf" size="29222050" crc="7ed73995" md5="97bb288cef2d807837120a234afb982f" sha1="28dec0d45fe8cd7f62cb82686b17de9a41e3cc8f"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 02 (2005-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 02 (2005-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 02 (2005-02)(IDG Communications)(US).pdf" size="14694133" crc="b08ad57a" md5="068cfde216f64fa96ba0f1f4b4d48c0d" sha1="3c1d80cee8669ed90c9f4f90d02d432bbfaaf9a3"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 03 (2004-03)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 22 Number 03 (2004-03)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 22 Number 03 (2004-03)(IDG Communications)(US)[a].pdf" size="27258116" crc="f21613f0" md5="9c3dc7e09dbcd013d7ca89cbb8ccb385" sha1="4029350aad4d8afb2ea405163173c5ebf6d7e718"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 03 (2005-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 03 (2005-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 03 (2005-03)(IDG Communications)(US).pdf" size="12663221" crc="71209967" md5="050ecf22e46ce4efbd625fc2b94fe8ee" sha1="dea34cec4dc516d07df3161fb23b9ce29cc11ca5"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 04 (2004-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 04 (2004-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 04 (2004-04)(IDG Communications)(US).pdf" size="35231602" crc="b186422b" md5="9ec8fb4bbdbf14a6c1d5f65cf91f055f" sha1="c657a58296e2d8f954549137ee84bc9bda67abaf"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 05 (2004-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 05 (2004-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 05 (2004-05)(IDG Communications)(US).pdf" size="34844938" crc="0def3f9a" md5="1c443d141ce400efce2df4bc8dc261e5" sha1="7b025e6e5aef52d80f4adb4e06c8567df14bf079"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 06 (2004-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 06 (2004-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 06 (2004-06)(IDG Communications)(US).pdf" size="28148823" crc="06db904e" md5="fa0daf7db240227d95895da44ab3eb13" sha1="81b5e0774b0bb598015dbe4dc6e90b914521a6a9"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 07 (2004-07)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 22 Number 07 (2004-07)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 22 Number 07 (2004-07)(IDG Communications)(US)[a].pdf" size="29897454" crc="d161e014" md5="8d07ec51f776becec1c47922b40bf60a" sha1="1612e20c81ed4a2b32d16b3c9ab17105187b9f89"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 07 (2005-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 07 (2005-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 07 (2005-07)(IDG Communications)(US).pdf" size="3831661" crc="b4fccdd5" md5="be86f997bd4d9c80335e64ebebf40050" sha1="825d440a5fdc25e1933b114704220a1924dc72f5"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 08 (2004-08)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 22 Number 08 (2004-08)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 22 Number 08 (2004-08)(IDG Communications)(US)[a].pdf" size="30519133" crc="037b52d7" md5="a2c0e724059792c0003e0145b9a9aeff" sha1="a2928279b77d86ce8db9d58042c8e9d1c515292c"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 08 (2005-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 08 (2005-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 08 (2005-08)(IDG Communications)(US).pdf" size="14748805" crc="7d07e96b" md5="1a5e096168b434dcabf85cddeced5029" sha1="a6d78cf469fac15c2da1b775375c2730011902b2"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 09 (2004-09)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 22 Number 09 (2004-09)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 22 Number 09 (2004-09)(IDG Communications)(US)[a].pdf" size="29284423" crc="88daeb99" md5="4be2b0b85b58406a7fe7407f65556b92" sha1="79de38db767d4d0b4442e2966ebf6f0a4416dcd3"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 09 (2005-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 09 (2005-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 09 (2005-09)(IDG Communications)(US).pdf" size="14155014" crc="94df6c6b" md5="b3a0fd088f81ad00dcb83b107af1fe56" sha1="305d1cddce59943c5cd11f8bea7151ad4cab0cb1"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 10 (2004-10)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 22 Number 10 (2004-10)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 22 Number 10 (2004-10)(IDG Communications)(US)[a].pdf" size="28889813" crc="132d3f4d" md5="c948cc2b460cea9de10165f15bb565b7" sha1="f457442907941dfa9237014d4bf398790551233b"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 10 (2005-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 10 (2005-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 10 (2005-10)(IDG Communications)(US).pdf" size="4726731" crc="7d6c6033" md5="5b652e02f833daa50ca4e8d22e41ba77" sha1="2c34781e222e0731cea60dd7ebabee7c8e776215"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 11 (2004-11)(IDG Communications)(US)[a2]">
+		<description>Macworld - Volume 22 Number 11 (2004-11)(IDG Communications)(US)[a2]</description>
+		<rom name="Macworld - Volume 22 Number 11 (2004-11)(IDG Communications)(US)[a2].pdf" size="30791425" crc="be0bd1e5" md5="a30251e75f1f77ef0e7d281577d616b0" sha1="5dcd208e36d09fdc45bb1b9ec6f9c940711e33fe"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 11 (2005-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 11 (2005-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 11 (2005-11)(IDG Communications)(US).pdf" size="18892593" crc="65e8c5b7" md5="dfb5dbde7be24bfc6145c1462c5e92a0" sha1="bb102ad6a0cba50f3247118b215c99c3dfe93c40"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 11 (2005-11)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 22 Number 11 (2005-11)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 22 Number 11 (2005-11)(IDG Communications)(US)[a].pdf" size="18892593" crc="9f97c495" md5="2a045dac8f3697dbf87bf721d0b0cf1f" sha1="93e2931234c6978f1dc0165473b1d4e79ddfe67c"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 12 (2004-12)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 22 Number 12 (2004-12)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 22 Number 12 (2004-12)(IDG Communications)(US)[a].pdf" size="37624503" crc="50920282" md5="3580544ec6137e6dbfd5903e88985dc9" sha1="6119b7e476fb8e84d8d10413415e22ca05337173"/>
+	</game>
+	<game name="Macworld - Volume 22 Number 12 (2005-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 22 Number 12 (2005-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 22 Number 12 (2005-12)(IDG Communications)(US).pdf" size="7387805" crc="f7b1fdc9" md5="fe009e8363791a8555ea83c969bbb51a" sha1="b15c5f523e2bdaae369e93c73722c45cd204fd3f"/>
+	</game>
+	<game name="Macworld - Volume 23 Number 01 (2006-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 23 Number 01 (2006-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 23 Number 01 (2006-01)(IDG Communications)(US).pdf" size="15065921" crc="96271ac9" md5="8fa8adc29fe60bf0ecf464ac0c24cafa" sha1="646bacd76798e2e6086655af4fc0e3d271cd7c77"/>
+	</game>
+	<game name="Macworld - Volume 23 Number 02 (2006-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 23 Number 02 (2006-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 23 Number 02 (2006-02)(IDG Communications)(US).pdf" size="6150791" crc="a447cd91" md5="46ea8525c81405d9ff158c1e4152d7c2" sha1="21a6f4d76daa71f624570a91ba590f9cd2bf8d49"/>
+	</game>
+	<game name="Macworld - Volume 23 Number 04 (2006-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 23 Number 04 (2006-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 23 Number 04 (2006-04)(IDG Communications)(US).pdf" size="15258611" crc="bde00d1b" md5="5d3b6d4f913f3fc17b7eccca30c5c98f" sha1="1c7b3652bcb65852af4eb6aad60c450010e6e659"/>
+	</game>
+	<game name="Macworld - Volume 23 Number 07 (2006-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 23 Number 07 (2006-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 23 Number 07 (2006-07)(IDG Communications)(US).pdf" size="5261447" crc="0d9373f4" md5="4a3e4c8f075cbbda51edf58b98b79505" sha1="197e1f023bfe301e87df50a077e3655b752ecaa0"/>
+	</game>
+	<game name="Macworld - Volume 23 Number 08 (2006-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 23 Number 08 (2006-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 23 Number 08 (2006-08)(IDG Communications)(US).pdf" size="7681055" crc="776ce96c" md5="e43b92ea7a7ffbecf2795e7c253346b3" sha1="8f656b52f2d25a9c88443128c03b5b621e69680e"/>
+	</game>
+	<game name="Macworld - Volume 23 Number 09 (2006-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 23 Number 09 (2006-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 23 Number 09 (2006-09)(IDG Communications)(US).pdf" size="14283701" crc="54cb123e" md5="ef81a8ac06b04f056109a7b17cb38710" sha1="dab1d8cf61130459f7be19ce71fbaae4fdb9e9be"/>
+	</game>
+	<game name="Macworld - Volume 23 Number 09 (2006-09)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 23 Number 09 (2006-09)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 23 Number 09 (2006-09)(IDG Communications)(US)[a].pdf" size="5621796" crc="7af9706b" md5="8a0a7acd46f104b32c2fac28bfd774b2" sha1="a42b200c2718a0ee6d9f6b4ab6a52e83a0d3535b"/>
+	</game>
+	<game name="Macworld - Volume 23 Number 11 (2006-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 23 Number 11 (2006-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 23 Number 11 (2006-11)(IDG Communications)(US).pdf" size="16708123" crc="d42336e9" md5="912e9a2dc08fd0d8c6401de9ed6f1450" sha1="0756c5071b4eb2cd1c28e290acbade6461f6d30e"/>
+	</game>
+	<game name="Macworld - Volume 23 Number 12 (2006-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 23 Number 12 (2006-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 23 Number 12 (2006-12)(IDG Communications)(US).pdf" size="16219875" crc="81ac5d86" md5="0bcb6b2f1f5e033ff805dbde727b2bb2" sha1="1b3167261bd0a89af9ce4555acbc8a994b96141f"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 01 (2007-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 01 (2007-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 01 (2007-01)(IDG Communications)(US).pdf" size="4404368" crc="28f7590a" md5="81bc5125729d74054d279f0eb748e20d" sha1="f5f6d5f8e5b255b0b50e4fb68911348f73a42907"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 02 (2007-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 02 (2007-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 02 (2007-02)(IDG Communications)(US).pdf" size="20607639" crc="e63c48ce" md5="0397ea1963c2de707e0acf3b9d17b789" sha1="f2f0caee6bbbb80ada885e68e3d49035338f1868"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 03 (2007-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 03 (2007-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 03 (2007-03)(IDG Communications)(US).pdf" size="16356933" crc="689594da" md5="a4d1a7ff94102db96bc3fa13811a0c4e" sha1="9ce5d923c0bd9ea7726554c4a492afe15fc21779"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 04 (2007-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 04 (2007-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 04 (2007-04)(IDG Communications)(US).pdf" size="24640525" crc="27ca3695" md5="1daca77f43464afbea327022a0fffc31" sha1="a2b3cf447b26c6469e83897a09f2a9eec4b113d5"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 05 (2007-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 05 (2007-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 05 (2007-05)(IDG Communications)(US).pdf" size="25384248" crc="b6070962" md5="af961dfb736c2a798e932fbc8a90c4d0" sha1="2e7968f60c0f4c12ba58566d450de126d0e9e58c"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 06 (2007-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 06 (2007-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 06 (2007-06)(IDG Communications)(US).pdf" size="20870004" crc="83c71a92" md5="4943573c836d0798003c0507957a6d54" sha1="d3f6606c8a16b22265b1fafd5169b66aa441af6c"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 07 (2007-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 07 (2007-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 07 (2007-07)(IDG Communications)(US).pdf" size="22438990" crc="87f75fa2" md5="e23bcf3942e06148d764fc4f8a2f4cad" sha1="ed86ccd1e4a0b9e366c740edabd074e4c8f537d9"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 08 (2007-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 08 (2007-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 08 (2007-08)(IDG Communications)(US).pdf" size="22233830" crc="560025c9" md5="2f375b767dadb8012fbe15da27401ed4" sha1="b0fb96c27f83c7d85a7b5a4280baee10a91ab304"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 09 (2007-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 09 (2007-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 09 (2007-09)(IDG Communications)(US).pdf" size="22117483" crc="ff926a4e" md5="c645900eb98da7a384b944e238488f60" sha1="e550cef9acd9601a77fde753c80021b7dcff2480"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 10 (2007-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 10 (2007-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 10 (2007-10)(IDG Communications)(US).pdf" size="22327108" crc="ce042fe3" md5="2702e2fdd93ede6e54bc241527c7cc2a" sha1="2cc3c7b7854e4962364f93b6768ecb66723a76fa"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 11 (2007-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 11 (2007-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 11 (2007-11)(IDG Communications)(US).pdf" size="28390502" crc="c3fda96f" md5="9745f4b2f4dd247c806c07c9947c831c" sha1="8db42619ef22d8f3d2433013c4dd273d3b4c87be"/>
+	</game>
+	<game name="Macworld - Volume 24 Number 12 (2007-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 24 Number 12 (2007-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 24 Number 12 (2007-12)(IDG Communications)(US).pdf" size="27226142" crc="ee7245f7" md5="dc806572d46a67befc1cecc0f5479495" sha1="598c48e70d3c5901ce902ddd5552167ec0278aac"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 01 (2008-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 01 (2008-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 01 (2008-01)(IDG Communications)(US).pdf" size="24178561" crc="a3833818" md5="a883688193d9f50793b9904f306195e8" sha1="44df8a4e5f2353880d109456c950bafa4c938948"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 02 (2008-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 02 (2008-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 02 (2008-02)(IDG Communications)(US).pdf" size="28126794" crc="8bebae94" md5="747b38658e2aa52ddeaf2841f12ec81e" sha1="6d0d4eee974cc7ba09c6b78f59b5fe284939f853"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 03 (2008-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 03 (2008-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 03 (2008-03)(IDG Communications)(US).pdf" size="23328988" crc="27972df5" md5="c5ff718910e02fb471347cc093c8ba72" sha1="60b105959201a07f96fb026d068181c226ac8530"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 04 (2008-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 04 (2008-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 04 (2008-04)(IDG Communications)(US).pdf" size="23272416" crc="32bc50f6" md5="30ae9b5ab0f7deaaeff735f3c054d104" sha1="9adf9dcdeeeb08c9599174a807fdb15beebdaf36"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 05 (2008-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 05 (2008-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 05 (2008-05)(IDG Communications)(US).pdf" size="22783472" crc="9648fe76" md5="24fe479164860a1e4a8b571da4a2cbf6" sha1="1aa95b1a2432cbad69c0c6966c784f9e6a065fce"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 06 (2008-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 06 (2008-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 06 (2008-06)(IDG Communications)(US).pdf" size="24223849" crc="a05924f9" md5="d2fd52c9c8c45eddf45b742641539747" sha1="2773fc0d3c637192397c4c38df9918e91f8393c7"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 07 (2008-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 07 (2008-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 07 (2008-07)(IDG Communications)(US).pdf" size="24712009" crc="0e9874f4" md5="730a2669954895c5a34086ebfc7b6345" sha1="4473bc8ace052f7dd58c84cec4806b86fdd7a46a"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 08 (2008-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 08 (2008-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 08 (2008-08)(IDG Communications)(US).pdf" size="23318257" crc="cdb48bd2" md5="0019e7168b625f7d16bfd7625d665b15" sha1="471590357a41070bf3503752d394f10dbd3d2b0d"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 09 (2008-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 09 (2008-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 09 (2008-09)(IDG Communications)(US).pdf" size="15735160" crc="bb8096e0" md5="1290776cd628e75d4bb1376ade876358" sha1="3c00659d23a50dd31b76efe3dfad310c4df5f498"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 10 (2008-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 10 (2008-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 10 (2008-10)(IDG Communications)(US).pdf" size="23801748" crc="6196548d" md5="d04df040254cebde4631240396a6c086" sha1="0917fa7e047b9944b9cf75c600bcc0c661fc4706"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 11 (2008-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 11 (2008-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 11 (2008-11)(IDG Communications)(US).pdf" size="24098844" crc="e55c6d48" md5="93ab0a93d3f0c5cfcad38afa12b8b3bf" sha1="2f34bcbdf099ee176ba4e461101305c571dbaf96"/>
+	</game>
+	<game name="Macworld - Volume 25 Number 12 (2008-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 25 Number 12 (2008-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 25 Number 12 (2008-12)(IDG Communications)(US).pdf" size="24843606" crc="99e7b167" md5="e3e7c6695ab89a2190f50fcc6c31c7d2" sha1="f3e04b4c232113e9ebc5f75d9e625dc0431102dd"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 01 (2009-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 01 (2009-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 01 (2009-01)(IDG Communications)(US).pdf" size="25680078" crc="d9198e14" md5="85453e999ba8653ccd5f5e1440ebfd6b" sha1="d112c6cf4b7a58d2c700e08e14e87ccb25f522af"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 02 (2009-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 02 (2009-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 02 (2009-02)(IDG Communications)(US).pdf" size="24201124" crc="94c9eaea" md5="5b0301d79eb89cf5af857578f392dd2e" sha1="4581f4ea8eebd03fcb682667a8c53074feefb3d4"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 03 (2009-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 03 (2009-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 03 (2009-03)(IDG Communications)(US).pdf" size="13938415" crc="bf41b070" md5="f34f36e817ea7170b4ec7c08db931b8c" sha1="6b9dbb5f2338b37a5af06b40334d2df86b8fd991"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 04 (2009-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 04 (2009-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 04 (2009-04)(IDG Communications)(US).pdf" size="21245785" crc="2da1120b" md5="bb4a9a5c5e1f0b38bf631ec400d5f866" sha1="90c166eded531f7c65461ad8427d7f3eade9ffa1"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 05 (2009-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 05 (2009-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 05 (2009-05)(IDG Communications)(US).pdf" size="53268423" crc="b492d785" md5="466ae9c1872c3789bbfb5e9fc95d507f" sha1="e1ca17e33ff66feb3337b6e2a6742b9468d2d3de"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 06 (2009-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 06 (2009-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 06 (2009-06)(IDG Communications)(US).pdf" size="43153428" crc="4592fc72" md5="c4c21cf0644ba1617331b1ec0e0a02d7" sha1="89029a989377b04f7b32a34c1ea05d66ffa3cda3"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 07 (2009-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 07 (2009-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 07 (2009-07)(IDG Communications)(US).pdf" size="32008428" crc="af37aefe" md5="93a20237cd9858ce2ef17a28c0a169fe" sha1="d553a2d8e464ee5e70b708c6d940e288f901a6de"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 08 (2009-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 08 (2009-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 08 (2009-08)(IDG Communications)(US).pdf" size="33252522" crc="e8fda57a" md5="9c7a0fbf485368c511ed18507c56dc08" sha1="51bd166770e373e89292c6eff3bee903efb2f246"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 09 (2009-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 09 (2009-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 09 (2009-09)(IDG Communications)(US).pdf" size="24683814" crc="9c983489" md5="56fcaaf9d48b566694bb419b09aaf195" sha1="e32a80a2aab9e87d5940329b93a3a1a82c508bb7"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 10 (2009-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 10 (2009-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 10 (2009-10)(IDG Communications)(US).pdf" size="32452953" crc="ffe616a3" md5="c3c6ad2dcd5ff083e9fbd51378c3ec47" sha1="f5641b30a0f933d521d71fd6ce1b8d90401b5b22"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 11 (2009-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 11 (2009-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 11 (2009-11)(IDG Communications)(US).pdf" size="34073330" crc="3baec2eb" md5="45235938d008cb419d97ab202d2a2721" sha1="bae27888663892efb7318b6f3849cd61e9078064"/>
+	</game>
+	<game name="Macworld - Volume 26 Number 12 (2009-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 26 Number 12 (2009-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 26 Number 12 (2009-12)(IDG Communications)(US).pdf" size="16954451" crc="c241ab56" md5="9a0043c775421b03aafa9f4e4de8d475" sha1="3eea354fb999262d30dced640151fa7de5068c1c"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 01 (2010-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 01 (2010-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 01 (2010-01)(IDG Communications)(US).pdf" size="37996996" crc="35d762c2" md5="2b2caa0e72c270d20ce61a904a0beddb" sha1="06af9b2ba073096a6b4acec5e8d19f2a7d72549c"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 02 (2010-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 02 (2010-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 02 (2010-02)(IDG Communications)(US).pdf" size="47114677" crc="1bcac48e" md5="05a91a8e0500aabaed1542590983a762" sha1="f0474f9685c995344fdd9f806963f8d54613c0d0"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 03 (2010-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 03 (2010-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 03 (2010-03)(IDG Communications)(US).pdf" size="22329982" crc="eb73b169" md5="1db860d23e38e3cc64b74f4956148530" sha1="3f47e3e3e2046439ecbf1460118c916f7ce36761"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 04 (2010-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 04 (2010-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 04 (2010-04)(IDG Communications)(US).pdf" size="26972801" crc="732bea77" md5="0119044a7f094b2050173e5f183518f7" sha1="2ce3ea0ea501f859b2844d2c397cfd710c553a16"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 05 (2010-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 05 (2010-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 05 (2010-05)(IDG Communications)(US).pdf" size="26641745" crc="dba86d89" md5="0489e75b28037113a00c57e702a75caf" sha1="53829bb604fa7cde73aa1f2da88abdc382e45b54"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 06 (2010-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 06 (2010-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 06 (2010-06)(IDG Communications)(US).pdf" size="26005775" crc="9640c124" md5="92ba77f15df8d1322f8a95eefaad19c9" sha1="428b9dff8cbeac496021e9a570bad40f5f2a74a3"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 07 (2010-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 07 (2010-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 07 (2010-07)(IDG Communications)(US).pdf" size="25855301" crc="05165447" md5="bd4989aa82d1e1b55948c952970815cc" sha1="0138290fb2da6c6239c1b5fe9aed6ee9c3e37897"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 08 (2010-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 08 (2010-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 08 (2010-08)(IDG Communications)(US).pdf" size="12033715" crc="24e60c79" md5="3e230adca4a5ae0505fecdb74d828a9d" sha1="16f1249617cf1f24219adefac2d218a1027cc7f2"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 09 (2010-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 09 (2010-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 09 (2010-09)(IDG Communications)(US).pdf" size="41759746" crc="d4ef74da" md5="17b9f2b0aa41da60941a9c11edba83c7" sha1="f8b5823de29eb9d06c2d8c87414f54896646c8d9"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 10 (2010-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 10 (2010-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 10 (2010-10)(IDG Communications)(US).pdf" size="59406104" crc="20bed53b" md5="4ded2a0ed45401eef664fcb15222644e" sha1="27fc175e95878547f4ee8dfe1e794ec39e76b339"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 11 (2010-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 11 (2010-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 11 (2010-11)(IDG Communications)(US).pdf" size="63935320" crc="7e48afb5" md5="172ee8654c995da457bbeb6acc72da49" sha1="e2267aa457a24e35d9ea8fa256c103d12f1675c8"/>
+	</game>
+	<game name="Macworld - Volume 27 Number 12 (2010-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 27 Number 12 (2010-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 27 Number 12 (2010-12)(IDG Communications)(US).pdf" size="26983276" crc="92850e06" md5="4389560b7953227a896b8a0433e869fa" sha1="e826f3728affaabea8be0ef029f4d04435a8db81"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 01 (2011-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 01 (2011-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 01 (2011-01)(IDG Communications)(US).pdf" size="36269733" crc="a4dbb038" md5="7a1e4fdfe9aae7d72d5b961cde955b7d" sha1="cc06dc2006884fea0be46e2c3a7317d27cbac07d"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 02 (2011-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 02 (2011-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 02 (2011-02)(IDG Communications)(US).pdf" size="38804691" crc="ee103c49" md5="fabc43ee1c07d31cfc3f65f26857504b" sha1="8c6834f6fed1bd1eee137231c67f98899a90a648"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 03 (2011-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 03 (2011-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 03 (2011-03)(IDG Communications)(US).pdf" size="37460224" crc="11bec8d2" md5="3227f9ffc22702640250dd7411edc8b2" sha1="82488a842b012bd59eaae2f38db63ce07c420d6a"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 04 (2011-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 04 (2011-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 04 (2011-04)(IDG Communications)(US).pdf" size="70773349" crc="f0c8c4ac" md5="555d3853ef38a29551a3d4d592b3d3d6" sha1="b34d20135aec5b4123b72e4e143851c92879aab5"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 05 (2011-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 05 (2011-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 05 (2011-05)(IDG Communications)(US).pdf" size="31433432" crc="374acd33" md5="e234b90e04dde2e00f2c3fbb630f5e01" sha1="e83b1fba0d41b270d47c97879aa00dc346ee1c10"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 06 (2011-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 06 (2011-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 06 (2011-06)(IDG Communications)(US).pdf" size="71513797" crc="f8308f36" md5="7c5f94f386aac5e4bbfa2c92084be3d6" sha1="eba27a34d8ac747c31088e6ea5c6590a0ecbaac2"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 07 (2011-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 07 (2011-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 07 (2011-07)(IDG Communications)(US).pdf" size="66562680" crc="e04cfffe" md5="9f954c36ccc54e1acc59a84a3e2e692d" sha1="f86868da2350944a4e59e7b8be5c9644479f107e"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 08 (2011-08)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 08 (2011-08)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 08 (2011-08)(IDG Communications)(US).pdf" size="63954860" crc="3c4f23a7" md5="aa9be6470a9646c1cb43dbf9a7c6e1bd" sha1="4c366122860602472d8166719cf70e29fc9e8361"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 08 (2011-08)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 28 Number 08 (2011-08)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 28 Number 08 (2011-08)(IDG Communications)(US)[a].pdf" size="37057038" crc="2d196e06" md5="8768547816e2a94c432cdaed001eb8df" sha1="6de81d34d93d81e6f03ce5f63409eec349d7fdab"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 09 (2011-09)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 28 Number 09 (2011-09)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 28 Number 09 (2011-09)(IDG Communications)(US)[a].pdf" size="34039743" crc="04e6c0e3" md5="73b0a5cad84aa32ce03fa1b9cf9a0bfb" sha1="2f5341b94093a8448da62995c10eb57d92085c59"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 10 (2011-10)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 10 (2011-10)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 10 (2011-10)(IDG Communications)(US).pdf" size="68292959" crc="524c7ba5" md5="1802253eb61fb32522c3e656816a969d" sha1="ea02005ef3536f6cb7e82b3f53577b33bc0b4915"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 11 (2011-11)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 11 (2011-11)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 11 (2011-11)(IDG Communications)(US).pdf" size="73380584" crc="50cea806" md5="699a793e56b031b79142a98d6564069e" sha1="5c9b8f6d57e4826fa4f82bbb918714f47550c18b"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 11 (2011-11)(IDG Communications)(US)[a]">
+		<description>Macworld - Volume 28 Number 11 (2011-11)(IDG Communications)(US)[a]</description>
+		<rom name="Macworld - Volume 28 Number 11 (2011-11)(IDG Communications)(US)[a].pdf" size="37615527" crc="43e6eb2c" md5="f43e0a6997203a127da2ae76285034e1" sha1="fc2c7995dc90565ab86410df96edfa2837668c18"/>
+	</game>
+	<game name="Macworld - Volume 28 Number 12 (2011-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 28 Number 12 (2011-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 28 Number 12 (2011-12)(IDG Communications)(US).pdf" size="95935814" crc="2cad48d1" md5="a8c74d1aceffcc163c2595703df0e3c4" sha1="4b459b207bf02c0117c66b55da732c1ba69bf27c"/>
+	</game>
+	<game name="Macworld - Volume 29 Number 01 (2012-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 29 Number 01 (2012-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 29 Number 01 (2012-01)(IDG Communications)(US).pdf" size="67157087" crc="5b6f21b0" md5="213f4fb57345507dd885e3141e50003c" sha1="ce78dbb1a4658729115f13eeefcf1ff90988f0a6"/>
+	</game>
+	<game name="Macworld - Volume 29 Number 02 (2012-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 29 Number 02 (2012-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 29 Number 02 (2012-02)(IDG Communications)(US).pdf" size="73653590" crc="5f7dc966" md5="96ec1df76b077987223b635845358e34" sha1="92acf7b0f72dbc7649d0e04eb8cdd05cf8ecf048"/>
+	</game>
+	<game name="Macworld - Volume 29 Number 03 (2012-03)(IDG Communications)(US)">
+		<description>Macworld - Volume 29 Number 03 (2012-03)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 29 Number 03 (2012-03)(IDG Communications)(US).pdf" size="66446911" crc="7e7c8ae6" md5="68d2c8df08703dbe1f33077ab1635bc7" sha1="46d6b5e66b018cfbbac091b5d054527429a4793c"/>
+	</game>
+	<game name="Macworld - Volume 29 Number 04 (2012-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 29 Number 04 (2012-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 29 Number 04 (2012-04)(IDG Communications)(US).pdf" size="65651777" crc="0a7087cd" md5="b23a519b75ef1fe079607340a1e6b3bd" sha1="e790f33a45c93b068601d2594234087b16f7e79d"/>
+	</game>
+	<game name="Macworld - Volume 29 Number 05 (2012-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 29 Number 05 (2012-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 29 Number 05 (2012-05)(IDG Communications)(US).pdf" size="65348895" crc="6b99f16f" md5="83ed5de0cb1e3a1bae6a7da5e90a7ddc" sha1="03f9a68ee2a681b2f3ffa9374453750177ded4fd"/>
+	</game>
+	<game name="Macworld - Volume 30 Number 04 (2013-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 30 Number 04 (2013-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 30 Number 04 (2013-04)(IDG Communications)(US).pdf" size="41786569" crc="52267752" md5="5bace643721b71855d0a69428085d22c" sha1="943abc318537f7791dd74a9e93d30d3c5f03f0e3"/>
+	</game>
+	<game name="Macworld - Volume 30 Number 05 (2013-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 30 Number 05 (2013-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 30 Number 05 (2013-05)(IDG Communications)(US).pdf" size="43488293" crc="33f539ef" md5="9fbd2ee9747aca9c6247c44a34cfbf93" sha1="d69d75514ee25e345394188758aa8aa1de84974c"/>
+	</game>
+	<game name="Macworld - Volume 30 Number 09 (2013-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 30 Number 09 (2013-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 30 Number 09 (2013-09)(IDG Communications)(US).pdf" size="102113339" crc="4e0870f9" md5="160bd7207bd46dc4ed7180e3705617cd" sha1="11b7f8207564c90bb6bdc7b5ce74a18ab5fcc08b"/>
+	</game>
+	<game name="Macworld - Volume 30 Number 12 (2013-12)(IDG Communications)(US)">
+		<description>Macworld - Volume 30 Number 12 (2013-12)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 30 Number 12 (2013-12)(IDG Communications)(US).pdf" size="107234954" crc="8d599ad2" md5="fb376cb60f791dd1f16579bc95f5918b" sha1="95d4341577a81bd42febe36720bc39f0223fdf72"/>
+	</game>
+	<game name="Macworld - Volume 31 Number 01 (2014-01)(IDG Communications)(US)">
+		<description>Macworld - Volume 31 Number 01 (2014-01)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 31 Number 01 (2014-01)(IDG Communications)(US).pdf" size="106283297" crc="596b291f" md5="2157710f3479fddce6dc341168f78d23" sha1="c596c148ff2767697b7a4c2361adc45468dab86b"/>
+	</game>
+	<game name="Macworld - Volume 31 Number 02 (2014-02)(IDG Communications)(US)">
+		<description>Macworld - Volume 31 Number 02 (2014-02)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 31 Number 02 (2014-02)(IDG Communications)(US).pdf" size="36853443" crc="cd9c8ced" md5="a6ef4c0b30c64118ed9aa66d6242f941" sha1="26f402dc332c469f53f832c35c6a4c2d2430281b"/>
+	</game>
+	<game name="Macworld - Volume 31 Number 04 (2014-04)(IDG Communications)(US)">
+		<description>Macworld - Volume 31 Number 04 (2014-04)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 31 Number 04 (2014-04)(IDG Communications)(US).pdf" size="104671616" crc="3009eaba" md5="27167ae6d9d68224d161081a9c355795" sha1="0bda11dbbf0e1a7859475d7376d1eb13f2a155e1"/>
+	</game>
+	<game name="Macworld - Volume 31 Number 05 (2014-05)(IDG Communications)(US)">
+		<description>Macworld - Volume 31 Number 05 (2014-05)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 31 Number 05 (2014-05)(IDG Communications)(US).pdf" size="40240435" crc="a60bbe53" md5="7576bfa41b7712fd8a7d124a043a165e" sha1="7e17cf1b38f20c6e584b9bea917ec56d32a1e15d"/>
+	</game>
+	<game name="Macworld - Volume 31 Number 06 (2014-06)(IDG Communications)(US)">
+		<description>Macworld - Volume 31 Number 06 (2014-06)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 31 Number 06 (2014-06)(IDG Communications)(US).pdf" size="47627059" crc="165a36f0" md5="63866ea14f51aa4a8c3a95b263cc4246" sha1="d516a2eb09d6ce86ffff1682a298fb3c743bfc2e"/>
+	</game>
+	<game name="Macworld - Volume 31 Number 07 (2014-07)(IDG Communications)(US)">
+		<description>Macworld - Volume 31 Number 07 (2014-07)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 31 Number 07 (2014-07)(IDG Communications)(US).pdf" size="81931154" crc="8711a451" md5="accb6f7cb5da74418a862b18f44f824c" sha1="74a40dc5fa367dd5148e57dd4f48d0e898626504"/>
+	</game>
+	<game name="Macworld - Volume 31 Number 09 (2014-09)(IDG Communications)(US)">
+		<description>Macworld - Volume 31 Number 09 (2014-09)(IDG Communications)(US)</description>
+		<rom name="Macworld - Volume 31 Number 09 (2014-09)(IDG Communications)(US).pdf" size="15218567" crc="4e6ed99e" md5="bacf05fa8a2e543fb9898055c444e07e" sha1="7c3ec4c9f06d9bc088a5267b1952e7876ab3bf44"/>
+	</game>
+</datafile>

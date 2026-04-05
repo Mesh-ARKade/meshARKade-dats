@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo GameCube - Magazines - Cube (AU)</name>
+		<description>Nintendo GameCube - Magazines - Cube (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Cube - Issue 01 (2002)(Paragon Publishing)(AU)">
+		<description>Cube - Issue 01 (2002)(Paragon Publishing)(AU)</description>
+		<rom name="Cube - Issue 01 (2002)(Paragon Publishing)(AU).pdf" size="243412432" crc="705dd5b8" md5="022b9c140d132e09566295303e4040ad" sha1="d53c2cc208582b2f133e8bb38ea9995abaadd892"/>
+	</game>
+	<game name="Cube - Issue 02 (2002)(Paragon Publishing)(AU)">
+		<description>Cube - Issue 02 (2002)(Paragon Publishing)(AU)</description>
+		<rom name="Cube - Issue 02 (2002)(Paragon Publishing)(AU).pdf" size="258517773" crc="1251bdd2" md5="240986ae50f87199d94d43c60997075d" sha1="16ccef673bac7f4ca8a5cbeb81d3f3e3778fcdd6"/>
+	</game>
+	<game name="Cube - Issue 03 (2002)(Paragon Publishing)(AU)">
+		<description>Cube - Issue 03 (2002)(Paragon Publishing)(AU)</description>
+		<rom name="Cube - Issue 03 (2002)(Paragon Publishing)(AU).pdf" size="259538522" crc="3ebfc3da" md5="5e0977d1763138826255d34961f5a87f" sha1="628632464601933c50ceb9419d0d7c42cd015364"/>
+	</game>
+	<game name="Cube - Issue 04 (2002)(Paragon Publishing)(AU)">
+		<description>Cube - Issue 04 (2002)(Paragon Publishing)(AU)</description>
+		<rom name="Cube - Issue 04 (2002)(Paragon Publishing)(AU).pdf" size="345268726" crc="61603257" md5="c738cb6b88cd004651260f9c9f4ea9ad" sha1="730a1bf77424d7f78634904e9df0126daa09bc6a"/>
+	</game>
+	<game name="Cube - Issue 05 (2002)(Paragon Publishing)(AU)">
+		<description>Cube - Issue 05 (2002)(Paragon Publishing)(AU)</description>
+		<rom name="Cube - Issue 05 (2002)(Paragon Publishing)(AU).pdf" size="366718848" crc="6be978e7" md5="bcc1752baf12a71ce50df4dc38e4317b" sha1="e0c501a6e87463c712aa4b325851be25a6be94b2"/>
+	</game>
+	<game name="Cube - Issue 06 (2002)(Paragon Publishing)(AU)">
+		<description>Cube - Issue 06 (2002)(Paragon Publishing)(AU)</description>
+		<rom name="Cube - Issue 06 (2002)(Paragon Publishing)(AU).pdf" size="339191875" crc="ba162aa5" md5="aed59ddae9a403985fbd696a18d7c8e9" sha1="0442afad74d1f6ff518e1fd491d781ad122dc918"/>
+	</game>
+	<game name="Cube - Issue 07 (2002)(Paragon Publishing)(AU)">
+		<description>Cube - Issue 07 (2002)(Paragon Publishing)(AU)</description>
+		<rom name="Cube - Issue 07 (2002)(Paragon Publishing)(AU).pdf" size="292360293" crc="0022bcca" md5="2fd91cecbc09e62c2532b7eaa71aecd2" sha1="26f74c9def610ac1b3b4659147b03411824f02bc"/>
+	</game>
+	<game name="Cube - Issue 08 (2003)(Paragon Publishing)(AU)">
+		<description>Cube - Issue 08 (2003)(Paragon Publishing)(AU)</description>
+		<rom name="Cube - Issue 08 (2003)(Paragon Publishing)(AU).pdf" size="268611308" crc="4ada02f3" md5="943ce914ec096961e292ef3ad3892f4d" sha1="198548fac836f53e81ce90529a646e800c001a68"/>
+	</game>
+	<game name="Cube - Issue 09 (2003)(Paragon Publishing)(AU)">
+		<description>Cube - Issue 09 (2003)(Paragon Publishing)(AU)</description>
+		<rom name="Cube - Issue 09 (2003)(Paragon Publishing)(AU).pdf" size="317867327" crc="fb4d3007" md5="9b781b65711dfbdd5fd7d1d4e1a966da" sha1="9cdcc2058bb080ed19bd4bcdb6e68c30830988bb"/>
+	</game>
+</datafile>

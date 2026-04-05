@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore - Magazines - Commodore (IT)</name>
+		<description>Commodore - Magazines - Commodore (IT) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Commodore - Anno 1 N.03 (1984-09)(Systems Editoriale)(IT)[a]">
+		<description>Commodore - Anno 1 N.03 (1984-09)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Commodore - Anno 1 N.03 (1984-09)(Systems Editoriale)(IT)[a].pdf" size="302748515" crc="49e143ba" md5="fcb4ee2506acdfcb2d7d5e6233656843" sha1="767a079645d32aa1a60ad64ba2e286c6bad09fa2"/>
+	</game>
+	<game name="Commodore - Anno 1 N.04 (1984-10)(Systems Editoriale)(IT)[a]">
+		<description>Commodore - Anno 1 N.04 (1984-10)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Commodore - Anno 1 N.04 (1984-10)(Systems Editoriale)(IT)[a].pdf" size="173137906" crc="7405b4e3" md5="7846ed14d2053f39f3514c5a1840cb94" sha1="2bbbae0719c8f268879f39863bc601e56f4db238"/>
+	</game>
+	<game name="Commodore - Anno 2 N.10 (1985-06)(Systems Editoriale)(IT)[a]">
+		<description>Commodore - Anno 2 N.10 (1985-06)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Commodore - Anno 2 N.10 (1985-06)(Systems Editoriale)(IT)[a].pdf" size="317686647" crc="a13bc3f3" md5="e68ce06ae91867749dcafafe8a51cc40" sha1="d4d006dd30e2f162ac4eaf5459537554e654aea1"/>
+	</game>
+	<game name="Commodore - Anno 2 N.12 (1985-09)(Systems Editoriale)(IT)[Inserto Commodore]">
+		<description>Commodore - Anno 2 N.12 (1985-09)(Systems Editoriale)(IT)[Inserto Commodore]</description>
+		<rom name="Commodore - Anno 2 N.12 (1985-09)(Systems Editoriale)(IT)[Inserto Commodore].pdf" size="17991989" crc="b5ca642f" md5="b58f4f2b6e6126fca6a2d673fa788864" sha1="ddc0d0b96795c03963b2fcc75be8b71ef31544cc"/>
+	</game>
+	<game name="Commodore - Anno 2 N.13 (1985-10)(Systems Editoriale)(IT)[a]">
+		<description>Commodore - Anno 2 N.13 (1985-10)(Systems Editoriale)(IT)[a]</description>
+		<rom name="Commodore - Anno 2 N.13 (1985-10)(Systems Editoriale)(IT)[a].pdf" size="17736240" crc="f9a4933a" md5="47241efd0857b57876401efba79fc415" sha1="0df6c7e5e46ab9347add274013b1f5f4953f89b1"/>
+	</game>
+</datafile>

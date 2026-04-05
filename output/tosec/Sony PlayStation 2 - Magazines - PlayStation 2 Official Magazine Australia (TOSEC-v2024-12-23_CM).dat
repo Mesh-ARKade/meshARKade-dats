@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - PlayStation 2 Official Magazine Australia</name>
+		<description>Sony PlayStation 2 - Magazines - PlayStation 2 Official Magazine Australia (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 01 (2002-04)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 01 (2002-04)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 01 (2002-04)(Derwent Howard)(AU).pdf" size="229035925" crc="6f102787" md5="b5e145f3a684d2a2be4abd30e1a936eb" sha1="8d30d2301395065f1365571414a137714f9cc962"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 02 (2002-05)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 02 (2002-05)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 02 (2002-05)(Derwent Howard)(AU).pdf" size="177735743" crc="f8fc60d4" md5="8acdb0aef348a0c1ec185b3a912f66f1" sha1="0a6e464948a97671634a4f0b9dea99be2c578e9c"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 03 (2002-06)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 03 (2002-06)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 03 (2002-06)(Derwent Howard)(AU).pdf" size="186376931" crc="38dbc930" md5="30ab431b204fa9fefcd7db9cf845f099" sha1="2d4b43107280ce36f39bc16b869a533aa077596c"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 05 (2002-08)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 05 (2002-08)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 05 (2002-08)(Derwent Howard)(AU).pdf" size="172319035" crc="04580ff5" md5="353dbb5f945fad2e155d8bd829525813" sha1="66c6bd2013c1f887402a1051a8b4f1f134916c62"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 06 (2002-09)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 06 (2002-09)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 06 (2002-09)(Derwent Howard)(AU).pdf" size="280035395" crc="2706e1b7" md5="1ba824dc9daa5aa0718b82b9eef63124" sha1="50667aea002cb43811a1400da22e7473e7aaf795"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 07 (2002-10)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 07 (2002-10)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 07 (2002-10)(Derwent Howard)(AU).pdf" size="230558994" crc="aa4664e7" md5="8436ba50de0064fa123ad9775fa11165" sha1="9cc130ae0f4f5fd45298537e9d4f66bcadba7b72"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 09 (2003-12)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 09 (2003-12)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 09 (2003-12)(Derwent Howard)(AU).pdf" size="259985107" crc="5c99b6ff" md5="74257923450f9b2cd1fde87b76a12712" sha1="c987aa91381ee02abec381c7d95601483453c23a"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 10 (2003-01)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 10 (2003-01)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 10 (2003-01)(Derwent Howard)(AU).pdf" size="210439737" crc="572cd8d6" md5="8006f13d96050872a57daf71ceeeef87" sha1="e7db43fc9cc6fb7e79314e91eed84d4b28699185"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 11 (2003-02)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 11 (2003-02)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 11 (2003-02)(Derwent Howard)(AU).pdf" size="350132729" crc="80ea44ce" md5="13fafae736e165472828adbb0634ae28" sha1="b3e2635061d0802ec4ebf001c8127a7251e2d07f"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 12 (2003-03)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 12 (2003-03)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 12 (2003-03)(Derwent Howard)(AU).pdf" size="177604694" crc="bb4763c1" md5="41364e42b306cc786405a46499fc40d4" sha1="00331b99ee9bccde3305b615ba448e3d3fa282f1"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 13 (2003-04)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 13 (2003-04)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 13 (2003-04)(Derwent Howard)(AU).pdf" size="180430004" crc="edfa5968" md5="4cda24b85dd2557e52d00bd52d5d1ff1" sha1="fc89875b39e483d5c0602efb70c8223b26c0d4a8"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 14 (2003-05)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 14 (2003-05)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 14 (2003-05)(Derwent Howard)(AU).pdf" size="197841850" crc="4d8eb8af" md5="3cfa39f0d1a92414d3f001a14227c700" sha1="379abb174229fe43669a9ca7d965a0ca84f8caa7"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 15 (2003-06)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 15 (2003-06)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 15 (2003-06)(Derwent Howard)(AU).pdf" size="223709394" crc="f7874f2b" md5="d8ac19bef0bd4e9c088b5eeabcbece77" sha1="40fb1a3844a1cd58fe532e1657ea8c5c2a3b1727"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 16 (2003-07)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 16 (2003-07)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 16 (2003-07)(Derwent Howard)(AU).pdf" size="240325101" crc="928f1c67" md5="3f5d05ad96ffedbfca5664a27687585d" sha1="9f32e97e072e1b3d7ddebe3fe70fab263a3c82f4"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 17 (2003-08)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 17 (2003-08)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 17 (2003-08)(Derwent Howard)(AU).pdf" size="289675981" crc="2c021f66" md5="8026e706c581fc39944081d7ce3d479c" sha1="27f250bd6bc3c963128663788c4e09a3f19be064"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 18 (2003-09)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 18 (2003-09)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 18 (2003-09)(Derwent Howard)(AU).pdf" size="323881230" crc="0688eda8" md5="ab74bfae64d8ef34b0bff5d207e5ac24" sha1="44dea7485db1f0bbcbc6d434bc2b305a9821af64"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 24 (2004-02)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 24 (2004-02)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 24 (2004-02)(Derwent Howard)(AU).pdf" size="225457578" crc="ac7d8658" md5="675cb00b0059e89e35f778127a824b64" sha1="83f9ce2deb1383464287d8d3030e9956ffb9fc48"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 25 (2004-03)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 25 (2004-03)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 25 (2004-03)(Derwent Howard)(AU).pdf" size="255199630" crc="af1993e3" md5="fff3c4d5adc63141a618e26218d9f4e1" sha1="3e73ea9ab7320dfd9709729944975817b1f6b4f0"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 26 (2004-04)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 26 (2004-04)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 26 (2004-04)(Derwent Howard)(AU).pdf" size="174965116" crc="61731415" md5="a3e6d47e0fcf2e6d28d36d403029b142" sha1="3138556a995066600c10d5698d99ee781bd0887d"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 27 (2004-05)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 27 (2004-05)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 27 (2004-05)(Derwent Howard)(AU).pdf" size="174763545" crc="a9ac1c66" md5="43e7f137014c41cffa231e3ad0010b8f" sha1="4bad4abccf182992812973707fb1a3bf84a7fcc7"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 28 (2004-06)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 28 (2004-06)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 28 (2004-06)(Derwent Howard)(AU).pdf" size="319524051" crc="e1de6252" md5="d85c6026d95afd50914b400425fd0294" sha1="d0a89d16ff89edfa1cfcda4ee741636470048f73"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 29 (2004-07)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 29 (2004-07)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 29 (2004-07)(Derwent Howard)(AU).pdf" size="324184999" crc="5a61ecd3" md5="172ac28a2545803fa89f8e9a54a8c54d" sha1="91f593c6dc1deb688e73edd53a7f62227c4c0051"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 30 (2004-08)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 30 (2004-08)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 30 (2004-08)(Derwent Howard)(AU).pdf" size="314427323" crc="8ca14fe4" md5="5a859a0a184a74baf4dd5b50f81df893" sha1="83a9a2d5b2f5f9cf9ce5002c0a1e6a60ea144f76"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 31 (2004-09)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 31 (2004-09)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 31 (2004-09)(Derwent Howard)(AU).pdf" size="174541555" crc="e79dc113" md5="cb1d049d1932ea736635eb2b81006909" sha1="7ea51bee25fc2b2f3037e120e7f00271ab3c5ee8"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 32 (2004-10)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 32 (2004-10)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 32 (2004-10)(Derwent Howard)(AU).pdf" size="266385410" crc="c96e3eca" md5="a5e9075e6f2a12b16ae908458ffa77ab" sha1="a63538ff682fa068af37977a830c2a41b8c50330"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 33 (2004-11)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 33 (2004-11)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 33 (2004-11)(Derwent Howard)(AU).pdf" size="322095783" crc="c67f62ee" md5="de187b362af81c445e823599c57fc01a" sha1="f6154577140613a3f9a3e0612bc273f84908f976"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 39 (2005-04)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 39 (2005-04)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 39 (2005-04)(Derwent Howard)(AU).pdf" size="251331982" crc="b7758cb1" md5="936c2c6f6cd69e6dee4444e2c0f0a777" sha1="673c63c9fb12c05682dfcc935fe92f2fc5f9efd9"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 41 (2005-06)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 41 (2005-06)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 41 (2005-06)(Derwent Howard)(AU).pdf" size="302774499" crc="c68dc653" md5="074459859da5343a76687fe3c2d70034" sha1="3f2b1d1aeeca751304ccb989b3e6e32fde707e06"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 42 (2005-07)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 42 (2005-07)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 42 (2005-07)(Derwent Howard)(AU).pdf" size="346460509" crc="1b7eb01c" md5="c52a87742687a1a41c5db48efaea5839" sha1="c58279bf3dbb6dd4f927c635b13be7daf91c29c7"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 43 (2005-08)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 43 (2005-08)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 43 (2005-08)(Derwent Howard)(AU).pdf" size="335145780" crc="10eddc05" md5="b67f14b215a5062ad67ea6d1447464e2" sha1="d6a5dca60c14f2d19d1e850a2c91ab212de0b8e2"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 44 (2005-09)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 44 (2005-09)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 44 (2005-09)(Derwent Howard)(AU).pdf" size="353308088" crc="f5d2fce4" md5="fb571a94b840f7d80050569e04fefc7d" sha1="89524a3c9d83ff862b449817dd82cd76a9f547ea"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 47 (2005-12)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 47 (2005-12)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 47 (2005-12)(Derwent Howard)(AU).pdf" size="337458063" crc="f370a549" md5="86bc61b30b9d53ea11a09771203aaae9" sha1="b1eb6a1a313933c96c74b3ae26941fe880655eec"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 56 (2006-08)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 56 (2006-08)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 56 (2006-08)(Derwent Howard)(AU).pdf" size="339463487" crc="33f3429f" md5="bf4af3995e7e21cf7f21e6146ea4bb68" sha1="3d89e139e081cde43c4c7a0f86bbf2a04a79120c"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 57 (2006-09)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 57 (2006-09)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 57 (2006-09)(Derwent Howard)(AU).pdf" size="264327105" crc="b4e15262" md5="49ee61bccd916129080b82b9bcb5a90e" sha1="1ad8ef7ef086cdf6ec6b4cbc43a66c8c6656e788"/>
+	</game>
+	<game name="PlayStation 2 Official Magazine Australia - Issue 58 (2006-10)(Derwent Howard)(AU)">
+		<description>PlayStation 2 Official Magazine Australia - Issue 58 (2006-10)(Derwent Howard)(AU)</description>
+		<rom name="PlayStation 2 Official Magazine Australia - Issue 58 (2006-10)(Derwent Howard)(AU).pdf" size="279168220" crc="0a6eb66b" md5="134c64e6cb1e143d193cea0fc17adfb1" sha1="6c73daeb89969a3b45787422005e9a72dbf45402"/>
+	</game>
+</datafile>

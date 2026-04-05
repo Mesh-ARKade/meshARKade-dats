@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - TableTop Gaming (GB)</name>
+		<description>Multi-format - Magazines - TableTop Gaming (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Tabletop Gaming (2017-12)(Warners)(GB)">
+		<description>Tabletop Gaming (2017-12)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2017-12)(Warners)(GB).pdf" size="34426757" crc="a190b4a3" md5="315cd88064b029bb566614ba1947f1b5" sha1="59796f2a6d4d544a0358bac493f289631c665e54"/>
+	</game>
+	<game name="Tabletop Gaming (2018-01)(Warners)(GB)">
+		<description>Tabletop Gaming (2018-01)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2018-01)(Warners)(GB).pdf" size="42948142" crc="179632cc" md5="44b9b10efc83bc298cf984fe6b3f51e9" sha1="93616c83cefcf6f825f756a1c734d7da5fa12f50"/>
+	</game>
+	<game name="Tabletop Gaming (2018-03)(Warners)(GB)">
+		<description>Tabletop Gaming (2018-03)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2018-03)(Warners)(GB).pdf" size="37249976" crc="417dee69" md5="abe969322d17e4bb6965c4078ad4b1b9" sha1="c5ee72461d3aac5f647b4d3f597b0b2ff1b78e7c"/>
+	</game>
+	<game name="Tabletop Gaming (2018-04)(Warners)(GB)">
+		<description>Tabletop Gaming (2018-04)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2018-04)(Warners)(GB).pdf" size="37645703" crc="67179514" md5="8ee12794f76fe4af37273951ecc17017" sha1="9bafb912a8448529ff9611942ed9151abe245383"/>
+	</game>
+	<game name="Tabletop Gaming (2018-06)(Warners)(GB)">
+		<description>Tabletop Gaming (2018-06)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2018-06)(Warners)(GB).pdf" size="34763749" crc="dba9a221" md5="0c9058f03aee5e4b0b81c10e4e2a10b9" sha1="ea65bcc461d140507e0b1f4b80630067ff267776"/>
+	</game>
+	<game name="Tabletop Gaming (2018-07)(Warners)(GB)">
+		<description>Tabletop Gaming (2018-07)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2018-07)(Warners)(GB).pdf" size="32109781" crc="c2fbf6e8" md5="11f2dfd871b8806e1ba62c6cafef87ab" sha1="b8e7f98da66d2fdf1f521612896415a0bad75d6c"/>
+	</game>
+	<game name="Tabletop Gaming (2018-08)(Warners)(GB)">
+		<description>Tabletop Gaming (2018-08)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2018-08)(Warners)(GB).pdf" size="32858865" crc="d107e500" md5="7e75a9d8aac8fbe739826c74dbaeacd3" sha1="174a9dd577c3a08ca198bc196c802543aedd8555"/>
+	</game>
+	<game name="Tabletop Gaming (2018-10)(Warners)(GB)">
+		<description>Tabletop Gaming (2018-10)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2018-10)(Warners)(GB).pdf" size="39060594" crc="7171c52c" md5="81c386fd28f344cf7a1ed41a0eca8ea3" sha1="b5764d3ea157c950028bab2c0461c52db346bc99"/>
+	</game>
+	<game name="Tabletop Gaming (2018-11)(Warners)(GB)">
+		<description>Tabletop Gaming (2018-11)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2018-11)(Warners)(GB).pdf" size="33072949" crc="f7572eac" md5="8c54414518de04b34721d4eb4bd1e3e1" sha1="3052f2c177110fde63ddfa691843c3505601aa58"/>
+	</game>
+	<game name="Tabletop Gaming (2018-12)(Warners)(GB)">
+		<description>Tabletop Gaming (2018-12)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2018-12)(Warners)(GB).pdf" size="32775596" crc="dbb69810" md5="38ccf01531caeb9986283c2c943ea02a" sha1="2ea49c830df979082e82907a3124491b1007e5dd"/>
+	</game>
+	<game name="Tabletop Gaming (2019-01)(Warners)(GB)">
+		<description>Tabletop Gaming (2019-01)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2019-01)(Warners)(GB).pdf" size="35015328" crc="14271695" md5="2924abd315649e573d1c4b13d8403613" sha1="224cc52974eb63bb8b2de537092c5b491953a453"/>
+	</game>
+	<game name="Tabletop Gaming (2019-02)(Warners)(GB)">
+		<description>Tabletop Gaming (2019-02)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming (2019-02)(Warners)(GB).pdf" size="33905344" crc="f93f3aae" md5="1348191e698ea53ae2beaa9898fdbe15" sha1="28b9aca64e4da3384b98ba52944864b85e3eb269"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 01 (2015)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 01 (2015)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 01 (2015)(Warners)(GB).pdf" size="42457929" crc="7a58a2dd" md5="4cc5c9e67a5f0bc5b03f502d1f6eb0e5" sha1="439d9c3993e34e34b9cff5dea02a299eb176ee5d"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 02 (2015)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 02 (2015)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 02 (2015)(Warners)(GB).pdf" size="36634038" crc="11f76983" md5="fc06e43f2fc434f294072baf71ed54e0" sha1="cbad6c877a9817188a91ab0e1734824dcfa73a8a"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 03 (2015)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 03 (2015)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 03 (2015)(Warners)(GB).pdf" size="39300740" crc="a59cb0df" md5="a1b0fb2b39b42f8243160aa9974020a0" sha1="a7b36544a42622aa5e95d87cbf5e581777da591f"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 04 (2016)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 04 (2016)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 04 (2016)(Warners)(GB).pdf" size="35464027" crc="212f6ea3" md5="fa5a558e938509b9421f8ed3fd6f2d79" sha1="cd0d69c19faa98de7f6bdff618eee0bc74af583a"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 05 (2016)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 05 (2016)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 05 (2016)(Warners)(GB).pdf" size="67983977" crc="a8c34b94" md5="adf9959d603033d1ce40f96fb614cfdb" sha1="e9aa9efda001a44f6dac4b87479bb098ed7105bd"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 06 (2016)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 06 (2016)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 06 (2016)(Warners)(GB).pdf" size="33457706" crc="aaf3fc88" md5="bac5afac8be9fa27ace6c0ef228a54cc" sha1="f02f5f9e44581915d1c0124bbe1f311cdcc2338c"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 07 (2016)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 07 (2016)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 07 (2016)(Warners)(GB).pdf" size="38436898" crc="129ddd9b" md5="131b338b67d2b6689622b6edf50c4f47" sha1="8743718969d9e6f43a5ff333b692478c40292657"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 08 (2017)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 08 (2017)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 08 (2017)(Warners)(GB).pdf" size="36308514" crc="0aadc744" md5="f164e2284b3f706ace13d129d90b9461" sha1="6c606b11f1a77fa6d4716a861343600ea29abd9d"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 09 (2017-05)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 09 (2017-05)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 09 (2017-05)(Warners)(GB).pdf" size="38704475" crc="7fffdf1f" md5="431797dda5314b312ab8b68ba9cfc250" sha1="b30366c5e16c3326e9ebc6bd63a508cd24745abc"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 10 (2017-07)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 10 (2017-07)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 10 (2017-07)(Warners)(GB).pdf" size="42972003" crc="6542dae9" md5="ff03dc52560f995de58bbd38d4a20bd9" sha1="1c476488bb5fadd1e788e6279b5983333c375cbe"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 11 (2017-09)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 11 (2017-09)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 11 (2017-09)(Warners)(GB).pdf" size="41622666" crc="348701fe" md5="0e8421c7bd5d32085c980f825a3b6ebc" sha1="38713a1af58a9030d6835ef0f91a1cc3c588acef"/>
+	</game>
+	<game name="Tabletop Gaming - Issue 12 (2017-11)(Warners)(GB)">
+		<description>Tabletop Gaming - Issue 12 (2017-11)(Warners)(GB)</description>
+		<rom name="Tabletop Gaming - Issue 12 (2017-11)(Warners)(GB).pdf" size="41917501" crc="326a2188" md5="d4c7cc4b4ed8d4d764e8c61846e4095d" sha1="344dfe2e68418d6232e6029242e7ff1bb1f46451"/>
+	</game>
+</datafile>

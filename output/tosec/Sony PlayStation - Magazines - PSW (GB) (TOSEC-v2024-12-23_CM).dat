@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PSW (GB)</name>
+		<description>Sony PlayStation - Magazines - PSW (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PSW - Issue 00 (1999-12)(Computec Media)(GB)">
+		<description>PSW - Issue 00 (1999-12)(Computec Media)(GB)</description>
+		<rom name="PSW - Issue 00 (1999-12)(Computec Media)(GB).pdf" size="85577489" crc="b7798624" md5="5f5c00f1fa55b7421c3e984441862cad" sha1="f58976e03066b2660c4645d86671d69e5c3c71af"/>
+	</game>
+</datafile>

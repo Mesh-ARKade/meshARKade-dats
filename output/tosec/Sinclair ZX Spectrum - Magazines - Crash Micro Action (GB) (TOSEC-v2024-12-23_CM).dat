@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - Crash Micro Action (GB)</name>
+		<description>Sinclair ZX Spectrum - Magazines - Crash Micro Action (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Crash - Annual 2019 (2019)(Fusion Retro Books)(GB)">
+		<description>Crash - Annual 2019 (2019)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash - Annual 2019 (2019)(Fusion Retro Books)(GB).pdf" size="177816831" crc="641376d1" md5="92cdb34176ddba5adcdd6b2881043bcc" sha1="89a85df2e72b9c089991f1f00ba459891f84436b"/>
+	</game>
+	<game name="Crash Micro Action - No 01 (2020-12)(Fusion Retro Books)(GB)">
+		<description>Crash Micro Action - No 01 (2020-12)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash Micro Action - No 01 (2020-12)(Fusion Retro Books)(GB).pdf" size="11595756" crc="144f3d43" md5="a9154eeaa21f693121b1410896167a82" sha1="93954dffa5f00da5eb94c460f0679c25151c9654"/>
+	</game>
+	<game name="Crash Micro Action - No 02 (2021-02)(Fusion Retro Books)(GB)">
+		<description>Crash Micro Action - No 02 (2021-02)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash Micro Action - No 02 (2021-02)(Fusion Retro Books)(GB).pdf" size="12796971" crc="92ff559b" md5="de811138923e870a9ed5c418a02e416e" sha1="3f5db36bacfea3ea609b638e51146aab0bb474e0"/>
+	</game>
+	<game name="Crash Micro Action - No 03 (2021-04)(Fusion Retro Books)(GB)">
+		<description>Crash Micro Action - No 03 (2021-04)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash Micro Action - No 03 (2021-04)(Fusion Retro Books)(GB).pdf" size="13114444" crc="fc681d2b" md5="729a234e769585c1ee0705a568d3e12f" sha1="6edcd9508919104ca3c6536b7b652b85423b5929"/>
+	</game>
+	<game name="Crash Micro Action - No 04 (2021-07)(Fusion Retro Books)(GB)">
+		<description>Crash Micro Action - No 04 (2021-07)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash Micro Action - No 04 (2021-07)(Fusion Retro Books)(GB).pdf" size="12427670" crc="ab7c3f6c" md5="6e90be96438cf98eeafd3385e3e049a8" sha1="896302df76feb5f33c406d663bbc903d59421714"/>
+	</game>
+	<game name="Crash Micro Action - No 05 (2021-09)(Fusion Retro Books)(GB)">
+		<description>Crash Micro Action - No 05 (2021-09)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash Micro Action - No 05 (2021-09)(Fusion Retro Books)(GB).pdf" size="54945333" crc="c1e099a4" md5="939aba6d63397a4c1806285cc5eb0faa" sha1="6f5bd3b262a5374cc53f72eb1b4ca26222f209fa"/>
+	</game>
+	<game name="Crash Micro Action - No 06 (2021-11)(Fusion Retro Books)(GB)">
+		<description>Crash Micro Action - No 06 (2021-11)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash Micro Action - No 06 (2021-11)(Fusion Retro Books)(GB).pdf" size="35316795" crc="6b5c6b1b" md5="30dab1298e1aaa1da2954ee1cc60e8b9" sha1="4d8675ccf0ca82d2b4ea3ca4ad0ed33158f61a77"/>
+	</game>
+	<game name="Crash Micro Action - No 07 (2022-01)(Fusion Retro Books)(GB)">
+		<description>Crash Micro Action - No 07 (2022-01)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash Micro Action - No 07 (2022-01)(Fusion Retro Books)(GB).pdf" size="53304521" crc="57539340" md5="1fdded43b598424afcca43576903e02e" sha1="6da087390760ba455bcd3bb6389a49169ef3d7b3"/>
+	</game>
+	<game name="Crash Micro Action - No 08 (2022-03)(Fusion Retro Books)(GB)">
+		<description>Crash Micro Action - No 08 (2022-03)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash Micro Action - No 08 (2022-03)(Fusion Retro Books)(GB).pdf" size="52602103" crc="7502f9fb" md5="af2a94511285226946e91819d0207011" sha1="5851e2409b9657b63e6b9559bdec377fa9b20bb2"/>
+	</game>
+	<game name="Crash Micro Action - No 09 (2022-05)(Fusion Retro Books)(GB)">
+		<description>Crash Micro Action - No 09 (2022-05)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash Micro Action - No 09 (2022-05)(Fusion Retro Books)(GB).pdf" size="53839829" crc="e76ffe3e" md5="5b90809b46153e721699ff27e00ec149" sha1="3e343e4f0b134d3b6d79edaca4753f88f8c1cde6"/>
+	</game>
+	<game name="Crash Micro Action - No 10 (2022-07)(Fusion Retro Books)(GB)">
+		<description>Crash Micro Action - No 10 (2022-07)(Fusion Retro Books)(GB)</description>
+		<rom name="Crash Micro Action - No 10 (2022-07)(Fusion Retro Books)(GB).pdf" size="51046810" crc="942ba624" md5="70578f6f6315514db66adb8c55ae654f" sha1="da962c0f1df312b40fbcc4188348b45f7da12cba"/>
+	</game>
+</datafile>

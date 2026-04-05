@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - RUN (IT)</name>
+		<description>Sinclair ZX Spectrum - Magazines - RUN (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="RUN - Anno 1 N.01 (1983-11)(Aquarius)(IT)">
+		<description>RUN - Anno 1 N.01 (1983-11)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 1 N.01 (1983-11)(Aquarius)(IT).pdf" size="5965377" crc="414be4de" md5="f78a39660db6bf5928e352939ff157e8" sha1="0b1db19c2a2f4cb7b2b1da69a8526825005bf3f6"/>
+	</game>
+	<game name="RUN - Anno 2 N.02 (1984-01)(Aquarius)(IT)">
+		<description>RUN - Anno 2 N.02 (1984-01)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 2 N.02 (1984-01)(Aquarius)(IT).pdf" size="15408689" crc="81ee29f3" md5="f99bb9635e3805a01569a679e44f6c97" sha1="82d9b5c565515fbdd257715d833bec63db7430ee"/>
+	</game>
+	<game name="RUN - Anno 2 N.03 (1984-03)(Aquarius)(IT)">
+		<description>RUN - Anno 2 N.03 (1984-03)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 2 N.03 (1984-03)(Aquarius)(IT).pdf" size="17398529" crc="27617646" md5="d6ed5a1b79b57e3cab199bb871155935" sha1="6a1b481f0f6286dfa0a4d0340e86a4e1c012859c"/>
+	</game>
+	<game name="RUN - Anno 2 N.04 (1984-05)(Aquarius)(IT)">
+		<description>RUN - Anno 2 N.04 (1984-05)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 2 N.04 (1984-05)(Aquarius)(IT).pdf" size="19347854" crc="4869d6ff" md5="4f79d25e537b963c69666cd7890ecbb5" sha1="144cc542d044bfedd5af9115eafc606694a578d3"/>
+	</game>
+	<game name="RUN - Anno 2 N.05 (1984-07)(Aquarius)(IT)">
+		<description>RUN - Anno 2 N.05 (1984-07)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 2 N.05 (1984-07)(Aquarius)(IT).pdf" size="20959695" crc="b37c5abe" md5="11ddd3cf20452fc4e42855f143f8816c" sha1="29f125016395e09e2da7edc540648d66782f53e4"/>
+	</game>
+	<game name="RUN - Anno 2 N.06 (1984-09)(Aquarius)(IT)">
+		<description>RUN - Anno 2 N.06 (1984-09)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 2 N.06 (1984-09)(Aquarius)(IT).pdf" size="22341135" crc="cfc4e841" md5="65e45597b7ee2ad31c64915d5b00b84f" sha1="eaa65e2a8dbe786e3310d6a0597d1ea08847c019"/>
+	</game>
+	<game name="RUN - Anno 2 N.07 (1984-11)(Aquarius)(IT)">
+		<description>RUN - Anno 2 N.07 (1984-11)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 2 N.07 (1984-11)(Aquarius)(IT).pdf" size="24655441" crc="c3148320" md5="de20aa18401c2228d93a2bfb8549b74b" sha1="1f34539cb237517ed7f9ec2d2cf1950408677341"/>
+	</game>
+	<game name="RUN - Anno 3 N.08 (1985-01)(Aquarius)(IT)">
+		<description>RUN - Anno 3 N.08 (1985-01)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 3 N.08 (1985-01)(Aquarius)(IT).pdf" size="24999177" crc="a5560d2b" md5="4bc442ecbe8a1d06dba9ae3e569892be" sha1="7f1e17c0f873449b6a18f7b7ff793bb4343dbb26"/>
+	</game>
+	<game name="RUN - Anno 3 N.09 (1985-03)(Aquarius)(IT)">
+		<description>RUN - Anno 3 N.09 (1985-03)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 3 N.09 (1985-03)(Aquarius)(IT).pdf" size="25571072" crc="b27308c3" md5="8c0ff1da8347cea25fa5262727b2766a" sha1="0bb07249d5bf3a602b01943813c266db9f429c46"/>
+	</game>
+	<game name="RUN - Anno 3 N.10-11 (1985-06)(Aquarius)(IT)">
+		<description>RUN - Anno 3 N.10-11 (1985-06)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 3 N.10-11 (1985-06)(Aquarius)(IT).pdf" size="24250517" crc="5285144b" md5="866cf3e363213704f5e665c118fff581" sha1="55629535fd0f0c9d8f98622c5f650348a7ae8f21"/>
+	</game>
+	<game name="RUN - Anno 3 N.12 (1985-10)(Aquarius)(IT)">
+		<description>RUN - Anno 3 N.12 (1985-10)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 3 N.12 (1985-10)(Aquarius)(IT).pdf" size="23673603" crc="aa02e523" md5="9182e558b1fef61fcb70bc6963adfee1" sha1="7eb7657d0c82479bb721a806e0179cc1ad2ef5eb"/>
+	</game>
+	<game name="RUN - Anno 3 N.13 (1985-12)(Aquarius)(IT)">
+		<description>RUN - Anno 3 N.13 (1985-12)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 3 N.13 (1985-12)(Aquarius)(IT).pdf" size="34432760" crc="08baed20" md5="3d8c4921240eadf5224c3e3a29133106" sha1="3f448afd42d8d9ad79ba67fd74fdb7cbbbc5e379"/>
+	</game>
+	<game name="RUN - Anno 4 N.14 (1986-02)(Aquarius)(IT)">
+		<description>RUN - Anno 4 N.14 (1986-02)(Aquarius)(IT)</description>
+		<rom name="RUN - Anno 4 N.14 (1986-02)(Aquarius)(IT).pdf" size="22387094" crc="97f2cbf3" md5="212808eee6ceae3cb664a13bb05ee1e6" sha1="2bb10b52b09f6d4cee59881e3d08976353b5e827"/>
+	</game>
+	<game name="RUN Speciale Camel Trophy - Anno 3 N.12 (1985-10)(Aquarius)(IT)[supplement RUN n.12]">
+		<description>RUN Speciale Camel Trophy - Anno 3 N.12 (1985-10)(Aquarius)(IT)[supplement RUN n.12]</description>
+		<rom name="RUN Speciale Camel Trophy - Anno 3 N.12 (1985-10)(Aquarius)(IT)[supplement RUN n.12].pdf" size="3158803" crc="d1f19821" md5="893d1fd2a7224cf1ab0d8d391672dd31" sha1="0c320cc33aae467800134d7de7bcc51634d61bdc"/>
+	</game>
+</datafile>

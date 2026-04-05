@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - Sinclair User (GB)</name>
+		<description>Sinclair ZX Spectrum - Magazines - Sinclair User (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sinclair User - Complete ZX Companion (1983)(ECC)(GB)">
+		<description>Sinclair User - Complete ZX Companion (1983)(ECC)(GB)</description>
+		<rom name="Sinclair User - Complete ZX Companion (1983)(ECC)(GB).pdf" size="189628695" crc="031b7233" md5="b00d73053fcae5e337985f68c3d7d737" sha1="96b95fe5f92d77824677c957a06f927a8b2d809f"/>
+	</game>
+	<game name="Sinclair User - Issue 033 (1984-12)(EMAP Business &amp; Computer)(GB)">
+		<description>Sinclair User - Issue 033 (1984-12)(EMAP Business &amp; Computer)(GB)</description>
+		<rom name="Sinclair User - Issue 033 (1984-12)(EMAP Business &amp; Computer)(GB).pdf" size="354765892" crc="153b564f" md5="b2569e32f0805ff2ffe803fe1fc6f5ef" sha1="b149832b2c94a7acf99627de1d43da1fa7813ac7"/>
+	</game>
+</datafile>

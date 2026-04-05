@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Home Computer Course, The (GB)</name>
+		<description>Multi-format - Magazines - Home Computer Course, The (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Home Computer Course, The - No. 1-2 (1983)(Orbis Publishing)(GB)">
+		<description>Home Computer Course, The - No. 1-2 (1983)(Orbis Publishing)(GB)</description>
+		<rom name="Home Computer Course, The - No. 1-2 (1983)(Orbis Publishing)(GB).pdf" size="68074249" crc="af438f11" md5="7cd1a2b543c9c1e91cbe789e81d0c4d1" sha1="ebbd312a310ba73423eeea4243d757b711f13eaa"/>
+	</game>
+	<game name="Home Computer Course, The - No. 3 (1983)(Orbis Publishing)(GB)">
+		<description>Home Computer Course, The - No. 3 (1983)(Orbis Publishing)(GB)</description>
+		<rom name="Home Computer Course, The - No. 3 (1983)(Orbis Publishing)(GB).pdf" size="34169369" crc="256255c6" md5="c4267ede10b3bdf362fd2fd49cb4ce52" sha1="2a58a1d5bc338dd176be79ced3627de1fa3a19a2"/>
+	</game>
+	<game name="Home Computer Course, The - No. 4 (1983)(Orbis Publishing)(GB)">
+		<description>Home Computer Course, The - No. 4 (1983)(Orbis Publishing)(GB)</description>
+		<rom name="Home Computer Course, The - No. 4 (1983)(Orbis Publishing)(GB).pdf" size="37157907" crc="f5a219a8" md5="69d7ca4f843e2948a70365efb414b28c" sha1="2b1d1051c5ff527b26424408924f322fa408b6c7"/>
+	</game>
+	<game name="Home Computer Course, The - No. 5 (1983)(Orbis Publishing)(GB)">
+		<description>Home Computer Course, The - No. 5 (1983)(Orbis Publishing)(GB)</description>
+		<rom name="Home Computer Course, The - No. 5 (1983)(Orbis Publishing)(GB).pdf" size="41250024" crc="7b8e3b60" md5="635a85f58d04b44472d07a882842cb1f" sha1="1dfd32536267521410fef5bc0c4e893548fa7bff"/>
+	</game>
+</datafile>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore - Magazines - Commodore Magazine (AU)</name>
+		<description>Commodore - Magazines - Commodore Magazine (AU) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Commodore Magazine - Vol 02 Issue 01 (1982-05)(Computer Reference Guide)(AU)">
+		<description>Commodore Magazine - Vol 02 Issue 01 (1982-05)(Computer Reference Guide)(AU)</description>
+		<rom name="Commodore Magazine - Vol 02 Issue 01 (1982-05)(Computer Reference Guide)(AU).pdf" size="48446407" crc="3218570a" md5="af33ed40f3f2fd2377be15cfc8a5519b" sha1="50e9dac5f778973dba65793055a481be0744ba8c"/>
+	</game>
+	<game name="Commodore Magazine - Vol 02 Issue 04 (1982-08)(Computer Reference Guide)(AU)">
+		<description>Commodore Magazine - Vol 02 Issue 04 (1982-08)(Computer Reference Guide)(AU)</description>
+		<rom name="Commodore Magazine - Vol 02 Issue 04 (1982-08)(Computer Reference Guide)(AU).pdf" size="59440036" crc="00383f4c" md5="11ff3f752238c52c36a541dae969b527" sha1="2ced36149115c4302ed540b0c180159f083042c0"/>
+	</game>
+	<game name="Commodore Magazine - Vol 02 Issue 05 (1982-09)(Computer Reference Guide)(AU)">
+		<description>Commodore Magazine - Vol 02 Issue 05 (1982-09)(Computer Reference Guide)(AU)</description>
+		<rom name="Commodore Magazine - Vol 02 Issue 05 (1982-09)(Computer Reference Guide)(AU).pdf" size="113489807" crc="ae699426" md5="a3c855d671b2b09254c3bb4eb13194ba" sha1="7a79a9b3fcb5b6f9153487df78e39fbfa7ec05d5"/>
+	</game>
+	<game name="Commodore Magazine - Vol 02 Issue 06 (1982-10)(Computer Reference Guide)(AU)">
+		<description>Commodore Magazine - Vol 02 Issue 06 (1982-10)(Computer Reference Guide)(AU)</description>
+		<rom name="Commodore Magazine - Vol 02 Issue 06 (1982-10)(Computer Reference Guide)(AU).pdf" size="71475829" crc="36425079" md5="def14239e44a3940945dd9964a0168f6" sha1="2b9021c24bdcb113ee93aee9ad43b0f2f5b05c4b"/>
+	</game>
+	<game name="Commodore Magazine - Vol 02 Issue 07 (1982-09)(Computer Reference Guide)(AU)">
+		<description>Commodore Magazine - Vol 02 Issue 07 (1982-09)(Computer Reference Guide)(AU)</description>
+		<rom name="Commodore Magazine - Vol 02 Issue 07 (1982-09)(Computer Reference Guide)(AU).pdf" size="43503135" crc="833ce92e" md5="6d72865f5f6ed210895631e6d3a6bc0a" sha1="932090b6bb2d07e98f0e224c13d8d7445237ac4c"/>
+	</game>
+	<game name="Commodore Magazine - Vol 02 Issue 08 (1982-12)(Computer Reference Guide)(AU)">
+		<description>Commodore Magazine - Vol 02 Issue 08 (1982-12)(Computer Reference Guide)(AU)</description>
+		<rom name="Commodore Magazine - Vol 02 Issue 08 (1982-12)(Computer Reference Guide)(AU).pdf" size="118436749" crc="9fe1290b" md5="e25e15634439e8384f84b8c5d3d98544" sha1="304bbfb90d54eb17f8c384dfec03e99cafee3da7"/>
+	</game>
+	<game name="Commodore Magazine - Vol 03 Issue 01 (1983-01)(Computer Reference Guide)(AU)">
+		<description>Commodore Magazine - Vol 03 Issue 01 (1983-01)(Computer Reference Guide)(AU)</description>
+		<rom name="Commodore Magazine - Vol 03 Issue 01 (1983-01)(Computer Reference Guide)(AU).pdf" size="117213874" crc="99f58904" md5="318f0d95aa88a4a8bdddf39f826ac54c" sha1="97585109167c7009b6e1d46305b8f8ebd9df0ce7"/>
+	</game>
+	<game name="Commodore Magazine - Vol 03 Issue 01 (1983-01)(Kim Boooks)(AU)[a]">
+		<description>Commodore Magazine - Vol 03 Issue 01 (1983-01)(Kim Boooks)(AU)[a]</description>
+		<rom name="Commodore Magazine - Vol 03 Issue 01 (1983-01)(Kim Boooks)(AU)[a].pdf" size="66918039" crc="cdf26a03" md5="b4d2920550c7750828adb6cbcc28b2a9" sha1="d7d719926b23dc53705413980825e83e8e151048"/>
+	</game>
+	<game name="Commodore Magazine - Vol 03 Issue 02 (1983-05)(Computer Reference Guide)(AU)">
+		<description>Commodore Magazine - Vol 03 Issue 02 (1983-05)(Computer Reference Guide)(AU)</description>
+		<rom name="Commodore Magazine - Vol 03 Issue 02 (1983-05)(Computer Reference Guide)(AU).pdf" size="86275499" crc="2819ff44" md5="47203fc12790fff95347842b8eb8dd6b" sha1="9a2ee8e528a53906b510bda59202ae169900ccfc"/>
+	</game>
+	<game name="Commodore Magazine - Vol 04 Issue 01 (1984-06)(Kim Boooks)(AU)">
+		<description>Commodore Magazine - Vol 04 Issue 01 (1984-06)(Kim Boooks)(AU)</description>
+		<rom name="Commodore Magazine - Vol 04 Issue 01 (1984-06)(Kim Boooks)(AU).pdf" size="79695632" crc="326c7385" md5="ee09ce9eec152c9d2fe8eb6b39a28e8b" sha1="23b5ca1e1a33cdd10e85c041859ee5223d350645"/>
+	</game>
+	<game name="Commodore Magazine - Vol 04 Issue 03 (1984-10)(Kim Books)(AU)">
+		<description>Commodore Magazine - Vol 04 Issue 03 (1984-10)(Kim Books)(AU)</description>
+		<rom name="Commodore Magazine - Vol 04 Issue 03 (1984-10)(Kim Books)(AU).pdf" size="144844402" crc="209b0d39" md5="6f9e01beeb4d23b84312db576381593e" sha1="bb81cd6b2d86807f49e59c1b803d16593d5df3ed"/>
+	</game>
+	<game name="Commodore Magazine - Vol 04 Issue 04 (1984-12)(Kim Books)(AU)">
+		<description>Commodore Magazine - Vol 04 Issue 04 (1984-12)(Kim Books)(AU)</description>
+		<rom name="Commodore Magazine - Vol 04 Issue 04 (1984-12)(Kim Books)(AU).pdf" size="76755401" crc="5314b5c5" md5="6865b906b55904c4d04e25e20370000c" sha1="5c7ada5a8bd54eaed96bc9cf12a6e2a7cbf19cb4"/>
+	</game>
+	<game name="Commodore Magazine - Vol 04 Issue 06 (1985-04)(Kim Books)(AU)">
+		<description>Commodore Magazine - Vol 04 Issue 06 (1985-04)(Kim Books)(AU)</description>
+		<rom name="Commodore Magazine - Vol 04 Issue 06 (1985-04)(Kim Books)(AU).pdf" size="77115067" crc="b1f1c904" md5="297ba2c87e7d9327006b4944736d1f10" sha1="9464d7fd28c0013069f4573c88b64d073c5e5c07"/>
+	</game>
+	<game name="Commodore Magazine - Vol 05 Issue 01 (1985-05)(Kim Boooks)(AU)">
+		<description>Commodore Magazine - Vol 05 Issue 01 (1985-05)(Kim Boooks)(AU)</description>
+		<rom name="Commodore Magazine - Vol 05 Issue 01 (1985-05)(Kim Boooks)(AU).pdf" size="89504719" crc="eed6482c" md5="ed1c6ae6903d286f20c0c046eaa365ae" sha1="a0901733f005fda90513ba09133612a0213962b1"/>
+	</game>
+	<game name="Commodore Magazine - Vol 05 No 02 Issue 030 (1985-04)(Kim Books)(AU)">
+		<description>Commodore Magazine - Vol 05 No 02 Issue 030 (1985-04)(Kim Books)(AU)</description>
+		<rom name="Commodore Magazine - Vol 05 No 02 Issue 030 (1985-04)(Kim Books)(AU).pdf" size="266749034" crc="bda56cca" md5="65e6a2023da35a0a84d1cde0b5f8d0f3" sha1="5b3b8ba6cc7f17e5f73c7a274de76e88bc8d4fac"/>
+	</game>
+	<game name="Commodore Magazine - Vol 05 No 03 Issue 031 (1985-07)(Kim Books)(AU)">
+		<description>Commodore Magazine - Vol 05 No 03 Issue 031 (1985-07)(Kim Books)(AU)</description>
+		<rom name="Commodore Magazine - Vol 05 No 03 Issue 031 (1985-07)(Kim Books)(AU).pdf" size="96129736" crc="2b7b138c" md5="eedf93cf4b6c4315d5719e46d22eee72" sha1="b31af3fe79e1f48c6b33a327267a67d853d0e67f"/>
+	</game>
+	<game name="Commodore Magazine - Vol 05 No 04 Issue 032 (1985-09)(Kim Books)(AU)[a]">
+		<description>Commodore Magazine - Vol 05 No 04 Issue 032 (1985-09)(Kim Books)(AU)[a]</description>
+		<rom name="Commodore Magazine - Vol 05 No 04 Issue 032 (1985-09)(Kim Books)(AU)[a].pdf" size="119971580" crc="02b14351" md5="c741c1e0b666777207d3bb4948c53a0f" sha1="bfe2c7c0d20cb51aa4b5aaf3b2499824aaab97b8"/>
+	</game>
+	<game name="Commodore Magazine - Vol 05 No 05 Issue 033 (1985-10)(Kim Books)(AU)">
+		<description>Commodore Magazine - Vol 05 No 05 Issue 033 (1985-10)(Kim Books)(AU)</description>
+		<rom name="Commodore Magazine - Vol 05 No 05 Issue 033 (1985-10)(Kim Books)(AU).pdf" size="133392129" crc="21b1ae82" md5="093fea82a8224b4cf6d70570ee7fe7cf" sha1="8a8eabc070908ebda869363efb0d95bac31a099c"/>
+	</game>
+	<game name="Commodore Magazine - Vol 05 No 05 Issue 033 (1985-10)(Kim Books)(AU)[a]">
+		<description>Commodore Magazine - Vol 05 No 05 Issue 033 (1985-10)(Kim Books)(AU)[a]</description>
+		<rom name="Commodore Magazine - Vol 05 No 05 Issue 033 (1985-10)(Kim Books)(AU)[a].pdf" size="105913121" crc="f27f03f6" md5="0e6412d679b734f2c8ac3032432f42ba" sha1="5ed3f2751bb1c33a0a553d8c3e16efa2bffa2052"/>
+	</game>
+	<game name="Commodore Magazine - Vol 05 No 06 Issue 034 (1985-12)(Kim Books)(AU)">
+		<description>Commodore Magazine - Vol 05 No 06 Issue 034 (1985-12)(Kim Books)(AU)</description>
+		<rom name="Commodore Magazine - Vol 05 No 06 Issue 034 (1985-12)(Kim Books)(AU).pdf" size="83729285" crc="5538c81b" md5="9556c7945f6bab805bc7fb650e8d10ae" sha1="86f63e5f228a70372c944d7ad2bbf73a9dbb2c57"/>
+	</game>
+	<game name="Commodore Magazine - Vol 06 No 01 Issue 035 (1986-02)(Kim Books)(AU)">
+		<description>Commodore Magazine - Vol 06 No 01 Issue 035 (1986-02)(Kim Books)(AU)</description>
+		<rom name="Commodore Magazine - Vol 06 No 01 Issue 035 (1986-02)(Kim Books)(AU).pdf" size="79360271" crc="b447ca43" md5="9df82ca270fe573e50172d01d6b65fd0" sha1="fc6140819df6731f9bd287a3785e8f38b1119aea"/>
+	</game>
+</datafile>

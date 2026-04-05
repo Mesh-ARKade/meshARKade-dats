@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo Game Boy Color - Applications</name>
+		<description>Nintendo Game Boy Color - Applications (TOSEC-v2024-07-03)</description>
+		<category>TOSEC</category>
+		<version>2024-07-03</version>
+		<author>mictlantecuhtle</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Color Test (2022-04-11)(GB Studio Central)">
+		<description>Color Test (2022-04-11)(GB Studio Central)</description>
+		<rom name="Color Test (2022-04-11)(GB Studio Central).gbc" size="131072" crc="9d59473d" md5="a973913be575962df815307b25875f1e" sha1="c1eb0d2b1dcb44fde03df1a112b98807f58dc00b"/>
+	</game>
+	<game name="GB UI 'Room Edition' v1.0 (2022-06-20)(JOAOMOTA)">
+		<description>GB UI 'Room Edition' v1.0 (2022-06-20)(JOAOMOTA)</description>
+		<rom name="GB UI 'Room Edition' v1.0 (2022-06-20)(JOAOMOTA).gbc" size="262144" crc="d7be253d" md5="b4f0dee16237379d370678beace53afd" sha1="ab6dc901ed53739196a79a7203fe4261fe64f95d"/>
+	</game>
+	<game name="GB UI v1.0 (2022-06-20)(JOAOMOTA)">
+		<description>GB UI v1.0 (2022-06-20)(JOAOMOTA)</description>
+		<rom name="GB UI v1.0 (2022-06-20)(JOAOMOTA).gbc" size="262144" crc="0db51459" md5="290691c1e07d571eb85bead72939efa0" sha1="aef73301d0948758c779c497701f1e69a22f461b"/>
+	</game>
+	<game name="Jaguar Mishin Sashi Senyou Soft - Kirby Family (2001)(Jaguar)(JP)(proto)">
+		<description>Jaguar Mishin Sashi Senyou Soft - Kirby Family (2001)(Jaguar)(JP)(proto)</description>
+		<rom name="Jaguar Mishin Sashi Senyou Soft - Kirby Family (2001)(Jaguar)(JP)(proto).gbc" size="2097152" crc="bd65b109" md5="6e1b62771a0325ed755adf99a7b501ba" sha1="709c612c13b70226a919a168b03427ec0f33f8f8"/>
+	</game>
+	<game name="Jaguar Mishin Sashi Senyou Soft - Mario Family (2001-08-27)(Jaguar)(JP)">
+		<description>Jaguar Mishin Sashi Senyou Soft - Mario Family (2001-08-27)(Jaguar)(JP)</description>
+		<rom name="Jaguar Mishin Sashi Senyou Soft - Mario Family (2001-08-27)(Jaguar)(JP).gbc" size="2097152" crc="ab3f3cef" md5="4cf10b2c7ae81e62e82da32de3a9d48e" sha1="4a3c1c84a486864b84e110456e4b9a4e582fdbb8"/>
+	</game>
+	<game name="Jayro's Keys v1.1 (2021-11-05)(Jones, Jayro)">
+		<description>Jayro's Keys v1.1 (2021-11-05)(Jones, Jayro)</description>
+		<rom name="Jayro's Keys v1.1 (2021-11-05)(Jones, Jayro).gbc" size="131072" crc="8bc08db4" md5="6ee378cde01d68d732684c5d10fe8c41" sha1="db1aeb16a912d4601e3dbadfe110dcaf8429d14f"/>
+	</game>
+	<game name="Jayro's Test Cartridge v1.13 (2021-11-24)(Jones, Jayro)">
+		<description>Jayro's Test Cartridge v1.13 (2021-11-24)(Jones, Jayro)</description>
+		<rom name="Jayro's Test Cartridge v1.13 (2021-11-24)(Jones, Jayro).gbc" size="262144" crc="3a5922d6" md5="16d245e8fbe3034bda9b02f9c89626ed" sha1="a6293d71cde406711e834b1b56ce0d4ecaec665c"/>
+	</game>
+	<game name="Jayro's Test Cartridge v1.14 (2022-02-20)(Jones, Jayro)">
+		<description>Jayro's Test Cartridge v1.14 (2022-02-20)(Jones, Jayro)</description>
+		<rom name="Jayro's Test Cartridge v1.14 (2022-02-20)(Jones, Jayro).gbc" size="524288" crc="299e5d2f" md5="56d57b5ac241b249c5fb075477295982" sha1="8fd937fc8afa7505f229604227551b88b1894c49"/>
+	</game>
+	<game name="Kanji Shishuu (2001)(Jaguar)(JP)(proto)">
+		<description>Kanji Shishuu (2001)(Jaguar)(JP)(proto)</description>
+		<rom name="Kanji Shishuu (2001)(Jaguar)(JP)(proto).gbc" size="8388608" crc="29a1932f" md5="c9c2f79adc7d23bad885f9289bc12283" sha1="09d5b0f6e3b17f670820265dcb2477e5c869ed79"/>
+	</game>
+	<game name="LCD &amp; Lens Alignment Tool (2022-01-31)(Jones, Jayro)">
+		<description>LCD &amp; Lens Alignment Tool (2022-01-31)(Jones, Jayro)</description>
+		<rom name="LCD &amp; Lens Alignment Tool (2022-01-31)(Jones, Jayro).gbc" size="131072" crc="df699f9e" md5="c5dbcab1c1ca72f6c296b535e6cc6fa0" sha1="444d3218c9a3247958de3518caf2fda7c989fb70"/>
+	</game>
+	<game name="Mail Junkies World Port v1.01 (19xx)(Datel)(GB)[p]">
+		<description>Mail Junkies World Port v1.01 (19xx)(Datel)(GB)[p]</description>
+		<rom name="Mail Junkies World Port v1.01 (19xx)(Datel)(GB)[p].gbc" size="262144" crc="d4df856f" md5="498a332679b9ce4392af8d9b0567bf24" sha1="004deb1e75ffa08080028cb4c08a7c981c313eb8"/>
+	</game>
+	<game name="Mobile Trainer (2001-01-27)(Nintendo)(JP)">
+		<description>Mobile Trainer (2001-01-27)(Nintendo)(JP)</description>
+		<rom name="Mobile Trainer (2001-01-27)(Nintendo)(JP).gbc" size="2097152" crc="7226ead0" md5="aef9b41fbc898a58fd2aaaeabc2787e9" sha1="ecc0579edeaf9eccd722d605cc288cd023c8576a"/>
+	</game>
+	<game name="No Software Found (2021-11-12)(Jones, Jayro)">
+		<description>No Software Found (2021-11-12)(Jones, Jayro)</description>
+		<rom name="No Software Found (2021-11-12)(Jones, Jayro).gbc" size="131072" crc="64f784b4" md5="ed60d84e0d693767ead1e0d69931bbd7" sha1="bb9fd5529d982dc0d867e4aab1104044ad5159bd"/>
+	</game>
+	<game name="Orbital Diagnostic System (2000)(Peugeot Motorcycles)[b]">
+		<description>Orbital Diagnostic System (2000)(Peugeot Motorcycles)[b]</description>
+		<rom name="Orbital Diagnostic System (2000)(Peugeot Motorcycles)[b].gbc" size="1048576" crc="f971fce9" md5="779683eeab6e09b5574d9f8bb35a8f88" sha1="6bc140722fad759830fd6e4b6ac0b41443795fb2"/>
+	</game>
+	<game name="Raku x Raku - Cut Shuu (2000)(Natsume)(JP)[Jaguar Sewing Machine]">
+		<description>Raku x Raku - Cut Shuu (2000)(Natsume)(JP)[Jaguar Sewing Machine]</description>
+		<rom name="Raku x Raku - Cut Shuu (2000)(Natsume)(JP)[Jaguar Sewing Machine].gbc" size="2097152" crc="430cfcf3" md5="62443f663965ba2f3a4181cd694d88a3" sha1="b51a62358c37539021bc980c1699825596b118ef"/>
+	</game>
+	<game name="Raku x Raku - Mishin (2000)(Natsume)(JP)[GBC][Jaguar Sewing Machine]">
+		<description>Raku x Raku - Mishin (2000)(Natsume)(JP)[GBC][Jaguar Sewing Machine]</description>
+		<rom name="Raku x Raku - Mishin (2000)(Natsume)(JP)[GBC][Jaguar Sewing Machine].gbc" size="1048576" crc="0ba0711b" md5="24cf64cd73a98125fe476b8488054361" sha1="58bf5df55d2bab8877f7ec43110339ebe1a5d4c5"/>
+	</game>
+	<game name="Raku x Raku - Moji (2000)(Natsume)(JP)[Jaguar Sewing Machine]">
+		<description>Raku x Raku - Moji (2000)(Natsume)(JP)[Jaguar Sewing Machine]</description>
+		<rom name="Raku x Raku - Moji (2000)(Natsume)(JP)[Jaguar Sewing Machine].gbc" size="2097152" crc="abe58a8b" md5="b39c09e1a033f08d8160bf5dfa4082bc" sha1="d9502543c6cd05c7e06a3b89286eec155aff83a0"/>
+	</game>
+	<game name="Sewing Machine Operation Software (2000)(Natsume)(EU)(M4)(proto)[GBC][en-de-it-nl]">
+		<description>Sewing Machine Operation Software (2000)(Natsume)(EU)(M4)(proto)[GBC][en-de-it-nl]</description>
+		<rom name="Sewing Machine Operation Software (2000)(Natsume)(EU)(M4)(proto)[GBC][en-de-it-nl].gbc" size="1048576" crc="9f1dbedd" md5="65e85e5ad524ed60a9b0a8122a55d7af" sha1="35d242fbbde2f6f1fb869fd68396e6be4aad8f9b"/>
+	</game>
+	<game name="Sewing Machine Operation Software (2000)(Natsume)(EU)(M4)(proto)[GBC][en-fr-es-pt]">
+		<description>Sewing Machine Operation Software (2000)(Natsume)(EU)(M4)(proto)[GBC][en-fr-es-pt]</description>
+		<rom name="Sewing Machine Operation Software (2000)(Natsume)(EU)(M4)(proto)[GBC][en-fr-es-pt].gbc" size="1048576" crc="e34b5ce8" md5="fb343f6c1e4d9ddb10f160ede0f3410e" sha1="500439c5e14400ef2bc45cacf5ff834b70c2acd4"/>
+	</game>
+	<game name="Sewing Machine Operation Software (2000)(Natsume)(EU)(M4)[GBC]">
+		<description>Sewing Machine Operation Software (2000)(Natsume)(EU)(M4)[GBC]</description>
+		<rom name="Sewing Machine Operation Software (2000)(Natsume)(EU)(M4)[GBC].gbc" size="1048576" crc="d8433dee" md5="14bb0a822dfea564358a99378186141f" sha1="4b12589fb14932381afa8433130d684120c5e3cd"/>
+	</game>
+	<game name="Sewing Machine Operation Software (2000)(Natsume)(US)(M3)[GBC]">
+		<description>Sewing Machine Operation Software (2000)(Natsume)(US)(M3)[GBC]</description>
+		<rom name="Sewing Machine Operation Software (2000)(Natsume)(US)(M3)[GBC].gbc" size="1048576" crc="e42fd7c4" md5="52f46e74689516225055b8576079ee24" sha1="a05a67f2d29bf29c56c9533c172da02ee0ad26b1"/>
+	</game>
+	<game name="Shark MX v1.02 (2000)(Interact)(US)">
+		<description>Shark MX v1.02 (2000)(Interact)(US)</description>
+		<rom name="Shark MX v1.02 (2000)(Interact)(US).gbc" size="262144" crc="300e03ba" md5="956b38b3692985fbd2850d8983916ddb" sha1="d3eb3e7bc9042a3a9bdc6017620842c52d07cb07"/>
+	</game>
+	<game name="Windows 89 (2021-09-13)(Villagerjj)">
+		<description>Windows 89 (2021-09-13)(Villagerjj)</description>
+		<rom name="Windows 89 (2021-09-13)(Villagerjj).gbc" size="262144" crc="51eec2c3" md5="f9308242157f9e4f7eab9b2e16a97b59" sha1="781e0e9f4bd6757dd86df1c83bfcb37c51dbcdc4"/>
+	</game>
+	<game name="Windows 89 b06 (2021-11-13)(Villagerjj)">
+		<description>Windows 89 b06 (2021-11-13)(Villagerjj)</description>
+		<rom name="Windows 89 b06 (2021-11-13)(Villagerjj).gbc" size="262144" crc="a8d64a97" md5="a6865b590aac2a04c18c9e5fe06f9e30" sha1="0572865241acf0fce3d7928ccf112b0dd5247945"/>
+	</game>
+	<game name="Xploder GB v1.2.2G (2001)(Blaze)(EU)[p][GBC]">
+		<description>Xploder GB v1.2.2G (2001)(Blaze)(EU)[p][GBC]</description>
+		<rom name="Xploder GB v1.2.2G (2001)(Blaze)(EU)[p][GBC].gbc" size="131072" crc="7c69b507" md5="ee55d33109a6cd761fb3b5f7bc21c6c0" sha1="44c1cf6f27239df825190f2ace803a9808534306"/>
+	</game>
+	<game name="Xploder GB v1.2.3E (2001)(Blaze)(EU)[p][GBC]">
+		<description>Xploder GB v1.2.3E (2001)(Blaze)(EU)[p][GBC]</description>
+		<rom name="Xploder GB v1.2.3E (2001)(Blaze)(EU)[p][GBC].gbc" size="131072" crc="440bee17" md5="5d4e5be715d0a30bf1f94bb116a34b84" sha1="80d46f4b105ec7b6ee7b062736d1d91db0f9575a"/>
+	</game>
+</datafile>

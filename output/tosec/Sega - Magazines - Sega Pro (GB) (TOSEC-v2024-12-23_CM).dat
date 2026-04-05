@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Magazines - Sega Pro (GB)</name>
+		<description>Sega - Magazines - Sega Pro (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Pro - Issue 01 (1991-11)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 01 (1991-11)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 01 (1991-11)(Paragon Publishing)(GB).pdf" size="44903023" crc="6da37f55" md5="236d21b9e10185dd3ba6135ea0898d31" sha1="4fea01b3eba32629332f5c354aba9087df08cb9d"/>
+	</game>
+	<game name="Sega Pro - Issue 01 (1991-11)(Paragon Publishing)(GB)[a]">
+		<description>Sega Pro - Issue 01 (1991-11)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Sega Pro - Issue 01 (1991-11)(Paragon Publishing)(GB)[a].pdf" size="261133537" crc="ac2ac245" md5="6da96a8f675d0bafe5fdc9b33f4c0501" sha1="7ea3cd00302f5669530e9ebdbdeac84e5446d9df"/>
+	</game>
+	<game name="Sega Pro - Issue 02 (1991-12)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 02 (1991-12)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 02 (1991-12)(Paragon Publishing)(GB).pdf" size="45924494" crc="cdfc3ff5" md5="720060f7dbb31c9699f707c70c3314a7" sha1="041e1ed163bed77ad9c709a8afbce4fb2dbcc594"/>
+	</game>
+	<game name="Sega Pro - Issue 02 (1991-12)(Paragon Publishing)(GB)[a]">
+		<description>Sega Pro - Issue 02 (1991-12)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Sega Pro - Issue 02 (1991-12)(Paragon Publishing)(GB)[a].pdf" size="259877121" crc="4e733549" md5="820cc0f92613d30df4a8dd85ad5c8fee" sha1="93a019022c9f17e085baee4c5946740ccd487fe1"/>
+	</game>
+	<game name="Sega Pro - Issue 03 (1991)(Paragon Publishing)(GB)[a][christmas edition]">
+		<description>Sega Pro - Issue 03 (1991)(Paragon Publishing)(GB)[a][christmas edition]</description>
+		<rom name="Sega Pro - Issue 03 (1991)(Paragon Publishing)(GB)[a][christmas edition].pdf" size="277148425" crc="6535e649" md5="4f7697b0cf989f9bca5d449723e84879" sha1="e1302b141c13baba117851d5b7a4bc794dae35e0"/>
+	</game>
+	<game name="Sega Pro - Issue 03 (1991)(Paragon Publishing)(GB)[christmas edition]">
+		<description>Sega Pro - Issue 03 (1991)(Paragon Publishing)(GB)[christmas edition]</description>
+		<rom name="Sega Pro - Issue 03 (1991)(Paragon Publishing)(GB)[christmas edition].pdf" size="50765003" crc="11d52bc0" md5="1c0b58de2eff5a8a05fd41fcbe3e19d5" sha1="28252d39d60b328bcf79f82868b7cdfa2a1b5bf2"/>
+	</game>
+	<game name="Sega Pro - Issue 04 (1992-02)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 04 (1992-02)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 04 (1992-02)(Paragon Publishing)(GB).pdf" size="43492740" crc="a322b0de" md5="1ba0c2aaccb067262feaca957b2e6272" sha1="40d220d3e7c6cdd6e2239679d47f0110a547ccf7"/>
+	</game>
+	<game name="Sega Pro - Issue 04 (1992-02)(Paragon Publishing)(GB)[a]">
+		<description>Sega Pro - Issue 04 (1992-02)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Sega Pro - Issue 04 (1992-02)(Paragon Publishing)(GB)[a].pdf" size="246008219" crc="2f83b4c0" md5="5d510c7262afdb462790f4dc89868562" sha1="facb95827e5194130643b33e019129290824578a"/>
+	</game>
+	<game name="Sega Pro - Issue 05 (1992-03)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 05 (1992-03)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 05 (1992-03)(Paragon Publishing)(GB).pdf" size="41685877" crc="83b05580" md5="0b3043c092d0ed9f9633d6094602209c" sha1="4675a85ec505afa1593e9b3d5d38d4bf8c25729c"/>
+	</game>
+	<game name="Sega Pro - Issue 05 (1992-03)(Paragon Publishing)(GB)[a]">
+		<description>Sega Pro - Issue 05 (1992-03)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Sega Pro - Issue 05 (1992-03)(Paragon Publishing)(GB)[a].pdf" size="239278182" crc="b031e941" md5="6b77f33ec3f7d6024becca2bd9345bc6" sha1="85a02752c231c6bf814d64c8a5d2267f3303c355"/>
+	</game>
+	<game name="Sega Pro - Issue 06 (1992-04)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 06 (1992-04)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 06 (1992-04)(Paragon Publishing)(GB).pdf" size="51694179" crc="cf68b3c7" md5="e80db31f03e06c85725afadceb40de2e" sha1="aa7750a07df2fc06bdee8ca8d39e38e64b6bfc3b"/>
+	</game>
+	<game name="Sega Pro - Issue 06 (1992-04)(Paragon Publishing)(GB)[a]">
+		<description>Sega Pro - Issue 06 (1992-04)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Sega Pro - Issue 06 (1992-04)(Paragon Publishing)(GB)[a].pdf" size="315663752" crc="65777ffd" md5="cb08d70f704045cd02fd9def37b156f8" sha1="3413171b093994bde8d9b554a850ded6aec875e6"/>
+	</game>
+	<game name="Sega Pro - Issue 07 (1992-05)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 07 (1992-05)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 07 (1992-05)(Paragon Publishing)(GB).pdf" size="47777829" crc="ee3624ce" md5="aaf9602dee71e6167d761b3b98d32c2c" sha1="2153d3bdc0c17cd832a6befa30be976775f09158"/>
+	</game>
+	<game name="Sega Pro - Issue 07 (1992-05)(Paragon Publishing)(GB)[a]">
+		<description>Sega Pro - Issue 07 (1992-05)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Sega Pro - Issue 07 (1992-05)(Paragon Publishing)(GB)[a].pdf" size="302627784" crc="84b422a8" md5="98f309c13dd2327ee5008586d2d555aa" sha1="0d20f0fdddd4653c7d3010bfa71010e12dcb4e24"/>
+	</game>
+	<game name="Sega Pro - Issue 08 (1992-06)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 08 (1992-06)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 08 (1992-06)(Paragon Publishing)(GB).pdf" size="53781834" crc="d57885dd" md5="7cd0676167329ac970cb073fac61364f" sha1="e0a5a29c16e0e0fea8144b0cedb3917636a6aabb"/>
+	</game>
+	<game name="Sega Pro - Issue 08 (1992-06)(Paragon Publishing)(GB)[a]">
+		<description>Sega Pro - Issue 08 (1992-06)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Sega Pro - Issue 08 (1992-06)(Paragon Publishing)(GB)[a].pdf" size="334132572" crc="be5d9a0c" md5="bcbad9d44afa7d3585df89ca165b4830" sha1="d44eb0e1d5b7dd5dfafa7ad9ffd3d83e2a3517b2"/>
+	</game>
+	<game name="Sega Pro - Issue 09 (1992-07)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 09 (1992-07)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 09 (1992-07)(Paragon Publishing)(GB).pdf" size="52644128" crc="a27d4ff4" md5="3202d9bd52f3cac4bd7b2bfbf166e0d7" sha1="1c7f82f121eccaf139c6286fad4edaf720e6a45e"/>
+	</game>
+	<game name="Sega Pro - Issue 10 (1992-08)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 10 (1992-08)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 10 (1992-08)(Paragon Publishing)(GB).pdf" size="46403021" crc="0ba2d1af" md5="b11922886f216f082eb3ce4b2b099ae5" sha1="6d44fee0e5d2fc70c7b5bb180cd4e7a1d939ee10"/>
+	</game>
+	<game name="Sega Pro - Issue 11 (1992-09)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 11 (1992-09)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 11 (1992-09)(Paragon Publishing)(GB).pdf" size="51748580" crc="b4cdea21" md5="ec562f8a378f4f6d758e7fe5e0c40ef8" sha1="2ad618a03727b360d408d2b5e29132f12b8aa950"/>
+	</game>
+	<game name="Sega Pro - Issue 12 (1992-10)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 12 (1992-10)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 12 (1992-10)(Paragon Publishing)(GB).pdf" size="47676545" crc="f5499216" md5="2aa3174ca00022c6fe4cd20515761c66" sha1="8f6673163e9375b048ea95afbeea2b0749304457"/>
+	</game>
+	<game name="Sega Pro - Issue 13 (1992-11)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 13 (1992-11)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 13 (1992-11)(Paragon Publishing)(GB).pdf" size="49499118" crc="1c9cab63" md5="4ef714ae524704c093a2de8ed8b491f4" sha1="5f2ba91590dce6ac7208cebfd784257d5e235b97"/>
+	</game>
+	<game name="Sega Pro - Issue 14 (1992-12)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 14 (1992-12)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 14 (1992-12)(Paragon Publishing)(GB).pdf" size="49747907" crc="33e68fe1" md5="7a9934318de5e18046698d4e9bd06346" sha1="54dcab3ad5bbb88c21b43fca43dd5d3597053c7d"/>
+	</game>
+	<game name="Sega Pro - Issue 15 (1992)(Paragon Publishing)(GB)[christmas edition]">
+		<description>Sega Pro - Issue 15 (1992)(Paragon Publishing)(GB)[christmas edition]</description>
+		<rom name="Sega Pro - Issue 15 (1992)(Paragon Publishing)(GB)[christmas edition].pdf" size="57595002" crc="3118fea5" md5="8fc97d3958771663cc42c2686257251a" sha1="036c92a52e7646e5a806e5209a0642f246ff8e37"/>
+	</game>
+	<game name="Sega Pro - Issue 16 (1993-02)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 16 (1993-02)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 16 (1993-02)(Paragon Publishing)(GB).pdf" size="52016020" crc="c411dc11" md5="95d90ab108cf4cfd033d05eb406348e0" sha1="5c46ffa221e8759b0a5a7c9d031187568490cd11"/>
+	</game>
+	<game name="Sega Pro - Issue 17 (1993-03)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 17 (1993-03)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 17 (1993-03)(Paragon Publishing)(GB).pdf" size="50776940" crc="97902f16" md5="a0a022746a3a2a51ceb1a1fae8fdcbce" sha1="8c9e5e8e17d52cdd932b9f8c96fdb88b60ce4b24"/>
+	</game>
+	<game name="Sega Pro - Issue 18 (1993-04)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 18 (1993-04)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 18 (1993-04)(Paragon Publishing)(GB).pdf" size="55123365" crc="5452481b" md5="9f3cbe461664106cec09df6247bf267b" sha1="eb19871bec9cd210ca127c0024e4fde0592a3e21"/>
+	</game>
+	<game name="Sega Pro - Issue 19 (1993-05)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 19 (1993-05)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 19 (1993-05)(Paragon Publishing)(GB).pdf" size="55186251" crc="26d4bf69" md5="f926c43c9d8e01b4ab6c5c3f8185d288" sha1="0e8b82af7b866769804316ceec35e11eaebc33d8"/>
+	</game>
+	<game name="Sega Pro - Issue 20 (19923-06)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 20 (19923-06)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 20 (19923-06)(Paragon Publishing)(GB).pdf" size="54105786" crc="653a3654" md5="184905ce0dd9d4a542ee95c9b104eb9a" sha1="182b9ade08fe55a27bc51da708c4ff230272f59e"/>
+	</game>
+	<game name="Sega Pro - Issue 21 (1993-07)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 21 (1993-07)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 21 (1993-07)(Paragon Publishing)(GB).pdf" size="51899296" crc="768b16d0" md5="82ed596b239ee817bccb00c92784e6d5" sha1="d89e71dc42ba112df4324d85b37dab671eb71189"/>
+	</game>
+	<game name="Sega Pro - Issue 22 (1993-08)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 22 (1993-08)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 22 (1993-08)(Paragon Publishing)(GB).pdf" size="51571865" crc="804771c3" md5="1f1e73e04ee0a4f26e3f3fde851cc96a" sha1="fd5ee2a99f44654292690195df1f52668778b836"/>
+	</game>
+	<game name="Sega Pro - Issue 23 (1993-09)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 23 (1993-09)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 23 (1993-09)(Paragon Publishing)(GB).pdf" size="64880976" crc="9e165f3d" md5="c3666684791ec421e55354485ac53aeb" sha1="5d49218a608dab9242e5a0f17029c4d5b1ef3b5a"/>
+	</game>
+	<game name="Sega Pro - Issue 24 (1993-10)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 24 (1993-10)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 24 (1993-10)(Paragon Publishing)(GB).pdf" size="61960389" crc="d1095628" md5="1f8ab48e8b4302698078b1dcbca088d8" sha1="33a26a10e7e033ab637f98db9f63e8cc3822709d"/>
+	</game>
+	<game name="Sega Pro - Issue 25 (1993-11)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 25 (1993-11)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 25 (1993-11)(Paragon Publishing)(GB).pdf" size="64637045" crc="72bf66b8" md5="6bfdbde1a051c30668b71c8eda0c72f8" sha1="4a5e46fb3f364aef44a5e2877fd25eed2e43328f"/>
+	</game>
+	<game name="Sega Pro - Issue 26 (1993-12)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 26 (1993-12)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 26 (1993-12)(Paragon Publishing)(GB).pdf" size="61299866" crc="6a3a5974" md5="fa6c4802ea31db7fc9959b5e78b49e33" sha1="f81fa08e96bf832eb578cf8374bb79dcbddd0487"/>
+	</game>
+	<game name="Sega Pro - Issue 27 (1993)(Paragon Publishing)(GB)[christmas edition]">
+		<description>Sega Pro - Issue 27 (1993)(Paragon Publishing)(GB)[christmas edition]</description>
+		<rom name="Sega Pro - Issue 27 (1993)(Paragon Publishing)(GB)[christmas edition].pdf" size="61590076" crc="352d2987" md5="fb61917e228bc005345b485252f04729" sha1="984314a1f1cbf8f421ed7907cadd2583f1412ca2"/>
+	</game>
+	<game name="Sega Pro - Issue 28 (1994-02)Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 28 (1994-02)Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 28 (1994-02)Paragon Publishing)(GB).pdf" size="60508652" crc="53ac2311" md5="f6b5f1dd2f624df6df79eadaf123f75b" sha1="8ca6e587caabd0502f3baf307dca6b914cc60f13"/>
+	</game>
+	<game name="Sega Pro - Issue 29 (1994-03)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 29 (1994-03)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 29 (1994-03)(Paragon Publishing)(GB).pdf" size="49392808" crc="a91ffb62" md5="a5c3e89f8e3023565e8bf84c39cbbd07" sha1="9f27d4301a642db6e40b6a98e5585aca54f14730"/>
+	</game>
+	<game name="Sega Pro - Issue 30 (1994-04)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 30 (1994-04)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 30 (1994-04)(Paragon Publishing)(GB).pdf" size="49273768" crc="ade6accd" md5="3a6a2b037f72df786f95e8b769c9441c" sha1="83cd9cbf322fe2daf3dbd5ef0890d842895551de"/>
+	</game>
+	<game name="Sega Pro - Issue 31 (1994)(Paragon Publishing)(GB)[easter edition]">
+		<description>Sega Pro - Issue 31 (1994)(Paragon Publishing)(GB)[easter edition]</description>
+		<rom name="Sega Pro - Issue 31 (1994)(Paragon Publishing)(GB)[easter edition].pdf" size="49386175" crc="fbdf4dad" md5="67e07ea0eaa1b0acb8abcc664b2ff64e" sha1="03ebe1a8b01d7b10d7c75399b010bb2a5102583b"/>
+	</game>
+	<game name="Sega Pro - Issue 32 (1994-05)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 32 (1994-05)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 32 (1994-05)(Paragon Publishing)(GB).pdf" size="50967096" crc="10f706ab" md5="f35fbfee166b9e173c048a846871a001" sha1="259affd05afebfed20e3dc06840a94c280914669"/>
+	</game>
+	<game name="Sega Pro - Issue 33 (1994-06)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 33 (1994-06)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 33 (1994-06)(Paragon Publishing)(GB).pdf" size="54823903" crc="256e9142" md5="1bc75b4da17f1d808f84465188a002e8" sha1="ddb0888600fe8f515e3a1558c629829caa9eca1f"/>
+	</game>
+	<game name="Sega Pro - Issue 34 (1994-07)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 34 (1994-07)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 34 (1994-07)(Paragon Publishing)(GB).pdf" size="53081157" crc="cfdc54fe" md5="67d41d2379bcbe041da2065ad17a522c" sha1="5fbaf5c40b69a2ef8ec76f21597d29daab5bc2ec"/>
+	</game>
+	<game name="Sega Pro - Issue 35 (1994-08)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 35 (1994-08)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 35 (1994-08)(Paragon Publishing)(GB).pdf" size="51585133" crc="6ae023f5" md5="f91fc8d780b95f93fe58e8fc4b53f986" sha1="fee7864befdd0c77e37e2c767f6019aef16a4bdb"/>
+	</game>
+	<game name="Sega Pro - Issue 36 (1994-09)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 36 (1994-09)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 36 (1994-09)(Paragon Publishing)(GB).pdf" size="54384891" crc="23327695" md5="fd20bb94b4e2183380e6d5ad33a6e752" sha1="6011f8182261c0cd1ec0605fe71817a3918720f2"/>
+	</game>
+	<game name="Sega Pro - Issue 37 (1994-10)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 37 (1994-10)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 37 (1994-10)(Paragon Publishing)(GB).pdf" size="278296655" crc="a4b23b08" md5="46ff48976544bcfef8126f6563d70f16" sha1="ec132944d9c34c0d160a0d689dc54de29ac65158"/>
+	</game>
+	<game name="Sega Pro - Issue 38 (1994-11)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 38 (1994-11)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 38 (1994-11)(Paragon Publishing)(GB).pdf" size="53238437" crc="40033060" md5="ee88e82e623edbbc2d194f4403ac6244" sha1="46395f9b1f1d43e65e09d8bb2407edf351cc5b86"/>
+	</game>
+	<game name="Sega Pro - Issue 39 (1994-12)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 39 (1994-12)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 39 (1994-12)(Paragon Publishing)(GB).pdf" size="53708307" crc="70a20faa" md5="4cea09172e89c5c427446d5ddeccc84a" sha1="8a32f4ee96f4b4b54ada8a4feef8fd348e84cc1a"/>
+	</game>
+	<game name="Sega Pro - Issue 40 (1994)(Paragon Publishing)(GB)[christmas edition]">
+		<description>Sega Pro - Issue 40 (1994)(Paragon Publishing)(GB)[christmas edition]</description>
+		<rom name="Sega Pro - Issue 40 (1994)(Paragon Publishing)(GB)[christmas edition].pdf" size="53287115" crc="972c44f8" md5="d0bbb0623e7a2cc75306eec52d6562b4" sha1="a2f62ac9b8bfaab9806455fd6a20601bf288e84b"/>
+	</game>
+	<game name="Sega Pro - Issue 41 (1995-02)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 41 (1995-02)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 41 (1995-02)(Paragon Publishing)(GB).pdf" size="54350727" crc="fe5307f8" md5="cec8b08aa6efcf9723ea2bc7784c9d19" sha1="7075ca345fe2945dd325080d1799c65e8916ddf7"/>
+	</game>
+	<game name="Sega Pro - Issue 42 (1995-03)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 42 (1995-03)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 42 (1995-03)(Paragon Publishing)(GB).pdf" size="17726711" crc="868a30e0" md5="b20bbf4cf7e790ac834fa836d609c667" sha1="b99c91c7bf301880166d4040c611a3f6dc8d46fd"/>
+	</game>
+	<game name="Sega Pro - Issue 42 (1995-03)(Paragon Publishing)(GB)[a]">
+		<description>Sega Pro - Issue 42 (1995-03)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Sega Pro - Issue 42 (1995-03)(Paragon Publishing)(GB)[a].pdf" size="55241452" crc="df61b3b1" md5="1df2bec9addc2b8876898d098f6d3db6" sha1="9abc02f6252f34a0a50e44c64c2238b79dc36913"/>
+	</game>
+	<game name="Sega Pro - Issue 43 (1995-04)(Paragon Publishing)(GB)[a]">
+		<description>Sega Pro - Issue 43 (1995-04)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Sega Pro - Issue 43 (1995-04)(Paragon Publishing)(GB)[a].pdf" size="54792202" crc="fd51da68" md5="fbf52cf59aa30766b106e0334ec19624" sha1="6738fe7cd769be4002939281aae2cb8469010cdf"/>
+	</game>
+	<game name="Sega Pro - Issue 44 (1995)(Paragon Publishing)(GB)[easter edition]">
+		<description>Sega Pro - Issue 44 (1995)(Paragon Publishing)(GB)[easter edition]</description>
+		<rom name="Sega Pro - Issue 44 (1995)(Paragon Publishing)(GB)[easter edition].pdf" size="53071310" crc="669f5447" md5="a2453c7c42570b1880a00b137ab197a6" sha1="94bced121de8dd38948bb76b686f872c5a588cab"/>
+	</game>
+	<game name="Sega Pro - Issue 45 (1995-05)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 45 (1995-05)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 45 (1995-05)(Paragon Publishing)(GB).pdf" size="57086515" crc="14047877" md5="d7374a6b0eb63b675990dfbfb8b2ed83" sha1="8b08992c877528bc8fa9cf766f2c808b34ae2597"/>
+	</game>
+	<game name="Sega Pro - Issue 46 (1995-06)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 46 (1995-06)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 46 (1995-06)(Paragon Publishing)(GB).pdf" size="56858030" crc="c3adc0a8" md5="ec886bcddb1568a3c34552d6bd739a96" sha1="a1a43b38449a22ab77c91042bd7bad085a910df9"/>
+	</game>
+	<game name="Sega Pro - Issue 47 (1995-07)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 47 (1995-07)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 47 (1995-07)(Paragon Publishing)(GB).pdf" size="38346521" crc="5ca4d672" md5="2bb7051ba6ae212dfa5aaf4c6605eb9a" sha1="93699d66e549d11be8b5d78836d825de2248a10c"/>
+	</game>
+	<game name="Sega Pro - Issue 48 (1995-08)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 48 (1995-08)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 48 (1995-08)(Paragon Publishing)(GB).pdf" size="37986451" crc="81a3312c" md5="5c27e67384195aad8750eec31736cbc1" sha1="bde62123f3d92c3c4e7dbea7a3b0c6c7dc6a3555"/>
+	</game>
+	<game name="Sega Pro - Issue 49 (1995-09)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 49 (1995-09)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 49 (1995-09)(Paragon Publishing)(GB).pdf" size="38763506" crc="5a3e79bf" md5="e35ddbafd4a02675ebec9d21bc011bce" sha1="6a6435a986d609c01d07e1e402b76193212db40f"/>
+	</game>
+	<game name="Sega Pro - Issue 50 (1995-10)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 50 (1995-10)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 50 (1995-10)(Paragon Publishing)(GB).pdf" size="39014968" crc="f0cb7cb8" md5="920e47b9525cb180d17fb4f990fe36ad" sha1="2073b0762bee2caead5977aa73250e35afdab30d"/>
+	</game>
+	<game name="Sega Pro - Issue 51 (1995-11)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 51 (1995-11)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 51 (1995-11)(Paragon Publishing)(GB).pdf" size="39488029" crc="85545532" md5="35287a2977b6c4b9a40977c0eb51d166" sha1="cb4c7ded7fdcd123f0cf86e5fb5df761a4953d85"/>
+	</game>
+	<game name="Sega Pro - Issue 52 (1995-12)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 52 (1995-12)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 52 (1995-12)(Paragon Publishing)(GB).pdf" size="39843651" crc="3aeb991b" md5="709d4dcc3f17114f2047b21e1a8f312d" sha1="575f98241756be23246bb1d8bbf73e4ee14e4f94"/>
+	</game>
+	<game name="Sega Pro - Issue 53 (1996-01)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 53 (1996-01)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 53 (1996-01)(Paragon Publishing)(GB).pdf" size="39557530" crc="a3279e74" md5="a3a1ee6ea541983f60ce2572fc361487" sha1="44ebb218d56687d6aaef282b2ebc9f14d6222e30"/>
+	</game>
+	<game name="Sega Pro - Issue 54 (1996-02)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 54 (1996-02)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 54 (1996-02)(Paragon Publishing)(GB).pdf" size="38186052" crc="94ff0343" md5="8ac6143bd034ca5bdfd68b1e086339f3" sha1="8a95861930ca77f3df1b2c4403a66e031cca1e24"/>
+	</game>
+	<game name="Sega Pro - Issue 55 (1996-03)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 55 (1996-03)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 55 (1996-03)(Paragon Publishing)(GB).pdf" size="38198413" crc="57ffd9c3" md5="ea136a9cbb0291121e7e351b78ac633b" sha1="9e5ba6f751deda1ead8195893c7357d3629e778f"/>
+	</game>
+	<game name="Sega Pro - Issue 56 (1996-04)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 56 (1996-04)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 56 (1996-04)(Paragon Publishing)(GB).pdf" size="32218289" crc="cdff95db" md5="d37fd09b8f84193a95e619d033482421" sha1="5f09558bd6a42a020933e08418073ffa2d34d098"/>
+	</game>
+	<game name="Sega Pro - Issue 57 (1996-05)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 57 (1996-05)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 57 (1996-05)(Paragon Publishing)(GB).pdf" size="18259598" crc="f5140ef7" md5="a16d0ddb9470c50e51b5adc2bee72fe6" sha1="8c58ca857a451aeaf47698c04a9389a1428af1b3"/>
+	</game>
+	<game name="Sega Pro - Issue 57 (1996-05)(Paragon Publishing)(GB)[a]">
+		<description>Sega Pro - Issue 57 (1996-05)(Paragon Publishing)(GB)[a]</description>
+		<rom name="Sega Pro - Issue 57 (1996-05)(Paragon Publishing)(GB)[a].pdf" size="108728373" crc="49911fcf" md5="375707f6dbfe453b175935a98450dfc8" sha1="636575c4f764ccd58ded7e78320878dd0ee4814d"/>
+	</game>
+	<game name="Sega Pro - Issue 58 (1996-06)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 58 (1996-06)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 58 (1996-06)(Paragon Publishing)(GB).pdf" size="14623936" crc="9115a7bc" md5="6ae35aa43043bb75c5e5b3ffc5ab6eec" sha1="570cdaf80b84137c5ea680b4baa8707748e101ff"/>
+	</game>
+	<game name="Sega Pro - Issue 59 (1996-07)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 59 (1996-07)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 59 (1996-07)(Paragon Publishing)(GB).pdf" size="14697556" crc="d728ded1" md5="502c5f8c65187d302a18b9d6998ef7d9" sha1="b152d0d31e936a2958133a3dab118250c6a3e63d"/>
+	</game>
+	<game name="Sega Pro - Issue 60 (1996-08)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 60 (1996-08)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 60 (1996-08)(Paragon Publishing)(GB).pdf" size="14109468" crc="81e2b831" md5="57be2ce2e1465780e139881f810acfb2" sha1="76b4f1ab3b715b000761e8dfa3b80bd12743c01c"/>
+	</game>
+	<game name="Sega Pro - Issue 61 (1996-09)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 61 (1996-09)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 61 (1996-09)(Paragon Publishing)(GB).pdf" size="14028805" crc="56aa8ebe" md5="7eb5a4280f780ab02bfaeeb6a77c938a" sha1="0be697158ce3de4cb3dcdf7a6691c812f3ff2351"/>
+	</game>
+	<game name="Sega Pro - Issue 62 (1996-10)(Paragon Publishing)(GB)">
+		<description>Sega Pro - Issue 62 (1996-10)(Paragon Publishing)(GB)</description>
+		<rom name="Sega Pro - Issue 62 (1996-10)(Paragon Publishing)(GB).pdf" size="12654137" crc="492afa28" md5="bf6760c145019472c61dd3c692e9fdee" sha1="aa7ed8925bb98aa753eec239da5606e6586bf897"/>
+	</game>
+</datafile>

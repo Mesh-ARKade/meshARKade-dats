@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - PS Mania 2.0 (IT)</name>
+		<description>Sony PlayStation 2 - Magazines - PS Mania 2.0 (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PS Mania 2.0 - Anno 01 N.01 (2001-05)(Play Press)(IT)">
+		<description>PS Mania 2.0 - Anno 01 N.01 (2001-05)(Play Press)(IT)</description>
+		<rom name="PS Mania 2.0 - Anno 01 N.01 (2001-05)(Play Press)(IT).pdf" size="216062725" crc="e833e648" md5="37a27686b8f23489a20d1366211805d1" sha1="b85fa7e206523905d3f7a888f20ecf4ad2447dc7"/>
+	</game>
+	<game name="PS Mania 2.0 Speciale - Final Fantasy IX parte 1 (2001-06)(Play Press)(IT)[Supp. PS Mania 2.0 n.2]">
+		<description>PS Mania 2.0 Speciale - Final Fantasy IX parte 1 (2001-06)(Play Press)(IT)[Supp. PS Mania 2.0 n.2]</description>
+		<rom name="PS Mania 2.0 Speciale - Final Fantasy IX parte 1 (2001-06)(Play Press)(IT)[Supp. PS Mania 2.0 n.2].pdf" size="76026479" crc="4f8585f8" md5="3f02ef880c154492cac597a473934bb6" sha1="28b049db8bd5d3e9115689d034732e1c36c0ff97"/>
+	</game>
+	<game name="PS Mania 2.0 Speciale - Final Fantasy IX parte 2 (2001-06)(Play Press)(IT)[Supp. PS Mania 2.0 n.2]">
+		<description>PS Mania 2.0 Speciale - Final Fantasy IX parte 2 (2001-06)(Play Press)(IT)[Supp. PS Mania 2.0 n.2]</description>
+		<rom name="PS Mania 2.0 Speciale - Final Fantasy IX parte 2 (2001-06)(Play Press)(IT)[Supp. PS Mania 2.0 n.2].pdf" size="74655737" crc="752c2017" md5="74b04399198ad81d5858bcfdd5d45d4a" sha1="14f7a1cca3c9c681c9fa93deab35cafd20f4d73c"/>
+	</game>
+</datafile>

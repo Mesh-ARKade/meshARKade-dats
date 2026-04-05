@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Nintendo Official Magazine (GB)</name>
+		<description>Nintendo - Magazines - Nintendo Official Magazine (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Magazine (1998)(EMAP Images)(GB)[Special - Smash 'n' Grab]">
+		<description>Nintendo Magazine (1998)(EMAP Images)(GB)[Special - Smash 'n' Grab]</description>
+		<rom name="Nintendo Magazine (1998)(EMAP Images)(GB)[Special - Smash 'n' Grab].pdf" size="65850979" crc="ac0965d0" md5="abdb93857ba20ad229d209789227e47a" sha1="84d70bebb01991a8f046e59632b26d681a2d08ee"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 054 (1997-03)(EMAP Images)(GB)[a]">
+		<description>Nintendo Magazine - Issue 054 (1997-03)(EMAP Images)(GB)[a]</description>
+		<rom name="Nintendo Magazine - Issue 054 (1997-03)(EMAP Images)(GB)[a].pdf" size="267290415" crc="16ae0b6c" md5="33b1a7ad265fde5690049505e70391b4" sha1="43b44f0fa33507d99336a8f3a494745e276287a7"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 055 (1997-04)(EMAP Images)(GB)[a]">
+		<description>Nintendo Magazine - Issue 055 (1997-04)(EMAP Images)(GB)[a]</description>
+		<rom name="Nintendo Magazine - Issue 055 (1997-04)(EMAP Images)(GB)[a].pdf" size="275358678" crc="dbc8ed76" md5="e295986fce0ec231682d48dcdb37bc9b" sha1="264a984e89c7d93eb0229b5b9de5953b745fa386"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 056 (1997-05)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 056 (1997-05)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 056 (1997-05)(EMAP Images)(GB).pdf" size="275246683" crc="642bdd1b" md5="9977fd574b41e6ab5d369ce769393907" sha1="25e6d435b9291fc345ef0003141adf11137bb351"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 057 (1997-06)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 057 (1997-06)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 057 (1997-06)(EMAP Images)(GB).pdf" size="219111561" crc="3db222cf" md5="f6544ae99c16cb92ff817502d5b362ca" sha1="3c2cecb2249e6f1615e4a72a98e1bf18656ee788"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 058 (1997-07)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 058 (1997-07)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 058 (1997-07)(EMAP Images)(GB).pdf" size="215463167" crc="92b6744b" md5="36a0c596fef966cfcc1cb1f943238de4" sha1="45fc7af3edf63e15307c5c22b1cdfd16c955f7b5"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 059 (1997-08)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 059 (1997-08)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 059 (1997-08)(EMAP Images)(GB).pdf" size="214042575" crc="74c2144f" md5="c1ef80570bcf55da7afb8bf118e0e466" sha1="cfc14b8975e6b9e334de9eb930460090bac00df6"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 060 (1997-09)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 060 (1997-09)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 060 (1997-09)(EMAP Images)(GB).pdf" size="213031855" crc="01d20975" md5="dc3e4fd626ba08062476a5d5be2f00a2" sha1="984e5814fa0440f178c8894d947254872189a7a6"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 061 (1997-10)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 061 (1997-10)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 061 (1997-10)(EMAP Images)(GB).pdf" size="446863844" crc="30b7a978" md5="6bdd066d484e844e754009291ef5b747" sha1="e383481313edc6963c4255d4c18af3fa0f16de03"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 062 (1997-11)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 062 (1997-11)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 062 (1997-11)(EMAP Images)(GB).pdf" size="286035903" crc="974fb1af" md5="d4d737b3c1e3da544152a8452d9d601a" sha1="92e62e86bd82f59f9cb99e70db9cef0d5818ccba"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 063 (1997-12)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 063 (1997-12)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 063 (1997-12)(EMAP Images)(GB).pdf" size="114717875" crc="c209914c" md5="3438a1d194e4f169eff803064fe64539" sha1="82890f1aa033a612ce3dc109b7cea622121cd5ca"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 064 (1998-01)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 064 (1998-01)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 064 (1998-01)(EMAP Images)(GB).pdf" size="147141357" crc="c6fa73b1" md5="99cbcfd08051062426b93dd02746e8a1" sha1="612aeaa5445aded7cc544fa27f0d33d336a6ded1"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 065 (1998-02)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 065 (1998-02)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 065 (1998-02)(EMAP Images)(GB).pdf" size="238199379" crc="4737bb6a" md5="ada0c1548503146d96900cc5809d3937" sha1="de33cfb89482254b4b636e9fd02ee322427700ca"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 066 (1998-03)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 066 (1998-03)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 066 (1998-03)(EMAP Images)(GB).pdf" size="222258326" crc="59e9b1e7" md5="5842342a9608fddf3bf07c1c0f1c70f9" sha1="2a6a8717d05b985a8059d49f3bb6db44c8397a44"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 067 (1998-04)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 067 (1998-04)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 067 (1998-04)(EMAP Images)(GB).pdf" size="123704793" crc="6613a358" md5="59e68d8b94ad22a9a87093293fe1ba39" sha1="966b6ae4dd3a2e4c4765321fa927443db397082b"/>
+	</game>
+	<game name="Nintendo Magazine - Issue 068 (1998-05)(EMAP Images)(GB)">
+		<description>Nintendo Magazine - Issue 068 (1998-05)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Magazine - Issue 068 (1998-05)(EMAP Images)(GB).pdf" size="119949710" crc="e314ddd3" md5="0598234eef45b5d110f96e62e96d5469" sha1="deb3b8ea6a6263b92d5a6ba5779f7cc2ede46052"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 069 (1997-06)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 069 (1997-06)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 069 (1997-06)(EMAP Images)(GB).pdf" size="131958339" crc="cd40bd9c" md5="988d193ae1e6cf233151a7b23e183dc2" sha1="c06fd0c9c61941f02017455f641c8b497f71eebd"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 070 (1998-07)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 070 (1998-07)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 070 (1998-07)(EMAP Images)(GB).pdf" size="37307947" crc="e3c203c9" md5="8c95fc5a1ace0458b6928da09a74781a" sha1="36c16646676ea832950c055c83aca5507caec89e"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 074 (1998-11)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 074 (1998-11)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 074 (1998-11)(EMAP Images)(GB).pdf" size="68413135" crc="b540ae9e" md5="77b21c109d73df8cc1e0d0230aee2ec4" sha1="9add316672116766e8a395b694081c485c6cab45"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 075 (1998-12)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 075 (1998-12)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 075 (1998-12)(EMAP Images)(GB).pdf" size="44116426" crc="c809963e" md5="4145ff17273e0d5a3d0e1a90c888f0f5" sha1="416d46695c80cdfa17aa6aa09aeecb8950458d1a"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 075 (1998-12)(EMAP Images)(GB)[a]">
+		<description>Nintendo Official Magazine - Issue 075 (1998-12)(EMAP Images)(GB)[a]</description>
+		<rom name="Nintendo Official Magazine - Issue 075 (1998-12)(EMAP Images)(GB)[a].pdf" size="134275120" crc="a941a60a" md5="d9883e0dbace753898837d689a11b270" sha1="2b41e8c66375793907fe7c0ef4e0827553419438"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 077 (1999-02)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 077 (1999-02)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 077 (1999-02)(EMAP Images)(GB).pdf" size="146188910" crc="2888fe6b" md5="5f3ccbfb7d447a9b06c7c64905706462" sha1="55b2c3d6053d6e2079a91e9590a358a53a2cf75d"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 078 (1999-03)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 078 (1999-03)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 078 (1999-03)(EMAP Images)(GB).pdf" size="48064977" crc="b58e5044" md5="2148bded063827118df28771bad78611" sha1="42fb8b0e2ce58fd806062b83106a234e106b6239"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 078 (1999-03)(EMAP Images)(GB)[a]">
+		<description>Nintendo Official Magazine - Issue 078 (1999-03)(EMAP Images)(GB)[a]</description>
+		<rom name="Nintendo Official Magazine - Issue 078 (1999-03)(EMAP Images)(GB)[a].pdf" size="113427705" crc="da762a5c" md5="db39589bcd2e5a1b7f2c5aad8a3bbdd3" sha1="1a6e3d6b0a5500a4b4bc272eee25415a246e3bf9"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 081 (1999-06)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 081 (1999-06)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 081 (1999-06)(EMAP Images)(GB).pdf" size="124035831" crc="5b06f6fd" md5="6b9bf5bfd248fd589d5b62f6d830518c" sha1="bdb89036ae6483cc0d90f836a4d0168bf102a46b"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 082 (1999-07)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 082 (1999-07)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 082 (1999-07)(EMAP Images)(GB).pdf" size="110001218" crc="30f453fb" md5="ec82af95b8a68db291dea87b0e3fec1b" sha1="4426b4e71e1898964f5b730ab762314a23bfd890"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 083 (1999-08)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 083 (1999-08)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 083 (1999-08)(EMAP Images)(GB).pdf" size="104558257" crc="78c1f5d4" md5="b1cf050ea881ab64716429f04b0b5dcf" sha1="828671a5264849de955206a088509b914d75cbe2"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 084 (1999-09)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 084 (1999-09)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 084 (1999-09)(EMAP Images)(GB).pdf" size="98578159" crc="f937c7e3" md5="7a9a27a2e1843c2b8f882bc6d9ec20dc" sha1="3a1ab6430546a23aaae2a631abe5b63f8d3a5696"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 085 (1999-10)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 085 (1999-10)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 085 (1999-10)(EMAP Images)(GB).pdf" size="101758448" crc="9c0b4ff4" md5="e77452d7e6442049e447303d393d2bc3" sha1="1de0d2caa626f393a5befe88defb83ade664c3b3"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 086 (1999-11)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 086 (1999-11)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 086 (1999-11)(EMAP Images)(GB).pdf" size="127698936" crc="9aab45f4" md5="e87379006bc76fa0790bfb92cc3f5afc" sha1="3e8dc0f9e504f2afe4c96e10dd2a01c0703ffbd4"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 087 (1999-12)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 087 (1999-12)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 087 (1999-12)(EMAP Images)(GB).pdf" size="148052416" crc="dc293738" md5="334c7b2f2fcd1c1e93a2a582ae4c6bd6" sha1="9cbea50dcc0ce05f5477114a4836022159340646"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 090 (2000-03)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 090 (2000-03)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 090 (2000-03)(EMAP Images)(GB).pdf" size="115128382" crc="7171a167" md5="794399836d8da9c207c112037b14a751" sha1="d7c1f6aee3e506a2ca84ec86107066831db43849"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 091 (2000-04)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 091 (2000-04)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 091 (2000-04)(EMAP Images)(GB).pdf" size="120273529" crc="5cc73397" md5="a08b5851114a9706c56530940586d90f" sha1="58c5ec02e5badbbb60503cf4436536192483fb1c"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 094 (2000-07)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 094 (2000-07)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 094 (2000-07)(EMAP Images)(GB).pdf" size="118453921" crc="8339314f" md5="585687ae400c5e3ab0daeac65956a5a5" sha1="2285d0f644852fe647f1863b3615f6ddcee6f1f1"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 095 (2000-08)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 095 (2000-08)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 095 (2000-08)(EMAP Images)(GB).pdf" size="112831144" crc="18a74970" md5="2f405dd3814976afe5cd45de2d19f349" sha1="968215eaf6d04012fce3f3b747ef601adfaad955"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 096 (2000-09)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 096 (2000-09)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 096 (2000-09)(EMAP Images)(GB).pdf" size="110800709" crc="40be6257" md5="8aabda07cc56f607bb8cfa28496b77e1" sha1="cfe9f494d6434a37f1a94337e3406271a5773c50"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 098 (2000-11)(EMAP Images)(GB)">
+		<description>Nintendo Official Magazine - Issue 098 (2000-11)(EMAP Images)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 098 (2000-11)(EMAP Images)(GB).pdf" size="262609594" crc="cb58abc7" md5="2b60c1f74787547b4e19a3d8af16e068" sha1="68b066bc1f9599e647b541c53ae78b0579bccc9a"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 098 (2000-11)(EMAP Images)(GB)[a]">
+		<description>Nintendo Official Magazine - Issue 098 (2000-11)(EMAP Images)(GB)[a]</description>
+		<rom name="Nintendo Official Magazine - Issue 098 (2000-11)(EMAP Images)(GB)[a].pdf" size="507753114" crc="e1d66711" md5="52ec81624313d9fddd823a9a6f5b9d14" sha1="9227ad4e2203003f78bd898d4c57561a603fc5a1"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 098 (2000-11)(EMAP)(GB)">
+		<description>Nintendo Official Magazine - Issue 098 (2000-11)(EMAP)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 098 (2000-11)(EMAP)(GB).pdf" size="262609262" crc="0a27f56d" md5="5b13f251872551bf1a0f08af9e865321" sha1="69998d34ac397323cc99e8c591230c5ced714340"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 100 (2001-01)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 100 (2001-01)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 100 (2001-01)(EMAP Active)(GB).pdf" size="121164736" crc="44fc564e" md5="74d1f6a8d23b355a3d5818be44ce28f8" sha1="b7d575e25b912c3cd683aa4eac26a94b31f951f7"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 101 (2001-02)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 101 (2001-02)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 101 (2001-02)(EMAP Active)(GB).pdf" size="115413622" crc="370f5deb" md5="b63468e6aaa73b892620606b97241b87" sha1="89891f3496f3a869007b14dba2eab356165bc60d"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 102 (2001-03)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 102 (2001-03)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 102 (2001-03)(EMAP Active)(GB).pdf" size="116674882" crc="a8800d68" md5="27848a07a8c531cc72b64c4e93a56849" sha1="6097235eea8ab66427302ec5d315285e0c619d65"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 103 (2001-04)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 103 (2001-04)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 103 (2001-04)(EMAP Active)(GB).pdf" size="106172120" crc="7c517cb7" md5="d51cd9d6afa30d85ac501660b55a7deb" sha1="e6a7a3771fe9fab30252e2dbc70283ed5bb7bb21"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 104 (2001-05)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 104 (2001-05)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 104 (2001-05)(EMAP Active)(GB).pdf" size="109502236" crc="a526ca7f" md5="4219a999ced68ddd2e62248ffb76b442" sha1="75f63aff9aabecc430823eaf864558e9e6514742"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 105 (2001-06)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 105 (2001-06)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 105 (2001-06)(EMAP Active)(GB).pdf" size="103054527" crc="71f238dc" md5="22dca6c2a0dda5d1085238578878f83f" sha1="930cc98dc8dad754cc328aaf242fadb594d59bed"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 107 (2001-08)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 107 (2001-08)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 107 (2001-08)(EMAP Active)(GB).pdf" size="105545526" crc="21b88687" md5="f450e8fda086da30349b50c8b9fbc5c0" sha1="b5db56e4a891cff0b45d2e0bc41408629d568290"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 109 (2001-10)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 109 (2001-10)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 109 (2001-10)(EMAP Active)(GB).pdf" size="102182996" crc="b0f60716" md5="c7899b9fda5421d5a573b34a8811922a" sha1="371c76e9b09eab91212c074e0412af03d2137882"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 111 (2001-12)(EMAP Active)(GB)[a]">
+		<description>Nintendo Official Magazine - Issue 111 (2001-12)(EMAP Active)(GB)[a]</description>
+		<rom name="Nintendo Official Magazine - Issue 111 (2001-12)(EMAP Active)(GB)[a].pdf" size="52500820" crc="69727235" md5="111a9ebfb34a426f2e7847d6e8058bfc" sha1="25eac4739ae8b084e96a0bdac195a4ce0d12f2af"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 111 (2001-12)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 111 (2001-12)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 111 (2001-12)(EMAP Active)(GB).pdf" size="210104414" crc="f6a74d05" md5="9818db827685238201c9d8ccee678c80" sha1="4df96384df7e1a777fc20bd11c6dfcc4b0327c73"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 113 (2002-02)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 113 (2002-02)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 113 (2002-02)(EMAP Active)(GB).pdf" size="114103602" crc="dc986d34" md5="d5c32969c2cb9f1f0479f129b880d5ce" sha1="94a9157ebe570836c8619afda14be0c4f450bd29"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 126 (2003-03)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 126 (2003-03)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 126 (2003-03)(EMAP Active)(GB).pdf" size="257254808" crc="7edcc304" md5="387d184048eb1b5100343ac21eeada03" sha1="7684a006096311125d302b418b99999735f2364a"/>
+	</game>
+	<game name="Nintendo Official Magazine - Issue 156 (2005-08)(EMAP Active)(GB)">
+		<description>Nintendo Official Magazine - Issue 156 (2005-08)(EMAP Active)(GB)</description>
+		<rom name="Nintendo Official Magazine - Issue 156 (2005-08)(EMAP Active)(GB).pdf" size="509276502" crc="cd32bafe" md5="1b476eccfb2740fd4e9cc441575abc55" sha1="a373a8dfc36815c683a1bd891766d62cc13d3cc1"/>
+	</game>
+</datafile>

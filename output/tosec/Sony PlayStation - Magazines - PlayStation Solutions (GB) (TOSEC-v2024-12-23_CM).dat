@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PlayStation Solutions (GB)</name>
+		<description>Sony PlayStation - Magazines - PlayStation Solutions (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation Solutions - Issue 04 (1997-01)(Rapide Publishing)(US)">
+		<description>PlayStation Solutions - Issue 04 (1997-01)(Rapide Publishing)(US)</description>
+		<rom name="PlayStation Solutions - Issue 04 (1997-01)(Rapide Publishing)(US).pdf" size="168561538" crc="d01d3d9c" md5="79edd7927c2b5c3323533bd89531d5d0" sha1="9fca22a4bffe497502b8b523d55e124197c95672"/>
+	</game>
+</datafile>

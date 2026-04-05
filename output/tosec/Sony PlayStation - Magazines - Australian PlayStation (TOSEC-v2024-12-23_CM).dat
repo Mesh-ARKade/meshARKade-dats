@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - Australian PlayStation</name>
+		<description>Sony PlayStation - Magazines - Australian PlayStation (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Australian PlayStation - Issue 04 (1999-08)(Next Publishing)(AU)">
+		<description>Australian PlayStation - Issue 04 (1999-08)(Next Publishing)(AU)</description>
+		<rom name="Australian PlayStation - Issue 04 (1999-08)(Next Publishing)(AU).pdf" size="334708710" crc="106b485b" md5="74d8687cc311e90725d728da9789934e" sha1="f9bf7cb47e3463e35c38acaae7f8dbb4ec55c644"/>
+	</game>
+</datafile>

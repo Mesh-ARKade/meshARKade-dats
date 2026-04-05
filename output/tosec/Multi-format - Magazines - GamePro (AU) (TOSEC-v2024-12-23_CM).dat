@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - GamePro (AU)</name>
+		<description>Multi-format - Magazines - GamePro (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GamePro - Issue 01 (2003-12)(IDG Publishing)(AU)">
+		<description>GamePro - Issue 01 (2003-12)(IDG Publishing)(AU)</description>
+		<rom name="GamePro - Issue 01 (2003-12)(IDG Publishing)(AU).pdf" size="217147882" crc="8cc6150b" md5="2b4c17e8b57c6a72e7a39f3e7cf733bc" sha1="52d5ca3664ef7331d5746d676ab1621747e8308d"/>
+	</game>
+	<game name="GamePro - Issue 05 (2004-08)(IDG Publishing)(AU)">
+		<description>GamePro - Issue 05 (2004-08)(IDG Publishing)(AU)</description>
+		<rom name="GamePro - Issue 05 (2004-08)(IDG Publishing)(AU).pdf" size="218575762" crc="863a8367" md5="ba2437fb591d0a18e805cb9cc2aec685" sha1="123a932fb3624dbab85367930168f1c378e0eaa7"/>
+	</game>
+</datafile>

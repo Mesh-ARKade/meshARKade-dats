@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - ImagineFX (GB)</name>
+		<description>Multi-format - Magazines - ImagineFX (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="ImagineFX - Issue 065 (2001-11)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 065 (2001-11)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 065 (2001-11)(Future Publishing)(GB).pdf" size="182780105" crc="2105f4b6" md5="2942595c2badebd1361727b4361614a1" sha1="88e6b9d5e8a85d2430a2bb6e3f629f95669d9f40"/>
+	</game>
+	<game name="ImagineFX - Issue 104 (2014-01)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 104 (2014-01)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 104 (2014-01)(Future Publishing)(GB).pdf" size="62780138" crc="0bad8231" md5="eed22914a71d32d102a1b98b70cb382e" sha1="63ab8fcdbef96d71768e7f4be2d6b15754cbee8c"/>
+	</game>
+	<game name="ImagineFX - Issue 105 (2014-02)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 105 (2014-02)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 105 (2014-02)(Future Publishing)(GB).pdf" size="65844106" crc="36499393" md5="e1af86845770e88246ede7ac6ba148e4" sha1="9411c44ad25e050336d80be6e47aef92c9f32b64"/>
+	</game>
+	<game name="ImagineFX - Issue 106 (2014-03)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 106 (2014-03)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 106 (2014-03)(Future Publishing)(GB).pdf" size="73514310" crc="b660a15c" md5="53c456179d0df6de280c8b5868b816aa" sha1="901cae88c282d5cba6c007b4d3f9c53fc5cf9b79"/>
+	</game>
+	<game name="ImagineFX - Issue 107 (2014-04)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 107 (2014-04)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 107 (2014-04)(Future Publishing)(GB).pdf" size="66026412" crc="d128de0b" md5="02bd228d1ba85838bdf3221d39c33ae6" sha1="c84618c88baeb65b68a990290e5fb03fa3681f7c"/>
+	</game>
+	<game name="ImagineFX - Issue 108 (2014-05)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 108 (2014-05)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 108 (2014-05)(Future Publishing)(GB).pdf" size="81784002" crc="affc86a2" md5="f8dd4019ff0470e009ec44b062674365" sha1="21736159521c8399d15fcf6f07d7b6cfcc03fd60"/>
+	</game>
+	<game name="ImagineFX - Issue 109 (2014-06)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 109 (2014-06)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 109 (2014-06)(Future Publishing)(GB).pdf" size="62282303" crc="7186aa3b" md5="006ac32dc39b95e6272910ce6373069b" sha1="027af9399fc8af6d9b431ff209227a4257dd22e0"/>
+	</game>
+	<game name="ImagineFX - Issue 110 (2014-07)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 110 (2014-07)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 110 (2014-07)(Future Publishing)(GB).pdf" size="59300853" crc="d947fe7e" md5="85d70128e8652737aa6b4ca337d22c2e" sha1="ab8519301d6134d3dea2b1408ad391b974b94935"/>
+	</game>
+	<game name="ImagineFX - Issue 111 (2014-08)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 111 (2014-08)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 111 (2014-08)(Future Publishing)(GB).pdf" size="55831308" crc="44817040" md5="8656e71256e2b1c1a081dd06ce22a029" sha1="6e3451c611691e6db6565baeb167c90d83a41adf"/>
+	</game>
+	<game name="ImagineFX - Issue 112 (2014-09)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 112 (2014-09)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 112 (2014-09)(Future Publishing)(GB).pdf" size="60578401" crc="791a84a6" md5="d175f588d469643b4c817b0d879997b9" sha1="a5d05ba412a4e09df4abe905680ec97595f31182"/>
+	</game>
+	<game name="ImagineFX - Issue 113 (2014-10)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 113 (2014-10)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 113 (2014-10)(Future Publishing)(GB).pdf" size="52211922" crc="ee879772" md5="651d29c2548189ac407a2ed3696281e2" sha1="12ea8072924d141163bf5d40205f765b9c829533"/>
+	</game>
+	<game name="ImagineFX - Issue 114 (2014-11)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 114 (2014-11)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 114 (2014-11)(Future Publishing)(GB).pdf" size="51108180" crc="5b19dba6" md5="a865cfa0afb7623ffb0eb9482a5fe39a" sha1="d1fbeec6264b0c4d051804aaf0ad7b4c449d20d0"/>
+	</game>
+	<game name="ImagineFX - Issue 115 (2014-12)(Future Publishing)(GB)">
+		<description>ImagineFX - Issue 115 (2014-12)(Future Publishing)(GB)</description>
+		<rom name="ImagineFX - Issue 115 (2014-12)(Future Publishing)(GB).pdf" size="56398320" crc="2074141d" md5="3d74a3ac960946e9633e26039c907699" sha1="6da3d4f872e9684583463dc4fac1b22580e3a705"/>
+	</game>
+</datafile>

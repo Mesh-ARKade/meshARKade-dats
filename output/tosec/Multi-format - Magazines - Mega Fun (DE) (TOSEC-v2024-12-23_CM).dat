@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Mega Fun (DE)</name>
+		<description>Multi-format - Magazines - Mega Fun (DE) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mega Fun (1996-01)(Computec Verlag)(DE)">
+		<description>Mega Fun (1996-01)(Computec Verlag)(DE)</description>
+		<rom name="Mega Fun (1996-01)(Computec Verlag)(DE).pdf" size="58762885" crc="dbb56b30" md5="78141cb39dc7032e62e736265abd458a" sha1="085b5aa5176c56775a4be398ac652681baef7bb2"/>
+	</game>
+</datafile>

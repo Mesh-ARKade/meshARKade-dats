@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - PC Gamer (ID)</name>
+		<description>IBM PC Compatibles - Magazines - PC Gamer (ID) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PC Gamer - Edisi 50 (2013-09)(Future Publishing)(ID)">
+		<description>PC Gamer - Edisi 50 (2013-09)(Future Publishing)(ID)</description>
+		<rom name="PC Gamer - Edisi 50 (2013-09)(Future Publishing)(ID).pdf" size="60376507" crc="a87a51ec" md5="bd0e45799b9a7e8b4dbb44931b20dee0" sha1="eca3cb4dfea9ef0afd38ad1a97b7e4ea00335a7a"/>
+	</game>
+	<game name="PC Gamer - Edisi 51 (2013-10)(Future Publishing)(ID)">
+		<description>PC Gamer - Edisi 51 (2013-10)(Future Publishing)(ID)</description>
+		<rom name="PC Gamer - Edisi 51 (2013-10)(Future Publishing)(ID).pdf" size="52507640" crc="7b83acbf" md5="5902fa19a90c4e4c27ddf34750e3cc59" sha1="857c76a12915f138940202c32d8c1a6702283c9a"/>
+	</game>
+	<game name="PC Gamer - Edisi 52 (2013-11)(Future Publishing)(ID)">
+		<description>PC Gamer - Edisi 52 (2013-11)(Future Publishing)(ID)</description>
+		<rom name="PC Gamer - Edisi 52 (2013-11)(Future Publishing)(ID).pdf" size="33635564" crc="3f9931b7" md5="f1d4ffd984000dd0b4c1ef3af8be26cd" sha1="ebecc81dcacfd23a3af6253b8f9daae6bbf094e7"/>
+	</game>
+	<game name="PC Gamer - Edisi 54 (2014-01)(Future Publishing)(ID)">
+		<description>PC Gamer - Edisi 54 (2014-01)(Future Publishing)(ID)</description>
+		<rom name="PC Gamer - Edisi 54 (2014-01)(Future Publishing)(ID).pdf" size="118585963" crc="61e791ea" md5="4d57a4e7c235b6eb867c807cce4b3523" sha1="87489ec7b8cd34ec18d3df742a916112fb46c2e2"/>
+	</game>
+	<game name="PC Gamer - Edisi 56 (2014-03)(Future Publishing)(ID)">
+		<description>PC Gamer - Edisi 56 (2014-03)(Future Publishing)(ID)</description>
+		<rom name="PC Gamer - Edisi 56 (2014-03)(Future Publishing)(ID).pdf" size="53366859" crc="9263ba0f" md5="62f874e07b4ce77e1b09008532b11381" sha1="01863e38166e456ac8228812c5fe833d7ebba106"/>
+	</game>
+</datafile>

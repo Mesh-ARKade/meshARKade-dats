@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64 - Magazines - 64 Solutions (GB)</name>
+		<description>Nintendo 64 - Magazines - 64 Solutions (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="64 Solutions (1999-06)(Paragon Publishing)(GB)">
+		<description>64 Solutions (1999-06)(Paragon Publishing)(GB)</description>
+		<rom name="64 Solutions (1999-06)(Paragon Publishing)(GB).pdf" size="417524425" crc="d1ed0851" md5="963e09bdb93efff294f2b56d0abe2ec0" sha1="37781d238bfeafbe35a36ff6f8514689c5bb2abe"/>
+	</game>
+	<game name="64 Solutions - Volume 01 (1997)(Paragon Publishing)(GB)">
+		<description>64 Solutions - Volume 01 (1997)(Paragon Publishing)(GB)</description>
+		<rom name="64 Solutions - Volume 01 (1997)(Paragon Publishing)(GB).pdf" size="119560573" crc="cc776f6d" md5="c83eb328170793075b7bd9e2a1f89f8f" sha1="f518482695688d999050cb4bc2ea093ff56dea27"/>
+	</game>
+	<game name="64 Solutions - Volume 02 (1998)(Paragon Publishing)(GB)">
+		<description>64 Solutions - Volume 02 (1998)(Paragon Publishing)(GB)</description>
+		<rom name="64 Solutions - Volume 02 (1998)(Paragon Publishing)(GB).pdf" size="293507304" crc="56736423" md5="44be1cdec831ba364a6bf6627d6b5ca0" sha1="c380c93039aadf94e36b9280bdb96959af3311bc"/>
+	</game>
+	<game name="64 Solutions - Volume 03 (1998)(Paragon Publishing)(GB)">
+		<description>64 Solutions - Volume 03 (1998)(Paragon Publishing)(GB)</description>
+		<rom name="64 Solutions - Volume 03 (1998)(Paragon Publishing)(GB).pdf" size="307644453" crc="d7d72440" md5="3949390afa32693ab8131151d93b6a30" sha1="402b3271c313d26c67a2c97c2be78021b442ba58"/>
+	</game>
+	<game name="64 Solutions - Volume 04 (1998)(Paragon Publishing)(GB)">
+		<description>64 Solutions - Volume 04 (1998)(Paragon Publishing)(GB)</description>
+		<rom name="64 Solutions - Volume 04 (1998)(Paragon Publishing)(GB).pdf" size="126745267" crc="eee30055" md5="8d0d9f2f3a68c894e22c051bc66726ca" sha1="e953eec4b35bbcb897004e8087d6d763000d9998"/>
+	</game>
+	<game name="64 Solutions - Volume 05 (1998)(Paragon Publishing)(GB)">
+		<description>64 Solutions - Volume 05 (1998)(Paragon Publishing)(GB)</description>
+		<rom name="64 Solutions - Volume 05 (1998)(Paragon Publishing)(GB).pdf" size="128148043" crc="3b14fb62" md5="a7ce3722f80ab67b6afc4c899c3c6ac6" sha1="3ab9f77c9fbb03449c9c10b5a528a6e4b8fb0f33"/>
+	</game>
+</datafile>

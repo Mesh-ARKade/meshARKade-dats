@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PlaySoluces (FR)</name>
+		<description>Sony PlayStation - Magazines - PlaySoluces (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlaySoluces - Numero 14 (1999)(Pressimage)(FR)">
+		<description>PlaySoluces - Numero 14 (1999)(Pressimage)(FR)</description>
+		<rom name="PlaySoluces - Numero 14 (1999)(Pressimage)(FR).pdf" size="79548528" crc="155609f8" md5="fb94e0d6f477331a5459a94a0491e0ac" sha1="4a21b5de1e3f5f27fb5448372a2ef50a3b658106"/>
+	</game>
+</datafile>

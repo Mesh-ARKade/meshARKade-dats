@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64 - Magazines - N64 Magazine (GB)</name>
+		<description>Nintendo 64 - Magazines - N64 Magazine (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="N64 Magazine - Issue 001 (1997-04)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 001 (1997-04)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 001 (1997-04)(Future Publishing)(GB).pdf" size="246072003" crc="64a00c06" md5="71cc9f4f6addcc167c12468a7fb68732" sha1="bc371382896821d767baca37958b4bf6e6e3c497"/>
+	</game>
+	<game name="N64 Magazine - Issue 002 (1997-05)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 002 (1997-05)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 002 (1997-05)(Future Publishing)(GB).pdf" size="229910834" crc="c99204e2" md5="a26a5d5254c281b47eab030376e1693a" sha1="c6c4d3023d095b62e16a4a594ea6615679f65505"/>
+	</game>
+	<game name="N64 Magazine - Issue 003 (1997-06)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 003 (1997-06)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 003 (1997-06)(Future Publishing)(GB).pdf" size="237154904" crc="57458c80" md5="b1e75fa5f2dc0e831117a7c5328f23ec" sha1="7896316c3543dcd8ccfcdbe6bc1575d9c4822114"/>
+	</game>
+	<game name="N64 Magazine - Issue 004 (1997-07)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 004 (1997-07)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 004 (1997-07)(Future Publishing)(GB).pdf" size="217669281" crc="9f20b264" md5="3e1fae8db85c06b7a528384531903de4" sha1="1d1d07c0e17e1aa3bd80d100fda1dc83a2eab296"/>
+	</game>
+	<game name="N64 Magazine - Issue 005 (1997-08)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 005 (1997-08)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 005 (1997-08)(Future Publishing)(GB).pdf" size="252518499" crc="9c58e680" md5="6bb7da13d5f02205153a35b2a850cfd1" sha1="40f19efff2f23657178a24b65129f8002f528ca8"/>
+	</game>
+	<game name="N64 Magazine - Issue 006 (1997-09)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 006 (1997-09)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 006 (1997-09)(Future Publishing)(GB).pdf" size="85459775" crc="7ddad1e9" md5="c3fd42efb93be42cdbb947bccc40e5c2" sha1="3c60bea9ef8a2553b0cc90b234c95efd5c318be9"/>
+	</game>
+	<game name="N64 Magazine - Issue 006 (1997-09)(Future Publishing)(GB)[a]">
+		<description>N64 Magazine - Issue 006 (1997-09)(Future Publishing)(GB)[a]</description>
+		<rom name="N64 Magazine - Issue 006 (1997-09)(Future Publishing)(GB)[a].pdf" size="200713168" crc="fcc9ee01" md5="87f0af06fd1dbd43d6cc92814680047c" sha1="2402990930e7d0fc603e9f95528689c93498dc2c"/>
+	</game>
+	<game name="N64 Magazine - Issue 007 (1997-10)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 007 (1997-10)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 007 (1997-10)(Future Publishing)(GB).pdf" size="93461515" crc="3805c0f0" md5="d5c0a5783f8a4497f81cc313650f8b37" sha1="94c47a291346d88a0fe2c1cf71e712d223387b90"/>
+	</game>
+	<game name="N64 Magazine - Issue 007 (1997-10)(Future Publishing)(GB)[a]">
+		<description>N64 Magazine - Issue 007 (1997-10)(Future Publishing)(GB)[a]</description>
+		<rom name="N64 Magazine - Issue 007 (1997-10)(Future Publishing)(GB)[a].pdf" size="203780980" crc="f4937185" md5="a43445e792e7ca594baba9fd03a0feb6" sha1="6c6df4587f7d04b9fd2c1f1e6b2f9089b3e71f03"/>
+	</game>
+	<game name="N64 Magazine - Issue 008 (1997-11)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 008 (1997-11)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 008 (1997-11)(Future Publishing)(GB).pdf" size="91966485" crc="166bee0b" md5="78b88916d1efac56622d42b2dfd17aa5" sha1="b4e9214de367806de71607e7fb9d60e9641afb50"/>
+	</game>
+	<game name="N64 Magazine - Issue 009 (1997-12)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 009 (1997-12)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 009 (1997-12)(Future Publishing)(GB).pdf" size="108730703" crc="a5d7f429" md5="6f2663517c2d00a11c3f6eef0fa5c8a7" sha1="92f51a882520b6a20625f306061bc552891094ee"/>
+	</game>
+	<game name="N64 Magazine - Issue 010 (1997)(Future Publishing)(GB)[christmas edition]">
+		<description>N64 Magazine - Issue 010 (1997)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="N64 Magazine - Issue 010 (1997)(Future Publishing)(GB)[christmas edition].pdf" size="111808203" crc="18bc9699" md5="d1d488412be487689059c35d25ac726e" sha1="8d12b50fb7e7f0cc6508efc5a6461b5e25d4a538"/>
+	</game>
+	<game name="N64 Magazine - Issue 011 (1998-01)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 011 (1998-01)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 011 (1998-01)(Future Publishing)(GB).pdf" size="111151211" crc="89a23e9c" md5="20120efb0ec0e7be65f23c029b63f5c9" sha1="9dc6d34cf0a5baa3947a40bedb3c9aa15826f9f5"/>
+	</game>
+	<game name="N64 Magazine - Issue 012 (1998-02)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 012 (1998-02)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 012 (1998-02)(Future Publishing)(GB).pdf" size="116634703" crc="c35c1517" md5="066ad283162a152a342b971c74ac94e0" sha1="f0d0360bcf6bae05d763a4b3c6f90f75c4e0f6a2"/>
+	</game>
+	<game name="N64 Magazine - Issue 013 (1998-03)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 013 (1998-03)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 013 (1998-03)(Future Publishing)(GB).pdf" size="235020399" crc="02720d0e" md5="6a41d19868c45a846ad71149ce475eaa" sha1="cf320b86f977907799cbf1371c27d6a15f9e1648"/>
+	</game>
+	<game name="N64 Magazine - Issue 014 (1998-04)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 014 (1998-04)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 014 (1998-04)(Future Publishing)(GB).pdf" size="234285749" crc="f0993f5b" md5="05e3793ca8bb0c59fb760e48a496299c" sha1="476eeea21f765b440e6df3b1474f5f27298048bd"/>
+	</game>
+	<game name="N64 Magazine - Issue 015 (1998-05)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 015 (1998-05)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 015 (1998-05)(Future Publishing)(GB).pdf" size="250093867" crc="0c88f28e" md5="5f481d712bc72fa1edd07da640ea8fbd" sha1="ed728c171c78f4234eebb1b5b5549c473e694a00"/>
+	</game>
+	<game name="N64 Magazine - Issue 016 (1998-06)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 016 (1998-06)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 016 (1998-06)(Future Publishing)(GB).pdf" size="236562945" crc="77ddd1b2" md5="d275c3bf25555837cb10dfcc1a66ca4e" sha1="5e3542aa14e0505915ee9122033529084bb3a27f"/>
+	</game>
+	<game name="N64 Magazine - Issue 017 (1998-07)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 017 (1998-07)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 017 (1998-07)(Future Publishing)(GB).pdf" size="290092915" crc="e7537698" md5="98e0415a84e9c5fdebd7fda584d4ef37" sha1="2196d2affa448594d722d66a59079f77fea681eb"/>
+	</game>
+	<game name="N64 Magazine - Issue 018 (1998-08)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 018 (1998-08)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 018 (1998-08)(Future Publishing)(GB).pdf" size="286874989" crc="097677d8" md5="91f679eacfc2aedc94945934911d8270" sha1="262a07c25bcd82555e5ccb76c61357bee53db7c5"/>
+	</game>
+	<game name="N64 Magazine - Issue 019 (1998-09)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 019 (1998-09)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 019 (1998-09)(Future Publishing)(GB).pdf" size="300130956" crc="c1bdc967" md5="784b449ec640e9c43e7fe5b92f49cc97" sha1="f7311e4e2dae4b3477a92e2ffd5181d1c3836b36"/>
+	</game>
+	<game name="N64 Magazine - Issue 020 (1998-10)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 020 (1998-10)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 020 (1998-10)(Future Publishing)(GB).pdf" size="300520056" crc="1012b04a" md5="1ff2571e711fe4c572b37a149de4f904" sha1="852d2ca8f51bd098c7e3f5b12e56a274b6725195"/>
+	</game>
+	<game name="N64 Magazine - Issue 021 (1998-11)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 021 (1998-11)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 021 (1998-11)(Future Publishing)(GB).pdf" size="321694682" crc="a0bcd059" md5="980ad917c6670fbf79f6b1c345546d55" sha1="d407abbd1987c69cda5ece84145ec789ef472a54"/>
+	</game>
+	<game name="N64 Magazine - Issue 022 (1998-12)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 022 (1998-12)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 022 (1998-12)(Future Publishing)(GB).pdf" size="325440689" crc="52adcd43" md5="77b045affaf252ec542753bb6421e60e" sha1="be211d9b5ed4d6038bc598e027ca1790c80ba6b7"/>
+	</game>
+	<game name="N64 Magazine - Issue 023 (1998)(Future Publishing)(GB)[a][christmas edition]">
+		<description>N64 Magazine - Issue 023 (1998)(Future Publishing)(GB)[a][christmas edition]</description>
+		<rom name="N64 Magazine - Issue 023 (1998)(Future Publishing)(GB)[a][christmas edition].pdf" size="337932607" crc="8351136c" md5="edd21724efc5b93d6b6b4964e61cfc06" sha1="f15465ffcfffb2e203dc1d436b47108db15c783f"/>
+	</game>
+	<game name="N64 Magazine - Issue 023 (1998)(Future Publishing)(GB)[christmas edition]">
+		<description>N64 Magazine - Issue 023 (1998)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="N64 Magazine - Issue 023 (1998)(Future Publishing)(GB)[christmas edition].pdf" size="224858260" crc="892e4133" md5="29548e4a901e815123d2aa535e1d18cb" sha1="6c1083f8ab7a9beacfe7775209bfc2367355edce"/>
+	</game>
+	<game name="N64 Magazine - Issue 024 (1999-01)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 024 (1999-01)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 024 (1999-01)(Future Publishing)(GB).pdf" size="333700338" crc="e224102d" md5="5aca559967aed1eaba7d266892aa910f" sha1="68141e1820a5a81e671e6cd68aef6f4f0d717388"/>
+	</game>
+	<game name="N64 Magazine - Issue 025 (1999-02)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 025 (1999-02)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 025 (1999-02)(Future Publishing)(GB).pdf" size="336707012" crc="d8ac98e0" md5="9d8c5c847bcc3093867385dcb3e949ec" sha1="1e73170dabf3e0acd7cc2a826766fea00f8cc981"/>
+	</game>
+	<game name="N64 Magazine - Issue 026 (1999-03)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 026 (1999-03)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 026 (1999-03)(Future Publishing)(GB).pdf" size="393225285" crc="b3482c16" md5="94a6154568078c56082fe9b7f0fbcb0b" sha1="10d9778365e2c2de8a6b98472567aba28644fb2c"/>
+	</game>
+	<game name="N64 Magazine - Issue 027 (1999-04)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 027 (1999-04)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 027 (1999-04)(Future Publishing)(GB).pdf" size="29558068" crc="1e0090aa" md5="a8df8c2e84e686107aa1aa74855e0185" sha1="d5b39fae362dafe54d0719d56cf836f74f8e9f19"/>
+	</game>
+	<game name="N64 Magazine - Issue 028 (1999-05)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 028 (1999-05)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 028 (1999-05)(Future Publishing)(GB).pdf" size="375424614" crc="2bdf4134" md5="b9988702cfeb9ef4cb95eae5e262433f" sha1="c45279e151bc2279ee7cbd5d371d25c14de31967"/>
+	</game>
+	<game name="N64 Magazine - Issue 029 (1999-06)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 029 (1999-06)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 029 (1999-06)(Future Publishing)(GB).pdf" size="405305395" crc="0fc6a96d" md5="50b1387d5b9683bf11a9c430759e33f2" sha1="b9be23f7e0369c72a271c4951155c7e1ffb8e40b"/>
+	</game>
+	<game name="N64 Magazine - Issue 030 (1999-07)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 030 (1999-07)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 030 (1999-07)(Future Publishing)(GB).pdf" size="367482780" crc="5c467a25" md5="cf71f312558eb3c1108e7b1ed67e2c32" sha1="f94c6003da602dc4d41c57d2b6256bc2da198d2f"/>
+	</game>
+	<game name="N64 Magazine - Issue 031 (1999-08)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 031 (1999-08)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 031 (1999-08)(Future Publishing)(GB).pdf" size="30036298" crc="04fd6151" md5="c18132430a7c1cc97b65da181580f156" sha1="bdb6e9ff6a5e86a2a1008027706a30c9af526c01"/>
+	</game>
+	<game name="N64 Magazine - Issue 032 (1999-09)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 032 (1999-09)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 032 (1999-09)(Future Publishing)(GB).pdf" size="31254264" crc="18ff2ea5" md5="69aa9d533f5ba1f883fa8c2869e40321" sha1="c47f8ee3ab7935cfdbb9ef229e56a1c086d91644"/>
+	</game>
+	<game name="N64 Magazine - Issue 033 (1999-10)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 033 (1999-10)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 033 (1999-10)(Future Publishing)(GB).pdf" size="375210962" crc="e265b9b9" md5="bc8e0f0095d35aba529ba764c4dffd66" sha1="7a2e62c3d9b3416c1b0eb16e57fa83713e88c4d5"/>
+	</game>
+	<game name="N64 Magazine - Issue 034 (1999-11)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 034 (1999-11)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 034 (1999-11)(Future Publishing)(GB).pdf" size="320665487" crc="c99cb9fc" md5="b5fc1519c4c1eec4199250b8f7ecc925" sha1="6c40c2146e4aaa207c51d1a5381cee7c3de34cb3"/>
+	</game>
+	<game name="N64 Magazine - Issue 035 (1999-12)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 035 (1999-12)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 035 (1999-12)(Future Publishing)(GB).pdf" size="397642708" crc="48b80edd" md5="012429bfe1cabb4a4a658162909a4f82" sha1="2d1696e69a01dfc42b448c26b3e3b3f9ab0e94a8"/>
+	</game>
+	<game name="N64 Magazine - Issue 036 (1999)(Future Publishing)(GB)[a][christmas edition]">
+		<description>N64 Magazine - Issue 036 (1999)(Future Publishing)(GB)[a][christmas edition]</description>
+		<rom name="N64 Magazine - Issue 036 (1999)(Future Publishing)(GB)[a][christmas edition].pdf" size="468272559" crc="9ced6ec1" md5="7be298a56e8361ac69444ee023e062f4" sha1="000bfcdccb8971f4e6c67b621df7c936758b2042"/>
+	</game>
+	<game name="N64 Magazine - Issue 036 (1999)(Future Publishing)(GB)[christmas edition]">
+		<description>N64 Magazine - Issue 036 (1999)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="N64 Magazine - Issue 036 (1999)(Future Publishing)(GB)[christmas edition].pdf" size="115688838" crc="206dae5b" md5="7da284063a63a14418f316e00725898a" sha1="e02a98bf835a4d639e2d726dec2a092b5b0c7747"/>
+	</game>
+	<game name="N64 Magazine - Issue 037 (2000-01)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 037 (2000-01)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 037 (2000-01)(Future Publishing)(GB).pdf" size="365544002" crc="530a23af" md5="916b2fee187bda9d546e3eb5f3c4e854" sha1="e8bc3aa564667f97966469efd5c1c4c6a4b95485"/>
+	</game>
+	<game name="N64 Magazine - Issue 038 (2000-02)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 038 (2000-02)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 038 (2000-02)(Future Publishing)(GB).pdf" size="294499974" crc="197c6a5e" md5="2c4bbd179931c51b9052b4208b61fc9e" sha1="26d1eff16b6c1f7ad1e105b01f9411c3e6d46cdd"/>
+	</game>
+	<game name="N64 Magazine - Issue 039 (2000-03)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 039 (2000-03)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 039 (2000-03)(Future Publishing)(GB).pdf" size="341019506" crc="f204afc7" md5="40453ac16ffa1e269dc4dd4b9283bfab" sha1="32d35b29d5f2bcf92523eb45ce7a937569664df4"/>
+	</game>
+	<game name="N64 Magazine - Issue 040 (2000-04)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 040 (2000-04)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 040 (2000-04)(Future Publishing)(GB).pdf" size="232511653" crc="f6d2d85f" md5="b3769958dbedeec33c5657d9505c6873" sha1="437707c95941a1933491e63b29e680f37a76d9c7"/>
+	</game>
+	<game name="N64 Magazine - Issue 041 (2000-05)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 041 (2000-05)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 041 (2000-05)(Future Publishing)(GB).pdf" size="228929637" crc="9400af34" md5="bf1ce58caf9a586d07a88dd5e4954c2f" sha1="3dd5f1da3eeb729da27fadc2ff91b7ec5764a6d1"/>
+	</game>
+	<game name="N64 Magazine - Issue 042 (2000-06)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 042 (2000-06)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 042 (2000-06)(Future Publishing)(GB).pdf" size="230012022" crc="b4bc1286" md5="017ef3c15cbc356eb10a52231905d495" sha1="7e5af598d770f3947e3ef04edb119e0b9cb3f33a"/>
+	</game>
+	<game name="N64 Magazine - Issue 043 (2000-07)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 043 (2000-07)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 043 (2000-07)(Future Publishing)(GB).pdf" size="222662404" crc="65cfe8a0" md5="b7b3b7cc4dea4d8b0be48c3f8f0b5b11" sha1="429c21dcdf99ba60ef24a844ce4528daa27b2549"/>
+	</game>
+	<game name="N64 Magazine - Issue 044 (2000-08)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 044 (2000-08)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 044 (2000-08)(Future Publishing)(GB).pdf" size="220834098" crc="e97d1882" md5="3fab8fede24dea5f20dbafffcb0c6306" sha1="c48b97dc9236736b9d4e95a280597618391465d8"/>
+	</game>
+	<game name="N64 Magazine - Issue 045 (2000-09)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 045 (2000-09)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 045 (2000-09)(Future Publishing)(GB).pdf" size="316015318" crc="512fca17" md5="f329bbb10561135f5a1f7efe3c6de728" sha1="68df407aa2a5a327d1a85f737327957f4136b5a0"/>
+	</game>
+	<game name="N64 Magazine - Issue 046 (2000-10)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 046 (2000-10)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 046 (2000-10)(Future Publishing)(GB).pdf" size="238707399" crc="20507c98" md5="89ee01904c6905c56061bbc93a17d993" sha1="3773288d86a04fe4b33cf5cafbca5a8d10675f4b"/>
+	</game>
+	<game name="N64 Magazine - Issue 047 (2000-11)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 047 (2000-11)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 047 (2000-11)(Future Publishing)(GB).pdf" size="331480810" crc="2a3c15c4" md5="26a4633531bf53ecbb8707c809f3aff5" sha1="27bd4ef73745ed399a41fc86170dc26a3e400ee9"/>
+	</game>
+	<game name="N64 Magazine - Issue 048 (2000-12)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 048 (2000-12)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 048 (2000-12)(Future Publishing)(GB).pdf" size="241190229" crc="b2395bd7" md5="591bb4fa290141052e6842177f2697b9" sha1="b7ee5335ff3be1e60e7a16af954abdb41c8988e0"/>
+	</game>
+	<game name="N64 Magazine - Issue 049 (2000)(Future Publishing)(GB)[christmas edition]">
+		<description>N64 Magazine - Issue 049 (2000)(Future Publishing)(GB)[christmas edition]</description>
+		<rom name="N64 Magazine - Issue 049 (2000)(Future Publishing)(GB)[christmas edition].pdf" size="323291665" crc="c80257cb" md5="70edb656c8d140b1afccdbfa5d5003a4" sha1="1cb4d946fc7b3b9fd0d28fc28ef97daf5c0c4945"/>
+	</game>
+	<game name="N64 Magazine - Issue 050 (2001-01)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 050 (2001-01)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 050 (2001-01)(Future Publishing)(GB).pdf" size="309770707" crc="480e84d9" md5="4e2b059d11e7b4817036b9d895dbfebe" sha1="cf8f0a2142658166837cb6fbb670e340ba5ec95d"/>
+	</game>
+	<game name="N64 Magazine - Issue 051 (2001-01)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 051 (2001-01)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 051 (2001-01)(Future Publishing)(GB).pdf" size="286483719" crc="e67b4152" md5="739501a1d734f2355c6c425b0dcfdc93" sha1="8a1dee18bf760508ab4e43667fe2131e9830b775"/>
+	</game>
+	<game name="N64 Magazine - Issue 052 (2001-02)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 052 (2001-02)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 052 (2001-02)(Future Publishing)(GB).pdf" size="300147838" crc="e54578d0" md5="c55fe8c3fdf70cb6948b14a5be54397e" sha1="c2bcc485d1c839abb71cba8e4cd648f036565a2b"/>
+	</game>
+	<game name="N64 Magazine - Issue 053 (2001-03)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 053 (2001-03)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 053 (2001-03)(Future Publishing)(GB).pdf" size="208187949" crc="44dfac52" md5="754a8f98528373784ee0643fa1e8908c" sha1="efe8bbffa325ace1080032d0ec66896c9729e9c3"/>
+	</game>
+	<game name="N64 Magazine - Issue 054 (2001-04)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 054 (2001-04)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 054 (2001-04)(Future Publishing)(GB).pdf" size="284968007" crc="3844d590" md5="5307d716728fd7f772b7c691eca813e1" sha1="98ef8dd311d90a9215fbcc6f1c2148bc32ef8cb6"/>
+	</game>
+	<game name="N64 Magazine - Issue 055 (2001-05)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 055 (2001-05)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 055 (2001-05)(Future Publishing)(GB).pdf" size="211999913" crc="9990029b" md5="200a94794eb8866358ded4757663f808" sha1="d1c66c3bb0b11f4549929131e9dba99659aa5b95"/>
+	</game>
+	<game name="N64 Magazine - Issue 056 (2001-06)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 056 (2001-06)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 056 (2001-06)(Future Publishing)(GB).pdf" size="209300618" crc="ff07028e" md5="f1ea612b4809bfc17df160db7a6e0619" sha1="d6eb755458e28a310a00bc28d016bf446e64cbda"/>
+	</game>
+	<game name="N64 Magazine - Issue 057 (2001-07)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 057 (2001-07)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 057 (2001-07)(Future Publishing)(GB).pdf" size="281575213" crc="58062c9e" md5="48a5aa62c40edf53e498f77f5ca5f31b" sha1="7c429bca637b07ca7196bc66854be6600fa39f79"/>
+	</game>
+	<game name="N64 Magazine - Issue 058 (2001-08)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 058 (2001-08)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 058 (2001-08)(Future Publishing)(GB).pdf" size="279228805" crc="aedeec28" md5="610b6630795a9f96dca39c3174406d89" sha1="08971282924a5322b1d68b9f29946ad4e1cd0c97"/>
+	</game>
+	<game name="N64 Magazine - Issue 058 (2001-09)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 058 (2001-09)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 058 (2001-09)(Future Publishing)(GB).pdf" size="279228747" crc="29ef7216" md5="e0b0659be1d48d9c608f9681371ae6d8" sha1="7389ddd99a9f2df61be1d96d12720250d141c91c"/>
+	</game>
+	<game name="N64 Magazine - Issue 059 (2001-10)(Future Publishing)(GB)">
+		<description>N64 Magazine - Issue 059 (2001-10)(Future Publishing)(GB)</description>
+		<rom name="N64 Magazine - Issue 059 (2001-10)(Future Publishing)(GB).pdf" size="285099250" crc="5fc83194" md5="d7fd5e1ca36741bb2679deb0eef38f68" sha1="4fcf895d2ccd07a06e65cb1c6dcc10e0c3745ef5"/>
+	</game>
+</datafile>

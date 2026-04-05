@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - P.S.X. (US)</name>
+		<description>Sony PlayStation - Magazines - P.S.X. (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="P.S.X. - Issue 05 (1996-07)(Sendai Media Group)(US)">
+		<description>P.S.X. - Issue 05 (1996-07)(Sendai Media Group)(US)</description>
+		<rom name="P.S.X. - Issue 05 (1996-07)(Sendai Media Group)(US).pdf" size="257659787" crc="ab3d8e27" md5="c83d63828f00c87460d63eebb56c1941" sha1="fce876bfd023460ab478f38d634cd621c759a02d"/>
+	</game>
+</datafile>

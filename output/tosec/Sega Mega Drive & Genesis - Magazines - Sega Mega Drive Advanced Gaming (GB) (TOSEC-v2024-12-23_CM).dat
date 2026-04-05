@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Mega Drive &amp; Genesis - Magazines - Sega Mega Drive Advanced Gaming (GB)</name>
+		<description>Sega Mega Drive &amp; Genesis - Magazines - Sega Mega Drive Advanced Gaming (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Sega Mega Drive Advanced Gaming - Issue 1 (1992-09)(Maverick Magazines)(GB)">
+		<description>Sega Mega Drive Advanced Gaming - Issue 1 (1992-09)(Maverick Magazines)(GB)</description>
+		<rom name="Sega Mega Drive Advanced Gaming - Issue 1 (1992-09)(Maverick Magazines)(GB).pdf" size="110523825" crc="c38021dc" md5="33cff985480bd6fa6291fe5d65a40590" sha1="ccd0634d1a06ac4e56e850b7015de99b639d7db5"/>
+	</game>
+	<game name="Sega Mega Drive Advanced Gaming - Issue 2 (1992-10)(Maverick Magazines)(GB)">
+		<description>Sega Mega Drive Advanced Gaming - Issue 2 (1992-10)(Maverick Magazines)(GB)</description>
+		<rom name="Sega Mega Drive Advanced Gaming - Issue 2 (1992-10)(Maverick Magazines)(GB).pdf" size="103671268" crc="7f6ba5f0" md5="76175e11bcf52e6230d7dee5a07fb952" sha1="63a455e5c4927f44e4eeb8a7292db19313078c38"/>
+	</game>
+	<game name="Sega Mega Drive Advanced Gaming - Issue 3 (1992-11)(Maverick Magazines)(GB)">
+		<description>Sega Mega Drive Advanced Gaming - Issue 3 (1992-11)(Maverick Magazines)(GB)</description>
+		<rom name="Sega Mega Drive Advanced Gaming - Issue 3 (1992-11)(Maverick Magazines)(GB).pdf" size="117908756" crc="e813dfcb" md5="3e2efa7c35c0b8b28370a734c37afa4e" sha1="aae7d2f3533c22c2056a3daf41f3f9808ed13612"/>
+	</game>
+</datafile>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Play Meter (US)</name>
+		<description>Multi-format - Magazines - Play Meter (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Play Meter - Vol 05 No 07 (1979-04-15)(Skybird Publishing)(US)">
+		<description>Play Meter - Vol 05 No 07 (1979-04-15)(Skybird Publishing)(US)</description>
+		<rom name="Play Meter - Vol 05 No 07 (1979-04-15)(Skybird Publishing)(US).pdf" size="32723935" crc="b1c00048" md5="c1d6a816516ed3ec2050c33b96db6478" sha1="d898d2db27327de84434a40d463210cea7837666"/>
+	</game>
+	<game name="Play Meter - Vol 05 No 21 (1979-11-15)(Skybird Publishing)(US)">
+		<description>Play Meter - Vol 05 No 21 (1979-11-15)(Skybird Publishing)(US)</description>
+		<rom name="Play Meter - Vol 05 No 21 (1979-11-15)(Skybird Publishing)(US).pdf" size="42091606" crc="051b70c1" md5="89d167369909207be56a887c4297b510" sha1="e9c5c9545b6c6bd3ed526c2a702f823f658684e3"/>
+	</game>
+	<game name="Play Meter - Vol 06 No 21 (1980-11-15)(Skybird Publishing)(US)">
+		<description>Play Meter - Vol 06 No 21 (1980-11-15)(Skybird Publishing)(US)</description>
+		<rom name="Play Meter - Vol 06 No 21 (1980-11-15)(Skybird Publishing)(US).pdf" size="38679337" crc="94e02aca" md5="69238f32eb3cbe9f7c48d40c61a0006a" sha1="b33203eb16d3850c5f9ef37463a2c095954a4cec"/>
+	</game>
+	<game name="Play Meter - Vol 08 No 18 (1982-09-15)(Skybird Publishing)(US)">
+		<description>Play Meter - Vol 08 No 18 (1982-09-15)(Skybird Publishing)(US)</description>
+		<rom name="Play Meter - Vol 08 No 18 (1982-09-15)(Skybird Publishing)(US).pdf" size="28431158" crc="3affa15a" md5="38dbb2b2109f460a6f2d5d88dfc99774" sha1="22817f5b23e25aefac6a97f9a6d3216f8f4692a1"/>
+	</game>
+	<game name="Play Meter - Vol 09 No 01 (1983-01-01)(Skybird Publishing)(US)">
+		<description>Play Meter - Vol 09 No 01 (1983-01-01)(Skybird Publishing)(US)</description>
+		<rom name="Play Meter - Vol 09 No 01 (1983-01-01)(Skybird Publishing)(US).pdf" size="33075556" crc="69f149ce" md5="5ebf0f5c8c889e594b2035ec06eeb58d" sha1="94af130e9dd072650eea29879448e2530f29befe"/>
+	</game>
+	<game name="Play Meter - Vol 09 No 02 (1983-02-01)(Skybird Publishing)(US)">
+		<description>Play Meter - Vol 09 No 02 (1983-02-01)(Skybird Publishing)(US)</description>
+		<rom name="Play Meter - Vol 09 No 02 (1983-02-01)(Skybird Publishing)(US).pdf" size="52599829" crc="f1a00597" md5="643bc1044ce8206872dec94b1bfc930f" sha1="88461f33106cff9c820c8c2fe255d91c94b50b68"/>
+	</game>
+	<game name="Play Meter - Vol 09 No 03 (1983-02-15)(Skybird Publishing)(US)">
+		<description>Play Meter - Vol 09 No 03 (1983-02-15)(Skybird Publishing)(US)</description>
+		<rom name="Play Meter - Vol 09 No 03 (1983-02-15)(Skybird Publishing)(US).pdf" size="31600649" crc="edb96d05" md5="31bb2240a2c01900ec567e4f7e837081" sha1="cdf675506bdb78a8c549b8969c091e4508cc0d13"/>
+	</game>
+	<game name="Play Meter - Vol 09 No 04 (1983-03-01)(Skybird Publishing)(US)">
+		<description>Play Meter - Vol 09 No 04 (1983-03-01)(Skybird Publishing)(US)</description>
+		<rom name="Play Meter - Vol 09 No 04 (1983-03-01)(Skybird Publishing)(US).pdf" size="64424741" crc="1f125f55" md5="8dbf404393584b2300e16feec990c88b" sha1="bac228640a6da1a59b6c077df7580c641486e2ca"/>
+	</game>
+</datafile>

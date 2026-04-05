@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - Practical Computing (GB)</name>
+		<description>IBM PC Compatibles - Magazines - Practical Computing (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Practical Computing (1983-10)(Business Press International)(GB)[TI Professional edition]">
+		<description>Practical Computing (1983-10)(Business Press International)(GB)[TI Professional edition]</description>
+		<rom name="Practical Computing (1983-10)(Business Press International)(GB)[TI Professional edition].pdf" size="18255873" crc="f5ad1d04" md5="5a8dc37fc77019cf08a2335f7a5af15b" sha1="b7f31b9e30ae5af3e6143d5d397f114eea5b7034"/>
+	</game>
+	<game name="Practical Computing (1984-02)(Business Press International)(GB)">
+		<description>Practical Computing (1984-02)(Business Press International)(GB)</description>
+		<rom name="Practical Computing (1984-02)(Business Press International)(GB).pdf" size="342338745" crc="2b861129" md5="c7a7ecfd109b50e0893a89bdaf42ad44" sha1="ee22471e586d8b6fcf0900d08ccee9f4294d6600"/>
+	</game>
+	<game name="Practical Computing - Volume 5 Issue 6 (1982-05)(IPC Business Press)(GB)">
+		<description>Practical Computing - Volume 5 Issue 6 (1982-05)(IPC Business Press)(GB)</description>
+		<rom name="Practical Computing - Volume 5 Issue 6 (1982-05)(IPC Business Press)(GB).pdf" size="272675573" crc="56eb9f74" md5="ccc745bc29d3819730d66dd27bc0e66d" sha1="ea896103928a2ece91e211058a49474bcee65bc3"/>
+	</game>
+	<game name="Practical Computing - Volume 7 Issue 12 (1984-12)(Business Press International)(GB)">
+		<description>Practical Computing - Volume 7 Issue 12 (1984-12)(Business Press International)(GB)</description>
+		<rom name="Practical Computing - Volume 7 Issue 12 (1984-12)(Business Press International)(GB).pdf" size="302112973" crc="3ff45c26" md5="3d9aeb0cbaacf94375521e1d3c5946eb" sha1="69bd89461a9663557019e164a233d74696b3598c"/>
+	</game>
+</datafile>

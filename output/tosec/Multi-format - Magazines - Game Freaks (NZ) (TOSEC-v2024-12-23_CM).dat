@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Game Freaks (NZ)</name>
+		<description>Multi-format - Magazines - Game Freaks (NZ) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Game Freaks - Issue 04 (2001-11)(Tenth Planet)(NZ)">
+		<description>Game Freaks - Issue 04 (2001-11)(Tenth Planet)(NZ)</description>
+		<rom name="Game Freaks - Issue 04 (2001-11)(Tenth Planet)(NZ).pdf" size="43503035" crc="859162b4" md5="44683d50926bb74b63eb2165cbd56591" sha1="dfd8d3cfe43b3380ebadb5639d3f16fb92d73bb7"/>
+	</game>
+	<game name="Game Freaks - Issue 05 (2001-12)(Tenth Planet)(NZ)">
+		<description>Game Freaks - Issue 05 (2001-12)(Tenth Planet)(NZ)</description>
+		<rom name="Game Freaks - Issue 05 (2001-12)(Tenth Planet)(NZ).pdf" size="53904958" crc="6f9e5773" md5="82699c3ed10ebe0c22582109d186a3bf" sha1="0d4411dea94377f2a07c3f27b8bf4b1aefa3dfdc"/>
+	</game>
+	<game name="Game Freaks - Issue 06 (2002-02)(Tenth Planet)(NZ)">
+		<description>Game Freaks - Issue 06 (2002-02)(Tenth Planet)(NZ)</description>
+		<rom name="Game Freaks - Issue 06 (2002-02)(Tenth Planet)(NZ).pdf" size="39749921" crc="9d8939aa" md5="99159aec9bbd7a8ee7975964523c0bf8" sha1="ebd8efc93b6c66731fd25dbcd6f91410b2adea1d"/>
+	</game>
+	<game name="Game Freaks - Issue 09 (2002-05)(Tenth Planet)(NZ)">
+		<description>Game Freaks - Issue 09 (2002-05)(Tenth Planet)(NZ)</description>
+		<rom name="Game Freaks - Issue 09 (2002-05)(Tenth Planet)(NZ).pdf" size="42637538" crc="25601a1d" md5="51b6ce02174c60434c5ae7976f739479" sha1="788cef5cda97669740247754eb523c12fa6c8373"/>
+	</game>
+	<game name="Game Freaks - Issue 11 (2002-07)(Tenth Planet)(NZ)">
+		<description>Game Freaks - Issue 11 (2002-07)(Tenth Planet)(NZ)</description>
+		<rom name="Game Freaks - Issue 11 (2002-07)(Tenth Planet)(NZ).pdf" size="41729934" crc="7f27eba2" md5="ba80615157467f67001096e637e22229" sha1="c6d0341c556177e414ca5a500983ccc39a6d4848"/>
+	</game>
+	<game name="Game Freaks - Issue 12 (2002-08)(Tenth Planet)(NZ)">
+		<description>Game Freaks - Issue 12 (2002-08)(Tenth Planet)(NZ)</description>
+		<rom name="Game Freaks - Issue 12 (2002-08)(Tenth Planet)(NZ).pdf" size="41448173" crc="12946ffe" md5="22745f521c9678604d611cf7646f147f" sha1="883398d96219ea06bd4dd2fdc880e3d94f1087a5"/>
+	</game>
+	<game name="Game Freaks - Issue 20 (2003-05)(Tenth Planet)(NZ)">
+		<description>Game Freaks - Issue 20 (2003-05)(Tenth Planet)(NZ)</description>
+		<rom name="Game Freaks - Issue 20 (2003-05)(Tenth Planet)(NZ).pdf" size="153665985" crc="b3d4cd2a" md5="99d97ccee11f26b436951982527a2261" sha1="8c980fcc457eb5705711d83599a327efc9793c1e"/>
+	</game>
+</datafile>

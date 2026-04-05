@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore - Magazines - Commodore World (ES)</name>
+		<description>Commodore - Magazines - Commodore World (ES) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Commodore World - Especial N.1 (1984)(Simsa)(ES)">
+		<description>Commodore World - Especial N.1 (1984)(Simsa)(ES)</description>
+		<rom name="Commodore World - Especial N.1 (1984)(Simsa)(ES).pdf" size="134975633" crc="c849c979" md5="6c8607d1d7f8734c548557d1d2aac467" sha1="fc7812c25ebfecb05059d4f7a2367488eb0f9327"/>
+	</game>
+	<game name="Commodore World - Especial N.2 (1984)(Simsa)(ES)">
+		<description>Commodore World - Especial N.2 (1984)(Simsa)(ES)</description>
+		<rom name="Commodore World - Especial N.2 (1984)(Simsa)(ES).pdf" size="96912458" crc="43033149" md5="28dbee337230fea728dd5506693ccb0f" sha1="9b049ba35390f72786a3961c366ac52b5a122463"/>
+	</game>
+	<game name="Commodore World - N.01 (1984-02)(Simsa)(ES)">
+		<description>Commodore World - N.01 (1984-02)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.01 (1984-02)(Simsa)(ES).pdf" size="13413143" crc="9b1cf096" md5="2a0cbd8386fd14e0c4d2401f5e14b533" sha1="28477f7ad2cde91377db3872d07ebd9ed2aea6c7"/>
+	</game>
+	<game name="Commodore World - N.02 (1984-03)(Simsa)(ES)">
+		<description>Commodore World - N.02 (1984-03)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.02 (1984-03)(Simsa)(ES).pdf" size="16349649" crc="648c0ba6" md5="81cb3124caeb066238f76b0208482e06" sha1="9e1924159047092e07fa43f61ce99ad11a63e4da"/>
+	</game>
+	<game name="Commodore World - N.03 (1984-04)(Simsa)(ES)">
+		<description>Commodore World - N.03 (1984-04)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.03 (1984-04)(Simsa)(ES).pdf" size="18206156" crc="219fafbf" md5="30cf6aad6c7e78037e6ba6d30e74b808" sha1="fdf018082a8e14a5db73fcce6c2e9f9546eacbf7"/>
+	</game>
+	<game name="Commodore World - N.04 (1984-05)(Simsa)(ES)">
+		<description>Commodore World - N.04 (1984-05)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.04 (1984-05)(Simsa)(ES).pdf" size="17749811" crc="1d4b59bb" md5="c91e135b5f5ee2740a72766a5e3077d1" sha1="17fe4624076e2eba9ee05eaa7dac041e201b320d"/>
+	</game>
+	<game name="Commodore World - N.05 (1984-06)(Simsa)(ES)">
+		<description>Commodore World - N.05 (1984-06)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.05 (1984-06)(Simsa)(ES).pdf" size="20978800" crc="b3be56c9" md5="c99650a3d09f19f4fd3fb473cda2bc83" sha1="4c4eab68f3528762060352e0fdadf86249f31a7b"/>
+	</game>
+	<game name="Commodore World - N.06 (1984-07)(Simsa)(ES)">
+		<description>Commodore World - N.06 (1984-07)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.06 (1984-07)(Simsa)(ES).pdf" size="20555937" crc="b12cdfd8" md5="82c75ff1053faf751bbb94dae29eb582" sha1="66a2ea28191bd4a12fe9135ada391bd0a48b4aca"/>
+	</game>
+	<game name="Commodore World - N.07 (1984-09)(Simsa)(ES)">
+		<description>Commodore World - N.07 (1984-09)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.07 (1984-09)(Simsa)(ES).pdf" size="19431025" crc="a7d58e90" md5="8d5c9096badf3fc4de7f73c174160068" sha1="9842b5dfc7434549266270978a50e60efc3b22b4"/>
+	</game>
+	<game name="Commodore World - N.09 (1984-11)(Simsa)(ES)">
+		<description>Commodore World - N.09 (1984-11)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.09 (1984-11)(Simsa)(ES).pdf" size="19041069" crc="96894450" md5="592ad431a6d0520bae2035ef29411716" sha1="82b3b2feb940905c09959132becc1f9211ee92e8"/>
+	</game>
+	<game name="Commodore World - N.10 (1984-12)(Simsa)(ES)">
+		<description>Commodore World - N.10 (1984-12)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.10 (1984-12)(Simsa)(ES).pdf" size="19202362" crc="b1f602d4" md5="17f8fab413f75fee7c2c96e554afa9c2" sha1="49010c3a1b69904909d7a1240ae76a1681c8540f"/>
+	</game>
+	<game name="Commodore World - N.11 (1985-01)(Simsa)(ES)">
+		<description>Commodore World - N.11 (1985-01)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.11 (1985-01)(Simsa)(ES).pdf" size="18489958" crc="538dc039" md5="8df36dc41bc4712e949c6765369ffb3b" sha1="31154ca9143f10aa51bc9304d84b83cab9b0f7bc"/>
+	</game>
+	<game name="Commodore World - N.12 (1985-02)(Simsa)(ES)">
+		<description>Commodore World - N.12 (1985-02)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.12 (1985-02)(Simsa)(ES).pdf" size="17970847" crc="b361b2f7" md5="dc10d3489a1c193e7982b420c8bb6166" sha1="a8b41dbb13426b75008673e9a4d30806b7a20716"/>
+	</game>
+	<game name="Commodore World - N.13 (1985-03)(Simsa)(ES)">
+		<description>Commodore World - N.13 (1985-03)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.13 (1985-03)(Simsa)(ES).pdf" size="26157161" crc="55b4a9ec" md5="eceb31553f56950b48b04ac66bf4b002" sha1="52cac7efefd3bc69a6f1a7f71407056574664ae2"/>
+	</game>
+	<game name="Commodore World - N.14 (1985-04)(Simsa)(ES)">
+		<description>Commodore World - N.14 (1985-04)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.14 (1985-04)(Simsa)(ES).pdf" size="19299820" crc="ed691bbf" md5="62d7fdcfb6466dd7d97a19914cc8ed22" sha1="136192b99ce6c435392e6456709e07e1c8b7139c"/>
+	</game>
+	<game name="Commodore World - N.15 (1985-05)(Simsa)(ES)">
+		<description>Commodore World - N.15 (1985-05)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.15 (1985-05)(Simsa)(ES).pdf" size="22206227" crc="7b3eff67" md5="666173c92fee641f11c35f6857eee77f" sha1="5b3c4a55327f50154770b49dd695f45940017f3d"/>
+	</game>
+	<game name="Commodore World - N.16 (1985-06)(Simsa)(ES)">
+		<description>Commodore World - N.16 (1985-06)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.16 (1985-06)(Simsa)(ES).pdf" size="23719151" crc="e7e29412" md5="f183a26219da33d2654d8d2809c3eccf" sha1="ae85902b9c380fa275a318062c8e8cc82a5f6326"/>
+	</game>
+	<game name="Commodore World - N.17 (1985-07)(Simsa)(ES)">
+		<description>Commodore World - N.17 (1985-07)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.17 (1985-07)(Simsa)(ES).pdf" size="19371517" crc="f0671c82" md5="7caf0a3c50481379b0402870339cc63c" sha1="f7d87134e3c91cc47289c40a6e37cec09504b1da"/>
+	</game>
+	<game name="Commodore World - N.18 (1985-10)(Simsa)(ES)">
+		<description>Commodore World - N.18 (1985-10)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.18 (1985-10)(Simsa)(ES).pdf" size="21213212" crc="881698fe" md5="c72e8f0685407b858df93d8769c640e9" sha1="a46bb199351152f8756c39976e25e0c7f9a662d8"/>
+	</game>
+	<game name="Commodore World - N.19 (1985-11)(Simsa)(ES)">
+		<description>Commodore World - N.19 (1985-11)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.19 (1985-11)(Simsa)(ES).pdf" size="20301060" crc="33f8b0b7" md5="92465f14bde15cbff20505b7d7c01772" sha1="3d851fffe1588f109a1220272793fb4109902ccb"/>
+	</game>
+	<game name="Commodore World - N.20 (1985-11)(Simsa)(ES)">
+		<description>Commodore World - N.20 (1985-11)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.20 (1985-11)(Simsa)(ES).pdf" size="72144978" crc="bb6070ca" md5="f20a3cdba415381380a1442c91cdb269" sha1="5e72723fabf9c59ac1aefecb61ab1b96f1724015"/>
+	</game>
+	<game name="Commodore World - N.21 (1985-12)(Simsa)(ES)">
+		<description>Commodore World - N.21 (1985-12)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.21 (1985-12)(Simsa)(ES).pdf" size="74556437" crc="fd63233f" md5="ebbc73f17dac94aea932245d7d3c4c71" sha1="6a2b938229bbc6ce45fccfe5df4e74629f7fa5a1"/>
+	</game>
+	<game name="Commodore World - N.22 (1986-01)(Simsa)(ES)">
+		<description>Commodore World - N.22 (1986-01)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.22 (1986-01)(Simsa)(ES).pdf" size="25301956" crc="179206a2" md5="0b32b4ad4d1c193ae540d36fad76222f" sha1="92eafc3eeeb6ab53da0b250a449be7114abc3680"/>
+	</game>
+	<game name="Commodore World - N.23 (1986-02)(Simsa)(ES)">
+		<description>Commodore World - N.23 (1986-02)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.23 (1986-02)(Simsa)(ES).pdf" size="29062689" crc="1a848725" md5="8a62c1f737bd2635d2d8c9aaf0b58cea" sha1="8bb113ea75e6b1f103a574483cb1dd521ad3f165"/>
+	</game>
+	<game name="Commodore World - N.24 (1986-03)(Simsa)(ES)">
+		<description>Commodore World - N.24 (1986-03)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.24 (1986-03)(Simsa)(ES).pdf" size="89770973" crc="0febf1ce" md5="d30943ede645e72f38a3fe25ef2bb6f0" sha1="19a1eb649e8124626042fd82e2a65b8de8b6002f"/>
+	</game>
+	<game name="Commodore World - N.25 (1986-04)(Simsa)(ES)">
+		<description>Commodore World - N.25 (1986-04)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.25 (1986-04)(Simsa)(ES).pdf" size="68472814" crc="822c5c41" md5="ea6932aed528f4767eb9fcb50c4e6ecd" sha1="05179b17175e1727c2cbe017b3aa8c01bf82f281"/>
+	</game>
+	<game name="Commodore World - N.26 (1986-05)(Simsa)(ES)">
+		<description>Commodore World - N.26 (1986-05)(Simsa)(ES)</description>
+		<rom name="Commodore World - N.26 (1986-05)(Simsa)(ES).pdf" size="61474004" crc="d3658a3a" md5="d38f94551a5196697efcdc5ff1ed1eb5" sha1="92674a81cf411c35fb471820a7b95559cfa3d3fc"/>
+	</game>
+	<game name="Commodore World - N.27 (1986-06)(CW Communications)(ES)">
+		<description>Commodore World - N.27 (1986-06)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.27 (1986-06)(CW Communications)(ES).pdf" size="57535387" crc="0ee61401" md5="862bc58a7d8616c2e3e33bd9e35556f1" sha1="fa4134deb6788f9b3c606d546b7f6d3b34ccdc5a"/>
+	</game>
+	<game name="Commodore World - N.28 (1986-07)(CW Communications)(ES)">
+		<description>Commodore World - N.28 (1986-07)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.28 (1986-07)(CW Communications)(ES).pdf" size="50603007" crc="16ea74fd" md5="b6b098fcde4aca2f27cc4424ffae48a9" sha1="d5d117b8a79fe708977597e90e4612cec1155f3d"/>
+	</game>
+	<game name="Commodore World - N.29 (1986-09)(CW Communications)(ES)">
+		<description>Commodore World - N.29 (1986-09)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.29 (1986-09)(CW Communications)(ES).pdf" size="54728123" crc="7fb7ab56" md5="6577dbad1acb1ea7ea44a28d47ad0e8b" sha1="5c1831d4567d38de73013d316cff3135b864ae10"/>
+	</game>
+	<game name="Commodore World - N.30 (1986-10)(CW Communications)(ES)">
+		<description>Commodore World - N.30 (1986-10)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.30 (1986-10)(CW Communications)(ES).pdf" size="56489889" crc="6b20302e" md5="3f41ae1a1cf3609d025660b1ccc120e9" sha1="afea8c7d3adf180d60359ed576def11d819cf3e0"/>
+	</game>
+	<game name="Commodore World - N.31 (1986-11)(CW Communications)(ES)">
+		<description>Commodore World - N.31 (1986-11)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.31 (1986-11)(CW Communications)(ES).pdf" size="54840180" crc="9ab62c0c" md5="3b037b2734ca664b242db02fb633c2c3" sha1="e70a87515bfdb7858c45046b2898d39ea2a1917f"/>
+	</game>
+	<game name="Commodore World - N.32 (1986-12)(CW Communications)(ES)">
+		<description>Commodore World - N.32 (1986-12)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.32 (1986-12)(CW Communications)(ES).pdf" size="53643890" crc="8b14b0d5" md5="b614311dbd3a750d54b4369dfa19eb1d" sha1="9ca9402b75e28c6d43560fed3222eb5fd4ea7b1b"/>
+	</game>
+	<game name="Commodore World - N.33 (1987-01)(CW Communications)(ES)">
+		<description>Commodore World - N.33 (1987-01)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.33 (1987-01)(CW Communications)(ES).pdf" size="45998215" crc="b13a3e92" md5="5c73ff16d01338f20fa1dd0e1aa6cfef" sha1="98d50bca4bf81ffb93242a89006d21b9b103bf53"/>
+	</game>
+	<game name="Commodore World - N.34 (1987-02)(CW Communications)(ES)">
+		<description>Commodore World - N.34 (1987-02)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.34 (1987-02)(CW Communications)(ES).pdf" size="50085801" crc="4c6788d6" md5="9b0aaf12a6213b8c93f0fddf181b50b7" sha1="395e7dfb260e5e7e560ec21cfcc0ab71a9e68b76"/>
+	</game>
+	<game name="Commodore World - N.35 (1987-03)(CW Communications)(ES)">
+		<description>Commodore World - N.35 (1987-03)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.35 (1987-03)(CW Communications)(ES).pdf" size="47954136" crc="7d0a6024" md5="1010e44d51dfbd05f29525100fcee182" sha1="08315975a5856116465a996e34ea727402d03994"/>
+	</game>
+	<game name="Commodore World - N.36 (1987-04)(CW Communications)(ES)">
+		<description>Commodore World - N.36 (1987-04)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.36 (1987-04)(CW Communications)(ES).pdf" size="48143857" crc="39ba94e7" md5="2afdf5d92be665b295ffab37ff4c7c44" sha1="feb8558d29872e47d43188297c4da4fd0c1ec0b8"/>
+	</game>
+	<game name="Commodore World - N.37 (1987-05)(CW Communications)(ES)">
+		<description>Commodore World - N.37 (1987-05)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.37 (1987-05)(CW Communications)(ES).pdf" size="51799194" crc="08db2caf" md5="3616dbdb5ef3fea5468f6bd5de57a4da" sha1="f409db6504289809d5b1848ab8332f0376a38dad"/>
+	</game>
+	<game name="Commodore World - N.38 (1987-06)(CW Communications)(ES)">
+		<description>Commodore World - N.38 (1987-06)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.38 (1987-06)(CW Communications)(ES).pdf" size="49943267" crc="75bfd1a2" md5="1df329e81c546166e502048f38da0f9d" sha1="7c2583dab9bde2e1a8f4450a03522d2e4572ec79"/>
+	</game>
+	<game name="Commodore World - N.39 (1987-07)(CW Communications)(ES)">
+		<description>Commodore World - N.39 (1987-07)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.39 (1987-07)(CW Communications)(ES).pdf" size="54010650" crc="19a6c2e5" md5="76045ee60b66eaaa8250dbd078d08881" sha1="f2a770cf1fc8cc1e03be429d9034dfd7cb992643"/>
+	</game>
+	<game name="Commodore World - N.40 (1987-09)(CW Communications)(ES)">
+		<description>Commodore World - N.40 (1987-09)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.40 (1987-09)(CW Communications)(ES).pdf" size="51218011" crc="7fd4d6a2" md5="ef939cf45377683cfb06a18a671c472f" sha1="39c45705adc7927ab51d9843e136f98f550bf110"/>
+	</game>
+	<game name="Commodore World - N.41 (1987-10)(CW Communications)(ES)">
+		<description>Commodore World - N.41 (1987-10)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.41 (1987-10)(CW Communications)(ES).pdf" size="50759796" crc="62bb4bed" md5="f0caedeee555cf8969e4171a22736978" sha1="59fdb368cacae2a9bac9e547a91e160580e09cc4"/>
+	</game>
+	<game name="Commodore World - N.42 (1987-11)(CW Communications)(ES)">
+		<description>Commodore World - N.42 (1987-11)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.42 (1987-11)(CW Communications)(ES).pdf" size="54886637" crc="afde35c6" md5="2ebb7db9f038a118c6b7a5f97c3ebc57" sha1="c1040d3a48ff8ef6510891d156ce1c362382ac16"/>
+	</game>
+	<game name="Commodore World - N.43 (1987-12)(CW Communications)(ES)">
+		<description>Commodore World - N.43 (1987-12)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.43 (1987-12)(CW Communications)(ES).pdf" size="59015949" crc="6bca5f14" md5="4ecbec533fdb712ff02c56285886887c" sha1="6aea5b892682db25be197d0e563b59ec7881cf81"/>
+	</game>
+	<game name="Commodore World - N.44 (1988-01)(CW Communications)(ES)">
+		<description>Commodore World - N.44 (1988-01)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.44 (1988-01)(CW Communications)(ES).pdf" size="54346677" crc="9521d710" md5="353726214802c406a04ccfb103048b1b" sha1="c1525e1e58ccbe905e9bf4e2beb9798b4a477e4c"/>
+	</game>
+	<game name="Commodore World - N.45 (1988-02)(CW Communications)(ES)">
+		<description>Commodore World - N.45 (1988-02)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.45 (1988-02)(CW Communications)(ES).pdf" size="48338619" crc="24676208" md5="55d3f8a0032d3b2a480bd4fa5941677c" sha1="b691f5e98e042a7736afc5c19f4d04fc44a8c27c"/>
+	</game>
+	<game name="Commodore World - N.46 (1988-03)(CW Communications)(ES)">
+		<description>Commodore World - N.46 (1988-03)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.46 (1988-03)(CW Communications)(ES).pdf" size="48836778" crc="6f2d756e" md5="054ba6d8e55fae00a0dc68b083001568" sha1="36e256c1d8c7276d9d9bde98a4286969b96b06e2"/>
+	</game>
+	<game name="Commodore World - N.47 (1988-04)(CW Communications)(ES)">
+		<description>Commodore World - N.47 (1988-04)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.47 (1988-04)(CW Communications)(ES).pdf" size="49400068" crc="e60aa575" md5="178a1531d210d14bca7eb3d174efb883" sha1="f36cbf9aa37169ef3b9ff2d7b0605baef400af1f"/>
+	</game>
+	<game name="Commodore World - N.48 (1988-05)(CW Communications)(ES)">
+		<description>Commodore World - N.48 (1988-05)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.48 (1988-05)(CW Communications)(ES).pdf" size="48785781" crc="5af63f26" md5="0fe22740ba0fb6a30bd08086b93dd3bd" sha1="6a920373325758233f3a0bdda265ff3b4f5e3a25"/>
+	</game>
+	<game name="Commodore World - N.49 (1988-06)(CW Communications)(ES)">
+		<description>Commodore World - N.49 (1988-06)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.49 (1988-06)(CW Communications)(ES).pdf" size="50694668" crc="98788b52" md5="5cf5b217ef39d2c96f2e6d6580a713cf" sha1="d67f21dbc2cc4c3e8950a56687a6fca02fe01a04"/>
+	</game>
+	<game name="Commodore World - N.50 (1988-07)(CW Communications)(ES)">
+		<description>Commodore World - N.50 (1988-07)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.50 (1988-07)(CW Communications)(ES).pdf" size="78980647" crc="e1d59cb6" md5="efac2bba1a0cde1ab4a4a8455caa01ba" sha1="55c34ec05a86629ed49dea7853d88f264b769ff8"/>
+	</game>
+	<game name="Commodore World - N.51 (1988-09)(CW Communications)(ES)">
+		<description>Commodore World - N.51 (1988-09)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.51 (1988-09)(CW Communications)(ES).pdf" size="44026681" crc="d5834f34" md5="7a5afd614015be20543be22113add014" sha1="faba59bd93860814ee67b1f701a1c0a24ef1dd80"/>
+	</game>
+	<game name="Commodore World - N.52 (1988-10)(CW Communications)(ES)">
+		<description>Commodore World - N.52 (1988-10)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.52 (1988-10)(CW Communications)(ES).pdf" size="49720545" crc="c181bee7" md5="9dd7025a160d5d8813d175c0985ab307" sha1="a5b7cdb73068c70f04a80ae811b6703ef91a0ca4"/>
+	</game>
+	<game name="Commodore World - N.53 (1988-11)(CW Communications)(ES)">
+		<description>Commodore World - N.53 (1988-11)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.53 (1988-11)(CW Communications)(ES).pdf" size="46696000" crc="ef83b638" md5="92f49e23ecb989c29f5e6317298f705a" sha1="373db8627b2b68bc080a41741565a83d5758dcf0"/>
+	</game>
+	<game name="Commodore World - N.54 (1988-12)(CW Communications)(ES)">
+		<description>Commodore World - N.54 (1988-12)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.54 (1988-12)(CW Communications)(ES).pdf" size="58078822" crc="17d2227c" md5="d78c48df0eafbba8ee6931cd5c5141c4" sha1="697690090fe4676c7440a77af2a95fbf4ee4087b"/>
+	</game>
+	<game name="Commodore World - N.55 (1989-01)(CW Communications)(ES)">
+		<description>Commodore World - N.55 (1989-01)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.55 (1989-01)(CW Communications)(ES).pdf" size="29490186" crc="dfd2436e" md5="c18baf705d919ae1c24646683576dff1" sha1="257933c0ece324d73d9fb53fb082469a71443b38"/>
+	</game>
+	<game name="Commodore World - N.56 (1989-02)(CW Communications)(ES)">
+		<description>Commodore World - N.56 (1989-02)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.56 (1989-02)(CW Communications)(ES).pdf" size="41446249" crc="9e1408fd" md5="dea599c7ee8de701da38c2371ab470be" sha1="1855ef6dc6d1b7b70d0162a56e4987aab31c9524"/>
+	</game>
+	<game name="Commodore World - N.57 (1989-03)(CW Communications)(ES)">
+		<description>Commodore World - N.57 (1989-03)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.57 (1989-03)(CW Communications)(ES).pdf" size="70608152" crc="c9fd923b" md5="1bc2916ed6e0829c75160edb5b61d937" sha1="802ee164516a32ff548afd789d7c1106f0633d00"/>
+	</game>
+	<game name="Commodore World - N.59 (1989-05)(CW Communications)(ES)">
+		<description>Commodore World - N.59 (1989-05)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.59 (1989-05)(CW Communications)(ES).pdf" size="57710229" crc="7e477b82" md5="6e109e32caac147965f4c67fcbc837a0" sha1="9cfcb2f8244b83bc776fae35b61c87a71aded740"/>
+	</game>
+	<game name="Commodore World - N.60 (1989-06)(CW Communications)(ES)">
+		<description>Commodore World - N.60 (1989-06)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.60 (1989-06)(CW Communications)(ES).pdf" size="91606522" crc="1a21a1fa" md5="72acf1701a2efd81367ad9ccebdd4985" sha1="15a29a6d6dad2b02dd60516be1cf6346efb7a224"/>
+	</game>
+	<game name="Commodore World - N.61 (1989-07)(CW Communications)(ES)">
+		<description>Commodore World - N.61 (1989-07)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.61 (1989-07)(CW Communications)(ES).pdf" size="90402744" crc="4f5ce705" md5="960a09fb6fe8c7ad723330d2e5e89b78" sha1="77e74efcb6c74da3f89a59e8c7286a332ba2c259"/>
+	</game>
+	<game name="Commodore World - N.62 (1989-09)(CW Communications)(ES)">
+		<description>Commodore World - N.62 (1989-09)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.62 (1989-09)(CW Communications)(ES).pdf" size="93695774" crc="53dddbc3" md5="58a3ed7792f58b6b527f0091e2bc0517" sha1="13976b51659c1e465c6400bd9f2dfab522ec6db9"/>
+	</game>
+	<game name="Commodore World - N.63 (1989-10)(CW Communications)(ES)">
+		<description>Commodore World - N.63 (1989-10)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.63 (1989-10)(CW Communications)(ES).pdf" size="87947540" crc="251b59d6" md5="19c5527b0cbaa5e3199b8040f03e31c3" sha1="3f85b49d4ddb2e73be546178e9c42a565a35e913"/>
+	</game>
+	<game name="Commodore World - N.64 (1989-11)(CW Communications)(ES)">
+		<description>Commodore World - N.64 (1989-11)(CW Communications)(ES)</description>
+		<rom name="Commodore World - N.64 (1989-11)(CW Communications)(ES).pdf" size="42277469" crc="fa4a5ba3" md5="a9bad360705ace40f8bf04776619a337" sha1="8ddc40ed5029cce5bd792a2ec63ba080f4e641ca"/>
+	</game>
+</datafile>

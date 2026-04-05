@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PSone Magazine (FR)</name>
+		<description>Sony PlayStation - Magazines - PSone Magazine (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PSone Magazine - N.02 (2001-01)(Hachette Disney Presse)(FR)">
+		<description>PSone Magazine - N.02 (2001-01)(Hachette Disney Presse)(FR)</description>
+		<rom name="PSone Magazine - N.02 (2001-01)(Hachette Disney Presse)(FR).pdf" size="97960700" crc="a72b04ef" md5="c6d5ed11a04d1173446a73a4dd3aa176" sha1="03e6f792a28481b6fe3c95e63ca8836bdf191e0a"/>
+	</game>
+	<game name="PSone Magazine - N.03 (2001-02)(Hachette Disney Presse)(FR)">
+		<description>PSone Magazine - N.03 (2001-02)(Hachette Disney Presse)(FR)</description>
+		<rom name="PSone Magazine - N.03 (2001-02)(Hachette Disney Presse)(FR).pdf" size="96774011" crc="ce315bae" md5="682ad59a4d8df1efbff0dd11221cc0be" sha1="7b68935604c813648c3140695f0356ed71d312e7"/>
+	</game>
+	<game name="PSone Magazine - N.04 (2001-03)(Hachette Disney Presse)(FR)">
+		<description>PSone Magazine - N.04 (2001-03)(Hachette Disney Presse)(FR)</description>
+		<rom name="PSone Magazine - N.04 (2001-03)(Hachette Disney Presse)(FR).pdf" size="96059300" crc="6dd50b48" md5="ebc6f4a3e2918c3215fce37c33cb136b" sha1="ab159a1ec73a50cd30f2e45356e58a26d60b02c4"/>
+	</game>
+	<game name="PSone Magazine - N.05 (2001-04)(Hachette Disney Presse)(FR)">
+		<description>PSone Magazine - N.05 (2001-04)(Hachette Disney Presse)(FR)</description>
+		<rom name="PSone Magazine - N.05 (2001-04)(Hachette Disney Presse)(FR).pdf" size="161112617" crc="644bab40" md5="2467b44cc74a4f8ddfb5fa66a56a39f7" sha1="2c068c9dff8a16b3d67227d5d02fcebbadc74109"/>
+	</game>
+	<game name="PSone Magazine - N.06 (2001-05)(Hachette Disney Presse)(FR)">
+		<description>PSone Magazine - N.06 (2001-05)(Hachette Disney Presse)(FR)</description>
+		<rom name="PSone Magazine - N.06 (2001-05)(Hachette Disney Presse)(FR).pdf" size="88186973" crc="0540b026" md5="2fe309baea66979d26e4e961c3a22f97" sha1="02f05c56d631c76804bcf2bf07cc32e570c6845e"/>
+	</game>
+	<game name="PSone Magazine - N.07 (2001-07)(Hachette Disney Presse)(FR)">
+		<description>PSone Magazine - N.07 (2001-07)(Hachette Disney Presse)(FR)</description>
+		<rom name="PSone Magazine - N.07 (2001-07)(Hachette Disney Presse)(FR).pdf" size="162925818" crc="d73c2a97" md5="531e1d9b2e0d3dae9a470886d62767d8" sha1="807342dc8bb3e89185c5e2b436ab827dbdcddf43"/>
+	</game>
+</datafile>

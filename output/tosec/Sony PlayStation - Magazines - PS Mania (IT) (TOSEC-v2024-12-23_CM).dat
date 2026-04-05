@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PS Mania (IT)</name>
+		<description>Sony PlayStation - Magazines - PS Mania (IT) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PS Mania - Anno 12 N.133 (2012-03)(Play LifeStyle Media)(IT)">
+		<description>PS Mania - Anno 12 N.133 (2012-03)(Play LifeStyle Media)(IT)</description>
+		<rom name="PS Mania - Anno 12 N.133 (2012-03)(Play LifeStyle Media)(IT).pdf" size="74837049" crc="26f881e5" md5="c174a4e20357065960e2ed313b8f7a72" sha1="0de30c81ce34a726b4e3e5e5d412a3930da54138"/>
+	</game>
+	<game name="PS Mania - Anno 12 N.139 (2012-09)(Play LifeStyle Media)(IT)">
+		<description>PS Mania - Anno 12 N.139 (2012-09)(Play LifeStyle Media)(IT)</description>
+		<rom name="PS Mania - Anno 12 N.139 (2012-09)(Play LifeStyle Media)(IT).pdf" size="65689196" crc="572d1f10" md5="1b573fd8450cccf5fc1c79fdf9e4ef7f" sha1="f3821069cae63736267a44d4a2be4a7028d313a5"/>
+	</game>
+	<game name="PS Mania - Anno 12 N.140 (2012-10)(Play LifeStyle Media)(IT)">
+		<description>PS Mania - Anno 12 N.140 (2012-10)(Play LifeStyle Media)(IT)</description>
+		<rom name="PS Mania - Anno 12 N.140 (2012-10)(Play LifeStyle Media)(IT).pdf" size="51045474" crc="111e3311" md5="cd1f1f1da865c461bc1ce98a4df6a011" sha1="5b93036ff4e7e4f0018b3f64c83cc0c8e8adc9a8"/>
+	</game>
+	<game name="PS Mania - Anno 12 N.141 (2012-11)(Play LifeStyle Media)(IT)">
+		<description>PS Mania - Anno 12 N.141 (2012-11)(Play LifeStyle Media)(IT)</description>
+		<rom name="PS Mania - Anno 12 N.141 (2012-11)(Play LifeStyle Media)(IT).pdf" size="82423191" crc="53b0ac08" md5="c46ad908b2630bc377f55be3f70861f8" sha1="8e34e55eacbdf3b1d39ed9364f151b361ee8b2db"/>
+	</game>
+	<game name="PS Mania - Anno 14 N.153 (2014-02)(Play LifeStyle Media)(IT)">
+		<description>PS Mania - Anno 14 N.153 (2014-02)(Play LifeStyle Media)(IT)</description>
+		<rom name="PS Mania - Anno 14 N.153 (2014-02)(Play LifeStyle Media)(IT).pdf" size="78282508" crc="5fb95723" md5="9140f04611ecb8d998c96a5e932ae387" sha1="e2156306311af8b0c2b1cc1e145546346b452734"/>
+	</game>
+	<game name="PS Mania - Anno 14 N.155 (2014-04)(Play LifeStyle Media)(IT)">
+		<description>PS Mania - Anno 14 N.155 (2014-04)(Play LifeStyle Media)(IT)</description>
+		<rom name="PS Mania - Anno 14 N.155 (2014-04)(Play LifeStyle Media)(IT).pdf" size="25668522" crc="1074a000" md5="b72f21c22310ca765fed3e4a7442adfc" sha1="877d15dd9b6b5266e9d14426a32dbd3d3c56be75"/>
+	</game>
+</datafile>

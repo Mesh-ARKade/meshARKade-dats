@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Artwork - Games</name>
+		<description>Sony PlayStation 2 - Artwork - Games (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="24 - The Game (2006)(Twentieth Century Fox)(AU)[box][SCES-53358-P-ANZ]">
+		<description>24 - The Game (2006)(Twentieth Century Fox)(AU)[box][SCES-53358-P-ANZ]</description>
+		<rom name="24 - The Game (2006)(Twentieth Century Fox)(AU)[box][SCES-53358-P-ANZ].pdf" size="80199570" crc="fd55e9ed" md5="c3536f7f43dd897c3596b337614e3dea" sha1="f79657049fbc10c8a31d999fe493f2ada7851ac4"/>
+	</game>
+	<game name="AFL Live 2003 (2002)(Acclaim)(EU)[box][SLES-51168]">
+		<description>AFL Live 2003 (2002)(Acclaim)(EU)[box][SLES-51168]</description>
+		<rom name="AFL Live 2003 (2002)(Acclaim)(EU)[box][SLES-51168].pdf" size="82089982" crc="ba09f153" md5="eb4fa98f1bc963075222ede169d0bf23" sha1="3bb8bba57c767bfac50985d5b31ab0d256c7ff57"/>
+	</game>
+	<game name="AFL Premiership 2005 (2005)(IR Gurus Interactive)(AU)[box][SCES-53449-ANZ]">
+		<description>AFL Premiership 2005 (2005)(IR Gurus Interactive)(AU)[box][SCES-53449-ANZ]</description>
+		<rom name="AFL Premiership 2005 (2005)(IR Gurus Interactive)(AU)[box][SCES-53449-ANZ].pdf" size="78841279" crc="0b55edea" md5="ad92ac2b6e0de9d8c5fca243ed7a7143" sha1="9104fe2e1ad1763a0eecb76d14f30a592359553e"/>
+	</game>
+	<game name="Agassi Tennis Generation (2003)(Aqua Pacific)(EU)[box][SLES-52125]">
+		<description>Agassi Tennis Generation (2003)(Aqua Pacific)(EU)[box][SLES-52125]</description>
+		<rom name="Agassi Tennis Generation (2003)(Aqua Pacific)(EU)[box][SLES-52125].pdf" size="78936601" crc="9d841a45" md5="52b7a5759359febe609bb2f1ca4ae183" sha1="1c265aa74f42efa112fd58cb6290d471982d317b"/>
+	</game>
+	<game name="Atelier Iris 3 - Grand Phantasm (2007)(Gust)(US)[box][SLUS-21564]">
+		<description>Atelier Iris 3 - Grand Phantasm (2007)(Gust)(US)[box][SLUS-21564]</description>
+		<rom name="Atelier Iris 3 - Grand Phantasm (2007)(Gust)(US)[box][SLUS-21564].pdf" size="686682" crc="c9bf57b7" md5="090a48d46a39851b695d9a9aa2e2eee1" sha1="d538d23b911b801de0d446250c5478c5aee94afe"/>
+	</game>
+	<game name="Atelier Iris 3 - Grand Phantasm (2007)(Gust)(US)[disc][SLUS-21564]">
+		<description>Atelier Iris 3 - Grand Phantasm (2007)(Gust)(US)[disc][SLUS-21564]</description>
+		<rom name="Atelier Iris 3 - Grand Phantasm (2007)(Gust)(US)[disc][SLUS-21564].pdf" size="328710" crc="59db8adb" md5="771cff8fd32dd8e452eb153c1ca48781" sha1="b45e2e924bb13f2efae2ee2ecfdd8ab1fae1ad3b"/>
+	</game>
+	<game name="BloodRayne (2002)(Vivendi Universal Games)(EU)[box][SLES-51474]">
+		<description>BloodRayne (2002)(Vivendi Universal Games)(EU)[box][SLES-51474]</description>
+		<rom name="BloodRayne (2002)(Vivendi Universal Games)(EU)[box][SLES-51474].pdf" size="70799541" crc="7a820441" md5="f782e1b665315d42696e173d3ea033dc" sha1="8e98f0594b9ba98f346035193bbb8546a04a4ac5"/>
+	</game>
+	<game name="Burnout 3 Takedown (2005)(Electronic Arts)(AU)[box][SLES-52584-ANZ-P]">
+		<description>Burnout 3 Takedown (2005)(Electronic Arts)(AU)[box][SLES-52584-ANZ-P]</description>
+		<rom name="Burnout 3 Takedown (2005)(Electronic Arts)(AU)[box][SLES-52584-ANZ-P].pdf" size="81456822" crc="a40a8344" md5="cf14ba204a6ee891437ab880003df3e7" sha1="1d54f060752a55e199ac4150856474a3c48bc060"/>
+	</game>
+	<game name="Cold Winter (2005)(Swordfish Studios)(AU)[box][SLES-52963-ANZ]">
+		<description>Cold Winter (2005)(Swordfish Studios)(AU)[box][SLES-52963-ANZ]</description>
+		<rom name="Cold Winter (2005)(Swordfish Studios)(AU)[box][SLES-52963-ANZ].pdf" size="80982088" crc="dbc98931" md5="088d4f0203e642291e5e8620071dc89f" sha1="b2c483e1ac1c592bcc4924321ec2beca9b6e5f2d"/>
+	</game>
+	<game name="Conflict Global Storm (2005)(Eidos)(EU)[box][SLES-52573]">
+		<description>Conflict Global Storm (2005)(Eidos)(EU)[box][SLES-52573]</description>
+		<rom name="Conflict Global Storm (2005)(Eidos)(EU)[box][SLES-52573].pdf" size="76324926" crc="f91a3314" md5="fd2c11f44402d4de4ec82dff94a989fc" sha1="f1f62af6e98eef6f96debad7e4753d5ee540e498"/>
+	</game>
+	<game name="Cool Shot (2003)(Digicube)(EU)[box][SLES-51785]">
+		<description>Cool Shot (2003)(Digicube)(EU)[box][SLES-51785]</description>
+		<rom name="Cool Shot (2003)(Digicube)(EU)[box][SLES-51785].pdf" size="80442240" crc="d415ef7d" md5="c4305056d901d0fcd1eab709520ef560" sha1="9f8abe1b1e60ba4a391e80ac0377fa429af56ab7"/>
+	</game>
+	<game name="Crash Tag Team Racing (2006)(Universal Interactive)(AU)[box][SLES-53439-ANZ-P]">
+		<description>Crash Tag Team Racing (2006)(Universal Interactive)(AU)[box][SLES-53439-ANZ-P]</description>
+		<rom name="Crash Tag Team Racing (2006)(Universal Interactive)(AU)[box][SLES-53439-ANZ-P].pdf" size="80898556" crc="543f87c7" md5="9a0e6e5873aa26d2977ca9ed5a692261" sha1="e7a6374b8657a65b2d5c04fe9c856ce46941aef0"/>
+	</game>
+	<game name="Crash Twinsanity (2004)(Universal Interactive)(AU)[box][SLES-52568-ANZ]">
+		<description>Crash Twinsanity (2004)(Universal Interactive)(AU)[box][SLES-52568-ANZ]</description>
+		<rom name="Crash Twinsanity (2004)(Universal Interactive)(AU)[box][SLES-52568-ANZ].pdf" size="80810727" crc="bb74050c" md5="3af3fbae871d659d341ceb75a78bbc0e" sha1="d8254f1e8c99a6ef65f3d44d44e046219076eb85"/>
+	</game>
+	<game name="Cricket 07 (2006)(Electronic Arts)(AU)[box][SLES-54396-ANZ]">
+		<description>Cricket 07 (2006)(Electronic Arts)(AU)[box][SLES-54396-ANZ]</description>
+		<rom name="Cricket 07 (2006)(Electronic Arts)(AU)[box][SLES-54396-ANZ].pdf" size="78723673" crc="d5c7d327" md5="3a52fa1ee77fb9e5f2e3baa9bdacd027" sha1="d83deb3c656286b596c1bd2fe06d02a20a951243"/>
+	</game>
+	<game name="Crisis Zone (2004)(Namco)(AU)[box][SCES-52530-ANZ]">
+		<description>Crisis Zone (2004)(Namco)(AU)[box][SCES-52530-ANZ]</description>
+		<rom name="Crisis Zone (2004)(Namco)(AU)[box][SCES-52530-ANZ].pdf" size="79994159" crc="6847c174" md5="75840d92dc45a8f4b04aed5937135bc5" sha1="9535bc660568efe7a6c1366ccf057dbc8f7c7c07"/>
+	</game>
+	<game name="Crusty Demons (2006)(Deep Silver)(EU)[box][SLES-54146]">
+		<description>Crusty Demons (2006)(Deep Silver)(EU)[box][SLES-54146]</description>
+		<rom name="Crusty Demons (2006)(Deep Silver)(EU)[box][SLES-54146].pdf" size="79636525" crc="54cbaed6" md5="582b68579f40558214912589be688482" sha1="9cc80168d3509d602b1d123aee6256525193b22b"/>
+	</game>
+	<game name="Dark Cloud 2 (2003)(Sony)(US)[box][SCUS-97213]">
+		<description>Dark Cloud 2 (2003)(Sony)(US)[box][SCUS-97213]</description>
+		<rom name="Dark Cloud 2 (2003)(Sony)(US)[box][SCUS-97213].pdf" size="3063527" crc="c7ba8a57" md5="1ce30cb57524865c76b66e7c9de55062" sha1="1176b6484a7aec4e0f6d0e04079423b9044a70bc"/>
+	</game>
+	<game name="Dark Cloud 2 (2003)(Sony)(US)[disc][SCUS-97213]">
+		<description>Dark Cloud 2 (2003)(Sony)(US)[disc][SCUS-97213]</description>
+		<rom name="Dark Cloud 2 (2003)(Sony)(US)[disc][SCUS-97213].pdf" size="757199" crc="653c9e9f" md5="cf71f439533736555bcf3f88b4702b53" sha1="a0af78ddbe4e06667007781a12c91eaeeabc12c3"/>
+	</game>
+	<game name="EA Sports Cricket 2005 (2004)(Electronic Arts)(EU)[box][SLES-53342]">
+		<description>EA Sports Cricket 2005 (2004)(Electronic Arts)(EU)[box][SLES-53342]</description>
+		<rom name="EA Sports Cricket 2005 (2004)(Electronic Arts)(EU)[box][SLES-53342].pdf" size="81103308" crc="3a9d5248" md5="7d579f3050b24888408800c5ea03ee10" sha1="31ebd84265374a600951f687875af785970da849"/>
+	</game>
+	<game name="EA Sports Rugby 2005 (2005)(Electronic Arts)(EU)[box][SLES-53094]">
+		<description>EA Sports Rugby 2005 (2005)(Electronic Arts)(EU)[box][SLES-53094]</description>
+		<rom name="EA Sports Rugby 2005 (2005)(Electronic Arts)(EU)[box][SLES-53094].pdf" size="80423761" crc="65394eef" md5="6b50e21fd2414b8dd5b5ac80feb99c07" sha1="4edec389962136a8aea7b31934b8a49769e3b329"/>
+	</game>
+	<game name="G1 Jockey 3 (2003)(Koei)(EU)[box][SLES-51357]">
+		<description>G1 Jockey 3 (2003)(Koei)(EU)[box][SLES-51357]</description>
+		<rom name="G1 Jockey 3 (2003)(Koei)(EU)[box][SLES-51357].pdf" size="74812100" crc="83453ec6" md5="dcd0e1880402d3620f074fa36938fbf0" sha1="8a9da0e34be52166d02f17b56fabc504aa531652"/>
+	</game>
+	<game name="Gran Turismo 3 A-Spec (2001)(Sony Computer Entertainment)(EU)[box][SCES-50294-P]">
+		<description>Gran Turismo 3 A-Spec (2001)(Sony Computer Entertainment)(EU)[box][SCES-50294-P]</description>
+		<rom name="Gran Turismo 3 A-Spec (2001)(Sony Computer Entertainment)(EU)[box][SCES-50294-P].pdf" size="74352481" crc="932b5e34" md5="10501a13c453da8b8a48f4b77727af1e" sha1="410f2173c0cc3e6d6f7754606759b19b2de817a7"/>
+	</game>
+	<game name="Gran Turismo 4 (2005)(Sony Entertainment Europe)(AU)[box][SCES-51719-ANZ]">
+		<description>Gran Turismo 4 (2005)(Sony Entertainment Europe)(AU)[box][SCES-51719-ANZ]</description>
+		<rom name="Gran Turismo 4 (2005)(Sony Entertainment Europe)(AU)[box][SCES-51719-ANZ].pdf" size="78446448" crc="40f1e1ce" md5="b514a9d50b4c94b07dfb3bdd9d0e2156" sha1="73331baa9dcb56ae3433ec170b45f2599b70c740"/>
+	</game>
+	<game name="Grand Theft Auto San Andreas (2004)(Rockstar Games)(AU)[box][SLES-52541-ANZ]">
+		<description>Grand Theft Auto San Andreas (2004)(Rockstar Games)(AU)[box][SLES-52541-ANZ]</description>
+		<rom name="Grand Theft Auto San Andreas (2004)(Rockstar Games)(AU)[box][SLES-52541-ANZ].pdf" size="72832221" crc="b5401af4" md5="cb3da4cec31815b6aacef33d4d4d634b" sha1="d12c09b0a0b311bd4280178a80eb49f7f5cc7f6e"/>
+	</game>
+	<game name="Harry Potter and the Goblet of Fire (2006)(Electronic Arts)(AU)[box][SLES-53726-ANZ-P]">
+		<description>Harry Potter and the Goblet of Fire (2006)(Electronic Arts)(AU)[box][SLES-53726-ANZ-P]</description>
+		<rom name="Harry Potter and the Goblet of Fire (2006)(Electronic Arts)(AU)[box][SLES-53726-ANZ-P].pdf" size="81792610" crc="271dbb11" md5="107a5ce9e4434e8a48dcdc680dbff5d0" sha1="74d0ebe24ccbef49a4bc59a1144bfdf404f5ad1f"/>
+	</game>
+	<game name="Heatseeker (2007)(Codemasters)(AU)[box][SLES-54346-ANZ]">
+		<description>Heatseeker (2007)(Codemasters)(AU)[box][SLES-54346-ANZ]</description>
+		<rom name="Heatseeker (2007)(Codemasters)(AU)[box][SLES-54346-ANZ].pdf" size="81939874" crc="9fc4b8db" md5="68428151a94a72c363798638da61d5c7" sha1="02fb62620e1aab83f5c3c57d302163cbe45138e2"/>
+	</game>
+	<game name="International Snooker Championship (2003)(Play It)(EU)[box][SLES-51996]">
+		<description>International Snooker Championship (2003)(Play It)(EU)[box][SLES-51996]</description>
+		<rom name="International Snooker Championship (2003)(Play It)(EU)[box][SLES-51996].pdf" size="79126483" crc="d5de807b" md5="b76bf429bbd030b2cba42617dde74968" sha1="80c0ab83208bfc8f846a50d16f67266ce814d21c"/>
+	</game>
+	<game name="Juiced (2005)(THQ)(AU)[box][SLES-53044-ANZ-P]">
+		<description>Juiced (2005)(THQ)(AU)[box][SLES-53044-ANZ-P]</description>
+		<rom name="Juiced (2005)(THQ)(AU)[box][SLES-53044-ANZ-P].pdf" size="20457152" crc="7cc43fe1" md5="c9a11f89ec34794861409f88670ef8f5" sha1="cd5c878c4ed1735103b24d90acc538b4ca127d9e"/>
+	</game>
+	<game name="Lara Croft Tomb Raider Legend (2007)(Eidos)(EU)[box][SLES-53908-P]">
+		<description>Lara Croft Tomb Raider Legend (2007)(Eidos)(EU)[box][SLES-53908-P]</description>
+		<rom name="Lara Croft Tomb Raider Legend (2007)(Eidos)(EU)[box][SLES-53908-P].pdf" size="81509660" crc="2abb1b32" md5="34ad257464843b41280c255a92ebf1f5" sha1="2879c220eebe929951c618367739c887c7441cc3"/>
+	</game>
+	<game name="Lord of the Rings, The - The Two Towers (2002)(Electronic Arts)(EU)[box][SLES-51252]">
+		<description>Lord of the Rings, The - The Two Towers (2002)(Electronic Arts)(EU)[box][SLES-51252]</description>
+		<rom name="Lord of the Rings, The - The Two Towers (2002)(Electronic Arts)(EU)[box][SLES-51252].pdf" size="76152077" crc="28fa6847" md5="d0ea9ba319b4cd5dff249fbb77c963ab" sha1="6de952f4314e5119e0ddc3ae38fe496c7a61a8ed"/>
+	</game>
+	<game name="Madden NFL 2005 (2004)(Electronic Arts)(EU)[box][SLES-52581]">
+		<description>Madden NFL 2005 (2004)(Electronic Arts)(EU)[box][SLES-52581]</description>
+		<rom name="Madden NFL 2005 (2004)(Electronic Arts)(EU)[box][SLES-52581].pdf" size="81099374" crc="23dc8929" md5="4da04d7542956ff6522af28afd0a7d43" sha1="95f0528167f4487588f4b554efd2a83c5adfa3ec"/>
+	</game>
+	<game name="Manchester United Club Football (2003)(Codemasters)(EU)[box][SLES-51090]">
+		<description>Manchester United Club Football (2003)(Codemasters)(EU)[box][SLES-51090]</description>
+		<rom name="Manchester United Club Football (2003)(Codemasters)(EU)[box][SLES-51090].pdf" size="80699964" crc="71f3e65c" md5="a8d678654cfae9bff3f93bc8a7991dec" sha1="df89c441c9956cdb30fd242afada6fcf57629bfb"/>
+	</game>
+	<game name="Medal of Honor European Assualt (2006)(Electronic Arts)(AU)[box][SLES-53332-ANZ-P]">
+		<description>Medal of Honor European Assualt (2006)(Electronic Arts)(AU)[box][SLES-53332-ANZ-P]</description>
+		<rom name="Medal of Honor European Assualt (2006)(Electronic Arts)(AU)[box][SLES-53332-ANZ-P].pdf" size="79566544" crc="8911a43f" md5="1f5fdd7ba2cddc2b8f4c58be163b7b84" sha1="a3518d26e99a98240f9f72000612395409092c67"/>
+	</game>
+	<game name="Medal of Honor Rising Sun (2003)(Electronic Arts)(AU)[box][SLES-51873-ANZ-P]">
+		<description>Medal of Honor Rising Sun (2003)(Electronic Arts)(AU)[box][SLES-51873-ANZ-P]</description>
+		<rom name="Medal of Honor Rising Sun (2003)(Electronic Arts)(AU)[box][SLES-51873-ANZ-P].pdf" size="80661459" crc="92f00844" md5="3555ba2d1926f7f6533bf59b93057ddb" sha1="d4e80e1100d6e20c646de2f51be0798d9fd2e43b"/>
+	</game>
+	<game name="Mercenaries (2006)(Lucasfilm Entertainment Company)(AU)[box][SLES-52588-ANZ]">
+		<description>Mercenaries (2006)(Lucasfilm Entertainment Company)(AU)[box][SLES-52588-ANZ]</description>
+		<rom name="Mercenaries (2006)(Lucasfilm Entertainment Company)(AU)[box][SLES-52588-ANZ].pdf" size="78335534" crc="0f00a29e" md5="ca81b1046e97b7169bda88ed12741ab7" sha1="ad56cf7a6c15ee73196acd57cd5974b9b990d41b"/>
+	</game>
+	<game name="Metal Gear Solid 2 Substance (2003)(Konami)(EU)[box][SLES-82009]">
+		<description>Metal Gear Solid 2 Substance (2003)(Konami)(EU)[box][SLES-82009]</description>
+		<rom name="Metal Gear Solid 2 Substance (2003)(Konami)(EU)[box][SLES-82009].pdf" size="82009243" crc="17180a77" md5="7365da34a14979739787a7400f530f10" sha1="cf3c3ab1147a84e6b9f3ba68316e0c1065081679"/>
+	</game>
+	<game name="Motocross Madness 3 (2005)(Take Two Interactive)(AU)[box][SLES-53092-ANZ]">
+		<description>Motocross Madness 3 (2005)(Take Two Interactive)(AU)[box][SLES-53092-ANZ]</description>
+		<rom name="Motocross Madness 3 (2005)(Take Two Interactive)(AU)[box][SLES-53092-ANZ].pdf" size="19551478" crc="19b26835" md5="2d463f7ed3f54c8f2bd77846c8ef7d10" sha1="b9159fcec77c0f3a5366835413695a3741a13f2a"/>
+	</game>
+	<game name="Need for Speed Carbon (2006)(Electronic Arts)(AU)[box][SLES-54321-P-ANZ]">
+		<description>Need for Speed Carbon (2006)(Electronic Arts)(AU)[box][SLES-54321-P-ANZ]</description>
+		<rom name="Need for Speed Carbon (2006)(Electronic Arts)(AU)[box][SLES-54321-P-ANZ].pdf" size="77854825" crc="03a34bc7" md5="2e3a0dce8ebb8e046842c38077021e43" sha1="6754fe47f10e18b9d1a68065532dc897deb15ff4"/>
+	</game>
+	<game name="Nicktools - Attack of the Toybots (2007)(Viacom International)(AU)[box][SLES-54990-ANZ]">
+		<description>Nicktools - Attack of the Toybots (2007)(Viacom International)(AU)[box][SLES-54990-ANZ]</description>
+		<rom name="Nicktools - Attack of the Toybots (2007)(Viacom International)(AU)[box][SLES-54990-ANZ].pdf" size="20115687" crc="c6377381" md5="235bcaea9f2bcbef1f47df935f7a7ff1" sha1="35aa9eaa531a28d04d1c29c0f3849c14368f0d97"/>
+	</game>
+	<game name="NRL Rugby League (2003)(Home Entertainment Suppliers)(AU)[box][SLES-52100-ANZ]">
+		<description>NRL Rugby League (2003)(Home Entertainment Suppliers)(AU)[box][SLES-52100-ANZ]</description>
+		<rom name="NRL Rugby League (2003)(Home Entertainment Suppliers)(AU)[box][SLES-52100-ANZ].pdf" size="74428864" crc="9e30b78b" md5="29b23c560b14c1717c22da876fb37d91" sha1="95fb70d588a39cd99d8d26419f443536349fdd23"/>
+	</game>
+	<game name="Prince of Persia the Two Thrones (2005)(Ubisoft)(EU)[box][SLES-53777]">
+		<description>Prince of Persia the Two Thrones (2005)(Ubisoft)(EU)[box][SLES-53777]</description>
+		<rom name="Prince of Persia the Two Thrones (2005)(Ubisoft)(EU)[box][SLES-53777].pdf" size="79402263" crc="cee2eead" md5="7ad012bdf6acf45ddc866b4c75b1e6e2" sha1="49c43a67db54515002841c15fecd278ea9a361f4"/>
+	</game>
+	<game name="Prince of Persia Warrior Within (2004)(Ubisoft)(EU)[box][SLES-52822]">
+		<description>Prince of Persia Warrior Within (2004)(Ubisoft)(EU)[box][SLES-52822]</description>
+		<rom name="Prince of Persia Warrior Within (2004)(Ubisoft)(EU)[box][SLES-52822].pdf" size="75839606" crc="b07a4067" md5="9bbcc17af43aade778ccd13529ba6970" sha1="ea1703549c3d5fed73b85daf3bda7b48c80530bd"/>
+	</game>
+	<game name="Project Snowlind (2004)(Eidos)(EU)[box][SLES-52859]">
+		<description>Project Snowlind (2004)(Eidos)(EU)[box][SLES-52859]</description>
+		<rom name="Project Snowlind (2004)(Eidos)(EU)[box][SLES-52859].pdf" size="73007753" crc="755ba0fd" md5="e56d086065f37798befd4ab8dc064056" sha1="694dd6e6331f7236cd1fd284b6f32abdd24e804b"/>
+	</game>
+	<game name="Project Zero II - Crimson Butterfly (2004)(Ubisoft)(GB)[box][SLES-52384]">
+		<description>Project Zero II - Crimson Butterfly (2004)(Ubisoft)(GB)[box][SLES-52384]</description>
+		<rom name="Project Zero II - Crimson Butterfly (2004)(Ubisoft)(GB)[box][SLES-52384].pdf" size="514964" crc="a4d7a608" md5="bb150a546b473f747a506a73b39c50a3" sha1="8799f46fda7925e5f6831f272796b16f0e1b9a92"/>
+	</game>
+	<game name="Rainbow Six 3 (2003)(Ubisoft)(EU)[box][SLES-52288]">
+		<description>Rainbow Six 3 (2003)(Ubisoft)(EU)[box][SLES-52288]</description>
+		<rom name="Rainbow Six 3 (2003)(Ubisoft)(EU)[box][SLES-52288].pdf" size="80031588" crc="fc78c9a2" md5="b9176c665276134bde204553e0b1f63f" sha1="dc97f79ce1924ca78e90fa8f964484ab2ca07d0a"/>
+	</game>
+	<game name="Return to Castle Wolfenstein (2003)(Activision)(AU)[box][SLES-51449-ANZ]">
+		<description>Return to Castle Wolfenstein (2003)(Activision)(AU)[box][SLES-51449-ANZ]</description>
+		<rom name="Return to Castle Wolfenstein (2003)(Activision)(AU)[box][SLES-51449-ANZ].pdf" size="79203118" crc="b8edf6c7" md5="cc51085bd8276d2f36af4a8bf3ea5aa3" sha1="049b246ce6808258f33bcd5f5a86b9e06507164a"/>
+	</game>
+	<game name="Ricky Ponting International Cricket 2005 (2004)(Codemasters)(AU)[box][SLES-53058-ANZ]">
+		<description>Ricky Ponting International Cricket 2005 (2004)(Codemasters)(AU)[box][SLES-53058-ANZ]</description>
+		<rom name="Ricky Ponting International Cricket 2005 (2004)(Codemasters)(AU)[box][SLES-53058-ANZ].pdf" size="81811274" crc="5d2c8a52" md5="f81394fccde8ee948eddb1798a3e3340" sha1="41428bdf38cfdc9356cdea28d3a80f5059c0b4aa"/>
+	</game>
+	<game name="Rugby 2004 (2003)(Electronic Arts)(EU)[box][SLES-51732]">
+		<description>Rugby 2004 (2003)(Electronic Arts)(EU)[box][SLES-51732]</description>
+		<rom name="Rugby 2004 (2003)(Electronic Arts)(EU)[box][SLES-51732].pdf" size="79672342" crc="f70ad702" md5="09f4ded13a671b5e20d817406ca0c4cb" sha1="9b7a272d71a684b74cc20f50d97003289810d1ee"/>
+	</game>
+	<game name="Shaun Palmer's Pro Snowboarder (2001)(Activision)(EU)[box][SLES-50400]">
+		<description>Shaun Palmer's Pro Snowboarder (2001)(Activision)(EU)[box][SLES-50400]</description>
+		<rom name="Shaun Palmer's Pro Snowboarder (2001)(Activision)(EU)[box][SLES-50400].pdf" size="70089357" crc="a2d9bbfd" md5="b07289bbddfde8da5a5522984981a5e1" sha1="eae8897e4a8ef86061a5b7f168cb66b88658d991"/>
+	</game>
+	<game name="Sims Busting Out, The (2003)(Electronic Arts)(EU)[box][SLES-52047-P]">
+		<description>Sims Busting Out, The (2003)(Electronic Arts)(EU)[box][SLES-52047-P]</description>
+		<rom name="Sims Busting Out, The (2003)(Electronic Arts)(EU)[box][SLES-52047-P].pdf" size="76461734" crc="402c32ae" md5="595c2888ac2079284a128d5cdf2e3155" sha1="053305898b46515f7daa0f982d0edf1f91c75b0e"/>
+	</game>
+	<game name="Sonic Mega Collection Plus (2006)(Sega)(AU)[box][SLES-52998-ANZ-P]">
+		<description>Sonic Mega Collection Plus (2006)(Sega)(AU)[box][SLES-52998-ANZ-P]</description>
+		<rom name="Sonic Mega Collection Plus (2006)(Sega)(AU)[box][SLES-52998-ANZ-P].pdf" size="79008357" crc="32c7769e" md5="1e950ab90135c03942e87cbec67b08cf" sha1="917354b9d498f25f8f9479e03ab78c8175e8e170"/>
+	</game>
+	<game name="Space Invaders Anniversary (2004)(Empire)(EU)[box][SLES-52313]">
+		<description>Space Invaders Anniversary (2004)(Empire)(EU)[box][SLES-52313]</description>
+		<rom name="Space Invaders Anniversary (2004)(Empire)(EU)[box][SLES-52313].pdf" size="79955997" crc="823ad17f" md5="120fb33b94d1671ce44ca099a8864338" sha1="e9571292ca22224ecaa54cf2efe4956c0046d71b"/>
+	</game>
+	<game name="Sum of all Fears, The (2002)(Ubisoft)(EU)[box][SLES-51180]">
+		<description>Sum of all Fears, The (2002)(Ubisoft)(EU)[box][SLES-51180]</description>
+		<rom name="Sum of all Fears, The (2002)(Ubisoft)(EU)[box][SLES-51180].pdf" size="63394467" crc="6065d244" md5="b37f7d76af6dee16c62c3634f9c370e9" sha1="b37eeaa6c826baa06f0c2d3cdd214fce54148ed2"/>
+	</game>
+	<game name="Thrillville - Off the Rails (2006)(Lucasfilm Entertainment Company)(AU)[box][SLES-54806-ANZ]">
+		<description>Thrillville - Off the Rails (2006)(Lucasfilm Entertainment Company)(AU)[box][SLES-54806-ANZ]</description>
+		<rom name="Thrillville - Off the Rails (2006)(Lucasfilm Entertainment Company)(AU)[box][SLES-54806-ANZ].pdf" size="80880422" crc="7acbe486" md5="096e6c9dd48bef43a20732579b0e10d1" sha1="0e5eb226da626ba9d631c2721b0daf3b76c0bbed"/>
+	</game>
+	<game name="Tiger Woods PGA Tour 07 (2006)(Electronic Arts)[box][SLES-54253]">
+		<description>Tiger Woods PGA Tour 07 (2006)(Electronic Arts)[box][SLES-54253]</description>
+		<rom name="Tiger Woods PGA Tour 07 (2006)(Electronic Arts)[box][SLES-54253].pdf" size="80360511" crc="91e0375e" md5="a394edb49d31839c9381b14b0c93e323" sha1="dce1a983cf1e55907b9a2344f06437011ccd45d7"/>
+	</game>
+	<game name="Tiger Woods PGA Tour 2004 (2003)(Electronic Arts)(EU)[box][SLES-51887]">
+		<description>Tiger Woods PGA Tour 2004 (2003)(Electronic Arts)(EU)[box][SLES-51887]</description>
+		<rom name="Tiger Woods PGA Tour 2004 (2003)(Electronic Arts)(EU)[box][SLES-51887].pdf" size="80364671" crc="ac39cd05" md5="f3870a2109aaeabbe95d480bb2f41a52" sha1="31de0e7afaef96a682a947e4dcd71ebea5ee8009"/>
+	</game>
+	<game name="Tom Clancy's Ghost Recon 2 (2004)(Ubisoft)(AU)[box][SLES-52646-ANZ]">
+		<description>Tom Clancy's Ghost Recon 2 (2004)(Ubisoft)(AU)[box][SLES-52646-ANZ]</description>
+		<rom name="Tom Clancy's Ghost Recon 2 (2004)(Ubisoft)(AU)[box][SLES-52646-ANZ].pdf" size="78220750" crc="87ae72c7" md5="23af4e8d37c10aeb3c525a03725740b5" sha1="8bf6d5d494a27ca805b222f1172f93d3d19f1c44"/>
+	</game>
+	<game name="Tom Clancy's Rainbow Six Lockdown (2005)(Ubisoft)(AU)[box][SLES-53104-ANZ]">
+		<description>Tom Clancy's Rainbow Six Lockdown (2005)(Ubisoft)(AU)[box][SLES-53104-ANZ]</description>
+		<rom name="Tom Clancy's Rainbow Six Lockdown (2005)(Ubisoft)(AU)[box][SLES-53104-ANZ].pdf" size="80201917" crc="a8e8dd0f" md5="5a96b6cc4d71d960b585162433c8f3cc" sha1="d23b6d08b7766ea1244bbbb60e945342396b7e3f"/>
+	</game>
+	<game name="True Crime New York City (2005)(Activision)(AU)[box][SLES-53616-ANZ-P]">
+		<description>True Crime New York City (2005)(Activision)(AU)[box][SLES-53616-ANZ-P]</description>
+		<rom name="True Crime New York City (2005)(Activision)(AU)[box][SLES-53616-ANZ-P].pdf" size="79149722" crc="90f59123" md5="42ce55857b2a8d7b013d2cbddaed123e" sha1="8c96524f9242d4dc6137196ca312ea8d518c4ce1"/>
+	</game>
+	<game name="True Crime Streets of LA (2003)(Activision)(AU)[box][SLES-51753-P-ANZ]">
+		<description>True Crime Streets of LA (2003)(Activision)(AU)[box][SLES-51753-P-ANZ]</description>
+		<rom name="True Crime Streets of LA (2003)(Activision)(AU)[box][SLES-51753-P-ANZ].pdf" size="20096385" crc="6c70e5c1" md5="3ad3ade6c5fb02245a1e708f6e9d8ff9" sha1="a1c1044f2694b3adb6067c021a1da374313c3e6c"/>
+	</game>
+	<game name="V8 Supercar Race Driver (2002)(Codemasters)(EU)[box][SLES-50767]">
+		<description>V8 Supercar Race Driver (2002)(Codemasters)(EU)[box][SLES-50767]</description>
+		<rom name="V8 Supercar Race Driver (2002)(Codemasters)(EU)[box][SLES-50767].pdf" size="79101105" crc="77e33f9f" md5="acf7207d76925ee377ee0817e6dd92eb" sha1="f491f163447d96162f266a6654c61d2a5178acd6"/>
+	</game>
+	<game name="V8 Supercars 3 (2005)(Codemasters)(AU)[box][SLES-53089-P-ANZ]">
+		<description>V8 Supercars 3 (2005)(Codemasters)(AU)[box][SLES-53089-P-ANZ]</description>
+		<rom name="V8 Supercars 3 (2005)(Codemasters)(AU)[box][SLES-53089-P-ANZ].pdf" size="78891661" crc="0bbed714" md5="679d3db51816c68d9d18e8b656a99a8f" sha1="cc6a9900465765c1677c79b7375b61ed9d7e9a67"/>
+	</game>
+	<game name="Virtua Pro Football (2006)(Sega)(AU)[box][SLES-54153-ANZ]">
+		<description>Virtua Pro Football (2006)(Sega)(AU)[box][SLES-54153-ANZ]</description>
+		<rom name="Virtua Pro Football (2006)(Sega)(AU)[box][SLES-54153-ANZ].pdf" size="81410459" crc="9d8c8be5" md5="bc6a767d1543e4c7a33de7c86a32e6b6" sha1="0beca7418e29f1fa849dbc4a90d63dc71e515968"/>
+	</game>
+	<game name="Worms Forts - Under Siege (2004)(Team 17 Software)(EU)[box][SLES-52734]">
+		<description>Worms Forts - Under Siege (2004)(Team 17 Software)(EU)[box][SLES-52734]</description>
+		<rom name="Worms Forts - Under Siege (2004)(Team 17 Software)(EU)[box][SLES-52734].pdf" size="81664473" crc="196e248e" md5="eedf68cbf05f8dc0b82db52fb504f2ba" sha1="e8aa3ffcb17b6873d44f561732df106cc8802a2d"/>
+	</game>
+	<game name="WWE SmackDown! vs. RAW 2007 (2006)(THQ-JAKKS Pacific)(AU)[box][SLES-54489-ANZ]">
+		<description>WWE SmackDown! vs. RAW 2007 (2006)(THQ-JAKKS Pacific)(AU)[box][SLES-54489-ANZ]</description>
+		<rom name="WWE SmackDown! vs. RAW 2007 (2006)(THQ-JAKKS Pacific)(AU)[box][SLES-54489-ANZ].pdf" size="80646622" crc="97a5667a" md5="47f8d1d173dea76e23fbd54eb5d339f7" sha1="8440890267b7ce366cf98d50e1e3cfcfc75de2f2"/>
+	</game>
+	<game name="WWE Smackdown! vs. RAW 2008 (2007)(THQ-JAKKS Pacific)(AU)[box][SLES-54793-ANZ]">
+		<description>WWE Smackdown! vs. RAW 2008 (2007)(THQ-JAKKS Pacific)(AU)[box][SLES-54793-ANZ]</description>
+		<rom name="WWE Smackdown! vs. RAW 2008 (2007)(THQ-JAKKS Pacific)(AU)[box][SLES-54793-ANZ].pdf" size="77005073" crc="941da384" md5="878dadf43894372137879f804f03e2f1" sha1="c0a7ff2c24316459771c70f83adfe7382c372d72"/>
+	</game>
+	<game name="X-Men Legends (2004)(Activision)(EU)[box][SLES-52624]">
+		<description>X-Men Legends (2004)(Activision)(EU)[box][SLES-52624]</description>
+		<rom name="X-Men Legends (2004)(Activision)(EU)[box][SLES-52624].pdf" size="80135202" crc="808bebc9" md5="df5f78ce171bca45ea874a7a48ebffa9" sha1="ffd069edfe38a657bd3b8bc1203e48824c7eb05c"/>
+	</game>
+	<game name="Xenosaga Episode I - Der Wille Zur Macht (2004)(Namco)(US)[box][SLUS-20469]">
+		<description>Xenosaga Episode I - Der Wille Zur Macht (2004)(Namco)(US)[box][SLUS-20469]</description>
+		<rom name="Xenosaga Episode I - Der Wille Zur Macht (2004)(Namco)(US)[box][SLUS-20469].pdf" size="884972" crc="fd88880d" md5="99839b3511a133d7229346b648140607" sha1="2f797054d34289e4b04ef956e287f10563655a61"/>
+	</game>
+	<game name="Xenosaga Episode I - Der Wille Zur Macht (2004)(Namco)(US)[disc][SLUS-20469]">
+		<description>Xenosaga Episode I - Der Wille Zur Macht (2004)(Namco)(US)[disc][SLUS-20469]</description>
+		<rom name="Xenosaga Episode I - Der Wille Zur Macht (2004)(Namco)(US)[disc][SLUS-20469].pdf" size="407271" crc="032e3448" md5="758c4fab0a12bf0e072d899a04eae235" sha1="b88f49e4651bee0691a0d71b706a615f7c2e4cff"/>
+	</game>
+</datafile>

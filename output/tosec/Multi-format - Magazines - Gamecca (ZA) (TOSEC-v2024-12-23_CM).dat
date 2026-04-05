@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Gamecca (ZA)</name>
+		<description>Multi-format - Magazines - Gamecca (ZA) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Gamecca - Volume 01 Issue 01 (2009-07)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 01 (2009-07)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 01 (2009-07)(1337 Media)(ZA).pdf" size="10716064" crc="5680651b" md5="2ce4841d7fbe4a9b8d79c994a22a77c7" sha1="dd11a8dd018a0d0e9d96dc68be13e05bbb076e44"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 02 (2009-08)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 02 (2009-08)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 02 (2009-08)(1337 Media)(ZA).pdf" size="23145846" crc="d9095af8" md5="31a5718846caeca4f2cbd062d374aa7a" sha1="d72542b0893b34dd4d31bf9fcb0cd9f178b46dd9"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 03 (2009-09)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 03 (2009-09)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 03 (2009-09)(1337 Media)(ZA).pdf" size="17379497" crc="fb1ef74c" md5="213324bc2f71884c14cff3231b7277cd" sha1="c9d5537d0f0bc640e941fe3a61d836409888b680"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 04 (2009-10)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 04 (2009-10)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 04 (2009-10)(1337 Media)(ZA).pdf" size="19973374" crc="67239b7f" md5="d4a021ece836cdc95ae912d90edcb55e" sha1="81a24f4b71e97e4d64b4a653b31d429ab4327c4b"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 05 (2009-11)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 05 (2009-11)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 05 (2009-11)(1337 Media)(ZA).pdf" size="23700115" crc="51ff0738" md5="c49cb25c14b4c17d89cd5b3be517fdf9" sha1="2d2c73ca20c1b7152a5d41fa1190092d94b8fd61"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 06 (2009-12)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 06 (2009-12)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 06 (2009-12)(1337 Media)(ZA).pdf" size="22122499" crc="ece61752" md5="b3fe229a72f56b4ceb0ee7692690cc7d" sha1="3eaaf49048c353071dd2669560b7d787a0e68f90"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 07 (2010-01)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 07 (2010-01)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 07 (2010-01)(1337 Media)(ZA).pdf" size="24993699" crc="fb9d0382" md5="04c802b9e1058d25c0fd8517f24fae67" sha1="0f95fde5729bc0353160ef4858e38a470ded8f5c"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 08 (2010-02)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 08 (2010-02)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 08 (2010-02)(1337 Media)(ZA).pdf" size="15164969" crc="b7031314" md5="40f4563d682b54cda59529e0f1bdcd3d" sha1="1e05ad778b2ee8b01c1a2bfcdccec56665af2802"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 09 (2010-03)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 09 (2010-03)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 09 (2010-03)(1337 Media)(ZA).pdf" size="22103176" crc="ff894529" md5="53ef6d2901a35a9d0f81929e8222c30a" sha1="b38fd843b26dd484b621b18ee5dc22fdd92d2e8e"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 10 (2010-04)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 10 (2010-04)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 10 (2010-04)(1337 Media)(ZA).pdf" size="22097674" crc="6be8df70" md5="38b8b5c0fb8265b05c4c09a17d82287e" sha1="4f1d6b8296b23a1f3390b22243d6e70b453c6f9e"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 11 (2010-05)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 11 (2010-05)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 11 (2010-05)(1337 Media)(ZA).pdf" size="22736277" crc="bd40f4a5" md5="5d0a406c255843f21ee14f2876351f34" sha1="9dd4d3759cae208b8707f22655687fb0b65b297a"/>
+	</game>
+	<game name="Gamecca - Volume 01 Issue 12 (2010-06)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 01 Issue 12 (2010-06)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 01 Issue 12 (2010-06)(1337 Media)(ZA).pdf" size="25738916" crc="c987741c" md5="913d37934b072a09fa6be4b5f053efa7" sha1="32961be50ed92575748b212f982b4555ce0ab1d1"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 13 (2010-07)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 13 (2010-07)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 13 (2010-07)(1337 Media)(ZA).pdf" size="33635749" crc="c335d2a7" md5="46ec49e3058fbe3b845c6ff1be8ede2a" sha1="9247b940ba29cfb194505dc635942824f84fbda5"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 14 (2010-08)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 14 (2010-08)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 14 (2010-08)(1337 Media)(ZA).pdf" size="37511628" crc="f30973a6" md5="7b7206162fa1b5db756abb4ebffe8860" sha1="c7030fa43f3f2b61d33d51ee5e5880b29bfdb2c8"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 15 (2010-09)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 15 (2010-09)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 15 (2010-09)(1337 Media)(ZA).pdf" size="28129495" crc="8b7d3c86" md5="74499185016bc53bb12ebd9386ef10f7" sha1="e2b56b844595c0e24fd5a7ab0fd444bb68ef9ea1"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 16 (2010-10)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 16 (2010-10)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 16 (2010-10)(1337 Media)(ZA).pdf" size="41618740" crc="865af53d" md5="e02158483522eb9c07c5769102573663" sha1="ae99160b93a7c413973197c1aeb8e9e6244889b7"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 17 (2010-11)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 17 (2010-11)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 17 (2010-11)(1337 Media)(ZA).pdf" size="45166310" crc="204df345" md5="60cfef3974525dd7b79101883e8760ae" sha1="373abc64689b41602fe4a95f123bafddb6d27d50"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 18 (2010-12)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 18 (2010-12)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 18 (2010-12)(1337 Media)(ZA).pdf" size="55962300" crc="35143232" md5="17d013572a69659267c1d359d1e0acaa" sha1="710197284911fe1bff9700095e873376b1157a3c"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 19 (2011-01)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 19 (2011-01)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 19 (2011-01)(1337 Media)(ZA).pdf" size="44047926" crc="9c877dfe" md5="ce59d5781d99a55d8b63d93fe4f941f4" sha1="102e9cdb2d7bb4d16b18d55279d33cfceda44275"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 20 (2011-02)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 20 (2011-02)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 20 (2011-02)(1337 Media)(ZA).pdf" size="34285307" crc="91482672" md5="b691a967366072926664825547846098" sha1="115b74bc684eb8630ceb64f250488f25a056998a"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 21 (2011-03)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 21 (2011-03)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 21 (2011-03)(1337 Media)(ZA).pdf" size="36538009" crc="b66e2128" md5="56d8b2c42d50c188b6dd33158fa2ee31" sha1="f566e9f05dd4f096ea13c499222598af81892775"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 22 (2011-04)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 22 (2011-04)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 22 (2011-04)(1337 Media)(ZA).pdf" size="40826810" crc="0eb3efb6" md5="6ecfdea4a1f3671822aaded96cb959a0" sha1="32a2d4940be2cedb9dfe23b67eb3e25e4588d9e9"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 23 (2011-05)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 23 (2011-05)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 23 (2011-05)(1337 Media)(ZA).pdf" size="44779769" crc="be2c1da8" md5="dca0a2ab1e5f3aca8f02fa8fcc7045da" sha1="825a92d657ef5d38ef56cc07b82efadc4ee38459"/>
+	</game>
+	<game name="Gamecca - Volume 02 Issue 24 (2011-06)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 02 Issue 24 (2011-06)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 02 Issue 24 (2011-06)(1337 Media)(ZA).pdf" size="39675512" crc="157c3172" md5="d46e5204a521e6aab784196f4116dd74" sha1="f26de3ee642f73a9cc4b452f3901d9ee2b741d30"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 25 (2011-07)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 25 (2011-07)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 25 (2011-07)(1337 Media)(ZA).pdf" size="50751695" crc="26802801" md5="d97cb782e414fc7e61b528e9b7746e07" sha1="fc398072dfd3d813fd0c745c6982efbed240303e"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 26 (2011-08)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 26 (2011-08)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 26 (2011-08)(1337 Media)(ZA).pdf" size="45354876" crc="ecc233d6" md5="b7d17441c2411c487513c0d88547e22b" sha1="e22906904fd645199dac8a5f4ad7b383e0429d64"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 27 (2011-09)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 27 (2011-09)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 27 (2011-09)(1337 Media)(ZA).pdf" size="53437680" crc="83dd5ce3" md5="a22cf8fd589175a2bd8177b3b7dc84e4" sha1="0ec61782dd78bed17e6a5f85f20fb7e8b1675902"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 28 (2011-10)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 28 (2011-10)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 28 (2011-10)(1337 Media)(ZA).pdf" size="50271381" crc="95f6bd7c" md5="69c98fc3b8443e690161ef7f6ea2022d" sha1="c52c9bcda8b42a9e4e395cd9e407ff022748ebb7"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 29 (2011-11)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 29 (2011-11)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 29 (2011-11)(1337 Media)(ZA).pdf" size="48983090" crc="848bbe80" md5="65f306fcc6eb7cb61207a17b36502fa2" sha1="22e407af9ace67f8f3c954d61e2d9c339720786d"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 30 (2011-12)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 30 (2011-12)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 30 (2011-12)(1337 Media)(ZA).pdf" size="41905504" crc="108078b7" md5="4a0e50bb59b5ee6afb6d6050996bfd1d" sha1="55997ef1259fa386636094d5fc74aa4882d51c29"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 31 (2012-01)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 31 (2012-01)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 31 (2012-01)(1337 Media)(ZA).pdf" size="30425214" crc="ce2471cd" md5="ac4fe0d55cfecf40a4d2749f0398e91d" sha1="2c3e58445c70be290e70a80c687e42e9df2b41b6"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 32 (2012-02)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 32 (2012-02)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 32 (2012-02)(1337 Media)(ZA).pdf" size="29484663" crc="412dbf80" md5="a4815f03dbde49f37f592e6da1107d1f" sha1="fb4443ab8ee1702bbf0cb56899b4252aa716158c"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 33 (2012-03)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 33 (2012-03)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 33 (2012-03)(1337 Media)(ZA).pdf" size="35448226" crc="06fde8d9" md5="889c3780ab2ddce1646d203033deb7b8" sha1="73da104c3fa4a99b9ef4bfc2df7c83adbf55cc7e"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 34 (2012-04)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 34 (2012-04)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 34 (2012-04)(1337 Media)(ZA).pdf" size="39431416" crc="e8c470bf" md5="628be30e9bd5746293c5f1c219aab235" sha1="0abedc52a89e1dd37dc6b1837c292c1653c6ac98"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 35 (2012-05)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 35 (2012-05)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 35 (2012-05)(1337 Media)(ZA).pdf" size="37528610" crc="8cc80f5d" md5="6a35a6a95b833d058585ef0239c04f62" sha1="ae5f9a79439bd3ee1df1e357c6476350e1e56aa2"/>
+	</game>
+	<game name="Gamecca - Volume 03 Issue 36 (2012-06)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 03 Issue 36 (2012-06)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 03 Issue 36 (2012-06)(1337 Media)(ZA).pdf" size="35887425" crc="6a53f5cf" md5="3dd40ee35d2f8620a8cd60280f97c86e" sha1="a092498822636ca64c3b849b8b1229bd1bffcab2"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 37 (2012-07)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 37 (2012-07)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 37 (2012-07)(1337 Media)(ZA).pdf" size="66351440" crc="48fad3d1" md5="d517e641cc80ee1f7682359fb22df2be" sha1="bb7081b71ebcc7fb433dd5d8e0b64395379da05b"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 38 (2012-08)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 38 (2012-08)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 38 (2012-08)(1337 Media)(ZA).pdf" size="46435702" crc="042f1bd5" md5="ed5597166eeca425d3d90595eb4dabc7" sha1="268f02f5b31181c826bedb808320d7762d221252"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 39 (2012-09)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 39 (2012-09)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 39 (2012-09)(1337 Media)(ZA).pdf" size="36564122" crc="48bad9f9" md5="2802f17a556b81382578943ce1de3e8c" sha1="fae6c223b528b9d2d60904e4139cbaa0d350691c"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 40 (2012-10)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 40 (2012-10)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 40 (2012-10)(1337 Media)(ZA).pdf" size="35283915" crc="c4d81dc2" md5="27676ddc7a3530607efdb33235c65475" sha1="55a73b655252f0c552963bae71ef5427a0b709a9"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 41 (2012-11)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 41 (2012-11)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 41 (2012-11)(1337 Media)(ZA).pdf" size="42672551" crc="0ba2202c" md5="29967fa3ecbc551bcce0f027565c5f79" sha1="4d4ceb0cf567259ecef82238ff3a298b7a470aa7"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 42 (2012-12)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 42 (2012-12)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 42 (2012-12)(1337 Media)(ZA).pdf" size="45566873" crc="e5e6cd94" md5="19c416aa271c3a764e10937d5057c47a" sha1="88d983ec7965c52fb2a0336d86ecae789b25dd34"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 43 (2013-01)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 43 (2013-01)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 43 (2013-01)(1337 Media)(ZA).pdf" size="31050701" crc="68cf11ba" md5="35e498681bcd0300db961cfec09c7244" sha1="33c2fa18b012b8a3eb9a96286a9facdcaa375b43"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 44 (2013-02)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 44 (2013-02)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 44 (2013-02)(1337 Media)(ZA).pdf" size="51372957" crc="26dd70bf" md5="b73471aa10575809a963bb516054a1f8" sha1="ff1245b20bd6b2b59ad3fbbebf342c63263e9447"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 45 (2013-03)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 45 (2013-03)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 45 (2013-03)(1337 Media)(ZA).pdf" size="55632297" crc="4d1c9dd2" md5="c714962739841abb55f12be3c00e3e82" sha1="f6a4b49018bee2b4dbeb73e8902ee6a8dd769110"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 46 (2013-04)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 46 (2013-04)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 46 (2013-04)(1337 Media)(ZA).pdf" size="41746527" crc="05153634" md5="cf54f6bd8b3f1e1327509600f7fa590c" sha1="322872c2fd1c417a1a075e26afd6be4bffe4a914"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 47 (2013-05)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 47 (2013-05)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 47 (2013-05)(1337 Media)(ZA).pdf" size="38008438" crc="27adc9be" md5="fe17a4e7d1476aed4a710073cbd1e7c4" sha1="db1e003719e19322113ee6eb1d338ad7507256a6"/>
+	</game>
+	<game name="Gamecca - Volume 04 Issue 48 (2013-06)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 04 Issue 48 (2013-06)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 04 Issue 48 (2013-06)(1337 Media)(ZA).pdf" size="32236854" crc="10c08e07" md5="128ab7a8dc39199da191958f0b1d4f55" sha1="4ef949fc099823b35c5f777dce11c906d74dbd0b"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 49 (2013-07)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 49 (2013-07)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 49 (2013-07)(1337 Media)(ZA).pdf" size="47479448" crc="9c0c8511" md5="2d8d60e5b2ef35c49f6b77932e3efc6b" sha1="980511dfbf2eeaebfe32dad7176b725736b1dc12"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 50 (2013-08)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 50 (2013-08)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 50 (2013-08)(1337 Media)(ZA).pdf" size="40958481" crc="bd6a0fbd" md5="696bfe7853b29c1e8dadb17feed2a7e6" sha1="9038d743a0580b6e7d43fa6b15635a130b846fae"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 51 (2013-09)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 51 (2013-09)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 51 (2013-09)(1337 Media)(ZA).pdf" size="38015868" crc="fbe319f4" md5="889668de09d9fb7720befc485a415c60" sha1="c0fdcc9f8ad842c576b59c8f79814a805be7e483"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 52 (2013-10)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 52 (2013-10)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 52 (2013-10)(1337 Media)(ZA).pdf" size="37610240" crc="33e727ad" md5="6dacc2b370874b90333e2d1492dfa66a" sha1="127bd1af5767d304ac30da3a0e13f71eb20a53e6"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 53 (2013-11)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 53 (2013-11)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 53 (2013-11)(1337 Media)(ZA).pdf" size="46199509" crc="649150ad" md5="2294ec16979d0c96764be033a9d32226" sha1="d593ec2b61be466af23cb133eeb519cbb4d46338"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 54 (2013-12)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 54 (2013-12)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 54 (2013-12)(1337 Media)(ZA).pdf" size="34308439" crc="eb3b667a" md5="d8166a319d0ac0f3178b5ae9f60b6879" sha1="1b5fb48c5993ca7f8619e6e654a1475e4c3ea247"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 55 (2014-01)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 55 (2014-01)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 55 (2014-01)(1337 Media)(ZA).pdf" size="31787790" crc="fd34e85f" md5="00b0f03aa7fe9334fd5f3a34b3713cb6" sha1="72cb111db69fcf6e46b008e510854656853e667a"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 56 (2014-02)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 56 (2014-02)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 56 (2014-02)(1337 Media)(ZA).pdf" size="27760614" crc="1cfe9962" md5="e69bd8357ffeb7e46f8bb9394c172546" sha1="393665c8bba99d487450b43b6cc73f611cd804a2"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 57 (2014-03)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 57 (2014-03)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 57 (2014-03)(1337 Media)(ZA).pdf" size="34341817" crc="1424bb43" md5="cc219943b2078bbd6fbd30156c8899cb" sha1="7f76fc70ef160f352496159adbb350dbfbc8fad0"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 58 (2014-04)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 58 (2014-04)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 58 (2014-04)(1337 Media)(ZA).pdf" size="28295412" crc="47a12961" md5="028d2122e59903e3426c20fb7099a272" sha1="b5f90830ae25c6d293c672b729995f20e2609fe2"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 59 (2014-05)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 59 (2014-05)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 59 (2014-05)(1337 Media)(ZA).pdf" size="31229064" crc="cce79ab5" md5="1e66492c7362a83948f2d6fea055e4ce" sha1="14e42d239825eee543bd7b1a8f5cbfbfc78035cb"/>
+	</game>
+	<game name="Gamecca - Volume 05 Issue 60 (2014-06)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 05 Issue 60 (2014-06)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 05 Issue 60 (2014-06)(1337 Media)(ZA).pdf" size="26194413" crc="daa125d2" md5="64e3d96757eced9db1980548444677d7" sha1="79ea832af4a4e69112b097719c82094dc81c86d5"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 61 (2014-07)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 61 (2014-07)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 61 (2014-07)(1337 Media)(ZA).pdf" size="42598252" crc="b6bf172c" md5="290bd1dfbe84c25fe22976dea4cd913d" sha1="b9292a1392f64fe054262d1246d0112d8da56659"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 62 (2014-08)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 62 (2014-08)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 62 (2014-08)(1337 Media)(ZA).pdf" size="40299277" crc="f67d5502" md5="dd9e946ac3b74070d8495362f44a1988" sha1="edcafc0a7db7b7c2d375576f67961f42b026e4f2"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 63 (2014-09)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 63 (2014-09)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 63 (2014-09)(1337 Media)(ZA).pdf" size="52405164" crc="1c6ca140" md5="797af124bf317ac1284cf7cb181f906f" sha1="cd8fa1a9dfd3ebf16e48bb937ba6f4573e7a98af"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 64 (2014-10)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 64 (2014-10)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 64 (2014-10)(1337 Media)(ZA).pdf" size="50196532" crc="2d282d45" md5="9f8ce7e31f79b6594345f32d3d4f8693" sha1="c3df783aaf23bd633f077eab72109a76dff31f26"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 65 (2014-11)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 65 (2014-11)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 65 (2014-11)(1337 Media)(ZA).pdf" size="64157885" crc="638e0341" md5="6a2809d94a8f6e86e39cea75d9ce4cab" sha1="a7961596e2ebb3473b183b8481a459c53bde9125"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 66 (2014-12)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 66 (2014-12)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 66 (2014-12)(1337 Media)(ZA).pdf" size="39370250" crc="e36f2c81" md5="611f74fca9167cd66db6775b815aeea5" sha1="fa16abf5bb8a14d209022a04f5a642dee289e438"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 67 (2015-01)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 67 (2015-01)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 67 (2015-01)(1337 Media)(ZA).pdf" size="39094198" crc="e97a5075" md5="cb61c13bca678e4c0238f5f3016acf87" sha1="b8e890a23eb64605f45af4b045bce8e26f84a298"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 68 (2015-02)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 68 (2015-02)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 68 (2015-02)(1337 Media)(ZA).pdf" size="30515740" crc="b5114a54" md5="852a930b1a1db0c3ebc976b1c6258f5e" sha1="03a0468e5ca66384bc83ee6cb5d2ab9705300632"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 69 (2015-03)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 69 (2015-03)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 69 (2015-03)(1337 Media)(ZA).pdf" size="48634584" crc="c7bae213" md5="99c505614de218d99f3c1733ab7b0097" sha1="0eb5616df43d2937e85f2fbdf87ff79d04054224"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 70 (2015-04)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 70 (2015-04)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 70 (2015-04)(1337 Media)(ZA).pdf" size="53725809" crc="a0052567" md5="3b021f2546f4759155e2b53bbb6c8c76" sha1="ac21b97d1653006f6d64457f17b4a452ac0e8e93"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 71 (2015-05)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 71 (2015-05)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 71 (2015-05)(1337 Media)(ZA).pdf" size="40158038" crc="9ce180c2" md5="a11cceb19ff9358cdd7b8689314528c8" sha1="5ba37787b5f1d6fb1e6995bd647f3fc23ffb816a"/>
+	</game>
+	<game name="Gamecca - Volume 06 Issue 72 (2015-06)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 06 Issue 72 (2015-06)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 06 Issue 72 (2015-06)(1337 Media)(ZA).pdf" size="47548992" crc="fcee001d" md5="ee05f7ce71a9a8e6e877c7255e887f63" sha1="eb0ea090ecc5138552a355cc7c0e2c1122fd3d05"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 73 (2015-07)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 73 (2015-07)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 73 (2015-07)(1337 Media)(ZA).pdf" size="64539422" crc="727fb99f" md5="ecfacc7bac1f5d61073c75a817f8481e" sha1="e8ab84cdb1365f385733bf47046bd56217059770"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 74 (2015-08)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 74 (2015-08)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 74 (2015-08)(1337 Media)(ZA).pdf" size="58302116" crc="c2eddc34" md5="40b77227ed6a5eeeda83748405c4bdba" sha1="1c4de4a70c3e893f4e5dd15b4757ae2952921df8"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 75 (2015-09)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 75 (2015-09)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 75 (2015-09)(1337 Media)(ZA).pdf" size="55623764" crc="e642e476" md5="46babfa9d1f10898690ec293cea8ad2f" sha1="fd473e8d2cc31a215faa29370e8a72d0c6fc6f18"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 76 (2015-10)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 76 (2015-10)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 76 (2015-10)(1337 Media)(ZA).pdf" size="49444719" crc="8babd567" md5="557a18f2ebb763aa7f9a0617cfdbff42" sha1="4bf672575d4929c30cf1717d0f643c38479fd51c"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 77 (2015-11)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 77 (2015-11)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 77 (2015-11)(1337 Media)(ZA).pdf" size="54604303" crc="1c578047" md5="e51919facb2aa1362ba0b2543dd1236c" sha1="aaac7acfd5c2aa1b19756c657184958eee55c116"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 78 (2015-12)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 78 (2015-12)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 78 (2015-12)(1337 Media)(ZA).pdf" size="49973434" crc="b03f6f86" md5="8118475a7fb7649fae9b40fbe993531a" sha1="c0900ba41336bbf6a5b30559f49864567064501b"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 79 (2016-01)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 79 (2016-01)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 79 (2016-01)(1337 Media)(ZA).pdf" size="44772560" crc="399aff89" md5="2aafad72215da1120a03f8d758164e29" sha1="4d59165b87245c391dcae9d74fa3c83f411e31e0"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 80 (2016-02)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 80 (2016-02)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 80 (2016-02)(1337 Media)(ZA).pdf" size="44386428" crc="b3c1dcc3" md5="697f36d62b9e6d813428f993ec730980" sha1="5e141178961d472b8692689f80d29c4886ba2633"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 81 (2016-03)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 81 (2016-03)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 81 (2016-03)(1337 Media)(ZA).pdf" size="48442030" crc="d0460e72" md5="7b5449119b0ea88f79b29e098577e548" sha1="9a0392732bc7cd4270a2ce552f61f8ea63f18fb2"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 82 (2016-04)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 82 (2016-04)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 82 (2016-04)(1337 Media)(ZA).pdf" size="37924871" crc="0dd8bd20" md5="77698727ac5a9a3aa0c22c591dfd7971" sha1="d6eecfdb5e4e95fac09da9050fafdf494f4774e9"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 83 (2016-05)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 83 (2016-05)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 83 (2016-05)(1337 Media)(ZA).pdf" size="60580061" crc="f520df7f" md5="73cb22a5833badde1fbf67503de2fd33" sha1="62e707d4f85691d2a427cd893b4b2cfdad5b7792"/>
+	</game>
+	<game name="Gamecca - Volume 07 Issue 84 (2016-06)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 07 Issue 84 (2016-06)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 07 Issue 84 (2016-06)(1337 Media)(ZA).pdf" size="42939027" crc="cc67cb18" md5="8bdb2d3c052feef838ba06f16e835edd" sha1="2eb93e63e18585ec000fde3be7a8a3e202c29d3e"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 85 (2016-07)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 85 (2016-07)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 85 (2016-07)(1337 Media)(ZA).pdf" size="64753327" crc="e8f392b3" md5="4d33bacdb124ebe3058f2409f904d8aa" sha1="328e7258e5311324d66e175f149553fa1b708539"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 86 (2016-08)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 86 (2016-08)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 86 (2016-08)(1337 Media)(ZA).pdf" size="57539249" crc="9fb2fae7" md5="36360a28192d0b3c4e0a7a4e8f0b5c0f" sha1="f7b9dcc2746b24db2571ec7fa0bcd1f33a996e7d"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 87 (2016-09)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 87 (2016-09)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 87 (2016-09)(1337 Media)(ZA).pdf" size="47731135" crc="4ae8e7b1" md5="19ef5d9a30075510266eca06f31da8aa" sha1="f3575d12830a766da06b03996895c16c4243b2b1"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 88 (2016-10)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 88 (2016-10)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 88 (2016-10)(1337 Media)(ZA).pdf" size="33359396" crc="653abb2f" md5="fd02fff024425e024175b627e6478c67" sha1="d2d0abdb057ae30d456f72d7ddb4898d027cfe16"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 89 (2016-11)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 89 (2016-11)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 89 (2016-11)(1337 Media)(ZA).pdf" size="37568058" crc="381c3464" md5="59cba26843cde79ef9241bf4fccd8402" sha1="2534eb470a9635c8e7c16701a2ecfc5a0e80f37c"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 90 (2016-12)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 90 (2016-12)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 90 (2016-12)(1337 Media)(ZA).pdf" size="49627605" crc="6b003cf3" md5="e352a5438875d0b7a72b15102ef0d220" sha1="7d3138812f82e7c2c4e2bdac2a6ffad478a5a658"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 91 (2017-01)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 91 (2017-01)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 91 (2017-01)(1337 Media)(ZA).pdf" size="46365531" crc="b21e5efe" md5="14de29176a7f957c0aee58f9e43a5106" sha1="dba5ac3fad5a7ba3eb33c42b77c97631abacb396"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 92 (2017-02)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 92 (2017-02)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 92 (2017-02)(1337 Media)(ZA).pdf" size="59517573" crc="91b8136d" md5="71eacad240d5bfd6c5238345574d3ea8" sha1="7a65ee9279f4679c34670fa6fd6fe2427973bfa7"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 93 (2017-03)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 93 (2017-03)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 93 (2017-03)(1337 Media)(ZA).pdf" size="63005756" crc="28728ea2" md5="58f1e8193015cbbdf84af66445dd09db" sha1="76148eafe07a5f523a5dd3c74378864dc099899e"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 94 (2017-04)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 94 (2017-04)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 94 (2017-04)(1337 Media)(ZA).pdf" size="61342969" crc="f4bee78d" md5="a01d8f1652d16978e324f1efe6628184" sha1="b46ae6f648476d61def93d885c7bc7181113444e"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 95 (2017-05)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 95 (2017-05)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 95 (2017-05)(1337 Media)(ZA).pdf" size="50626012" crc="1344ca5e" md5="11d79dd042f68aeb846bf451e546b5d9" sha1="e819ff1982c2e15b4ea0635901cca89f418e0af3"/>
+	</game>
+	<game name="Gamecca - Volume 08 Issue 96 (2017-06)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 08 Issue 96 (2017-06)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 08 Issue 96 (2017-06)(1337 Media)(ZA).pdf" size="54320481" crc="aec3fbc3" md5="72a736a13cdd16745a46621287c7dfba" sha1="7575b0d4706eb9c78df538b9fe3dbcec74149cbd"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 100 (2017-10)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 100 (2017-10)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 100 (2017-10)(1337 Media)(ZA).pdf" size="69944784" crc="7e9b3aff" md5="d23cf5b112110ee440cbf6cb179aad8c" sha1="289adb4b6c8a54413ab36e328b398efeced2c894"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 101 (2017-11)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 101 (2017-11)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 101 (2017-11)(1337 Media)(ZA).pdf" size="66581736" crc="bdde00e2" md5="66fa2e6043bb773ae3dcfeb196a0622e" sha1="e48fc125de4e55d0baa9a4e3886b1766888d903b"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 102 (2017-12)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 102 (2017-12)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 102 (2017-12)(1337 Media)(ZA).pdf" size="53107406" crc="c6512ce9" md5="b2f931986b1934830f3a69eb53a005f3" sha1="9245cc826aedc9e5be9387ac74344acf25fc74b4"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 103 (2018-01)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 103 (2018-01)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 103 (2018-01)(1337 Media)(ZA).pdf" size="53030899" crc="6a8862b4" md5="cda80c85c8b03782258d0a9192c68975" sha1="111d8ad96366ccb31d69167f4fab41ebb9a8d845"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 104 (2018-02)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 104 (2018-02)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 104 (2018-02)(1337 Media)(ZA).pdf" size="58198572" crc="b5d5aaac" md5="3c2a173394d37d66ecd70d7fffdf6917" sha1="2e128aea8bfe3e6928218f62b85f109d6bc36f2a"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 105 (2018-03)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 105 (2018-03)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 105 (2018-03)(1337 Media)(ZA).pdf" size="52791074" crc="3afdfb68" md5="134c78c849f8e1d24840b506167856fb" sha1="abd2a5b23866b94d31a14475b71343b6bb1b390b"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 106 (2018-04)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 106 (2018-04)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 106 (2018-04)(1337 Media)(ZA).pdf" size="70350743" crc="9f06e23b" md5="4fdd4d8fa7d80250f39806e5304dce4e" sha1="6504486e9b7e8d01a96501fcfa2a1a2157d98efd"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 107 (2018-05)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 107 (2018-05)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 107 (2018-05)(1337 Media)(ZA).pdf" size="49956200" crc="45bbb012" md5="f152d4c7ea007b640e841cf82614d1e4" sha1="c86a7ac4c09607d620eab0c4dd4c564e1303c21c"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 97 (2017-07)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 97 (2017-07)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 97 (2017-07)(1337 Media)(ZA).pdf" size="61135455" crc="a2ebb0bf" md5="5552d1375361369890216e1037f957a8" sha1="b0490269d8bba6c8f36906c4ee6d8fe3c3ff2a95"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 98 (2017-08)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 98 (2017-08)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 98 (2017-08)(1337 Media)(ZA).pdf" size="49557276" crc="515f94fe" md5="aed6d80083a415a4c7f6dca31f00d716" sha1="4e72dcc491d88c342c7b687129ab32aa7016dd69"/>
+	</game>
+	<game name="Gamecca - Volume 09 Issue 99 (2017-09)(1337 Media)(ZA)">
+		<description>Gamecca - Volume 09 Issue 99 (2017-09)(1337 Media)(ZA)</description>
+		<rom name="Gamecca - Volume 09 Issue 99 (2017-09)(1337 Media)(ZA).pdf" size="55488702" crc="458e0c70" md5="8042b04cc05738fc845cae68d1160198" sha1="3499c8fb7b2cf84113036af31e436af0bebf0665"/>
+	</game>
+</datafile>

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Mi Computer (ES)</name>
+		<description>Multi-format - Magazines - Mi Computer (ES) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mi Computer - no. 1 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 1 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 1 (1984)(Editorial Delta)(ES).pdf" size="22029643" crc="cae3766a" md5="a46a04ff723e196f72ef20816628d6cf" sha1="67fce10fc26e9ba5b165907a22d530c52f3ed97a"/>
+	</game>
+	<game name="Mi Computer - no. 10 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 10 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 10 (1984)(Editorial Delta)(ES).pdf" size="20322971" crc="0a0675f3" md5="7479d82c84261bb18d802a78f425e3c5" sha1="70a636c81ff87f1a1c462887e94e708efeaa48f3"/>
+	</game>
+	<game name="Mi Computer - no. 100 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 100 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 100 (1984)(Editorial Delta)(ES).pdf" size="20852826" crc="048f97a4" md5="c6215d7669cca6a0d551d036f742ee7e" sha1="6710a8f35c8903b51a3da38e39d54114c34ca566"/>
+	</game>
+	<game name="Mi Computer - no. 101 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 101 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 101 (1984)(Editorial Delta)(ES).pdf" size="20313520" crc="4369e8c6" md5="6e48d4ae4f09c8c3be4c3d74647fb4f2" sha1="a8a1f0d48eb580dd20dd7218db675d674f61808a"/>
+	</game>
+	<game name="Mi Computer - no. 102 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 102 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 102 (1984)(Editorial Delta)(ES).pdf" size="20571869" crc="ec6fb7be" md5="577b1612b3ccdde954221744a4f72907" sha1="8d8feecc6fe9818db18360d346fa17dc9d06a72f"/>
+	</game>
+	<game name="Mi Computer - no. 103 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 103 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 103 (1984)(Editorial Delta)(ES).pdf" size="21390186" crc="f3b0f9b3" md5="33ae3257a7847aaa7a5db23c2b0c7007" sha1="c58b68324a78231455a00e28383706feb7a64395"/>
+	</game>
+	<game name="Mi Computer - no. 104 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 104 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 104 (1984)(Editorial Delta)(ES).pdf" size="21881006" crc="7cbcc5b7" md5="3fcacb613de935e1ad8c9e1923bc264a" sha1="d8030c2d9c960968d716acc1b6371625e9c8920f"/>
+	</game>
+	<game name="Mi Computer - no. 105 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 105 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 105 (1984)(Editorial Delta)(ES).pdf" size="21191785" crc="db7341ef" md5="b02b11782903620db7828a58aaaeba72" sha1="a77fa5d55fe260f6033df5655d29b3153f8fed20"/>
+	</game>
+	<game name="Mi Computer - no. 106 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 106 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 106 (1984)(Editorial Delta)(ES).pdf" size="20651969" crc="f76dbc54" md5="9ce184d724a4500a27c3db3f0d986c04" sha1="446571f28f520ae0ccaabc80f0280630a502baa3"/>
+	</game>
+	<game name="Mi Computer - no. 107 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 107 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 107 (1984)(Editorial Delta)(ES).pdf" size="21119398" crc="c9299cc9" md5="60fa39023cb77a8f58c323056c972005" sha1="180db4ff16515d9f7fcb34bc20b1d7dcb9acf9ac"/>
+	</game>
+	<game name="Mi Computer - no. 108 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 108 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 108 (1984)(Editorial Delta)(ES).pdf" size="21997465" crc="2e53eb8b" md5="fe203f643cb54ff520c6ad404404283a" sha1="f1fbbbe471b5ec2efa34fbfb3b4f4c3ee110f4dc"/>
+	</game>
+	<game name="Mi Computer - no. 109 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 109 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 109 (1984)(Editorial Delta)(ES).pdf" size="21253693" crc="6f697863" md5="91ba9fc7b5b8c415c67a95e9103b4428" sha1="156de9ad9108db715b121c5b8b18558692d91a50"/>
+	</game>
+	<game name="Mi Computer - no. 11 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 11 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 11 (1984)(Editorial Delta)(ES).pdf" size="20674666" crc="bb177498" md5="41dcc3752935695b13965010a4ad8e5e" sha1="f9bdac6efe5e4fae55c4d7802468b1539f3f6bd1"/>
+	</game>
+	<game name="Mi Computer - no. 110 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 110 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 110 (1984)(Editorial Delta)(ES).pdf" size="20848370" crc="02261e32" md5="03def9ddc9abd49941ea2cce648a6d17" sha1="52ddf2ac7bc18b2d9cdfdb3b53f0cce984eeb904"/>
+	</game>
+	<game name="Mi Computer - no. 111 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 111 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 111 (1984)(Editorial Delta)(ES).pdf" size="21264160" crc="88233b9d" md5="5a8cc4659d4ec1cbcefc8448944ee36d" sha1="0cf5b7e423e7d2920c3b6ed4affd0a27934ddee1"/>
+	</game>
+	<game name="Mi Computer - no. 112 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 112 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 112 (1984)(Editorial Delta)(ES).pdf" size="21853235" crc="3571475a" md5="ff57e09ea3bdd7054f8bae08e685ba2f" sha1="3e40f53a0f56f6c064e6df1bd3caa981cff765af"/>
+	</game>
+	<game name="Mi Computer - no. 113 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 113 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 113 (1984)(Editorial Delta)(ES).pdf" size="21408276" crc="1083b1d2" md5="a6b561ddc8b75cb21151834a1bd5f00d" sha1="06ba430e5516861eca0ca216b195f512e6ea83a4"/>
+	</game>
+	<game name="Mi Computer - no. 114 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 114 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 114 (1984)(Editorial Delta)(ES).pdf" size="21759381" crc="579d9e98" md5="47c006dd999f47341cfd6bdd9da5fe6f" sha1="8a736513f79f475eb071dd1529a762b8229b2050"/>
+	</game>
+	<game name="Mi Computer - no. 115 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 115 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 115 (1984)(Editorial Delta)(ES).pdf" size="21831866" crc="8b1e1b38" md5="117cbd03449a32926af32ea414a81246" sha1="23dcdd083d95748a7eb85d61d3e89d3077605a65"/>
+	</game>
+	<game name="Mi Computer - no. 116 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 116 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 116 (1984)(Editorial Delta)(ES).pdf" size="21447440" crc="93531dba" md5="07fac3b8578a9cf9220446e3ef81d309" sha1="b643a59b41ca61ba106a8ea09d2e9502f1eecc88"/>
+	</game>
+	<game name="Mi Computer - no. 117 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 117 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 117 (1984)(Editorial Delta)(ES).pdf" size="20080961" crc="6d15e7d5" md5="80034ce863068105f97d65bfe99243d0" sha1="7d77cb95ba8c014da01e8dacf0564aa8169809da"/>
+	</game>
+	<game name="Mi Computer - no. 118 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 118 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 118 (1984)(Editorial Delta)(ES).pdf" size="21208048" crc="05f82070" md5="913f217ea856125838cfbf1fd4824883" sha1="6bf094eca35e887867a1dc2eb4be6aff3f55a338"/>
+	</game>
+	<game name="Mi Computer - no. 119 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 119 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 119 (1984)(Editorial Delta)(ES).pdf" size="20775278" crc="e0779658" md5="3201e0488b224302c252aa66bc49064e" sha1="459b0d5cb04ae61a56f725254d76bdf7c1363c89"/>
+	</game>
+	<game name="Mi Computer - no. 12 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 12 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 12 (1984)(Editorial Delta)(ES).pdf" size="21259552" crc="612abf15" md5="472065557247226ddc1b245a4b2f4b32" sha1="65139ba972eaa7d4ff82494d46c7bf666cf21ba8"/>
+	</game>
+	<game name="Mi Computer - no. 120 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 120 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 120 (1984)(Editorial Delta)(ES).pdf" size="18032009" crc="23a40c27" md5="a4f8d7ee93ca4a034e1067b5fb92aef1" sha1="d25cd1b233f005d75a828eb1d7ba6a8a3df28e64"/>
+	</game>
+	<game name="Mi Computer - no. 13 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 13 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 13 (1984)(Editorial Delta)(ES).pdf" size="21598359" crc="c58347fb" md5="c8b9280d7e1132994a9455e847d9a873" sha1="db71988c2de6a6f983ecfbf419466c6c4c09095c"/>
+	</game>
+	<game name="Mi Computer - no. 14 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 14 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 14 (1984)(Editorial Delta)(ES).pdf" size="22551162" crc="5862d100" md5="d5e0137c186796df739fd3626325f5d7" sha1="2c878070dbf0afa1c14aa3a9879671fb32a94b70"/>
+	</game>
+	<game name="Mi Computer - no. 15 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 15 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 15 (1984)(Editorial Delta)(ES).pdf" size="21645726" crc="920b60d9" md5="e407e28c40a0a9c3c7be7e2db830bb9d" sha1="ddf4f47b6496edeac8d7dd4da0faa45cf991f135"/>
+	</game>
+	<game name="Mi Computer - no. 16 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 16 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 16 (1984)(Editorial Delta)(ES).pdf" size="21788504" crc="14be22f2" md5="68f2998882225bfdb59daf025b748a27" sha1="bb6d8ce387af20e055703e9b6701cda1f1950308"/>
+	</game>
+	<game name="Mi Computer - no. 17 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 17 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 17 (1984)(Editorial Delta)(ES).pdf" size="20847749" crc="708c74f3" md5="e7db5be99af08b03d72db0d119b75ba0" sha1="a5380d913cbf2d240a7d18023367add58f0adce7"/>
+	</game>
+	<game name="Mi Computer - no. 18 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 18 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 18 (1984)(Editorial Delta)(ES).pdf" size="21871587" crc="7c849ff4" md5="e20785610a14f1732a1c540b31838783" sha1="90de3c63d15a0e539d2043df196d86b9f460dd0f"/>
+	</game>
+	<game name="Mi Computer - no. 19 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 19 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 19 (1984)(Editorial Delta)(ES).pdf" size="20879403" crc="93e7fcd4" md5="b700a3e50479c9359fa787d56c9cda73" sha1="f7bb8df77b3d0cc33edc0a81b55ffdd66ca5b843"/>
+	</game>
+	<game name="Mi Computer - no. 2 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 2 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 2 (1984)(Editorial Delta)(ES).pdf" size="20554653" crc="32154dfc" md5="32f79db63c7108e54acb8c5a63489e0b" sha1="cd98d4e0ca47e537c43391e9f1e20406d19bea9d"/>
+	</game>
+	<game name="Mi Computer - no. 20 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 20 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 20 (1984)(Editorial Delta)(ES).pdf" size="22291723" crc="9541b7ee" md5="ff4bd5674aaf8b2972220db8f39be524" sha1="d445ad468fba94f6ffdaeee2de674615bd87749b"/>
+	</game>
+	<game name="Mi Computer - no. 21 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 21 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 21 (1984)(Editorial Delta)(ES).pdf" size="21897482" crc="3e879a16" md5="2c393f0502f77488b3cb831941db6aa2" sha1="7a02430190bbae6d9c19db2a0377030675237749"/>
+	</game>
+	<game name="Mi Computer - no. 22 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 22 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 22 (1984)(Editorial Delta)(ES).pdf" size="21153109" crc="a6347005" md5="59f55cc6ec05a22d283d9fc508edb7d9" sha1="9a91985ce5ad1810a4112c760752641be15ab6b3"/>
+	</game>
+	<game name="Mi Computer - no. 23 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 23 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 23 (1984)(Editorial Delta)(ES).pdf" size="21073966" crc="abcef46c" md5="0dcb0792796b6ea3acda4648ddf2ca11" sha1="ee07e59b434b6db7319b84f9e4b6f20dcc6b624d"/>
+	</game>
+	<game name="Mi Computer - no. 24 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 24 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 24 (1984)(Editorial Delta)(ES).pdf" size="21782200" crc="e917909a" md5="ce1bf88179676d604ea6f0bfe242cf4f" sha1="606b1769015aaeb90753e05422cea489e87010ee"/>
+	</game>
+	<game name="Mi Computer - no. 25 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 25 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 25 (1984)(Editorial Delta)(ES).pdf" size="21041562" crc="2e47ab18" md5="1937cc799dc461f2569c855ce01dbf07" sha1="e0d09f8595fb3cb148d254be26a44a60233a32e1"/>
+	</game>
+	<game name="Mi Computer - no. 26 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 26 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 26 (1984)(Editorial Delta)(ES).pdf" size="20013269" crc="e6a5bd45" md5="5b1a801aadec4b599bcf85a615824489" sha1="de552eb1fe5bcde02a1efc1b57e469a19c58144a"/>
+	</game>
+	<game name="Mi Computer - no. 27 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 27 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 27 (1984)(Editorial Delta)(ES).pdf" size="20492481" crc="37009156" md5="db459a8af5877ed1298d05e6daf64ef3" sha1="771417a0f7146621996e4d9252e9ae3f2a4000c8"/>
+	</game>
+	<game name="Mi Computer - no. 28 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 28 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 28 (1984)(Editorial Delta)(ES).pdf" size="19858894" crc="003026fd" md5="e8439e817645cd7ffbd06f50efee046b" sha1="8da96568cc504dc462b23ef37d5837f6c6c27875"/>
+	</game>
+	<game name="Mi Computer - no. 29 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 29 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 29 (1984)(Editorial Delta)(ES).pdf" size="21407484" crc="c8539d22" md5="98782cdba289f00fd384c570a0b53e6e" sha1="d4f3f498aa4268a46209a6ae7a74b218be9fb7ee"/>
+	</game>
+	<game name="Mi Computer - no. 3 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 3 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 3 (1984)(Editorial Delta)(ES).pdf" size="20891234" crc="3bb94a52" md5="b5903ba0937d3659dcd7a7187235c369" sha1="3b975ef73aa6511cb25a35a96b374739798649fe"/>
+	</game>
+	<game name="Mi Computer - no. 30 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 30 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 30 (1984)(Editorial Delta)(ES).pdf" size="20620898" crc="9561eaf6" md5="71b82d187c36be4b81e50518e8e91859" sha1="904eb5e1c18eab682dab510ffaee1f506a2d381b"/>
+	</game>
+	<game name="Mi Computer - no. 31 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 31 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 31 (1984)(Editorial Delta)(ES).pdf" size="20980248" crc="73803a95" md5="fddcf683c61ea132ccfdb1c9c9be3503" sha1="20933bcae174da081cac412eece80eb88e3f78d7"/>
+	</game>
+	<game name="Mi Computer - no. 32 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 32 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 32 (1984)(Editorial Delta)(ES).pdf" size="21506021" crc="3ec204f5" md5="d9e3240f7fdf56c165714f2e59942dd9" sha1="268f978938560f8a9b15d14325ca1ebeb28bc45b"/>
+	</game>
+	<game name="Mi Computer - no. 33 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 33 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 33 (1984)(Editorial Delta)(ES).pdf" size="20469473" crc="9963bd69" md5="08e42b121f335b284b89ed3f44f794e7" sha1="caf9b9fb9a58eb30a6f0de2fcf6f2300e8d96f5b"/>
+	</game>
+	<game name="Mi Computer - no. 34 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 34 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 34 (1984)(Editorial Delta)(ES).pdf" size="20113748" crc="3b3f5ee0" md5="92ec9c4e8caa77605bb1f4cad0f0d8b0" sha1="ce467f1fd87332d35650c16d151d68beff975a6a"/>
+	</game>
+	<game name="Mi Computer - no. 35 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 35 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 35 (1984)(Editorial Delta)(ES).pdf" size="19884801" crc="4dbc2db7" md5="237e29aeae5facfb14f7de612a0363b3" sha1="bb3cf0794241216fd7ce8c166dec61449ff14fd2"/>
+	</game>
+	<game name="Mi Computer - no. 36 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 36 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 36 (1984)(Editorial Delta)(ES).pdf" size="20719375" crc="7eac025f" md5="e79c9eaba02ad4ca9b5ff0d93dd2471d" sha1="db7d471398aee8b2acd6efe10ba466769c1ba5e6"/>
+	</game>
+	<game name="Mi Computer - no. 37 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 37 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 37 (1984)(Editorial Delta)(ES).pdf" size="20405901" crc="82e8b2d8" md5="c2440d80d8648788820b27aa47ff31f6" sha1="58225ea1c91d9cc835db486cd34b21c658e45731"/>
+	</game>
+	<game name="Mi Computer - no. 38 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 38 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 38 (1984)(Editorial Delta)(ES).pdf" size="21629390" crc="08d31061" md5="57efda683144f729c6455a2656a340d1" sha1="a5d421a20e9f6073a0b5ba7ada030f50e77c581e"/>
+	</game>
+	<game name="Mi Computer - no. 39 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 39 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 39 (1984)(Editorial Delta)(ES).pdf" size="20158144" crc="6abe99fc" md5="f58287523cd6bc42ade7848b2d5be868" sha1="0098d52641fa1373e5f89224e8150d30b32aaf84"/>
+	</game>
+	<game name="Mi Computer - no. 4 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 4 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 4 (1984)(Editorial Delta)(ES).pdf" size="19868762" crc="6b875ddb" md5="2be473b17df45711c67b6f8fd2364932" sha1="6f57bfcea77dfea393e01f9200eda848287ab7f6"/>
+	</game>
+	<game name="Mi Computer - no. 40 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 40 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 40 (1984)(Editorial Delta)(ES).pdf" size="21625463" crc="ad134d5d" md5="6a961889bb983b9300b5b1ce6cc3c38b" sha1="280fe022484932cbafd7ceb5d6c6d79bc6138fb9"/>
+	</game>
+	<game name="Mi Computer - no. 41 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 41 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 41 (1984)(Editorial Delta)(ES).pdf" size="20560258" crc="02ac726a" md5="e0ed1f4425fa615cbf27a27f0b66f7f4" sha1="417742633b7af6e3ee92319b326ce2c52d3b3996"/>
+	</game>
+	<game name="Mi Computer - no. 42 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 42 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 42 (1984)(Editorial Delta)(ES).pdf" size="23305045" crc="3f8bfb6a" md5="ad55e63079d36438fef8e3eb9094f984" sha1="df9e358a2747f68d431076ff35e5d1cd5fe6fe39"/>
+	</game>
+	<game name="Mi Computer - no. 43 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 43 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 43 (1984)(Editorial Delta)(ES).pdf" size="21097753" crc="89dcd577" md5="a98f43d93b45cadfc9561671d2f73be5" sha1="8a1f5cf4ab4bcf965afcf7ac80f555c234ad7e06"/>
+	</game>
+	<game name="Mi Computer - no. 44 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 44 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 44 (1984)(Editorial Delta)(ES).pdf" size="22231487" crc="b515178c" md5="e03468602f7fb57a63267edd78c886a1" sha1="bad696f7e11a1c606c43e44d7756a89a18451e59"/>
+	</game>
+	<game name="Mi Computer - no. 45 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 45 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 45 (1984)(Editorial Delta)(ES).pdf" size="21458573" crc="cd1ffdb7" md5="667270dde75f813cb77465fcedede68a" sha1="9289cc43d34348f4650ea346452638fedd58db22"/>
+	</game>
+	<game name="Mi Computer - no. 46 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 46 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 46 (1984)(Editorial Delta)(ES).pdf" size="20248140" crc="e3dfdd54" md5="85df9f15b29bf6a89dd0a478ae572bf2" sha1="0a026510f4ec2aa602b107f2921e732c8012ae43"/>
+	</game>
+	<game name="Mi Computer - no. 47 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 47 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 47 (1984)(Editorial Delta)(ES).pdf" size="21858753" crc="201fc88f" md5="110e339f235b59386dc18d26ee8374c4" sha1="a654bf429f3fd592eecca6d68810d6474ee6bc81"/>
+	</game>
+	<game name="Mi Computer - no. 48 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 48 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 48 (1984)(Editorial Delta)(ES).pdf" size="20575587" crc="65fa7910" md5="59d8ac7986e30eaf23cdcda71968c631" sha1="fb8cb9e5a18a3f9dee9962c2dfc548680903a80f"/>
+	</game>
+	<game name="Mi Computer - no. 49 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 49 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 49 (1984)(Editorial Delta)(ES).pdf" size="21248293" crc="300a74dd" md5="88f3a077c26245b3d0587d0cbfb005af" sha1="413830a56d475c81d483c530703144cd8168f7f9"/>
+	</game>
+	<game name="Mi Computer - no. 5 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 5 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 5 (1984)(Editorial Delta)(ES).pdf" size="20471931" crc="60a52f94" md5="7e25dcebe749ee6cb1af24bc05bee487" sha1="a8ff96549ebf8b2026b2d8e4583ad008bb044f09"/>
+	</game>
+	<game name="Mi Computer - no. 50 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 50 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 50 (1984)(Editorial Delta)(ES).pdf" size="21401733" crc="7653aee9" md5="ae4dcdcad5b761e510e0f8a9c33f6c18" sha1="16ee37fe6f1f8acb29a5d487489e3aeed498f967"/>
+	</game>
+	<game name="Mi Computer - no. 51 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 51 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 51 (1984)(Editorial Delta)(ES).pdf" size="21576476" crc="4962cb2c" md5="3932a41797e37ab87b3d2db500daf869" sha1="ece8d0edc7a85a87a325bdfd0fd403a886af1abc"/>
+	</game>
+	<game name="Mi Computer - no. 52 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 52 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 52 (1984)(Editorial Delta)(ES).pdf" size="22272473" crc="df9861b9" md5="698966a4cdf8fc32215ad1abe791b7f7" sha1="6d1a67043108908ac5a8bc5c6c45e9e7285a41bf"/>
+	</game>
+	<game name="Mi Computer - no. 53 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 53 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 53 (1984)(Editorial Delta)(ES).pdf" size="20638726" crc="0e62d2bd" md5="2b960bb619e2e3b576d803c3e78a2b70" sha1="d96b94d0738a5356138bafa406c27eead82fec58"/>
+	</game>
+	<game name="Mi Computer - no. 54 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 54 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 54 (1984)(Editorial Delta)(ES).pdf" size="20734555" crc="22862382" md5="f07ae3413d267192f2dc43fc24da682b" sha1="951bcb6a518f9f4196248545ea29d10062929109"/>
+	</game>
+	<game name="Mi Computer - no. 55 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 55 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 55 (1984)(Editorial Delta)(ES).pdf" size="20604774" crc="f0ba6a4d" md5="9ab61ee78e68c1301a38df41dabf60fd" sha1="b4f7c6c1667ccb4fed5fc61a47348a4d69b5f46b"/>
+	</game>
+	<game name="Mi Computer - no. 56 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 56 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 56 (1984)(Editorial Delta)(ES).pdf" size="20879604" crc="5315e5af" md5="c6c81b29fc7b42f77a88bbc30c890592" sha1="0aa28f7348cb9fae6cf0c218704344dba83bef01"/>
+	</game>
+	<game name="Mi Computer - no. 57 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 57 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 57 (1984)(Editorial Delta)(ES).pdf" size="20791739" crc="67736274" md5="0e753225e025bac5feec4b8fed5f2451" sha1="14d196ad2f56ab1c0595574b03f0142faa62d6e9"/>
+	</game>
+	<game name="Mi Computer - no. 58 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 58 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 58 (1984)(Editorial Delta)(ES).pdf" size="21354576" crc="d8fa20c9" md5="bbeeebfcf954d3e18b7b830e802a5ae8" sha1="6c08452e54d53352f131b9e5c103391f810d8419"/>
+	</game>
+	<game name="Mi Computer - no. 59 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 59 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 59 (1984)(Editorial Delta)(ES).pdf" size="14047190" crc="5deb502c" md5="43749022fc3dec2b593ca4b080d73969" sha1="ff8d43eb4acd045fabc046198bde2c31f2b8b8c1"/>
+	</game>
+	<game name="Mi Computer - no. 6 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 6 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 6 (1984)(Editorial Delta)(ES).pdf" size="20552017" crc="0533a1f8" md5="cb1008d25a691b64cbfea328d19b7200" sha1="48554f5cec6aa5d3dbbd40dfcff984ed53dd8214"/>
+	</game>
+	<game name="Mi Computer - no. 60 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 60 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 60 (1984)(Editorial Delta)(ES).pdf" size="20808727" crc="a5cb0f19" md5="d33ea62ad0fea7ecb84281b1e1fed731" sha1="67a999f101b3a5df00852f181a112e9f487ec032"/>
+	</game>
+	<game name="Mi Computer - no. 61 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 61 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 61 (1984)(Editorial Delta)(ES).pdf" size="21609560" crc="84486c29" md5="59cc92c980989f16ff5cbd99be299526" sha1="3edbcf1dccc9ab2308d9ca6ed77b30c1ba75c22f"/>
+	</game>
+	<game name="Mi Computer - no. 62 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 62 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 62 (1984)(Editorial Delta)(ES).pdf" size="20369313" crc="48fcf113" md5="ac7fce5ca59754898631e635c10e2467" sha1="79e51c94249078e0d95018faff1c5391154ee8d5"/>
+	</game>
+	<game name="Mi Computer - no. 63 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 63 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 63 (1984)(Editorial Delta)(ES).pdf" size="20956541" crc="f45ce5dd" md5="2cd419d2d7d837e8af9e109f3c3c359f" sha1="452d5d60533a793a221b3dd028b01bf21910e0d6"/>
+	</game>
+	<game name="Mi Computer - no. 64 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 64 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 64 (1984)(Editorial Delta)(ES).pdf" size="19623483" crc="06d5b77f" md5="f38c02b7460396776fd8a11c6787b90c" sha1="809668c027124120d94ad559c2663de7e1b488f3"/>
+	</game>
+	<game name="Mi Computer - no. 65 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 65 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 65 (1984)(Editorial Delta)(ES).pdf" size="20013903" crc="4285f3fe" md5="8e3c2a5fa59703f492ff2ff2e511f8cb" sha1="33d681cdede96d479a6a8281ec67a49495b3f2ea"/>
+	</game>
+	<game name="Mi Computer - no. 66 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 66 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 66 (1984)(Editorial Delta)(ES).pdf" size="20529517" crc="fe23bd73" md5="594efbf8d3363dbb809cc968d4175ea3" sha1="769c1a006136773f68557fb545999c48d1346a48"/>
+	</game>
+	<game name="Mi Computer - no. 67 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 67 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 67 (1984)(Editorial Delta)(ES).pdf" size="21074233" crc="80979a26" md5="1d6ea26f4183e84abdef9b23f3147d09" sha1="430ef745bed02f515efb9869926d5cc50df85de0"/>
+	</game>
+	<game name="Mi Computer - no. 68 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 68 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 68 (1984)(Editorial Delta)(ES).pdf" size="20815665" crc="6e8b1f69" md5="918b3b0864fd40552c3d22a72025099d" sha1="79b960ee5cbc8f49fb58982a379ba031bdaf89d5"/>
+	</game>
+	<game name="Mi Computer - no. 69 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 69 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 69 (1984)(Editorial Delta)(ES).pdf" size="20901346" crc="3c58697c" md5="de730abe8742ea2416a2ed371a0a6bcd" sha1="d55a2d6c97ccc6b60676d53069778e3803acfd2b"/>
+	</game>
+	<game name="Mi Computer - no. 7 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 7 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 7 (1984)(Editorial Delta)(ES).pdf" size="19324056" crc="231fc554" md5="89ae7839903916675e0563096f513fad" sha1="d8a7b1aa151098be489f98deeb386d5b41fd52fd"/>
+	</game>
+	<game name="Mi Computer - no. 70 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 70 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 70 (1984)(Editorial Delta)(ES).pdf" size="21702138" crc="425f2b20" md5="aa488507992a3b187b151d42d71b245c" sha1="74c866dd822959bd2c5a5da75dcd5ba32ff572f2"/>
+	</game>
+	<game name="Mi Computer - no. 71 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 71 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 71 (1984)(Editorial Delta)(ES).pdf" size="19916409" crc="b0579692" md5="6415831b7e7200b1098a0dd38d26c845" sha1="cc87e1d36dbcb9634cca5009ca9a5da8eba72255"/>
+	</game>
+	<game name="Mi Computer - no. 72 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 72 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 72 (1984)(Editorial Delta)(ES).pdf" size="20853629" crc="1255957b" md5="c1241ad8bf6e13e487c842a3c7596d72" sha1="f14bb376a82868c2f765ce99e2c5d24b009d4fed"/>
+	</game>
+	<game name="Mi Computer - no. 73 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 73 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 73 (1984)(Editorial Delta)(ES).pdf" size="21109845" crc="7e043a41" md5="42d957344505925345fb704f4826b7eb" sha1="38bce3b11feb100218d3a1b9e5219cb6e1893359"/>
+	</game>
+	<game name="Mi Computer - no. 74 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 74 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 74 (1984)(Editorial Delta)(ES).pdf" size="22078331" crc="370f938d" md5="2861972327be0cf8dd9e2d8518f5dbb7" sha1="6d90e38938a40c0a85543a638022931e9b484b6c"/>
+	</game>
+	<game name="Mi Computer - no. 75 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 75 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 75 (1984)(Editorial Delta)(ES).pdf" size="22591212" crc="5ec919d8" md5="6a118104bb2699484e5c564c6b8066d3" sha1="bdc7d4d2f9c1772592ab43d75d60053081433c89"/>
+	</game>
+	<game name="Mi Computer - no. 76 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 76 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 76 (1984)(Editorial Delta)(ES).pdf" size="21356068" crc="f4b3cba5" md5="e7ca4195cc109ff559ee34ad24ec2127" sha1="d3dab0b0ae3e414ca39c2e77b7a252446b1fe569"/>
+	</game>
+	<game name="Mi Computer - no. 77 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 77 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 77 (1984)(Editorial Delta)(ES).pdf" size="20905783" crc="8e98842a" md5="7fbf4890796c5b87861e9f28e5669be9" sha1="00bb44922a469cd58fc0e705922d497acc71cbc8"/>
+	</game>
+	<game name="Mi Computer - no. 78 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 78 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 78 (1984)(Editorial Delta)(ES).pdf" size="21658267" crc="81911128" md5="0381151ef6ad8559b554ba16ce556a0c" sha1="b8397aee0de1d374acd6085b4ab7dc4c0576ae35"/>
+	</game>
+	<game name="Mi Computer - no. 79 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 79 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 79 (1984)(Editorial Delta)(ES).pdf" size="21032501" crc="3aef5702" md5="2e3550ae02a611106eebf1ae1cb4b0cd" sha1="3be50d8d7f0a37c08af241ffb0a06f867b87dbaf"/>
+	</game>
+	<game name="Mi Computer - no. 8 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 8 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 8 (1984)(Editorial Delta)(ES).pdf" size="20303864" crc="bf66cd65" md5="d406b3397de4a1018b6373177006d8c8" sha1="4e4ddc0c1537b5a35df2796f3bf6806734a54ca5"/>
+	</game>
+	<game name="Mi Computer - no. 80 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 80 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 80 (1984)(Editorial Delta)(ES).pdf" size="21143197" crc="a0d5e53e" md5="c5955cf4e21228c4e943d3c8a5876549" sha1="c4c65725d01fe14778d822b4818a206a8aea1db5"/>
+	</game>
+	<game name="Mi Computer - no. 81 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 81 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 81 (1984)(Editorial Delta)(ES).pdf" size="22073068" crc="0d0a8620" md5="2162b97ac1ef9b170d430b653751e250" sha1="a85c4d5f1ba8506efc30c2974617126a84131df3"/>
+	</game>
+	<game name="Mi Computer - no. 82 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 82 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 82 (1984)(Editorial Delta)(ES).pdf" size="21260760" crc="98a8dc03" md5="c0b49eaddfd821de2d07879b288ecc82" sha1="faed67668c59b434b2881b124cc3847d55161872"/>
+	</game>
+	<game name="Mi Computer - no. 83 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 83 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 83 (1984)(Editorial Delta)(ES).pdf" size="21036380" crc="24c34ef2" md5="2406878df661d38d45294bb770a517cb" sha1="e06aa00c36b133bd114c20bab986996b4aa22d9c"/>
+	</game>
+	<game name="Mi Computer - no. 84 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 84 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 84 (1984)(Editorial Delta)(ES).pdf" size="21603337" crc="c66b924f" md5="4317668fe7f6b787cd8d130d1b82b497" sha1="b6fb67433fd54c880af040ab7bc9dec24e998ff3"/>
+	</game>
+	<game name="Mi Computer - no. 85 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 85 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 85 (1984)(Editorial Delta)(ES).pdf" size="21145810" crc="574da23a" md5="8425dd20d86842c2322be858517199a9" sha1="abd69fc531eca1cc2444645b41aac3993f405280"/>
+	</game>
+	<game name="Mi Computer - no. 86 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 86 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 86 (1984)(Editorial Delta)(ES).pdf" size="21522583" crc="b3c5c3dd" md5="42932f906fc8b28c94eacaa752e5bb2f" sha1="e7b96f2fd8fae8c47d2e103c90c95811090719ce"/>
+	</game>
+	<game name="Mi Computer - no. 87 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 87 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 87 (1984)(Editorial Delta)(ES).pdf" size="19715405" crc="caa42f26" md5="3a917a7255cfd65baf4d69c849b93158" sha1="0910ddde47c95c354d26081f0411e6c85d5cdcb4"/>
+	</game>
+	<game name="Mi Computer - no. 88 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 88 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 88 (1984)(Editorial Delta)(ES).pdf" size="22683714" crc="67ed0f64" md5="78e1c8f2639ecd7a791ef9f55c0e9971" sha1="3eb0d2f030577e59a3749da27915cb0c13c6d765"/>
+	</game>
+	<game name="Mi Computer - no. 89 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 89 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 89 (1984)(Editorial Delta)(ES).pdf" size="22935235" crc="9bfb2da3" md5="9639bafa24a2e3e22d65873edaf5e854" sha1="71b6e8bbde06d6d5c05802c689517a1179a271b5"/>
+	</game>
+	<game name="Mi Computer - no. 9 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 9 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 9 (1984)(Editorial Delta)(ES).pdf" size="20717061" crc="556ce500" md5="cf473feb64f87911508839b2659ad01f" sha1="0fc7c143c82e65a98035261868222d6d56044cb7"/>
+	</game>
+	<game name="Mi Computer - no. 90 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 90 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 90 (1984)(Editorial Delta)(ES).pdf" size="20075308" crc="882e88a2" md5="726da3e8e1200f730b3d31bfe3caa6da" sha1="62f43ce9af5c2fe95ced41a97118600c092ec697"/>
+	</game>
+	<game name="Mi Computer - no. 91 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 91 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 91 (1984)(Editorial Delta)(ES).pdf" size="20852052" crc="58835843" md5="8550b805d37699707f3665020e70dff8" sha1="7117bb736bb91e2bdb9bec1d5d0a7fef3c562b7a"/>
+	</game>
+	<game name="Mi Computer - no. 92 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 92 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 92 (1984)(Editorial Delta)(ES).pdf" size="21065437" crc="4170e708" md5="60b962a6635fcef6752b904d37501fd9" sha1="c1587ceb87accc4aa504021a3245cad221808671"/>
+	</game>
+	<game name="Mi Computer - no. 93 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 93 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 93 (1984)(Editorial Delta)(ES).pdf" size="21799503" crc="8140089b" md5="efd6bf2b281fd12444fd84a4e442b629" sha1="8b38c3c8d205b984bfe5c4d70c1f011bb1daccf1"/>
+	</game>
+	<game name="Mi Computer - no. 94 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 94 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 94 (1984)(Editorial Delta)(ES).pdf" size="20699705" crc="a5ebba34" md5="116aa8fbb17c5d3b073876b6b771446f" sha1="f537fb535210b93820322765791cfea1baaa9973"/>
+	</game>
+	<game name="Mi Computer - no. 95 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 95 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 95 (1984)(Editorial Delta)(ES).pdf" size="19938472" crc="f10b4ee8" md5="537a4af4150940e4998b6dac6600bbcb" sha1="ba0b4e8d5d3b0d41d9c1949d9f53f15e68071aeb"/>
+	</game>
+	<game name="Mi Computer - no. 96 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 96 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 96 (1984)(Editorial Delta)(ES).pdf" size="21258284" crc="61b4ea32" md5="b2953a0ab710d4389fe7c900b4d462f9" sha1="f8503315e8e9f4f3774eb7d2f065bfd0ba3864a7"/>
+	</game>
+	<game name="Mi Computer - no. 97 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 97 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 97 (1984)(Editorial Delta)(ES).pdf" size="21267311" crc="0405b0c9" md5="99c03532351edfc40bdd5fb82cb10862" sha1="2377dea77026694b519aa9f16742e7d31bab73b8"/>
+	</game>
+	<game name="Mi Computer - no. 98 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 98 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 98 (1984)(Editorial Delta)(ES).pdf" size="21241774" crc="d8c3130d" md5="53da0a0839761db4d356ed57c82eeecc" sha1="e9f2f31f6450f45d0784b2deafe0969fa49aa967"/>
+	</game>
+	<game name="Mi Computer - no. 99 (1984)(Editorial Delta)(ES)">
+		<description>Mi Computer - no. 99 (1984)(Editorial Delta)(ES)</description>
+		<rom name="Mi Computer - no. 99 (1984)(Editorial Delta)(ES).pdf" size="21370963" crc="050f27b3" md5="5c88b48d0026f8ba12e9241a4ffddb96" sha1="9b5b8bad938ee47b687ccc433dce61271e27e4d1"/>
+	</game>
+</datafile>

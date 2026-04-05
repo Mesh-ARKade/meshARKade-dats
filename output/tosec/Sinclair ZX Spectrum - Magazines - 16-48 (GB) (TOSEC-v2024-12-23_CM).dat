@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sinclair ZX Spectrum - Magazines - 16-48 (GB)</name>
+		<description>Sinclair ZX Spectrum - Magazines - 16-48 (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="16-48 - No. 12 (1984-12)(Argus Press)(GB)">
+		<description>16-48 - No. 12 (1984-12)(Argus Press)(GB)</description>
+		<rom name="16-48 - No. 12 (1984-12)(Argus Press)(GB).pdf" size="826779" crc="c77fb76b" md5="407b88dd08403efc80d6013c34423dff" sha1="0790192ddd50bf996c1639467ce7d861afd057c8"/>
+	</game>
+	<game name="16-48 - No. 13 (1985-01)(Argus Press)(GB)">
+		<description>16-48 - No. 13 (1985-01)(Argus Press)(GB)</description>
+		<rom name="16-48 - No. 13 (1985-01)(Argus Press)(GB).pdf" size="801502" crc="8c524966" md5="2bf63d09b0198c72c377f314d2438525" sha1="d668b97b1d9da9e25e77a122e09c1b9bc2adaa65"/>
+	</game>
+	<game name="16-48 - No. 14 (1985-02)(Argus Press)(GB)">
+		<description>16-48 - No. 14 (1985-02)(Argus Press)(GB)</description>
+		<rom name="16-48 - No. 14 (1985-02)(Argus Press)(GB).pdf" size="716389" crc="d80d98ad" md5="f703b256e385c6e9023ea158fd5ef009" sha1="2b7d8413abca84e267217b31981aa2e3cd40dd61"/>
+	</game>
+	<game name="16-48 - No. 15 (1985-03)(Argus Press)(GB)">
+		<description>16-48 - No. 15 (1985-03)(Argus Press)(GB)</description>
+		<rom name="16-48 - No. 15 (1985-03)(Argus Press)(GB).pdf" size="707407" crc="81bf14f3" md5="6140b4b2362daf800173bb91abea262d" sha1="b0508ed9e75f02b0499082f1eebbe8f6a0dc78d1"/>
+	</game>
+	<game name="16-48 - No. 16 (1985-04)(Argus Press)(GB)">
+		<description>16-48 - No. 16 (1985-04)(Argus Press)(GB)</description>
+		<rom name="16-48 - No. 16 (1985-04)(Argus Press)(GB).pdf" size="810781" crc="e382d3c2" md5="0cef359381565ae7a836ef93e3bf6ece" sha1="c05473f4193a3afadfe976e24e9a3c1226d86560"/>
+	</game>
+	<game name="16-48 - No. 17 (1985-05)(Argus Press)(GB)">
+		<description>16-48 - No. 17 (1985-05)(Argus Press)(GB)</description>
+		<rom name="16-48 - No. 17 (1985-05)(Argus Press)(GB).pdf" size="779727" crc="2d6d9b64" md5="f19fcd1d6ca854a8baedbde056b4c6fc" sha1="3b2ad45dc97dbb1818add178a5b7c8157790a8de"/>
+	</game>
+	<game name="16-48 - No. 18 (1985-06)(Argus Press)(GB)">
+		<description>16-48 - No. 18 (1985-06)(Argus Press)(GB)</description>
+		<rom name="16-48 - No. 18 (1985-06)(Argus Press)(GB).pdf" size="725594" crc="1e6f3dbe" md5="f94847513b74ff2f0bf4812dffea2d74" sha1="2d60b4f9812ea2c668f76e3d1f29968272350c66"/>
+	</game>
+	<game name="16-48 - No. 19 (1985-07)(Argus Press)(GB)">
+		<description>16-48 - No. 19 (1985-07)(Argus Press)(GB)</description>
+		<rom name="16-48 - No. 19 (1985-07)(Argus Press)(GB).pdf" size="890489" crc="3def33a1" md5="34145b5ff1fc571c8711935ec6c9dc80" sha1="475f6ecff14bbdcde853838a60d3e0c76bdf5a83"/>
+	</game>
+	<game name="16-48 - No. 20 (1985-08)(Argus Press)(GB)">
+		<description>16-48 - No. 20 (1985-08)(Argus Press)(GB)</description>
+		<rom name="16-48 - No. 20 (1985-08)(Argus Press)(GB).pdf" size="1073996" crc="dd338c27" md5="672ec1e5dd8e4db6acafe38fcaf15dba" sha1="ee4d0dfbabf8fbe5e10bcc7aae6ff92047e75f0c"/>
+	</game>
+	<game name="16-48 - No. 21 (1985-09)(Argus Press)(GB)">
+		<description>16-48 - No. 21 (1985-09)(Argus Press)(GB)</description>
+		<rom name="16-48 - No. 21 (1985-09)(Argus Press)(GB).pdf" size="1019435" crc="ec1a30d5" md5="3ba3055c9966c905fa1fa8d3e9d768c5" sha1="e43ea858f47f878b94344c3fae16ffe74814ee67"/>
+	</game>
+	<game name="16-48 - Tape 01 (1983-11)(Magnetic Magazines)(GB)">
+		<description>16-48 - Tape 01 (1983-11)(Magnetic Magazines)(GB)</description>
+		<rom name="16-48 - Tape 01 (1983-11)(Magnetic Magazines)(GB).pdf" size="689037" crc="43758208" md5="d866e85824e8599002fabe4b56f20502" sha1="5234b3f75f15d7e3a5c3397aeb13cb642d4750dd"/>
+	</game>
+	<game name="16-48 - Tape 04 (1984-03)(16-48 Magazine)(GB)">
+		<description>16-48 - Tape 04 (1984-03)(16-48 Magazine)(GB)</description>
+		<rom name="16-48 - Tape 04 (1984-03)(16-48 Magazine)(GB).pdf" size="828967" crc="58cb98f4" md5="ac54c5e93360f38b8d50c975dd6f86c0" sha1="52ccde18e55a75cd4ff3a9d52d4198c99200fa0a"/>
+	</game>
+	<game name="16-48 - Tape 05 (1984-04)(16-48 Magazine)(GB)">
+		<description>16-48 - Tape 05 (1984-04)(16-48 Magazine)(GB)</description>
+		<rom name="16-48 - Tape 05 (1984-04)(16-48 Magazine)(GB).pdf" size="778324" crc="6d8469f7" md5="0dbffdeb4fcf4ef2be15d50204c5448b" sha1="1f28ddeca89b48c1ea720bc51bc54be91af973cb"/>
+	</game>
+	<game name="16-48 - Tape 06 (1984-05)(16-48 Magazine)(GB)">
+		<description>16-48 - Tape 06 (1984-05)(16-48 Magazine)(GB)</description>
+		<rom name="16-48 - Tape 06 (1984-05)(16-48 Magazine)(GB).pdf" size="775327" crc="1e2efc74" md5="99b97c4ed44735707075b46c9171956c" sha1="c10eb797dfc70e355da5f2bb72e990063e80b07b"/>
+	</game>
+	<game name="16-48 - Tape 07 (1984-06)(16-48 Magazine)(GB)">
+		<description>16-48 - Tape 07 (1984-06)(16-48 Magazine)(GB)</description>
+		<rom name="16-48 - Tape 07 (1984-06)(16-48 Magazine)(GB).pdf" size="893024" crc="6ae6cbb5" md5="b55cb22aa6fa2e99069c287c3f68c4ca" sha1="da3015e6905d8c0b6c4d6735907b4f7aec18d320"/>
+	</game>
+	<game name="16-48 - Tape 08 (1984-07)(16-48 Magazine)(GB)">
+		<description>16-48 - Tape 08 (1984-07)(16-48 Magazine)(GB)</description>
+		<rom name="16-48 - Tape 08 (1984-07)(16-48 Magazine)(GB).pdf" size="841243" crc="bf4e0ad3" md5="64a7e32be16b87da872446aa28d18b35" sha1="36ff9f4a5b0b21691254050b38285f081fde9ced"/>
+	</game>
+	<game name="16-48 - Tape 09 (1984-08-09)(16-48 Magazine)(GB)">
+		<description>16-48 - Tape 09 (1984-08-09)(16-48 Magazine)(GB)</description>
+		<rom name="16-48 - Tape 09 (1984-08-09)(16-48 Magazine)(GB).pdf" size="784183" crc="d3e37dbd" md5="205d603e936dff8dc28b9a40895d7b6f" sha1="0a0c716c30ac9240a5b7d55b293f6b88ad8fafbb"/>
+	</game>
+	<game name="16-48 - Tape 10 (1984-10)(16-48 Magazine)(GB)">
+		<description>16-48 - Tape 10 (1984-10)(16-48 Magazine)(GB)</description>
+		<rom name="16-48 - Tape 10 (1984-10)(16-48 Magazine)(GB).pdf" size="858627" crc="1e4b9cad" md5="1e2ad3e485846d13de340f6aa7d9681e" sha1="77d8858a9d34c8428c1183bbb5f7364b4dbbc0ba"/>
+	</game>
+	<game name="16-48 - Tape 11 (1984-11)(Argus Press)(GB)">
+		<description>16-48 - Tape 11 (1984-11)(Argus Press)(GB)</description>
+		<rom name="16-48 - Tape 11 (1984-11)(Argus Press)(GB).pdf" size="654083" crc="20369be3" md5="a1c7057c8b08263818b06582f28e88d5" sha1="4425ffb786423232ac086ced9d5ef81b6162a3ec"/>
+	</game>
+</datafile>

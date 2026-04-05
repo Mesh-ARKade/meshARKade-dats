@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Electronics Australia</name>
+		<description>Multi-format - Magazines - Electronics Australia (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Electronics Australia - Volume 41 Number 03 (1979-06)(Sungravure)(AU)">
+		<description>Electronics Australia - Volume 41 Number 03 (1979-06)(Sungravure)(AU)</description>
+		<rom name="Electronics Australia - Volume 41 Number 03 (1979-06)(Sungravure)(AU).pdf" size="210978831" crc="8ab6f1d3" md5="41a8c2c2849efaa74de95a9663681642" sha1="47c66db5d2fb9527d22ef2e71c3580b2301202e7"/>
+	</game>
+	<game name="Electronics Australia - Volume 41 Number 04 (1979-07)(Sungravure)(AU)">
+		<description>Electronics Australia - Volume 41 Number 04 (1979-07)(Sungravure)(AU)</description>
+		<rom name="Electronics Australia - Volume 41 Number 04 (1979-07)(Sungravure)(AU).pdf" size="155190025" crc="bdc5de51" md5="c220e80ed9aa83d53dd116c7e6827324" sha1="879425cde6ab6a5a25d7f472056879b29c225bd0"/>
+	</game>
+	<game name="Electronics Australia - Volume 41 Number 05 (1979-08)(Sungravure)(AU)">
+		<description>Electronics Australia - Volume 41 Number 05 (1979-08)(Sungravure)(AU)</description>
+		<rom name="Electronics Australia - Volume 41 Number 05 (1979-08)(Sungravure)(AU).pdf" size="167234454" crc="aadc4169" md5="bbd210f378b1022ee2fc515253028041" sha1="3bd99e0bd9fe456d18804f4ca6fc6886ccfaa434"/>
+	</game>
+	<game name="Electronics Australia - Volume 41 Number 06 (1979-09)(Sungravure)(AU)">
+		<description>Electronics Australia - Volume 41 Number 06 (1979-09)(Sungravure)(AU)</description>
+		<rom name="Electronics Australia - Volume 41 Number 06 (1979-09)(Sungravure)(AU).pdf" size="165247354" crc="4495cd16" md5="849e6dd287280ef3ce0d78a7389201e2" sha1="c4dd1ad3862bea8e911cbd7207e28f36d69ec469"/>
+	</game>
+	<game name="Electronics Australia - Volume 41 Number 07 (1979-10)(Sungravure)(AU)">
+		<description>Electronics Australia - Volume 41 Number 07 (1979-10)(Sungravure)(AU)</description>
+		<rom name="Electronics Australia - Volume 41 Number 07 (1979-10)(Sungravure)(AU).pdf" size="156607502" crc="2f865392" md5="8809ca081e9db9776d1dacc0cb6e3f02" sha1="4eb5fa13f4c29c0e8432e4ea59a1792fa269f181"/>
+	</game>
+	<game name="Electronics Australia - Volume 41 Number 07 (1979-10)(Sungravure)(AU)[a]">
+		<description>Electronics Australia - Volume 41 Number 07 (1979-10)(Sungravure)(AU)[a]</description>
+		<rom name="Electronics Australia - Volume 41 Number 07 (1979-10)(Sungravure)(AU)[a].pdf" size="274272153" crc="f34e179e" md5="3642d2a221fae23ea1c5315cb0d7a764" sha1="45e83438e7f268f29acddcea8abb1d4700e38483"/>
+	</game>
+	<game name="Electronics Australia - Volume 41 Number 08 (1979-11)(Sungravure)(AU)">
+		<description>Electronics Australia - Volume 41 Number 08 (1979-11)(Sungravure)(AU)</description>
+		<rom name="Electronics Australia - Volume 41 Number 08 (1979-11)(Sungravure)(AU).pdf" size="164747301" crc="24466a70" md5="d2423173f18d7e3e8478b1aa1ab2ec02" sha1="69d5678691d7887969890da6eac65ba67eecf3ac"/>
+	</game>
+	<game name="Electronics Australia - Volume 41 Number 09 (1979-12)(Sungravure)(AU)">
+		<description>Electronics Australia - Volume 41 Number 09 (1979-12)(Sungravure)(AU)</description>
+		<rom name="Electronics Australia - Volume 41 Number 09 (1979-12)(Sungravure)(AU).pdf" size="180457748" crc="a363d673" md5="22f4ef082d8a58ad5a6bd3987f0def5c" sha1="c6b09ba91ea560a2cc1a4d09482fd8ed2217a52c"/>
+	</game>
+	<game name="Electronics Australia - Volume 44 No 01 (1982-01)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 44 No 01 (1982-01)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 44 No 01 (1982-01)(John Fairfax &amp; Sons)(AU).pdf" size="197953620" crc="05622da9" md5="c91f43d2bd91c91211426e2a06c49b0f" sha1="2246a5ee7a8d5a40daf6b58cdc6e9ff16b486967"/>
+	</game>
+	<game name="Electronics Australia - Volume 44 No 05 (1982-05)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 44 No 05 (1982-05)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 44 No 05 (1982-05)(John Fairfax &amp; Sons)(AU).pdf" size="203712256" crc="303a6f4d" md5="74b640f7d9ee1eb2d7a669d965c7cb42" sha1="d12d82d24cc8c784494ae67d13422024ec21dfa2"/>
+	</game>
+	<game name="Electronics Australia - Volume 44 No 06 (1982-06)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 44 No 06 (1982-06)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 44 No 06 (1982-06)(John Fairfax &amp; Sons)(AU).pdf" size="208795794" crc="a65780ca" md5="f31ec12aeb408655472c9d77a7952f96" sha1="756029bb162275d80049ce6bcad4e2ed87a0dff2"/>
+	</game>
+	<game name="Electronics Australia - Volume 44 No 07 (1982-07)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 44 No 07 (1982-07)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 44 No 07 (1982-07)(John Fairfax &amp; Sons)(AU).pdf" size="203605571" crc="cd1a5449" md5="c7f1c59c263dfad05b68b8848cc7f1a7" sha1="06a12fb9cd088d2379f4b2e313e9dfc1a5902943"/>
+	</game>
+	<game name="Electronics Australia - Volume 44 No 08 (1982-08)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 44 No 08 (1982-08)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 44 No 08 (1982-08)(John Fairfax &amp; Sons)(AU).pdf" size="197696405" crc="bc2c6148" md5="1d9e27b15c312be7978c52a6433c947b" sha1="9431a7026be91b019fc5a09639bb95f5bfa61a3c"/>
+	</game>
+	<game name="Electronics Australia - Volume 44 No 11 (1982-11)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 44 No 11 (1982-11)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 44 No 11 (1982-11)(John Fairfax &amp; Sons)(AU).pdf" size="211685392" crc="dd39116b" md5="e562cf860b8873e59fae906615077b16" sha1="5a3ed2956f131f5482f1a1486da6e32cc3af9992"/>
+	</game>
+	<game name="Electronics Australia - Volume 44 No 12 (1982-12)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 44 No 12 (1982-12)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 44 No 12 (1982-12)(John Fairfax &amp; Sons)(AU).pdf" size="240638419" crc="243a7da8" md5="aa4efebbb8a881e928868c18ad0c968c" sha1="8a9670ef100fe44c17ed062ea21e217f4ade5b20"/>
+	</game>
+	<game name="Electronics Australia - Volume 45 No 01 (1983-01)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 45 No 01 (1983-01)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 45 No 01 (1983-01)(John Fairfax &amp; Sons)(AU).pdf" size="207286096" crc="b0d9fe11" md5="c8df121aa728e1024b47fdc7f81e9be1" sha1="1fe571eb24529a979f10bc452ca4af62e3ebc2ec"/>
+	</game>
+	<game name="Electronics Australia - Volume 45 No 02 (1983-02)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 45 No 02 (1983-02)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 45 No 02 (1983-02)(John Fairfax &amp; Sons)(AU).pdf" size="201526679" crc="24f55769" md5="38b174f7b325322e382318c593b6c26c" sha1="4f277b8dd0301d7953620ef4b7a92f3429f97870"/>
+	</game>
+	<game name="Electronics Australia - Volume 45 No 03 (1983-03)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 45 No 03 (1983-03)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 45 No 03 (1983-03)(John Fairfax &amp; Sons)(AU).pdf" size="222560327" crc="0aec7912" md5="29e0e49858e027b2be3a7ab66888ce82" sha1="f9089d84f4128d359773870541823bafea68876c"/>
+	</game>
+	<game name="Electronics Australia - Volume 45 No 04 (1983-04)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 45 No 04 (1983-04)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 45 No 04 (1983-04)(John Fairfax &amp; Sons)(AU).pdf" size="209083154" crc="8c1e431c" md5="a273e92689febb3eb43d6522491b2702" sha1="8056a01b5937297e2b9786b08e9fabcd431cd1d2"/>
+	</game>
+	<game name="Electronics Australia - Volume 45 No 05 (1983-05)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 45 No 05 (1983-05)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 45 No 05 (1983-05)(John Fairfax &amp; Sons)(AU).pdf" size="213441172" crc="eb53d8b7" md5="1c800192b2cfd0134c3288ca1e4e7843" sha1="e62929342c37cad1742bc5784d615baf3c5170a7"/>
+	</game>
+	<game name="Electronics Australia - Volume 45 No 06 (1983-06)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 45 No 06 (1983-06)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 45 No 06 (1983-06)(John Fairfax &amp; Sons)(AU).pdf" size="212999732" crc="a298d4f3" md5="b1e3b647f89d66cb88b1d2fce99245d6" sha1="f494174356805d7fb0c0f8e43f3ecf4653059b91"/>
+	</game>
+	<game name="Electronics Australia - Volume 45 No 07 (1983-07)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 45 No 07 (1983-07)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 45 No 07 (1983-07)(John Fairfax &amp; Sons)(AU).pdf" size="238901762" crc="a67cbe38" md5="1303f6735588e72b9d8bf0642972bc13" sha1="c10e29a1ef89a495cfee25ca0fe940efb993551b"/>
+	</game>
+	<game name="Electronics Australia - Volume 45 No 08 (1983-08)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 45 No 08 (1983-08)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 45 No 08 (1983-08)(John Fairfax &amp; Sons)(AU).pdf" size="235008024" crc="598c745b" md5="c71e4fcf3a1701182c86e4ba463ca782" sha1="78d061a4af0c322a9b166e64f9c817194f5657e3"/>
+	</game>
+	<game name="Electronics Australia - Volume 45 No 09 (1983-09)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 45 No 09 (1983-09)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 45 No 09 (1983-09)(John Fairfax &amp; Sons)(AU).pdf" size="239190482" crc="2e359590" md5="eef79e22ac0703c877a77a4c15e375e4" sha1="fdee1d1edd9cec43226241a90f25497d06ca5b93"/>
+	</game>
+	<game name="Electronics Australia - Volume 45 No 10 (1983-10)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 45 No 10 (1983-10)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 45 No 10 (1983-10)(John Fairfax &amp; Sons)(AU).pdf" size="270024184" crc="f28d9657" md5="bcc49d6d11db9a09103e481d02960483" sha1="bd2b27a96d476cded231e3e0498168299fc3fc8c"/>
+	</game>
+	<game name="Electronics Australia - Volume 46 No 02 (1984-02)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 46 No 02 (1984-02)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 46 No 02 (1984-02)(John Fairfax &amp; Sons)(AU).pdf" size="232571569" crc="916eb115" md5="34023ce223770819890336936088dc58" sha1="c82ad84626863382f6a9b4b5983413d9550812df"/>
+	</game>
+	<game name="Electronics Australia - Volume 46 No 04 (1984-04)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 46 No 04 (1984-04)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 46 No 04 (1984-04)(John Fairfax &amp; Sons)(AU).pdf" size="234308118" crc="50678ab5" md5="f704e906ce8c853dc8118b30d905e514" sha1="f01a144e751bdd75b4349a3f1d3f335009392630"/>
+	</game>
+	<game name="Electronics Australia - Volume 46 No 06 (1984-06)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 46 No 06 (1984-06)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 46 No 06 (1984-06)(John Fairfax &amp; Sons)(AU).pdf" size="244169140" crc="fc51a554" md5="00c32a5d61aa394348c4303f355547e9" sha1="69287a81d50f6b8ac5d7e8d0c1c4c40e3971cb88"/>
+	</game>
+	<game name="Electronics Australia - Volume 46 No 07 (1984-07)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 46 No 07 (1984-07)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 46 No 07 (1984-07)(John Fairfax &amp; Sons)(AU).pdf" size="227996071" crc="81793611" md5="97f7edc07429f9f72d34e5c11a28d5a7" sha1="92b7fb5ad2788b6b93cb5b60ffd41c76d4048ee5"/>
+	</game>
+	<game name="Electronics Australia - Volume 46 No 08 (1984-08)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 46 No 08 (1984-08)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 46 No 08 (1984-08)(John Fairfax &amp; Sons)(AU).pdf" size="204118232" crc="ae99f23b" md5="6193c561c947d1fdf2996010a9021102" sha1="e4620cdfd82a0772522c74126f710bc5a77e9435"/>
+	</game>
+	<game name="Electronics Australia - Volume 46 No 09 (1984-09)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 46 No 09 (1984-09)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 46 No 09 (1984-09)(John Fairfax &amp; Sons)(AU).pdf" size="190078627" crc="45020e12" md5="ff5fa96e2013edb0e9bab08794efcb08" sha1="5ea60a02e8d3e39ded8b488c5de024992040d48f"/>
+	</game>
+	<game name="Electronics Australia - Volume 46 No 10 (1984-10)(John Fairfax &amp; Sons)(AU)">
+		<description>Electronics Australia - Volume 46 No 10 (1984-10)(John Fairfax &amp; Sons)(AU)</description>
+		<rom name="Electronics Australia - Volume 46 No 10 (1984-10)(John Fairfax &amp; Sons)(AU).pdf" size="196731502" crc="90c09894" md5="b60eb3e3cb23c8653800fb85e9ec1538" sha1="356377cf1c0c5a6b0f819cc5ba0b1576a7c8a8a5"/>
+	</game>
+	<game name="Electronics Australia - Volume 47 No 07 (1985-07)(FPC Magazines)(AU)">
+		<description>Electronics Australia - Volume 47 No 07 (1985-07)(FPC Magazines)(AU)</description>
+		<rom name="Electronics Australia - Volume 47 No 07 (1985-07)(FPC Magazines)(AU).pdf" size="203843734" crc="cc6bfcf4" md5="9122307f75c84ba6987c85e86121d1f7" sha1="e3069c62ccdb2f70679fb32bcc36274c5a3f4520"/>
+	</game>
+	<game name="Electronics Australia - Volume 51 Number 04 (1989-04)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 51 Number 04 (1989-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 51 Number 04 (1989-04)(Federal Publishing Company)(AU).pdf" size="99233903" crc="e57d5138" md5="50da8f86b22cab1ac0a9f439f311724b" sha1="041fb36dbd2c3396f0a4d23a541b4ccca3847dfe"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 01 (1997-01)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 01 (1997-01)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 01 (1997-01)(Federal Publishing Company)(AU).pdf" size="161917598" crc="bca3b7b0" md5="86c85382d4758f33f918e9826bdde874" sha1="85470dfdc76ec346609e6e91941c76e857ca5649"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 02 (1997-02)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 02 (1997-02)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 02 (1997-02)(Federal Publishing Company)(AU).pdf" size="166932682" crc="9dbaaf9d" md5="c819584227ccec397d59a3d0599c3b4d" sha1="810a9d06a6f2acc262503dbebc22de151ee84352"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 03 (1997-03)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 03 (1997-03)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 03 (1997-03)(Federal Publishing Company)(AU).pdf" size="129837753" crc="b5a173c9" md5="f6dfbc40d1c4da172a895220499defa6" sha1="ce9533f51a2b0ed8f94f624ee26d0f42e217aea3"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 04 (1997-04)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 04 (1997-04)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 04 (1997-04)(Federal Publishing Company)(AU).pdf" size="167632240" crc="a8f73eae" md5="356ec201d41663441de013ec9bf00441" sha1="baac64f7d7681374fa166fe8e4950f1472334ad2"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 05 (1997-05)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 05 (1997-05)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 05 (1997-05)(Federal Publishing Company)(AU).pdf" size="165292422" crc="33dabe92" md5="cbd8bc22c59ab6fec81fba4c4daf24cc" sha1="e20af1dfe5bb9b44d6f6865af1facc0c10f3cb38"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 06 (1997-06)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 06 (1997-06)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 06 (1997-06)(Federal Publishing Company)(AU).pdf" size="171008332" crc="4ba2d49a" md5="164415643b91caf76f80320904774091" sha1="b132924dc75b0628be54309e96c01688d38863db"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 07 (1997-07)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 07 (1997-07)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 07 (1997-07)(Federal Publishing Company)(AU).pdf" size="167809293" crc="75235431" md5="1501bb808323719bb4642f4686bce07d" sha1="747fcb883ef3654d64b7ddee52709f42dc205142"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 08 (1997-08)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 08 (1997-08)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 08 (1997-08)(Federal Publishing Company)(AU).pdf" size="147434094" crc="33f32f47" md5="ffdeb9ffe74d3134bc17a04937c90451" sha1="0224f3a80c469b261380ef451362d5ad1b113ad9"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 09 (1997-09)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 09 (1997-09)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 09 (1997-09)(Federal Publishing Company)(AU).pdf" size="149632547" crc="5678a5e9" md5="e7f29b1f6363bf7b0b7713da5063f355" sha1="bc52406667023ab32c1a5bf5c27ab7bb1eee29c2"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 10 (1997-10)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 10 (1997-10)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 10 (1997-10)(Federal Publishing Company)(AU).pdf" size="170718933" crc="5eb80fbd" md5="6c2c0092567bc39e6a19503e2637b4d6" sha1="b0cf45e4a67f104b2ba223e4fa24f62c64fea5d3"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 11 (1997-11)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 11 (1997-11)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 11 (1997-11)(Federal Publishing Company)(AU).pdf" size="154227818" crc="bbda247a" md5="dd97993c46c69d0a9b22be0de25149e2" sha1="e74382ad68cf769608e1cb0b91dcf6880e4eba93"/>
+	</game>
+	<game name="Electronics Australia - Volume 59 Number 12 (1997-12)(Federal Publishing Company)(AU)">
+		<description>Electronics Australia - Volume 59 Number 12 (1997-12)(Federal Publishing Company)(AU)</description>
+		<rom name="Electronics Australia - Volume 59 Number 12 (1997-12)(Federal Publishing Company)(AU).pdf" size="147400692" crc="c3c3e2ec" md5="c36e545eacc5eae4e7e4a4d805b4b280" sha1="8553e19790ac15767d3d375d4eea9bfc7234e15b"/>
+	</game>
+	<game name="Electronics Australia - Volume 62 No 06 (2000-06)(FPC Magazines)(AU)">
+		<description>Electronics Australia - Volume 62 No 06 (2000-06)(FPC Magazines)(AU)</description>
+		<rom name="Electronics Australia - Volume 62 No 06 (2000-06)(FPC Magazines)(AU).pdf" size="138019191" crc="1a179492" md5="bc9f4eba52ef2a9596517f75083e7c60" sha1="95015d75b28221fba5ab45099cf54d45b1b75df0"/>
+	</game>
+	<game name="Electronics Australia - Volume 62 No 07 (2000-07)(FPC Magazines)(AU)">
+		<description>Electronics Australia - Volume 62 No 07 (2000-07)(FPC Magazines)(AU)</description>
+		<rom name="Electronics Australia - Volume 62 No 07 (2000-07)(FPC Magazines)(AU).pdf" size="119403155" crc="abcf7027" md5="f4d72c34e0ee3b42a8a05272d9348d72" sha1="9178d2dd4df6796459a7e60507832131b50423d7"/>
+	</game>
+</datafile>

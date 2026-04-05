@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Lightwave Pro (US)</name>
+		<description>Multi-format - Magazines - Lightwave Pro (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Lightwave Pro - Volume 01 Issue 01 (1993-10)(Avid Publications)(US)">
+		<description>Lightwave Pro - Volume 01 Issue 01 (1993-10)(Avid Publications)(US)</description>
+		<rom name="Lightwave Pro - Volume 01 Issue 01 (1993-10)(Avid Publications)(US).pdf" size="5633744" crc="d58ba766" md5="275350c1969361da602cd9279536d731" sha1="6b1e0dba628a05c6cf12f088c56410f1e6ff0d5d"/>
+	</game>
+	<game name="Lightwave Pro - Volume 03 Issue 07 (1995-07)(Avid Media Group)(US)">
+		<description>Lightwave Pro - Volume 03 Issue 07 (1995-07)(Avid Media Group)(US)</description>
+		<rom name="Lightwave Pro - Volume 03 Issue 07 (1995-07)(Avid Media Group)(US).pdf" size="8556440" crc="afd381a5" md5="e2aec4d7520a358b8b6210f1cf21a093" sha1="2487ac72fbefbe7e6c32c93cd14132cd95180898"/>
+	</game>
+	<game name="Lightwave Pro - Volume 03 Issue 09 (1995-09)(Avid Media Group)(US)">
+		<description>Lightwave Pro - Volume 03 Issue 09 (1995-09)(Avid Media Group)(US)</description>
+		<rom name="Lightwave Pro - Volume 03 Issue 09 (1995-09)(Avid Media Group)(US).pdf" size="15448744" crc="81c98d89" md5="404e47b943d6df1e52e7803cdc1bd896" sha1="b9a9934df4616a2a2cd5aea09273b8efa688ad4d"/>
+	</game>
+	<game name="Lightwave Pro - Volume 03 Issue 10 (1995-10)(Avid Media Group)(US)">
+		<description>Lightwave Pro - Volume 03 Issue 10 (1995-10)(Avid Media Group)(US)</description>
+		<rom name="Lightwave Pro - Volume 03 Issue 10 (1995-10)(Avid Media Group)(US).pdf" size="13150865" crc="b7c59535" md5="dcef8d350fd2247e0f41cd0c1c11b38a" sha1="bde71f7ee08432e37c9b7f55c83b7d8e29da7c8f"/>
+	</game>
+	<game name="Lightwave Pro - Volume 03 Issue 11 (1995-11)(Avid Media Group)(US)">
+		<description>Lightwave Pro - Volume 03 Issue 11 (1995-11)(Avid Media Group)(US)</description>
+		<rom name="Lightwave Pro - Volume 03 Issue 11 (1995-11)(Avid Media Group)(US).pdf" size="10361700" crc="944f0610" md5="c75442a39ef81ac7c7753e1556353131" sha1="4a237c6934477fc321a7409065c2dd95ca146568"/>
+	</game>
+	<game name="Lightwave Pro - Volume 03 Issue 12 (1995-12)(Avid Media Group)(US)">
+		<description>Lightwave Pro - Volume 03 Issue 12 (1995-12)(Avid Media Group)(US)</description>
+		<rom name="Lightwave Pro - Volume 03 Issue 12 (1995-12)(Avid Media Group)(US).pdf" size="10954326" crc="86687547" md5="5dae5a82bd7addbdb06f0c5a99d5e453" sha1="1e204e711ddbdc47ec4bb964522eb679b7e9bace"/>
+	</game>
+	<game name="Lightwave Pro - Volume 04 Issue 01 (1996-01)(Avid Media Group)(US)">
+		<description>Lightwave Pro - Volume 04 Issue 01 (1996-01)(Avid Media Group)(US)</description>
+		<rom name="Lightwave Pro - Volume 04 Issue 01 (1996-01)(Avid Media Group)(US).pdf" size="10485989" crc="e3e5851b" md5="cee5d305eea9970d5c0755e955a4c58b" sha1="a54ad80f1293e424c89672d55a7900a218e183b3"/>
+	</game>
+	<game name="Lightwave Pro - Volume 04 Issue 02 (1996-02)(Avid Media Group)(US)">
+		<description>Lightwave Pro - Volume 04 Issue 02 (1996-02)(Avid Media Group)(US)</description>
+		<rom name="Lightwave Pro - Volume 04 Issue 02 (1996-02)(Avid Media Group)(US).pdf" size="10667457" crc="e7787507" md5="81804d6397ec8890aa38b22fa02e8413" sha1="a40cd8fec668359267b1aea7f4d54cfe4452f0b2"/>
+	</game>
+	<game name="Lightwave Pro - Volume 04 Issue 03 (1996-03)(AMG Media)(US)">
+		<description>Lightwave Pro - Volume 04 Issue 03 (1996-03)(AMG Media)(US)</description>
+		<rom name="Lightwave Pro - Volume 04 Issue 03 (1996-03)(AMG Media)(US).pdf" size="11192946" crc="4c76d78f" md5="5be800a7ba5e33a0a647a8341f47d349" sha1="b90dc8d5a1b74dd1e0b9607774be39a6e408b979"/>
+	</game>
+	<game name="Lightwave Pro - Volume 04 Issue 04 (1996-04)(AMG Media)(US)">
+		<description>Lightwave Pro - Volume 04 Issue 04 (1996-04)(AMG Media)(US)</description>
+		<rom name="Lightwave Pro - Volume 04 Issue 04 (1996-04)(AMG Media)(US).pdf" size="11244082" crc="8319c7d0" md5="7238e910dd8a9033d62d117004305c35" sha1="8446180168c4163819288fa102c314898724a9a2"/>
+	</game>
+	<game name="Lightwave Pro - Volume 04 Issue 05 (1996-05)(Miller Freeman)(US)">
+		<description>Lightwave Pro - Volume 04 Issue 05 (1996-05)(Miller Freeman)(US)</description>
+		<rom name="Lightwave Pro - Volume 04 Issue 05 (1996-05)(Miller Freeman)(US).pdf" size="13128304" crc="f85d1980" md5="e616a13f40eda7e5fb9f4cfeb4ed5784" sha1="7936abfad05638971e20eadf9f5e0276860bef45"/>
+	</game>
+	<game name="Lightwave Pro - Volume 04 Issue 06 (1996-06)(Miller Freeman)(US)">
+		<description>Lightwave Pro - Volume 04 Issue 06 (1996-06)(Miller Freeman)(US)</description>
+		<rom name="Lightwave Pro - Volume 04 Issue 06 (1996-06)(Miller Freeman)(US).pdf" size="12021589" crc="92c6f29c" md5="0c0a733407be18517ca00130e6af7a41" sha1="b1f3f1efb4f50843c53c042c539694cb94a35663"/>
+	</game>
+	<game name="Lightwave Pro - Volume 04 Issue 07 (1996-07)(Miller Freeman)(US)">
+		<description>Lightwave Pro - Volume 04 Issue 07 (1996-07)(Miller Freeman)(US)</description>
+		<rom name="Lightwave Pro - Volume 04 Issue 07 (1996-07)(Miller Freeman)(US).pdf" size="9888354" crc="ab237aef" md5="168f80b36197d25cbdbdc79c6046d26f" sha1="418e550d8d2d1c89f4e746244abfb786b827d286"/>
+	</game>
+	<game name="Lightwave Pro - Volume 04 Issue 08 (1996-08)(Miller Freeman)(US)">
+		<description>Lightwave Pro - Volume 04 Issue 08 (1996-08)(Miller Freeman)(US)</description>
+		<rom name="Lightwave Pro - Volume 04 Issue 08 (1996-08)(Miller Freeman)(US).pdf" size="9349087" crc="0fadf9f0" md5="7399ad1c404789c27c41e28c96a77d7b" sha1="b31702a80dcb553b369f28b5fc9afda61c845962"/>
+	</game>
+</datafile>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - Communique (AU)</name>
+		<description>IBM PC Compatibles - Magazines - Communique (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Communique - Issue 77 (1997-02)(Microsoft)(AU)">
+		<description>Communique - Issue 77 (1997-02)(Microsoft)(AU)</description>
+		<rom name="Communique - Issue 77 (1997-02)(Microsoft)(AU).pdf" size="279774289" crc="94246eca" md5="a7e3cccc78701383787b6cda7071c252" sha1="05eb1542b66470dbcf4e2039730dd89a88f59be3"/>
+	</game>
+	<game name="Communique - Issue 78 (1997-03)(Microsoft)(AU)">
+		<description>Communique - Issue 78 (1997-03)(Microsoft)(AU)</description>
+		<rom name="Communique - Issue 78 (1997-03)(Microsoft)(AU).pdf" size="276029648" crc="c9e1bc10" md5="468315351cca0b8503f03bdf97be9bc4" sha1="a4d5444ee4e47740f37b18eb26ec98dda46bf40a"/>
+	</game>
+	<game name="Communique - Issue 79 (1997-04)(Microsoft)(AU)">
+		<description>Communique - Issue 79 (1997-04)(Microsoft)(AU)</description>
+		<rom name="Communique - Issue 79 (1997-04)(Microsoft)(AU).pdf" size="107119103" crc="d910c84e" md5="46dc5adc231769c8d6f01f05a75c6f3b" sha1="5907e58a6b67229c172ce30c3375395dd111d6b2"/>
+	</game>
+	<game name="Communique - Issue 80 (1997-05)(Microsoft)(AU)">
+		<description>Communique - Issue 80 (1997-05)(Microsoft)(AU)</description>
+		<rom name="Communique - Issue 80 (1997-05)(Microsoft)(AU).pdf" size="267853469" crc="85b7fd29" md5="c334e11c3acde5fc6d138625f0b676a7" sha1="cdfc5714cb01ce9565aa0eac6b30adf9b6871685"/>
+	</game>
+	<game name="Communique - Issue 80 (1997-07)(Microsoft)(AU)">
+		<description>Communique - Issue 80 (1997-07)(Microsoft)(AU)</description>
+		<rom name="Communique - Issue 80 (1997-07)(Microsoft)(AU).pdf" size="100099756" crc="a0f07836" md5="f6693cb741cb79d1ba66323af8202819" sha1="6d5541583b897d7a875828b2c103fdcf6bf1ed42"/>
+	</game>
+	<game name="Communique - Issue 81 (1997-06)(Microsoft)(AU)">
+		<description>Communique - Issue 81 (1997-06)(Microsoft)(AU)</description>
+		<rom name="Communique - Issue 81 (1997-06)(Microsoft)(AU).pdf" size="289344439" crc="864a38b0" md5="b5c70fa547a04e90682d6bda5f39019f" sha1="dd2c8cf86c5472e3b0d84fa6f7c371c7ec747f2c"/>
+	</game>
+	<game name="Communique - Issue 83 (1997-08)(Microsoft)(AU)">
+		<description>Communique - Issue 83 (1997-08)(Microsoft)(AU)</description>
+		<rom name="Communique - Issue 83 (1997-08)(Microsoft)(AU).pdf" size="283213982" crc="f11f6b75" md5="fade2fc6b045250a41b028d90846a336" sha1="b87d4505a8dabe46581a18ebd7215da84a61646f"/>
+	</game>
+	<game name="Communique - Volume 70 (1996-06)(Microsoft)(AU)">
+		<description>Communique - Volume 70 (1996-06)(Microsoft)(AU)</description>
+		<rom name="Communique - Volume 70 (1996-06)(Microsoft)(AU).pdf" size="260090388" crc="305044eb" md5="e75c486d8638bf8250187120680c44b7" sha1="25c3f422649c32d033c3ea1b62246e6595787c09"/>
+	</game>
+	<game name="Communique - Volume 72 (1996-08)(Microsoft)(AU)">
+		<description>Communique - Volume 72 (1996-08)(Microsoft)(AU)</description>
+		<rom name="Communique - Volume 72 (1996-08)(Microsoft)(AU).pdf" size="92071767" crc="4fd7eb92" md5="6025545b58d9a717d090ad1d3d61306e" sha1="07fceefc40680aaa7056f050351df818591f067d"/>
+	</game>
+	<game name="Communique - Volume 73 (1996-09)(Microsoft)(AU)">
+		<description>Communique - Volume 73 (1996-09)(Microsoft)(AU)</description>
+		<rom name="Communique - Volume 73 (1996-09)(Microsoft)(AU).pdf" size="84478272" crc="8bacdb12" md5="54e1fdac5d07a1294cf911f683f61047" sha1="f08ac1eb472d011b8fc8abf0d6742d16c724dfd8"/>
+	</game>
+</datafile>

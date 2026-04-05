@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - GMR (US)</name>
+		<description>Multi-format - Magazines - GMR (US) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GMR - Issue 01 (2003-02)(Ziff Davis)(US)">
+		<description>GMR - Issue 01 (2003-02)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 01 (2003-02)(Ziff Davis)(US).pdf" size="244761885" crc="1bc78e11" md5="86c4b44ad5fcb683eea25d1324261dd3" sha1="501fd47adcac6b648eafc60f9c3f8c423e4464ba"/>
+	</game>
+	<game name="GMR - Issue 02 (2003-03)(Ziff Davis)(US)">
+		<description>GMR - Issue 02 (2003-03)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 02 (2003-03)(Ziff Davis)(US).pdf" size="271439998" crc="5582a77c" md5="311c6a475b8b1484deaadc9f4bee4c41" sha1="6a8864f4074374baf28c1fcd6c60dde18c17aa0b"/>
+	</game>
+	<game name="GMR - Issue 03 (2003-04)(Ziff Davis)(US)">
+		<description>GMR - Issue 03 (2003-04)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 03 (2003-04)(Ziff Davis)(US).pdf" size="308449129" crc="a8221d48" md5="c6095b5a6e2132282868252977fa38e4" sha1="a60ed70720898b3de3083bbfafbfba6feea7fb6a"/>
+	</game>
+	<game name="GMR - Issue 04 (2003-05)(Ziff Davis)(US)">
+		<description>GMR - Issue 04 (2003-05)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 04 (2003-05)(Ziff Davis)(US).pdf" size="215539375" crc="e1370b66" md5="724272843366ac78ff243dedacf975b8" sha1="5c039354c63f77d9387142a38ebf37e453d63c34"/>
+	</game>
+	<game name="GMR - Issue 05 (2003-06)(Ziff Davis)(US)">
+		<description>GMR - Issue 05 (2003-06)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 05 (2003-06)(Ziff Davis)(US).pdf" size="228209342" crc="d0d82552" md5="516c5f5608cc153096be83235f873070" sha1="9aa59ebc88825e3620d49f13835bf79937440153"/>
+	</game>
+	<game name="GMR - Issue 06 (2003-07)(Ziff Davis)(US)">
+		<description>GMR - Issue 06 (2003-07)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 06 (2003-07)(Ziff Davis)(US).pdf" size="239166323" crc="e4d8044a" md5="8bbf847b08b5cc31a03b7effc140cd73" sha1="259ed21d92ea746c1d2d9a3eedc9f4f7238c8e8a"/>
+	</game>
+	<game name="GMR - Issue 07 (2003-08)(Ziff Davis)(US)">
+		<description>GMR - Issue 07 (2003-08)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 07 (2003-08)(Ziff Davis)(US).pdf" size="242270582" crc="bc03544a" md5="806359085a2878057f9a6380270d8150" sha1="b7ab3e18a38e3322933c626debb719a32e1abe6b"/>
+	</game>
+	<game name="GMR - Issue 08 (2003-09)(Ziff Davis)(US)">
+		<description>GMR - Issue 08 (2003-09)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 08 (2003-09)(Ziff Davis)(US).pdf" size="299435093" crc="9964faf9" md5="5e79f96afabfce23dce70e41a9b1654d" sha1="dd1d7ade2a7a7ba94a41d9129ad1e318a7e99435"/>
+	</game>
+	<game name="GMR - Issue 09 (2003-10)(Ziff Davis)(US)">
+		<description>GMR - Issue 09 (2003-10)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 09 (2003-10)(Ziff Davis)(US).pdf" size="234575765" crc="63b8334d" md5="512d4efffcf767c2a030bb4122c6e4af" sha1="04ab857447688bbc470d93e62b637cb900b8bf77"/>
+	</game>
+	<game name="GMR - Issue 10 (2003-11)(Ziff Davis)(US)">
+		<description>GMR - Issue 10 (2003-11)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 10 (2003-11)(Ziff Davis)(US).pdf" size="233478546" crc="0a6307d6" md5="fc0dfc8b6e239c0a74bdd03a789ce117" sha1="7949549a9103d5987085ded561b3590fbec79099"/>
+	</game>
+	<game name="GMR - Issue 11 (2003-12)(Ziff Davis)(US)">
+		<description>GMR - Issue 11 (2003-12)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 11 (2003-12)(Ziff Davis)(US).pdf" size="298434369" crc="8496a9c7" md5="71c30745961dd207e53dc7e6298ffc89" sha1="15c0ef1219db8bb2a02fdccd0c9a470e3fa90ab7"/>
+	</game>
+	<game name="GMR - Issue 12 (2004-01)(Ziff Davis)(US)">
+		<description>GMR - Issue 12 (2004-01)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 12 (2004-01)(Ziff Davis)(US).pdf" size="241761023" crc="66166eef" md5="875b7041191608a12b21dafb1133b945" sha1="6cb7a5580047c4ba08009395c7aba72d886cef43"/>
+	</game>
+	<game name="GMR - Issue 13 (2004-02)(Ziff Davis)(US)">
+		<description>GMR - Issue 13 (2004-02)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 13 (2004-02)(Ziff Davis)(US).pdf" size="236921565" crc="4b9b083f" md5="48b857ed340963f540565fc61cd29438" sha1="052eb0fbf1389efc9c8dc417d2b3e3d180fe2690"/>
+	</game>
+	<game name="GMR - Issue 14 (2004-03)(Ziff Davis)(US)">
+		<description>GMR - Issue 14 (2004-03)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 14 (2004-03)(Ziff Davis)(US).pdf" size="237179645" crc="d3847522" md5="b6f8ac89afca4de22d081f4b7ee579a1" sha1="5ac155841d31c023c0603e133a03858c758d5da4"/>
+	</game>
+	<game name="GMR - Issue 15 (2004-04)(Ziff Davis)(US)">
+		<description>GMR - Issue 15 (2004-04)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 15 (2004-04)(Ziff Davis)(US).pdf" size="243261269" crc="e43d0dd8" md5="b7e35bdea87400fc948296113ca7ac44" sha1="2dcca45e466090d47e58c813f2c4249d2e36889a"/>
+	</game>
+	<game name="GMR - Issue 16 (2004-05)(Ziff Davis)(US)">
+		<description>GMR - Issue 16 (2004-05)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 16 (2004-05)(Ziff Davis)(US).pdf" size="241107900" crc="9dd0a476" md5="4c34f1866b841177772075226e1f9651" sha1="0ca045d0e19dca6dffa830494f9e98fdfeea7746"/>
+	</game>
+	<game name="GMR - Issue 17 (2004-06)(Ziff Davis)(US)">
+		<description>GMR - Issue 17 (2004-06)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 17 (2004-06)(Ziff Davis)(US).pdf" size="235619770" crc="9f71f0a4" md5="d1617a38c7c6e88e81f43d02cf0873e6" sha1="ab24bca5d7c6960c07b38e61c53c5ba61dddd32e"/>
+	</game>
+	<game name="GMR - Issue 18 (2004-07)(Ziff Davis)(US)">
+		<description>GMR - Issue 18 (2004-07)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 18 (2004-07)(Ziff Davis)(US).pdf" size="250250395" crc="0543224f" md5="1e4865052c290e803e5d6a6ae76dd3a7" sha1="1f4f353191e62bf5ab73095efc20a9778f092968"/>
+	</game>
+	<game name="GMR - Issue 19 (2004-08)(Ziff Davis)(US)">
+		<description>GMR - Issue 19 (2004-08)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 19 (2004-08)(Ziff Davis)(US).pdf" size="254327280" crc="5e1c62a8" md5="bef48c58b9079e743053d051a632611b" sha1="466de0d6a7d70c419bb9c56c69ebc59b7fb1d875"/>
+	</game>
+	<game name="GMR - Issue 20 (2004-09)(Ziff Davis)(US)">
+		<description>GMR - Issue 20 (2004-09)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 20 (2004-09)(Ziff Davis)(US).pdf" size="259292024" crc="f4d783d3" md5="fa4e7d3f29b02d4866092e5771544375" sha1="9487f5040fe03634b1bd82e6034177d1a4b24888"/>
+	</game>
+	<game name="GMR - Issue 21 (2004-10)(Ziff Davis)(US)">
+		<description>GMR - Issue 21 (2004-10)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 21 (2004-10)(Ziff Davis)(US).pdf" size="295580610" crc="a30fddb4" md5="f099be8234c8c41e5c24f63817e068ac" sha1="51a644126d389d8c6140ca5acc7efabcf3fc9497"/>
+	</game>
+	<game name="GMR - Issue 22 (2004-11)(Ziff Davis)(US)">
+		<description>GMR - Issue 22 (2004-11)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 22 (2004-11)(Ziff Davis)(US).pdf" size="285826681" crc="7e7acdef" md5="87d52bbfa2627e4f20e67a4abbd49635" sha1="590c18be5040c6b356acb480c5747bb5e2ab875c"/>
+	</game>
+	<game name="GMR - Issue 23 (2004-12)(Ziff Davis)(US)">
+		<description>GMR - Issue 23 (2004-12)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 23 (2004-12)(Ziff Davis)(US).pdf" size="284283567" crc="508e8473" md5="a869257445b8a39c8042465ea56f6a49" sha1="00ba76694bc409861f57accf95bbafdf125c247e"/>
+	</game>
+	<game name="GMR - Issue 24 (2005-01)(Ziff Davis)(US)">
+		<description>GMR - Issue 24 (2005-01)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 24 (2005-01)(Ziff Davis)(US).pdf" size="293003333" crc="0d57c1ff" md5="de285535d26a54e31c8b450221a905c1" sha1="a08ae371811f6ed124bb38e25251fe47c8bc48e5"/>
+	</game>
+	<game name="GMR - Issue 25 (2005-02)(Ziff Davis)(US)">
+		<description>GMR - Issue 25 (2005-02)(Ziff Davis)(US)</description>
+		<rom name="GMR - Issue 25 (2005-02)(Ziff Davis)(US).pdf" size="242824060" crc="69edfeb2" md5="668dc96cf109ca86e61fc90737745192" sha1="b7bd7ed740b6f69534c050675b80416658b2d3e0"/>
+	</game>
+</datafile>

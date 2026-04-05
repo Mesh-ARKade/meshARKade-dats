@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>IBM PC Compatibles - Magazines - Computer Active (GB)</name>
+		<description>IBM PC Compatibles - Magazines - Computer Active (GB) (TOSEC-v2023-06-13)</description>
+		<category>TOSEC-PIX</category>
+		<version>2023-06-13</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Computer Active - Issue 204 (2005-12-08)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 204 (2005-12-08)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 204 (2005-12-08)(Incisive Media)(GB).pdf" size="5629232" crc="01c302c7" md5="18031b8d0d7f89969e58f008f9e92046" sha1="331e26b7694873117a4248558e8644297baee2c0"/>
+	</game>
+	<game name="Computer Active - Issue 205 (2006-01)(VNU Business Publications)(GB)">
+		<description>Computer Active - Issue 205 (2006-01)(VNU Business Publications)(GB)</description>
+		<rom name="Computer Active - Issue 205 (2006-01)(VNU Business Publications)(GB).pdf" size="11326049" crc="171fa73f" md5="d527cc42e0112fbd431b924f2f449763" sha1="18e305c8ab10acd9feab78b0b6fbf36ab774a186"/>
+	</game>
+	<game name="Computer Active - Issue 211 (2006-03-29)(VNU Business Publications)(GB)">
+		<description>Computer Active - Issue 211 (2006-03-29)(VNU Business Publications)(GB)</description>
+		<rom name="Computer Active - Issue 211 (2006-03-29)(VNU Business Publications)(GB).pdf" size="104004305" crc="0a0037f8" md5="88625f9119dae4bb50b303faa4bd6baa" sha1="870c1bc5b6b136151a0ef6af034855562513868c"/>
+	</game>
+	<game name="Computer Active - Issue 216 (2006-06-07)(VNU Business Publications)(GB)">
+		<description>Computer Active - Issue 216 (2006-06-07)(VNU Business Publications)(GB)</description>
+		<rom name="Computer Active - Issue 216 (2006-06-07)(VNU Business Publications)(GB).pdf" size="27448022" crc="67c01304" md5="a62c9665603031e35c9e06b5df0976d9" sha1="f2547722e70f458cd6eda399e3828e249c00729a"/>
+	</game>
+	<game name="Computer Active - Issue 259 (2008-02-06)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 259 (2008-02-06)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 259 (2008-02-06)(Incisive Media)(GB).pdf" size="16177449" crc="aa4caa5d" md5="f3416e485b7fbf98481ca76b57026b6c" sha1="906d80954492d31c109256ac183654e724c0c034"/>
+	</game>
+	<game name="Computer Active - Issue 260 (2008-02-20)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 260 (2008-02-20)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 260 (2008-02-20)(Incisive Media)(GB).pdf" size="33642407" crc="2ebc2267" md5="6ad6548fcdca49e1b96e9753e7b431f4" sha1="64729c26fe6bdca5d2ce5f18a4edfcf397424f4e"/>
+	</game>
+	<game name="Computer Active - Issue 263 (2008-04-02)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 263 (2008-04-02)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 263 (2008-04-02)(Incisive Media)(GB).pdf" size="11387648" crc="4dc3ac67" md5="efe71133eaa18110ea30b35ca7506fdb" sha1="98fed996e2911ca60b99413390007eb31ef656d2"/>
+	</game>
+	<game name="Computer Active - Issue 264 (2008-04-16)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 264 (2008-04-16)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 264 (2008-04-16)(Incisive Media)(GB).pdf" size="24829730" crc="e5736316" md5="2262cd2d16ad6470b6071bcf5c65dbd9" sha1="b2154681740ebea667c77ab8beb7762f4de0e9b2"/>
+	</game>
+	<game name="Computer Active - Issue 265 (2008-04-30)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 265 (2008-04-30)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 265 (2008-04-30)(Incisive Media)(GB).pdf" size="23884273" crc="090e90c0" md5="b563411fffd576df4589c848e6bf8eaf" sha1="90cceb5bace71f0fba680b6b5535edebf76d1a67"/>
+	</game>
+	<game name="Computer Active - Issue 283 (2009-01-07)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 283 (2009-01-07)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 283 (2009-01-07)(Incisive Media)(GB).pdf" size="35478530" crc="a1662a25" md5="9855ae86827192839be05817342806be" sha1="886a435592789a7caeea773243608b047b47804b"/>
+	</game>
+	<game name="Computer Active - Issue 284 (2009-01-21)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 284 (2009-01-21)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 284 (2009-01-21)(Incisive Media)(GB).pdf" size="40923562" crc="1e40a3d7" md5="c5375b8f07e33ab4f6dab6c7513c83d6" sha1="5256ca1113784c3b9ad515b641cb843ec364989e"/>
+	</game>
+	<game name="Computer Active - Issue 285 (2009-02-04)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 285 (2009-02-04)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 285 (2009-02-04)(Incisive Media)(GB).pdf" size="39337193" crc="9b26e77e" md5="04404c6a8a375d8b47d9b61eb8c9e125" sha1="517cb15a93c2c596260253adee96859217178a7b"/>
+	</game>
+	<game name="Computer Active - Issue 286 (2009-02-18)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 286 (2009-02-18)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 286 (2009-02-18)(Incisive Media)(GB).pdf" size="38686604" crc="7a36f41b" md5="0f4b514f258fab2e2090225e6c2c171d" sha1="92dfdec6802a9c6df2144771d0cc308992fa8d66"/>
+	</game>
+	<game name="Computer Active - Issue 287 (2009-03-04)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 287 (2009-03-04)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 287 (2009-03-04)(Incisive Media)(GB).pdf" size="39779380" crc="1ac8a777" md5="f2ac64b6dbaa2cf73d174c8cff99bb13" sha1="1ba66807e617862b652dd7c5b7fb8c263aec0626"/>
+	</game>
+	<game name="Computer Active - Issue 288 (2009-03-18)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 288 (2009-03-18)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 288 (2009-03-18)(Incisive Media)(GB).pdf" size="39968913" crc="01a05fd4" md5="25a747116cc329c409425a8d384ec5fd" sha1="c121b2a65c97e4ecde64167c76a32d1fddcdfe5b"/>
+	</game>
+	<game name="Computer Active - Issue 289 (2009-04-01)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 289 (2009-04-01)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 289 (2009-04-01)(Incisive Media)(GB).pdf" size="40883259" crc="f8860a03" md5="7bf1d87149b2ad1c3c67aeab24a80754" sha1="3fbf267038a9a5b17aebd49667fc4ad57ce6900b"/>
+	</game>
+	<game name="Computer Active - Issue 290 (2009-04-15)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 290 (2009-04-15)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 290 (2009-04-15)(Incisive Media)(GB).pdf" size="40058225" crc="30ec9120" md5="4b98d8767b6f0afb28f8667bd33ffdcf" sha1="a0cbd7a8fbba1ae63b712a7dc371ac0675aec9d5"/>
+	</game>
+	<game name="Computer Active - Issue 292 (2009-05-13)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 292 (2009-05-13)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 292 (2009-05-13)(Incisive Media)(GB).pdf" size="40852227" crc="d1896f63" md5="e2385a6339a60091f05e52a229a033df" sha1="4dd0a613338be870845718b7715af1f96d546e70"/>
+	</game>
+	<game name="Computer Active - Issue 293 (2009-05-27)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 293 (2009-05-27)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 293 (2009-05-27)(Incisive Media)(GB).pdf" size="40661624" crc="4e7ed287" md5="2bf63f1ca6c4c5a7975367c1b4ea4b45" sha1="8f1fb3e48878977fc522cb2ef5ec9b7d79a9131f"/>
+	</game>
+	<game name="Computer Active - Issue 294 (2009-06-10)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 294 (2009-06-10)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 294 (2009-06-10)(Incisive Media)(GB).pdf" size="40001789" crc="eab471b0" md5="951903f6eb1e14aedeafbfd58d768022" sha1="851b39f82db2e899f4c580f35230bbc202646f5e"/>
+	</game>
+	<game name="Computer Active - Issue 295 (2009-06-24)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 295 (2009-06-24)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 295 (2009-06-24)(Incisive Media)(GB).pdf" size="42803674" crc="b5634b0e" md5="d2ceeff1a068cf82b3f9dcf4c3d50f0c" sha1="9f37ae14eb5c9cb2a9be880d56e7b3258d6cd3d7"/>
+	</game>
+	<game name="Computer Active - Issue 296 (2009-07-08)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 296 (2009-07-08)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 296 (2009-07-08)(Incisive Media)(GB).pdf" size="36151602" crc="c4fa6999" md5="38e919a4ccd09015d0f08a8b7e8aaf78" sha1="157225a90f3e01d24b413222c8646894178a5542"/>
+	</game>
+	<game name="Computer Active - Issue 297 (2009-07-22)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 297 (2009-07-22)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 297 (2009-07-22)(Incisive Media)(GB).pdf" size="36030766" crc="5f23ece4" md5="de64f961a94f67c53d48684cf3fbfdd7" sha1="77325c8f20608e8009f53b6306e4ab3d4881787c"/>
+	</game>
+	<game name="Computer Active - Issue 298 (2009-08-05)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 298 (2009-08-05)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 298 (2009-08-05)(Incisive Media)(GB).pdf" size="34598145" crc="ee51af81" md5="fa0238bc20fd0348b1bbc12ba6ff007b" sha1="7e2a6c95f02011b210c5e1d996aaab609746cc2f"/>
+	</game>
+	<game name="Computer Active - Issue 299 (2009-08-19)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 299 (2009-08-19)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 299 (2009-08-19)(Incisive Media)(GB).pdf" size="26293574" crc="b043b9f4" md5="5151e6959562adfe13d5effcde3c2e5f" sha1="a9efa6056971c0e8a8c983d291d1f7be581731d4"/>
+	</game>
+	<game name="Computer Active - Issue 300 (2009-09-02)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 300 (2009-09-02)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 300 (2009-09-02)(Incisive Media)(GB).pdf" size="37275544" crc="e253d6be" md5="b4e5958487a75531164161ff6623a2d1" sha1="31eadc00f3ebe592e8275548ed04c921959f466b"/>
+	</game>
+	<game name="Computer Active - Issue 301 (2009-09-16)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 301 (2009-09-16)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 301 (2009-09-16)(Incisive Media)(GB).pdf" size="39726421" crc="84646d6b" md5="69ae37a26d6a9bbc8f8b631278925849" sha1="2e643d462a7a0530c6d975dc316d5aaf9df9dc99"/>
+	</game>
+	<game name="Computer Active - Issue 302 (2009-09-30)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 302 (2009-09-30)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 302 (2009-09-30)(Incisive Media)(GB).pdf" size="39164784" crc="b049702e" md5="c01d20098a4bbe51d56303c5fd4a6b38" sha1="a4dca6c1af581eedbbd611f9537b5872322ecf3c"/>
+	</game>
+	<game name="Computer Active - Issue 303 (2009-10-14)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 303 (2009-10-14)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 303 (2009-10-14)(Incisive Media)(GB).pdf" size="42082036" crc="86c5a444" md5="d14c430f937813e50ffc1213b81da067" sha1="5ac0d4a65c2afac9d68fd0b6f204b14fe730c0c7"/>
+	</game>
+	<game name="Computer Active - Issue 307 (2009-12-09)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 307 (2009-12-09)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 307 (2009-12-09)(Incisive Media)(GB).pdf" size="42506759" crc="5dd784d5" md5="3656ccf61391b816452170edc0fcfb2a" sha1="e9c4c06eb4b6b9554aa74af946b3efcc34e0892f"/>
+	</game>
+	<game name="Computer Active - Issue 313 (2010-03-03)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 313 (2010-03-03)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 313 (2010-03-03)(Incisive Media)(GB).pdf" size="40062874" crc="00f25d45" md5="9f2b8e228929bd9fbcb6def3fa5ce5f7" sha1="b52d746b4f2e345189c8546e0923501023d39271"/>
+	</game>
+	<game name="Computer Active - Issue 324 (2010-08-04)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 324 (2010-08-04)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 324 (2010-08-04)(Incisive Media)(GB).pdf" size="24862389" crc="4ae0c0e4" md5="7fb7be7fadad301e8175d36d4b598a1f" sha1="59da016e2ac6ca069a45e745554503f06fd4739e"/>
+	</game>
+	<game name="Computer Active - Issue 332 (2010-11-24)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 332 (2010-11-24)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 332 (2010-11-24)(Incisive Media)(GB).pdf" size="23852296" crc="396612f0" md5="841efef191bc06f27c12ddefbb38c3fd" sha1="a220d98cb0fd33a12ee678e43d50d4c759a6da36"/>
+	</game>
+	<game name="Computer Active - Issue 333 (2010-12-08)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 333 (2010-12-08)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 333 (2010-12-08)(Incisive Media)(GB).pdf" size="32426465" crc="35015550" md5="183a6e4773bcd2a629571393326b9d82" sha1="f82a48b18116110522f4c51003bd06c300ecaea2"/>
+	</game>
+	<game name="Computer Active - Issue 334 (2010-12-22)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 334 (2010-12-22)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 334 (2010-12-22)(Incisive Media)(GB).pdf" size="36719775" crc="361bb106" md5="51de25aec5e06202d240decdb16cad0c" sha1="168cfcd3f5d9895fa7b56c01aaa3a3a164a53313"/>
+	</game>
+	<game name="Computer Active - Issue 335 (2011-01-05)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 335 (2011-01-05)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 335 (2011-01-05)(Incisive Media)(GB).pdf" size="59697511" crc="61967960" md5="89f83313bcfc75ec6218e576ab7d7e71" sha1="ade9db674baa371aa251d44438b585f2ff3bfa2b"/>
+	</game>
+	<game name="Computer Active - Issue 336 (2011-01-19)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 336 (2011-01-19)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 336 (2011-01-19)(Incisive Media)(GB).pdf" size="58237751" crc="a44f4e3a" md5="f042bbd601f0abb9eca8cb0def89bae0" sha1="b6de8fb6e1e8c72cedb227d1dbf0774cd3f13209"/>
+	</game>
+	<game name="Computer Active - Issue 337 (2011-02-02)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 337 (2011-02-02)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 337 (2011-02-02)(Incisive Media)(GB).pdf" size="37727468" crc="0f0576d5" md5="821dfc24c80f90b950ca5a12775fe1a4" sha1="e2422469b57ad9b4f9dc5374f48deb0e5e598bda"/>
+	</game>
+	<game name="Computer Active - Issue 338 (2010-12-16)(Incisive Media)(GB)">
+		<description>Computer Active - Issue 338 (2010-12-16)(Incisive Media)(GB)</description>
+		<rom name="Computer Active - Issue 338 (2010-12-16)(Incisive Media)(GB).pdf" size="36284105" crc="ee242e4f" md5="79c1f81b2bc3ea5ea8fd52e1476368f4" sha1="89c5aca118310a16afdd0ecb82597af26c5d2298"/>
+	</game>
+	<game name="Computer Active - Issue 394 (2013-04-16)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 394 (2013-04-16)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 394 (2013-04-16)(Dennis Publishing)(GB).pdf" size="66316864" crc="fc5b3f62" md5="ec3d8862b0eeed79275bd45091aaf67d" sha1="05ce991e4b8cfd5f82b62ac5e89da5f28744f082"/>
+	</game>
+	<game name="Computer Active - Issue 395 (2013-04-30)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 395 (2013-04-30)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 395 (2013-04-30)(Dennis Publishing)(GB).pdf" size="115538776" crc="67060f13" md5="5d4a8ecbac6387e7f92d572edf718b51" sha1="038ef2670a368a913dadb5df33d8f79c07197445"/>
+	</game>
+	<game name="Computer Active - Issue 397 (2013-05-28)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 397 (2013-05-28)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 397 (2013-05-28)(Dennis Publishing)(GB).pdf" size="107718923" crc="fe684987" md5="b5e4a4c2eefd952ef799bfb4cae01f4d" sha1="cd97eb980111bed6d885a406a7ad86f43f100b6b"/>
+	</game>
+	<game name="Computer Active - Issue 399 (2013-06)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 399 (2013-06)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 399 (2013-06)(Dennis Publishing)(GB).pdf" size="106783547" crc="9f9dae47" md5="f39407850cb8c722e492db78b5940ad3" sha1="fd137dcf8a96383ac2a58f623ec17e5a8b3ec103"/>
+	</game>
+	<game name="Computer Active - Issue 401 (2013-03-07)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 401 (2013-03-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 401 (2013-03-07)(Dennis Publishing)(GB).pdf" size="105303553" crc="f0070fa7" md5="07ceaaf12350d4e79c2eee4593224ef8" sha1="f52da0acea2f8437250d3d0d046d93908300dc4d"/>
+	</game>
+	<game name="Computer Active - Issue 403 (2013-08)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 403 (2013-08)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 403 (2013-08)(Dennis Publishing)(GB).pdf" size="108183617" crc="7daf3fe8" md5="2c4855011f4c660156d3803e256fe348" sha1="bb9452b9499ec6adeef6fe2a83cc5d93d9889569"/>
+	</game>
+	<game name="Computer Active - Issue 408 (2013-10-29)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 408 (2013-10-29)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 408 (2013-10-29)(Dennis Publishing)(GB).pdf" size="24501597" crc="dd26ac08" md5="971f029e345ff80adf02c8dfc8920acc" sha1="6a83f4fb1a0c577a4084b4a596e0e91d59ef873b"/>
+	</game>
+	<game name="Computer Active - Issue 411 (2013-12-10)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 411 (2013-12-10)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 411 (2013-12-10)(Dennis Publishing)(GB).pdf" size="22721803" crc="e8f0fc73" md5="8857ce1225413facd8a21c94db06738a" sha1="0706d20177659ce5847a5fddb3c8c58586fb73a3"/>
+	</game>
+	<game name="Computer Active - Issue 412 (2013-12-23)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 412 (2013-12-23)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 412 (2013-12-23)(Dennis Publishing)(GB).pdf" size="26229433" crc="8ad61a4d" md5="715e296e433c6115d7fc888fe39a5db4" sha1="9e7629a79107f4cf59f4b73e772061a7aba09cd7"/>
+	</game>
+	<game name="Computer Active - Issue 413 (2014-01-07)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 413 (2014-01-07)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 413 (2014-01-07)(Dennis Publishing)(GB).pdf" size="25882429" crc="216f8c1c" md5="c1b5452a83f93f19ca47ac6a1d24adff" sha1="c8b3d205bb88a2158f1aa1b0c13ef81916ad41ed"/>
+	</game>
+	<game name="Computer Active - Issue 417 (2014-03-04)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 417 (2014-03-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 417 (2014-03-04)(Dennis Publishing)(GB).pdf" size="24823849" crc="b7199741" md5="2be53ed26216f7da57df47d65029983d" sha1="2667184a42d63f757d09e9df1aa525025a217c77"/>
+	</game>
+	<game name="Computer Active - Issue 418 (2014-03-18)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 418 (2014-03-18)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 418 (2014-03-18)(Dennis Publishing)(GB).pdf" size="95385502" crc="eaa9ad2b" md5="e658049d6d537f842558942219f7e320" sha1="6e614d5a7d0aa544017005c5cf86c45517e9c1aa"/>
+	</game>
+	<game name="Computer Active - Issue 420 (2014-04-15)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 420 (2014-04-15)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 420 (2014-04-15)(Dennis Publishing)(GB).pdf" size="94868533" crc="54efd76f" md5="d777bd493dc308765ded6e062a6fa8b4" sha1="b77c04b4bb32dae27f24c571f32cef083944c2b1"/>
+	</game>
+	<game name="Computer Active - Issue 421 (2014-04-29)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 421 (2014-04-29)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 421 (2014-04-29)(Dennis Publishing)(GB).pdf" size="24314112" crc="c401068b" md5="50726d1e5e0b73aea111ce8c4caa5c6d" sha1="909e0db86fd292828ae01ccdce08c49605d1b437"/>
+	</game>
+	<game name="Computer Active - Issue 427 (2014-07-22)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 427 (2014-07-22)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 427 (2014-07-22)(Dennis Publishing)(GB).pdf" size="47746867" crc="a7bced98" md5="d67eaf8ef342f6e14c4e741248e4e559" sha1="b434e31ba67b3d1f4d4249a914bdfe3b21cae6ed"/>
+	</game>
+	<game name="Computer Active - Issue 428 (2014-08-05)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 428 (2014-08-05)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 428 (2014-08-05)(Dennis Publishing)(GB).pdf" size="48124415" crc="8f72f377" md5="36866a75b68af919e5d1e08ebe88cfda" sha1="79fd4e4bcf53a2558d12125293334645c060e25b"/>
+	</game>
+	<game name="Computer Active - Issue 429 (2014-08-19)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 429 (2014-08-19)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 429 (2014-08-19)(Dennis Publishing)(GB).pdf" size="16819295" crc="89350883" md5="c2071c7a0d4fe2430d52b7dbf1a37f10" sha1="7d9906ab8c463a2bac2b6822d2df79c5d0f8ccf0"/>
+	</game>
+	<game name="Computer Active - Issue 430 (2014-09-02)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 430 (2014-09-02)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 430 (2014-09-02)(Dennis Publishing)(GB).pdf" size="20110087" crc="456e83f1" md5="c6ec959587fbf0d1b63680f5e14b342e" sha1="867d0b17f04db2ea014eb541538fe81cc4b73296"/>
+	</game>
+	<game name="Computer Active - Issue 442 (2015-02-04)(Dennis Publishing)(GB)">
+		<description>Computer Active - Issue 442 (2015-02-04)(Dennis Publishing)(GB)</description>
+		<rom name="Computer Active - Issue 442 (2015-02-04)(Dennis Publishing)(GB).pdf" size="18962961" crc="7f3a803e" md5="01a4af70e34346a59b3fe0a02674faf4" sha1="4ebc05b494809cc54e0fd0441a8eefaf9ea3d499"/>
+	</game>
+	<game name="Computer Active Ultimate Guide to Disc Burning (2010-06)(Incisive Media)(GB)">
+		<description>Computer Active Ultimate Guide to Disc Burning (2010-06)(Incisive Media)(GB)</description>
+		<rom name="Computer Active Ultimate Guide to Disc Burning (2010-06)(Incisive Media)(GB).pdf" size="28702209" crc="a800b2d8" md5="63764b170e8ae10113c6ce3396166601" sha1="44e282d7e9430717980fb42b80821822e5726703"/>
+	</game>
+	<game name="Computer Active Ultimate Guide to Easy Home Networking - Issue 07 (2009-08)(Incisive Media)(GB)">
+		<description>Computer Active Ultimate Guide to Easy Home Networking - Issue 07 (2009-08)(Incisive Media)(GB)</description>
+		<rom name="Computer Active Ultimate Guide to Easy Home Networking - Issue 07 (2009-08)(Incisive Media)(GB).pdf" size="40425151" crc="a98fc294" md5="aa22b8402e3c8f8de963955a3806a4d5" sha1="ac7e106d7c419907acddb6fae75fb50b2c167041"/>
+	</game>
+	<game name="Computer Active Ultimate Guide to Free Computing - Issue 01 (2011-01)(Incisive Media)(GB)">
+		<description>Computer Active Ultimate Guide to Free Computing - Issue 01 (2011-01)(Incisive Media)(GB)</description>
+		<rom name="Computer Active Ultimate Guide to Free Computing - Issue 01 (2011-01)(Incisive Media)(GB).pdf" size="70058005" crc="4261b613" md5="6a68bd68ce6167aeb14d9a3d9df6d4b6" sha1="6c76ca0e156f8daf449bcbb81f9ab75dc5e6a0e9"/>
+	</game>
+	<game name="Computer Active Ultimate Guide to Linux - Issue 13 (2010-12)(Incisive Media)(GB)">
+		<description>Computer Active Ultimate Guide to Linux - Issue 13 (2010-12)(Incisive Media)(GB)</description>
+		<rom name="Computer Active Ultimate Guide to Linux - Issue 13 (2010-12)(Incisive Media)(GB).pdf" size="41042272" crc="cce71cfe" md5="a8d42ae6711545871895c19da0a976f4" sha1="bb86b4c1c07d7c9ae3c60387b4d96975f20ae96f"/>
+	</game>
+	<game name="Computer Active Ultimate Guide to Quick &amp; Easy PC Upgrades - Issue 12 (2010-09)(Incisive Media)(GB)">
+		<description>Computer Active Ultimate Guide to Quick &amp; Easy PC Upgrades - Issue 12 (2010-09)(Incisive Media)(GB)</description>
+		<rom name="Computer Active Ultimate Guide to Quick &amp; Easy PC Upgrades - Issue 12 (2010-09)(Incisive Media)(GB).pdf" size="28892311" crc="8ceac13e" md5="a2d79eaef4e2b941742ad1f69a2e7f99" sha1="92794c0cfc8bcbb1c1f79124df0bd04edce3b424"/>
+	</game>
+	<game name="Computer Active Ultimate Guide to Windows 7 - Issue 08 (2010-09)(Incisive Media)(GB)">
+		<description>Computer Active Ultimate Guide to Windows 7 - Issue 08 (2010-09)(Incisive Media)(GB)</description>
+		<rom name="Computer Active Ultimate Guide to Windows 7 - Issue 08 (2010-09)(Incisive Media)(GB).pdf" size="33804381" crc="067d8754" md5="27033f4c8040e0357ddfd0cc8b28494a" sha1="47a2c22aaa67c975fdc0496a2883f657746e544a"/>
+	</game>
+	<game name="Computer Active Ultimate Guide to Windows 7 - Issue 11 (2009-12)(Incisive Media)(GB)">
+		<description>Computer Active Ultimate Guide to Windows 7 - Issue 11 (2009-12)(Incisive Media)(GB)</description>
+		<rom name="Computer Active Ultimate Guide to Windows 7 - Issue 11 (2009-12)(Incisive Media)(GB).pdf" size="40397610" crc="d5836171" md5="ee4f924b6a5538f3278e675e93505f50" sha1="5c4038ec38d3be726204e6431930869a74bd178b"/>
+	</game>
+</datafile>

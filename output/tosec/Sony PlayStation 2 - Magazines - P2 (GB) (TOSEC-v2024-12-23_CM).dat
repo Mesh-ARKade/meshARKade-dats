@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation 2 - Magazines - P2 (GB)</name>
+		<description>Sony PlayStation 2 - Magazines - P2 (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="P2 - Issue 48 (2004)(Highbury Entertainment)(GB)">
+		<description>P2 - Issue 48 (2004)(Highbury Entertainment)(GB)</description>
+		<rom name="P2 - Issue 48 (2004)(Highbury Entertainment)(GB).pdf" size="280827604" crc="2e44ea1f" md5="c6ec10414dbe0f8daa72a95d161467cf" sha1="1504dc4b52f1bc0594ea8567a8fa8f521f9828cb"/>
+	</game>
+	<game name="P2 - Issue 54 (2004)(Highbury Entertainment)(GB)">
+		<description>P2 - Issue 54 (2004)(Highbury Entertainment)(GB)</description>
+		<rom name="P2 - Issue 54 (2004)(Highbury Entertainment)(GB).pdf" size="278795097" crc="9161216a" md5="c898e1b7f4b121a227e2c6e783ba53fb" sha1="6b56aadc786ec45f60074eda3285aa6dc6a5d085"/>
+	</game>
+</datafile>

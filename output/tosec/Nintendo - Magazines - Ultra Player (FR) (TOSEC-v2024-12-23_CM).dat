@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - Ultra Player (FR)</name>
+		<description>Nintendo - Magazines - Ultra Player (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Nintendo Player - N.01 (1991-10)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.01 (1991-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.01 (1991-10)(Media Systeme Edition)(FR).pdf" size="45312870" crc="54d1b6a8" md5="5e0c3a2b2f9ba10fed170d74584559ff" sha1="450f3459d8c010b1bd5c77ceb65afde8cf5b7c73"/>
+	</game>
+	<game name="Nintendo Player - N.02 (1992-01)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.02 (1992-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.02 (1992-01)(Media Systeme Edition)(FR).pdf" size="39956244" crc="e5a06d52" md5="21f4297037e62397ca66279de0ec88a2" sha1="8c3d2cad61f55afc7cc206f1e67c5ae30c65ab57"/>
+	</game>
+	<game name="Nintendo Player - N.03 (1992-03)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.03 (1992-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.03 (1992-03)(Media Systeme Edition)(FR).pdf" size="46785308" crc="481c6420" md5="e8e711f626c26b46f552955ae0a70a62" sha1="1cbcf7892881c2aaee22319782520f5ce2f45505"/>
+	</game>
+	<game name="Nintendo Player - N.04 (1992-05)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.04 (1992-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.04 (1992-05)(Media Systeme Edition)(FR).pdf" size="44618883" crc="4d6af2aa" md5="3809b682376cc84323604f1c3376de5a" sha1="9a27a934a1a4d457b84070b2dbe6f031a767dcc8"/>
+	</game>
+	<game name="Nintendo Player - N.06 (1992-09)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.06 (1992-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.06 (1992-09)(Media Systeme Edition)(FR).pdf" size="73086135" crc="c4b986f8" md5="ade33bb81a6a351e2ead6f6db7c4dc5c" sha1="885ace6d43a64dac25f014cc73466ebd447d95b2"/>
+	</game>
+	<game name="Nintendo Player - N.08 (1993-01)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.08 (1993-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.08 (1993-01)(Media Systeme Edition)(FR).pdf" size="296209129" crc="06109ecb" md5="58c9cdef4bd20a7e54e9741017ec1284" sha1="8d5a237b73a39625de12ef187ddbcdf2a697ae73"/>
+	</game>
+	<game name="Nintendo Player - N.10 (1993-05)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.10 (1993-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.10 (1993-05)(Media Systeme Edition)(FR).pdf" size="304491483" crc="cbc67661" md5="743dad7c40a35744582d32708781283b" sha1="cc4d6c007ced471a4cbec1edc7793685f38531de"/>
+	</game>
+	<game name="Nintendo Player - N.11 (1993-07)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.11 (1993-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.11 (1993-07)(Media Systeme Edition)(FR).pdf" size="184817805" crc="13fd9876" md5="6ee2332f9124e14458dd0f4d63e117cc" sha1="989d06e7104c88c9f5eb002f7f88831e84a11c2c"/>
+	</game>
+	<game name="Nintendo Player - N.12 (1993-09)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.12 (1993-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.12 (1993-09)(Media Systeme Edition)(FR).pdf" size="156684799" crc="88ed589d" md5="4192dc32156022f1f5902f139969a75f" sha1="2122ae81ee8f9866ad772b86e7016822757941a7"/>
+	</game>
+	<game name="Nintendo Player - N.13 (1993-10)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.13 (1993-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.13 (1993-10)(Media Systeme Edition)(FR).pdf" size="62894300" crc="f287845b" md5="d5cf620b1b6ffb11e2ed9e3e4828ee39" sha1="bf49e7481b5c2433e66f1f152851df329d30650c"/>
+	</game>
+	<game name="Nintendo Player - N.14 (1993-11)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.14 (1993-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.14 (1993-11)(Media Systeme Edition)(FR).pdf" size="158149989" crc="65f816ab" md5="2994d7e11a15e1406ffa629c26f9c241" sha1="c302ab1577f48f038844359a48d0f76c90324908"/>
+	</game>
+	<game name="Nintendo Player - N.15 (1993-12)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.15 (1993-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.15 (1993-12)(Media Systeme Edition)(FR).pdf" size="321407416" crc="b1e38738" md5="61fa5a71fc284027a3b5a1075d9d9075" sha1="9253e5e783c30b1650aadba57de7b3f5d3a53cd0"/>
+	</game>
+	<game name="Nintendo Player - N.16 (1994-01)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.16 (1994-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.16 (1994-01)(Media Systeme Edition)(FR).pdf" size="46222718" crc="680068d7" md5="38e96844d0e4b8d40ab40f6f9544cec2" sha1="0459f7cd3382374b7945c4afa24303993bbafcc6"/>
+	</game>
+	<game name="Nintendo Player - N.18 (1994-03)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.18 (1994-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.18 (1994-03)(Media Systeme Edition)(FR).pdf" size="76506053" crc="e37e2596" md5="852f5449de40613e2774f8cace122966" sha1="a7285ac8790650ebe7f3e4fab07c0719d6863542"/>
+	</game>
+	<game name="Nintendo Player - N.19 (1994-04)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.19 (1994-04)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.19 (1994-04)(Media Systeme Edition)(FR).pdf" size="275194922" crc="d28302f3" md5="ab603b108b81b617534e4d7ed038c71a" sha1="b0bdb8948e4d86d11dac4d85d1dbdb66f15d96d6"/>
+	</game>
+	<game name="Nintendo Player - N.20 (1994-05)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.20 (1994-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.20 (1994-05)(Media Systeme Edition)(FR).pdf" size="246757173" crc="08383d47" md5="45df2f25a19bc2bf2abeadeb32ba7a1f" sha1="94b0783868d5f7750451252e2d54d4e41770c8cf"/>
+	</game>
+	<game name="Nintendo Player - N.21 (1994-06)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.21 (1994-06)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.21 (1994-06)(Media Systeme Edition)(FR).pdf" size="283324318" crc="db4ffffb" md5="64bccbfca1c834543fca3c250049a180" sha1="635aa5f30dd1df14ee515340b3e7ef5c4773588a"/>
+	</game>
+	<game name="Nintendo Player - N.22 (1994-07)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.22 (1994-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.22 (1994-07)(Media Systeme Edition)(FR).pdf" size="318381107" crc="b05db1e6" md5="cd32ca61cb0d69baec74356947cee8bc" sha1="f4e4c5be0e4057d3c31b41a224eaec7e5357ceaa"/>
+	</game>
+	<game name="Nintendo Player - N.23 (1994-09)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.23 (1994-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.23 (1994-09)(Media Systeme Edition)(FR).pdf" size="276347347" crc="2a506e08" md5="3e7a72bc85c32ebff23fc366374099d1" sha1="b8b660f1ef4b6940b92ed42981888a73e5e90152"/>
+	</game>
+	<game name="Nintendo Player - N.24 (1994-10)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.24 (1994-10)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.24 (1994-10)(Media Systeme Edition)(FR).pdf" size="282801442" crc="e2bc10ea" md5="a3eeebff7350a7088e4caad3bd9bfcd4" sha1="e64290ef0aa43958793d9e86d558b26f13a6a363"/>
+	</game>
+	<game name="Nintendo Player - N.25 (1994-11)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.25 (1994-11)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.25 (1994-11)(Media Systeme Edition)(FR).pdf" size="271478246" crc="b1eb29f3" md5="cf64fb2616766c531277d42ccc097dda" sha1="f4aa441f08c85e8a860a5ded741da7fe79066483"/>
+	</game>
+	<game name="Nintendo Player - N.25 (1994-11)(Media Systeme Edition)(FR)[Ocean Supplement]">
+		<description>Nintendo Player - N.25 (1994-11)(Media Systeme Edition)(FR)[Ocean Supplement]</description>
+		<rom name="Nintendo Player - N.25 (1994-11)(Media Systeme Edition)(FR)[Ocean Supplement].pdf" size="19213202" crc="fb7a8e42" md5="276c12b3e980629b458df639b5876468" sha1="ce2cb23344695ff6b4f4c17b805ad2ff33d5946e"/>
+	</game>
+	<game name="Nintendo Player - N.26 (1994-12)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.26 (1994-12)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.26 (1994-12)(Media Systeme Edition)(FR).pdf" size="323467407" crc="b1bd626e" md5="e780510d7a010503faa8614cc2cb89c4" sha1="f0a9ade505e9fd96702292a52587a6938ba2cc26"/>
+	</game>
+	<game name="Nintendo Player - N.27 (1995-01)(Media Systeme Edition)(FR)">
+		<description>Nintendo Player - N.27 (1995-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Nintendo Player - N.27 (1995-01)(Media Systeme Edition)(FR).pdf" size="88831696" crc="970bd3d9" md5="e622b38b2c9002db0688dfe0b04beb0a" sha1="94bc913f7ff694f9b380987085ce3001865d84be"/>
+	</game>
+	<game name="Ultra Player - N.28 (1995-03)(Media Systeme Edition)(FR)">
+		<description>Ultra Player - N.28 (1995-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Ultra Player - N.28 (1995-03)(Media Systeme Edition)(FR).pdf" size="285003395" crc="721adae3" md5="479865dc58b45ca45c8e3398e4345090" sha1="ed3fb03e9d961b8ff27363475517fe5389c744a3"/>
+	</game>
+	<game name="Ultra Player - N.29 (1995-05)(Media Systeme Edition)(FR)">
+		<description>Ultra Player - N.29 (1995-05)(Media Systeme Edition)(FR)</description>
+		<rom name="Ultra Player - N.29 (1995-05)(Media Systeme Edition)(FR).pdf" size="241092104" crc="3a11026b" md5="a196b879cab0862cc647ec1089738597" sha1="5406a9541f50b56f88ca6ff5fbd1d01a863dee24"/>
+	</game>
+	<game name="Ultra Player - N.30 (1995-07)(Media Systeme Edition)(FR)">
+		<description>Ultra Player - N.30 (1995-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Ultra Player - N.30 (1995-07)(Media Systeme Edition)(FR).pdf" size="334462587" crc="00ba4472" md5="4509741391f7e263f966828a6b6f503c" sha1="cadf9b92f8bc76d5c152b1399b60c4768daf07a6"/>
+	</game>
+	<game name="Ultra Player - N.33 (1996-01)(Media Systeme Edition)(FR)">
+		<description>Ultra Player - N.33 (1996-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Ultra Player - N.33 (1996-01)(Media Systeme Edition)(FR).pdf" size="277152535" crc="a0d03418" md5="ad488448629ec5f4751f9b3dbaf887f9" sha1="225144de94b7816045999daa2f37de1069a1f06f"/>
+	</game>
+	<game name="Ultra Player - N.34 (1996-03)(Media Systeme Edition)(FR)">
+		<description>Ultra Player - N.34 (1996-03)(Media Systeme Edition)(FR)</description>
+		<rom name="Ultra Player - N.34 (1996-03)(Media Systeme Edition)(FR).pdf" size="35379186" crc="b426c0b5" md5="d2f7268f6ff291959d29a5da258d75a0" sha1="2123a844e2f6fb8c8dee9ed37b5a71711a524339"/>
+	</game>
+	<game name="Ultra Player - N.36 (1996-07)(Media Systeme Edition)(FR)">
+		<description>Ultra Player - N.36 (1996-07)(Media Systeme Edition)(FR)</description>
+		<rom name="Ultra Player - N.36 (1996-07)(Media Systeme Edition)(FR).pdf" size="287189237" crc="bea08817" md5="d9c5d171f5d34c84184df4583884deba" sha1="5cd1437b4b1d9651d580208234a1db3cd4367dfc"/>
+	</game>
+	<game name="Ultra Player - N.37 (1996-09)(Media Systeme Edition)(FR)">
+		<description>Ultra Player - N.37 (1996-09)(Media Systeme Edition)(FR)</description>
+		<rom name="Ultra Player - N.37 (1996-09)(Media Systeme Edition)(FR).pdf" size="62265487" crc="a7f319db" md5="5cf12e966f2519e3eedaa6f8bae836fa" sha1="c432681a096fc23a78b0ab867678ccf2d3acf751"/>
+	</game>
+	<game name="Ultra Player - N.39 (1997-01)(Media Systeme Edition)(FR)">
+		<description>Ultra Player - N.39 (1997-01)(Media Systeme Edition)(FR)</description>
+		<rom name="Ultra Player - N.39 (1997-01)(Media Systeme Edition)(FR).pdf" size="250236179" crc="c2c320ab" md5="2d1a10dfe8d1a53f04f41d87f3fb0c38" sha1="cd75c23ace4fc2979650149e4aae97119e36a6e5"/>
+	</game>
+</datafile>

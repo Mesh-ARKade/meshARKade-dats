@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony PlayStation - Magazines - PlayStation Magazine (FR)</name>
+		<description>Sony PlayStation - Magazines - PlayStation Magazine (FR) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="PlayStation Magazine (1999-12)(Hachette Disney Presse)(FR)[Supplement N.37]">
+		<description>PlayStation Magazine (1999-12)(Hachette Disney Presse)(FR)[Supplement N.37]</description>
+		<rom name="PlayStation Magazine (1999-12)(Hachette Disney Presse)(FR)[Supplement N.37].pdf" size="11405274" crc="a6db661d" md5="1f6cf728f77f325517feaac85af45463" sha1="541305a1170ab35f7c9226cdd737425cb60a5225"/>
+	</game>
+	<game name="PlayStation Magazine - Hors-Serie N.4 (1998-07)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - Hors-Serie N.4 (1998-07)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - Hors-Serie N.4 (1998-07)(Hachette Disney Presse)(FR).pdf" size="98108786" crc="32430bc5" md5="44eef4adaedebbff78e6381656a9099c" sha1="170fae59836d621473b749c4897992c89fb299b4"/>
+	</game>
+	<game name="PlayStation Magazine - Hors-Serie N.7 (1999-07)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - Hors-Serie N.7 (1999-07)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - Hors-Serie N.7 (1999-07)(Hachette Disney Presse)(FR).pdf" size="134874262" crc="fecb98fd" md5="dff0fb61a999cce59514f910437d12e9" sha1="94f83f92eadc6c7536603fb919b2eacaf0c7fce6"/>
+	</game>
+	<game name="PlayStation Magazine - N.01 (1995-12)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.01 (1995-12)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.01 (1995-12)(Hachette Disney Presse)(FR).pdf" size="85827322" crc="363d4b5a" md5="e2dab83f17d9abbf017393435995a6c6" sha1="2e2e3c070460843feef51a4bd286501247f35540"/>
+	</game>
+	<game name="PlayStation Magazine - N.04 (1996-07)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.04 (1996-07)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.04 (1996-07)(Hachette Disney Presse)(FR).pdf" size="44594053" crc="d4c056c7" md5="27fce09b2eabd22f32adb8fdb73bf2e5" sha1="38884c4aee678ed3657eec1cf90f0a18c7e63dc2"/>
+	</game>
+	<game name="PlayStation Magazine - N.06 (1996-11)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.06 (1996-11)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.06 (1996-11)(Hachette Disney Presse)(FR).pdf" size="167539520" crc="852ece3c" md5="cb0a9158ded2889bda1e609d1727be71" sha1="2b8352c81ab0bfadee6bad66e7f1f444d501358d"/>
+	</game>
+	<game name="PlayStation Magazine - N.12 (1997-09)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.12 (1997-09)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.12 (1997-09)(Hachette Disney Presse)(FR).pdf" size="62322760" crc="b291797d" md5="eb2b34b96eb51a893750d6e0711716bc" sha1="f35a1147274f7eb3e092145852e29389b6c586b8"/>
+	</game>
+	<game name="PlayStation Magazine - N.13 (1997-10)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.13 (1997-10)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.13 (1997-10)(Hachette Disney Presse)(FR).pdf" size="93040266" crc="fafcd80a" md5="04ee400312305caf74fbc487012a71df" sha1="f94495faaa44bbadc974edc18b259400708b27bf"/>
+	</game>
+	<game name="PlayStation Magazine - N.14 (1997-11)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.14 (1997-11)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.14 (1997-11)(Hachette Disney Presse)(FR).pdf" size="111054940" crc="bac6a2c1" md5="9f0c6d5a9bdf54cc05d0bc2b7f8e7dd4" sha1="592217b9f622fe82e6fa1436c4a3f66101d9fa33"/>
+	</game>
+	<game name="PlayStation Magazine - N.15 (1997-12)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.15 (1997-12)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.15 (1997-12)(Hachette Disney Presse)(FR).pdf" size="122728770" crc="9b007cff" md5="8ee02f32251f522297ec34d7411baa61" sha1="1a5b3af34f286c1c28307b0f13b218965efc24d5"/>
+	</game>
+	<game name="PlayStation Magazine - N.17 (1998-02)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.17 (1998-02)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.17 (1998-02)(Hachette Disney Presse)(FR).pdf" size="114551609" crc="a028b814" md5="182d81ed364d12023dddf36c76803da4" sha1="5390f88fc1598541b73c78c324a199ab3eaad59c"/>
+	</game>
+	<game name="PlayStation Magazine - N.18 (1998-03)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.18 (1998-03)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.18 (1998-03)(Hachette Disney Presse)(FR).pdf" size="103459149" crc="516b5708" md5="4b988cea76854f6f0483c8eec21efb66" sha1="a60cab77adaba1edebf28c913ffd347b9bca45da"/>
+	</game>
+	<game name="PlayStation Magazine - N.21 (1998-06)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.21 (1998-06)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.21 (1998-06)(Hachette Disney Presse)(FR).pdf" size="123242585" crc="45bc98ac" md5="d149db6b14b50f1aa39a9429ec27f0b1" sha1="bdf93bb7ae8f13f107c8477eb21d4f415596d541"/>
+	</game>
+	<game name="PlayStation Magazine - N.22 (1998-07)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.22 (1998-07)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.22 (1998-07)(Hachette Disney Presse)(FR).pdf" size="116589309" crc="ed347912" md5="20d83e7f107f819d9dca795b0a66444b" sha1="2a864c482e1d948296fe77017c4edb9c7461baeb"/>
+	</game>
+	<game name="PlayStation Magazine - N.23 (1998-09)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.23 (1998-09)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.23 (1998-09)(Hachette Disney Presse)(FR).pdf" size="115377282" crc="06533c5a" md5="2354058344b02f773ecf764caa171fd5" sha1="e728bbd9e6332b66daeac8ef2aba867d11beb4c2"/>
+	</game>
+	<game name="PlayStation Magazine - N.27 (1999-01)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.27 (1999-01)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.27 (1999-01)(Hachette Disney Presse)(FR).pdf" size="186383576" crc="509ac486" md5="62b24d75778665bd98e2bcd1ea968d9d" sha1="657545f5831e444f1bde3203710eeb42c30b8de0"/>
+	</game>
+	<game name="PlayStation Magazine - N.29 (1999-03)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.29 (1999-03)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.29 (1999-03)(Hachette Disney Presse)(FR).pdf" size="155958821" crc="57cf23a0" md5="0fe84b664c8f11d5e1e19361cba81732" sha1="20d7111e59f82d0842a912db79ee46bf1549d24d"/>
+	</game>
+	<game name="PlayStation Magazine - N.33 (1999-07)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.33 (1999-07)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.33 (1999-07)(Hachette Disney Presse)(FR).pdf" size="115208814" crc="4f17a0d8" md5="5b85ea6e02a395e52111a797bfaa4c6d" sha1="52f96af3fd2aba9cf02655c746024fbfd23695f3"/>
+	</game>
+	<game name="PlayStation Magazine - N.36 (1999-11)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.36 (1999-11)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.36 (1999-11)(Hachette Disney Presse)(FR).pdf" size="179513006" crc="c54d42e0" md5="94b078b2bfd108776af0b48a0fecf30e" sha1="1d9f346f14d2fceb7d1da6a8ffb02c85a395e723"/>
+	</game>
+	<game name="PlayStation Magazine - N.37 (1999-12)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.37 (1999-12)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.37 (1999-12)(Hachette Disney Presse)(FR).pdf" size="136738568" crc="8b1eeff0" md5="913a60af18a1a0d8a6afd36fb8a3082a" sha1="c94b12be81354cbaac1453a91db57b6d78fc80e7"/>
+	</game>
+	<game name="PlayStation Magazine - N.39 (2000-02)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.39 (2000-02)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.39 (2000-02)(Hachette Disney Presse)(FR).pdf" size="105943023" crc="808da271" md5="1f8093b760c5e9ae00317603360c867a" sha1="c568d2683cd0c4f89f7f30709d21ffa7b304f9ae"/>
+	</game>
+	<game name="PlayStation Magazine - N.40 (2000-03)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.40 (2000-03)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.40 (2000-03)(Hachette Disney Presse)(FR).pdf" size="107865593" crc="aee74363" md5="72f6cac48da2195386f252ac8d3ccd96" sha1="75f54b0d7719811031c066c5d57fba95502f75ac"/>
+	</game>
+	<game name="PlayStation Magazine - N.41 (2000-04)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.41 (2000-04)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.41 (2000-04)(Hachette Disney Presse)(FR).pdf" size="156470918" crc="f5cb4285" md5="ae2fd844ab02ed493d3fd3775576b3df" sha1="43584a7e8a3d078a8795894f0364a216ccc874c1"/>
+	</game>
+	<game name="PlayStation Magazine - N.44 (2000-07)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.44 (2000-07)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.44 (2000-07)(Hachette Disney Presse)(FR).pdf" size="139359097" crc="f70dcbef" md5="f0d7fcf1d8f0bd617a56dfbdadcc0701" sha1="7860f27fd8ada4e9bf4ff1293b0d21ed39a4cf32"/>
+	</game>
+	<game name="PlayStation Magazine - N.46 (2000-10)(Hachette Disney Presse)(FR)">
+		<description>PlayStation Magazine - N.46 (2000-10)(Hachette Disney Presse)(FR)</description>
+		<rom name="PlayStation Magazine - N.46 (2000-10)(Hachette Disney Presse)(FR).pdf" size="145666781" crc="90394e55" md5="d9ffc759f41ff98178ffbe0d59dd0c19" sha1="6b49f09e0e360c1b14ec186dae026d01b35da3a3"/>
+	</game>
+</datafile>

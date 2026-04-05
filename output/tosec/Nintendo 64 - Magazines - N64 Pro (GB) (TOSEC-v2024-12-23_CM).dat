@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64 - Magazines - N64 Pro (GB)</name>
+		<description>Nintendo 64 - Magazines - N64 Pro (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="N64 Pro - Issue 3 (1997)(IDG Communications)(GB)[christmas edition]">
+		<description>N64 Pro - Issue 3 (1997)(IDG Communications)(GB)[christmas edition]</description>
+		<rom name="N64 Pro - Issue 3 (1997)(IDG Communications)(GB)[christmas edition].pdf" size="95036095" crc="70c17162" md5="39895a3e5d2608d33e9acd7a7f704e48" sha1="9f0a23599e71a711d8349881d5a511c8380b647d"/>
+	</game>
+</datafile>

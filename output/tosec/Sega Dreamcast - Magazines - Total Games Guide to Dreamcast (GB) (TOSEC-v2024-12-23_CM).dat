@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega Dreamcast - Magazines - Total Games Guide to Dreamcast (GB)</name>
+		<description>Sega Dreamcast - Magazines - Total Games Guide to Dreamcast (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Total Games Guide to Dreamcast (1999)(Paragon Publishing)(GB)[summer edition]">
+		<description>Total Games Guide to Dreamcast (1999)(Paragon Publishing)(GB)[summer edition]</description>
+		<rom name="Total Games Guide to Dreamcast (1999)(Paragon Publishing)(GB)[summer edition].pdf" size="74098525" crc="e8c15b18" md5="39d8434a160fc8f9e3f7dfb420099246" sha1="372f55d64ef3bf04ceeb09027caccc59d12a141f"/>
+	</game>
+</datafile>

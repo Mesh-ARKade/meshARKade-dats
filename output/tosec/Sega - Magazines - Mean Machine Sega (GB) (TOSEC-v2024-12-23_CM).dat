@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Magazines - Mean Machine Sega (GB)</name>
+		<description>Sega - Magazines - Mean Machine Sega (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Mean Machine Sega - No 01 (1992-10)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 01 (1992-10)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 01 (1992-10)(EMAP Images)(GB).pdf" size="129675783" crc="8ec74a9c" md5="c4274be3c6632769bc3bc3971a9346fa" sha1="4e88b7d9832ed68cf472ac07ad3f7b66a2de2aac"/>
+	</game>
+	<game name="Mean Machine Sega - No 01 (1992-10)(EMAP Images)(GB)[a]">
+		<description>Mean Machine Sega - No 01 (1992-10)(EMAP Images)(GB)[a]</description>
+		<rom name="Mean Machine Sega - No 01 (1992-10)(EMAP Images)(GB)[a].pdf" size="395464085" crc="124b06e4" md5="0a976e6a39be6804722748a92bcf6911" sha1="1a5887370fde293f1346149d146152b47e9cb8c8"/>
+	</game>
+	<game name="Mean Machine Sega - No 02 (1992-11)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 02 (1992-11)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 02 (1992-11)(EMAP Images)(GB).pdf" size="95804559" crc="e3ca95ac" md5="48971b440556529edac6d922ba74d44d" sha1="64c435a62071cdc8a23a955555c4c7f5249411da"/>
+	</game>
+	<game name="Mean Machine Sega - No 02 (1992-11)(EMAP Images)(GB)[a]">
+		<description>Mean Machine Sega - No 02 (1992-11)(EMAP Images)(GB)[a]</description>
+		<rom name="Mean Machine Sega - No 02 (1992-11)(EMAP Images)(GB)[a].pdf" size="350321328" crc="671d0179" md5="9043f94b6b77c380045c40d9a1b1c5a2" sha1="8d5411a5a2ada4321615035684307fef0f782dc4"/>
+	</game>
+	<game name="Mean Machine Sega - No 03 (1992-12)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 03 (1992-12)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 03 (1992-12)(EMAP Images)(GB).pdf" size="115249445" crc="46d15f70" md5="142d0cdca434bb481f77feb947946211" sha1="d4c70b485d7c9781b00e06dc9744bf3d281acc21"/>
+	</game>
+	<game name="Mean Machine Sega - No 03 (1992-12)(EMAP Images)(GB)[a]">
+		<description>Mean Machine Sega - No 03 (1992-12)(EMAP Images)(GB)[a]</description>
+		<rom name="Mean Machine Sega - No 03 (1992-12)(EMAP Images)(GB)[a].pdf" size="421699620" crc="b2088c81" md5="f6ee3bb3aa84f1d2f1a9a3f1450d257d" sha1="b90f71409c1f7472f5e002ada6623faa2b76c58c"/>
+	</game>
+	<game name="Mean Machine Sega - No 04 (1993-01)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 04 (1993-01)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 04 (1993-01)(EMAP Images)(GB).pdf" size="92479121" crc="65d0f424" md5="81f09ee73833bc9ad08c33e61ed91427" sha1="c07a00e74633d15ae9d84834158c9978cce9ec1f"/>
+	</game>
+	<game name="Mean Machine Sega - No 04 (1993-01)(EMAP Images)(GB)[a]">
+		<description>Mean Machine Sega - No 04 (1993-01)(EMAP Images)(GB)[a]</description>
+		<rom name="Mean Machine Sega - No 04 (1993-01)(EMAP Images)(GB)[a].pdf" size="326620445" crc="dadb35fd" md5="50618f6ce2463ef5c950d852aef0fce2" sha1="beaa5f7fbd163191dc00bd635b18ef1cced7036f"/>
+	</game>
+	<game name="Mean Machine Sega - No 05 (1993-02)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 05 (1993-02)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 05 (1993-02)(EMAP Images)(GB).pdf" size="75251301" crc="bce40234" md5="0c51ccc8afe60d04802f6c8f53e069b6" sha1="4bf57de50fcfa2636acec7993e938c36bbfa92b7"/>
+	</game>
+	<game name="Mean Machine Sega - No 06 (1993-03)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 06 (1993-03)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 06 (1993-03)(EMAP Images)(GB).pdf" size="77930456" crc="477ce7b1" md5="eb49dd124908267f09e6ac4a86d698a9" sha1="bbfc9bc55814404eb248d1d22ba91f30df05d2f1"/>
+	</game>
+	<game name="Mean Machine Sega - No 07 (1993-04)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 07 (1993-04)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 07 (1993-04)(EMAP Images)(GB).pdf" size="76265869" crc="21b06a72" md5="8959a83751bcce66321ff5369a1ff504" sha1="46505055cdf5bfa5895d3907bd578d794311909d"/>
+	</game>
+	<game name="Mean Machine Sega - No 08 (1993-05)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 08 (1993-05)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 08 (1993-05)(EMAP Images)(GB).pdf" size="81549467" crc="8cb72cfd" md5="6a7804c37c0bae1b88aa25a992d5fce2" sha1="c780e4bc4438f3db2fa57e89fefbb1b95d2af691"/>
+	</game>
+	<game name="Mean Machine Sega - No 09 (1993-07)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 09 (1993-07)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 09 (1993-07)(EMAP Images)(GB).pdf" size="84605056" crc="5b42f30c" md5="f7fdf64c236c3406f6d36bbf7f37cdce" sha1="c0d0301aad196185f6e3350aecae10d3578fbe4f"/>
+	</game>
+	<game name="Mean Machine Sega - No 10 (1993-08)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 10 (1993-08)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 10 (1993-08)(EMAP Images)(GB).pdf" size="80927449" crc="db1be2d8" md5="a90b1ffc1142cbc55129b04b6507f312" sha1="708067f0270b934a1289d7c831ccc9a24c334c91"/>
+	</game>
+	<game name="Mean Machine Sega - No 11 (1993-09)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 11 (1993-09)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 11 (1993-09)(EMAP Images)(GB).pdf" size="78995942" crc="97bbb960" md5="88d4f2c9177db64602d549f3cee8a535" sha1="970675f94be7b327f8a8f053e448a997d2b3b56d"/>
+	</game>
+	<game name="Mean Machine Sega - No 12 (1993-10)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 12 (1993-10)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 12 (1993-10)(EMAP Images)(GB).pdf" size="86575676" crc="880a6e57" md5="94c898f62a2ec9b197618826b6e3ebeb" sha1="3e12dfc79a15f6b3e20c6421a61effca3b169053"/>
+	</game>
+	<game name="Mean Machine Sega - No 13 (1993-11)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 13 (1993-11)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 13 (1993-11)(EMAP Images)(GB).pdf" size="77642454" crc="c633dcdd" md5="c953c9a83af08ff554d4648381e5dfc8" sha1="f7f4f43ffc36d30342301726500c2561049ad938"/>
+	</game>
+	<game name="Mean Machine Sega - No 14 (1993-12)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 14 (1993-12)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 14 (1993-12)(EMAP Images)(GB).pdf" size="98622346" crc="4fe7bf46" md5="c6e56b33f6837c67d32f1236406c089c" sha1="243b0c39aaff55c62af0e076e2104941250151d3"/>
+	</game>
+	<game name="Mean Machine Sega - No 15 (1994-01)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 15 (1994-01)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 15 (1994-01)(EMAP Images)(GB).pdf" size="99925250" crc="ffb0245f" md5="fecdc490bd6e0f19135920823b70346d" sha1="351225171c6c8bf372f389a2ae8cb8958f30b3ce"/>
+	</game>
+	<game name="Mean Machine Sega - No 16 (1994-02)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 16 (1994-02)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 16 (1994-02)(EMAP Images)(GB).pdf" size="77738454" crc="39cd849d" md5="be171b78ce9d2da4439d97a3b6703ff3" sha1="be0e75bd824e12385aa0ec8806d63770bc516399"/>
+	</game>
+	<game name="Mean Machine Sega - No 17 (1994-03)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 17 (1994-03)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 17 (1994-03)(EMAP Images)(GB).pdf" size="79139187" crc="17b60f3f" md5="82f2e4991c963fbc1845322cea029e28" sha1="3affe98b584b781040594b4ceba995b91f8628a2"/>
+	</game>
+	<game name="Mean Machine Sega - No 17 (1994-03)(EMAP Images)(GB)[a]">
+		<description>Mean Machine Sega - No 17 (1994-03)(EMAP Images)(GB)[a]</description>
+		<rom name="Mean Machine Sega - No 17 (1994-03)(EMAP Images)(GB)[a].pdf" size="300193337" crc="bba25ed7" md5="a9dd0d1c5e43d6aab8e03913ec90ce31" sha1="c7d3c1410ad6eefab7d847aa3bad8ba672c2baf6"/>
+	</game>
+	<game name="Mean Machine Sega - No 18 (1994-04)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 18 (1994-04)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 18 (1994-04)(EMAP Images)(GB).pdf" size="77844473" crc="44797de0" md5="3b7e331914fb13d3f718d757c36c7ada" sha1="8909fd34370b0584cd1c529ffdc9dfb4abbb6f5e"/>
+	</game>
+	<game name="Mean Machine Sega - No 19 (1994-05)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 19 (1994-05)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 19 (1994-05)(EMAP Images)(GB).pdf" size="78653962" crc="4d821f7b" md5="ba2ae681b629a5bcaa145b92d2f9f7f3" sha1="22c404fa3c45f7ffd77e28a27f415a6d6410c8cb"/>
+	</game>
+	<game name="Mean Machine Sega - No 20 (1994-06)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 20 (1994-06)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 20 (1994-06)(EMAP Images)(GB).pdf" size="65955666" crc="d9ab40eb" md5="450a1d68f085da53f42365449cc4b7f1" sha1="b1502e78b7f82b3cda9524119bae5c7dbaea37dd"/>
+	</game>
+	<game name="Mean Machine Sega - No 21 (1994-07)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 21 (1994-07)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 21 (1994-07)(EMAP Images)(GB).pdf" size="64382314" crc="d9cbf198" md5="26176a71eef9a16318070cad2e7aa34a" sha1="7802e770dcf49a88f58deca365862ca5109d5798"/>
+	</game>
+	<game name="Mean Machine Sega - No 22 (1994-08)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 22 (1994-08)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 22 (1994-08)(EMAP Images)(GB).pdf" size="65764450" crc="0a1da6aa" md5="aabdbc69697b023604ad509df8fa0b58" sha1="0db8f1137a91fb94d904b666615eb0ee7217da39"/>
+	</game>
+	<game name="Mean Machine Sega - No 23 (1994-09)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 23 (1994-09)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 23 (1994-09)(EMAP Images)(GB).pdf" size="65981656" crc="18929f79" md5="3652d26511b87f233aba36e97f36a559" sha1="3789eebd69c074d39a3f4c576f04ea7987628bbb"/>
+	</game>
+	<game name="Mean Machine Sega - No 24 (1994-10)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 24 (1994-10)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 24 (1994-10)(EMAP Images)(GB).pdf" size="77240143" crc="b5549a4b" md5="d982a9b90a51f9159774bf694fe3c44e" sha1="988bcb19d71c484a8e74924a1427ed3ea7a916e1"/>
+	</game>
+	<game name="Mean Machine Sega - No 25 (1994-11)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 25 (1994-11)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 25 (1994-11)(EMAP Images)(GB).pdf" size="74378838" crc="d6f8b649" md5="4a316025f3ab75eb6e82ce835f3ed7bf" sha1="5d6fac885f9429e0750faada6e618743af518703"/>
+	</game>
+	<game name="Mean Machine Sega - No 26 (1994-12)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 26 (1994-12)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 26 (1994-12)(EMAP Images)(GB).pdf" size="79942600" crc="80bf2d86" md5="8eb38af7a19432b3e0c641d8a4ec264a" sha1="d811d647c1ef82f7b3b2f7bd7c1f71c900a7458d"/>
+	</game>
+	<game name="Mean Machine Sega - No 27 (1995-01)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 27 (1995-01)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 27 (1995-01)(EMAP Images)(GB).pdf" size="84040878" crc="e80e58cc" md5="914a7cf2c34c348aa9893ee2bc8f156d" sha1="e1956341a0db9f25bf004d597fe789c1b2544645"/>
+	</game>
+	<game name="Mean Machine Sega - No 28 (1995-02)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 28 (1995-02)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 28 (1995-02)(EMAP Images)(GB).pdf" size="61693493" crc="3e68bc62" md5="0de905b001625e2b8c5f94f7f14242ed" sha1="eeaa63e54b41d56a40560dcea50d67f7251f1dd6"/>
+	</game>
+	<game name="Mean Machine Sega - No 29 (1995-03)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 29 (1995-03)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 29 (1995-03)(EMAP Images)(GB).pdf" size="64449556" crc="7d4dccd6" md5="aa18bd01f8dee448194e646ff806d79f" sha1="1944e7cdad91b80e8c50bcbbab29c919df6e9e91"/>
+	</game>
+	<game name="Mean Machine Sega - No 30 (1995-04)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 30 (1995-04)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 30 (1995-04)(EMAP Images)(GB).pdf" size="67375132" crc="317b8f14" md5="eae78f97cf2724326d72f5740259adc5" sha1="e4f987c9fcc3eac64328cc6baf3c1d5233b329b9"/>
+	</game>
+	<game name="Mean Machine Sega - No 31 (1995-05)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 31 (1995-05)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 31 (1995-05)(EMAP Images)(GB).pdf" size="63045631" crc="0e7bc195" md5="0e4b8acb73dbe42f03258514e8c1e7a0" sha1="618811040221236211453d410bcdc6311c59dd35"/>
+	</game>
+	<game name="Mean Machine Sega - No 32 (1995-06)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 32 (1995-06)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 32 (1995-06)(EMAP Images)(GB).pdf" size="73247681" crc="3b8649cf" md5="ca014d4c890073030e1642a547915cd1" sha1="d2b8bd0ef4f456445b79ed22dd3926f6cdce5420"/>
+	</game>
+	<game name="Mean Machine Sega - No 33 (1995-07)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 33 (1995-07)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 33 (1995-07)(EMAP Images)(GB).pdf" size="68376792" crc="795664bf" md5="e051d9408a4e90630a2cc20701e798c2" sha1="4549b2eecb4c87eddba8d3779c241d2631ff3bba"/>
+	</game>
+	<game name="Mean Machine Sega - No 34 (1995-08)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 34 (1995-08)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 34 (1995-08)(EMAP Images)(GB).pdf" size="66786598" crc="3215ad73" md5="53e3fbc2603a3991d68e34f9188d343f" sha1="97624ae9666eadd0a84c85a0bc054fcccaefda71"/>
+	</game>
+	<game name="Mean Machine Sega - No 35 (1995-09)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 35 (1995-09)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 35 (1995-09)(EMAP Images)(GB).pdf" size="67344566" crc="c7841732" md5="0db542e19cda559fb15c0007dbd605a1" sha1="789ef2f8cc9e3efabc6486c242e288638a72e4c6"/>
+	</game>
+	<game name="Mean Machine Sega - No 36 (1995-10)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 36 (1995-10)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 36 (1995-10)(EMAP Images)(GB).pdf" size="62037124" crc="257c0d19" md5="a1520ca90f1a7c443aa3755ba001d8bc" sha1="5468a6f4db546d0c0e8b363d0cca2aad8f0ea4f3"/>
+	</game>
+	<game name="Mean Machine Sega - No 37 (1995-11)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 37 (1995-11)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 37 (1995-11)(EMAP Images)(GB).pdf" size="62466669" crc="e5e3ff90" md5="fd29a36767a69a0832a24c2928ca446d" sha1="fac0f7d75bbe2db477d7421a07ef7c069a688c08"/>
+	</game>
+	<game name="Mean Machine Sega - No 38 (1995-12)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 38 (1995-12)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 38 (1995-12)(EMAP Images)(GB).pdf" size="64083721" crc="d322d33f" md5="57d858190e646a91fdd8f077be4e0393" sha1="19622c8048eec1db946f64b9272262446ea1973f"/>
+	</game>
+	<game name="Mean Machine Sega - No 39 (1996-01)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 39 (1996-01)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 39 (1996-01)(EMAP Images)(GB).pdf" size="63544878" crc="6fed0123" md5="1cd253853f80cf12432b272efda17704" sha1="4f2e7061fbfb557d911890ba8f4090235be8d082"/>
+	</game>
+	<game name="Mean Machine Sega - No 40 (1996-02)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 40 (1996-02)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 40 (1996-02)(EMAP Images)(GB).pdf" size="69516498" crc="094eb62c" md5="6bb16f1c44e807d9d21950aacb1ff24b" sha1="235d9fdeb64c73997ea42b21ffea61598b9e2a5f"/>
+	</game>
+	<game name="Mean Machine Sega - No 41 (1996-03)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 41 (1996-03)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 41 (1996-03)(EMAP Images)(GB).pdf" size="67981566" crc="9d7ca165" md5="34e1fcb6d8670f8fb76b03a5c5720ac4" sha1="60314adcd3f017c11614f0d560b00cab1529ab49"/>
+	</game>
+	<game name="Mean Machine Sega - No 42 (1996-04)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 42 (1996-04)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 42 (1996-04)(EMAP Images)(GB).pdf" size="68336356" crc="869b164e" md5="ccd748cd735f2f8722fdf7c5a9be072e" sha1="ea94754ef87e0fbed123dcd96149a1f2a0924dec"/>
+	</game>
+	<game name="Mean Machine Sega - No 43 (1996-05)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 43 (1996-05)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 43 (1996-05)(EMAP Images)(GB).pdf" size="68783787" crc="966ffb10" md5="b92795727d2863b49c169f80e214b9a4" sha1="4ee52c7f85fbbcc857ecb3e393b275f9c757fc70"/>
+	</game>
+	<game name="Mean Machine Sega - No 44 (1996-06)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 44 (1996-06)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 44 (1996-06)(EMAP Images)(GB).pdf" size="118318556" crc="9790e061" md5="d025439cf472ed862ad27a060b4a39b2" sha1="596a25b8168b53be040eb9a1534b889085000d69"/>
+	</game>
+	<game name="Mean Machine Sega - No 45 (1996-07)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 45 (1996-07)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 45 (1996-07)(EMAP Images)(GB).pdf" size="69313591" crc="5b258dee" md5="8938325f6f8792137cb4d0460cac39c0" sha1="9b160fbb6f6cb63f363c31caf771b7771f4ecced"/>
+	</game>
+	<game name="Mean Machine Sega - No 46 (1996-08)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 46 (1996-08)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 46 (1996-08)(EMAP Images)(GB).pdf" size="52910365" crc="4784afcc" md5="d83100c810c2e5f2c5449867f4c781fb" sha1="0e041032d9b9af1fa4a4b6bcd3adbf333dfe1adc"/>
+	</game>
+	<game name="Mean Machine Sega - No 47 (1996-09)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 47 (1996-09)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 47 (1996-09)(EMAP Images)(GB).pdf" size="70859823" crc="7b1543e9" md5="4314496a89abd18c0d5e0a6edfbd0247" sha1="ce1be74dae62a34d2ccb4aad131f73da21fa1f44"/>
+	</game>
+	<game name="Mean Machine Sega - No 48 (1996-10)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 48 (1996-10)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 48 (1996-10)(EMAP Images)(GB).pdf" size="60304187" crc="61707333" md5="b45498d87f156cea89381ce91e583210" sha1="7e7b7476f75f64ac25b5f982e1c19ec8e0a1ca93"/>
+	</game>
+	<game name="Mean Machine Sega - No 49 (1996-11)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 49 (1996-11)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 49 (1996-11)(EMAP Images)(GB).pdf" size="55174510" crc="53532d75" md5="ebb9ed4c584385976d1f4b81776264d5" sha1="818ec54898e21915b2e1e841b984b3d86a1bdfba"/>
+	</game>
+	<game name="Mean Machine Sega - No 50 (1996-12)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 50 (1996-12)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 50 (1996-12)(EMAP Images)(GB).pdf" size="61953584" crc="39ab4189" md5="ce5691fe5dac2aa1d5529c17fa1de5c9" sha1="29fefbf941ad33291e377bdde43b96ad9c87ee2f"/>
+	</game>
+	<game name="Mean Machine Sega - No 51 (1997-01)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 51 (1997-01)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 51 (1997-01)(EMAP Images)(GB).pdf" size="61125075" crc="beb8812b" md5="4358aeacb21bb5544acf45e176cf3c0d" sha1="e861b2c451fd0db710257482192a556766406782"/>
+	</game>
+	<game name="Mean Machine Sega - No 52 (1997-02)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 52 (1997-02)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 52 (1997-02)(EMAP Images)(GB).pdf" size="76236414" crc="2d019e01" md5="7267aaaa2d27f8c8c215c19537e1c739" sha1="39ef3372c2f38e51e4bb7cb8badb10a58da67ba6"/>
+	</game>
+	<game name="Mean Machine Sega - No 53 (1997-03)(EMAP Images)(GB)">
+		<description>Mean Machine Sega - No 53 (1997-03)(EMAP Images)(GB)</description>
+		<rom name="Mean Machine Sega - No 53 (1997-03)(EMAP Images)(GB).pdf" size="70618112" crc="9220ba6a" md5="e62c60edc3326639cd64688b3376505b" sha1="5bf95e2ef0a44fc871779ce365c4882efeacd161"/>
+	</game>
+</datafile>

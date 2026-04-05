@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Multi-format - Magazines - Web Designer (GB)</name>
+		<description>Multi-format - Magazines - Web Designer (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="Web Designer - Issue 095 (2004)(Highbury Entertainment)(GB)">
+		<description>Web Designer - Issue 095 (2004)(Highbury Entertainment)(GB)</description>
+		<rom name="Web Designer - Issue 095 (2004)(Highbury Entertainment)(GB).pdf" size="168210223" crc="583f5a13" md5="b186a2482c8de95629cff228dff6e27a" sha1="0b8725d520e5f08bdd7c9dd2c3ba31ad1774fe0c"/>
+	</game>
+	<game name="Web Designer - Issue 096 (2004)(Highbury Entertainment)(GB)">
+		<description>Web Designer - Issue 096 (2004)(Highbury Entertainment)(GB)</description>
+		<rom name="Web Designer - Issue 096 (2004)(Highbury Entertainment)(GB).pdf" size="163619205" crc="25968078" md5="1a38a606a476ac03d549ae6db7988db3" sha1="37cd78ec9b5ad4234f5829276afb39e7d18a25eb"/>
+	</game>
+	<game name="Web Designer - Issue 101 (2004)(Highbury Entertainment)(GB)">
+		<description>Web Designer - Issue 101 (2004)(Highbury Entertainment)(GB)</description>
+		<rom name="Web Designer - Issue 101 (2004)(Highbury Entertainment)(GB).pdf" size="172095766" crc="4a74da26" md5="26fc406fa16432d8709dd0659f8da7b2" sha1="927ca38eb777bea22f739fe44499688374474e59"/>
+	</game>
+	<game name="Web Designer - Issue 113 (2005)(Highbury Entertainment)(GB)">
+		<description>Web Designer - Issue 113 (2005)(Highbury Entertainment)(GB)</description>
+		<rom name="Web Designer - Issue 113 (2005)(Highbury Entertainment)(GB).pdf" size="29185340" crc="fbc5f08b" md5="9a5cdef855aa3e153616e6c15722108d" sha1="36e3aef56450a823a1a1417e6ca9b1d8cd02c7af"/>
+	</game>
+</datafile>

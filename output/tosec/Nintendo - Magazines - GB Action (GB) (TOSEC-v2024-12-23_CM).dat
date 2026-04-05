@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Magazines - GB Action (GB)</name>
+		<description>Nintendo - Magazines - GB Action (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="GB Action - Issue 03 (1992-08)(Europress)(GB)">
+		<description>GB Action - Issue 03 (1992-08)(Europress)(GB)</description>
+		<rom name="GB Action - Issue 03 (1992-08)(Europress)(GB).pdf" size="503880321" crc="bb97a670" md5="e334f09bde91bc373a9184e981e1841a" sha1="30b41696c145354fe1982497401e178261acaae6"/>
+	</game>
+</datafile>

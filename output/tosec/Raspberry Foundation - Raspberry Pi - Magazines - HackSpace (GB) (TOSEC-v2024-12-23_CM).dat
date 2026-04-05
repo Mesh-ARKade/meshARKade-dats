@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Raspberry Foundation - Raspberry Pi - Magazines - HackSpace (GB)</name>
+		<description>Raspberry Foundation - Raspberry Pi - Magazines - HackSpace (GB) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="HackSpace - Issue 001 (2017-12)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 001 (2017-12)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 001 (2017-12)(Raspberry Pi)(GB).pdf" size="32934168" crc="6e14c8cd" md5="bd8f4861b777ddeeab2204a37ec70a83" sha1="0c5e0a518ada33d57b507da50273f5e5be444787"/>
+	</game>
+	<game name="HackSpace - Issue 002 (2018-01)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 002 (2018-01)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 002 (2018-01)(Raspberry Pi)(GB).pdf" size="32090286" crc="629cf42e" md5="0627ee113cbd51f571b5522718a1f239" sha1="6a8ffe464f275f9f624cad65a0f199110ca5f1f6"/>
+	</game>
+	<game name="HackSpace - Issue 003 (2018-02)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 003 (2018-02)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 003 (2018-02)(Raspberry Pi)(GB).pdf" size="40030028" crc="f479b811" md5="631dca7562a935b174b17e82be030e5a" sha1="18a976724a8508ab6a61a60b4860297cc5f9c605"/>
+	</game>
+	<game name="HackSpace - Issue 004 (2018-03)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 004 (2018-03)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 004 (2018-03)(Raspberry Pi)(GB).pdf" size="38709663" crc="bda798d6" md5="4a13519fa7b5ba501ca0a079ad0bd474" sha1="bce922623e473312b3589c6e68afd5c2cac1c2bf"/>
+	</game>
+	<game name="HackSpace - Issue 005 (2018-04)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 005 (2018-04)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 005 (2018-04)(Raspberry Pi)(GB).pdf" size="48638325" crc="0c03ff51" md5="7384ad86f8ac94ebed89b63decf76280" sha1="0efb7c7a8e4795022da65a2ffff94bfafeccffa7"/>
+	</game>
+	<game name="HackSpace - Issue 006 (2018-05)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 006 (2018-05)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 006 (2018-05)(Raspberry Pi)(GB).pdf" size="52963728" crc="4ff7230d" md5="c729654d84e3d530775799fc16160ce1" sha1="25b2a964cd462fe676f6eed20bbbbde2a6c67ba8"/>
+	</game>
+	<game name="HackSpace - Issue 007 (2018-06)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 007 (2018-06)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 007 (2018-06)(Raspberry Pi)(GB).pdf" size="44580156" crc="25302459" md5="225c8f2c179183e25c54cea8c578600b" sha1="d9c0255c30392c71ae039980fef077db4978d563"/>
+	</game>
+	<game name="HackSpace - Issue 008 (2018-07)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 008 (2018-07)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 008 (2018-07)(Raspberry Pi)(GB).pdf" size="49332616" crc="4ab09aba" md5="fadc5a4c65fa1d81295e1b750474fb18" sha1="c6fd4817bd817b2a91525cabca98e4ddc1309166"/>
+	</game>
+	<game name="HackSpace - Issue 009 (2018-08)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 009 (2018-08)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 009 (2018-08)(Raspberry Pi)(GB).pdf" size="47835342" crc="cf5158e9" md5="5c6a8e03c8ca747f0330ea4600fa2b97" sha1="f587e2ad311e0ce15536ca299b0c2061ed50de72"/>
+	</game>
+	<game name="HackSpace - Issue 010 (2018-09)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 010 (2018-09)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 010 (2018-09)(Raspberry Pi)(GB).pdf" size="51495848" crc="08d15379" md5="9d0d27395cea0df2b067a343bbf33920" sha1="cee7671acd3104f6b200b4d647b116ba1398f081"/>
+	</game>
+	<game name="HackSpace - Issue 011 (2018-10)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 011 (2018-10)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 011 (2018-10)(Raspberry Pi)(GB).pdf" size="50586788" crc="0280dd09" md5="340157f54a77d67cffb7018a9e11203c" sha1="d2ea34e467f5641c5a6bcf6c8b6dd172fe245ce1"/>
+	</game>
+	<game name="HackSpace - Issue 012 (2018-11)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 012 (2018-11)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 012 (2018-11)(Raspberry Pi)(GB).pdf" size="51848531" crc="70bff088" md5="ef85df5f79182651c325293e19883674" sha1="9b37d8128381e1d0587ffcd8819a1d84f09682ed"/>
+	</game>
+	<game name="HackSpace - Issue 013 (2018-12)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 013 (2018-12)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 013 (2018-12)(Raspberry Pi)(GB).pdf" size="59230416" crc="2dba7127" md5="70def6d7d42e3911b904377afbcf848b" sha1="30d6f440a8b6bea142e13fc9f7b07723ffa32f8b"/>
+	</game>
+	<game name="HackSpace - Issue 014 (2019-01)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 014 (2019-01)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 014 (2019-01)(Raspberry Pi)(GB).pdf" size="50785062" crc="b59ffde8" md5="7c7810821cc6847d87ef2997497c2fa6" sha1="1a349bffffb3af82f4168dce6ea51cf5894d962e"/>
+	</game>
+	<game name="HackSpace - Issue 015 (2019-02)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 015 (2019-02)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 015 (2019-02)(Raspberry Pi)(GB).pdf" size="52030257" crc="dec5e327" md5="81541b175ee3adff6743729bc35dfadb" sha1="7cccb5be8488a0cdb1d8e491a3789d2eb37efc37"/>
+	</game>
+	<game name="HackSpace - Issue 016 (2019-03)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 016 (2019-03)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 016 (2019-03)(Raspberry Pi)(GB).pdf" size="50606887" crc="33c6a2bc" md5="01488f7048858ca162ed2ed6c857ac75" sha1="d5ba7b8a2390599e3cb9f4b727636c887483c0d5"/>
+	</game>
+	<game name="HackSpace - Issue 017 (2019-04)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 017 (2019-04)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 017 (2019-04)(Raspberry Pi)(GB).pdf" size="47292051" crc="fa89c576" md5="251d4c6443fd90796b3838b2b06bcba1" sha1="2114a12206be53b345b4fe68fda8ec216e44cac6"/>
+	</game>
+	<game name="HackSpace - Issue 018 (2019-05)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 018 (2019-05)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 018 (2019-05)(Raspberry Pi)(GB).pdf" size="51727209" crc="c016fbe7" md5="7ed1d245c9d2eefe7396b0951cdd77fe" sha1="459a1cde754b0896f351afd883dc73151038c469"/>
+	</game>
+	<game name="HackSpace - Issue 019 (2019-06)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 019 (2019-06)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 019 (2019-06)(Raspberry Pi)(GB).pdf" size="49653456" crc="efeea14f" md5="727cd308afaca8d596add11031ab793d" sha1="9633fcd4c8bcc3bd1f1d390e8debccc48a347079"/>
+	</game>
+	<game name="HackSpace - Issue 020 (2019-07)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 020 (2019-07)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 020 (2019-07)(Raspberry Pi)(GB).pdf" size="67410068" crc="50429863" md5="9892fffacddbf57d7a750e0e8fdb4f0b" sha1="e606ae0cf9d8cd76c9dada6eb5175bcb061cc200"/>
+	</game>
+	<game name="HackSpace - Issue 021 (2019-08)(Raspberry Pi)(GB)">
+		<description>HackSpace - Issue 021 (2019-08)(Raspberry Pi)(GB)</description>
+		<rom name="HackSpace - Issue 021 (2019-08)(Raspberry Pi)(GB).pdf" size="58819392" crc="4c111aea" md5="05b2c6e2ac1e5e2946ecbd482d999d32" sha1="df625d6e2512bb12add2e65e05887cb5cf87767a"/>
+	</game>
+</datafile>

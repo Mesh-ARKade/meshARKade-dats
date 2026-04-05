@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo 64 - Magazines - N64 Gamer (AU)</name>
+		<description>Nintendo 64 - Magazines - N64 Gamer (AU) (TOSEC-v2024-12-23)</description>
+		<category>TOSEC-PIX</category>
+		<version>2024-12-23</version>
+		<author>TOSEC-PIX</author>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
+	</header>
+	<game name="N64 Gamer - Issue 02 (1988-02)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 02 (1988-02)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 02 (1988-02)(Next Publishing)(AU).pdf" size="220128597" crc="4b345bd3" md5="a0ab2e0c194cdc178536b8389f7ba9ad" sha1="8ef4edb479407c6fe1b5dad7e900f05f0d1f2722"/>
+	</game>
+	<game name="N64 Gamer - Issue 03 (1998-03)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 03 (1998-03)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 03 (1998-03)(Next Publishing)(AU).pdf" size="195369367" crc="d9920c18" md5="403ef929f36410f3cb82a95f4a125911" sha1="322d051ffacced04ef2408f1ce06550ed7ec117d"/>
+	</game>
+	<game name="N64 Gamer - Issue 05 (1998-07)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 05 (1998-07)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 05 (1998-07)(Next Publishing)(AU).pdf" size="175272435" crc="17d15a7d" md5="37b317f8a24af588fae5fe80d84953d7" sha1="3d21f7e6e44012fc52de79b738faf7167eb9de0f"/>
+	</game>
+	<game name="N64 Gamer - Issue 06 (1998-08)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 06 (1998-08)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 06 (1998-08)(Next Publishing)(AU).pdf" size="209737355" crc="24f0023d" md5="1807659706217549acba7b8efd97aef7" sha1="114c1332e6ab6b8b958f204bf0356fdd3bb88cdc"/>
+	</game>
+	<game name="N64 Gamer - Issue 07 (1998-09)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 07 (1998-09)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 07 (1998-09)(Next Publishing)(AU).pdf" size="280599051" crc="52256f2d" md5="1bd94b7ae78f663c2cf28f1c067494f8" sha1="7c0d1c9999b94e8319a2deb8f6c1d705f385732d"/>
+	</game>
+	<game name="N64 Gamer - Issue 08 (1998-10)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 08 (1998-10)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 08 (1998-10)(Next Publishing)(AU).pdf" size="172572258" crc="d17068a3" md5="d0caf8f4b4ceacf875dc0a6fd1ab0f86" sha1="aa621a9f231c739e45998b990b18399004c555ac"/>
+	</game>
+	<game name="N64 Gamer - Issue 09 (1998-11)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 09 (1998-11)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 09 (1998-11)(Next Publishing)(AU).pdf" size="182421646" crc="574e7dbf" md5="3c31a77c4ce23918f0f80af8b96cad89" sha1="c74653c28421b732490780563c5c4c979f841639"/>
+	</game>
+	<game name="N64 Gamer - Issue 10 (1998-12)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 10 (1998-12)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 10 (1998-12)(Next Publishing)(AU).pdf" size="191798234" crc="581db1f0" md5="a23482ca2a41269da287441d6a6897f7" sha1="1222b1bf27f94aadfe239f8ee9fef1c9dd07c2cf"/>
+	</game>
+	<game name="N64 Gamer - Issue 11 (1999-01)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 11 (1999-01)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 11 (1999-01)(Next Publishing)(AU).pdf" size="190019526" crc="96ba86ee" md5="7a9053af001586b24a1d868685f47f5a" sha1="ce355874dfce3a73aa1d11cee0712e66f6504d68"/>
+	</game>
+	<game name="N64 Gamer - Issue 12 (1999-02)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 12 (1999-02)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 12 (1999-02)(Next Publishing)(AU).pdf" size="162387221" crc="fe939b62" md5="ba94eedfd684eabced1db2d7508c0bdb" sha1="4f469f1a745531052c930cd1cbc2a089e0a68c2c"/>
+	</game>
+	<game name="N64 Gamer - Issue 13 (1999-03)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 13 (1999-03)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 13 (1999-03)(Next Publishing)(AU).pdf" size="194720436" crc="139589fd" md5="38e8e5e39ba28503c8142721816ef65f" sha1="1f9d30637df9aadf8e8600f5ba6c94d9ffc5d05d"/>
+	</game>
+	<game name="N64 Gamer - Issue 14 (1999-04)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 14 (1999-04)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 14 (1999-04)(Next Publishing)(AU).pdf" size="200602484" crc="16d4e5af" md5="5d1afa6359afb4abf676c31b28dd6ddf" sha1="be0842cc41fdbecb13a0fc39e8f69dd0adbabc95"/>
+	</game>
+	<game name="N64 Gamer - Issue 15 (1999-05)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 15 (1999-05)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 15 (1999-05)(Next Publishing)(AU).pdf" size="152100426" crc="4bca98f5" md5="43c988d807c2572c508f43cb9c16be6a" sha1="5e95f87f24835f3b19dc47ecfcf64cf9412a432a"/>
+	</game>
+	<game name="N64 Gamer - Issue 16 (1999-06)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 16 (1999-06)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 16 (1999-06)(Next Publishing)(AU).pdf" size="158853935" crc="9b8401b9" md5="c0832ea61fa34f3c5895baa8a59a30bb" sha1="72f99e8fbba32d7b1be7979855b661f79852ac50"/>
+	</game>
+	<game name="N64 Gamer - Issue 17 (1999-07)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 17 (1999-07)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 17 (1999-07)(Next Publishing)(AU).pdf" size="196439330" crc="02261f37" md5="2f7193bf12369e40dd7cb6117a84a48d" sha1="ea78573ad8c62002ff442bbe0ffdde59dee495d7"/>
+	</game>
+	<game name="N64 Gamer - Issue 18 (1999-08)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 18 (1999-08)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 18 (1999-08)(Next Publishing)(AU).pdf" size="168647146" crc="87fffa6c" md5="9e23cfaadd39988a3fdcbc9bfb0b0dce" sha1="493390a0de5579c8fe3a2856016755190f8bc142"/>
+	</game>
+	<game name="N64 Gamer - Issue 19 (1999-09)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 19 (1999-09)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 19 (1999-09)(Next Publishing)(AU).pdf" size="168438201" crc="8345d30c" md5="e84ffa4b631866ea5bf32c08021f4db1" sha1="fe6bd3d19622cf0ecd71a8e69655af96a3066ffc"/>
+	</game>
+	<game name="N64 Gamer - Issue 20 (1999-10)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 20 (1999-10)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 20 (1999-10)(Next Publishing)(AU).pdf" size="169071558" crc="9cdb8947" md5="35ddca4b45eea15bcfaeb86f5906e57f" sha1="395d8507c19bb058598b209586ce4715901406e2"/>
+	</game>
+	<game name="N64 Gamer - Issue 21 (1999-11)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 21 (1999-11)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 21 (1999-11)(Next Publishing)(AU).pdf" size="171381918" crc="c5f38906" md5="ac776e3f525a7a7c55b6aa49f68013e7" sha1="5513bce645e160f8753c7d022cd7aae1896c2bf5"/>
+	</game>
+	<game name="N64 Gamer - Issue 22 (1999-12)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 22 (1999-12)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 22 (1999-12)(Next Publishing)(AU).pdf" size="177852134" crc="d6faa2af" md5="9852727d6602dd17fcc0b57327a37289" sha1="838ab02ed4eb1a0298b2431703cb2afecd7dfecc"/>
+	</game>
+	<game name="N64 Gamer - Issue 22 (1999-12)(Next Publishing)(AU)[a]">
+		<description>N64 Gamer - Issue 22 (1999-12)(Next Publishing)(AU)[a]</description>
+		<rom name="N64 Gamer - Issue 22 (1999-12)(Next Publishing)(AU)[a].pdf" size="203426458" crc="336452cf" md5="8daa4b38087a334fb597a66db612cf34" sha1="78d4676f099daeb40a9ec006a94644eba3217730"/>
+	</game>
+	<game name="N64 Gamer - Issue 23 (2000-01)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 23 (2000-01)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 23 (2000-01)(Next Publishing)(AU).pdf" size="176677109" crc="55590a4d" md5="a5bccd6a444631cb24d10e120911a72f" sha1="13bcbeee546bf28fbfc7480a8dc827e5ae9012fe"/>
+	</game>
+	<game name="N64 Gamer - Issue 23 (2000-01)(Next Publishing)(AU)[a]">
+		<description>N64 Gamer - Issue 23 (2000-01)(Next Publishing)(AU)[a]</description>
+		<rom name="N64 Gamer - Issue 23 (2000-01)(Next Publishing)(AU)[a].pdf" size="236914620" crc="0c8ca6d9" md5="b04deced44fa65ac6c3112275f1c5b43" sha1="56ba3d248e8b51de913203095357940e54b30c03"/>
+	</game>
+	<game name="N64 Gamer - Issue 24 (2000-02)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 24 (2000-02)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 24 (2000-02)(Next Publishing)(AU).pdf" size="178452175" crc="0e42c97b" md5="60a87706f74d03b07eda72bddbe6e789" sha1="b6df96b204b18b88bde306a4b3ed1ae2964e1a7a"/>
+	</game>
+	<game name="N64 Gamer - Issue 25 (2000-03)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 25 (2000-03)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 25 (2000-03)(Next Publishing)(AU).pdf" size="160839777" crc="1b309772" md5="a946a622351481db76932b6ef857e5b1" sha1="5322711bdb05284a8482a08571573ca292184110"/>
+	</game>
+	<game name="N64 Gamer - Issue 26 (2000-04)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 26 (2000-04)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 26 (2000-04)(Next Publishing)(AU).pdf" size="184520008" crc="d9198db6" md5="9d4212a476c57b77e092b8e62f4224cb" sha1="7c968d73f46e0450d8e421373624cf1a2c2871d8"/>
+	</game>
+	<game name="N64 Gamer - Issue 27 (2000-05)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 27 (2000-05)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 27 (2000-05)(Next Publishing)(AU).pdf" size="178128941" crc="5944afd2" md5="331e126260d6743a31f72fa7cab76330" sha1="cbf603d9d018940ea86671fd6f261eeaa56ecd62"/>
+	</game>
+	<game name="N64 Gamer - Issue 28 (2000-06)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 28 (2000-06)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 28 (2000-06)(Next Publishing)(AU).pdf" size="213905329" crc="405e77fc" md5="415786c023a7d8377c0ddc2a29b52d49" sha1="a846a5083ca51e3b3c4e73f421b2a4ed6fd7612e"/>
+	</game>
+	<game name="N64 Gamer - Issue 29 (2000-07)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 29 (2000-07)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 29 (2000-07)(Next Publishing)(AU).pdf" size="175187170" crc="9f3bfa6c" md5="5d9ede1abdfff10f873744dc9d8b6c5a" sha1="e5945a5b4183b7e777e3dbee25fa7c180ca7283b"/>
+	</game>
+	<game name="N64 Gamer - Issue 30 (2000-08)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 30 (2000-08)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 30 (2000-08)(Next Publishing)(AU).pdf" size="216375544" crc="8740fcd9" md5="aa1a0570d1214b9bd9441bae2b288b35" sha1="611f9cbd623e23c3c3574af493a3a46fa05e0a07"/>
+	</game>
+	<game name="N64 Gamer - Issue 31 (2000-09)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 31 (2000-09)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 31 (2000-09)(Next Publishing)(AU).pdf" size="164018821" crc="11cfcd8b" md5="49d4174058b6ff4e8e0deff87a7b646a" sha1="8523d20b9227e86dd7d565a37097237a6343b6ff"/>
+	</game>
+	<game name="N64 Gamer - Issue 32 (2000-10)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 32 (2000-10)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 32 (2000-10)(Next Publishing)(AU).pdf" size="167359837" crc="d1ff70ab" md5="c186e14c3abd10ac1414711ea2def3d7" sha1="5c33883e513d99a00b857f6b0aef4edf3c52c2b8"/>
+	</game>
+	<game name="N64 Gamer - Issue 33 (2000-11)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 33 (2000-11)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 33 (2000-11)(Next Publishing)(AU).pdf" size="149315306" crc="06b0a32c" md5="53800c6747597c0133714058046931c2" sha1="0c639996d6e9730d3014107c578421fdba9db8e2"/>
+	</game>
+	<game name="N64 Gamer - Issue 34 (2000-12)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 34 (2000-12)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 34 (2000-12)(Next Publishing)(AU).pdf" size="180747327" crc="5a1bd422" md5="dd8861a5b3f91a78e7aa075b8e1d4948" sha1="fe8d11028abd206955cd66ef6dd733dc7365cde5"/>
+	</game>
+	<game name="N64 Gamer - Issue 35 (2001-01)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 35 (2001-01)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 35 (2001-01)(Next Publishing)(AU).pdf" size="148532040" crc="0715c63a" md5="403dc9d99c4c028d46872267e6cd440e" sha1="707152587e0f0ba4c827b9dddb04add4c2979122"/>
+	</game>
+	<game name="N64 Gamer - Issue 36 (2001-02)(Next Publishing)(AU)">
+		<description>N64 Gamer - Issue 36 (2001-02)(Next Publishing)(AU)</description>
+		<rom name="N64 Gamer - Issue 36 (2001-02)(Next Publishing)(AU).pdf" size="153354050" crc="5f1a2371" md5="6cabb910257389952df820d4f35e236b" sha1="407e532352e82ee1eaf6365337824bd19fb4b613"/>
+	</game>
+	<game name="N64 Solutions - Volume 1 (1999)(Next Publishing)(AU)">
+		<description>N64 Solutions - Volume 1 (1999)(Next Publishing)(AU)</description>
+		<rom name="N64 Solutions - Volume 1 (1999)(Next Publishing)(AU).pdf" size="202351723" crc="cf8d0cad" md5="b49a5203994712ce8d887439755bfb4a" sha1="1e8b3a936be789676506151ed209c354b55c4992"/>
+	</game>
+</datafile>
