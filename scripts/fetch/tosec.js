@@ -65,45 +65,49 @@ async function findLatestRelease() {
 
   const html = await response.text();
 
-  // Look for download links matching the TOSEC DAT pack pattern.
-  // The page uses <a> tags with href pointing to the download.
-  // We look for the date pattern (YYYY-MM-DD) in the link text or href.
-  const datePattern = /(\d{4}-\d{2}-\d{2})/g;
-  const linkPattern = /href="([^"]*?download[^"]*?)"/gi;
-
-  // Extract all download links
-  const links = [];
-  let linkMatch;
-  while ((linkMatch = linkPattern.exec(html)) !== null) {
-    links.push(linkMatch[1]);
+  // The TOSEC downloads page lists releases as category links, e.g.:
+  //   /downloads/category/59-2025-03-13
+  // Each slug ends with the release date. We find the one with the latest date.
+  const categoryPattern = /href="(\/downloads\/category\/\d+-(\d{4}-\d{2}-\d{2}))"/gi;
+  const categories = [];
+  let catMatch;
+  while ((catMatch = categoryPattern.exec(html)) !== null) {
+    categories.push({ path: catMatch[1], date: catMatch[2] });
   }
 
-  // Find the most recent date mentioned on the page
-  const dates = [];
-  let dateMatch;
-  while ((dateMatch = datePattern.exec(html)) !== null) {
-    dates.push(dateMatch[1]);
-  }
-
-  if (dates.length === 0) {
-    console.log('[tosec] Could not find any version dates on the downloads page.');
+  if (categories.length === 0) {
+    console.log('[tosec] Could not find any release categories on the downloads page.');
     return null;
   }
 
-  // Sort dates descending to get the latest
-  dates.sort().reverse();
-  const latestVersion = dates[0];
+  // Sort by date descending and take the most recent
+  categories.sort((a, b) => b.date.localeCompare(a.date));
+  const latest = categories[0];
+  console.log(`[tosec] Latest category: ${latest.path} (${latest.date})`);
 
-  // Try to find a download link that contains this date
-  const matchingLink = links.find((link) => link.includes(latestVersion));
+  // --- Step 2: Visit the release category page to find the zip download link ---
+  // The category page has a link like:
+  //   /downloads/category/59-2025-03-13?download=117:tosec-dat-pack-complete-...
+  const categoryUrl = `https://www.tosecdev.org${latest.path}`;
+  console.log(`[tosec] Fetching release page: ${categoryUrl}`);
+  const categoryResponse = await fetch(categoryUrl);
+  if (!categoryResponse.ok) {
+    throw new Error(`Failed to fetch TOSEC release page: ${categoryResponse.status}`);
+  }
 
-  // If no direct link found, use the main download page — the curator
-  // may need to adjust this if TOSEC changes their page structure.
-  const downloadUrl = matchingLink
-    ? (matchingLink.startsWith('http') ? matchingLink : `https://www.tosecdev.org${matchingLink}`)
-    : TOSEC_DOWNLOADS_URL;
+  const categoryHtml = await categoryResponse.text();
 
-  return { version: latestVersion, downloadUrl };
+  // Find the ?download= link — this is the actual zip download trigger
+  const downloadPattern = /href="(\/downloads\/category\/[^"]*\?download=[^"]+)"/i;
+  const downloadMatch = downloadPattern.exec(categoryHtml);
+
+  if (!downloadMatch) {
+    console.log('[tosec] Could not find a download link on the release page.');
+    return null;
+  }
+
+  const downloadUrl = `https://www.tosecdev.org${downloadMatch[1]}`;
+  return { version: latest.date, downloadUrl };
 }
 
 /**

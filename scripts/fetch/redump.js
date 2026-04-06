@@ -35,8 +35,14 @@ const FRESH1G1R_REPO = 'https://github.com/UnluckyForSome/Fresh1G1R.git';
 /**
  * The directory inside Fresh1G1R that contains raw, unfiltered Redump DATs.
  * This is the only directory we sparse-checkout — everything else is ignored.
+ *
+ * Structure inside Fresh1G1R:
+ *   daily-virgin-dat/
+ *     no-intro/   ← No-Intro DATs (we get these from Dat-o-Matic instead)
+ *     redump/     ← Raw Redump DATs (60 systems, this is what we want)
  */
 const RAW_DAT_DIR = 'daily-virgin-dat';
+const REDUMP_SUBDIR = 'daily-virgin-dat/redump';
 
 /**
  * Run a shell command synchronously and return stdout as a string.
@@ -96,24 +102,26 @@ export async function fetchRedump(outputDir) {
 
     // --- Step 2: Add the remote and fetch (shallow, depth=1) ---
     // depth=1 means we only fetch the latest commit — no history needed.
-    // This is a ~50MB fetch instead of the full repo history.
+    // We explicitly fetch `main` by name so we can reference it as
+    // origin/main — checking out FETCH_HEAD in detached state doesn't
+    // work correctly with sparse checkout (leaves the working tree empty).
     console.log('[redump] Fetching from Fresh1G1R (shallow, sparse)...');
     run(`git remote add origin ${FRESH1G1R_REPO}`, { cwd: tmpDir });
-    run('git fetch --depth=1 origin', { cwd: tmpDir });
+    run('git fetch --depth=1 origin main', { cwd: tmpDir });
 
-    // --- Step 3: Checkout the default branch ---
-    // After fetch, we check out the remote's HEAD. The sparse checkout
-    // config means only daily-virgin-dat/ will appear on disk.
-    run('git checkout FETCH_HEAD', { cwd: tmpDir });
+    // --- Step 3: Checkout via origin/main ---
+    // Using origin/main (not FETCH_HEAD) ensures sparse checkout correctly
+    // materializes only the configured paths (daily-virgin-dat/) on disk.
+    run('git checkout origin/main', { cwd: tmpDir });
 
     // --- Step 4: Copy .dat files to the output directory ---
-    // The raw DATs live in daily-virgin-dat/ — we copy every .dat file
-    // from there into our output directory (flat, no subdirectories).
-    const srcDir = path.join(tmpDir, RAW_DAT_DIR);
+    // The raw Redump DATs live in daily-virgin-dat/redump/ — we copy
+    // every .dat file from there into our output directory (flat).
+    const srcDir = path.join(tmpDir, REDUMP_SUBDIR);
 
     if (!fs.existsSync(srcDir)) {
       throw new Error(
-        `Expected directory "${RAW_DAT_DIR}" not found in Fresh1G1R clone. ` +
+        `Expected directory "${REDUMP_SUBDIR}" not found in Fresh1G1R clone. ` +
         'The repo structure may have changed.'
       );
     }
@@ -126,7 +134,7 @@ export async function fetchRedump(outputDir) {
 
     if (datFiles.length === 0) {
       throw new Error(
-        `No .dat files found in "${RAW_DAT_DIR}". ` +
+        `No .dat files found in "${REDUMP_SUBDIR}". ` +
         'Fresh1G1R may have restructured or the fetch failed silently.'
       );
     }
