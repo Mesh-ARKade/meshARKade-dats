@@ -351,8 +351,12 @@ export async function relay({ source, inputDir, token }) {
     run(`git commit -m "${commitMsg}"`, { cwd: tmpDir });
 
     // --- Step 6: Push the branch ---
+    // We force-push so that if a stale branch with this name exists on the
+    // remote (e.g., from a closed PR on a previous run today), we overwrite
+    // it cleanly. This is always safe because we start from a fresh clone
+    // and the branch is fully recomputed from current data.
     console.log(`[relay] Pushing branch: ${branchName}`);
-    run(`git push origin "${branchName}"`, { cwd: tmpDir });
+    run(`git push --force origin "${branchName}"`, { cwd: tmpDir });
 
     // --- Step 7: Open a PR via the `gh` CLI ---
     // We use `gh pr create` with the PAT set as GH_TOKEN so it authenticates.
@@ -386,14 +390,31 @@ export async function relay({ source, inputDir, token }) {
     ].join('\n');
 
     // The `gh pr create` command returns the PR URL on success.
-    // We pass the body via stdin to avoid shell escaping issues.
-    const prUrl = run(
-      `gh pr create --repo "${TARGET_REPO}" --title "${prTitle}" --body "${prBody}" --head "${branchName}"`,
-      {
-        cwd: tmpDir,
-        env: { ...process.env, GH_TOKEN: githubToken },
+    // If a PR already exists for this branch (e.g., the TOSEC PR is still open
+    // from a previous run), gh pr create will fail — we catch that and get the
+    // existing PR URL instead so the caller still has a usable reference.
+    let prUrl;
+    try {
+      prUrl = run(
+        `gh pr create --repo "${TARGET_REPO}" --title "${prTitle}" --body "${prBody}" --head "${branchName}"`,
+        {
+          cwd: tmpDir,
+          env: { ...process.env, GH_TOKEN: githubToken },
+        }
+      );
+    } catch (prErr) {
+      // If there's already an open PR for this branch, retrieve its URL
+      if (prErr.message.includes('already exists')) {
+        console.log(`[relay] PR already exists for ${branchName}, fetching URL...`);
+        prUrl = run(
+          `gh pr view --repo "${TARGET_REPO}" "${branchName}" --json url --jq .url`,
+          { cwd: tmpDir, env: { ...process.env, GH_TOKEN: githubToken } }
+        );
+        console.log(`[relay] Existing PR updated with force-pushed branch: ${prUrl}`);
+      } else {
+        throw prErr;
       }
-    );
+    }
 
     console.log(`[relay] PR created: ${prUrl}`);
     return prUrl;
