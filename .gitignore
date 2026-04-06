@@ -1,8 +1,8 @@
 node_modules/
+output/
 dats/
 *.zip
 *.7z
 *.rar
 .DS_Store
 Thumbs.db
-gha-log.txt

@@ -1,14 +1,64 @@
 # meshARKade-dats
 
-Curator's local toolbelt for the Mesh ARKade firehose pipeline. Downloads, extracts, sorts, and validates raw DAT files from primary sources before they enter `meshARKade-database`.
+Automated DAT pipeline for [Mesh ARKade](https://github.com/Mesh-ARKade) — fetches, validates, and relays DAT files from No-Intro, TOSEC, and Redump to `meshARKade-database` for compilation into signed catalog artifacts.
 
-**This repo is local only — no GitHub Actions, no automated scraping.**
+## How It Works
+
+A daily GitHub Actions cron job runs three fetch jobs in parallel, then relays the results:
+
+```
+┌──────────────┐  ┌──────────────┐  ┌──────────────┐
+│ No-Intro     │  │ TOSEC        │  │ Redump       │
+│ (Playwright) │  │ (version chk)│  │ (Fresh1G1R)  │
+└──────┬───────┘  └──────┬───────┘  └──────┬───────┘
+       │                 │                  │
+       │    (fetch → extract → validate)   │
+       │                 │                  │
+       └────────┬────────┴──────────┬───────┘
+                │                   │
+                ▼                   ▼
+           ┌─────────────────────────────┐
+           │           relay             │
+           │  (PR to meshARKade-database │
+           │   per source)               │
+           └─────────────────────────────┘
+```
+
+### Sources
+
+| Source | Method | Skip Logic |
+|--------|--------|------------|
+| **No-Intro** | Playwright automates [Dat-o-Matic](https://datomatic.no-intro.org/?page=download&op=daily) form — applies filters, requests archive, downloads zip | Relay skips PR if DATs unchanged |
+| **TOSEC** | Parses [tosecdev.org](https://www.tosecdev.org/downloads/category/22-datfiles) for latest release date, compares against `versions.json` | Skips download entirely if version matches |
+| **Redump** | Sparse git checkout of [Fresh1G1R](https://github.com/UnluckyForSome/Fresh1G1R) `daily-virgin-dat/` directory | Relay skips PR if DATs unchanged |
+
+### No-Intro Filter Settings
+
+The Playwright fetcher applies these filters on Dat-o-Matic:
+
+- **Main** ✓
+- **Aftermarket** ✓
+- **Unofficial** ✓
+- **Non-Redump** ✓
+- **Redump BIOS** ✓
+- All others off
+
+### Relay
+
+For each source that produced new DATs, `relay.js` opens a PR on `meshARKade-database`:
+- Shallow clones the database repo using `MESH_DATABASE_TOKEN`
+- Copies validated DATs into `input/{source}/`
+- Opens a PR: `update-dats/{source}-{YYYY-MM-DD}`
+- If the DAT contents are identical to what's already in the database, the PR is skipped
+
+---
 
 ## Prerequisites
 
-- **Node.js v24** (see `.nvmrc`)
-- **7-Zip** — required for `.7z` and `.rar` archives (install from https://7-zip.org)
-- **Antigravity** — optional, used to assist with downloads (see below)
+- **Node.js 22** (LTS)
+- **Playwright** — installed automatically (`npx playwright install chromium --with-deps`)
+- **Git** — required for the Redump fetcher (sparse checkout)
+- **7-Zip** — only needed if processing `.7z` or `.rar` archives locally
 
 ## Setup
 
@@ -16,77 +66,49 @@ Curator's local toolbelt for the Mesh ARKade firehose pipeline. Downloads, extra
 npm install
 ```
 
-## Curator Workflow
+## Local Development
 
-### Step 1 — Download DATs
+You can run any fetch script locally for testing:
 
-1. Download the source dat files from...
-
-- Download https://datomatic.no-intro.org/?page=download&op=daily ,
-at the top of the page set the filters as follows:
-Type: Standard Dat
-    - with filter set:
-        - Main ✓
-        - Aftermarket ✓
-        - Unofficial ✓
-        - Non-Redump ✓
-        - Redump BIOS ✓
-        - All Others Toggle Off
-
-Click the "Request" button then wait for the page to load the "Download" button. Click that to get the `.zip` archive.
-
-### Step 2 — Collect
-
-Place your archives in the source-specific staging folders:
-- `dats/no-intro/*.zip`
-- `dats/tosec/*.zip`
-- `dats/redump/*.zip`
-
-### Step 3 — Ingest or Relay
-
-**Option A: Automated Relay (Recommended)**
-Push your archives to a dedicated branch, and the Relay GitHub Action will handle everything:
-1. Create a branch: `git checkout -b upload-dats/your-update-name`
-2. Commit your archives into `dats/`
-3. Push: `git push -u origin upload-dats/your-update-name`
-
-**Option B: Local Processing**
-If you want to process and validate locally before pushing:
 ```bash
-npm run process
+# Fetch No-Intro (requires Playwright + Chromium installed)
+npx playwright install chromium
+node scripts/fetch/no-intro.js output/raw/no-intro
+
+# Fetch TOSEC (checks version, skips if unchanged)
+node scripts/fetch/tosec.js output/raw/tosec versions.json
+
+# Fetch Redump from Fresh1G1R
+node scripts/fetch/redump.js output/raw/redump
+
+# Extract an archive
+node scripts/extract.js path/to/archive.zip .
+
+# Validate DATs in a directory
+node scripts/validate.js output/no-intro
+
+# Relay to meshARKade-database (requires MESH_DATABASE_TOKEN env var)
+MESH_DATABASE_TOKEN=ghp_xxx node scripts/relay.js --source redump --input output/redump
+
+# Run tests
+npm test
 ```
-This will extract, validate, and move "clean" files to the `output/` directory and cleanup the staging area.
 
-### Step 4 — Review & Ship
-Once processed:
-- If using **Relay (A)**: A PR will be opened on `meshARKade-database` automatically.
-- If using **Local (B)**: Copy the files to `meshARKade-database/input/` and open a PR.
-  ```bash
-  # Example for local hand-off
-  cp -r ../meshARKade-dats/output/no-intro/* input/no-intro/
-  git checkout -b update-dats/no-intro-2026-04-05
-  git add input/
-  git commit -m "feat: update No-Intro DATs"
-  git push -u origin update-dats/no-intro-2026-04-05
-  ```
+## Scripts
 
----
-
-## No-Intro Dat-o-Matic Filter Settings
-
-When downloading manually at https://www.no-intro.org/dat-o-matic/download_pack.php:
-
-- **Pack**: Love Pack (Standard)
-- **Format**: XML
-- **Header variant**: No-Intro
-
-The Love Pack includes all systems. Individual system DATs are also available if you only need specific ones.
-
----
+| Command | Description |
+|---------|-------------|
+| `npm run fetch:no-intro` | Fetch No-Intro daily DAT pack via Playwright |
+| `npm run fetch:tosec` | Fetch TOSEC DATs (skips if version unchanged) |
+| `npm run fetch:redump` | Fetch raw Redump DATs from Fresh1G1R |
+| `npm run extract -- <archive>` | Extract archive to `output/{source}/` |
+| `npm run validate -- <dir>` | Validate DATs in a directory |
+| `npm run relay -- --source <name> --input <dir>` | Relay DATs to meshARKade-database |
+| `npm test` | Run test suite |
 
 ## Source Detection
 
-The extract script detects the source from the archive filename:
+The extract script detects the DAT source from the archive filename:
 
 | Filename contains | Extracted to |
 |-------------------|-------------|
@@ -95,32 +117,26 @@ The extract script detects the source from the archive filename:
 | `tosec` | `output/tosec/` |
 | `mame` | `output/mame/` |
 
-If the filename doesn't match any known source, extraction fails with an `Unknown source` error. Rename the file to include the source name before running extract.
+## GitHub Secrets
 
----
+| Secret | Repo | Purpose |
+|--------|------|---------|
+| `MESH_DATABASE_TOKEN` | meshARKade-dats | Fine-grained PAT for cross-repo push + PR on meshARKade-database |
+| `MESH_SIGNING_KEY` | meshARKade-database | Ed25519 private key for signing catalog artifacts |
 
-## Scripts
+## Version Tracking
 
-| Command | Description |
-|---------|-------------|
-| `npm run extract -- <archive>` | Extract archive to `output/{source}/` |
-| `npm run validate` | Validate all DATs in `output/` |
-| `npm test` | Run test suite |
+`versions.json` tracks the last-downloaded version for sources that don't update daily:
 
----
-
-## validate.js — GitHub Action reuse
-
-The validate script is also used as the pre-flight check in the `meshARKade-database` GitHub Action. It accepts an `--input` flag so it can point at any directory:
-
-```bash
-node scripts/validate.js --input ./input
+```json
+{
+  "tosec": { "version": "2025-03-13", "lastChecked": "2026-04-05T06:00:00.000Z" }
+}
 ```
 
-Exit codes: `0` = passed, `1` = failed.
+When the TOSEC job detects a new version, it downloads it, updates `versions.json`, and the workflow commits the change back to this repo.
 
----
+## Architecture
 
-## Planned: Playwright automation
-
-A Playwright script (`macros/dat-o-matic.js`) will eventually automate Dat-o-Matic downloads with the correct filter settings — useful for contributors without Antigravity. Playwright will also serve as the e2e test infrastructure for the broader project.
+- **meshARKade-dats** (this repo) — Fetches, validates, and relays raw DAT files
+- **meshARKade-database** — Receives DATs via PR, compiles XML → signed JSONL artifacts for the P2P network

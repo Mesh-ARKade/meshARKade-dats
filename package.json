@@ -2,12 +2,14 @@
   "name": "mesharkade-dats",
   "version": "1.0.0",
   "type": "module",
-  "description": "DAT file ingestion and validation tools for Mesh ARKade",
+  "description": "Automated DAT pipeline for Mesh ARKade — fetches, validates, and relays DATs from No-Intro, TOSEC, and Redump",
   "scripts": {
     "extract": "node scripts/extract.js",
     "validate": "node scripts/validate.js",
-    "sort": "node scripts/sort.js",
-    "process": "node scripts/process.js",
+    "fetch:no-intro": "node scripts/fetch/no-intro.js",
+    "fetch:tosec": "node scripts/fetch/tosec.js",
+    "fetch:redump": "node scripts/fetch/redump.js",
+    "relay": "node scripts/relay.js",
     "test": "vitest run"
   },
   "devDependencies": {
