@@ -58,37 +58,49 @@ import { execSync } from 'child_process';
 const TARGET_REPO = 'Mesh-ARKade/meshARKade-database';
 
 /**
- * Strip the trailing date stamp from a No-Intro / TOSEC DAT filename to get
- * the canonical (system) name used as a lookup key for diffing.
+ * Strip trailing metadata groups from a DAT filename to get the canonical
+ * (system) name used as a lookup key for diffing.
  *
- * No-Intro format:  "Nintendo - Game Boy (20260405-031740).dat"
- *                    canonical → "Nintendo - Game Boy"
+ * Each source uses a different filename convention:
  *
- * TOSEC format:     "Atari - 2600 (TOSEC-v2025-03-13).dat"
- *                    canonical → "Atari - 2600"
+ *   No-Intro: "Nintendo - Game Boy (20260405-031740).dat"
+ *              canonical → "Nintendo - Game Boy"
+ *              (one trailing group: compact timestamp)
  *
- * Redump format:    "Sony - PlayStation (20251225-195142).dat"
- *                    canonical → "Sony - PlayStation"
+ *   TOSEC:    "Atari - 2600 (TOSEC-v2025-03-13).dat"
+ *              canonical → "Atari - 2600"
+ *              (one trailing group: TOSEC version stamp)
  *
- * The pattern matches a final parenthesised group that looks like a date
- * (8+ digits, possibly with hyphens) at the end of the filename before the
- * extension. For names with no date suffix the full stem is returned as-is,
- * so this function is safe to call on any .dat filename.
+ *   Redump:   "Acorn - Archimedes - Datfile (77) (2025-10-23 18-11-28).dat"
+ *              canonical → "Acorn - Archimedes - Datfile"
+ *              (two trailing groups: entry count + spaced timestamp)
+ *
+ * We loop and strip any trailing parenthesised group whose content is made up
+ * only of digits, hyphens, spaces, and an optional "TOSEC-v" prefix — i.e.
+ * metadata. We stop as soon as a group doesn't match (e.g. "(USA)", "(Beta)")
+ * so meaningful name parts are never stripped.
  *
  * @param {string} filename - The .dat filename (basename, not full path).
- * @returns {string} The canonical name without the date suffix or extension.
+ * @returns {string} The canonical name without metadata suffixes or extension.
  */
 function canonicalName(filename) {
-  // Remove the .dat extension first
-  const stem = filename.replace(/\.dat$/i, '');
+  // Remove the .dat extension
+  let stem = filename.replace(/\.dat$/i, '');
 
-  // Match and strip a trailing parenthesised date group, e.g.:
-  //   (20260405-031740)   ← No-Intro / Redump timestamp
-  //   (TOSEC-v2025-03-13) ← TOSEC version stamp
-  // The regex matches the last ` (...)` group whose content starts with
-  // digits or "TOSEC-v" — conservative enough not to strip meaningful parts
-  // of system names that happen to have parentheses (e.g. "(USA)").
-  return stem.replace(/\s+\((?:TOSEC-v)?\d[\d\-]*\)$/, '').trim();
+  // Repeatedly strip trailing metadata groups until nothing more matches.
+  // The pattern matches a trailing ` (...)` group whose content is:
+  //   - Optionally prefixed with "TOSEC-v"
+  //   - Followed only by digits, hyphens, spaces, and optional trailing
+  //     alphanumeric suffix like "_CM" (seen in TOSEC community entries)
+  // This safely ignores groups like (USA), (Beta), (Proto), (Unlicensed).
+  const metadataGroup = /\s+\((?:TOSEC-v)?[\d][\d\s\-]*[_\w]*\)$/;
+  let prev;
+  do {
+    prev = stem;
+    stem = stem.replace(metadataGroup, '').trim();
+  } while (stem !== prev);
+
+  return stem;
 }
 
 /**
