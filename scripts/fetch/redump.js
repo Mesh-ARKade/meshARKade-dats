@@ -15,6 +15,12 @@
  *   - Fresh1G1R aggregates all systems into one repo, updated daily
  *   - The `daily-virgin-dat/` folder is a clean mirror of raw Redump DATs
  *
+ * Commit SHA tracking:
+ *   Before doing the expensive sparse checkout, we query the GitHub API
+ *   for the latest commit SHA on the `daily-virgin-dat/redump/` path.
+ *   If it matches what's stored in versions.json, we output "SKIP" and
+ *   exit — no clone needed. This mirrors the TOSEC version-check pattern.
+ *
  * @intent Pull the latest raw Redump DATs from Fresh1G1R's daily-virgin-dat.
  * @guarantee All .dat files from daily-virgin-dat/ are copied to outputDir.
  * @constraint Requires git to be installed and available on PATH.
@@ -24,6 +30,10 @@ import fs from 'fs';
 import path from 'path';
 import { execSync } from 'child_process';
 
+// Node's built-in fetch is available in Node 18+.
+// We use it to query the GitHub API for the latest commit SHA.
+const fetch = globalThis.fetch;
+
 /**
  * The Fresh1G1R GitHub repo URL — this is a public repo, no auth needed.
  * We clone it shallowly with sparse checkout to avoid pulling the entire
@@ -31,6 +41,15 @@ import { execSync } from 'child_process';
  * we don't need).
  */
 const FRESH1G1R_REPO = 'https://github.com/UnluckyForSome/Fresh1G1R.git';
+
+/**
+ * The owner/repo for the GitHub API commit-SHA check.
+ * We use the Commits API with `path=daily-virgin-dat/redump` to get the
+ * SHA of the most recent commit that touched that directory — if it hasn't
+ * changed since our last run, there's nothing new to fetch.
+ */
+const FRESH1G1R_OWNER = 'UnluckyForSome';
+const FRESH1G1R_REPO_NAME = 'Fresh1G1R';
 
 /**
  * The directory inside Fresh1G1R that contains raw, unfiltered Redump DATs.
@@ -57,22 +76,128 @@ function run(cmd, opts = {}) {
 }
 
 /**
+ * Query the GitHub API for the latest commit SHA that touched the
+ * `daily-virgin-dat/redump` path in Fresh1G1R.
+ *
+ * Uses the Commits API with `?path=` to filter to only commits that
+ * modified files under that directory — so the SHA changes only when
+ * Redump DATs actually change, not when Fresh1G1R updates other things.
+ *
+ * Returns null on any error (network failure, rate limit, etc.) so the
+ * caller can fall back to a full fetch rather than silently skipping.
+ *
+ * @returns {Promise<string|null>} The latest commit SHA, or null on error.
+ */
+async function getLatestCommitSha() {
+  try {
+    const url = `https://api.github.com/repos/${FRESH1G1R_OWNER}/${FRESH1G1R_REPO_NAME}/commits?path=${REDUMP_SUBDIR}&per_page=1`;
+    const res = await fetch(url, {
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+        // If a GITHUB_TOKEN is available (running in Actions), use it to
+        // get a higher rate limit (5000/hr vs 60/hr for unauthenticated).
+        ...(process.env.GITHUB_TOKEN && {
+          'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
+        }),
+      },
+    });
+
+    if (!res.ok) {
+      console.warn(`[redump] GitHub API returned ${res.status} — will do full fetch`);
+      return null;
+    }
+
+    const commits = await res.json();
+    if (!Array.isArray(commits) || commits.length === 0) {
+      console.warn('[redump] GitHub API returned no commits — will do full fetch');
+      return null;
+    }
+
+    return commits[0].sha;
+  } catch (err) {
+    console.warn(`[redump] GitHub API check failed: ${err.message} — will do full fetch`);
+    return null;
+  }
+}
+
+/**
+ * Read the stored Redump commit SHA from versions.json, if any.
+ * Returns null if the file doesn't exist, can't be parsed, or has no SHA.
+ *
+ * @param {string} versionsPath - Absolute path to versions.json.
+ * @returns {string|null} The stored SHA, or null.
+ */
+function readStoredSha(versionsPath) {
+  try {
+    const data = JSON.parse(fs.readFileSync(versionsPath, 'utf-8'));
+    return data?.redump?.commitSha ?? null;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Write the latest Redump commit SHA back to versions.json.
+ * Preserves all existing fields (e.g., tosec version).
+ *
+ * @param {string} versionsPath - Absolute path to versions.json.
+ * @param {string} sha - The commit SHA to store.
+ */
+function writeStoredSha(versionsPath, sha) {
+  let data = {};
+  try {
+    data = JSON.parse(fs.readFileSync(versionsPath, 'utf-8'));
+  } catch {
+    // File doesn't exist or is malformed — start fresh
+  }
+  data.redump = { commitSha: sha, lastChecked: new Date().toISOString() };
+  fs.writeFileSync(versionsPath, JSON.stringify(data, null, 2) + '\n');
+}
+
+/**
  * Fetch raw Redump DAT files from Fresh1G1R via sparse checkout.
  *
  * Flow:
+ *   0. (Skip check) Query GitHub API for latest commit SHA on the redump dir.
+ *      If it matches the stored SHA in versions.json, output "SKIP" and return.
  *   1. Create a temporary directory for the sparse clone
  *   2. Initialize a git repo with sparse checkout enabled
  *   3. Configure sparse checkout to only pull `daily-virgin-dat/`
  *   4. Add the Fresh1G1R remote and fetch just the latest commit (depth=1)
  *   5. Checkout the default branch — only `daily-virgin-dat/` materializes
  *   6. Copy all .dat files from `daily-virgin-dat/` into outputDir
- *   7. Clean up the temporary clone directory
+ *   7. Update versions.json with the new commit SHA
+ *   8. Clean up the temporary clone directory
  *
  * @param {string} outputDir - Directory to copy the raw Redump .dat files into.
+ * @param {string} [versionsPath] - Path to versions.json for SHA tracking.
+ *   Defaults to versions.json in the current working directory.
  * @returns {Promise<string[]>} Array of full paths to the copied .dat files.
+ *   Returns empty array if skipped (already up to date).
  * @throws If git commands fail or no .dat files are found.
  */
-export async function fetchRedump(outputDir) {
+export async function fetchRedump(outputDir, versionsPath) {
+  // Resolve versions.json path — default to repo root (cwd)
+  const vPath = versionsPath || path.join(process.cwd(), 'versions.json');
+
+  // --- Step 0: Commit SHA check ---
+  // Query GitHub API to see if the redump directory has changed since our
+  // last run. If not, there's nothing to fetch — output SKIP and return.
+  console.log('[redump] Checking Fresh1G1R for updates via GitHub API...');
+  const latestSha = await getLatestCommitSha();
+
+  if (latestSha) {
+    const storedSha = readStoredSha(vPath);
+    if (storedSha && storedSha === latestSha) {
+      console.log(`[redump] No changes since last fetch (SHA: ${latestSha.slice(0, 8)})`);
+      console.log('SKIP');
+      return [];
+    }
+    console.log(`[redump] New commits detected (${storedSha ? storedSha.slice(0, 8) : 'none'} → ${latestSha.slice(0, 8)}). Fetching...`);
+  } else {
+    console.log('[redump] SHA check unavailable — proceeding with full fetch');
+  }
   // Ensure the output directory exists before we start copying files
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
@@ -151,6 +276,15 @@ export async function fetchRedump(outputDir) {
     }
 
     console.log(`[redump] Copied ${copiedPaths.length} DAT files to: ${outputDir}`);
+
+    // --- Step 7: Update versions.json with the new SHA ---
+    // Only write if we got a SHA from the API — if the API was unavailable
+    // we don't want to store null and accidentally skip next time.
+    if (latestSha) {
+      writeStoredSha(vPath, latestSha);
+      console.log(`[redump] Updated versions.json with SHA: ${latestSha.slice(0, 8)}`);
+    }
+
     return copiedPaths;
   } finally {
     // --- Step 5: Clean up the temporary clone ---
@@ -168,19 +302,25 @@ export async function fetchRedump(outputDir) {
 }
 
 // --- CLI entry point ---
-// Usage: node scripts/fetch/redump.js [outputDir]
+// Usage: node scripts/fetch/redump.js [outputDir] [versionsPath]
 //
-// Example:
+// Examples:
 //   node scripts/fetch/redump.js output/raw/redump
+//   node scripts/fetch/redump.js output/raw/redump versions.json
 //
-// This will sparse-checkout Fresh1G1R, copy raw Redump DATs to
-// output/raw/redump/, and clean up the temp clone.
+// Outputs "SKIP" to stdout if the SHA in versions.json matches the latest
+// commit — same pattern as tosec.js so the workflow can detect skips.
 const isDirectRun = process.argv[1] && import.meta.url.endsWith(process.argv[1].replace(/\\/g, '/'));
 if (isDirectRun) {
   const outputDir = process.argv[2] || 'output/raw/redump';
-  fetchRedump(outputDir)
+  const versionsPath = process.argv[3] || undefined;
+  fetchRedump(outputDir, versionsPath)
     .then((files) => {
-      console.log(`[redump] Done. ${files.length} DAT files fetched.`);
+      if (files.length === 0) {
+        console.log('[redump] Done. No new DATs (skipped — already up to date).');
+      } else {
+        console.log(`[redump] Done. ${files.length} DAT files fetched.`);
+      }
     })
     .catch((err) => {
       console.error(`[redump] Failed: ${err.message}`);
