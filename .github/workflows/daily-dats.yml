@@ -1,0 +1,327 @@
+# =============================================================================
+# Daily DAT Pipeline
+# =============================================================================
+#
+# This workflow is the heart of the meshARKade-dats automation. It runs daily
+# (6 AM UTC) and fetches DAT files from three preservation sources:
+#
+#   1. No-Intro    — via Playwright (Dat-o-Matic requires form interaction)
+#   2. TOSEC       — via direct download (checks version to avoid re-downloading)
+#   3. Redump      — via Fresh1G1R GitHub repo (sparse checkout of raw DATs)
+#
+# After fetching, each source's DATs are extracted, validated, and uploaded as
+# GitHub Actions artifacts. The final "relay" job downloads all artifacts and
+# opens a PR on meshARKade-database for each source that produced new DATs.
+#
+# Architecture:
+#
+#   ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
+#   │ fetch-no-intro│  │ fetch-tosec  │  │ fetch-redump │
+#   │  (Playwright) │  │ (version chk)│  │ (sparse git) │
+#   └──────┬───────┘  └──────┬───────┘  └──────┬───────┘
+#          │                 │                  │
+#          │    (all three run in parallel)     │
+#          │                 │                  │
+#          └────────┬────────┴──────────┬───────┘
+#                   │                   │
+#                   ▼                   ▼
+#              ┌─────────────────────────────┐
+#              │           relay             │
+#              │  (downloads artifacts, PRs  │
+#              │   to meshARKade-database)   │
+#              └─────────────────────────────┘
+#
+# Secrets required:
+#   MESH_DATABASE_TOKEN — fine-grained PAT with contents:write and
+#                         pull-requests:write on meshARKade-database
+#
+# =============================================================================
+
+name: Daily DAT Pipeline
+
+on:
+  # Run every day at 6 AM UTC
+  schedule:
+    - cron: '0 6 * * *'
+
+  # Allow manual trigger from the Actions UI for testing
+  workflow_dispatch:
+
+# Only allow one run at a time — if a new run starts, cancel the old one.
+# This prevents overlapping relay PRs from the same day.
+concurrency:
+  group: daily-dats
+  cancel-in-progress: true
+
+jobs:
+  # ===========================================================================
+  # Job 1: Fetch No-Intro DATs
+  # ===========================================================================
+  # Uses Playwright to automate the Dat-o-Matic web form. No direct download
+  # URL exists — you have to check filter boxes, click "Request", wait for
+  # server-side archive generation, then click "Download!!".
+  # ===========================================================================
+  fetch-no-intro:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout meshARKade-dats
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          # Node 22 is the current LTS. Node 24 isn't in the GHA tool cache yet.
+          node-version: '22'
+
+      - name: Install dependencies
+        # Using `npm install` instead of `npm ci` because we don't have a
+        # committed package-lock.json. This is slightly slower but works.
+        run: npm install
+
+      - name: Install Playwright Chromium
+        # Playwright needs a real browser binary. We only install Chromium
+        # (not Firefox/WebKit) since that's all we need for Dat-o-Matic.
+        # The --with-deps flag installs OS-level dependencies (libs, fonts).
+        run: npx playwright install chromium --with-deps
+
+      - name: Fetch No-Intro daily DAT pack
+        run: node scripts/fetch/no-intro.js output/raw/no-intro
+
+      - name: Extract No-Intro archive
+        # The fetcher downloads a .zip — we need to extract the .dat files.
+        # extract.js handles zip/7z/rar and sorts by detected source.
+        run: |
+          for zip in output/raw/no-intro/*.zip; do
+            [ -f "$zip" ] && node scripts/extract.js "$zip" .
+          done
+
+      - name: Validate No-Intro DATs
+        run: node scripts/validate.js output/no-intro
+
+      # Upload the validated DATs as a GitHub Actions artifact so the
+      # relay job can download them later. Artifacts are the mechanism
+      # for passing data between jobs in a workflow.
+      - name: Upload No-Intro DATs
+        uses: actions/upload-artifact@v4
+        with:
+          name: dats-no-intro
+          path: output/no-intro/
+          # Don't fail the job if no DATs were produced (e.g., download failed)
+          if-no-files-found: error
+          # Artifacts only need to live long enough for the relay job
+          retention-days: 1
+
+  # ===========================================================================
+  # Job 2: Fetch TOSEC DATs
+  # ===========================================================================
+  # TOSEC only releases ~2x per year, so most daily runs will skip.
+  # We track the last-downloaded version in versions.json and compare
+  # against the latest release found on the TOSEC downloads page.
+  # ===========================================================================
+  fetch-tosec:
+    runs-on: ubuntu-latest
+    # This output lets the relay job know if TOSEC actually had new data.
+    # If TOSEC was skipped (already up to date), the relay job won't try
+    # to relay TOSEC DATs.
+    outputs:
+      skipped: ${{ steps.fetch.outputs.skipped }}
+    steps:
+      - name: Checkout meshARKade-dats
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch TOSEC DAT pack
+        id: fetch
+        # Capture the output to detect "SKIP" — if tosec.js outputs SKIP,
+        # it means versions.json already has the latest version and we
+        # don't need to re-download.
+        run: |
+          OUTPUT=$(node scripts/fetch/tosec.js output/raw/tosec versions.json 2>&1)
+          echo "$OUTPUT"
+          if echo "$OUTPUT" | grep -q "^SKIP$"; then
+            echo "skipped=true" >> "$GITHUB_OUTPUT"
+            echo "[tosec] Skipped — already up to date."
+          else
+            echo "skipped=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Extract TOSEC archive
+        if: steps.fetch.outputs.skipped != 'true'
+        run: |
+          for zip in output/raw/tosec/*.zip; do
+            [ -f "$zip" ] && node scripts/extract.js "$zip" .
+          done
+
+      - name: Validate TOSEC DATs
+        if: steps.fetch.outputs.skipped != 'true'
+        run: node scripts/validate.js output/tosec
+
+      - name: Upload TOSEC DATs
+        if: steps.fetch.outputs.skipped != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: dats-tosec
+          path: output/tosec/
+          if-no-files-found: error
+          retention-days: 1
+
+      # If TOSEC updated, we need to commit the new versions.json back
+      # to the repo so next run knows we already have this version.
+      - name: Upload versions.json
+        if: steps.fetch.outputs.skipped != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: versions-json
+          path: versions.json
+          retention-days: 1
+
+  # ===========================================================================
+  # Job 3: Fetch Redump DATs
+  # ===========================================================================
+  # Pulls raw Redump DATs from Fresh1G1R's daily-virgin-dat/ directory.
+  # Fresh1G1R (github.com/UnluckyForSome/Fresh1G1R) updates daily via
+  # their own GitHub Actions. We do a sparse checkout to only grab the
+  # raw DATs, skipping their 1G1R filtered sets.
+  # ===========================================================================
+  fetch-redump:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout meshARKade-dats
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch Redump DATs from Fresh1G1R
+        # redump.js does a sparse checkout of Fresh1G1R internally,
+        # copies .dat files to the output dir, and cleans up the clone.
+        run: node scripts/fetch/redump.js output/redump
+
+      - name: Validate Redump DATs
+        run: node scripts/validate.js output/redump
+
+      - name: Upload Redump DATs
+        uses: actions/upload-artifact@v4
+        with:
+          name: dats-redump
+          path: output/redump/
+          if-no-files-found: error
+          retention-days: 1
+
+  # ===========================================================================
+  # Job 4: Relay DATs to meshARKade-database
+  # ===========================================================================
+  # This job runs after all three fetch jobs complete (or fail).
+  # It downloads whichever artifacts were produced and opens a PR on
+  # meshARKade-database for each source. One PR per source keeps
+  # reviews focused and allows partial failures.
+  #
+  # Uses `if: always()` so it runs even if one source failed — we still
+  # want to relay the sources that succeeded.
+  # ===========================================================================
+  relay:
+    runs-on: ubuntu-latest
+    needs: [fetch-no-intro, fetch-tosec, fetch-redump]
+    # Run even if some fetch jobs failed — relay whatever succeeded
+    if: always()
+    steps:
+      - name: Checkout meshARKade-dats
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      # --- Download artifacts from the fetch jobs ---
+      # Each download step uses `continue-on-error: true` so that a
+      # failed fetch job doesn't prevent us from relaying the others.
+
+      - name: Download No-Intro DATs
+        if: needs.fetch-no-intro.result == 'success'
+        uses: actions/download-artifact@v4
+        with:
+          name: dats-no-intro
+          path: artifacts/no-intro
+
+      - name: Download TOSEC DATs
+        if: needs.fetch-tosec.result == 'success' && needs.fetch-tosec.outputs.skipped != 'true'
+        uses: actions/download-artifact@v4
+        with:
+          name: dats-tosec
+          path: artifacts/tosec
+
+      - name: Download Redump DATs
+        if: needs.fetch-redump.result == 'success'
+        uses: actions/download-artifact@v4
+        with:
+          name: dats-redump
+          path: artifacts/redump
+
+      # --- Relay each source that produced artifacts ---
+      # relay.js opens a PR on meshARKade-database for each source.
+      # The `continue-on-error` ensures one relay failure doesn't block others.
+
+      - name: Relay No-Intro DATs
+        if: needs.fetch-no-intro.result == 'success'
+        continue-on-error: true
+        env:
+          MESH_DATABASE_TOKEN: ${{ secrets.MESH_DATABASE_TOKEN }}
+        run: node scripts/relay.js --source no-intro --input artifacts/no-intro
+
+      - name: Relay TOSEC DATs
+        if: needs.fetch-tosec.result == 'success' && needs.fetch-tosec.outputs.skipped != 'true'
+        continue-on-error: true
+        env:
+          MESH_DATABASE_TOKEN: ${{ secrets.MESH_DATABASE_TOKEN }}
+        run: node scripts/relay.js --source tosec --input artifacts/tosec
+
+      - name: Relay Redump DATs
+        if: needs.fetch-redump.result == 'success'
+        continue-on-error: true
+        env:
+          MESH_DATABASE_TOKEN: ${{ secrets.MESH_DATABASE_TOKEN }}
+        run: node scripts/relay.js --source redump --input artifacts/redump
+
+      # --- Commit updated versions.json if TOSEC was updated ---
+      # When TOSEC has a new release, tosec.js updates versions.json.
+      # We need to commit that back to this repo so the next run knows
+      # we already have the latest TOSEC version.
+      - name: Download updated versions.json
+        if: needs.fetch-tosec.result == 'success' && needs.fetch-tosec.outputs.skipped != 'true'
+        uses: actions/download-artifact@v4
+        with:
+          name: versions-json
+          path: .
+
+      # --- Commit updated versions.json directly to main ---
+      # When TOSEC has a new release, tosec.js updates versions.json.
+      # We commit it back so the next run knows we already have this version.
+      - name: Commit updated versions.json
+        if: needs.fetch-tosec.result == 'success' && needs.fetch-tosec.outputs.skipped != 'true'
+        run: |
+          # Check if versions.json actually changed
+          if git diff --quiet versions.json 2>/dev/null; then
+            echo "versions.json unchanged, nothing to commit."
+            exit 0
+          fi
+          git config user.name "meshARKade-dats[bot]"
+          git config user.email "dats-bot@mesharkade.dev"
+          git add versions.json
+          git commit -m "chore: update TOSEC version tracking"
+          git push
