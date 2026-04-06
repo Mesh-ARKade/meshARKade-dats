@@ -309,30 +309,19 @@ jobs:
           name: versions-json
           path: .
 
-      # --- Update versions.json via PR if TOSEC was updated ---
-      # Branch protection blocks direct pushes to main, so we open a PR
-      # instead. This keeps the version tracking in sync without needing
-      # special bypass permissions for the Actions bot.
-      - name: Update versions.json via PR
+      # --- Commit updated versions.json directly to main ---
+      # When TOSEC has a new release, tosec.js updates versions.json.
+      # We commit it back so the next run knows we already have this version.
+      - name: Commit updated versions.json
         if: needs.fetch-tosec.result == 'success' && needs.fetch-tosec.outputs.skipped != 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Check if versions.json actually changed
           if git diff --quiet versions.json 2>/dev/null; then
             echo "versions.json unchanged, nothing to commit."
             exit 0
           fi
-
-          BRANCH="chore/update-tosec-version-$(date +%Y-%m-%d)"
           git config user.name "meshARKade-dats[bot]"
           git config user.email "dats-bot@mesharkade.dev"
-          git checkout -b "$BRANCH"
           git add versions.json
           git commit -m "chore: update TOSEC version tracking"
-          git push origin "$BRANCH"
-
-          gh pr create \
-            --title "chore: update TOSEC version tracking" \
-            --body "Automated update — TOSEC released a new version, updating versions.json so we don't re-download next run." \
-            --head "$BRANCH"
+          git push
