@@ -53,6 +53,17 @@ concurrency:
   group: daily-dats
   cancel-in-progress: true
 
+# Grant the GITHUB_TOKEN write access so the relay job can push
+# versions.json back to this repo after a TOSEC update.
+permissions:
+  contents: write
+
+# Silence the Node 20 deprecation warnings from actions/checkout@v4 etc.
+# These actions still use Node 20 internally; this forces them to Node 24.
+# Safe to remove once v5 actions are released.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   # ===========================================================================
   # Job 1: Fetch No-Intro DATs

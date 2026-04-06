@@ -115,6 +115,33 @@ function buildCanonicalMap(dir) {
 }
 
 /**
+ * Recursively find all .dat files in a directory tree.
+ * Returns an array of { name, fullPath } objects where `name` is just the
+ * filename (basename) and `fullPath` is the absolute path to the file.
+ *
+ * This handles the case where extract.js preserves the zip's internal
+ * directory structure — e.g., No-Intro zips have a "No-Intro/" subdirectory,
+ * TOSEC zips have "TOSEC/", and some have nested subdirs like
+ * "Aftermarket/", "Unofficial/", "Non-Redump/", "Redump BIOS/".
+ *
+ * @param {string} dir - The root directory to search.
+ * @returns {{ name: string, fullPath: string }[]} Array of found .dat files.
+ */
+function findDatFiles(dir) {
+  const results = [];
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      // Recurse into subdirectories
+      results.push(...findDatFiles(fullPath));
+    } else if (entry.name.toLowerCase().endsWith('.dat')) {
+      results.push({ name: entry.name, fullPath });
+    }
+  }
+  return results;
+}
+
+/**
  * Run a shell command synchronously and return stdout.
  * Logs the command for debugging in CI logs.
  *
@@ -193,11 +220,14 @@ export async function relay({ source, inputDir, token }) {
     );
   }
 
-  // Make sure the input directory actually has .dat files to relay
+  // Make sure the input directory actually has .dat files to relay.
+  // We search recursively because extract.js preserves the zip's internal
+  // directory structure — e.g., No-Intro zips extract to a "No-Intro/"
+  // subdirectory, TOSEC to "TOSEC/", etc.
   if (!fs.existsSync(inputDir)) {
     throw new Error(`Input directory does not exist: ${inputDir}`);
   }
-  const datFiles = fs.readdirSync(inputDir).filter((f) => f.toLowerCase().endsWith('.dat'));
+  const datFiles = findDatFiles(inputDir);
   if (datFiles.length === 0) {
     throw new Error(`No .dat files found in: ${inputDir}`);
   }
@@ -244,13 +274,17 @@ export async function relay({ source, inputDir, token }) {
     // Track what we do for the commit message summary
     const stats = { added: 0, updated: 0, skipped: 0 };
 
-    for (const datFile of datFiles) {
+    // datFiles is an array of { name, fullPath } from the recursive finder.
+    // We use `name` (basename) for canonical matching and destination filename,
+    // and `fullPath` for reading the source file. All DATs land flat in
+    // input/{source}/ regardless of what subdirectory they were extracted into.
+    for (const { name: datFile, fullPath: srcPath } of datFiles) {
       const incoming = canonicalName(datFile);
       const existing = existingMap.get(incoming);
 
       if (!existing) {
         // New DAT — system wasn't in the database before
-        fs.copyFileSync(path.join(inputDir, datFile), path.join(targetDir, datFile));
+        fs.copyFileSync(srcPath, path.join(targetDir, datFile));
         console.log(`[relay]   + ${datFile} (new)`);
         stats.added++;
       } else if (existing === datFile) {
@@ -261,7 +295,7 @@ export async function relay({ source, inputDir, token }) {
         // Same canonical name, different date = updated DAT.
         // Delete the old version and copy the new one.
         fs.rmSync(path.join(targetDir, existing));
-        fs.copyFileSync(path.join(inputDir, datFile), path.join(targetDir, datFile));
+        fs.copyFileSync(srcPath, path.join(targetDir, datFile));
         console.log(`[relay]   ~ ${datFile} (updated, replaced ${existing})`);
         stats.updated++;
       }
