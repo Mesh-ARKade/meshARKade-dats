@@ -1,8 +1,9 @@
 node_modules/
 output/
-dats/
-*.zip
-*.7z
-*.rar
-.DS_Store
+# dats/ holds raw zip archives — ignore the zips but track the directory structure
+# so the folder layout is self-documenting in the repo
+dats/**/*.zip
+dats/**/*.7z
+dats/**/*.rar
+*.DS_Store
 Thumbs.db

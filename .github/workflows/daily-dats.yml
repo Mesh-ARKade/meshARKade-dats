@@ -85,13 +85,16 @@ jobs:
         run: npx playwright install chromium --with-deps
 
       - name: Fetch No-Intro daily DAT pack
-        run: node scripts/fetch/no-intro.js output/raw/no-intro
+        # dats/no-intro/ is the staging area for raw zip archives.
+        # Zips are gitignored but the directory is tracked so the layout
+        # is self-documenting when you clone the repo.
+        run: node scripts/fetch/no-intro.js dats/no-intro
 
       - name: Extract No-Intro archive
         # The fetcher downloads a .zip — we need to extract the .dat files.
         # extract.js handles zip/7z/rar and sorts by detected source.
         run: |
-          for zip in output/raw/no-intro/*.zip; do
+          for zip in dats/no-intro/*.zip; do
             [ -f "$zip" ] && node scripts/extract.js "$zip" .
           done
 
@@ -143,7 +146,7 @@ jobs:
         # it means versions.json already has the latest version and we
         # don't need to re-download.
         run: |
-          OUTPUT=$(node scripts/fetch/tosec.js output/raw/tosec versions.json 2>&1)
+          OUTPUT=$(node scripts/fetch/tosec.js dats/tosec versions.json 2>&1)
           echo "$OUTPUT"
           if echo "$OUTPUT" | grep -q "^SKIP$"; then
             echo "skipped=true" >> "$GITHUB_OUTPUT"
@@ -155,7 +158,7 @@ jobs:
       - name: Extract TOSEC archive
         if: steps.fetch.outputs.skipped != 'true'
         run: |
-          for zip in output/raw/tosec/*.zip; do
+          for zip in dats/tosec/*.zip; do
             [ -f "$zip" ] && node scripts/extract.js "$zip" .
           done
 
