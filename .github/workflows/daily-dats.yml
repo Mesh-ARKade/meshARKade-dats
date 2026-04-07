@@ -299,9 +299,83 @@ jobs:
           retention-days: 1
 
   # ===========================================================================
-  # Job 4: Relay DATs to meshARKade-database
+  # Job 4: Fetch MAME DATs
   # ===========================================================================
-  # This job runs after all three fetch jobs complete (or fail).
+  # Pulls Arcade and Software List DATs from ProgettoSnaps.
+  # Tracks versions in versions.json to skip unchanged releases.
+  # ===========================================================================
+  fetch-mame:
+    runs-on: ubuntu-latest
+    outputs:
+      skipped: ${{ steps.fetch.outputs.skipped }}
+    steps:
+      - name: Checkout meshARKade-dats
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch MAME DATs from ProgettoSnaps
+        id: fetch
+        run: |
+          OUTPUT=$(node scripts/fetch/mame.js dats/mame versions.json 2>&1)
+          echo "$OUTPUT"
+          if echo "$OUTPUT" | grep -q "^SKIP$"; then
+            echo "skipped=true" >> "$GITHUB_OUTPUT"
+            echo "[mame] Skipped — already up to date."
+          else
+            echo "skipped=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Extract MAME archives
+        if: steps.fetch.outputs.skipped != 'true'
+        run: |
+          # Install 7zip for .7z files
+          sudo apt-get install -y p7zip-full
+          for arch in dats/mame/*; do
+            [ -f "$arch" ] && node scripts/extract.js "$arch" .
+          done
+
+      - name: Check MAME artifact size
+        if: steps.fetch.outputs.skipped != 'true'
+        run: |
+          size=$(du -sb output/mame | cut -f1)
+          human=$(du -sh output/mame | cut -f1)
+          echo "[size] MAME output: $human"
+          if [ "$size" -gt 450000000 ]; then
+            echo "::warning::MAME artifact size ($human) is approaching the 500MB GitHub Actions limit"
+          fi
+
+      - name: Validate MAME DATs
+        if: steps.fetch.outputs.skipped != 'true'
+        run: node scripts/validate.js output/mame
+
+      - name: Upload MAME DATs
+        if: steps.fetch.outputs.skipped != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: dats-mame
+          path: output/mame/
+          if-no-files-found: error
+          retention-days: 1
+
+      - name: Upload versions.json
+        if: steps.fetch.outputs.skipped != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: versions-json-mame
+          path: versions.json
+          retention-days: 1
+
+  # ===========================================================================
+  # Job 5: Relay DATs to meshARKade-database
+  # ===========================================================================
+  # This job runs after all fetch jobs complete (or fail).
   # It downloads whichever artifacts were produced and opens ONE combined
   # PR on meshARKade-database with all sources in a single commit.
   #
@@ -312,7 +386,7 @@ jobs:
   # ===========================================================================
   relay:
     runs-on: ubuntu-latest
-    needs: [fetch-no-intro, fetch-tosec, fetch-redump]
+    needs: [fetch-no-intro, fetch-tosec, fetch-redump, fetch-mame]
     # Run even if some fetch jobs failed — relay whatever succeeded
     if: always()
     steps:
@@ -353,6 +427,13 @@ jobs:
           name: dats-redump
           path: artifacts/redump
 
+      - name: Download MAME DATs
+        if: needs.fetch-mame.result == 'success' && needs.fetch-mame.outputs.skipped != 'true'
+        uses: actions/download-artifact@v4
+        with:
+          name: dats-mame
+          path: artifacts/mame
+
       # --- Relay all sources in one combined PR ---
       # Dynamically build the --sources argument from whichever artifact
       # directories exist. relay.js handles the rest: one clone, one branch,
@@ -370,6 +451,9 @@ jobs:
           fi
           if [ -d artifacts/redump ]; then
             SOURCES="${SOURCES:+$SOURCES,}redump:artifacts/redump"
+          fi
+          if [ -d artifacts/mame ]; then
+            SOURCES="${SOURCES:+$SOURCES,}mame:artifacts/mame"
           fi
 
           if [ -z "$SOURCES" ]; then
@@ -405,13 +489,22 @@ jobs:
           name: versions-json-redump
           path: .
 
+      - name: Download updated versions.json (MAME)
+        if: needs.fetch-mame.result == 'success' && needs.fetch-mame.outputs.skipped != 'true'
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: versions-json-mame
+          path: .
+
       - name: Commit updated versions.json
-        # Run if either source ran (not skipped) — we'll check for actual
+        # Run if any source ran (not skipped) — we'll check for actual
         # changes before committing so this is safe to run unconditionally
         # whenever at least one source wasn't skipped.
         if: |
           (needs.fetch-tosec.result == 'success' && needs.fetch-tosec.outputs.skipped != 'true') ||
-          (needs.fetch-redump.result == 'success' && needs.fetch-redump.outputs.skipped != 'true')
+          (needs.fetch-redump.result == 'success' && needs.fetch-redump.outputs.skipped != 'true') ||
+          (needs.fetch-mame.result == 'success' && needs.fetch-mame.outputs.skipped != 'true')
         run: |
           # Check if versions.json actually changed (it might not if both
           # sources wrote the same data as what was already committed)
