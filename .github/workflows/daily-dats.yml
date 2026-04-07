@@ -517,3 +517,43 @@ jobs:
           git add versions.json
           git commit -m "chore: update version tracking"
           git push
+
+      # -----------------------------------------------------------------------
+      # Notify Discord — success
+      # -----------------------------------------------------------------------
+      - name: Discord notification (success)
+        if: success() && env.DISCORD_WEBHOOK_URL != ''
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          FETCHED=""
+          [ -d artifacts/no-intro ] && FETCHED="${FETCHED}no-intro "
+          [ -d artifacts/tosec ] && FETCHED="${FETCHED}tosec "
+          [ -d artifacts/redump ] && FETCHED="${FETCHED}redump "
+          [ -d artifacts/mame ] && FETCHED="${FETCHED}mame "
+          FETCHED="${FETCHED:-none}"
+          curl -s -H "Content-Type: application/json" -d "{
+            \"embeds\": [{
+              \"title\": \"DAT Fetch Complete\",
+              \"description\": \"Sources relayed: ${FETCHED}\",
+              \"color\": 3066993,
+              \"url\": \"https://github.com/Mesh-ARKade/meshARKade-dats/actions/runs/${{ github.run_id }}\"
+            }]
+          }" "$DISCORD_WEBHOOK_URL"
+
+      # -----------------------------------------------------------------------
+      # Notify Discord — failure
+      # -----------------------------------------------------------------------
+      - name: Discord notification (failure)
+        if: failure() && env.DISCORD_WEBHOOK_URL != ''
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          RUN_URL="https://github.com/Mesh-ARKade/meshARKade-dats/actions/runs/${{ github.run_id }}"
+          curl -s -H "Content-Type: application/json" -d "{
+            \"embeds\": [{
+              \"title\": \"DAT Fetch Failed\",
+              \"description\": \"[View logs](${RUN_URL})\",
+              \"color\": 15158332
+            }]
+          }" "$DISCORD_WEBHOOK_URL"
