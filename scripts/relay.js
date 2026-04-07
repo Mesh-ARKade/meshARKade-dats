@@ -2,47 +2,29 @@
  * DAT Relay Script
  *
  * Relays validated DAT files from this repo (meshARKade-dats) to the
- * meshARKade-database repo by opening a Pull Request. This is the bridge
- * between the "fetch & validate" pipeline and the "compile & sign" pipeline.
+ * meshARKade-database repo by opening a single combined Pull Request.
+ * This is the bridge between the "fetch & validate" pipeline and the
+ * "compile & sign" pipeline.
  *
  * How it works:
  *   1. Shallow-clone meshARKade-database using a GitHub PAT
- *   2. Create a new branch named `update-dats/{source}-{YYYY-MM-DD}`
- *   3. Sync .dat files into `input/{source}/` using canonical name diffing
- *   4. Commit, push, and open a PR via the `gh` CLI
+ *   2. Create a branch named `update-dats/{YYYY-MM-DD}`
+ *   3. For each source: sync .dat files into `input/{source}/` using
+ *      canonical name diffing
+ *   4. One commit with all source changes, push, open a PR via `gh`
+ *
+ * One PR per day (not per source):
+ *   The daily pipeline fetches from No-Intro, TOSEC, and Redump in parallel.
+ *   Rather than opening three separate PRs, we combine all sources into one
+ *   PR. This gives meshARKade-database one clean merge → one signed release.
+ *   Sources that were skipped (e.g., TOSEC most days) are simply omitted.
  *
  * Canonical name diffing (the smart part):
- *   No-Intro DAT filenames embed the last-updated date as a suffix, e.g.:
- *     "Nintendo - Game Boy (20260405-031740).dat"
- *   The date changes each time No-Intro updates that system's DAT, but the
- *   rest of the name (the "canonical name") stays the same. Without diffing,
- *   we'd end up with both the old and new versions sitting side by side in
- *   the database.
+ *   DAT filenames embed dates/versions as suffixes that change on every update.
+ *   We strip these to get the "canonical name" and use it as a lookup key to
+ *   detect what's new, updated, or removed — producing surgical PR diffs.
  *
- *   Instead, for each incoming DAT we:
- *     - Strip the trailing date to get the canonical name
- *     - Look for an existing file in input/{source}/ with the same canonical name
- *     - If found with the same date → skip (no change)
- *     - If found with a different date → delete old, copy new (updated)
- *     - If not found → copy (new system)
- *
- *   The files keep their original full names including the date — we only
- *   use the canonical name as a lookup key, not as the stored filename.
- *   This produces clean, surgical PR diffs showing only what actually changed.
- *
- * Why a separate repo?
- *   - meshARKade-dats is the "curator's toolbelt" — fetches, validates, stages
- *   - meshARKade-database is the "archive & factory" — compiles XML DATs into
- *     signed JSONL artifacts for the P2P network
- *   - Separation of concerns: the database repo has its own CI that triggers
- *     when DATs land in `input/`, compiling them into catalog artifacts
- *
- * Authentication:
- *   - Uses MESH_DATABASE_TOKEN env var (fine-grained PAT with contents:write
- *     and pull-requests:write on meshARKade-database)
- *   - The `gh` CLI also uses this token for PR creation
- *
- * @intent Relay validated DATs to meshARKade-database via automated PR.
+ * @intent Relay validated DATs to meshARKade-database via one combined PR.
  * @guarantee Only changed/new DATs are written; stale versions are replaced.
  * @constraint Requires MESH_DATABASE_TOKEN env var and `gh` CLI installed.
  */
@@ -53,7 +35,6 @@ import { execSync } from 'child_process';
 
 /**
  * The target repository where DATs get relayed to.
- * This is the "archive & factory" repo that compiles DATs into artifacts.
  */
 const TARGET_REPO = 'Mesh-ARKade/meshARKade-database';
 
@@ -65,53 +46,29 @@ const TARGET_REPO = 'Mesh-ARKade/meshARKade-database';
  *
  *   No-Intro: "Nintendo - Game Boy (20260405-031740).dat"
  *              canonical → "Nintendo - Game Boy"
- *              (one trailing group: compact timestamp)
  *
  *   TOSEC:    "Atari - 2600 (TOSEC-v2025-03-13).dat"
  *              canonical → "Atari - 2600"
- *              (one trailing group: TOSEC version stamp)
  *
  *   Redump:   "Acorn - Archimedes - Datfile (77) (2025-10-23 18-11-28).dat"
  *              canonical → "Acorn - Archimedes - Datfile"
- *              (two trailing groups: entry count + spaced timestamp)
- *
- * We loop and strip any trailing parenthesised group whose content is made up
- * only of digits, hyphens, spaces, and an optional "TOSEC-v" prefix — i.e.
- * metadata. We stop as soon as a group doesn't match (e.g. "(USA)", "(Beta)")
- * so meaningful name parts are never stripped.
  *
  * @param {string} filename - The .dat filename (basename, not full path).
  * @returns {string} The canonical name without metadata suffixes or extension.
  */
 function canonicalName(filename) {
-  // Remove the .dat extension
   let stem = filename.replace(/\.dat$/i, '');
-
-  // Repeatedly strip trailing metadata groups until nothing more matches.
-  // The pattern matches a trailing ` (...)` group whose content is:
-  //   - Optionally prefixed with "TOSEC-v"
-  //   - Followed only by digits, hyphens, spaces, and optional trailing
-  //     alphanumeric suffix like "_CM" (seen in TOSEC community entries)
-  // This safely ignores groups like (USA), (Beta), (Proto), (Unlicensed).
   const metadataGroup = /\s+\((?:TOSEC-v)?[\d][\d\s\-]*[_\w]*\)$/;
   let prev;
   do {
     prev = stem;
     stem = stem.replace(metadataGroup, '').trim();
   } while (stem !== prev);
-
   return stem;
 }
 
 /**
  * Build a map of canonical name → full filename for all .dat files in a dir.
- * Used to find existing files in the database that match an incoming DAT.
- *
- * Example result:
- *   {
- *     "Nintendo - Game Boy": "Nintendo - Game Boy (20260404-085253).dat",
- *     "Nintendo - SNES":     "Nintendo - Super Nintendo Entertainment System (20260401-120000).dat",
- *   }
  *
  * @param {string} dir - Directory to scan.
  * @returns {Map<string, string>} Map of canonical name → filename.
@@ -128,13 +85,9 @@ function buildCanonicalMap(dir) {
 
 /**
  * Recursively find all .dat files in a directory tree.
- * Returns an array of { name, fullPath } objects where `name` is just the
- * filename (basename) and `fullPath` is the absolute path to the file.
  *
- * This handles the case where extract.js preserves the zip's internal
- * directory structure — e.g., No-Intro zips have a "No-Intro/" subdirectory,
- * TOSEC zips have "TOSEC/", and some have nested subdirs like
- * "Aftermarket/", "Unofficial/", "Non-Redump/", "Redump BIOS/".
+ * Handles the case where extract.js preserves zip subdirectory structure
+ * (e.g., No-Intro/, TOSEC/, Aftermarket/, Unofficial/).
  *
  * @param {string} dir - The root directory to search.
  * @returns {{ name: string, fullPath: string }[]} Array of found .dat files.
@@ -144,7 +97,6 @@ function findDatFiles(dir) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
-      // Recurse into subdirectories
       results.push(...findDatFiles(fullPath));
     } else if (entry.name.toLowerCase().endsWith('.dat')) {
       results.push({ name: entry.name, fullPath });
@@ -155,14 +107,9 @@ function findDatFiles(dir) {
 
 /**
  * Run a shell command synchronously and return stdout.
- * Logs the command for debugging in CI logs.
- *
- * @param {string} cmd - The shell command to execute.
- * @param {object} [opts] - Options passed to execSync (e.g., cwd, env).
- * @returns {string} Trimmed stdout output.
+ * Masks PAT tokens in log output.
  */
 function run(cmd, opts = {}) {
-  // Mask the token in logs so it doesn't leak into CI output
   const safeCmd = cmd.replace(/https:\/\/x-access-token:[^@]+@/, 'https://x-access-token:***@');
   console.log(`[relay] $ ${safeCmd}`);
   return execSync(cmd, { encoding: 'utf-8', ...opts }).trim();
@@ -171,58 +118,90 @@ function run(cmd, opts = {}) {
 /**
  * Parse CLI arguments into a simple key-value map.
  * Supports `--key value` and `--key=value` formats.
- *
- * @param {string[]} argv - The process.argv array (typically slice(2)).
- * @returns {object} Parsed arguments as { key: value } pairs.
  */
 function parseArgs(argv) {
   const args = {};
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i];
     if (!arg.startsWith('--')) continue;
-
-    // Handle --key=value format
     if (arg.includes('=')) {
       const [key, ...rest] = arg.slice(2).split('=');
       args[key] = rest.join('=');
     } else {
-      // Handle --key value format (next arg is the value)
       args[arg.slice(2)] = argv[i + 1];
-      i++; // skip the value in next iteration
+      i++;
     }
   }
   return args;
 }
 
 /**
- * Relay DAT files to meshARKade-database by opening a PR.
+ * Sync DAT files for a single source into the target directory.
+ * Uses canonical name diffing to detect new, updated, and removed DATs.
  *
- * Flow:
- *   1. Validate inputs — source name and input directory must be provided
- *   2. Shallow-clone meshARKade-database with the PAT (depth=1 for speed)
- *   3. Create a feature branch: `update-dats/{source}-{YYYY-MM-DD}`
- *   4. Sync DATs using canonical name diffing (add new, replace updated, skip unchanged)
- *   5. Commit with a descriptive message (lists added/updated/removed counts)
- *   6. Push the branch and open a PR via `gh pr create`
- *   7. Clean up the temporary clone
- *
- * @param {object} options
- * @param {string} options.source - The DAT source name (e.g., "redump", "no-intro", "tosec").
- * @param {string} options.inputDir - Path to directory containing validated .dat files.
- * @param {string} [options.token] - GitHub PAT. Defaults to MESH_DATABASE_TOKEN env var.
- * @returns {Promise<string>} The URL of the created PR.
+ * @param {string} source - Source name (e.g., "no-intro").
+ * @param {string} inputDir - Path to directory containing incoming .dat files.
+ * @param {string} targetDir - Path to input/{source}/ in the cloned database repo.
+ * @returns {{ added: number, updated: number, skipped: number, removed: number }}
  */
-export async function relay({ source, inputDir, token }) {
-  // --- Validate inputs ---
-  if (!source) {
-    throw new Error('Missing required argument: --source (e.g., "redump", "no-intro", "tosec")');
-  }
-  if (!inputDir) {
-    throw new Error('Missing required argument: --input (path to directory with .dat files)');
+function syncSource(source, inputDir, targetDir) {
+  const datFiles = findDatFiles(inputDir);
+  if (datFiles.length === 0) {
+    console.warn(`[relay] Warning: no .dat files found in ${inputDir} for ${source}`);
+    return { added: 0, updated: 0, skipped: 0, removed: 0 };
   }
 
-  // The PAT is required for pushing to the target repo and creating PRs.
-  // It should be stored as a GitHub Actions secret (MESH_DATABASE_TOKEN).
+  console.log(`[relay] ${source}: found ${datFiles.length} DAT files`);
+  fs.mkdirSync(targetDir, { recursive: true });
+
+  const existingMap = buildCanonicalMap(targetDir);
+  const stats = { added: 0, updated: 0, skipped: 0, removed: 0 };
+
+  for (const { name: datFile, fullPath: srcPath } of datFiles) {
+    const incoming = canonicalName(datFile);
+    const existing = existingMap.get(incoming);
+
+    if (!existing) {
+      fs.copyFileSync(srcPath, path.join(targetDir, datFile));
+      console.log(`[relay]   + ${datFile} (new)`);
+      stats.added++;
+    } else if (existing === datFile) {
+      console.log(`[relay]   = ${datFile} (unchanged)`);
+      stats.skipped++;
+    } else {
+      fs.rmSync(path.join(targetDir, existing));
+      fs.copyFileSync(srcPath, path.join(targetDir, datFile));
+      console.log(`[relay]   ~ ${datFile} (updated, replaced ${existing})`);
+      stats.updated++;
+    }
+
+    existingMap.delete(incoming);
+  }
+
+  // Remaining entries were in the database but not in today's download
+  for (const [, removedFile] of existingMap) {
+    fs.rmSync(path.join(targetDir, removedFile));
+    console.log(`[relay]   - ${removedFile} (removed upstream)`);
+  }
+  stats.removed = existingMap.size;
+
+  console.log(`[relay] ${source}: +${stats.added} new, ~${stats.updated} updated, =${stats.skipped} unchanged, -${stats.removed} removed`);
+  return stats;
+}
+
+/**
+ * Relay DAT files from multiple sources to meshARKade-database in one PR.
+ *
+ * @param {object} options
+ * @param {{ source: string, inputDir: string }[]} options.sources - Array of source/input pairs.
+ * @param {string} [options.token] - GitHub PAT. Defaults to MESH_DATABASE_TOKEN env var.
+ * @returns {Promise<string|null>} The URL of the created/updated PR, or null if no changes.
+ */
+export async function relay({ sources, token }) {
+  if (!sources || sources.length === 0) {
+    throw new Error('No sources provided. Use --sources source:path,source:path');
+  }
+
   const githubToken = token || process.env.MESH_DATABASE_TOKEN;
   if (!githubToken) {
     throw new Error(
@@ -232,178 +211,104 @@ export async function relay({ source, inputDir, token }) {
     );
   }
 
-  // Make sure the input directory actually has .dat files to relay.
-  // We search recursively because extract.js preserves the zip's internal
-  // directory structure — e.g., No-Intro zips extract to a "No-Intro/"
-  // subdirectory, TOSEC to "TOSEC/", etc.
-  if (!fs.existsSync(inputDir)) {
-    throw new Error(`Input directory does not exist: ${inputDir}`);
-  }
-  const datFiles = findDatFiles(inputDir);
-  if (datFiles.length === 0) {
-    throw new Error(`No .dat files found in: ${inputDir}`);
-  }
-  console.log(`[relay] Found ${datFiles.length} DAT files to relay for source: ${source}`);
-
-  // --- Set up the temporary clone ---
-  // We clone into a temp directory that gets cleaned up at the end.
-  // The clone URL includes the PAT for authentication (x-access-token pattern).
   const tmpDir = path.join(process.cwd(), `.relay-clone-${Date.now()}`);
   const cloneUrl = `https://x-access-token:${githubToken}@github.com/${TARGET_REPO}.git`;
-
-  // Today's date for branch naming and commit messages
   const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
-  const branchName = `update-dats/${source}-${today}`;
+  const branchName = `update-dats/${today}`;
 
   try {
-    // --- Step 1: Shallow clone the target repo ---
-    // depth=1 means we only fetch the latest commit — no history needed.
-    // This keeps the clone fast, especially as the database repo grows.
+    // --- Clone once for all sources ---
     console.log(`[relay] Cloning ${TARGET_REPO} (shallow)...`);
     run(`git clone --depth=1 "${cloneUrl}" "${tmpDir}"`);
-
-    // Configure git identity for the automated commit.
-    // This shows up in the PR as the commit author.
     run('git config user.name "meshARKade-dats[bot]"', { cwd: tmpDir });
     run('git config user.email "dats-bot@mesharkade.dev"', { cwd: tmpDir });
 
-    // --- Step 2: Create the feature branch ---
-    // Each relay creates its own branch so PRs don't conflict.
-    // Branch name includes source + date for easy identification.
     console.log(`[relay] Creating branch: ${branchName}`);
     run(`git checkout -b "${branchName}"`, { cwd: tmpDir });
 
-    // --- Step 3: Sync DATs using canonical name diffing ---
-    // We don't wipe and replace — instead we diff each incoming DAT against
-    // what's already in the database using the canonical name as a key.
-    const targetDir = path.join(tmpDir, 'input', source);
-    fs.mkdirSync(targetDir, { recursive: true });
+    // --- Sync each source ---
+    const allStats = {};
+    const sourceNames = [];
 
-    // Build a map of what's already in the database for this source.
-    // Key = canonical name (no date), Value = current filename with date.
-    const existingMap = buildCanonicalMap(targetDir);
-
-    // Track what we do for the commit message summary
-    const stats = { added: 0, updated: 0, skipped: 0 };
-
-    // datFiles is an array of { name, fullPath } from the recursive finder.
-    // We use `name` (basename) for canonical matching and destination filename,
-    // and `fullPath` for reading the source file. All DATs land flat in
-    // input/{source}/ regardless of what subdirectory they were extracted into.
-    for (const { name: datFile, fullPath: srcPath } of datFiles) {
-      const incoming = canonicalName(datFile);
-      const existing = existingMap.get(incoming);
-
-      if (!existing) {
-        // New DAT — system wasn't in the database before
-        fs.copyFileSync(srcPath, path.join(targetDir, datFile));
-        console.log(`[relay]   + ${datFile} (new)`);
-        stats.added++;
-      } else if (existing === datFile) {
-        // Same filename = same date = no change, skip
-        console.log(`[relay]   = ${datFile} (unchanged)`);
-        stats.skipped++;
-      } else {
-        // Same canonical name, different date = updated DAT.
-        // Delete the old version and copy the new one.
-        fs.rmSync(path.join(targetDir, existing));
-        fs.copyFileSync(srcPath, path.join(targetDir, datFile));
-        console.log(`[relay]   ~ ${datFile} (updated, replaced ${existing})`);
-        stats.updated++;
+    for (const { source, inputDir } of sources) {
+      if (!fs.existsSync(inputDir)) {
+        console.warn(`[relay] Skipping ${source}: input directory does not exist (${inputDir})`);
+        continue;
       }
 
-      // Remove from the map as we process — anything left at the end
-      // was in the database but not in the incoming set (deleted upstream)
-      existingMap.delete(incoming);
+      const targetDir = path.join(tmpDir, 'input', source);
+      const stats = syncSource(source, inputDir, targetDir);
+      allStats[source] = stats;
+      sourceNames.push(source);
+
+      // Stage this source's changes
+      run(`git add "input/${source}/"`, { cwd: tmpDir });
     }
 
-    // Any remaining entries in existingMap are DATs that were in the database
-    // but didn't appear in today's download — they've been removed upstream.
-    // Delete them so the database stays in sync.
-    for (const [, removedFile] of existingMap) {
-      fs.rmSync(path.join(targetDir, removedFile));
-      console.log(`[relay]   - ${removedFile} (removed upstream)`);
-    }
-    const removedCount = existingMap.size;
-
-    console.log(`[relay] Sync complete: +${stats.added} new, ~${stats.updated} updated, =${stats.skipped} unchanged, -${removedCount} removed`);
-
-    // --- Step 5: Stage and commit ---
-    // We stage everything in input/{source}/ — both new files and deletions.
-    // The `--all` flag on `git add` captures removals too (from our rmSync above).
-    run(`git add "input/${source}/"`, { cwd: tmpDir });
-
-    // Check if there are actually changes to commit.
-    // If the DATs are identical to what's already in the database, skip.
+    // --- Check for any actual changes across all sources ---
     const status = run('git status --porcelain', { cwd: tmpDir });
     if (!status) {
-      console.log(`[relay] No changes detected for ${source}. DATs are already up to date.`);
+      console.log('[relay] No changes detected across any source. Everything is up to date.');
       console.log('SKIP');
       return null;
     }
 
-    const commitMsg = `chore(dats): update ${source} DATs (${today})\n\n` +
+    // --- Build commit message with per-source stats ---
+    const sourceList = sourceNames.join(', ');
+    const statsLines = sourceNames.map(s => {
+      const st = allStats[s];
+      return `  ${s}: +${st.added} new, ~${st.updated} updated, -${st.removed} removed, =${st.skipped} unchanged`;
+    });
+
+    const commitMsg = `chore(dats): update DATs (${today})\n\n` +
       `Automated relay from meshARKade-dats pipeline.\n` +
-      `Source: ${source}\n` +
-      `Date: ${today}\n` +
-      `Added: ${stats.added} | Updated: ${stats.updated} | Removed: ${removedCount} | Unchanged: ${stats.skipped}`;
+      `Sources: ${sourceList}\n` +
+      `Date: ${today}\n\n` +
+      statsLines.join('\n');
 
     run(`git commit -m "${commitMsg}"`, { cwd: tmpDir });
 
-    // --- Step 6: Push the branch ---
-    // We force-push so that if a stale branch with this name exists on the
-    // remote (e.g., from a closed PR on a previous run today), we overwrite
-    // it cleanly. This is always safe because we start from a fresh clone
-    // and the branch is fully recomputed from current data.
+    // --- Push (force to handle stale branches from previous runs) ---
     console.log(`[relay] Pushing branch: ${branchName}`);
     run(`git push --force origin "${branchName}"`, { cwd: tmpDir });
 
-    // --- Step 7: Open a PR via the `gh` CLI ---
-    // We use `gh pr create` with the PAT set as GH_TOKEN so it authenticates.
-    // The --repo flag targets the database repo specifically.
+    // --- Open PR ---
     console.log(`[relay] Opening PR on ${TARGET_REPO}...`);
-    const prTitle = `Update ${source} DATs — ${today}`;
+    const prTitle = `Update DATs — ${today}`;
+
+    // Build per-source stats table for the PR body
+    const statsRows = sourceNames.map(s => {
+      const st = allStats[s];
+      return `| ${s} | ${st.added} | ${st.updated} | ${st.removed} | ${st.skipped} |`;
+    }).join('\n');
+
     const prBody = [
       `## Automated DAT Relay`,
       ``,
-      `**Source:** ${source}`,
       `**Date:** ${today}`,
+      `**Sources:** ${sourceList}`,
       ``,
-      `| Change | Count |`,
-      `|--------|-------|`,
-      `| New systems | ${stats.added} |`,
-      `| Updated (new date) | ${stats.updated} |`,
-      `| Removed (gone upstream) | ${removedCount} |`,
-      `| Unchanged (skipped) | ${stats.skipped} |`,
+      `| Source | New | Updated | Removed | Unchanged |`,
+      `|--------|-----|---------|---------|-----------|`,
+      statsRows,
       ``,
       `This PR was automatically generated by the meshARKade-dats daily pipeline.`,
       `DAT files are fetched from upstream, validated, and diffed against the`,
-      `current database contents before relay — only changed files appear in this diff.`,
-      ``,
-      `### What to review`,
-      `- Updated DATs: verify the new date looks recent`,
-      `- Removed DATs: confirm the system was intentionally dropped upstream`,
-      `- New DATs: new system coverage being added`,
+      `current database contents — only changed files appear in this diff.`,
       ``,
       `---`,
-      `🤖 Generated by meshARKade-dats automation`,
+      `Generated by meshARKade-dats automation`,
     ].join('\n');
 
-    // The `gh pr create` command returns the PR URL on success.
-    // If a PR already exists for this branch (e.g., the TOSEC PR is still open
-    // from a previous run), gh pr create will fail — we catch that and get the
-    // existing PR URL instead so the caller still has a usable reference.
     let prUrl;
     try {
       prUrl = run(
         `gh pr create --repo "${TARGET_REPO}" --title "${prTitle}" --body "${prBody}" --head "${branchName}"`,
-        {
-          cwd: tmpDir,
-          env: { ...process.env, GH_TOKEN: githubToken },
-        }
+        { cwd: tmpDir, env: { ...process.env, GH_TOKEN: githubToken } }
       );
     } catch (prErr) {
-      // If there's already an open PR for this branch, retrieve its URL
+      // If a PR already exists for today's branch, the force-push already
+      // updated it. Just retrieve the existing PR URL.
       if (prErr.message.includes('already exists')) {
         console.log(`[relay] PR already exists for ${branchName}, fetching URL...`);
         prUrl = run(
@@ -419,8 +324,6 @@ export async function relay({ source, inputDir, token }) {
     console.log(`[relay] PR created: ${prUrl}`);
     return prUrl;
   } finally {
-    // --- Cleanup: remove the temporary clone ---
-    // Always clean up, even if something failed above.
     console.log('[relay] Cleaning up temporary clone...');
     try {
       fs.rmSync(tmpDir, { recursive: true, force: true });
@@ -431,12 +334,12 @@ export async function relay({ source, inputDir, token }) {
 }
 
 // --- CLI entry point ---
-// Usage: node scripts/relay.js --source <name> --input <dir> [--token <pat>]
+// Usage: node scripts/relay.js --sources source:path[,source:path,...] [--token <pat>]
 //
 // Examples:
-//   node scripts/relay.js --source redump --input output/raw/redump
-//   node scripts/relay.js --source no-intro --input output/raw/no-intro
-//   node scripts/relay.js --source tosec --input output/raw/tosec
+//   node scripts/relay.js --sources no-intro:artifacts/no-intro
+//   node scripts/relay.js --sources no-intro:artifacts/no-intro,redump:artifacts/redump
+//   node scripts/relay.js --sources no-intro:artifacts/no-intro,tosec:artifacts/tosec,redump:artifacts/redump
 //
 // Environment:
 //   MESH_DATABASE_TOKEN — GitHub PAT (can also pass via --token)
@@ -444,11 +347,23 @@ const isDirectRun = process.argv[1] && import.meta.url.endsWith(process.argv[1].
 if (isDirectRun) {
   const args = parseArgs(process.argv.slice(2));
 
-  relay({
-    source: args.source,
-    inputDir: args.input,
-    token: args.token,
-  })
+  // Parse --sources flag: "no-intro:path,redump:path" → [{source, inputDir}]
+  if (!args.sources) {
+    console.error('[relay] Missing --sources argument.');
+    console.error('[relay] Usage: --sources source:path[,source:path,...]');
+    process.exit(1);
+  }
+
+  const sources = args.sources.split(',').map(pair => {
+    const [source, inputDir] = pair.split(':');
+    if (!source || !inputDir) {
+      console.error(`[relay] Invalid source pair: "${pair}". Expected "source:path".`);
+      process.exit(1);
+    }
+    return { source, inputDir };
+  });
+
+  relay({ sources, token: args.token })
     .then((prUrl) => {
       if (prUrl) {
         console.log(`[relay] Done. PR: ${prUrl}`);

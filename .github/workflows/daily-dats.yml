@@ -302,9 +302,10 @@ jobs:
   # Job 4: Relay DATs to meshARKade-database
   # ===========================================================================
   # This job runs after all three fetch jobs complete (or fail).
-  # It downloads whichever artifacts were produced and opens a PR on
-  # meshARKade-database for each source. One PR per source keeps
-  # reviews focused and allows partial failures.
+  # It downloads whichever artifacts were produced and opens ONE combined
+  # PR on meshARKade-database with all sources in a single commit.
+  #
+  # One PR per day → one merge → one signed release on meshARKade-database.
   #
   # Uses `if: always()` so it runs even if one source failed — we still
   # want to relay the sources that succeeded.
@@ -327,8 +328,9 @@ jobs:
         run: npm install
 
       # --- Download artifacts from the fetch jobs ---
-      # Each download step uses `continue-on-error: true` so that a
-      # failed fetch job doesn't prevent us from relaying the others.
+      # Each download step only runs if the fetch job succeeded and
+      # wasn't skipped. The relay step below dynamically builds the
+      # --sources argument from whichever directories exist.
 
       - name: Download No-Intro DATs
         if: needs.fetch-no-intro.result == 'success'
@@ -351,30 +353,32 @@ jobs:
           name: dats-redump
           path: artifacts/redump
 
-      # --- Relay each source that produced artifacts ---
-      # relay.js opens a PR on meshARKade-database for each source.
-      # The `continue-on-error` ensures one relay failure doesn't block others.
-
-      - name: Relay No-Intro DATs
-        if: needs.fetch-no-intro.result == 'success'
-        continue-on-error: true
+      # --- Relay all sources in one combined PR ---
+      # Dynamically build the --sources argument from whichever artifact
+      # directories exist. relay.js handles the rest: one clone, one branch,
+      # one commit, one PR.
+      - name: Relay DATs to meshARKade-database
         env:
           MESH_DATABASE_TOKEN: ${{ secrets.MESH_DATABASE_TOKEN }}
-        run: node scripts/relay.js --source no-intro --input artifacts/no-intro
+        run: |
+          SOURCES=""
+          if [ -d artifacts/no-intro ]; then
+            SOURCES="no-intro:artifacts/no-intro"
+          fi
+          if [ -d artifacts/tosec ]; then
+            SOURCES="${SOURCES:+$SOURCES,}tosec:artifacts/tosec"
+          fi
+          if [ -d artifacts/redump ]; then
+            SOURCES="${SOURCES:+$SOURCES,}redump:artifacts/redump"
+          fi
 
-      - name: Relay TOSEC DATs
-        if: needs.fetch-tosec.result == 'success' && needs.fetch-tosec.outputs.skipped != 'true'
-        continue-on-error: true
-        env:
-          MESH_DATABASE_TOKEN: ${{ secrets.MESH_DATABASE_TOKEN }}
-        run: node scripts/relay.js --source tosec --input artifacts/tosec
+          if [ -z "$SOURCES" ]; then
+            echo "[relay] No sources to relay — all fetch jobs failed or were skipped."
+            exit 0
+          fi
 
-      - name: Relay Redump DATs
-        if: needs.fetch-redump.result == 'success' && needs.fetch-redump.outputs.skipped != 'true'
-        continue-on-error: true
-        env:
-          MESH_DATABASE_TOKEN: ${{ secrets.MESH_DATABASE_TOKEN }}
-        run: node scripts/relay.js --source redump --input artifacts/redump
+          echo "[relay] Relaying sources: $SOURCES"
+          node scripts/relay.js --sources "$SOURCES"
 
       # --- Commit updated versions.json ---
       # Both TOSEC (version string) and Redump (commit SHA) track their
