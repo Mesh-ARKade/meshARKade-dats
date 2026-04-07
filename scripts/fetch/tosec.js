@@ -30,10 +30,16 @@ const TOSEC_DOWNLOADS_URL = 'https://www.tosecdev.org/downloads/category/22-datf
  * @returns {{ tosec: { version: string|null, lastChecked: string|null } }}
  */
 function readVersions(versionsPath) {
+  const defaults = { tosec: { version: null, lastChecked: null } };
   if (!fs.existsSync(versionsPath)) {
-    return { tosec: { version: null, lastChecked: null } };
+    return defaults;
   }
-  return JSON.parse(fs.readFileSync(versionsPath, 'utf-8'));
+  try {
+    const data = JSON.parse(fs.readFileSync(versionsPath, 'utf-8'));
+    return { ...defaults, ...data };
+  } catch {
+    return defaults;
+  }
 }
 
 /**

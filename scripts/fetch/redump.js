@@ -130,6 +130,7 @@ async function getLatestCommitSha() {
  */
 function readStoredSha(versionsPath) {
   try {
+    if (!fs.existsSync(versionsPath)) return null;
     const data = JSON.parse(fs.readFileSync(versionsPath, 'utf-8'));
     return data?.redump?.commitSha ?? null;
   } catch {
