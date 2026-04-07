@@ -15,7 +15,7 @@ export function detectSource(archivePath) {
   if (basename.includes('tosec')) {
     return 'tosec';
   }
-  if (basename.includes('mame')) {
+  if (basename.includes('mame') || basename.includes('sl_dats')) {
     return 'mame';
   }
   

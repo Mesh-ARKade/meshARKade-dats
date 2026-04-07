@@ -86,7 +86,21 @@ export async function fetchNoIntro(outputDir) {
   try {
     // --- Step 1: Navigate to the daily download page ---
     console.log('[no-intro] Navigating to Dat-o-Matic...');
-    await page.goto(DAT_O_MATIC_URL, { waitUntil: 'load' });
+    
+    // Add retry logic for initial navigation - sometimes the site is slow to wake up
+    let attempt = 0;
+    const maxAttempts = 3;
+    while (attempt < maxAttempts) {
+      try {
+        await page.goto(DAT_O_MATIC_URL, { waitUntil: 'load', timeout: 60_000 });
+        break; // Success
+      } catch (err) {
+        attempt++;
+        if (attempt === maxAttempts) throw err;
+        console.warn(`[no-intro]   Navigation attempt ${attempt} failed. Retrying...`);
+        await new Promise(r => setTimeout(r, 5000));
+      }
+    }
 
     // --- Step 2: Apply filter settings ---
     // The page uses checkboxes named `set1`–`set8` in a table (no <label> elements).
