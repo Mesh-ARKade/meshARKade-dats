@@ -75,6 +75,20 @@ jobs:
   fetch-no-intro:
     runs-on: ubuntu-latest
     steps:
+      - name: Discord notification (started)
+        if: env.DISCORD_WEBHOOK_URL != ''
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          RUN_URL="https://github.com/Mesh-ARKade/meshARKade-dats/actions/runs/${{ github.run_id }}"
+          curl -s -H "Content-Type: application/json" -d "{
+            \"embeds\": [{
+              \"title\": \"DAT Fetch Started\",
+              \"description\": \"Daily pipeline triggered\n[View run](${RUN_URL})\",
+              \"color\": 16776960
+            }]
+          }" "$DISCORD_WEBHOOK_URL"
+
       - name: Checkout meshARKade-dats
         uses: actions/checkout@v4
 
