@@ -115,15 +115,15 @@ jobs:
 
           if [ -z "$SOURCES" ]; then
             echo "[relay] No sources updated today. Skipping relay."
-            echo "RELAY_STATUS=No sources had updates. Skipped." >> $GITHUB_ENV
+            echo "RELAY_STATUS=Unchanged (None to process)" >> $GITHUB_ENV
           else
             echo "[relay] Relaying sources: $SOURCES"
             OUTPUT=$(node scripts/relay.js --sources "$SOURCES" 2>&1)
             echo "$OUTPUT"
-            if echo "$OUTPUT" | grep -q "No changes detected across any source"; then
-              echo "RELAY_STATUS=Bit-for-bit identical to database. Skipped." >> $GITHUB_ENV
+            if echo "$OUTPUT" | grep -q "SKIP"; then
+              echo "RELAY_STATUS=Unchanged (Identical to database)" >> $GITHUB_ENV
             else
-              echo "RELAY_STATUS=Relayed changes to database PR successfully." >> $GITHUB_ENV
+              echo "RELAY_STATUS=Changes Relayed (PR opened/updated)" >> $GITHUB_ENV
             fi
           fi
 
@@ -149,26 +149,24 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          FETCHED=""
-          [ -d output/no-intro ] && FETCHED="${FETCHED}no-intro "
-          [ -d output/tosec ] && FETCHED="${FETCHED}tosec "
-          [ -d output/redump ] && FETCHED="${FETCHED}redump "
-          [ -d output/mame ] && FETCHED="${FETCHED}mame "
-          FETCHED="${FETCHED:-none}"
-          
-          NOTES=""
+          SUMMARY="**Fetch Status**\n"
+          SUMMARY="${SUMMARY}- No-Intro: ${STATUS_NOINTRO}\n"
+          SUMMARY="${SUMMARY}- TOSEC: ${STATUS_TOSEC}\n"
+          SUMMARY="${SUMMARY}- Redump: ${STATUS_REDUMP}\n"
+          SUMMARY="${SUMMARY}- MAME: ${STATUS_MAME}\n"
+          SUMMARY="${SUMMARY}\n**Relay Status:** ${RELAY_STATUS:-Unknown}"
+
           if [ "$NO_INTRO_SKIPPED" = "true" ]; then
-            NOTES="\n\n**Warning:** No-Intro was skipped. Reason: \`${NO_INTRO_REASON}\`"
+            SUMMARY="${SUMMARY}\n\n**⚠ No-Intro Warning:** \`${NO_INTRO_REASON}\`"
           fi
           
-          if [ -n "$RELAY_STATUS" ]; then
-            NOTES="${NOTES}\n\n**Relay Status:** ${RELAY_STATUS}"
-          fi
-          
+          # Escape for JSON
+          SUMMARY_JSON=$(echo -e "$SUMMARY" | python3 -c 'import sys,json; print(json.dumps(sys.stdin.read()))')
+
           curl -s -H "Content-Type: application/json" -d "{
             \"embeds\": [{
               \"title\": \"DAT Fetch Complete\",
-              \"description\": \"Sources processed: ${FETCHED}${NOTES}\",
+              \"description\": ${SUMMARY_JSON},
               \"color\": 3066993,
               \"url\": \"https://github.com/Mesh-ARKade/meshARKade-dats/actions/runs/${{ github.run_id }}\"
             }]
