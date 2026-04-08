@@ -33,6 +33,7 @@ import fs from 'fs';
 import path from 'path';
 import crypto from 'crypto';
 import os from 'os';
+import zlib from 'zlib';
 import { execSync } from 'child_process';
 
 /**
@@ -172,46 +173,44 @@ function syncSource(source, inputDir, targetDir) {
     if (!existingFilename) {
       // New file: compress and copy
       console.log(`[relay]   + ${datFile} (new, compressing...)`);
-      execSync(`gzip -c "${srcPath}" > "${targetPath}"`);
+      const compressed = zlib.gzipSync(fs.readFileSync(srcPath));
+      fs.writeFileSync(targetPath, compressed);
       stats.added++;
     } else {
       // Existing file: check if content changed
-      // We need to compare the raw content, not the gzipped one (to avoid header diffs)
       const existingPath = path.join(targetDir, existingFilename);
       
-      // Temporary decompression for comparison
-      const tempDecompressed = path.join(os.tmpdir(), `relay-tmp-${Math.random().toString(36).slice(2)}`);
       try {
-          execSync(`gunzip -c "${existingPath}" > "${tempDecompressed}"`);
+          const existingDecompressed = zlib.gunzipSync(fs.readFileSync(existingPath));
+          const srcContent = fs.readFileSync(srcPath);
           
-          const srcHash = crypto.createHash('sha256').update(fs.readFileSync(srcPath)).digest('hex');
-          const existingHash = crypto.createHash('sha256').update(fs.readFileSync(tempDecompressed)).digest('hex');
+          const srcHash = crypto.createHash('sha256').update(srcContent).digest('hex');
+          const existingHash = crypto.createHash('sha256').update(existingDecompressed).digest('hex');
           
           if (srcHash !== existingHash) {
             console.log(`[relay]   ~ ${datFile} (updated, re-compressing...)`);
-            // Remove old (might have had different extension before .gz normalization)
             if (existingFilename !== targetFilename) {
                 fs.unlinkSync(existingPath);
             }
-            execSync(`gzip -c "${srcPath}" > "${targetPath}"`);
+            const compressed = zlib.gzipSync(srcContent);
+            fs.writeFileSync(targetPath, compressed);
             stats.updated++;
           } else {
             // Unchanged
             stats.skipped++;
-            // Ensure extension is .gz even if it was raw before
             if (existingFilename !== targetFilename) {
                 console.log(`[relay]   ! ${datFile} (normalizing extension to .gz)`);
                 fs.unlinkSync(existingPath);
-                execSync(`gzip -c "${srcPath}" > "${targetPath}"`);
+                const compressed = zlib.gzipSync(srcContent);
+                fs.writeFileSync(targetPath, compressed);
             }
           }
       } catch (err) {
           console.warn(`[relay] Warning: Failed to compare ${datFile}, assuming changed. Error: ${err.message}`);
-          fs.unlinkSync(existingPath);
-          execSync(`gzip -c "${srcPath}" > "${targetPath}"`);
+          if (fs.existsSync(existingPath)) fs.unlinkSync(existingPath);
+          const compressed = zlib.gzipSync(fs.readFileSync(srcPath));
+          fs.writeFileSync(targetPath, compressed);
           stats.updated++;
-      } finally {
-          if (fs.existsSync(tempDecompressed)) fs.unlinkSync(tempDecompressed);
       }
     }
   }
