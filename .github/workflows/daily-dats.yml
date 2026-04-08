@@ -2,167 +2,44 @@
 # Daily DAT Pipeline
 # =============================================================================
 #
-# This workflow is the heart of the meshARKade-dats automation. It runs daily
-# (6 AM UTC) and fetches DAT files from three preservation sources:
+# This workflow is the heart of the meshARKade-dats repo. It runs once a day
+# to fetch the latest preservation metadata from No-Intro, TOSEC, Redump,
+# and MAME.
 #
-#   1. No-Intro    — via Playwright (Dat-o-Matic requires form interaction)
-#   2. TOSEC       — via direct download (checks version to avoid re-downloading)
-#   3. Redump      — via Fresh1G1R GitHub repo (sparse checkout of raw DATs)
-#
-# After fetching, each source's DATs are extracted, validated, and uploaded as
-# GitHub Actions artifacts. The final "relay" job downloads all artifacts and
-# opens a PR on meshARKade-database for each source that produced new DATs.
-#
-# Architecture:
-#
-#   ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-#   │ fetch-no-intro│  │ fetch-tosec  │  │ fetch-redump │
-#   │  (Playwright) │  │ (version chk)│  │ (sparse git) │
-#   └──────┬───────┘  └──────┬───────┘  └──────┬───────┘
-#          │                 │                  │
-#          │    (all three run in parallel)     │
-#          │                 │                  │
-#          └────────┬────────┴──────────┬───────┘
-#                   │                   │
-#                   ▼                   ▼
-#              ┌─────────────────────────────┐
-#              │           relay             │
-#              │  (downloads artifacts, PRs  │
-#              │   to meshARKade-database)   │
-#              └─────────────────────────────┘
-#
-# Secrets required:
-#   MESH_DATABASE_TOKEN — fine-grained PAT with contents:write and
-#                         pull-requests:write on meshARKade-database
+# Process:
+#   1. Fetch: Scrape/Download from 4 primary sources
+#   2. Validate: Ensure the XML structure is correct
+#   3. Relay: Open a single combined PR on meshARKade-database
+#   4. Commit: Save updated version tracking back to this repo
 #
 # =============================================================================
 
 name: Daily DAT Pipeline
 
 on:
-  # Run every day at 6 AM UTC
   schedule:
+    # Run at 06:00 UTC every day
     - cron: '0 6 * * *'
-
-  # Allow manual trigger from the Actions UI for testing
   workflow_dispatch:
+    # Allow manual triggers for testing
 
-# Only allow one run at a time — if a new run starts, cancel the old one.
-# This prevents overlapping relay PRs from the same day.
+# Ensure only one pipeline runs at a time
 concurrency:
-  group: daily-dats
+  group: daily-pipeline
   cancel-in-progress: true
 
-# Grant the GITHUB_TOKEN write access so the relay job can push
-# versions.json back to this repo after a TOSEC update.
-permissions:
-  contents: write
-
-# Silence the Node 20 deprecation warnings from actions/checkout@v4 etc.
-# These actions still use Node 20 internally; this forces them to Node 24.
-# Safe to remove once v5 actions are released.
+# Silence Node 20 deprecation warnings from actions/*@v4
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  # ===========================================================================
-  # Job 1: Fetch No-Intro DATs
-  # ===========================================================================
-  # Uses Playwright to automate the Dat-o-Matic web form. No direct download
-  # URL exists — you have to check filter boxes, click "Request", wait for
-  # server-side archive generation, then click "Download!!".
-  # ===========================================================================
-  fetch-no-intro:
+  pipeline:
     runs-on: ubuntu-latest
-    steps:
-      - name: Discord notification (started)
-        if: env.DISCORD_WEBHOOK_URL != ''
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: |
-          RUN_URL="https://github.com/Mesh-ARKade/meshARKade-dats/actions/runs/${{ github.run_id }}"
-          curl -s -H "Content-Type: application/json" -d "{
-            \"embeds\": [{
-              \"title\": \"DAT Fetch Started\",
-              \"description\": \"Daily pipeline triggered\n[View run](${RUN_URL})\",
-              \"color\": 16776960
-            }]
-          }" "$DISCORD_WEBHOOK_URL"
+    
+    permissions:
+      contents: write
+      pull-requests: write
 
-      - name: Checkout meshARKade-dats
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js 22
-        uses: actions/setup-node@v4
-        with:
-          # Node 22 is the current LTS. Node 24 isn't in the GHA tool cache yet.
-          node-version: '22'
-
-      - name: Install dependencies
-        # Using `npm install` instead of `npm ci` because we don't have a
-        # committed package-lock.json. This is slightly slower but works.
-        run: npm install
-
-      - name: Install Playwright Chromium
-        # Playwright needs a real browser binary. We only install Chromium
-        # (not Firefox/WebKit) since that's all we need for Dat-o-Matic.
-        # The --with-deps flag installs OS-level dependencies (libs, fonts).
-        run: npx playwright install chromium --with-deps
-
-      - name: Fetch No-Intro daily DAT pack
-        # dats/no-intro/ is the staging area for raw zip archives.
-        # Zips are gitignored but the directory is tracked so the layout
-        # is self-documenting when you clone the repo.
-        run: node scripts/fetch/no-intro.js dats/no-intro
-
-      - name: Extract No-Intro archive
-        # The fetcher downloads a .zip — we need to extract the .dat files.
-        # extract.js handles zip/7z/rar and sorts by detected source.
-        run: |
-          for zip in dats/no-intro/*.zip; do
-            [ -f "$zip" ] && node scripts/extract.js "$zip" .
-          done
-
-      - name: Check No-Intro artifact size
-        # Warn (don't fail) if we're close to the 500MB artifact limit.
-        run: |
-          size=$(du -sb output/no-intro | cut -f1)
-          human=$(du -sh output/no-intro | cut -f1)
-          echo "[size] No-Intro output: $human"
-          if [ "$size" -gt 450000000 ]; then
-            echo "::warning::No-Intro artifact size ($human) is approaching the 500MB GitHub Actions limit"
-          fi
-
-      - name: Validate No-Intro DATs
-        run: node scripts/validate.js output/no-intro
-
-      # Upload the validated DATs as a GitHub Actions artifact so the
-      # relay job can download them later. Artifacts are the mechanism
-      # for passing data between jobs in a workflow.
-      - name: Upload No-Intro DATs
-        uses: actions/upload-artifact@v4
-        with:
-          name: dats-no-intro
-          path: output/no-intro/
-          # Don't fail the job if no DATs were produced (e.g., download failed)
-          if-no-files-found: error
-          # Artifacts only need to live long enough for the relay job
-          retention-days: 1
-
-  # ===========================================================================
-  # Job 2: Fetch TOSEC DATs
-  # ===========================================================================
-  # TOSEC only releases ~2x per year, so most daily runs will skip.
-  # We track the last-downloaded version in versions.json and compare
-  # against the latest release found on the TOSEC downloads page.
-  # ===========================================================================
-  fetch-tosec:
-    runs-on: ubuntu-latest
-    # This output lets the relay job know if TOSEC actually had new data.
-    # If TOSEC was skipped (already up to date), the relay job won't try
-    # to relay TOSEC DATs.
-    outputs:
-      skipped: ${{ steps.fetch.outputs.skipped }}
     steps:
       - name: Checkout meshARKade-dats
         uses: actions/checkout@v4
@@ -175,362 +52,77 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Fetch TOSEC DAT pack
-        id: fetch
-        # Capture the output to detect "SKIP" — if tosec.js outputs SKIP,
-        # it means versions.json already has the latest version and we
-        # don't need to re-download.
+      - name: Install 7zip (for MAME/Redump)
+        run: sudo apt-get install -y p7zip-full
+
+      # --- FETCH PHASE ---
+
+      - name: Fetch No-Intro
+        run: |
+          node scripts/fetch/no-intro.js dats/no-intro
+          node scripts/extract.js dats/no-intro/daily.zip .
+          node scripts/validate.js output/no-intro
+
+      - name: Fetch TOSEC
         run: |
           OUTPUT=$(node scripts/fetch/tosec.js dats/tosec versions.json 2>&1)
           echo "$OUTPUT"
-          if echo "$OUTPUT" | grep -q "^SKIP$"; then
-            echo "skipped=true" >> "$GITHUB_OUTPUT"
-            echo "[tosec] Skipped — already up to date."
-          else
-            echo "skipped=false" >> "$GITHUB_OUTPUT"
+          if [[ "$OUTPUT" != *"SKIP"* ]]; then
+            node scripts/extract.js dats/tosec/*.zip .
+            node scripts/validate.js output/tosec
           fi
 
-      - name: Extract TOSEC archive
-        if: steps.fetch.outputs.skipped != 'true'
-        run: |
-          for zip in dats/tosec/*.zip; do
-            [ -f "$zip" ] && node scripts/extract.js "$zip" .
-          done
-
-      - name: Check TOSEC artifact size
-        if: steps.fetch.outputs.skipped != 'true'
-        # TOSEC unpacks to ~4,700 DATs — worth watching. Warn at 450MB.
-        run: |
-          size=$(du -sb output/tosec | cut -f1)
-          human=$(du -sh output/tosec | cut -f1)
-          echo "[size] TOSEC output: $human"
-          if [ "$size" -gt 450000000 ]; then
-            echo "::warning::TOSEC artifact size ($human) is approaching the 500MB GitHub Actions limit"
-          fi
-
-      - name: Validate TOSEC DATs
-        if: steps.fetch.outputs.skipped != 'true'
-        run: node scripts/validate.js output/tosec
-
-      - name: Upload TOSEC DATs
-        if: steps.fetch.outputs.skipped != 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: dats-tosec
-          path: output/tosec/
-          if-no-files-found: error
-          retention-days: 1
-
-      # If TOSEC updated, we need to commit the new versions.json back
-      # to the repo so next run knows we already have this version.
-      - name: Upload versions.json
-        if: steps.fetch.outputs.skipped != 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: versions-json-tosec
-          path: versions.json
-          retention-days: 1
-
-  # ===========================================================================
-  # Job 3: Fetch Redump DATs
-  # ===========================================================================
-  # Pulls raw Redump DATs from Fresh1G1R's daily-virgin-dat/ directory.
-  # Fresh1G1R (github.com/UnluckyForSome/Fresh1G1R) updates daily via
-  # their own GitHub Actions. We do a sparse checkout to only grab the
-  # raw DATs, skipping their 1G1R filtered sets.
-  #
-  # Before cloning, redump.js queries the GitHub API for the latest commit
-  # SHA on the redump directory. If it matches versions.json, the job skips
-  # the expensive sparse checkout — same pattern as the TOSEC version check.
-  # ===========================================================================
-  fetch-redump:
-    runs-on: ubuntu-latest
-    # Surface the skip flag so the relay job knows not to relay Redump
-    # on days when Fresh1G1R hasn't updated their DATs.
-    outputs:
-      skipped: ${{ steps.fetch.outputs.skipped }}
-    steps:
-      - name: Checkout meshARKade-dats
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js 22
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Fetch Redump DATs from Fresh1G1R
-        id: fetch
-        # Pass versions.json so redump.js can check the stored SHA and
-        # skip the sparse checkout if nothing has changed upstream.
-        # GITHUB_TOKEN is available automatically in Actions and gives
-        # redump.js a higher GitHub API rate limit (5000/hr vs 60/hr).
+      - name: Fetch Redump
         run: |
           OUTPUT=$(node scripts/fetch/redump.js output/redump versions.json 2>&1)
           echo "$OUTPUT"
-          if echo "$OUTPUT" | grep -q "^SKIP$"; then
-            echo "skipped=true" >> "$GITHUB_OUTPUT"
-            echo "[redump] Skipped — already up to date."
-          else
-            echo "skipped=false" >> "$GITHUB_OUTPUT"
+          if [[ "$OUTPUT" != *"SKIP"* ]]; then
+            node scripts/validate.js output/redump
           fi
 
-      - name: Check Redump artifact size
-        if: steps.fetch.outputs.skipped != 'true'
-        # Warn (don't fail) if the output directory is close to the
-        # GitHub Actions artifact upload limit of 500MB per artifact.
-        run: |
-          size=$(du -sb output/redump | cut -f1)
-          human=$(du -sh output/redump | cut -f1)
-          echo "[size] Redump output: $human"
-          if [ "$size" -gt 450000000 ]; then
-            echo "::warning::Redump artifact size ($human) is approaching the 500MB GitHub Actions limit"
-          fi
-
-      - name: Validate Redump DATs
-        if: steps.fetch.outputs.skipped != 'true'
-        run: node scripts/validate.js output/redump
-
-      - name: Upload Redump DATs
-        if: steps.fetch.outputs.skipped != 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: dats-redump
-          path: output/redump/
-          if-no-files-found: error
-          retention-days: 1
-
-      # If Redump updated, upload the new versions.json so the relay job
-      # can commit the updated SHA back to this repo.
-      - name: Upload versions.json
-        if: steps.fetch.outputs.skipped != 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: versions-json-redump
-          path: versions.json
-          retention-days: 1
-
-  # ===========================================================================
-  # Job 4: Fetch MAME DATs
-  # ===========================================================================
-  # Pulls Arcade and Software List DATs from ProgettoSnaps.
-  # Tracks versions in versions.json to skip unchanged releases.
-  # ===========================================================================
-  fetch-mame:
-    runs-on: ubuntu-latest
-    outputs:
-      skipped: ${{ steps.fetch.outputs.skipped }}
-    steps:
-      - name: Checkout meshARKade-dats
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js 22
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Fetch MAME DATs from ProgettoSnaps
-        id: fetch
+      - name: Fetch MAME
         run: |
           OUTPUT=$(node scripts/fetch/mame.js dats/mame versions.json 2>&1)
           echo "$OUTPUT"
-          if echo "$OUTPUT" | grep -q "^SKIP$"; then
-            echo "skipped=true" >> "$GITHUB_OUTPUT"
-            echo "[mame] Skipped — already up to date."
-          else
-            echo "skipped=false" >> "$GITHUB_OUTPUT"
+          if [[ "$OUTPUT" != *"SKIP"* ]]; then
+            for arch in dats/mame/*; do
+              [ -f "$arch" ] && node scripts/extract.js "$arch" .
+            done
+            node scripts/validate.js output/mame
           fi
 
-      - name: Extract MAME archives
-        if: steps.fetch.outputs.skipped != 'true'
-        run: |
-          # Install 7zip for .7z files
-          sudo apt-get install -y p7zip-full
-          for arch in dats/mame/*; do
-            [ -f "$arch" ] && node scripts/extract.js "$arch" .
-          done
+      # --- RELAY PHASE ---
 
-      - name: Check MAME artifact size
-        if: steps.fetch.outputs.skipped != 'true'
-        run: |
-          size=$(du -sb output/mame | cut -f1)
-          human=$(du -sh output/mame | cut -f1)
-          echo "[size] MAME output: $human"
-          if [ "$size" -gt 450000000 ]; then
-            echo "::warning::MAME artifact size ($human) is approaching the 500MB GitHub Actions limit"
-          fi
-
-      - name: Validate MAME DATs
-        if: steps.fetch.outputs.skipped != 'true'
-        run: node scripts/validate.js output/mame
-
-      - name: Upload MAME DATs
-        if: steps.fetch.outputs.skipped != 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: dats-mame
-          path: output/mame/
-          if-no-files-found: error
-          retention-days: 1
-
-      - name: Upload versions.json
-        if: steps.fetch.outputs.skipped != 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: versions-json-mame
-          path: versions.json
-          retention-days: 1
-
-  # ===========================================================================
-  # Job 5: Relay DATs to meshARKade-database
-  # ===========================================================================
-  # This job runs after all fetch jobs complete (or fail).
-  # It downloads whichever artifacts were produced and opens ONE combined
-  # PR on meshARKade-database with all sources in a single commit.
-  #
-  # One PR per day → one merge → one signed release on meshARKade-database.
-  #
-  # Uses `if: always()` so it runs even if one source failed — we still
-  # want to relay the sources that succeeded.
-  # ===========================================================================
-  relay:
-    runs-on: ubuntu-latest
-    needs: [fetch-no-intro, fetch-tosec, fetch-redump, fetch-mame]
-    # Run even if some fetch jobs failed — relay whatever succeeded
-    if: always()
-    steps:
-      - name: Checkout meshARKade-dats
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js 22
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
-      - name: Install dependencies
-        run: npm install
-
-      # --- Download artifacts from the fetch jobs ---
-      # Each download step only runs if the fetch job succeeded and
-      # wasn't skipped. The relay step below dynamically builds the
-      # --sources argument from whichever directories exist.
-
-      - name: Download No-Intro DATs
-        if: needs.fetch-no-intro.result == 'success'
-        uses: actions/download-artifact@v4
-        with:
-          name: dats-no-intro
-          path: artifacts/no-intro
-
-      - name: Download TOSEC DATs
-        if: needs.fetch-tosec.result == 'success' && needs.fetch-tosec.outputs.skipped != 'true'
-        uses: actions/download-artifact@v4
-        with:
-          name: dats-tosec
-          path: artifacts/tosec
-
-      - name: Download Redump DATs
-        if: needs.fetch-redump.result == 'success' && needs.fetch-redump.outputs.skipped != 'true'
-        uses: actions/download-artifact@v4
-        with:
-          name: dats-redump
-          path: artifacts/redump
-
-      - name: Download MAME DATs
-        if: needs.fetch-mame.result == 'success' && needs.fetch-mame.outputs.skipped != 'true'
-        uses: actions/download-artifact@v4
-        with:
-          name: dats-mame
-          path: artifacts/mame
-
-      # --- Relay all sources in one combined PR ---
-      # Dynamically build the --sources argument from whichever artifact
-      # directories exist. relay.js handles the rest: one clone, one branch,
-      # one commit, one PR.
-      - name: Relay DATs to meshARKade-database
+      - name: Relay all to meshARKade-database
         env:
           MESH_DATABASE_TOKEN: ${{ secrets.MESH_DATABASE_TOKEN }}
         run: |
           SOURCES=""
-          if [ -d artifacts/no-intro ]; then
-            SOURCES="no-intro:artifacts/no-intro"
-          fi
-          if [ -d artifacts/tosec ]; then
-            SOURCES="${SOURCES:+$SOURCES,}tosec:artifacts/tosec"
-          fi
-          if [ -d artifacts/redump ]; then
-            SOURCES="${SOURCES:+$SOURCES,}redump:artifacts/redump"
-          fi
-          if [ -d artifacts/mame ]; then
-            SOURCES="${SOURCES:+$SOURCES,}mame:artifacts/mame"
-          fi
+          [ -d output/no-intro ] && SOURCES="no-intro:output/no-intro"
+          [ -d output/tosec ] && SOURCES="${SOURCES:+$SOURCES,}tosec:output/tosec"
+          [ -d output/redump ] && SOURCES="${SOURCES:+$SOURCES,}redump:output/redump"
+          [ -d output/mame ] && SOURCES="${SOURCES:+$SOURCES,}mame:output/mame"
 
           if [ -z "$SOURCES" ]; then
-            echo "[relay] No sources to relay — all fetch jobs failed or were skipped."
-            exit 0
+            echo "[relay] No sources updated today. Skipping relay."
+          else
+            echo "[relay] Relaying sources: $SOURCES"
+            node scripts/relay.js --sources "$SOURCES"
           fi
 
-          echo "[relay] Relaying sources: $SOURCES"
-          node scripts/relay.js --sources "$SOURCES"
-
-      # --- Commit updated versions.json ---
-      # Both TOSEC (version string) and Redump (commit SHA) track their
-      # upstream state in versions.json. If either updated, we download
-      # that job's artifact and commit the result back to main so the
-      # next run knows what we already have.
-      #
-      # We download whichever artifacts are available (continue-on-error
-      # so a missing artifact doesn't block the other), then commit once.
-
-      - name: Download updated versions.json (TOSEC)
-        if: needs.fetch-tosec.result == 'success' && needs.fetch-tosec.outputs.skipped != 'true'
-        continue-on-error: true
-        uses: actions/download-artifact@v4
-        with:
-          name: versions-json-tosec
-          path: .
-
-      - name: Download updated versions.json (Redump)
-        if: needs.fetch-redump.result == 'success' && needs.fetch-redump.outputs.skipped != 'true'
-        continue-on-error: true
-        uses: actions/download-artifact@v4
-        with:
-          name: versions-json-redump
-          path: .
-
-      - name: Download updated versions.json (MAME)
-        if: needs.fetch-mame.result == 'success' && needs.fetch-mame.outputs.skipped != 'true'
-        continue-on-error: true
-        uses: actions/download-artifact@v4
-        with:
-          name: versions-json-mame
-          path: .
+      # --- CLEANUP & COMMIT PHASE ---
 
       - name: Commit updated versions.json
-        # Run if any source ran (not skipped) — we'll check for actual
-        # changes before committing so this is safe to run unconditionally
-        # whenever at least one source wasn't skipped.
-        if: |
-          (needs.fetch-tosec.result == 'success' && needs.fetch-tosec.outputs.skipped != 'true') ||
-          (needs.fetch-redump.result == 'success' && needs.fetch-redump.outputs.skipped != 'true') ||
-          (needs.fetch-mame.result == 'success' && needs.fetch-mame.outputs.skipped != 'true')
         run: |
-          # Check if versions.json actually changed (it might not if both
-          # sources wrote the same data as what was already committed)
           if git diff --quiet versions.json 2>/dev/null; then
             echo "versions.json unchanged, nothing to commit."
-            exit 0
+          else
+            git config user.name "meshARKade-dats[bot]"
+            git config user.email "dats-bot@mesharkade.dev"
+            git add versions.json
+            git commit -m "chore: update version tracking"
+            git push
           fi
-          git config user.name "meshARKade-dats[bot]"
-          git config user.email "dats-bot@mesharkade.dev"
-          git add versions.json
-          git commit -m "chore: update version tracking"
-          git push
 
       # -----------------------------------------------------------------------
       # Notify Discord — success
@@ -541,15 +133,15 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
           FETCHED=""
-          [ -d artifacts/no-intro ] && FETCHED="${FETCHED}no-intro "
-          [ -d artifacts/tosec ] && FETCHED="${FETCHED}tosec "
-          [ -d artifacts/redump ] && FETCHED="${FETCHED}redump "
-          [ -d artifacts/mame ] && FETCHED="${FETCHED}mame "
+          [ -d output/no-intro ] && FETCHED="${FETCHED}no-intro "
+          [ -d output/tosec ] && FETCHED="${FETCHED}tosec "
+          [ -d output/redump ] && FETCHED="${FETCHED}redump "
+          [ -d output/mame ] && FETCHED="${FETCHED}mame "
           FETCHED="${FETCHED:-none}"
           curl -s -H "Content-Type: application/json" -d "{
             \"embeds\": [{
               \"title\": \"DAT Fetch Complete\",
-              \"description\": \"Sources relayed: ${FETCHED}\",
+              \"description\": \"Sources processed: ${FETCHED}\",
               \"color\": 3066993,
               \"url\": \"https://github.com/Mesh-ARKade/meshARKade-dats/actions/runs/${{ github.run_id }}\"
             }]
