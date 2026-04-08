@@ -1,15 +1,1 @@
-{
-  "mame": {
-    "arcade": "286",
-    "sl": "195",
-    "lastChecked": "2026-04-07T18:04:19.932Z"
-  },
-  "tosec": {
-    "version": "2025-03-13",
-    "lastChecked": "2026-04-07T12:12:02.990Z"
-  },
-  "redump": {
-    "commitSha": "7c4719bbf797e2c6df03051a50fba8d5da6450ce",
-    "lastChecked": "2026-04-07T11:25:54.125Z"
-  }
-}
+{}
