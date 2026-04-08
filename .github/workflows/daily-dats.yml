@@ -115,9 +115,16 @@ jobs:
 
           if [ -z "$SOURCES" ]; then
             echo "[relay] No sources updated today. Skipping relay."
+            echo "RELAY_STATUS=No sources had updates. Skipped." >> $GITHUB_ENV
           else
             echo "[relay] Relaying sources: $SOURCES"
-            node scripts/relay.js --sources "$SOURCES"
+            OUTPUT=$(node scripts/relay.js --sources "$SOURCES" 2>&1)
+            echo "$OUTPUT"
+            if echo "$OUTPUT" | grep -q "No changes detected across any source"; then
+              echo "RELAY_STATUS=Bit-for-bit identical to database. Skipped." >> $GITHUB_ENV
+            else
+              echo "RELAY_STATUS=Relayed changes to database PR successfully." >> $GITHUB_ENV
+            fi
           fi
 
       # --- CLEANUP & COMMIT PHASE ---
@@ -152,6 +159,10 @@ jobs:
           NOTES=""
           if [ "$NO_INTRO_SKIPPED" = "true" ]; then
             NOTES="\n\n**Warning:** No-Intro was skipped. Reason: \`${NO_INTRO_REASON}\`"
+          fi
+          
+          if [ -n "$RELAY_STATUS" ]; then
+            NOTES="${NOTES}\n\n**Relay Status:** ${RELAY_STATUS}"
           fi
           
           curl -s -H "Content-Type: application/json" -d "{
