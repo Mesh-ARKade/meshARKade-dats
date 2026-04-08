@@ -63,7 +63,8 @@ jobs:
       - name: Fetch No-Intro
         run: |
           node scripts/fetch/no-intro.js dats/no-intro
-          node scripts/extract.js dats/no-intro/daily.zip .
+          # Use wildcard to handle date-stamped filename
+          node scripts/extract.js dats/no-intro/*.zip .
           node scripts/validate.js output/no-intro
 
       - name: Fetch TOSEC
