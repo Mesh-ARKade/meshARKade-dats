@@ -18,8 +18,8 @@ name: Daily DAT Pipeline
 
 on:
   schedule:
-    # Run at 06:00 UTC every day
-    - cron: '0 6 * * *'
+    # Run at 09:00 UTC (4:00 AM CST/CDT) every day
+    - cron: '0 9 * * *'
   workflow_dispatch:
     # Allow manual triggers for testing
 
