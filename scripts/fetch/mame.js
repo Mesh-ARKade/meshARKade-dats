@@ -100,26 +100,10 @@ export async function fetchMame(outputDir, versionsPath) {
     }
   }
 
-  // 2. Find Software List DAT (tipo=dat_sl)
-  const slRegex = /href="(https:\/\/www\.progettosnaps\.net\/download\/\?tipo=dat_sl&amp;file=[^"]+SL_Dats_(\d+)\.zip)"/g;
-  let highestSl = -1;
-  let slUrl = null;
-
-  while ((match = slRegex.exec(html)) !== null) {
-    const versionNum = parseInt(match[2], 10);
-    if (versionNum > highestSl) {
-      highestSl = versionNum;
-      slUrl = match[1].replace(/&amp;/g, '&');
-    }
-  }
-
   const currentVersions = readVersions(versionsPath);
   const storedArcade = currentVersions.mame?.arcade;
-  const storedSl = currentVersions.mame?.sl;
 
   const newArcade = highestArcade.toString();
-  const newSl = highestSl.toString();
-
   const paths = [];
 
   if (arcadeUrl && storedArcade !== newArcade) {
@@ -129,17 +113,10 @@ export async function fetchMame(outputDir, versionsPath) {
     paths.push(dest);
   }
 
-  if (slUrl && storedSl !== newSl) {
-    console.log(`[mame] New Software List version: ${newSl}`);
-    const dest = path.join(outputDir, `SL_Dats_${newSl}.zip`);
-    await downloadFile(slUrl, dest);
-    paths.push(dest);
-  }
-
   if (paths.length === 0) {
     console.log('SKIP');
     writeVersions(versionsPath, currentVersions, {
-      ...currentVersions.mame,
+      arcade: storedArcade,
       lastChecked: new Date().toISOString(),
     });
     return null;
@@ -147,7 +124,6 @@ export async function fetchMame(outputDir, versionsPath) {
 
   writeVersions(versionsPath, currentVersions, {
     arcade: newArcade,
-    sl: newSl,
     lastChecked: new Date().toISOString(),
   });
 
