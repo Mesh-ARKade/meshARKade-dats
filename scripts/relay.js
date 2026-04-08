@@ -57,7 +57,7 @@ const TARGET_REPO = 'Mesh-ARKade/meshARKade-database';
  * @returns {string} The canonical name without metadata suffixes or extension.
  */
 function canonicalName(filename) {
-  let stem = filename.replace(/\.dat$/i, '');
+  let stem = filename.replace(/\.(dat|xml)$/i, '');
   const metadataGroup = /\s+\((?:TOSEC-v)?[\d][\d\s\-]*[_\w]*\)$/;
   let prev;
   do {
@@ -77,7 +77,8 @@ function buildCanonicalMap(dir) {
   const map = new Map();
   if (!fs.existsSync(dir)) return map;
   for (const f of fs.readdirSync(dir)) {
-    if (!f.toLowerCase().endsWith('.dat')) continue;
+    const ext = f.toLowerCase().split('.').pop();
+    if (ext !== 'dat' && ext !== 'xml') continue;
     map.set(canonicalName(f), f);
   }
   return map;
@@ -94,12 +95,16 @@ function buildCanonicalMap(dir) {
  */
 function findDatFiles(dir) {
   const results = [];
+  if (!fs.existsSync(dir)) return results;
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
       results.push(...findDatFiles(fullPath));
-    } else if (entry.name.toLowerCase().endsWith('.dat')) {
-      results.push({ name: entry.name, fullPath });
+    } else {
+      const ext = entry.name.toLowerCase().split('.').pop();
+      if (ext === 'dat' || ext === 'xml') {
+        results.push({ name: entry.name, fullPath });
+      }
     }
   }
   return results;
