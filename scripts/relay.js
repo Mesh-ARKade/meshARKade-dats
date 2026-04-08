@@ -31,6 +31,8 @@
 
 import fs from 'fs';
 import path from 'path';
+import crypto from 'crypto';
+import os from 'os';
 import { execSync } from 'child_process';
 
 /**
@@ -56,8 +58,12 @@ const TARGET_REPO = 'Mesh-ARKade/meshARKade-database';
  * @param {string} filename - The .dat filename (basename, not full path).
  * @returns {string} The canonical name without metadata suffixes or extension.
  */
+/**
+ * Get the canonical name of a DAT file.
+ * Strips extensions (.dat, .xml, .gz) and metadata groups like timestamps.
+ */
 function canonicalName(filename) {
-  let stem = filename.replace(/\.(dat|xml)$/i, '');
+  let stem = filename.replace(/\.(dat|xml)(\.gz)?$/i, '');
   const metadataGroup = /\s+\((?:TOSEC-v)?[\d][\d\s\-]*[_\w]*\)$/;
   let prev;
   do {
@@ -68,17 +74,13 @@ function canonicalName(filename) {
 }
 
 /**
- * Build a map of canonical name → full filename for all .dat files in a dir.
- *
- * @param {string} dir - Directory to scan.
- * @returns {Map<string, string>} Map of canonical name → filename.
+ * Build a map of canonical name → full filename for all .gz files in a dir.
  */
 function buildCanonicalMap(dir) {
   const map = new Map();
   if (!fs.existsSync(dir)) return map;
   for (const f of fs.readdirSync(dir)) {
-    const ext = f.toLowerCase().split('.').pop();
-    if (ext !== 'dat' && ext !== 'xml') continue;
+    if (!f.toLowerCase().endsWith('.gz')) continue;
     map.set(canonicalName(f), f);
   }
   return map;
@@ -141,13 +143,8 @@ function parseArgs(argv) {
 }
 
 /**
- * Sync DAT files for a single source into the target directory.
- * Uses canonical name diffing to detect new, updated, and removed DATs.
- *
- * @param {string} source - Source name (e.g., "no-intro").
- * @param {string} inputDir - Path to directory containing incoming .dat files.
- * @param {string} targetDir - Path to input/{source}/ in the cloned database repo.
- * @returns {{ added: number, updated: number, skipped: number, removed: number }}
+ * Sync DAT files from a source directory to the target repository.
+ * Compresses files using gzip to keep the target repo small.
  */
 function syncSource(source, inputDir, targetDir) {
   const datFiles = findDatFiles(inputDir);
@@ -161,34 +158,72 @@ function syncSource(source, inputDir, targetDir) {
 
   const existingMap = buildCanonicalMap(targetDir);
   const stats = { added: 0, updated: 0, skipped: 0, removed: 0 };
+  const incomingCanonicals = new Set();
 
   for (const { name: datFile, fullPath: srcPath } of datFiles) {
     const incoming = canonicalName(datFile);
-    const existing = existingMap.get(incoming);
+    incomingCanonicals.add(incoming);
+    const existingFilename = existingMap.get(incoming);
+    
+    // We append .gz to the filename in the target repo
+    const targetFilename = `${datFile}.gz`;
+    const targetPath = path.join(targetDir, targetFilename);
 
-    if (!existing) {
-      fs.copyFileSync(srcPath, path.join(targetDir, datFile));
-      console.log(`[relay]   + ${datFile} (new)`);
+    if (!existingFilename) {
+      // New file: compress and copy
+      console.log(`[relay]   + ${datFile} (new, compressing...)`);
+      execSync(`gzip -c "${srcPath}" > "${targetPath}"`);
       stats.added++;
-    } else if (existing === datFile) {
-      console.log(`[relay]   = ${datFile} (unchanged)`);
-      stats.skipped++;
     } else {
-      fs.rmSync(path.join(targetDir, existing));
-      fs.copyFileSync(srcPath, path.join(targetDir, datFile));
-      console.log(`[relay]   ~ ${datFile} (updated, replaced ${existing})`);
-      stats.updated++;
+      // Existing file: check if content changed
+      // We need to compare the raw content, not the gzipped one (to avoid header diffs)
+      const existingPath = path.join(targetDir, existingFilename);
+      
+      // Temporary decompression for comparison
+      const tempDecompressed = path.join(os.tmpdir(), `relay-tmp-${Math.random().toString(36).slice(2)}`);
+      try {
+          execSync(`gunzip -c "${existingPath}" > "${tempDecompressed}"`);
+          
+          const srcHash = crypto.createHash('sha256').update(fs.readFileSync(srcPath)).digest('hex');
+          const existingHash = crypto.createHash('sha256').update(fs.readFileSync(tempDecompressed)).digest('hex');
+          
+          if (srcHash !== existingHash) {
+            console.log(`[relay]   ~ ${datFile} (updated, re-compressing...)`);
+            // Remove old (might have had different extension before .gz normalization)
+            if (existingFilename !== targetFilename) {
+                fs.unlinkSync(existingPath);
+            }
+            execSync(`gzip -c "${srcPath}" > "${targetPath}"`);
+            stats.updated++;
+          } else {
+            // Unchanged
+            stats.skipped++;
+            // Ensure extension is .gz even if it was raw before
+            if (existingFilename !== targetFilename) {
+                console.log(`[relay]   ! ${datFile} (normalizing extension to .gz)`);
+                fs.unlinkSync(existingPath);
+                execSync(`gzip -c "${srcPath}" > "${targetPath}"`);
+            }
+          }
+      } catch (err) {
+          console.warn(`[relay] Warning: Failed to compare ${datFile}, assuming changed. Error: ${err.message}`);
+          fs.unlinkSync(existingPath);
+          execSync(`gzip -c "${srcPath}" > "${targetPath}"`);
+          stats.updated++;
+      } finally {
+          if (fs.existsSync(tempDecompressed)) fs.unlinkSync(tempDecompressed);
+      }
     }
-
-    existingMap.delete(incoming);
   }
 
-  // Remaining entries were in the database but not in today's download
-  for (const [, removedFile] of existingMap) {
-    fs.rmSync(path.join(targetDir, removedFile));
-    console.log(`[relay]   - ${removedFile} (removed upstream)`);
+  // Remove files that no longer exist in the source
+  for (const [canonical, filename] of existingMap.entries()) {
+    if (!incomingCanonicals.has(canonical)) {
+      console.log(`[relay]   - ${filename} (removed upstream)`);
+      fs.unlinkSync(path.join(targetDir, filename));
+      stats.removed++;
+    }
   }
-  stats.removed = existingMap.size;
 
   console.log(`[relay] ${source}: +${stats.added} new, ~${stats.updated} updated, =${stats.skipped} unchanged, -${stats.removed} removed`);
   return stats;
