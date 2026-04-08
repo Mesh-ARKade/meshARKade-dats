@@ -44,6 +44,21 @@ jobs:
       - name: Checkout meshARKade-dats
         uses: actions/checkout@v4
 
+      - name: Discord notification (started)
+        if: env.DISCORD_WEBHOOK_URL != ''
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          echo "START_TIME=$(date +%s)" >> "$GITHUB_ENV"
+          RUN_URL="https://github.com/Mesh-ARKade/meshARKade-dats/actions/runs/${{ github.run_id }}"
+          curl -s -H "Content-Type: application/json" -d "{
+            \"embeds\": [{
+              \"title\": \"DAT Fetch Started\",
+              \"description\": \"Pipeline: Daily Fetch · Force JavaScript Node 24\n[View run](${RUN_URL})\",
+              \"color\": 16776960
+            }]
+          }" "$DISCORD_WEBHOOK_URL"
+
       - name: Set up Node.js 22
         uses: actions/setup-node@v4
         with:
@@ -60,15 +75,23 @@ jobs:
 
       # --- FETCH PHASE ---
 
+      - name: Initialize statuses
+        run: |
+          echo "STATUS_NOINTRO=Skipped (Up to date)" >> $GITHUB_ENV
+          echo "STATUS_TOSEC=Skipped (Up to date)" >> $GITHUB_ENV
+          echo "STATUS_REDUMP=Skipped (Up to date)" >> $GITHUB_ENV
+          echo "STATUS_MAME=Skipped (Up to date)" >> $GITHUB_ENV
+
       - name: Fetch No-Intro
         run: |
           OUTPUT=$(node scripts/fetch/no-intro.js dats/no-intro 2>&1)
           echo "$OUTPUT"
           if [[ "$OUTPUT" != *"SKIP"* ]]; then
-            # Use wildcard to handle date-stamped filename
+            echo "STATUS_NOINTRO=Fetched" >> "$GITHUB_ENV"
             node scripts/extract.js dats/no-intro/*.zip .
             node scripts/validate.js output/no-intro
           else
+            echo "STATUS_NOINTRO=Skipped (Warning/Error)" >> "$GITHUB_ENV"
             echo "NO_INTRO_SKIPPED=true" >> "$GITHUB_ENV"
             echo "NO_INTRO_REASON=$(echo \"$OUTPUT\" | grep -o 'SKIP: .*' | head -1 || echo 'SKIP: Unknown error')" >> "$GITHUB_ENV"
           fi
@@ -78,6 +101,7 @@ jobs:
           OUTPUT=$(node scripts/fetch/tosec.js dats/tosec versions.json 2>&1)
           echo "$OUTPUT"
           if [[ "$OUTPUT" != *"SKIP"* ]]; then
+            echo "STATUS_TOSEC=Fetched" >> "$GITHUB_ENV"
             node scripts/extract.js dats/tosec/*.zip .
             node scripts/validate.js output/tosec
           fi
@@ -87,6 +111,7 @@ jobs:
           OUTPUT=$(node scripts/fetch/redump.js output/redump versions.json 2>&1)
           echo "$OUTPUT"
           if [[ "$OUTPUT" != *"SKIP"* ]]; then
+            echo "STATUS_REDUMP=Fetched" >> "$GITHUB_ENV"
             node scripts/validate.js output/redump
           fi
 
@@ -95,6 +120,7 @@ jobs:
           OUTPUT=$(node scripts/fetch/mame.js dats/mame versions.json 2>&1)
           echo "$OUTPUT"
           if [[ "$OUTPUT" != *"SKIP"* ]]; then
+            echo "STATUS_MAME=Fetched" >> "$GITHUB_ENV"
             for arch in dats/mame/*; do
               [ -f "$arch" ] && node scripts/extract.js "$arch" .
             done
@@ -154,7 +180,15 @@ jobs:
           SUMMARY="${SUMMARY}- TOSEC: ${STATUS_TOSEC}\n"
           SUMMARY="${SUMMARY}- Redump: ${STATUS_REDUMP}\n"
           SUMMARY="${SUMMARY}- MAME: ${STATUS_MAME}\n"
-          SUMMARY="${SUMMARY}\n**Relay Status:** ${RELAY_STATUS:-Unknown}"
+          
+          # Compute duration
+          NOW=$(date +%s)
+          DIFF=$((NOW - START_TIME))
+          MINS=$((DIFF / 60))
+          SECS=$((DIFF % 60))
+          DURATION="${MINS}m ${SECS}s"
+
+          SUMMARY="${SUMMARY}\n**Relay Status:** ${RELAY_STATUS:-Unknown}\n**Total Time:** ${DURATION}"
 
           if [ "$NO_INTRO_SKIPPED" = "true" ]; then
             SUMMARY="${SUMMARY}\n\n**⚠ No-Intro Warning:** \`${NO_INTRO_REASON}\`"
