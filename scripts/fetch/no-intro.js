@@ -114,8 +114,7 @@ export async function fetchNoIntro(outputDir) {
       // Verify the checkbox exists on the page — if Dat-o-Matic changes their
       // form structure, we want to know about it rather than silently skipping.
       if ((await checkbox.count()) === 0) {
-        console.warn(`[no-intro]   WARNING: Checkbox "${name}" not found on page!`);
-        continue;
+        throw new Error(`Checkbox "${name}" not found on page! Form structure changed.`);
       }
 
       const isChecked = await checkbox.isChecked();
@@ -174,7 +173,7 @@ if (isDirectRun) {
       console.log(`[no-intro] Done. Archive at: ${zipPath}`);
     })
     .catch((err) => {
-      console.error(`[no-intro] Failed: ${err.message}`);
-      process.exit(1);
+      console.log(`[no-intro] SKIP: ${err.message}`);
+      process.exit(0);
     });
 }

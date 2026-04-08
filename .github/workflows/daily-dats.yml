@@ -62,10 +62,16 @@ jobs:
 
       - name: Fetch No-Intro
         run: |
-          node scripts/fetch/no-intro.js dats/no-intro
-          # Use wildcard to handle date-stamped filename
-          node scripts/extract.js dats/no-intro/*.zip .
-          node scripts/validate.js output/no-intro
+          OUTPUT=$(node scripts/fetch/no-intro.js dats/no-intro 2>&1)
+          echo "$OUTPUT"
+          if [[ "$OUTPUT" != *"SKIP"* ]]; then
+            # Use wildcard to handle date-stamped filename
+            node scripts/extract.js dats/no-intro/*.zip .
+            node scripts/validate.js output/no-intro
+          else
+            echo "NO_INTRO_SKIPPED=true" >> "$GITHUB_ENV"
+            echo "NO_INTRO_REASON=$(echo \"$OUTPUT\" | grep -o 'SKIP: .*' | head -1 || echo 'SKIP: Unknown error')" >> "$GITHUB_ENV"
+          fi
 
       - name: Fetch TOSEC
         run: |
@@ -142,10 +148,16 @@ jobs:
           [ -d output/redump ] && FETCHED="${FETCHED}redump "
           [ -d output/mame ] && FETCHED="${FETCHED}mame "
           FETCHED="${FETCHED:-none}"
+          
+          NOTES=""
+          if [ "$NO_INTRO_SKIPPED" = "true" ]; then
+            NOTES="\n\n**Warning:** No-Intro was skipped. Reason: \`${NO_INTRO_REASON}\`"
+          fi
+          
           curl -s -H "Content-Type: application/json" -d "{
             \"embeds\": [{
               \"title\": \"DAT Fetch Complete\",
-              \"description\": \"Sources processed: ${FETCHED}\",
+              \"description\": \"Sources processed: ${FETCHED}${NOTES}\",
               \"color\": 3066993,
               \"url\": \"https://github.com/Mesh-ARKade/meshARKade-dats/actions/runs/${{ github.run_id }}\"
             }]
